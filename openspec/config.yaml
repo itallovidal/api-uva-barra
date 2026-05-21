@@ -43,6 +43,7 @@ context: |
   - ErrorCode is a string literal union: VALIDATION_ERROR, NOT_FOUND, UNAUTHORIZED, FORBIDDEN, INTERNAL_ERROR, CONFLICT
   - Use zod schemas in src/validation/ for all input validation
   - Files: kebab-case.ts
+  - Functions: named functions (`function name() {}`) for all module-level, method-level, and route handler definitions. Arrow functions ONLY for inline callbacks (`.map`, `.filter`, `.forEach`, `.then`, `.catch`)
   - Path alias: @/ maps to src/
 
   ## Import Direction

@@ -173,6 +173,46 @@ All API responses **MUST** use the `ResponsePayload` envelope:
 - Repository interfaces: `<name>.ts` (e.g., `user.ts` exports `UserRepository`)
 - Repository implementations: `repository/<provider>/<name>.ts`
 
+### Function Style Convention
+
+**Always prefer named functions over arrow functions.** This improves debuggability (clear function names in stack traces), enables function hoisting, and makes the codebase more self-documenting.
+
+**Use named functions for:**
+- Module-level function definitions: `function name() {}` or `export function name() {}`
+- Exported functions: `export async function name() {}`
+- Route handlers: define as named functions, pass by reference
+- Object methods: use method shorthand `methodName() {}`
+
+**Arrow functions are ONLY allowed for inline callbacks:**
+- Array methods: `.map()`, `.filter()`, `.forEach()`, `.reduce()`, `.find()`, `.some()`, `.every()`
+- Promise chains: `.then()`, `.catch()`, `.finally()`
+- Inline event handler callbacks
+
+**Examples:**
+
+```ts
+// GOOD — named function
+export async function healthcheckHandler(): Promise<ResponsePayload> {
+  return { status: 200, data: { status: "ok" } };
+}
+
+// GOOD — method shorthand in object
+return {
+  async findById(id: string) { ... },
+  async findAll() { ... },
+};
+
+// BAD — arrow function assigned to variable
+export const healthcheckHandler = async (): Promise<ResponsePayload> => {
+  return { status: 200, data: { status: "ok" } };
+};
+
+// GOOD — arrow function in inline callback (allowed)
+const names = users.map(user => user.name);
+```
+
+This convention is enforced by ESLint via the `no-restricted-syntax` rule in `eslint.config.js`.
+
 ### Path Aliases
 
 All imports use `@/` alias mapping to `src/`:

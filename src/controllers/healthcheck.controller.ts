@@ -8,18 +8,20 @@ interface HealthData {
   timestamp: string;
 }
 
+async function healthcheckHandler(): Promise<ResponsePayload<HealthData>> {
+  return {
+    status: 200,
+    data: {
+      status: "ok",
+      uptime: getUptimeInSeconds(),
+      timestamp: getISOTimestamp(),
+    },
+  };
+}
+
 export async function healthcheckController(
   app: FastifyInstance,
   _deps: Record<string, never>,
 ): Promise<void> {
-  app.get("/health", async (): Promise<ResponsePayload<HealthData>> => {
-    return {
-      status: 200,
-      data: {
-        status: "ok",
-        uptime: getUptimeInSeconds(),
-        timestamp: getISOTimestamp(),
-      },
-    };
-  });
+  app.get("/health", healthcheckHandler);
 }
