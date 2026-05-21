@@ -1,20 +1,52 @@
 schema: spec-driven
 
-# Project context (optional)
-# This is shown to AI when creating artifacts.
-# Add your tech stack, conventions, style guides, domain knowledge, etc.
-# Example:
-#   context: |
-#     Tech stack: TypeScript, React, Node.js
-#     We use conventional commits
-#     Domain: e-commerce platform
+context: |
+  Tech stack: Fastify, TypeScript, Zod, tsx
 
-# Per-artifact rules (optional)
-# Add custom rules for specific artifacts.
-# Example:
-#   rules:
-#     proposal:
-#       - Keep proposals under 500 words
-#       - Always include a "Non-goals" section
-#     tasks:
-#       - Break tasks into chunks of max 2 hours
+  ## Directory Structure
+  src/
+  ├── app.ts                          # Fastify app factory + composition root
+  ├── server.ts                       # Entry point: env validation + startup
+  ├── controllers/
+  │   ├── routes.ts                   # Central route registration
+  │   └── <name>.controller.ts        # Feature controllers
+  ├── services/
+  │   └── <name>.service.ts           # Feature business logic (factory functions)
+  ├── repository/
+  │   ├── <name>.ts                   # Repository interface
+  │   └── in-memory/
+  │       └── <name>.ts               # In-memory implementation (guide)
+  ├── types/
+  │   └── <name>.ts                   # Domain type definitions
+  ├── validation/
+  │   ├── env.ts                      # Environment variable validation
+  │   └── <name>.ts                   # Zod validation schemas
+  ├── shared/
+  │   ├── types/                      # ResponsePayload, AppError, Meta, ErrorCode
+  │   ├── errors/                     # Custom error classes
+  │   ├── constants/                  # Application constants
+  │   ├── utils/                      # Utility functions
+  │   └── middlewares/                # Fastify middlewares
+  ├── docs/
+  └── tests/
+
+  ## Architecture Rules
+  - Layered: controllers → services → repository interfaces
+  - Controllers MUST NOT import services or repositories directly
+  - Controllers receive (app: FastifyInstance, deps: AppServices)
+  - If a controller needs no deps, use _deps: Record<string, never>
+  - app.ts is the composition root: wires repos → services → routes
+  - No DI container libraries — manual factory-based wiring only
+  - Services are factory functions: createService(repo) → service object
+  - Repository interfaces in repository/<name>.ts, implementations in repository/<provider>/<name>.ts
+  - All API responses MUST use ResponsePayload envelope: { status, data?, error?, meta? }
+  - ErrorCode is a string literal union: VALIDATION_ERROR, NOT_FOUND, UNAUTHORIZED, FORBIDDEN, INTERNAL_ERROR, CONFLICT
+  - Use zod schemas in src/validation/ for all input validation
+  - Files: kebab-case.ts
+  - Path alias: @/ maps to src/
+
+  ## Import Direction
+  - Controllers only import from @/shared/ and @/validation/
+  - Services receive repository interfaces via factory params, never import implementations
+  - Repository implementations import their own interfaces, never the reverse
+  - Shared modules never import from domain layers
