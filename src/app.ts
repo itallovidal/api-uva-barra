@@ -1,11 +1,10 @@
 import Fastify from "fastify";
 import { registerRoutes } from "@/controllers/routes";
-
-// TODO: implement this!
-import { createUserService } from "@/services/user.service";
+import { createCategoryInMemoryRepository } from "@/repository/in-memory/category";
+import { createCategoryService } from "@/services/category.service";
 
 export type AppServices = {
-  // userService: ReturnType<typeof createUserService>;
+  categoryService: ReturnType<typeof createCategoryService>;
 };
 
 export async function createApp() {
@@ -13,13 +12,12 @@ export async function createApp() {
     logger: true,
   });
 
-  // Repositories
-  // const userRepo = createUserInMemoryRepository();
+  const categoryRepo = createCategoryInMemoryRepository();
+  const categoryService = createCategoryService(categoryRepo);
 
-  // Services
-  // const userService = createUserService(userRepo);
-
-  const services: AppServices = {};
+  const services: AppServices = {
+    categoryService,
+  };
 
   await registerRoutes(app, services);
 
