@@ -1,4 +1,5 @@
-import type { Category, CreateCategoryRequest, UpdateCategoryRequest } from "@/types/category";
+import type { Category } from "@/types/entities";
+import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/dto";
 import type { CategoryRepository } from "@/repository/category";
 
 export function createCategoryInMemoryRepository(): CategoryRepository {
@@ -13,7 +14,7 @@ export function createCategoryInMemoryRepository(): CategoryRepository {
       return Array.from(store.values());
     },
 
-    async create(input: CreateCategoryRequest): Promise<Category> {
+    async create(input: CreateCategoryRequestDTO): Promise<Category> {
       const now = new Date();
       const category: Category = {
         id: crypto.randomUUID(),
@@ -26,7 +27,7 @@ export function createCategoryInMemoryRepository(): CategoryRepository {
       return category;
     },
 
-    async update(id: string, input: UpdateCategoryRequest): Promise<Category | null> {
+    async update(id: string, input: UpdateCategoryRequestDTO): Promise<Category | null> {
       const existing = store.get(id);
       if (!existing) return null;
 

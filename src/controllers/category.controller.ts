@@ -1,14 +1,14 @@
 import type { FastifyInstance } from "fastify";
 import type { ResponsePayload, AppError } from "@/shared/types";
 import type { CategoryService } from "@/services/category.service";
-import type { CreateCategoryRequest, UpdateCategoryRequest } from "@/types/category";
+import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/dto";
 
 export async function categoryController(
   app: FastifyInstance,
   deps: { categoryService: CategoryService },
 ): Promise<void> {
   async function createCategoryHandler(
-    request: { body: CreateCategoryRequest },
+    request: { body: CreateCategoryRequestDTO },
     reply: { code: (status: number) => void },
   ): Promise<ResponsePayload> {
     const category = await deps.categoryService.create(request.body);
@@ -47,7 +47,7 @@ export async function categoryController(
   }
 
   async function updateCategoryHandler(
-    request: { params: { id: string }; body: UpdateCategoryRequest },
+    request: { params: { id: string }; body: UpdateCategoryRequestDTO },
     reply: { code: (status: number) => void },
   ): Promise<ResponsePayload> {
     try {
@@ -82,7 +82,7 @@ export async function categoryController(
     }
   }
 
-  app.post<{ Body: CreateCategoryRequest }>(
+  app.post<{ Body: CreateCategoryRequestDTO }>(
     "/categories",
     createCategoryHandler,
   );
@@ -94,7 +94,7 @@ export async function categoryController(
     findCategoryByIdHandler,
   );
 
-  app.put<{ Params: { id: string }; Body: UpdateCategoryRequest }>(
+  app.put<{ Params: { id: string }; Body: UpdateCategoryRequestDTO }>(
     "/categories/:id",
     updateCategoryHandler,
   );

@@ -1,4 +1,5 @@
-import type { Category, CreateCategoryRequest, UpdateCategoryRequest } from "@/types/category";
+import type { Category } from "@/types/entities";
+import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/dto";
 import type { CategoryRepository } from "@/repository/category";
 import type { AppError } from "@/shared/types";
 
@@ -6,7 +7,7 @@ export type CategoryService = ReturnType<typeof createCategoryService>;
 
 export function createCategoryService(categoryRepo: CategoryRepository) {
   return {
-    async create(input: CreateCategoryRequest): Promise<Category> {
+    async create(input: CreateCategoryRequestDTO): Promise<Category> {
       return categoryRepo.create(input);
     },
 
@@ -26,7 +27,7 @@ export function createCategoryService(categoryRepo: CategoryRepository) {
       return category;
     },
 
-    async update(id: string, input: UpdateCategoryRequest): Promise<Category> {
+    async update(id: string, input: UpdateCategoryRequestDTO): Promise<Category> {
       const category = await categoryRepo.update(id, input);
       if (!category) {
         const error: AppError = {
