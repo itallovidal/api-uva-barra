@@ -1,4 +1,8 @@
-import type { NewsStatusType, UserProfessionType, UserRoleType } from './entities';
+import type {
+  NewsStatusType,
+  UserProfessionType,
+  UserRoleType,
+} from "./entities";
 
 export interface CreateCategoryRequestDTO {
   name: string;
@@ -27,7 +31,6 @@ export interface UserRequestDTO {
   email: string;
   password: string;
   profession: UserProfessionType;
-  role?: UserRoleType;
   bio?: string | null;
 }
 
