@@ -1,0 +1,14 @@
+change: user-controller-spec
+title: Spec do controller de usuário (registro de solicitações e aprovação)
+owner: itallo
+created: 2026-05-31
+apply:
+  requires:
+    - tasks
+artifacts:
+  - id: proposal
+    type: proposal
+  - id: design
+    type: design
+  - id: tasks
+    type: tasks
