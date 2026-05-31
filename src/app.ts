@@ -1,6 +1,7 @@
 import Fastify from "fastify";
 import { registerRoutes } from "@/controllers/routes";
 import { createCategoryInMemoryRepository } from "@/repository/in-memory/category";
+import { RegistrationRequestInMemoryRepositoryFactory } from "@/repository/in-memory/registration-request";
 import { createCategoryService } from "@/services/category.service";
 import { UserInMemoryRepositoryFactory } from "./repository/in-memory/user";
 import { UserServiceFactory } from "./services/user.service";
@@ -21,7 +22,9 @@ export async function createApp() {
 
   // user dependencies
   const userRepo = UserInMemoryRepositoryFactory();
-  const userService = UserServiceFactory(userRepo);
+  const registrationRequestRepo =
+    RegistrationRequestInMemoryRepositoryFactory();
+  const userService = UserServiceFactory(userRepo, registrationRequestRepo);
 
   const services: AppServices = {
     categoryService,
