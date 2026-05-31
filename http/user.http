@@ -1,5 +1,5 @@
-### Registro de usuário — exemplo completo
-POST http://localhost:3000/user/register
+### Criar solicitação de registro
+POST http://localhost:3000/user/registration/
 Content-Type: application/json
 
 {
@@ -8,5 +8,24 @@ Content-Type: application/json
   "password": "p123456",
   "profession": "DESENVOLVEDOR",
   "bio": "Backend developer"
+}
+
+### Listar solicitações de registro (admin)
+GET http://localhost:3000/user/registration/requests?status=PENDING&page=1&perPage=10
+Content-Type: application/json
+admin-id: admin-uuid-here
+
+### Aprovar solicitação de registro (admin)
+POST http://localhost:3000/user/registration/:id/approve
+Content-Type: application/json
+admin-id: admin-uuid-here
+
+### Rejeitar solicitação de registro (admin)
+POST http://localhost:3000/user/registration/:id/reject
+Content-Type: application/json
+admin-id: admin-uuid-here
+
+{
+  "reason": "Perfil não atende aos requisitos"
 }
 
