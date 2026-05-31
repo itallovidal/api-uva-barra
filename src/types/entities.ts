@@ -25,10 +25,18 @@ export const UserStatus = {
   PENDING: "pending",
 } as const;
 
+export const RegistrationRequestStatus = {
+  PENDING: "PENDING",
+  APPROVED: "APPROVED",
+  REJECTED: "REJECTED",
+} as const;
+
 export type UserRoleType = (typeof UserRole)[keyof typeof UserRole];
 export type UserProfessionType = keyof typeof UserProfession;
 export type NewsStatusType = (typeof NewsStatus)[keyof typeof NewsStatus];
 export type UserStatusType = (typeof UserStatus)[keyof typeof UserStatus];
+export type RegistrationRequestStatusType =
+  (typeof RegistrationRequestStatus)[keyof typeof RegistrationRequestStatus];
 
 export interface User {
   id: string;
@@ -40,6 +48,21 @@ export interface User {
   profession: UserProfessionType;
   bio?: string | null;
   status: UserStatusType;
+  createdAt: Date;
+  updatedAt: Date;
+}
+
+export interface RegistrationRequest {
+  id: string;
+  name: string;
+  email: string;
+  passwordHash: string;
+  profession: UserProfessionType;
+  bio: string | null;
+  status: RegistrationRequestStatusType;
+  reviewedBy: string | null;
+  reviewedAt: Date | null;
+  rejectionReason: string | null;
   createdAt: Date;
   updatedAt: Date;
 }
