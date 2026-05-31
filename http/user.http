@@ -1,0 +1,12 @@
+### Registro de usuário — exemplo completo
+POST http://localhost:3000/user/register
+Content-Type: application/json
+
+{
+  "name": "example-name",
+  "email": "name@example.com",
+  "password": "p123456",
+  "profession": "DESENVOLVEDOR",
+  "bio": "Backend developer"
+}
+
