@@ -1,0 +1,14 @@
+change: restructure-registration-endpoints
+title: Restruturar endpoints de registro para prefixo /registration/
+owner: itallo
+created: 2026-05-31
+apply:
+  requires:
+    - tasks
+artifacts:
+  - id: proposal
+    type: proposal
+  - id: design
+    type: design
+  - id: tasks
+    type: tasks
