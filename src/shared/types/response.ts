@@ -15,6 +15,19 @@ export const API_ERROR_CODES = {
   },
 } as const;
 
+export type ErrorCode =
+  | "VALIDATION_ERROR"
+  | "NOT_FOUND"
+  | "UNAUTHORIZED"
+  | "FORBIDDEN"
+  | "INTERNAL_ERROR"
+  | "CONFLICT";
+
+export interface AppError {
+  message: string;
+  code: ErrorCode;
+}
+
 export interface ErrorPayload {
   message: string;
   code: string;
@@ -27,9 +40,11 @@ export interface MetaApiPayload {
   totalPages: number;
 }
 
-export interface ResponsePayload<T> {
+export type Meta = MetaApiPayload;
+
+export interface ResponsePayload<T = unknown> {
   status: number;
-  data: T;
+  data?: T;
   error?: ErrorPayload;
   meta?: MetaApiPayload;
 }

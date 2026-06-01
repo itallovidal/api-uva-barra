@@ -1,7 +1,8 @@
 import type { FastifyInstance } from "fastify";
 import type { ResponsePayload, AppError } from "@/shared/types";
 import type { CategoryService } from "@/services/category.service";
-import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/category/dtos";
+import type { CreateCategoryRequestDTO } from "@/types/category/dtos";
+import { categoryParamsSchema, createCategorySchema } from "@/validation/category";
 
 export async function categoryController(
   app: FastifyInstance,
@@ -11,12 +12,22 @@ export async function categoryController(
     request: { body: CreateCategoryRequestDTO },
     reply: { code: (status: number) => void },
   ): Promise<ResponsePayload> {
-    const category = await deps.categoryService.create(request.body);
+    const parsed = createCategorySchema.safeParse(request.body);
+    if (!parsed.success) {
+      reply.code(400);
+      return {
+        status: 400,
+        data: null,
+        error: {
+          message: "Dados inválidos",
+          code: "VALIDATION_ERROR",
+        },
+      };
+    }
+
+    const category = await deps.categoryService.create(parsed.data);
     reply.code(201);
-    return {
-      status: 201,
-      data: category,
-    };
+    return { status: 201, data: category };
   }
 
   async function findAllCategoriesHandler(): Promise<ResponsePayload> {
@@ -27,50 +38,25 @@ export async function categoryController(
     };
   }
 
-  async function findCategoryByIdHandler(
-    request: { params: { id: string } },
-    reply: { code: (status: number) => void },
-  ): Promise<ResponsePayload> {
-    try {
-      const category = await deps.categoryService.findById(request.params.id);
-      return {
-        status: 200,
-        data: category,
-      };
-    } catch (error: unknown) {
-      reply.code(404);
-      return {
-        status: 404,
-        error: error as AppError,
-      };
-    }
-  }
-
-  async function updateCategoryHandler(
-    request: { params: { id: string }; body: UpdateCategoryRequestDTO },
-    reply: { code: (status: number) => void },
-  ): Promise<ResponsePayload> {
-    try {
-      const category = await deps.categoryService.update(request.params.id, request.body);
-      return {
-        status: 200,
-        data: category,
-      };
-    } catch (error: unknown) {
-      reply.code(404);
-      return {
-        status: 404,
-        error: error as AppError,
-      };
-    }
-  }
-
   async function deleteCategoryHandler(
     request: { params: { id: string } },
     reply: { code: (status: number) => void },
   ): Promise<ResponsePayload> {
+    const parsed = categoryParamsSchema.safeParse(request.params);
+    if (!parsed.success) {
+      reply.code(400);
+      return {
+        status: 400,
+        data: null,
+        error: {
+          message: "ID inválido",
+          code: "VALIDATION_ERROR",
+        },
+      };
+    }
+
     try {
-      await deps.categoryService.delete(request.params.id);
+      await deps.categoryService.delete(parsed.data.id);
       reply.code(204);
       return { status: 204 };
     } catch (error: unknown) {
@@ -88,16 +74,6 @@ export async function categoryController(
   );
 
   app.get("/categories", findAllCategoriesHandler);
-
-  app.get<{ Params: { id: string } }>(
-    "/categories/:id",
-    findCategoryByIdHandler,
-  );
-
-  app.put<{ Params: { id: string }; Body: UpdateCategoryRequestDTO }>(
-    "/categories/:id",
-    updateCategoryHandler,
-  );
 
   app.delete<{ Params: { id: string } }>(
     "/categories/:id",

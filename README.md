@@ -46,6 +46,16 @@ Siga o padrão Conventional Commits. Iremos verificar as mudanças e em breve el
 
 ---
 
+## Categories
+
+Categories are intentionally minimal in this codebase:
+
+- `POST /categories` creates a category with `name`
+- `GET /categories` lists all categories
+- `DELETE /categories/:id` deletes a category by id
+
+---
+
 ## Links
 
 - Site atual: agenciauvabarra.com

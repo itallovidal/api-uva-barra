@@ -1,5 +1,5 @@
 import type { Category } from "@/types/category/entities";
-import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/category/dtos";
+import type { CreateCategoryRequestDTO } from "@/types/category/dtos";
 import type { CategoryRepository } from "@/repository/category";
 import type { AppError } from "@/shared/types";
 
@@ -13,30 +13,6 @@ export function createCategoryService(categoryRepo: CategoryRepository) {
 
     async findAll(): Promise<Category[]> {
       return categoryRepo.findAll();
-    },
-
-    async findById(id: string): Promise<Category> {
-      const category = await categoryRepo.findById(id);
-      if (!category) {
-        const error: AppError = {
-          message: "Category not found",
-          code: "NOT_FOUND",
-        };
-        throw error;
-      }
-      return category;
-    },
-
-    async update(id: string, input: UpdateCategoryRequestDTO): Promise<Category> {
-      const category = await categoryRepo.update(id, input);
-      if (!category) {
-        const error: AppError = {
-          message: "Category not found",
-          code: "NOT_FOUND",
-        };
-        throw error;
-      }
-      return category;
     },
 
     async delete(id: string): Promise<boolean> {
