@@ -1,11 +1,12 @@
 import { UserService } from "@/services/user.service";
-import { adminMiddleware } from "@/shared/middlewares";
+import { authMiddleware } from "@/shared/middlewares/auth-middleware";
 import { ResponsePayload } from "@/shared/types";
 import { API_ERROR_CODES } from "@/shared/types/response";
 import { CreateUserDTO } from "@/types/user/dtos";
 import { User } from "@/types/user/entities";
 import {
   createUserSchema,
+  loginSchema,
   updateUserSchema,
   userParamsSchema,
 } from "@/validation/user";
@@ -292,6 +293,73 @@ export async function userController(
     }
   }
 
+  async function loginHandler(
+    request: FastifyRequest,
+    reply: FastifyReply,
+  ) {
+    const { success, data, error } = loginSchema.safeParse(request.body);
+
+    if (!success) {
+      reply.code(400);
+
+      const payloadResponse: ResponsePayload<null> = {
+        status: 400,
+        error: {
+          message: "Dados inválidos, verifique e envie novamente.",
+          code: API_ERROR_CODES.Api.InvalidPayloadError,
+        },
+        data: null,
+      };
+
+      return payloadResponse;
+    }
+
+    try {
+      const result = await deps.userService.login(data.email, data.password);
+      reply.code(200);
+
+      const responsePayload: ResponsePayload<typeof result> = {
+        status: 200,
+        data: result,
+      };
+
+      return responsePayload;
+    } catch (error: Error | any) {
+      console.error("Error in loginHandler:", error);
+
+      if (error instanceof Error) {
+        const cause = error.cause as {
+          code: string;
+          message: string;
+          status: number;
+        };
+
+        reply.code(cause.status);
+
+        const payloadResponse: ResponsePayload<null> = {
+          status: cause.status,
+          error: {
+            message: cause.message,
+            code: cause.code,
+          },
+          data: null,
+        };
+
+        return payloadResponse;
+      }
+
+      reply.code(500);
+      return {
+        status: 500,
+        error: {
+          message: "Algo de errado aconteceu, tente novamente mais tarde.",
+          code: API_ERROR_CODES.Api.UnknownError,
+        },
+        data: null,
+      };
+    }
+  }
+
   async function deleteUserHandler(
     request: FastifyRequest,
     reply: FastifyReply,
@@ -354,29 +422,30 @@ export async function userController(
     }
   }
 
+  app.post("/user/login", loginHandler);
   app.post(
     "/user/",
-    { preHandler: [adminMiddleware] },
+    { preHandler: [authMiddleware] },
     createUserHandler,
   );
   app.get(
     "/user/:id",
-    { preHandler: [adminMiddleware] },
+    { preHandler: [authMiddleware] },
     getUserByIdHandler,
   );
   app.get(
     "/user/email/:email",
-    { preHandler: [adminMiddleware] },
+    { preHandler: [authMiddleware] },
     getUserByEmailHandler,
   );
   app.put(
     "/user/:id",
-    { preHandler: [adminMiddleware] },
+    { preHandler: [authMiddleware] },
     updateUserHandler,
   );
   app.delete(
     "/user/:id",
-    { preHandler: [adminMiddleware] },
+    { preHandler: [authMiddleware] },
     deleteUserHandler,
   );
 }

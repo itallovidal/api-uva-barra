@@ -2,7 +2,8 @@ import type { UserRepository } from "@/repository/user";
 import { API_ERROR_CODES } from "@/shared/types/response";
 import { CreateUserDTO } from "@/types/user/dtos";
 import { User, UserRole, UserStatus } from "@/types/user/entities";
-import { hashPassword } from "@/utils/password-handler";
+import { hashPassword, verifyPassword } from "@/utils/password-handler";
+import { generateToken } from "@/utils/jwt-handler";
 import { v4 as uuidv4 } from "uuid";
 
 export type UserService = ReturnType<typeof UserServiceFactory>;
@@ -38,6 +39,40 @@ export function UserServiceFactory(userRepo: UserRepository) {
       };
 
       return await userRepo.create(user);
+    },
+
+    async login(email: string, password: string) {
+      const user = await userRepo.findByEmail(email);
+      if (!user) {
+        throw new Error("Invalid credentials", {
+          cause: {
+            code: API_ERROR_CODES.User.InvalidCredentials,
+            message: "Email ou senha inválidos.",
+            status: 401,
+          },
+        });
+      }
+
+      const isPasswordValid = await verifyPassword(password, user.password);
+      if (!isPasswordValid) {
+        throw new Error("Invalid credentials", {
+          cause: {
+            code: API_ERROR_CODES.User.InvalidCredentials,
+            message: "Email ou senha inválidos.",
+            status: 401,
+          },
+        });
+      }
+
+      const accessToken = generateToken({
+        sub: user.id,
+        email: user.email,
+        role: user.role,
+      });
+
+      const { password: _, ...userWithoutPassword } = user;
+
+      return { accessToken, user: userWithoutPassword };
     },
 
     async getUserById(id: string) {

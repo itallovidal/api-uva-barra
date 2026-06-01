@@ -1,5 +1,5 @@
 import { RegistrationService } from "@/services/registration.service";
-import { adminMiddleware } from "@/shared/middlewares";
+import { authMiddleware } from "@/shared/middlewares/auth-middleware";
 import { ResponsePayload } from "@/shared/types";
 import { API_ERROR_CODES } from "@/shared/types/response";
 import { RegistrationRequestDTO } from "@/types/registration/dtos";
@@ -167,7 +167,7 @@ export async function registrationController(
     try {
       const result = await deps.registrationService.approveRegistrationRequest(
         paramsResult.data.id,
-        request.headers["admin-id"] as string,
+        request.user?.sub as string,
       );
 
       reply.code(200);
@@ -261,7 +261,7 @@ export async function registrationController(
       const updatedRequest =
         await deps.registrationService.rejectRegistrationRequest(
           paramsResult.data.id,
-          request.headers["admin-id"] as string,
+          request.user?.sub as string,
           bodyResult.data.reason ?? undefined,
         );
 
@@ -312,17 +312,17 @@ export async function registrationController(
   app.post("/registration/", createRegistrationHandler);
   app.get(
     "/registration/requests",
-    { preHandler: [adminMiddleware] },
+    { preHandler: [authMiddleware] },
     listRegistrationRequestsHandler,
   );
   app.post(
     "/registration/:id/approve",
-    { preHandler: [adminMiddleware] },
+    { preHandler: [authMiddleware] },
     approveRegistrationHandler,
   );
   app.post(
     "/registration/:id/reject",
-    { preHandler: [adminMiddleware] },
+    { preHandler: [authMiddleware] },
     rejectRegistrationHandler,
   );
 }
