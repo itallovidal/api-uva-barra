@@ -1,31 +1,44 @@
-### Criar solicitação de registro
-POST http://localhost:3000/user/registration/
+### Login
+POST http://localhost:3000/user/login
 Content-Type: application/json
 
 {
-  "name": "example-name",
-  "email": "name@example.com",
-  "password": "p123456",
-  "profession": "DESENVOLVEDOR",
-  "bio": "Backend developer"
+  "email": "joao@example.com",
+  "password": "123456"
 }
 
-### Listar solicitações de registro (admin)
-GET http://localhost:3000/user/registration/requests?status=PENDING&page=1&perPage=10
+### Criar usuário (autenticado)
+POST http://localhost:3000/user/
 Content-Type: application/json
-admin-id: admin-uuid-here
-
-### Aprovar solicitação de registro (admin)
-POST http://localhost:3000/user/registration/:id/approve
-Content-Type: application/json
-admin-id: admin-uuid-here
-
-### Rejeitar solicitação de registro (admin)
-POST http://localhost:3000/user/registration/:id/reject
-Content-Type: application/json
-admin-id: admin-uuid-here
+Authorization: Bearer replace-with-token
 
 {
-  "reason": "Perfil não atende aos requisitos"
+  "name": "Maria Oliveira",
+  "email": "maria@example.com",
+  "password": "123456",
+  "profession": "designer",
+  "bio": "UX Designer",
+  "role": "collaborator"
 }
 
+### Buscar usuário por ID (autenticado)
+GET http://localhost:3000/user/replace-with-uuid
+Authorization: Bearer replace-with-token
+
+### Buscar usuário por email (autenticado)
+GET http://localhost:3000/user/email/maria@example.com
+Authorization: Bearer replace-with-token
+
+### Atualizar usuário (autenticado)
+PUT http://localhost:3000/user/replace-with-uuid
+Content-Type: application/json
+Authorization: Bearer replace-with-token
+
+{
+  "name": "Maria Oliveira Santos",
+  "bio": "Senior UX Designer"
+}
+
+### Deletar usuário (autenticado)
+DELETE http://localhost:3000/user/replace-with-uuid
+Authorization: Bearer replace-with-token

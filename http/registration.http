@@ -1,0 +1,30 @@
+### Solicitar registro
+POST http://localhost:3000/registration/
+Content-Type: application/json
+
+{
+  "name": "João Silva",
+  "email": "joao@example.com",
+  "password": "123456",
+  "profession": "desenvolvedor",
+  "bio": "Backend developer"
+}
+
+### Listar solicitações de registro (autenticado)
+GET http://localhost:3000/registration/requests?status=PENDING&page=1&perPage=10
+Content-Type: application/json
+Authorization: Bearer replace-with-token
+
+### Aprovar solicitação de registro (autenticado)
+POST http://localhost:3000/registration/replace-with-uuid/approve
+Content-Type: application/json
+Authorization: Bearer replace-with-token
+
+### Rejeitar solicitação de registro (autenticado)
+POST http://localhost:3000/registration/replace-with-uuid/reject
+Content-Type: application/json
+Authorization: Bearer replace-with-token
+
+{
+  "reason": "Perfil não atende aos requisitos"
+}

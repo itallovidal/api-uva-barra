@@ -1,0 +1,26 @@
+### Criar categoria
+POST http://localhost:3000/categories
+Content-Type: application/json
+
+{
+  "name": "Tecnologia",
+  "description": "Notícias sobre tecnologia"
+}
+
+### Listar categorias
+GET http://localhost:3000/categories
+
+### Buscar categoria por ID
+GET http://localhost:3000/categories/replace-with-uuid
+
+### Atualizar categoria
+PUT http://localhost:3000/categories/replace-with-uuid
+Content-Type: application/json
+
+{
+  "name": "Tecnologia e Inovação",
+  "description": "Notícias sobre tecnologia e inovação"
+}
+
+### Deletar categoria
+DELETE http://localhost:3000/categories/replace-with-uuid
