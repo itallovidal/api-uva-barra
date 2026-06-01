@@ -10,17 +10,7 @@ Content-Type: application/json
 ### Listar categorias
 GET http://localhost:3000/categories
 
-### Buscar categoria por ID
-GET http://localhost:3000/categories/replace-with-uuid
-
-### Atualizar categoria
-PUT http://localhost:3000/categories/replace-with-uuid
-Content-Type: application/json
-
-{
-  "name": "Tecnologia e Inovação",
-  "description": "Notícias sobre tecnologia e inovação"
-}
 
 ### Deletar categoria
-DELETE http://localhost:3000/categories/replace-with-uuid
+DELETE http://localhost:3000/categories/6ee9dc24-a462-4c50-b199-3da0f9606f6c
+
