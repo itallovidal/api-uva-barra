@@ -34,8 +34,9 @@ export function UserServiceFactory(
         });
       }
 
-      const existingRequest =
-        await registrationRequestRepo.findByEmail(input.email);
+      const existingRequest = await registrationRequestRepo.findByEmail(
+        input.email,
+      );
       if (existingRequest) {
         throw new Error("Registration request already exists for this email", {
           cause: {
@@ -71,7 +72,7 @@ export function UserServiceFactory(
       const requests = await registrationRequestRepo.listRequests(query);
       const total = requests.length;
       const page = query?.page ?? 1;
-      const perPage = query?.perPage ?? total || 10;
+      const perPage = (query?.perPage ?? total) || 10;
       const totalPages = Math.ceil(total / perPage);
 
       return {
@@ -96,8 +97,7 @@ export function UserServiceFactory(
         throw new Error("Registration request is not pending", {
           cause: {
             code: API_ERROR_CODES.Api.InvalidPayloadError,
-            message:
-              "A solicitação não está pendente e não pode ser aprovada.",
+            message: "A solicitação não está pendente e não pode ser aprovada.",
             status: 422,
           },
         });

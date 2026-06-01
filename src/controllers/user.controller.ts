@@ -3,10 +3,7 @@ import { adminMiddleware } from "@/shared/middlewares";
 import { ResponsePayload } from "@/shared/types";
 import { API_ERROR_CODES } from "@/shared/types/response";
 import { RegistrationRequestDTO } from "@/types/dto";
-import {
-  RegistrationRequest,
-  User,
-} from "@/types/entities";
+import { RegistrationRequest, User } from "@/types/entities";
 import {
   approveRegistrationParamsSchema,
   createRegistrationSchema,
@@ -167,7 +164,7 @@ export async function userController(
     try {
       const result = await deps.userService.approveRegistrationRequest(
         paramsResult.data.id,
-        request.headers["admin-id"]!,
+        request.headers["admin-id"] as string,
       );
 
       reply.code(200);
@@ -260,7 +257,7 @@ export async function userController(
     try {
       const updatedRequest = await deps.userService.rejectRegistrationRequest(
         paramsResult.data.id,
-        request.headers["admin-id"]!,
+        request.headers["admin-id"] as string,
         bodyResult.data.reason ?? undefined,
       );
 
@@ -309,7 +306,19 @@ export async function userController(
   }
 
   app.post("/user/registration/", createRegistrationHandler);
-  app.get("/user/registration/requests", { preHandler: [adminMiddleware] }, listRegistrationRequestsHandler);
-  app.post("/user/registration/:id/approve", { preHandler: [adminMiddleware] }, approveRegistrationHandler);
-  app.post("/user/registration/:id/reject", { preHandler: [adminMiddleware] }, rejectRegistrationHandler);
+  app.get(
+    "/user/registration/requests",
+    { preHandler: [adminMiddleware] },
+    listRegistrationRequestsHandler,
+  );
+  app.post(
+    "/user/registration/:id/approve",
+    { preHandler: [adminMiddleware] },
+    approveRegistrationHandler,
+  );
+  app.post(
+    "/user/registration/:id/reject",
+    { preHandler: [adminMiddleware] },
+    rejectRegistrationHandler,
+  );
 }
