@@ -180,3 +180,23 @@ POST /user/registration/:id/reject
 | `UserRole` | `src/types/user/entities.ts` | Roles: `collaborator`, `admin` |
 | `UserProfession` | `src/types/user/entities.ts` | Profissões: `designer`, `redator`, `desenvolvedor`, `social_media`, `editor_chefe`, `outro` |
 | `UserStatus` | `src/types/user/entities.ts` | Status: `active`, `inactive`, `pending` |
+
+## Comentários e observações
+
+- Resumo: este fluxo permite duas formas de criação de um `User`:
+  - Criação direta por administradores através da rota `POST /user/` (rota protegida). Recomendação: a rota deve checar explicitamente que o usuário autenticado tem `role = admin` antes de permitir a criação.
+  - Solicitação externa via `POST /registration/` seguida de aprovação por um admin (`POST /registration/:id/approve`), que cria o usuário com `role = collaborator`.
+
+- Observações técnicas importantes:
+  - A rota `POST /user/` já exige autenticação (`authMiddleware`) mas atualmente não há verificação explícita de `role` no middleware; considere criar um middleware `requireAdmin` ou verificar `request.user.role` no controller para retornar `403 Forbidden` quando necessário.
+  - Ao aprovar uma solicitação, garanta a atomicidade da operação: verifique novamente a unicidade do email e crie o usuário + atualize o `RegistrationRequest` em uma transação ou com tratamento de falhas para evitar estados inconsistentes.
+  - A validação de email único deve ocorrer tanto na criação direta quanto durante a aprovação da solicitação para evitar race conditions.
+  - Senhas nunca devem ser armazenadas em texto: o fluxo atual armazena `passwordHash` na `RegistrationRequest` e usa esse hash ao criar o `User` — isso está correto.
+  - Ao criar usuários diretamente por um admin, defina explicitamente o `role` pretendido (ex.: `UserRole.COLLABORATOR` ou `UserRole.ADMIN`) e o `status` (ex.: `active`).
+
+- TODO:
+  - Registrar (audit log) qual admin aprovou/rejeitou e quaisquer operações de criação direta para facilitar auditoria (o campo `reviewedBy` já cobre parte disso para solicitações).
+  - Incluir testes automatizados cobrindo ambos os fluxos: criação direta por admin, criação via fluxo de solicitação + aprovação, rejeição, e tentativas de criação com email já existente.
+  - Considerar expor um endpoint para admins listarem solicitações com filtros adicionais (por exemplo, por profession) e paginação consistente (o service já retorna `meta` com page/perPage/total).
+
+Essas observações ajudam a garantir que o fluxo suportado na API seja seguro, previsível e auditável.
