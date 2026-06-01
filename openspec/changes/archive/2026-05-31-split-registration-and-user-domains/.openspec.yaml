@@ -1,0 +1,14 @@
+change: split-registration-and-user-domains
+title: Separar domínios de Registro e Usuário em controllers/services próprios
+owner: itallo
+created: 2026-05-31
+apply:
+  requires:
+    - tasks
+artifacts:
+  - id: proposal
+    type: proposal
+  - id: design
+    type: design
+  - id: tasks
+    type: tasks

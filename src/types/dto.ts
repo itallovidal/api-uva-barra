@@ -77,6 +77,15 @@ export interface NewsPreviewDTO {
   authorName: string;
 }
 
+export interface CreateUserDTO {
+  name: string;
+  email: string;
+  password: string;
+  profession: UserProfessionType;
+  bio?: string | null;
+  role?: UserRoleType;
+}
+
 export interface UserProfileDTO {
   id: string;
   name: string;

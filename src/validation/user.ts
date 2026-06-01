@@ -33,3 +33,41 @@ export const approveRegistrationParamsSchema = z.object({
 export const rejectRegistrationBodySchema = z.object({
   reason: z.string().optional().nullable(),
 });
+
+export const createUserSchema = z.object({
+  name: z.string().min(1, "Name is required"),
+  email: z.email("Invalid email format"),
+  password: z.string().min(6, "Password must be at least 6 characters long"),
+  profession: z.string().refine(
+    (val) => {
+      const value = UserProfession[val as UserProfessionType];
+      return value !== undefined;
+    },
+    {
+      message: "Profession must be a valid profession type",
+    },
+  ),
+  bio: z.string().optional().nullable(),
+  role: z.enum(["collaborator", "admin"]).optional().default("collaborator"),
+});
+
+export const userParamsSchema = z.object({
+  id: z.string().uuid("Invalid user ID"),
+});
+
+export const updateUserSchema = z.object({
+  name: z.string().min(1).optional(),
+  email: z.email("Invalid email format").optional(),
+  profession: z
+    .string()
+    .refine(
+      (val) => {
+        const value = UserProfession[val as UserProfessionType];
+        return value !== undefined;
+      },
+      { message: "Profession must be a valid profession type" },
+    )
+    .optional(),
+  bio: z.string().optional().nullable(),
+  role: z.enum(["collaborator", "admin"]).optional(),
+});

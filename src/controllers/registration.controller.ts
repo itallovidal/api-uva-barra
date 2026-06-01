@@ -1,25 +1,26 @@
-import { UserService } from "@/services/user.service";
+import { RegistrationService } from "@/services/registration.service";
 import { adminMiddleware } from "@/shared/middlewares";
 import { ResponsePayload } from "@/shared/types";
 import { API_ERROR_CODES } from "@/shared/types/response";
-import { CreateUserDTO } from "@/types/dto";
-import { User } from "@/types/entities";
+import { RegistrationRequestDTO } from "@/types/dto";
+import { RegistrationRequest, User } from "@/types/entities";
 import {
-  createUserSchema,
-  updateUserSchema,
-  userParamsSchema,
+  approveRegistrationParamsSchema,
+  createRegistrationSchema,
+  listRegistrationQuerySchema,
+  rejectRegistrationBodySchema,
 } from "@/validation/user";
 import type { FastifyInstance, FastifyReply, FastifyRequest } from "fastify";
 
-export async function userController(
+export async function registrationController(
   app: FastifyInstance,
-  deps: { userService: UserService },
+  deps: { registrationService: RegistrationService },
 ): Promise<void> {
-  async function createUserHandler(
+  async function createRegistrationHandler(
     request: FastifyRequest,
     reply: FastifyReply,
   ) {
-    const { success, data, error } = createUserSchema.safeParse(
+    const { success, data, error } = createRegistrationSchema.safeParse(
       request.body,
     );
 
@@ -38,20 +39,21 @@ export async function userController(
       return payloadResponse;
     }
 
-    const inputData = data as CreateUserDTO;
+    const inputData = data as RegistrationRequestDTO;
 
     try {
-      const user = await deps.userService.createUser(inputData);
+      const registrationRequest =
+        await deps.registrationService.createRegistrationRequest(inputData);
       reply.code(201);
 
-      const responsePayload: ResponsePayload<User> = {
+      const responsePayload: ResponsePayload<RegistrationRequest> = {
         status: 201,
-        data: user,
+        data: registrationRequest,
       };
 
       return responsePayload;
     } catch (error: Error | any) {
-      console.error("Error in createUserHandler:", error);
+      console.error("Error in createRegistrationHandler:", error);
 
       if (error instanceof Error) {
         const cause = error.cause as {
@@ -86,19 +88,21 @@ export async function userController(
     }
   }
 
-  async function getUserByIdHandler(
+  async function listRegistrationRequestsHandler(
     request: FastifyRequest,
     reply: FastifyReply,
   ) {
-    const paramsResult = userParamsSchema.safeParse(request.params);
+    const { success, data, error } = listRegistrationQuerySchema.safeParse(
+      request.query,
+    );
 
-    if (!paramsResult.success) {
+    if (!success) {
       reply.code(400);
 
       const payloadResponse: ResponsePayload<null> = {
         status: 400,
         error: {
-          message: "ID de usuário inválido.",
+          message: "Parâmetros de consulta inválidos.",
           code: API_ERROR_CODES.Api.InvalidPayloadError,
         },
         data: null,
@@ -108,38 +112,21 @@ export async function userController(
     }
 
     try {
-      const user = await deps.userService.getUserById(paramsResult.data.id);
+      const result = await deps.registrationService.listRegistrationRequests(
+        data,
+      );
+
       reply.code(200);
 
-      const responsePayload: ResponsePayload<User> = {
+      const responsePayload: ResponsePayload<RegistrationRequest[]> = {
         status: 200,
-        data: user,
+        data: result.data,
+        meta: result.meta,
       };
 
       return responsePayload;
     } catch (error: Error | any) {
-      console.error("Error in getUserByIdHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
-          data: null,
-        };
-
-        return payloadResponse;
-      }
+      console.error("Error in listRegistrationRequestsHandler:", error);
 
       reply.code(500);
       return {
@@ -153,63 +140,13 @@ export async function userController(
     }
   }
 
-  async function getUserByEmailHandler(
+  async function approveRegistrationHandler(
     request: FastifyRequest,
     reply: FastifyReply,
   ) {
-    const { email } = request.params as { email: string };
-
-    try {
-      const user = await deps.userService.getUserByEmail(email);
-      reply.code(200);
-
-      const responsePayload: ResponsePayload<User> = {
-        status: 200,
-        data: user,
-      };
-
-      return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in getUserByEmailHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
-          data: null,
-        };
-
-        return payloadResponse;
-      }
-
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
-    }
-  }
-
-  async function updateUserHandler(
-    request: FastifyRequest,
-    reply: FastifyReply,
-  ) {
-    const paramsResult = userParamsSchema.safeParse(request.params);
+    const paramsResult = approveRegistrationParamsSchema.safeParse(
+      request.params,
+    );
 
     if (!paramsResult.success) {
       reply.code(400);
@@ -217,7 +154,7 @@ export async function userController(
       const payloadResponse: ResponsePayload<null> = {
         status: 400,
         error: {
-          message: "ID de usuário inválido.",
+          message: "ID da solicitação inválido.",
           code: API_ERROR_CODES.Api.InvalidPayloadError,
         },
         data: null,
@@ -226,7 +163,83 @@ export async function userController(
       return payloadResponse;
     }
 
-    const bodyResult = updateUserSchema.safeParse(request.body);
+    try {
+      const result = await deps.registrationService.approveRegistrationRequest(
+        paramsResult.data.id,
+        request.headers["admin-id"] as string,
+      );
+
+      reply.code(200);
+
+      const responsePayload: ResponsePayload<{
+        user: User;
+        request: RegistrationRequest;
+      }> = {
+        status: 200,
+        data: result,
+      };
+
+      return responsePayload;
+    } catch (error: Error | any) {
+      console.error("Error in approveRegistrationHandler:", error);
+
+      if (error instanceof Error) {
+        const cause = error.cause as {
+          code: string;
+          message: string;
+          status: number;
+        };
+
+        reply.code(cause.status);
+
+        const payloadResponse: ResponsePayload<null> = {
+          status: cause.status,
+          error: {
+            message: cause.message,
+            code: cause.code,
+          },
+          data: null,
+        };
+
+        return payloadResponse;
+      }
+
+      reply.code(500);
+      return {
+        status: 500,
+        error: {
+          message: "Algo de errado aconteceu, tente novamente mais tarde.",
+          code: API_ERROR_CODES.Api.UnknownError,
+        },
+        data: null,
+      };
+    }
+  }
+
+  async function rejectRegistrationHandler(
+    request: FastifyRequest,
+    reply: FastifyReply,
+  ) {
+    const paramsResult = approveRegistrationParamsSchema.safeParse(
+      request.params,
+    );
+
+    if (!paramsResult.success) {
+      reply.code(400);
+
+      const payloadResponse: ResponsePayload<null> = {
+        status: 400,
+        error: {
+          message: "ID da solicitação inválido.",
+          code: API_ERROR_CODES.Api.InvalidPayloadError,
+        },
+        data: null,
+      };
+
+      return payloadResponse;
+    }
+
+    const bodyResult = rejectRegistrationBodySchema.safeParse(request.body);
 
     if (!bodyResult.success) {
       reply.code(400);
@@ -244,20 +257,23 @@ export async function userController(
     }
 
     try {
-      const user = await deps.userService.updateUser(
-        paramsResult.data.id,
-        bodyResult.data as Partial<Omit<User, "id">>,
-      );
+      const updatedRequest =
+        await deps.registrationService.rejectRegistrationRequest(
+          paramsResult.data.id,
+          request.headers["admin-id"] as string,
+          bodyResult.data.reason ?? undefined,
+        );
+
       reply.code(200);
 
-      const responsePayload: ResponsePayload<User> = {
+      const responsePayload: ResponsePayload<RegistrationRequest> = {
         status: 200,
-        data: user,
+        data: updatedRequest,
       };
 
       return responsePayload;
     } catch (error: Error | any) {
-      console.error("Error in updateUserHandler:", error);
+      console.error("Error in rejectRegistrationHandler:", error);
 
       if (error instanceof Error) {
         const cause = error.cause as {
@@ -292,91 +308,20 @@ export async function userController(
     }
   }
 
-  async function deleteUserHandler(
-    request: FastifyRequest,
-    reply: FastifyReply,
-  ) {
-    const paramsResult = userParamsSchema.safeParse(request.params);
-
-    if (!paramsResult.success) {
-      reply.code(400);
-
-      const payloadResponse: ResponsePayload<null> = {
-        status: 400,
-        error: {
-          message: "ID de usuário inválido.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
-        },
-        data: null,
-      };
-
-      return payloadResponse;
-    }
-
-    try {
-      await deps.userService.deleteUser(paramsResult.data.id);
-      reply.code(204);
-
-      return;
-    } catch (error: Error | any) {
-      console.error("Error in deleteUserHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
-          data: null,
-        };
-
-        return payloadResponse;
-      }
-
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
-    }
-  }
-
+  app.post("/registration/", createRegistrationHandler);
+  app.get(
+    "/registration/requests",
+    { preHandler: [adminMiddleware] },
+    listRegistrationRequestsHandler,
+  );
   app.post(
-    "/user/",
+    "/registration/:id/approve",
     { preHandler: [adminMiddleware] },
-    createUserHandler,
+    approveRegistrationHandler,
   );
-  app.get(
-    "/user/:id",
+  app.post(
+    "/registration/:id/reject",
     { preHandler: [adminMiddleware] },
-    getUserByIdHandler,
-  );
-  app.get(
-    "/user/email/:email",
-    { preHandler: [adminMiddleware] },
-    getUserByEmailHandler,
-  );
-  app.put(
-    "/user/:id",
-    { preHandler: [adminMiddleware] },
-    updateUserHandler,
-  );
-  app.delete(
-    "/user/:id",
-    { preHandler: [adminMiddleware] },
-    deleteUserHandler,
+    rejectRegistrationHandler,
   );
 }
