@@ -13,13 +13,13 @@ export interface News {
   slug: string;
   summary: string;
   content: string;
-  coverImageUrl?: string | null;
-  categoryId: string;
-  authorId: string;
+  coverImageUrl: string;
+  category: string;
+  author: string;
   status: NewsStatusType;
   tags: string[];
   featured: boolean;
-  readingTime: number | null;
+  readingTime: number;
   createdAt: Date;
   updatedAt: Date;
   publishedAt?: Date | null;

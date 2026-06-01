@@ -1,26 +1,25 @@
-import type { NewsStatusType } from "./entities";
-
-export interface NewsRequestDTO {
-  title: string;
-  summary: string;
-  content: string;
-  categoryId: string;
-  tagIds: string[];
-  coverImageUrl?: string | null;
-  status?: NewsStatusType;
-  featured?: boolean;
-  readingTime?: number | null;
-}
+import { NewsStatusType } from "./entities";
 
 export interface NewsPreviewDTO {
   id: string;
   title: string;
   summary: string;
-  coverImageUrl: string | null;
-  categoryName: string;
-  tags: Array<{ id: string; name: string; slug: string }>;
+  coverImageUrl: string;
+  category: string;
+  tags: string[];
   featured: boolean;
-  readingTime: number | null;
+  readingTime: number;
   publishedAt: Date | null;
   authorName: string;
+}
+
+export interface CreateNewsDTO {
+  title: string;
+  summary: string;
+  content: string;
+  coverImageUrl: string;
+  category: string;
+  tags: string[];
+  featured: boolean;
+  status: NewsStatusType;
 }
