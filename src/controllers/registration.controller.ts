@@ -2,8 +2,9 @@ import { RegistrationService } from "@/services/registration.service";
 import { adminMiddleware } from "@/shared/middlewares";
 import { ResponsePayload } from "@/shared/types";
 import { API_ERROR_CODES } from "@/shared/types/response";
-import { RegistrationRequestDTO } from "@/types/dto";
-import { RegistrationRequest, User } from "@/types/entities";
+import { RegistrationRequestDTO } from "@/types/registration/dtos";
+import { RegistrationRequest } from "@/types/registration/entities";
+import { User } from "@/types/user/entities";
 import {
   approveRegistrationParamsSchema,
   createRegistrationSchema,

@@ -2,8 +2,8 @@ import { UserService } from "@/services/user.service";
 import { adminMiddleware } from "@/shared/middlewares";
 import { ResponsePayload } from "@/shared/types";
 import { API_ERROR_CODES } from "@/shared/types/response";
-import { CreateUserDTO } from "@/types/dto";
-import { User } from "@/types/entities";
+import { CreateUserDTO } from "@/types/user/dtos";
+import { User } from "@/types/user/entities";
 import {
   createUserSchema,
   updateUserSchema,

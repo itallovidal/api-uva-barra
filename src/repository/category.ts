@@ -1,5 +1,5 @@
-import type { Category } from "@/types/entities";
-import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/dto";
+import type { Category } from "@/types/category/entities";
+import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/category/dtos";
 
 export interface CategoryRepository {
   findById(id: string): Promise<Category | null>;

@@ -4,14 +4,16 @@ import { API_ERROR_CODES } from "@/shared/types/response";
 import {
   RegistrationRequestDTO,
   RegistrationRequestListQuery,
-} from "@/types/dto";
+} from "@/types/registration/dtos";
 import {
   RegistrationRequest,
   RegistrationRequestStatus,
+} from "@/types/registration/entities";
+import {
   User,
   UserRole,
   UserStatus,
-} from "@/types/entities";
+} from "@/types/user/entities";
 import { hashPassword } from "@/utils/password-handler";
 import { v4 as uuidv4 } from "uuid";
 

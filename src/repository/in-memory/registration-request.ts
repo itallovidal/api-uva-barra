@@ -1,5 +1,5 @@
-import type { RegistrationRequestListQuery } from "@/types/dto";
-import type { RegistrationRequest } from "@/types/entities";
+import type { RegistrationRequestListQuery } from "@/types/registration/dtos";
+import type { RegistrationRequest } from "@/types/registration/entities";
 import type { RegistrationRequestRepository } from "../registration-request";
 
 export function RegistrationRequestInMemoryRepositoryFactory(): RegistrationRequestRepository {

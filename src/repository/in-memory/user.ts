@@ -1,4 +1,4 @@
-import { User } from "@/types/entities";
+import { User } from "@/types/user/entities";
 import { UserRepository } from "../user";
 
 export function UserInMemoryRepositoryFactory(): UserRepository {

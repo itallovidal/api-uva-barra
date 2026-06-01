@@ -1,5 +1,5 @@
-import type { Category } from "@/types/entities";
-import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/dto";
+import type { Category } from "@/types/category/entities";
+import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/category/dtos";
 import type { CategoryRepository } from "@/repository/category";
 import type { AppError } from "@/shared/types";
 

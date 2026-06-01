@@ -1,4 +1,4 @@
-import { UserProfession, UserProfessionType } from "@/types/entities";
+import { UserProfession, UserProfessionType } from "@/types/user/entities";
 import { z } from "zod";
 
 export const createRegistrationSchema = z.object({

@@ -1,7 +1,7 @@
 import type { UserRepository } from "@/repository/user";
 import { API_ERROR_CODES } from "@/shared/types/response";
-import { CreateUserDTO } from "@/types/dto";
-import { User, UserRole, UserStatus } from "@/types/entities";
+import { CreateUserDTO } from "@/types/user/dtos";
+import { User, UserRole, UserStatus } from "@/types/user/entities";
 import { hashPassword } from "@/utils/password-handler";
 import { v4 as uuidv4 } from "uuid";
 

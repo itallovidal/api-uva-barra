@@ -1,5 +1,5 @@
-import type { RegistrationRequestListQuery } from "@/types/dto";
-import type { RegistrationRequest } from "@/types/entities";
+import type { RegistrationRequestListQuery } from "@/types/registration/dtos";
+import type { RegistrationRequest } from "@/types/registration/entities";
 
 export interface RegistrationRequestRepository {
   createRequest(data: RegistrationRequest): Promise<RegistrationRequest>;

@@ -1,7 +1,7 @@
 import type { FastifyInstance } from "fastify";
 import type { ResponsePayload, AppError } from "@/shared/types";
 import type { CategoryService } from "@/services/category.service";
-import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/dto";
+import type { CreateCategoryRequestDTO, UpdateCategoryRequestDTO } from "@/types/category/dtos";
 
 export async function categoryController(
   app: FastifyInstance,
