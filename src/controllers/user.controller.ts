@@ -13,15 +13,15 @@ import {
   listRegistrationQuerySchema,
   rejectRegistrationBodySchema,
 } from "@/validation/user";
-import type { FastifyInstance } from "fastify";
+import type { FastifyInstance, FastifyReply, FastifyRequest } from "fastify";
 
 export async function userController(
   app: FastifyInstance,
   deps: { userService: UserService },
 ): Promise<void> {
   async function createRegistrationHandler(
-    request: { body: unknown },
-    reply: { code: (status: number) => void },
+    request: FastifyRequest,
+    reply: FastifyReply,
   ) {
     const { success, data, error } = createRegistrationSchema.safeParse(
       request.body,
@@ -92,8 +92,8 @@ export async function userController(
   }
 
   async function listRegistrationRequestsHandler(
-    request: { query: unknown },
-    reply: { code: (status: number) => void },
+    request: FastifyRequest,
+    reply: FastifyReply,
   ) {
     const { success, data, error } = listRegistrationQuerySchema.safeParse(
       request.query,
@@ -142,8 +142,8 @@ export async function userController(
   }
 
   async function approveRegistrationHandler(
-    request: { params: unknown; headers: { "admin-id"?: string } },
-    reply: { code: (status: number) => void },
+    request: FastifyRequest,
+    reply: FastifyReply,
   ) {
     const paramsResult = approveRegistrationParamsSchema.safeParse(
       request.params,
@@ -218,8 +218,8 @@ export async function userController(
   }
 
   async function rejectRegistrationHandler(
-    request: { params: unknown; body: { reason?: string }; headers: { "admin-id"?: string } },
-    reply: { code: (status: number) => void },
+    request: FastifyRequest,
+    reply: FastifyReply,
   ) {
     const paramsResult = approveRegistrationParamsSchema.safeParse(
       request.params,
