@@ -8,6 +8,7 @@ import { createNewsService } from "@/services/news.service";
 import { RegistrationServiceFactory } from "@/services/registration.service";
 import { UserServiceFactory } from "@/services/user.service";
 import { UserInMemoryRepositoryFactory } from "./repository/in-memory/user";
+import { AppErrorClass } from "@/types/api";
 
 export type AppServices = {
   categoryService: ReturnType<typeof createCategoryService>;
@@ -48,6 +49,26 @@ export async function createApp() {
   };
 
   await registerRoutes(app, services);
+
+  app.setErrorHandler(function errorHandler(error, _request, reply) {
+    if (error instanceof AppErrorClass) {
+      return reply.code(error.statusCode).send({
+        status: error.statusCode,
+        error: { message: error.message, code: error.code },
+        data: null,
+      });
+    }
+
+    app.log.error(error);
+    return reply.code(500).send({
+      status: 500,
+      error: {
+        message: "Algo de errado aconteceu, tente novamente mais tarde.",
+        code: "INTERNAL_ERROR",
+      },
+      data: null,
+    });
+  });
 
   return app;
 }

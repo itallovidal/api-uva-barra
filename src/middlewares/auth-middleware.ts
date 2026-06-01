@@ -1,5 +1,5 @@
 import type { FastifyReply, FastifyRequest } from "fastify";
-import { API_ERROR_CODES } from "@/types/api";
+import { AppErrorClass } from "@/types/api";
 import { decodeToken } from "@/utils/jwt-handler";
 
 export async function authMiddleware(
@@ -9,14 +9,7 @@ export async function authMiddleware(
   const authorization = request.headers.authorization;
 
   if (!authorization || !authorization.startsWith("Bearer ")) {
-    reply.code(401).send({
-      status: 401,
-      error: {
-        message: "Não autorizado.",
-        code: API_ERROR_CODES.Api.InvalidCredentialsError,
-      },
-    });
-    return;
+    throw new AppErrorClass("Não autorizado.", "UNAUTHORIZED", 401);
   }
 
   const token = authorization.slice(7);
@@ -25,12 +18,6 @@ export async function authMiddleware(
     const payload = decodeToken(token);
     request.user = payload;
   } catch {
-    reply.code(401).send({
-      status: 401,
-      error: {
-        message: "Não autorizado.",
-        code: API_ERROR_CODES.Api.InvalidCredentialsError,
-      },
-    });
+    throw new AppErrorClass("Não autorizado.", "UNAUTHORIZED", 401);
   }
 }

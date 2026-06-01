@@ -1,5 +1,6 @@
 import type { FastifyInstance } from "fastify";
-import type { ResponsePayload, AppError } from "@/types/api";
+import type { ResponsePayload } from "@/types/api";
+import { AppErrorClass } from "@/types/api";
 import type { CategoryService } from "@/services/category.service";
 import type { CreateCategoryRequestDTO } from "@/types/category/dtos";
 import { categoryParamsSchema, createCategorySchema } from "@/validation/category";
@@ -60,11 +61,16 @@ export async function categoryController(
       reply.code(204);
       return { status: 204 };
     } catch (error: unknown) {
-      reply.code(404);
-      return {
-        status: 404,
-        error: error as AppError,
-      };
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
+          data: null,
+        };
+      }
+
+      throw error;
     }
   }
 

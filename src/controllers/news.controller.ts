@@ -1,5 +1,6 @@
 import type { FastifyInstance, FastifyRequest } from "fastify";
-import type { ResponsePayload, AppError } from "@/types/api";
+import type { ResponsePayload } from "@/types/api";
+import { AppErrorClass } from "@/types/api";
 import type { NewsService } from "@/services/news.service";
 import type { CreateNewsDTO } from "@/types/news/dtos";
 import { authMiddleware } from "@/middlewares/auth-middleware";
@@ -57,11 +58,16 @@ export async function newsController(
       const news = await deps.newsService.findById(parsed.data.id);
       return { status: 200, data: news };
     } catch (error: unknown) {
-      reply.code(404);
-      return {
-        status: 404,
-        error: error as AppError,
-      };
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
+          data: null,
+        };
+      }
+
+      throw error;
     }
   }
 
@@ -102,11 +108,16 @@ export async function newsController(
       );
       return { status: 200, data: news };
     } catch (error: unknown) {
-      reply.code(404);
-      return {
-        status: 404,
-        error: error as AppError,
-      };
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
+          data: null,
+        };
+      }
+
+      throw error;
     }
   }
 
@@ -132,11 +143,16 @@ export async function newsController(
       reply.code(204);
       return { status: 204 };
     } catch (error: unknown) {
-      reply.code(404);
-      return {
-        status: 404,
-        error: error as AppError,
-      };
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
+          data: null,
+        };
+      }
+
+      throw error;
     }
   }
 

@@ -1,3 +1,2 @@
-export type { ErrorCode, AppError, Meta, ResponsePayload } from "./response";
-export { API_ERROR_CODES } from "./response";
+export type { ErrorCode, Meta, ResponsePayload } from "./response";
 export { AppErrorClass } from "./errors";

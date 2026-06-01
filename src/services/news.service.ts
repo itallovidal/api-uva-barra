@@ -1,7 +1,7 @@
 import type { News } from "@/types/news/entities";
 import type { CreateNewsDTO, NewsPreviewDTO } from "@/types/news/dtos";
 import type { NewsRepository } from "@/repository/news";
-import type { AppError } from "@/types/api";
+import { AppErrorClass } from "@/types/api";
 
 export type NewsService = ReturnType<typeof createNewsService>;
 
@@ -14,11 +14,7 @@ export function createNewsService(newsRepo: NewsRepository) {
     async findById(id: string): Promise<News> {
       const news = await newsRepo.findById(id);
       if (!news) {
-        const error: AppError = {
-          message: "Notícia não encontrada",
-          code: "NOT_FOUND",
-        };
-        throw error;
+        throw new AppErrorClass("Notícia não encontrada", "NOT_FOUND", 404);
       }
       return news;
     },
@@ -26,11 +22,7 @@ export function createNewsService(newsRepo: NewsRepository) {
     async update(id: string, input: Partial<CreateNewsDTO>): Promise<News> {
       const news = await newsRepo.update(id, input);
       if (!news) {
-        const error: AppError = {
-          message: "Notícia não encontrada",
-          code: "NOT_FOUND",
-        };
-        throw error;
+        throw new AppErrorClass("Notícia não encontrada", "NOT_FOUND", 404);
       }
       return news;
     },
@@ -38,11 +30,7 @@ export function createNewsService(newsRepo: NewsRepository) {
     async delete(id: string): Promise<void> {
       const deleted = await newsRepo.delete(id);
       if (!deleted) {
-        const error: AppError = {
-          message: "Notícia não encontrada",
-          code: "NOT_FOUND",
-        };
-        throw error;
+        throw new AppErrorClass("Notícia não encontrada", "NOT_FOUND", 404);
       }
     },
 

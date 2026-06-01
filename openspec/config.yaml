@@ -40,7 +40,11 @@ context: |
   - Services are factory functions: createService(repo) → service object
   - Repository interfaces in repository/<name>.ts, implementations in repository/<provider>/<name>.ts
   - All API responses MUST use ResponsePayload envelope: { status, data?, error?, meta? }
-  - ErrorCode is a string literal union: VALIDATION_ERROR, NOT_FOUND, UNAUTHORIZED, FORBIDDEN, INTERNAL_ERROR, CONFLICT
+  - ErrorCode is a string literal union: VALIDATION_ERROR, NOT_FOUND, UNAUTHORIZED, FORBIDDEN, INTERNAL_ERROR, CONFLICT, INVALID_CREDENTIALS, EMAIL_ALREADY_EXISTS, INVALID_PAYLOAD, USER_NOT_FOUND, USER_CREATION_ERROR, RESPONSE_PARSE_ERROR
+  - Controlled errors SHALL use AppErrorClass (extends Error) with code: ErrorCode and statusCode: number
+  - Controllers catch errors with `error instanceof AppErrorClass`, return structured ResponsePayload, and rethrow unknown errors to the global error handler
+  - Global setErrorHandler catches AppErrorClass (structured response) and unknown errors (log + 500/INTERNAL_ERROR)
+  - Auth middleware SHALL throw AppErrorClass instead of calling reply.send() directly
   - Use zod schemas in src/validation/ for all input validation
   - Files: kebab-case.ts
   - Functions: named functions (`function name() {}`) for all module-level, method-level, and route handler definitions. Arrow functions ONLY for inline callbacks (`.map`, `.filter`, `.forEach`, `.then`, `.catch`)

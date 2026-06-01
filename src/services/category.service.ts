@@ -1,7 +1,7 @@
 import type { Category } from "@/types/category/entities";
 import type { CreateCategoryRequestDTO } from "@/types/category/dtos";
 import type { CategoryRepository } from "@/repository/category";
-import type { AppError } from "@/types/api";
+import { AppErrorClass } from "@/types/api";
 
 export type CategoryService = ReturnType<typeof createCategoryService>;
 
@@ -18,11 +18,7 @@ export function createCategoryService(categoryRepo: CategoryRepository) {
     async delete(id: string): Promise<boolean> {
       const deleted = await categoryRepo.delete(id);
       if (!deleted) {
-        const error: AppError = {
-          message: "Category not found",
-          code: "NOT_FOUND",
-        };
-        throw error;
+        throw new AppErrorClass("Category not found", "NOT_FOUND", 404);
       }
       return true;
     },

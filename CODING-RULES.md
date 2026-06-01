@@ -153,9 +153,16 @@ All API responses **MUST** use the `ResponsePayload` envelope:
 
 ### Error Handling
 
-- Use custom error classes from `@/shared/errors` (`ValidationError`, `NotFoundError`, etc.)
-- Each error class maps to an `ErrorCode` and HTTP status code
-- Controllers catch errors and format them into `ResponsePayload`
+- All controlled errors **MUST** use `AppErrorClass` from `@/types/api` (extends `Error` with `code: ErrorCode` + `statusCode: number`)
+- Throwing pattern: `throw new AppErrorClass(message, code, statusCode)` — used in services, repositories, and middleware
+- `ErrorCode` union includes: `VALIDATION_ERROR`, `NOT_FOUND`, `UNAUTHORIZED`, `FORBIDDEN`, `INTERNAL_ERROR`, `CONFLICT`, `INVALID_CREDENTIALS`, `EMAIL_ALREADY_EXISTS`, `INVALID_PAYLOAD`, `USER_NOT_FOUND`, `USER_CREATION_ERROR`, `RESPONSE_PARSE_ERROR`
+- Controller catch blocks check `error instanceof AppErrorClass`:
+  - If true: return `{ status: error.statusCode, error: { message: error.message, code: error.code }, data: null }`
+  - If false: `throw error` (rethrow unexpected errors to global handler)
+- A global `setErrorHandler` in `app.ts` catches any error that escapes handlers:
+  - `AppErrorClass` → structured response using `.statusCode`, `.message`, `.code`
+  - Unknown errors → log + `500` with `"INTERNAL_ERROR"` code
+- Auth middleware **MUST** `throw new AppErrorClass(...)` instead of calling `reply.code(X).send(...)` directly, letting the global handler format the response
 
 ### Validation
 

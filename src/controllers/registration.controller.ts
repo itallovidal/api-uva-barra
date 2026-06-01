@@ -1,6 +1,6 @@
 import { RegistrationService } from "@/services/registration.service";
 import { authMiddleware } from "@/middlewares/auth-middleware";
-import { ResponsePayload, API_ERROR_CODES } from "@/types/api";
+import { ResponsePayload, AppErrorClass } from "@/types/api";
 import { RegistrationRequestDTO } from "@/types/registration/dtos";
 import { RegistrationRequest } from "@/types/registration/entities";
 import { User } from "@/types/user/entities";
@@ -31,7 +31,7 @@ export async function registrationController(
         status: 400,
         error: {
           message: "Dados inválidos, verifique e envie novamente.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -52,39 +52,17 @@ export async function registrationController(
       };
 
       return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in createRegistrationHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
           data: null,
         };
-
-        return payloadResponse;
       }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 
@@ -103,7 +81,7 @@ export async function registrationController(
         status: 400,
         error: {
           message: "Parâmetros de consulta inválidos.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -125,18 +103,17 @@ export async function registrationController(
       };
 
       return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in listRegistrationRequestsHandler:", error);
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
+          data: null,
+        };
+      }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 
@@ -155,7 +132,7 @@ export async function registrationController(
         status: 400,
         error: {
           message: "ID da solicitação inválido.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -180,39 +157,17 @@ export async function registrationController(
       };
 
       return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in approveRegistrationHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
           data: null,
         };
-
-        return payloadResponse;
       }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 
@@ -231,7 +186,7 @@ export async function registrationController(
         status: 400,
         error: {
           message: "ID da solicitação inválido.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -248,7 +203,7 @@ export async function registrationController(
         status: 400,
         error: {
           message: "Dados inválidos.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -272,39 +227,17 @@ export async function registrationController(
       };
 
       return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in rejectRegistrationHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
           data: null,
         };
-
-        return payloadResponse;
       }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 

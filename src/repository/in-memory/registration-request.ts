@@ -1,6 +1,7 @@
 import type { RegistrationRequestListQuery } from "@/types/registration/dtos";
 import type { RegistrationRequest } from "@/types/registration/entities";
 import type { RegistrationRequestRepository } from "../registration-request";
+import { AppErrorClass } from "@/types/api";
 
 export function RegistrationRequestInMemoryRepositoryFactory(): RegistrationRequestRepository {
   const store = new Map<string, RegistrationRequest>();
@@ -44,7 +45,11 @@ export function RegistrationRequestInMemoryRepositoryFactory(): RegistrationRequ
     ): Promise<RegistrationRequest> {
       const existing = store.get(id);
       if (!existing) {
-        throw new Error("Registration request not found");
+        throw new AppErrorClass(
+          "Registration request not found",
+          "NOT_FOUND",
+          404,
+        );
       }
 
       const updated = { ...existing, ...patch, updatedAt: new Date() };

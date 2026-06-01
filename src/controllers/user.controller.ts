@@ -1,6 +1,6 @@
 import { UserService } from "@/services/user.service";
 import { authMiddleware } from "@/middlewares/auth-middleware";
-import { ResponsePayload, API_ERROR_CODES } from "@/types/api";
+import { ResponsePayload, AppErrorClass } from "@/types/api";
 import { CreateUserDTO } from "@/types/user/dtos";
 import { User } from "@/types/user/entities";
 import {
@@ -30,7 +30,7 @@ export async function userController(
         status: 400,
         error: {
           message: "Dados inválidos, verifique e envie novamente.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -50,39 +50,17 @@ export async function userController(
       };
 
       return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in createUserHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
           data: null,
         };
-
-        return payloadResponse;
       }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 
@@ -99,7 +77,7 @@ export async function userController(
         status: 400,
         error: {
           message: "ID de usuário inválido.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -117,39 +95,17 @@ export async function userController(
       };
 
       return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in getUserByIdHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
           data: null,
         };
-
-        return payloadResponse;
       }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 
@@ -169,39 +125,17 @@ export async function userController(
       };
 
       return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in getUserByEmailHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
           data: null,
         };
-
-        return payloadResponse;
       }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 
@@ -218,7 +152,7 @@ export async function userController(
         status: 400,
         error: {
           message: "ID de usuário inválido.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -235,7 +169,7 @@ export async function userController(
         status: 400,
         error: {
           message: "Dados inválidos.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -256,39 +190,17 @@ export async function userController(
       };
 
       return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in updateUserHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
           data: null,
         };
-
-        return payloadResponse;
       }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 
@@ -305,7 +217,7 @@ export async function userController(
         status: 400,
         error: {
           message: "Dados inválidos, verifique e envie novamente.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -323,39 +235,17 @@ export async function userController(
       };
 
       return responsePayload;
-    } catch (error: Error | any) {
-      console.error("Error in loginHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
           data: null,
         };
-
-        return payloadResponse;
       }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 
@@ -372,7 +262,7 @@ export async function userController(
         status: 400,
         error: {
           message: "ID de usuário inválido.",
-          code: API_ERROR_CODES.Api.InvalidPayloadError,
+          code: "INVALID_PAYLOAD",
         },
         data: null,
       };
@@ -385,39 +275,17 @@ export async function userController(
       reply.code(204);
 
       return;
-    } catch (error: Error | any) {
-      console.error("Error in deleteUserHandler:", error);
-
-      if (error instanceof Error) {
-        const cause = error.cause as {
-          code: string;
-          message: string;
-          status: number;
-        };
-
-        reply.code(cause.status);
-
-        const payloadResponse: ResponsePayload<null> = {
-          status: cause.status,
-          error: {
-            message: cause.message,
-            code: cause.code,
-          },
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
           data: null,
         };
-
-        return payloadResponse;
       }
 
-      reply.code(500);
-      return {
-        status: 500,
-        error: {
-          message: "Algo de errado aconteceu, tente novamente mais tarde.",
-          code: API_ERROR_CODES.Api.UnknownError,
-        },
-        data: null,
-      };
+      throw error;
     }
   }
 

@@ -1,32 +1,16 @@
-export const API_ERROR_CODES = {
-  Api: {
-    InvalidPayloadError: "INVALID_PAYLOAD",
-    NotFound: "API_NOT_FOUND",
-    InternalServerError: "INTERNAL_SERVER_ERROR",
-    InvalidCredentialsError: "INVALID_CREDENTIALS",
-    ResponseParseError: "RESPONSE_PARSE_ERROR",
-    UnknownError: "UNKNOWN_ERROR",
-  },
-  User: {
-    NotFound: "USER_NOT_FOUND",
-    InvalidCredentials: "INVALID_CREDENTIALS",
-    CreationError: "USER_CREATION_ERROR",
-    EmailAlreadyExists: "EMAIL_ALREADY_EXISTS",
-  },
-} as const;
-
 export type ErrorCode =
   | "VALIDATION_ERROR"
   | "NOT_FOUND"
   | "UNAUTHORIZED"
   | "FORBIDDEN"
   | "INTERNAL_ERROR"
-  | "CONFLICT";
-
-export interface AppError {
-  message: string;
-  code: ErrorCode;
-}
+  | "CONFLICT"
+  | "INVALID_CREDENTIALS"
+  | "EMAIL_ALREADY_EXISTS"
+  | "INVALID_PAYLOAD"
+  | "USER_NOT_FOUND"
+  | "USER_CREATION_ERROR"
+  | "RESPONSE_PARSE_ERROR";
 
 export interface ErrorPayload {
   message: string;

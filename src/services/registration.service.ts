@@ -1,6 +1,6 @@
 import type { RegistrationRequestRepository } from "@/repository/registration-request";
 import type { UserRepository } from "@/repository/user";
-import { API_ERROR_CODES } from "@/types/api";
+import { AppErrorClass } from "@/types/api";
 import {
   RegistrationRequestDTO,
   RegistrationRequestListQuery,
@@ -27,26 +27,22 @@ export function RegistrationServiceFactory(
     async createRegistrationRequest(input: RegistrationRequestDTO) {
       const existingUser = await userRepo.findByEmail(input.email);
       if (existingUser) {
-        throw new Error("User with this email already exists", {
-          cause: {
-            code: API_ERROR_CODES.User.EmailAlreadyExists,
-            message: `Um usuário com email ${input.email} já existe.`,
-            status: 409,
-          },
-        });
+        throw new AppErrorClass(
+          `Um usuário com email ${input.email} já existe.`,
+          "EMAIL_ALREADY_EXISTS",
+          409,
+        );
       }
 
       const existingRequest = await registrationRequestRepo.findByEmail(
         input.email,
       );
       if (existingRequest) {
-        throw new Error("Registration request already exists for this email", {
-          cause: {
-            code: API_ERROR_CODES.User.EmailAlreadyExists,
-            message: `Já existe uma solicitação de registro para o email ${input.email}.`,
-            status: 409,
-          },
-        });
+        throw new AppErrorClass(
+          `Já existe uma solicitação de registro para o email ${input.email}.`,
+          "EMAIL_ALREADY_EXISTS",
+          409,
+        );
       }
 
       const passwordHash = await hashPassword(input.password);
@@ -86,34 +82,28 @@ export function RegistrationServiceFactory(
     async approveRegistrationRequest(id: string, adminId: string) {
       const request = await registrationRequestRepo.findById(id);
       if (!request) {
-        throw new Error("Registration request not found", {
-          cause: {
-            code: API_ERROR_CODES.Api.NotFound,
-            message: "Solicitação de registro não encontrada.",
-            status: 404,
-          },
-        });
+        throw new AppErrorClass(
+          "Solicitação de registro não encontrada.",
+          "NOT_FOUND",
+          404,
+        );
       }
 
       if (request.status !== RegistrationRequestStatus.PENDING) {
-        throw new Error("Registration request is not pending", {
-          cause: {
-            code: API_ERROR_CODES.Api.InvalidPayloadError,
-            message: "A solicitação não está pendente e não pode ser aprovada.",
-            status: 422,
-          },
-        });
+        throw new AppErrorClass(
+          "A solicitação não está pendente e não pode ser aprovada.",
+          "INVALID_PAYLOAD",
+          422,
+        );
       }
 
       const existingUser = await userRepo.findByEmail(request.email);
       if (existingUser) {
-        throw new Error("User with this email already exists", {
-          cause: {
-            code: API_ERROR_CODES.User.EmailAlreadyExists,
-            message: `Já existe um usuário com o email ${request.email}.`,
-            status: 409,
-          },
-        });
+        throw new AppErrorClass(
+          `Já existe um usuário com o email ${request.email}.`,
+          "EMAIL_ALREADY_EXISTS",
+          409,
+        );
       }
 
       const userUuid = uuidv4();
@@ -147,24 +137,19 @@ export function RegistrationServiceFactory(
     ) {
       const request = await registrationRequestRepo.findById(id);
       if (!request) {
-        throw new Error("Registration request not found", {
-          cause: {
-            code: API_ERROR_CODES.Api.NotFound,
-            message: "Solicitação de registro não encontrada.",
-            status: 404,
-          },
-        });
+        throw new AppErrorClass(
+          "Solicitação de registro não encontrada.",
+          "NOT_FOUND",
+          404,
+        );
       }
 
       if (request.status !== RegistrationRequestStatus.PENDING) {
-        throw new Error("Registration request is not pending", {
-          cause: {
-            code: API_ERROR_CODES.Api.InvalidPayloadError,
-            message:
-              "A solicitação não está pendente e não pode ser rejeitada.",
-            status: 422,
-          },
-        });
+        throw new AppErrorClass(
+          "A solicitação não está pendente e não pode ser rejeitada.",
+          "INVALID_PAYLOAD",
+          422,
+        );
       }
 
       return await registrationRequestRepo.updateRequest(id, {
