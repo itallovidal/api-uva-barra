@@ -1,0 +1,14 @@
+change: docs-fluxo-acesso-colaborador
+title: Documentar fluxo de acesso de colaborador
+owner: itallo
+created: 2026-06-01
+apply:
+  requires:
+    - tasks
+artifacts:
+  - id: proposal
+    type: proposal
+  - id: design
+    type: design
+  - id: tasks
+    type: tasks
