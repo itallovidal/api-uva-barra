@@ -1,7 +1,7 @@
 import type { News } from "@/types/news/entities";
 import type { CreateNewsDTO, NewsPreviewDTO } from "@/types/news/dtos";
 import type { NewsRepository } from "@/repository/news";
-import type { AppError } from "@/shared/types";
+import type { AppError } from "@/types/api";
 
 export type NewsService = ReturnType<typeof createNewsService>;
 

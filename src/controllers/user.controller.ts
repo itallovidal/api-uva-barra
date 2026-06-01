@@ -1,7 +1,6 @@
 import { UserService } from "@/services/user.service";
-import { authMiddleware } from "@/shared/middlewares/auth-middleware";
-import { ResponsePayload } from "@/shared/types";
-import { API_ERROR_CODES } from "@/shared/types/response";
+import { authMiddleware } from "@/middlewares/auth-middleware";
+import { ResponsePayload, API_ERROR_CODES } from "@/types/api";
 import { CreateUserDTO } from "@/types/user/dtos";
 import { User } from "@/types/user/entities";
 import {

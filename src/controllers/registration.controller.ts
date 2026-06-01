@@ -1,7 +1,6 @@
 import { RegistrationService } from "@/services/registration.service";
-import { authMiddleware } from "@/shared/middlewares/auth-middleware";
-import { ResponsePayload } from "@/shared/types";
-import { API_ERROR_CODES } from "@/shared/types/response";
+import { authMiddleware } from "@/middlewares/auth-middleware";
+import { ResponsePayload, API_ERROR_CODES } from "@/types/api";
 import { RegistrationRequestDTO } from "@/types/registration/dtos";
 import { RegistrationRequest } from "@/types/registration/entities";
 import { User } from "@/types/user/entities";

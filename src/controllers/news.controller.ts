@@ -1,8 +1,8 @@
 import type { FastifyInstance, FastifyRequest } from "fastify";
-import type { ResponsePayload, AppError } from "@/shared/types";
+import type { ResponsePayload, AppError } from "@/types/api";
 import type { NewsService } from "@/services/news.service";
 import type { CreateNewsDTO } from "@/types/news/dtos";
-import { authMiddleware } from "@/shared/middlewares/auth-middleware";
+import { authMiddleware } from "@/middlewares/auth-middleware";
 import {
   createNewsSchema,
   updateNewsSchema,

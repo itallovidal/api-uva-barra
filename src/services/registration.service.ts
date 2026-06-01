@@ -1,6 +1,6 @@
 import type { RegistrationRequestRepository } from "@/repository/registration-request";
 import type { UserRepository } from "@/repository/user";
-import { API_ERROR_CODES } from "@/shared/types/response";
+import { API_ERROR_CODES } from "@/types/api";
 import {
   RegistrationRequestDTO,
   RegistrationRequestListQuery,

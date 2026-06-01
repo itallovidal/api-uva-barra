@@ -1,7 +1,7 @@
 import type { Category } from "@/types/category/entities";
 import type { CreateCategoryRequestDTO } from "@/types/category/dtos";
 import type { CategoryRepository } from "@/repository/category";
-import type { AppError } from "@/shared/types";
+import type { AppError } from "@/types/api";
 
 export type CategoryService = ReturnType<typeof createCategoryService>;
 

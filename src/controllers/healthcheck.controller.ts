@@ -1,6 +1,6 @@
 import type { FastifyInstance } from "fastify";
-import type { ResponsePayload } from "@/shared/types";
-import { getUptimeInSeconds, getISOTimestamp } from "@/shared/utils";
+import type { ResponsePayload } from "@/types/api";
+import { getUptimeInSeconds, getISOTimestamp } from "@/utils/time-handler";
 
 interface HealthData {
   status: string;

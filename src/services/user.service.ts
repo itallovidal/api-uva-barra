@@ -1,5 +1,5 @@
 import type { UserRepository } from "@/repository/user";
-import { API_ERROR_CODES } from "@/shared/types/response";
+import { API_ERROR_CODES } from "@/types/api";
 import { CreateUserDTO } from "@/types/user/dtos";
 import { User, UserRole, UserStatus } from "@/types/user/entities";
 import { hashPassword, verifyPassword } from "@/utils/password-handler";

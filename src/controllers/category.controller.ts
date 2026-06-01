@@ -1,5 +1,5 @@
 import type { FastifyInstance } from "fastify";
-import type { ResponsePayload, AppError } from "@/shared/types";
+import type { ResponsePayload, AppError } from "@/types/api";
 import type { CategoryService } from "@/services/category.service";
 import type { CreateCategoryRequestDTO } from "@/types/category/dtos";
 import { categoryParamsSchema, createCategorySchema } from "@/validation/category";
