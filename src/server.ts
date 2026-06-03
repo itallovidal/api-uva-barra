@@ -1,9 +1,8 @@
+import "dotenv/config";
 import { createApp } from "@/app";
-import { getEnv } from "@/validation/env";
 
 async function main() {
-  const env = getEnv();
-  const app = await createApp();
+  const { app, env } = await createApp();
 
   try {
     await app.listen({ port: env.PORT, host: env.HOST });

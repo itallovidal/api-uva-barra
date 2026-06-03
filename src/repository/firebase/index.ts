@@ -1,0 +1,1 @@
+export { UserFirebaseRepositoryFactory } from "./user";

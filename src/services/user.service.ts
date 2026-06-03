@@ -8,7 +8,10 @@ import { v4 as uuidv4 } from "uuid";
 
 export type UserService = ReturnType<typeof UserServiceFactory>;
 
-export function UserServiceFactory(userRepo: UserRepository) {
+export function UserServiceFactory(
+  userRepo: UserRepository,
+  jwtSecret: string,
+) {
   return {
     async createUser(input: CreateUserDTO) {
       const existingUser = await userRepo.findByEmail(input.email);
@@ -58,11 +61,14 @@ export function UserServiceFactory(userRepo: UserRepository) {
         );
       }
 
-      const accessToken = generateToken({
-        sub: user.id,
-        email: user.email,
-        role: user.role,
-      });
+      const accessToken = generateToken(
+        {
+          sub: user.id,
+          email: user.email,
+          role: user.role,
+        },
+        jwtSecret,
+      );
 
       const { password: _, ...userWithoutPassword } = user;
 
