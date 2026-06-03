@@ -5,8 +5,8 @@ context: |
 
   ## Directory Structure
   src/
-  ├── app.ts                          # Fastify app factory + composition root
-  ├── server.ts                       # Entry point: env validation + startup
+  ├── app.ts                          # Fastify app factory + composition root + env validation
+  ├── server.ts                       # Entry point: dotenv + startup (delegates to createApp)
   ├── controllers/
   │   ├── routes.ts                   # Central route registration
   │   └── <name>.controller.ts        # Feature controllers
@@ -14,28 +14,41 @@ context: |
   │   └── <name>.service.ts           # Feature business logic (factory functions)
   ├── repository/
   │   ├── <name>.ts                   # Repository interface
-  │   └── in-memory/
-  │       └── <name>.ts               # In-memory implementation (guide)
+  │   ├── in-memory/
+  │   │   └── <name>.ts               # In-memory implementation (guide)
+  │   └── firebase/
+  │       └── <name>.ts               # Firebase Firestore implementations
+  ├── middlewares/
+  │   └── <name>-middleware.ts        # Fastify hooks/preHandlers
+  ├── lib/
+  │   └── <name>.ts                   # Shared initialization modules (e.g., firebase.ts)
+  ├── utils/
+  │   ├── jwt-handler.ts              # JWT sign/verify helpers
+  │   ├── password-handler.ts         # bcrypt hash/compare helpers
+  │   ├── time-handler.ts             # uptime / ISO timestamp helpers
+  │   └── <name>-utils.ts             # Feature-scoped pure helpers
   ├── types/
-  │   └── <name>.ts                   # Domain type definitions
+  │   ├── api/                        # ResponsePayload, AppErrorClass, ErrorCode, Meta
+  │   ├── auth/                       # TokenPayloadDTO
+  │   ├── <domain>/                   # entities.ts + dtos.ts per domain
+  │   └── fastify.d.ts                # Fastify module augmentation
   ├── validation/
-  │   ├── env.ts                      # Environment variable validation
-  │   └── <name>.ts                   # Zod validation schemas
-  ├── shared/
-  │   ├── types/                      # ResponsePayload, AppError, Meta, ErrorCode
-  │   ├── errors/                     # Custom error classes
-  │   ├── constants/                  # Application constants
-  │   ├── utils/                      # Utility functions
-  │   └── middlewares/                # Fastify middlewares
-  ├── docs/
-  └── tests/
+  │   ├── env.ts                      # Zod env schema + validateEnv()
+  │   └── <name>.ts                   # Zod validation schemas per domain
+  ├── tests/                          # Test scaffolding
+  http/                               # Manual HTTP test files (.http)
+  _docs/                              # Internal domain docs
+  openspec/                           # OpenSpec specs + change archive
+  .env.example                        # Documented environment variables template
+  tests/                              # Smoke tests outside src/
 
   ## Architecture Rules
   - Layered: controllers → services → repository interfaces
   - Controllers MUST NOT import services or repositories directly
   - Controllers receive (app: FastifyInstance, deps: AppServices)
   - If a controller needs no deps, use _deps: Record<string, never>
-  - app.ts is the composition root: wires repos → services → routes
+  - app.ts is the composition root: wires env validation → Firebase init → repos → services → routes
+  - Env validation is eager: `validateEnv(process.env)` called inside `createApp()`, result decorated as `app.env` and returned as `{ app, env }`
   - No DI container libraries — manual factory-based wiring only
   - Services are factory functions: createService(repo) → service object
   - Repository interfaces in repository/<name>.ts, implementations in repository/<provider>/<name>.ts
@@ -45,13 +58,17 @@ context: |
   - Controllers catch errors with `error instanceof AppErrorClass`, return structured ResponsePayload, and rethrow unknown errors to the global error handler
   - Global setErrorHandler catches AppErrorClass (structured response) and unknown errors (log + 500/INTERNAL_ERROR)
   - Auth middleware SHALL throw AppErrorClass instead of calling reply.send() directly
+  - Auth middleware reads JWT_SECRET from `request.server` env decorator (not from @/validation/env)
+  - JWT helpers receive JWT_SECRET as function parameter (not from getEnv())
+  - Utils MUST be pure (no I/O, no imports from @/validation/env) — env values are injected as params
   - Use zod schemas in src/validation/ for all input validation
   - Files: kebab-case.ts
   - Functions: named functions (`function name() {}`) for all module-level, method-level, and route handler definitions. Arrow functions ONLY for inline callbacks (`.map`, `.filter`, `.forEach`, `.then`, `.catch`)
   - Path alias: @/ maps to src/
 
   ## Import Direction
-  - Controllers only import from @/shared/ and @/validation/
+  - Controllers import from @/types/api, @/types/<domain>, @/validation, @/middlewares — NEVER from @/services/ or @/repository/
   - Services receive repository interfaces via factory params, never import implementations
+  - Services receive env-dependent values (e.g., jwtSecret) as factory params
   - Repository implementations import their own interfaces, never the reverse
-  - Shared modules never import from domain layers
+  - Utils import from @/types/<domain> and external libs only — never from @/validation/env

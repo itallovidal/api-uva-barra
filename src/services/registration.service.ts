@@ -9,11 +9,7 @@ import {
   RegistrationRequest,
   RegistrationRequestStatus,
 } from "@/types/registration/entities";
-import {
-  User,
-  UserRole,
-  UserStatus,
-} from "@/types/user/entities";
+import { User, UserRole, UserStatus } from "@/types/user/entities";
 import { hashPassword } from "@/utils/password-handler";
 import { v4 as uuidv4 } from "uuid";
 

@@ -6,12 +6,11 @@
 
 ```
 src/
-├── app.ts                          # Fastify app factory + composition root + global error handler
-├── server.ts                       # Entry point: env validation + startup
+├── app.ts                          # Fastify app factory + composition root + global error handler + env validation
+├── server.ts                       # Entry point: dotenv + startup (delegates to createApp)
 │
 ├── controllers/
 │   ├── routes.ts                   # Central route registration
-│   ├── healthcheck.controller.ts   # Health endpoint
 │   └── <name>.controller.ts        # Feature controllers
 │
 ├── services/
@@ -19,14 +18,23 @@ src/
 │
 ├── repository/
 │   ├── <name>.ts                   # Repository interface
-│   └── in-memory/
-│       └── <name>.ts               # In-memory implementation (guide)
+│   ├── in-memory/
+│   │   └── <name>.ts               # In-memory implementation (guide)
+│   └── firebase/
+│       ├── index.ts                # Barrel export
+│       ├── user.ts                 # Firebase Firestore UserRepository implementation
+│       └── <name>.ts               # Future Firebase implementations
 │
 ├── middlewares/
 │   └── <name>-middleware.ts        # Fastify hooks/preHandlers (e.g., auth-middleware.ts)
 │
+├── lib/
+│   ├── index.ts                    # Barrel export
+│   ├── firebase.ts                 # Firebase Admin SDK initialization (initFirebase)
+│   └── <name>.ts                   # Shared initialization modules
+│
 ├── utils/
-│   ├── jwt-handler.ts              # JWT sign/verify helpers
+│   ├── jwt-handler.ts              # JWT sign/verify helpers (receives secret via param)
 │   ├── password-handler.ts         # bcrypt hash/compare helpers
 │   ├── time-handler.ts             # uptime / ISO timestamp helpers
 │   └── <name>-utils.ts             # Feature-scoped pure helpers (e.g., news-utils.ts)
@@ -41,10 +49,10 @@ src/
 │   ├── <domain>/
 │   │   ├── entities.ts             # Domain entities + enum-like const objects + types
 │   │   └── dtos.ts                 # Request/response DTOs for the domain
-│   └── fastify.d.ts                # Fastify module augmentation (e.g., request.user)
+│   └── fastify.d.ts                # Fastify module augmentation (e.g., request.user, env decorator)
 │
 ├── validation/
-│   ├── env.ts                      # Environment variable validation (lazy getEnv())
+│   ├── env.ts                      # Environment variable validation (validateEnv())
 │   └── <name>.ts                   # Zod validation schemas (per domain)
 │
 └── tests/                          # Test scaffolding folder
@@ -52,10 +60,8 @@ src/
 http/                               # Manual HTTP test files (.http) — one per domain
 _docs/                              # Internal domain docs (markdown)
 openspec/                           # OpenSpec specs + change archive
+.env.example                        # Documented environment variables template
 tests/                              # Smoke tests outside src/
-```
-
-> **Note:** `src/shared/` no longer exists. Its previous contents were moved to `src/middlewares/`, `src/utils/`, and `src/types/api/`.
 
 ## Architecture Rules
 
@@ -68,7 +74,7 @@ tests/                              # Smoke tests outside src/
 | **repository** | Data access contracts (interfaces) | `@/types/<domain>` |
 | **repository/in-memory** | In-memory implementations of repository interfaces (reference adapter) | repository interfaces, `@/types/<domain>`, `@/types/api` (for `AppErrorClass`), `@/utils` |
 | **middlewares** | Fastify hooks / preHandlers, throw `AppErrorClass` | `@/types/api`, `@/utils` |
-| **utils** | Pure, stateless helpers (no I/O, no business rules) | `@/validation` (only `getEnv` from `env.ts`), `@/types/<domain>`, external libs |
+| **utils** | Pure, stateless helpers (no I/O, no business rules) | `@/types/<domain>`, external libs — **never** from `@/validation/env` (env values are injected as params) |
 | **types/api** | Cross-cutting API contracts (`ResponsePayload`, `ErrorCode`, `AppErrorClass`) | — |
 | **types/<domain>** | Domain entities + DTOs | `@/types/<domain>` (cross-domain reuse only) |
 | **validation** | Zod schemas for input/env validation | `@/types/<domain>` |
@@ -78,7 +84,17 @@ tests/                              # Smoke tests outside src/
 All dependencies are wired in `app.ts` (composition root) and injected into controllers via factory functions. Controllers **MUST NOT** import services or repositories directly.
 
 ```
+server.ts (entry point)
+  │
+  └── import "dotenv/config"
+  └── const { app, env } = await createApp()
+  └── app.listen({ port: env.PORT, host: env.HOST })
+
 app.ts (composition root)
+  │
+  ├── env = validateEnv(process.env)
+  ├── app.decorate("env", env)
+  ├── db = initFirebase(env)
   │
   ├── repo = createInMemoryRepository()
   ├── service = createService(repo)
@@ -92,7 +108,9 @@ app.ts (composition root)
   │     ├── registrationController(app, { registrationService })
   │     └── userController(app, { userService })
   │
-  └── app.setErrorHandler(globalErrorHandler)
+  ├── app.setErrorHandler(globalErrorHandler)
+  │
+  └── return { app, env }
 ```
 
 **Controller signature:**
@@ -173,7 +191,7 @@ app.ts ────────────────────────�
 - Repository **never** contains business logic
 - `@/types/api` (cross-cutting contracts) **never** imports from any domain layer
 - `@/types/<domain>` MAY import from another `@/types/<other-domain>` for cross-domain references (e.g., `registration` references `UserProfessionType` from `user`)
-- `@/utils/*` SHOULD be pure — no I/O, no business rules. `jwt-handler.ts` is the only exception (reads `JWT_SECRET` via `getEnv()`)
+- `@/utils/*` MUST be pure — no I/O, no business rules, no imports from `@/validation/env`. Env-dependent values are injected as function parameters (e.g., `generateToken(payload, JWT_SECRET)`).
 
 ### Domain Type Organization
 
@@ -238,7 +256,7 @@ All API responses **MUST** use the `ResponsePayload` envelope from `@/types/api`
 
 ### Authentication & Password Hashing
 
-- JWT helpers live in `src/utils/jwt-handler.ts` and expose `generateToken(payload)` / `decodeToken(token)`. They read `JWT_SECRET` from `getEnv()`.
+- JWT helpers live in `src/utils/jwt-handler.ts` and expose `generateToken(payload, JWT_SECRET)` / `decodeToken(token, JWT_SECRET)`. The `JWT_SECRET` is injected from the Fastify `env` decorator (populated by `createApp()` in `app.ts`).
 - Password helpers live in `src/utils/password-handler.ts` and expose `hashPassword(plain)` / `verifyPassword(plain, hash)` using `bcrypt` with 10 salt rounds.
 - Token payload shape is `TokenPayloadDTO` (in `src/types/auth/dtos.ts`): `{ sub: string; email: string; role: string }`. Token TTL is 24h.
 - Auth middleware (`src/middlewares/auth-middleware.ts`):
@@ -253,6 +271,7 @@ All API responses **MUST** use the `ResponsePayload` envelope from `@/types/api`
 
 - All Fastify type augmentations live in `src/types/fastify.d.ts`.
 - New augmentations (e.g., adding fields to `FastifyReply`, `FastifyInstance`) MUST be added there with explicit types — never inline in a controller.
+- The `env` decorator is added at runtime via `app.decorate("env", env)` in `createApp()`. Middlewares that need env values (e.g., `JWT_SECRET` in `auth-middleware.ts`) read from `(request.server as unknown as { env: Env }).env` — this pattern avoids importing `@/validation/env` in middlewares.
 
 ### HTTP Test Files
 
@@ -263,7 +282,7 @@ All API responses **MUST** use the `ResponsePayload` envelope from `@/types/api`
 ### Validation
 
 - Use `zod` schemas in `src/validation/<domain>.ts` for all input validation
-- Environment variables validated lazily at first access via `getEnv()` in `src/validation/env.ts` (cached after first parse)
+- Environment variables validated eagerly in `createApp()` (`src/app.ts`) via `validateEnv(process.env)` — called once at startup, result decorated as `app.env` and returned as `{ app, env }`
 - Request body / query / params validated via zod `safeParse` in controllers
 - On `safeParse` failure, controllers return a `400` response with code `VALIDATION_ERROR` or `INVALID_PAYLOAD` — they do NOT throw
 

@@ -1,5 +1,21 @@
 ## ADDED Requirements
 
+### Requirement: Environment variable validation (eager)
+
+The system SHALL validate ALL environment variables eagerly at startup using `validateEnv(process.env)` called inside `createApp()` in `src/app.ts`. The validated environment object SHALL be decorated as `app.env` and returned as part of `{ app, env }` from `createApp()`.
+
+#### Scenario: Valid env starts successfully
+
+- **WHEN** all required environment variables (`FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY`, etc.) are set
+- **THEN** `validateEnv` returns the parsed `Env` object
+- **THEN** `createApp()` decorates `app` with `env` and returns `{ app, env }`
+
+#### Scenario: Missing required env fails fast
+
+- **WHEN** a required environment variable is missing
+- **THEN** `validateEnv` SHALL throw with a descriptive error message listing all missing/invalid fields
+- **THEN** the application SHALL NOT start (fail-fast)
+
 ### Requirement: Firebase Admin SDK initialization
 
 The system SHALL initialize Firebase Admin SDK once at application startup using a service account credential loaded from environment variables.
@@ -13,25 +29,6 @@ The system SHALL initialize Firebase Admin SDK once at application startup using
 
 - **WHEN** the application starts with missing or invalid Firebase credentials
 - **THEN** the application SHALL throw an error during startup and log the failure
-
-### Requirement: Environment variable validation
-
-The system SHALL validate Firebase-related environment variables using Zod schema before initializing Firebase.
-
-#### Scenario: Missing FIREBASE_PROJECT_ID fails validation
-
-- **WHEN** `FIREBASE_PROJECT_ID` is not set in the environment
-- **THEN** the env validation SHALL fail with a descriptive error message
-
-#### Scenario: Missing FIREBASE_CLIENT_EMAIL fails validation
-
-- **WHEN** `FIREBASE_CLIENT_EMAIL` is not set in the environment
-- **THEN** the env validation SHALL fail with a descriptive error message
-
-#### Scenario: Missing FIREBASE_PRIVATE_KEY fails validation
-
-- **WHEN** `FIREBASE_PRIVATE_KEY` is not set in the environment
-- **THEN** the env validation SHALL fail with a descriptive error message
 
 ### Requirement: Private key newline handling
 

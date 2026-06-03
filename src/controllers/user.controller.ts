@@ -19,9 +19,7 @@ export async function userController(
     request: FastifyRequest,
     reply: FastifyReply,
   ) {
-    const { success, data, error } = createUserSchema.safeParse(
-      request.body,
-    );
+    const { success, data, error } = createUserSchema.safeParse(request.body);
 
     if (!success) {
       reply.code(400);
@@ -204,10 +202,7 @@ export async function userController(
     }
   }
 
-  async function loginHandler(
-    request: FastifyRequest,
-    reply: FastifyReply,
-  ) {
+  async function loginHandler(request: FastifyRequest, reply: FastifyReply) {
     const { success, data, error } = loginSchema.safeParse(request.body);
 
     if (!success) {
@@ -290,29 +285,13 @@ export async function userController(
   }
 
   app.post("/user/login", loginHandler);
-  app.post(
-    "/user/",
-    { preHandler: [authMiddleware] },
-    createUserHandler,
-  );
-  app.get(
-    "/user/:id",
-    { preHandler: [authMiddleware] },
-    getUserByIdHandler,
-  );
+  app.post("/user/", { preHandler: [authMiddleware] }, createUserHandler);
+  app.get("/user/:id", { preHandler: [authMiddleware] }, getUserByIdHandler);
   app.get(
     "/user/email/:email",
     { preHandler: [authMiddleware] },
     getUserByEmailHandler,
   );
-  app.put(
-    "/user/:id",
-    { preHandler: [authMiddleware] },
-    updateUserHandler,
-  );
-  app.delete(
-    "/user/:id",
-    { preHandler: [authMiddleware] },
-    deleteUserHandler,
-  );
+  app.put("/user/:id", { preHandler: [authMiddleware] }, updateUserHandler);
+  app.delete("/user/:id", { preHandler: [authMiddleware] }, deleteUserHandler);
 }

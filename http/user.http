@@ -3,8 +3,8 @@ POST http://localhost:3000/user/login
 Content-Type: application/json
 
 {
-  "email": "joao@example.com",
-  "password": "123456"
+  "email": "admin@email.com",
+  "password": "admin123"
 }
 
 ### Criar usuário (autenticado)
@@ -13,32 +13,31 @@ Content-Type: application/json
 Authorization: Bearer replace-with-token
 
 {
-  "name": "Maria Oliveira",
-  "email": "maria@example.com",
-  "password": "123456",
-  "profession": "designer",
-  "bio": "UX Designer",
-  "role": "collaborator"
+  "name": "admin",
+  "email": "admin@email.com",
+  "password": "admin123",
+  "profession": "DESENVOLVEDOR",
+  "bio": "admin do sistema",
+  "role": "admin"
 }
 
 ### Buscar usuário por ID (autenticado)
-GET http://localhost:3000/user/replace-with-uuid
-Authorization: Bearer replace-with-token
+GET http://localhost:3000/user/c2e7ccde-2ca4-4379-8c54-616f578bc972
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MDUyMzE0MCwiZXhwIjoxNzgwNjA5NTQwfQ.HxV4yIJkOxRkppw41wfR8P6FH5UH_wFitb7mTxICbUc
 
 ### Buscar usuário por email (autenticado)
-GET http://localhost:3000/user/email/maria@example.com
-Authorization: Bearer replace-with-token
+GET http://localhost:3000/user/email/admin@email.com
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MDUyMzE0MCwiZXhwIjoxNzgwNjA5NTQwfQ.HxV4yIJkOxRkppw41wfR8P6FH5UH_wFitb7mTxICbUc
 
 ### Atualizar usuário (autenticado)
-PUT http://localhost:3000/user/replace-with-uuid
+PUT http://localhost:3000/user/c2e7ccde-2ca4-4379-8c54-616f578bc972
 Content-Type: application/json
-Authorization: Bearer replace-with-token
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MDUyMzE0MCwiZXhwIjoxNzgwNjA5NTQwfQ.HxV4yIJkOxRkppw41wfR8P6FH5UH_wFitb7mTxICbUc
 
 {
-  "name": "Maria Oliveira Santos",
-  "bio": "Senior UX Designer"
+  "bio": "admin"
 }
 
 ### Deletar usuário (autenticado)
-DELETE http://localhost:3000/user/replace-with-uuid
-Authorization: Bearer replace-with-token
+DELETE http://localhost:3000/user/c2e7ccde-2ca4-4379-8c54-616f578bc972
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MDUyMzE0MCwiZXhwIjoxNzgwNjA5NTQwfQ.HxV4yIJkOxRkppw41wfR8P6FH5UH_wFitb7mTxICbUc
