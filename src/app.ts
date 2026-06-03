@@ -7,8 +7,10 @@ import { createCategoryService } from "@/services/category.service";
 import { createNewsService } from "@/services/news.service";
 import { RegistrationServiceFactory } from "@/services/registration.service";
 import { UserServiceFactory } from "@/services/user.service";
-import { UserInMemoryRepositoryFactory } from "./repository/in-memory/user";
+import { initFirebase } from "@/lib/firebase";
+import { UserFirebaseRepositoryFactory } from "@/repository/firebase";
 import { AppErrorClass } from "@/types/api";
+import { validateEnv } from "./validation/env";
 
 export type AppServices = {
   categoryService: ReturnType<typeof createCategoryService>;
@@ -22,6 +24,13 @@ export async function createApp() {
     logger: true,
   });
 
+  const env = validateEnv(process.env);
+  app.decorate("env", env);
+  console.log("Environment variables validated successfully.", env);
+
+  const db = initFirebase(env);
+  console.log("Firebase initialized successfully.");
+
   // category dependencies
   const categoryRepo = createCategoryInMemoryRepository();
   const categoryService = createCategoryService(categoryRepo);
@@ -31,7 +40,7 @@ export async function createApp() {
   const newsService = createNewsService(newsRepo);
 
   // user dependencies
-  const userRepo = UserInMemoryRepositoryFactory();
+  const userRepo = UserFirebaseRepositoryFactory(db);
   const registrationRequestRepo =
     RegistrationRequestInMemoryRepositoryFactory();
 
@@ -39,7 +48,8 @@ export async function createApp() {
     registrationRequestRepo,
     userRepo,
   );
-  const userService = UserServiceFactory(userRepo);
+
+  const userService = UserServiceFactory(userRepo, env.JWT_SECRET);
 
   const services: AppServices = {
     categoryService,
@@ -70,5 +80,8 @@ export async function createApp() {
     });
   });
 
-  return app;
+  return {
+    app,
+    env,
+  };
 }
