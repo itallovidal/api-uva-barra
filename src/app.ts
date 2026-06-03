@@ -1,14 +1,16 @@
 import Fastify from "fastify";
 import { registerRoutes } from "@/controllers/routes";
-import { createCategoryInMemoryRepository } from "@/repository/in-memory/category";
-import { createNewsInMemoryRepository } from "@/repository/in-memory/news";
-import { RegistrationRequestInMemoryRepositoryFactory } from "@/repository/in-memory/registration-request";
 import { createCategoryService } from "@/services/category.service";
 import { createNewsService } from "@/services/news.service";
 import { RegistrationServiceFactory } from "@/services/registration.service";
 import { UserServiceFactory } from "@/services/user.service";
 import { initFirebase } from "@/lib/firebase";
-import { UserFirebaseRepositoryFactory } from "@/repository/firebase";
+import {
+  UserFirebaseRepositoryFactory,
+  CategoryFirebaseRepositoryFactory,
+  NewsFirebaseRepositoryFactory,
+  RegistrationRequestFirebaseRepositoryFactory,
+} from "@/repository/firebase";
 import { AppErrorClass } from "@/types/api";
 import { validateEnv } from "./validation/env";
 
@@ -32,17 +34,17 @@ export async function createApp() {
   console.log("Firebase initialized successfully.");
 
   // category dependencies
-  const categoryRepo = createCategoryInMemoryRepository();
+  const categoryRepo = CategoryFirebaseRepositoryFactory(db);
   const categoryService = createCategoryService(categoryRepo);
 
   // news dependencies
-  const newsRepo = createNewsInMemoryRepository();
+  const newsRepo = NewsFirebaseRepositoryFactory(db);
   const newsService = createNewsService(newsRepo);
 
   // user dependencies
   const userRepo = UserFirebaseRepositoryFactory(db);
   const registrationRequestRepo =
-    RegistrationRequestInMemoryRepositoryFactory();
+    RegistrationRequestFirebaseRepositoryFactory(db);
 
   const registrationService = RegistrationServiceFactory(
     registrationRequestRepo,
