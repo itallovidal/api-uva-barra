@@ -1,15 +1,36 @@
-### Criar categoria
+### Criar categoria sem tags
 POST http://localhost:3000/categories
 Content-Type: application/json
 
 {
-  "name": "Tecnologia",
-  "description": "Notícias sobre tecnologia"
+  "name": "Tecnologia"
+}
+
+### Criar categoria com tags
+POST http://localhost:3000/categories
+Content-Type: application/json
+
+{
+  "name": "Saúde & Bem Estar",
+  "tags": ["Saúde", "Saúde Mental", "Psicologia"]
 }
 
 ### Listar categorias
 GET http://localhost:3000/categories
 
+
+### Buscar categoria por ID
+GET http://localhost:3000/categories/6ee9dc24-a462-4c50-b199-3da0f9606f6c
+
+
+### Atualizar categoria
+PUT http://localhost:3000/categories/6ee9dc24-a462-4c50-b199-3da0f9606f6c
+Content-Type: application/json
+
+{
+  "name": "Saúde & Bem Estar",
+  "tags": ["Saúde", "Bem Estar", "Psicologia"]
+}
 
 ### Deletar categoria
 DELETE http://localhost:3000/categories/6ee9dc24-a462-4c50-b199-3da0f9606f6c
