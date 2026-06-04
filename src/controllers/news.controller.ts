@@ -9,6 +9,7 @@ import {
   updateNewsSchema,
   newsParamsSchema,
   latestNewsQuerySchema,
+  newsSlugSchema,
 } from "@/validation/news";
 
 export async function newsController(
@@ -58,6 +59,40 @@ export async function newsController(
 
     try {
       const news = await deps.newsService.findById(parsed.data.id);
+      return { status: 200, data: news };
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
+          data: null,
+        };
+      }
+
+      throw error;
+    }
+  }
+
+  async function findNewsBySlugHandler(
+    request: { params: { slug: string } },
+    reply: { code: (status: number) => void },
+  ): Promise<ResponsePayload> {
+    const parsed = newsSlugSchema.safeParse(request.params);
+    if (!parsed.success) {
+      reply.code(400);
+      return {
+        status: 400,
+        data: null,
+        error: {
+          message: "Slug inválido",
+          code: "VALIDATION_ERROR",
+        },
+      };
+    }
+
+    try {
+      const news = await deps.newsService.findBySlug(parsed.data.slug);
       return { status: 200, data: news };
     } catch (error: unknown) {
       if (error instanceof AppErrorClass) {
@@ -218,6 +253,11 @@ export async function newsController(
   );
 
   app.get<{ Params: { id: string } }>("/news/:id", findNewsByIdHandler);
+
+  app.get<{ Params: { slug: string } }>(
+    "/news/slug/:slug",
+    findNewsBySlugHandler,
+  );
 
   app.put<{ Params: { id: string }; Body: Partial<CreateNewsDTO> }>(
     "/news/:id",

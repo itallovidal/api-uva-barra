@@ -19,6 +19,14 @@ export function createNewsService(newsRepo: NewsRepository) {
       return news;
     },
 
+    async findBySlug(slug: string): Promise<News> {
+      const news = await newsRepo.findBySlug(slug);
+      if (!news) {
+        throw new AppErrorClass("Notícia não encontrada", "NOT_FOUND", 404);
+      }
+      return news;
+    },
+
     async update(id: string, input: Partial<CreateNewsDTO>): Promise<News> {
       const news = await newsRepo.update(id, input);
       if (!news) {

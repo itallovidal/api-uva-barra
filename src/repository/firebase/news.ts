@@ -39,6 +39,17 @@ export function NewsFirebaseRepositoryFactory(
       return deserializeNews(doc.id, doc.data() as Record<string, unknown>);
     },
 
+    async findBySlug(slug: string): Promise<News | null> {
+      const snapshot = await db
+        .collection(COLLECTION)
+        .where("slug", "==", slug)
+        .limit(1)
+        .get();
+      if (snapshot.empty) return null;
+      const doc = snapshot.docs[0];
+      return deserializeNews(doc.id, doc.data() as Record<string, unknown>);
+    },
+
     async create(input: CreateNewsDTO): Promise<News> {
       const id = crypto.randomUUID();
       const now = new Date();

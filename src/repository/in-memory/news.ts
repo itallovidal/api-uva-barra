@@ -12,6 +12,11 @@ export function createNewsInMemoryRepository(): NewsRepository {
       return store.get(id) ?? null;
     },
 
+    async findBySlug(slug: string): Promise<News | null> {
+      const all = Array.from(store.values());
+      return all.find((n) => n.slug === slug) ?? null;
+    },
+
     async create(input: CreateNewsDTO): Promise<News> {
       const now = new Date();
       const news: News = {

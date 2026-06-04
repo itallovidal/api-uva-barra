@@ -43,6 +43,10 @@ export const newsParamsSchema = z.object({
   id: z.string().uuid("Invalid news ID"),
 });
 
+export const newsSlugSchema = z.object({
+  slug: z.string().min(1, "Slug is required"),
+});
+
 export const latestNewsQuerySchema = z.object({
   page: z.coerce.number().int().positive().optional().default(1),
   perPage: z.coerce.number().int().positive().max(50).optional().default(10),
