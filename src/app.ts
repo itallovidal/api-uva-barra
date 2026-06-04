@@ -23,12 +23,12 @@ export type AppServices = {
 
 export async function createApp() {
   const app = Fastify({
-    logger: true,
+    logger: false,
   });
 
   const env = validateEnv(process.env);
   app.decorate("env", env);
-  console.log("Environment variables validated successfully.", env);
+  console.log("Environment variables validated successfully.");
 
   const db = initFirebase(env);
   console.log("Firebase initialized successfully.");

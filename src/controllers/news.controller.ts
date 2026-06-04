@@ -21,6 +21,8 @@ export async function newsController(
   ): Promise<ResponsePayload> {
     const parsed = createNewsSchema.safeParse(request.body);
     if (!parsed.success) {
+      console.error("Validation error:", parsed.error.format());
+
       reply.code(400);
       return {
         status: 400,
@@ -157,7 +159,9 @@ export async function newsController(
   }
 
   async function findLatestNewsHandler(
-    request: FastifyRequest<{ Querystring: { page?: string; perPage?: string } }>,
+    request: FastifyRequest<{
+      Querystring: { page?: string; perPage?: string };
+    }>,
     reply: { code: (status: number) => void },
   ): Promise<ResponsePayload> {
     const parsed = latestNewsQuerySchema.safeParse(request.query);

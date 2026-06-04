@@ -1,7 +1,7 @@
 ## ADDED Requirements
 
 ### Requirement: Create News Article
-The system SHALL allow creating a news article with title, summary, content, cover image URL, category, tags, featured flag, and status. The system SHALL auto-generate a unique ID, slug, reading time (based on content word count), and timestamps.
+The system SHALL allow creating a news article with title, summary, content, cover image URL, category, tags, featured flag, and status. The system MAY optionally accept slug and author; if slug is not provided, it SHALL be auto-generated via slugify(title). The system SHALL auto-generate a unique ID, reading time (based on content word count), and timestamps.
 
 #### Scenario: Successful news article creation
 - **WHEN** a POST request is sent to `/news` with valid `CreateNewsDTO` data

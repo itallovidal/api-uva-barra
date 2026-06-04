@@ -48,7 +48,9 @@ Esta documentação descreve o módulo de Notícias (News): como criar, atualiza
   "category": "categoria-exemplo",
   "tags": ["tag1", "tag2"],
   "featured": false,
-  "status": "draft|review|published|archived"
+  "status": "draft|review|published|archived",
+  "slug": "slug-personalizado",        // opcional; se omitido, gerado via slugify(title)
+  "author": "Nome do autor"            // opcional
 }
 ```
 
@@ -89,7 +91,9 @@ Esta documentação descreve o módulo de Notícias (News): como criar, atualiza
 ## Comportamentos importantes
 
 - Listagens (`/news/latest`) retornam APENAS artigos com `status === 'published'` e ordenados por `publishedAt` desc.
-- `slug` é gerado automaticamente (ex.: `slugify(title)`).
+- `slug` é gerado automaticamente via `slugify(title)` se não fornecido; aceito opcionalmente no body.
+- `slugify` converte para lowercase, remove acentos/tils (NFD normalization), substitui espaços por hífens, e remove caracteres especiais.
+- `author` é aceito opcionalmente no body; se omitido, fica como string vazia.
 - `readingTime` é calculado automaticamente por `calculateReadingTime(content)` (em `src/utils/news-utils.ts`).
 - Ao criar/atualizar: se `status` passar para `published` e `publishedAt` ainda for nulo, o repositório define `publishedAt = now`.
 - Implementação atual em memória (`src/repository/in-memory/news.ts`) define `author` como string vazia no momento da criação; recomenda-se popular `author` com o usuário autenticado nas rota protegidas.

@@ -22,4 +22,6 @@ export interface CreateNewsDTO {
   tags: string[];
   featured: boolean;
   status: NewsStatusType;
+  slug?: string;
+  author?: string;
 }
