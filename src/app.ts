@@ -13,6 +13,7 @@ import {
 } from "@/repository/firebase";
 import { AppErrorClass } from "@/types/api";
 import { validateEnv } from "./validation/env";
+import cors from "@fastify/cors";
 
 export type AppServices = {
   categoryService: ReturnType<typeof createCategoryService>;
@@ -23,7 +24,11 @@ export type AppServices = {
 
 export async function createApp() {
   const app = Fastify({
-    logger: false,
+    logger: true,
+  });
+
+  await app.register(cors, {
+    origin: "*",
   });
 
   const env = validateEnv(process.env);
