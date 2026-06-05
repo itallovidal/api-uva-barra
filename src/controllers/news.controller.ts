@@ -10,6 +10,7 @@ import {
   newsParamsSchema,
   latestNewsQuerySchema,
   newsSlugSchema,
+  newsSearchQuerySchema,
 } from "@/validation/news";
 
 export async function newsController(
@@ -261,11 +262,47 @@ export async function newsController(
     };
   }
 
+  async function searchNewsHandler(
+    request: FastifyRequest<{
+      Querystring: { q: string; order?: string; page?: string; perPage?: string };
+    }>,
+    reply: { code: (status: number) => void },
+  ): Promise<ResponsePayload> {
+    const parsed = newsSearchQuerySchema.safeParse(request.query);
+    if (!parsed.success) {
+      reply.code(400);
+      return {
+        status: 400,
+        data: null,
+        error: {
+          message: "Parâmetros de busca inválidos",
+          code: "VALIDATION_ERROR",
+        },
+      };
+    }
+
+    const result = await deps.newsService.search(parsed.data);
+    return {
+      status: 200,
+      data: result.items,
+      meta: {
+        page: result.page,
+        perPage: result.perPage,
+        total: result.total,
+        totalPages: result.totalPages,
+      },
+    };
+  }
+
   app.post<{ Body: CreateNewsDTO }>(
     "/news",
     { preHandler: [authMiddleware] },
     createNewsHandler,
   );
+
+  app.get<{
+    Querystring: { q: string; order?: string; page?: string; perPage?: string };
+  }>("/news/search", searchNewsHandler);
 
   app.get<{ Params: { id: string } }>("/news/:id", findNewsByIdHandler);
 

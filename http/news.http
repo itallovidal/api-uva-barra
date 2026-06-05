@@ -52,3 +52,15 @@ GET http://localhost:3000/news/slug/1a-semana-de-educacao-fisica-aproxima-os-alu
 
 ### Buscar notícia por slug inexistente
 GET http://localhost:3000/news/slug/slug-que-nao-existe
+
+### Buscar notícias por termo
+GET http://localhost:3000/news/search?q=educacao
+
+### Buscar notícias por termo com ordenação
+GET http://localhost:3000/news/search?q=semana-de&order=oldest
+
+### Buscar notícias por termo com paginação
+GET http://localhost:3000/news/search?q=uva&page=2&perPage=5
+
+### Buscar notícias sem termo (deve retornar erro de validação)
+GET http://localhost:3000/news/search

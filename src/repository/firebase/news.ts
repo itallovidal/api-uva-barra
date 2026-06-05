@@ -50,6 +50,14 @@ export function NewsFirebaseRepositoryFactory(
       return deserializeNews(doc.id, doc.data() as Record<string, unknown>);
     },
 
+    async findManyByIds(ids: string[]): Promise<News[]> {
+      console.log("findManyByIds - NewsFirebaseRepository");
+      if (ids.length === 0) return [];
+      const promises = ids.map((id) => this.findById(id));
+      const results = await Promise.all(promises);
+      return results.filter((n): n is News => n !== null);
+    },
+
     async create(input: CreateNewsDTO): Promise<News> {
       const id = crypto.randomUUID();
       const now = new Date();
@@ -139,6 +147,15 @@ export function NewsFirebaseRepositoryFactory(
       );
 
       return { items, total };
+    },
+
+    async search(params: {
+      q: string;
+      order: "newest" | "oldest";
+      page: number;
+      perPage: number;
+    }): Promise<{ items: News[]; total: number }> {
+      throw new Error("Search is not implemented directly in Firebase repo. It should be delegated to CacheService in the NewsService.");
     },
   };
 }

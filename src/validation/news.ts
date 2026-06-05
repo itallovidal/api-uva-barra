@@ -51,3 +51,10 @@ export const latestNewsQuerySchema = z.object({
   page: z.coerce.number().int().positive().optional().default(1),
   perPage: z.coerce.number().int().positive().max(50).optional().default(10),
 });
+
+export const newsSearchQuerySchema = z.object({
+  q: z.string().min(1, "Search term is required"),
+  order: z.enum(["newest", "oldest"]).optional().default("newest"),
+  page: z.coerce.number().int().positive().optional().default(1),
+  perPage: z.coerce.number().int().positive().max(50).optional().default(10),
+});

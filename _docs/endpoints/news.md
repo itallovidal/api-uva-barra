@@ -18,6 +18,7 @@ Endpoints para gerenciamento de notícias. Operações de criação, edição e 
 | DELETE | `/news/:id` | JWT (Bearer) | Remover notícia |
 | GET | `/news` | Nenhuma | Listar notícias publicadas (paginado) |
 | GET | `/news/category/:category` | Nenhuma | Listar notícias por categoria (paginado) |
+| GET | `/news/search` | Nenhuma | Buscar notícias por termo (paginado) |
 
 ## Detalhamento
 
@@ -236,6 +237,33 @@ Remove uma notícia.
 }
 ```
 
+### `GET /news/search`
+
+Busca notícias publicadas por palavra-chave no título ou slug. Retorna resultados ordenados por data de publicação.
+
+**Query params:**
+- `q` (string, obrigatório) — Termo de busca (mínimo 1 caractere)
+- `order` (string, opcional, default `newest`) — Ordenação: `newest` (mais recente primeiro) ou `oldest` (mais antigo primeiro)
+- `page` (number, opcional, coerced, default `1`) — Página atual
+- `perPage` (number, opcional, coerced, default `10`, max `50`) — Itens por página
+
+**Validação:** `src/validation/news.ts` — `newsSearchQuerySchema`
+
+**Resposta (200 OK):** Mesmo formato de `/news`. Retorna array vazio em `data` se nenhum resultado for encontrado.
+
+**Resposta (400 Bad Request):**
+
+```json
+{
+  "status": 400,
+  "data": null,
+  "error": {
+    "message": "Parâmetros de busca inválidos",
+    "code": "VALIDATION_ERROR"
+  }
+}
+```
+
 ### `GET /news`
 
 Lista notícias publicadas ordenadas por `publishedAt` descendente. Retorna apenas artigos com `status === "published"`.
@@ -296,6 +324,7 @@ Lista notícias publicadas filtradas por categoria.
 | `newsParamsSchema` | `src/validation/news.ts` | Valida `id` como UUID |
 | `newsSlugSchema` | `src/validation/news.ts` | Valida `slug` como string |
 | `latestNewsQuerySchema` | `src/validation/news.ts` | Valida `page` e `perPage` (coerced numbers) |
+| `newsSearchQuerySchema` | `src/validation/news.ts` | Valida `q`, `order`, `page` e `perPage` |
 
 ## Tipos e DTOs
 

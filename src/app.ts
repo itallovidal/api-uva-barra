@@ -2,6 +2,7 @@ import Fastify from "fastify";
 import { registerRoutes } from "@/controllers/routes";
 import { createCategoryService } from "@/services/category.service";
 import { createNewsService } from "@/services/news.service";
+import { createCacheService } from "@/services/cache.service";
 import { RegistrationServiceFactory } from "@/services/registration.service";
 import { UserServiceFactory } from "@/services/user.service";
 import { initFirebase } from "@/lib/firebase";
@@ -42,9 +43,13 @@ export async function createApp() {
   const categoryRepo = CategoryFirebaseRepositoryFactory(db);
   const categoryService = createCategoryService(categoryRepo);
 
+  // cache dependency
+  const cacheService = createCacheService();
+
   // news dependencies
   const newsRepo = NewsFirebaseRepositoryFactory(db);
-  const newsService = createNewsService(newsRepo);
+  await cacheService.warmUpNewsIndex(newsRepo);
+  const newsService = createNewsService(newsRepo, cacheService);
 
   // user dependencies
   const userRepo = UserFirebaseRepositoryFactory(db);

@@ -17,6 +17,12 @@ export function createNewsInMemoryRepository(): NewsRepository {
       return all.find((n) => n.slug === slug) ?? null;
     },
 
+    async findManyByIds(ids: string[]): Promise<News[]> {
+      console.log("findManyByIds - NewsInMemoryRepository");
+      const all = Array.from(store.values());
+      return all.filter((n) => ids.includes(n.id));
+    },
+
     async create(input: CreateNewsDTO): Promise<News> {
       const now = new Date();
       const news: News = {
@@ -92,6 +98,35 @@ export function createNewsInMemoryRepository(): NewsRepository {
       const total = published.length;
       const start = (params.page - 1) * params.perPage;
       const items = published.slice(start, start + params.perPage);
+
+      return { items, total };
+    },
+
+    async search(params: {
+      q: string;
+      order: "newest" | "oldest";
+      page: number;
+      perPage: number;
+    }): Promise<{ items: News[]; total: number }> {
+      const all = Array.from(store.values());
+      const query = params.q.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+      
+      const filtered = all.filter((n) => {
+        if (n.status !== NewsStatus.PUBLISHED) return false;
+        const t = n.title.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+        const s = n.slug.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+        return t.includes(query) || s.includes(query);
+      });
+
+      filtered.sort((a, b) => {
+        const aTime = a.publishedAt?.getTime() ?? 0;
+        const bTime = b.publishedAt?.getTime() ?? 0;
+        return params.order === "newest" ? bTime - aTime : aTime - bTime;
+      });
+
+      const total = filtered.length;
+      const start = (params.page - 1) * params.perPage;
+      const items = filtered.slice(start, start + params.perPage);
 
       return { items, total };
     },
