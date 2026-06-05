@@ -199,10 +199,17 @@ export async function newsController(
     }>,
     reply: { code: (status: number) => void },
   ): Promise<ResponsePayload> {
-    const parsed = latestNewsQuerySchema.safeParse(request.query);
-    const { page, perPage } = parsed.success
-      ? parsed.data
-      : { page: 1, perPage: 10 };
+    console.log("findLatestNewsHandler");
+
+    const { success, data, error } = latestNewsQuerySchema.safeParse(
+      request.query,
+    );
+
+    if (!success) {
+      console.error("Validation error:", error.format());
+    }
+
+    const { page, perPage } = success ? data : { page: 1, perPage: 10 };
 
     const result = await deps.newsService.findLatest({ page, perPage });
     return {
@@ -225,6 +232,14 @@ export async function newsController(
     reply: { code: (status: number) => void },
   ): Promise<ResponsePayload> {
     const parsed = latestNewsQuerySchema.safeParse(request.query);
+
+    console.log("findLatestNewsByCategoryHandler - query validation", {
+      success: parsed.success,
+      error: parsed.success ? null : parsed.error.format(),
+      data: parsed.data,
+      category: request.params.category,
+    });
+
     const { page, perPage } = parsed.success
       ? parsed.data
       : { page: 1, perPage: 10 };
@@ -272,12 +287,12 @@ export async function newsController(
   );
 
   app.get<{ Querystring: { page?: string; perPage?: string } }>(
-    "/news/latest",
+    "/news",
     findLatestNewsHandler,
   );
 
   app.get<{
     Params: { category: string };
     Querystring: { page?: string; perPage?: string };
-  }>("/news/latest/:category", findLatestNewsByCategoryHandler);
+  }>("/news/category/:category", findLatestNewsByCategoryHandler);
 }

@@ -42,10 +42,10 @@ DELETE http://localhost:3000/news/replace-with-uuid
 Authorization: Bearer replace-with-token
 
 ### Listar últimas notícias
-GET http://localhost:3000/news/latest?page=1&perPage=10
+GET http://localhost:3000/news?page=1&perPage=10
 
 ### Listar últimas notícias por categoria
-GET http://localhost:3000/news/latest/ciencia?page=1&perPage=10
+GET http://localhost:3000/news/category/ciencia?page=1&perPage=10
 
 ### Buscar notícia por slug
 GET http://localhost:3000/news/slug/1a-semana-de-educacao-fisica-aproxima-os-alunos-da-pratica-profissional

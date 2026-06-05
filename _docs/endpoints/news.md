@@ -16,8 +16,8 @@ Endpoints para gerenciamento de notícias. Operações de criação, edição e 
 | GET | `/news/slug/:slug` | Nenhuma | Buscar notícia por slug |
 | PUT | `/news/:id` | JWT (Bearer) | Atualizar notícia |
 | DELETE | `/news/:id` | JWT (Bearer) | Remover notícia |
-| GET | `/news/latest` | Nenhuma | Listar notícias publicadas (paginado) |
-| GET | `/news/latest/:category` | Nenhuma | Listar notícias por categoria (paginado) |
+| GET | `/news` | Nenhuma | Listar notícias publicadas (paginado) |
+| GET | `/news/category/:category` | Nenhuma | Listar notícias por categoria (paginado) |
 
 ## Detalhamento
 
@@ -236,7 +236,7 @@ Remove uma notícia.
 }
 ```
 
-### `GET /news/latest`
+### `GET /news`
 
 Lista notícias publicadas ordenadas por `publishedAt` descendente. Retorna apenas artigos com `status === "published"`.
 
@@ -274,18 +274,18 @@ Lista notícias publicadas ordenadas por `publishedAt` descendente. Retorna apen
 }
 ```
 
-### `GET /news/latest/:category`
+### `GET /news/category/:category`
 
 Lista notícias publicadas filtradas por categoria.
 
 **Parâmetros:**
 - `category` (string) — Categoria para filtrar
 
-**Query params:** Mesmo de `/news/latest` (`page`, `perPage`)
+**Query params:** Mesmo de `/news` (`page`, `perPage`)
 
 **Validação:** `src/validation/news.ts` — `latestNewsQuerySchema`
 
-**Resposta (200 OK):** Mesmo formato de `/news/latest`, filtrado pela categoria.
+**Resposta (200 OK):** Mesmo formato de `/news`, filtrado pela categoria.
 
 ## Validações aplicadas
 
@@ -308,7 +308,7 @@ Lista notícias publicadas filtradas por categoria.
 
 ## Comportamentos importantes
 
-- Listagens (`/news/latest`) retornam APENAS artigos com `status === 'published'` ordenados por `publishedAt` desc.
+- Listagens (`/news`) retornam APENAS artigos com `status === 'published'` ordenados por `publishedAt` desc.
 - `slug` é gerado automaticamente via `slugify(title)` se não fornecido.
 - `readingTime` é calculado automaticamente por `calculateReadingTime(content)`.
 - Ao criar/atualizar: se `status` passar para `published` e `publishedAt` for nulo, o repositório define `publishedAt = now`.

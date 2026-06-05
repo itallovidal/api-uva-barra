@@ -10,7 +10,7 @@ Esta documentação descreve o módulo de Notícias (News): como criar, atualiza
 ## Papéis e Permissões
 
 - `admin`: pode criar, atualizar e deletar artigos (`POST`, `PUT`, `DELETE`). As rotas já exigem autenticação via `authMiddleware`, mas recomenda-se checar explicitamente `request.user.role === 'admin'` antes de permitir alterações.
-- Público: pode listar e visualizar notícias publicadas (`GET /news/latest`, `GET /news/:id`).
+- Público: pode listar e visualizar notícias publicadas (`GET /news`, `GET /news/:id`).
 
 ## Endpoints
 
@@ -27,10 +27,10 @@ Esta documentação descreve o módulo de Notícias (News): como criar, atualiza
 - DELETE /news/:id — Permissão: admin (autenticado)
   - Remove o artigo.
 
-- GET /news/latest?page=&perPage= — Permissão: pública
+- GET /news?page=&perPage= — Permissão: pública
   - Retorna previews de notícias publicadas ordenadas por `publishedAt` desc. Resposta inclui `meta` com paginação.
 
-- GET /news/latest/:category?page=&perPage= — Permissão: pública
+- GET /news/category/:category?page=&perPage= — Permissão: pública
   - Filtra por `category` e devolve previews paginados.
 
 ## Tipos e DTOs
@@ -90,7 +90,7 @@ Esta documentação descreve o módulo de Notícias (News): como criar, atualiza
 
 ## Comportamentos importantes
 
-- Listagens (`/news/latest`) retornam APENAS artigos com `status === 'published'` e ordenados por `publishedAt` desc.
+- Listagens (`/news`) retornam APENAS artigos com `status === 'published'` e ordenados por `publishedAt` desc.
 - `slug` é gerado automaticamente via `slugify(title)` se não fornecido; aceito opcionalmente no body.
 - `slugify` converte para lowercase, remove acentos/tils (NFD normalization), substitui espaços por hífens, e remove caracteres especiais.
 - `author` é aceito opcionalmente no body; se omitido, fica como string vazia.
