@@ -2,7 +2,12 @@ import type { News } from "@/types/news/entities";
 import type { CreateNewsDTO } from "@/types/news/dtos";
 import type { NewsRepository } from "@/repository/news";
 import { NewsStatus } from "@/types/news/entities";
-import { slugify, calculateReadingTime } from "@/utils/news-utils";
+import {
+  slugify,
+  calculateReadingTime,
+  getNewsTimelineDate,
+  normalizeNewsStatus,
+} from "@/utils/news-utils";
 import type { Firestore, Timestamp } from "firebase-admin/firestore";
 
 const COLLECTION = "news";
@@ -17,7 +22,7 @@ function deserializeNews(id: string, data: Record<string, unknown>): News {
     coverImageUrl: data.coverImageUrl as string,
     category: data.category as string,
     author: data.author as string,
-    status: data.status as News["status"],
+    status: normalizeNewsStatus(data.status as News["status"] | null | undefined),
     tags: data.tags as string[],
     featured: data.featured as boolean,
     readingTime: data.readingTime as number,
@@ -120,33 +125,35 @@ export function NewsFirebaseRepositoryFactory(
       return true;
     },
 
-    async findLatest(params: {
-      page: number;
-      perPage: number;
-      category?: string;
-    }): Promise<{ items: News[]; total: number }> {
-      let query = db
-        .collection(COLLECTION)
-        .where("status", "==", NewsStatus.PUBLISHED)
-        .orderBy("publishedAt", "desc") as FirebaseFirestore.Query;
+    async findLatest(params): Promise<{ items: News[]; total: number }> {
+      let query = db.collection(COLLECTION) as FirebaseFirestore.Query;
 
       if (params.category) {
         query = query.where("category", "==", params.category);
       }
 
-      const countSnapshot = await query.count().get();
-      const total = countSnapshot.data().count;
-
-      const snapshot = await query
-        .offset((params.page - 1) * params.perPage)
-        .limit(params.perPage)
-        .get();
-
+      const snapshot = await query.get();
       const items = snapshot.docs.map((doc) =>
         deserializeNews(doc.id, doc.data() as Record<string, unknown>),
       );
 
-      return { items, total };
+      const filtered = items.filter((news) => {
+        if (params.status === NewsStatus.PUBLISHED) {
+          return news.status === NewsStatus.PUBLISHED;
+        }
+
+        return news.status !== NewsStatus.PUBLISHED;
+      });
+
+      filtered.sort((a, b) => {
+        return getNewsTimelineDate(b).getTime() - getNewsTimelineDate(a).getTime();
+      });
+
+      const total = filtered.length;
+      const start = (params.page - 1) * params.perPage;
+      const pagedItems = filtered.slice(start, start + params.perPage);
+
+      return { items: pagedItems, total };
     },
 
     async search(params: {

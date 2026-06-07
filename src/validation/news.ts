@@ -52,6 +52,14 @@ export const latestNewsQuerySchema = z.object({
   perPage: z.coerce.number().int().positive().max(50).optional().default(10),
 });
 
+export const newsListQuerySchema = z.object({
+  page: z.coerce.number().int().positive().optional().default(1),
+  perPage: z.coerce.number().int().positive().max(50).optional().default(10),
+  status: z.enum([NewsStatus.PUBLISHED, NewsStatus.UNPUBLISHED]).optional().default(NewsStatus.PUBLISHED),
+});
+
+export const newsListingQuerySchema = newsListQuerySchema;
+
 export const newsSearchQuerySchema = z.object({
   q: z.string().min(1, "Search term is required"),
   order: z.enum(["newest", "oldest"]).optional().default("newest"),

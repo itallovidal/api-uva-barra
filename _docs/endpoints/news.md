@@ -16,8 +16,8 @@ Endpoints para gerenciamento de notícias. Operações de criação, edição e 
 | GET | `/news/slug/:slug` | Nenhuma | Buscar notícia por slug |
 | PUT | `/news/:id` | JWT (Bearer) | Atualizar notícia |
 | DELETE | `/news/:id` | JWT (Bearer) | Remover notícia |
-| GET | `/news` | Nenhuma | Listar notícias publicadas (paginado) |
-| GET | `/news/category/:category` | Nenhuma | Listar notícias por categoria (paginado) |
+| GET | `/news` | `status=published`: Nenhuma; `status=unpublished`: JWT Bearer | Listar notícias com filtro de publicação (paginado) |
+| GET | `/news/category/:category` | `status=published`: Nenhuma; `status=unpublished`: JWT Bearer | Listar notícias por categoria com filtro de publicação (paginado) |
 | GET | `/news/search` | Nenhuma | Buscar notícias por termo (paginado) |
 
 ## Detalhamento
@@ -266,13 +266,14 @@ Busca notícias publicadas por palavra-chave no título ou slug. Retorna resulta
 
 ### `GET /news`
 
-Lista notícias publicadas ordenadas por `publishedAt` descendente. Retorna apenas artigos com `status === "published"`.
+Lista notícias com filtro de publicação. Por padrão, retorna apenas artigos publicados. Registros antigos sem `status` salvo são tratados como `published` na leitura. A consulta `status=unpublished` exige autenticação JWT.
 
 **Query params:**
 - `page` (number, opcional, coerced, default `1`) — Página atual
 - `perPage` (number, opcional, coerced, default `10`, max `50`) — Itens por página
+- `status` (string, opcional, default `published`) — `published` ou `unpublished`
 
-**Validação:** `src/validation/news.ts` — `latestNewsQuerySchema`
+**Validação:** `src/validation/news.ts` — `newsListQuerySchema`
 
 **Resposta (200 OK):**
 
@@ -304,14 +305,17 @@ Lista notícias publicadas ordenadas por `publishedAt` descendente. Retorna apen
 
 ### `GET /news/category/:category`
 
-Lista notícias publicadas filtradas por categoria.
+Lista notícias por categoria com filtro de publicação. Por padrão, retorna apenas artigos publicados. Registros antigos sem `status` salvo são tratados como `published` na leitura. A consulta `status=unpublished` exige autenticação JWT.
 
 **Parâmetros:**
 - `category` (string) — Categoria para filtrar
 
-**Query params:** Mesmo de `/news` (`page`, `perPage`)
+**Query params:**
+- `page` (number, opcional, coerced, default `1`) — Página atual
+- `perPage` (number, opcional, coerced, default `10`, max `50`) — Itens por página
+- `status` (string, opcional, default `published`) — `published` ou `unpublished`
 
-**Validação:** `src/validation/news.ts` — `latestNewsQuerySchema`
+**Validação:** `src/validation/news.ts` — `newsListQuerySchema`
 
 **Resposta (200 OK):** Mesmo formato de `/news`, filtrado pela categoria.
 
@@ -323,7 +327,7 @@ Lista notícias publicadas filtradas por categoria.
 | `updateNewsSchema` | `src/validation/news.ts` | Valida body de atualização (parcial) |
 | `newsParamsSchema` | `src/validation/news.ts` | Valida `id` como UUID |
 | `newsSlugSchema` | `src/validation/news.ts` | Valida `slug` como string |
-| `latestNewsQuerySchema` | `src/validation/news.ts` | Valida `page` e `perPage` (coerced numbers) |
+| `newsListQuerySchema` | `src/validation/news.ts` | Valida `page`, `perPage` e `status` para listagem |
 | `newsSearchQuerySchema` | `src/validation/news.ts` | Valida `q`, `order`, `page` e `perPage` |
 
 ## Tipos e DTOs
@@ -337,7 +341,8 @@ Lista notícias publicadas filtradas por categoria.
 
 ## Comportamentos importantes
 
-- Listagens (`/news`) retornam APENAS artigos com `status === 'published'` ordenados por `publishedAt` desc.
+- Listagens (`/news` e `/news/category/:category`) aceitam `status=published|unpublished`; por padrão retornam artigos publicados.
+- Registros sem `status` salvo são normalizados como `published` na leitura.
 - `slug` é gerado automaticamente via `slugify(title)` se não fornecido.
 - `readingTime` é calculado automaticamente por `calculateReadingTime(content)`.
 - Ao criar/atualizar: se `status` passar para `published` e `publishedAt` for nulo, o repositório define `publishedAt = now`.
@@ -350,4 +355,4 @@ Lista notícias publicadas filtradas por categoria.
 - `src/types/news/entities.ts` — definição de `News` e `NewsStatus`
 - `src/types/news/dtos.ts` — `CreateNewsDTO` e `NewsPreviewDTO`
 - `src/validation/news.ts` — schemas Zod
-- `src/utils/news-utils.ts` — `slugify` e `calculateReadingTime`
+- `src/utils/news-utils.ts` — `slugify`, `calculateReadingTime` e normalização de status de notícia

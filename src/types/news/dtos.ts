@@ -1,5 +1,7 @@
 import { NewsStatusType } from "./entities";
 
+export type NewsListingStatusType = "published" | "unpublished";
+
 export interface NewsPreviewDTO {
   id: string;
   title: string;
@@ -24,4 +26,11 @@ export interface CreateNewsDTO {
   status: NewsStatusType;
   slug?: string;
   author?: string;
+}
+
+export interface NewsListQueryDTO {
+  page: number;
+  perPage: number;
+  status: NewsListingStatusType;
+  category?: string;
 }

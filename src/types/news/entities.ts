@@ -2,6 +2,7 @@ export const NewsStatus = {
   DRAFT: "draft",
   REVIEW: "review",
   PUBLISHED: "published",
+  UNPUBLISHED: "unpublished",
   ARCHIVED: "archived",
 } as const;
 

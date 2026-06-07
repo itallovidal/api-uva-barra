@@ -1,6 +1,6 @@
 import type { News } from "@/types/news/entities";
 import { NewsStatus } from "@/types/news/entities";
-import type { CreateNewsDTO, NewsPreviewDTO } from "@/types/news/dtos";
+import type { CreateNewsDTO, NewsListQueryDTO, NewsPreviewDTO } from "@/types/news/dtos";
 import type { NewsRepository } from "@/repository/news";
 import { AppErrorClass } from "@/types/api";
 import type { CacheService, NewsIndexEntry } from "@/services/cache.service";
@@ -72,7 +72,7 @@ export function createNewsService(
       let entries = cacheService.get<NewsIndexEntry[]>("news-index");
       if (!entries) {
         console.log("search (cache miss) - NewsService");
-        await cacheService.warmUpNewsIndex(newsRepo);
+        // await cacheService.warmUpNewsIndex(newsRepo);
         entries = cacheService.get<NewsIndexEntry[]>("news-index") || [];
       } else {
         console.log("search (cache hit) - NewsService");
@@ -131,11 +131,7 @@ export function createNewsService(
       };
     },
 
-    async findLatest(params: {
-      page: number;
-      perPage: number;
-      category?: string;
-    }): Promise<{
+    async findLatest(params: NewsListQueryDTO): Promise<{
       items: NewsPreviewDTO[];
       total: number;
       page: number;

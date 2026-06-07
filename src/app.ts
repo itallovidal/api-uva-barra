@@ -48,7 +48,7 @@ export async function createApp() {
 
   // news dependencies
   const newsRepo = NewsFirebaseRepositoryFactory(db);
-  await cacheService.warmUpNewsIndex(newsRepo);
+  // await cacheService.warmUpNewsIndex(newsRepo);
   const newsService = createNewsService(newsRepo, cacheService);
 
   // user dependencies

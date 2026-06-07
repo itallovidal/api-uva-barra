@@ -285,6 +285,7 @@ All API responses **MUST** use the `ResponsePayload` envelope from `@/types/api`
 - Environment variables validated eagerly in `createApp()` (`src/app.ts`) via `validateEnv(process.env)` — called once at startup, result decorated as `app.env` and returned as `{ app, env }`
 - Request body / query / params validated via zod `safeParse` in controllers
 - On `safeParse` failure, controllers return a `400` response with code `VALIDATION_ERROR` or `INVALID_PAYLOAD` — they do NOT throw
+- News collection endpoints (`GET /news` and `GET /news/category/:category`) use `newsListQuerySchema` and accept `status=published|unpublished`; `status=unpublished` requires JWT Bearer auth; records without a stored news status are normalized to `published` on read.
 
 ### Naming Conventions
 

@@ -1,5 +1,6 @@
 import { TTLCache } from "@isaacs/ttlcache";
 import type { NewsRepository } from "@/repository/news";
+import { NewsStatus } from "@/types/news/entities";
 
 export type NewsIndexEntry = {
   id: string;
@@ -60,7 +61,11 @@ export function createCacheService(): CacheService {
     async warmUpNewsIndex(newsRepo: NewsRepository): Promise<void> {
       console.log("warmUpNewsIndex - CacheService");
       // Fetch all published news, findLatest returns them sorted by newest first
-      const { items } = await newsRepo.findLatest({ page: 1, perPage: 100000 });
+      const { items } = await newsRepo.findLatest({
+        page: 1,
+        perPage: 100000,
+        status: NewsStatus.PUBLISHED,
+      });
       const entries: NewsIndexEntry[] = items.map((news) => ({
         id: news.id,
         slug: news.slug,

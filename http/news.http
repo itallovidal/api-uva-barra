@@ -44,8 +44,22 @@ Authorization: Bearer replace-with-token
 ### Listar últimas notícias
 GET http://localhost:3000/news?page=1&perPage=10
 
+### Listar notícias publicadas
+GET http://localhost:3000/news?page=1&perPage=10&status=published
+
+### Listar notícias não publicadas
+Authorization: Bearer replace-with-token
+GET http://localhost:3000/news?page=1&perPage=10&status=unpublished
+
 ### Listar últimas notícias por categoria
 GET http://localhost:3000/news/category/ciencia?page=1&perPage=10
+
+### Listar notícias publicadas por categoria
+GET http://localhost:3000/news/category/ciencia?page=1&perPage=10&status=published
+
+### Listar notícias não publicadas por categoria
+Authorization: Bearer replace-with-token
+GET http://localhost:3000/news/category/ciencia?page=1&perPage=10&status=unpublished
 
 ### Buscar notícia por slug
 GET http://localhost:3000/news/slug/1a-semana-de-educacao-fisica-aproxima-os-alunos-da-pratica-profissional

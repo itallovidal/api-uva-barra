@@ -2,7 +2,11 @@ import type { News } from "@/types/news/entities";
 import type { CreateNewsDTO } from "@/types/news/dtos";
 import type { NewsRepository } from "@/repository/news";
 import { NewsStatus } from "@/types/news/entities";
-import { slugify, calculateReadingTime } from "@/utils/news-utils";
+import {
+  slugify,
+  calculateReadingTime,
+  getNewsTimelineDate,
+} from "@/utils/news-utils";
 
 export function createNewsInMemoryRepository(): NewsRepository {
   const store = new Map<string, News>();
@@ -79,25 +83,27 @@ export function createNewsInMemoryRepository(): NewsRepository {
       return store.delete(id);
     },
 
-    async findLatest(params: {
-      page: number;
-      perPage: number;
-      category?: string;
-    }): Promise<{ items: News[]; total: number }> {
+    async findLatest(params): Promise<{ items: News[]; total: number }> {
       const all = Array.from(store.values());
-      const published = all.filter(
-        (n) =>
-          n.status === NewsStatus.PUBLISHED &&
-          (!params.category || n.category === params.category),
-      );
-      published.sort(
-        (a, b) =>
-          (b.publishedAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? 0),
-      );
+      const filtered = all.filter((n) => {
+        if (params.category && n.category !== params.category) {
+          return false;
+        }
 
-      const total = published.length;
+        if (params.status === NewsStatus.PUBLISHED) {
+          return n.status === NewsStatus.PUBLISHED;
+        }
+
+        return n.status !== NewsStatus.PUBLISHED;
+      });
+
+      filtered.sort((a, b) => {
+        return getNewsTimelineDate(b).getTime() - getNewsTimelineDate(a).getTime();
+      });
+
+      const total = filtered.length;
       const start = (params.page - 1) * params.perPage;
-      const items = published.slice(start, start + params.perPage);
+      const items = filtered.slice(start, start + params.perPage);
 
       return { items, total };
     },

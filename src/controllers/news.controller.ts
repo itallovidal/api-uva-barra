@@ -1,14 +1,15 @@
-import type { FastifyInstance, FastifyRequest } from "fastify";
+import type { FastifyInstance, FastifyReply, FastifyRequest } from "fastify";
 import type { ResponsePayload } from "@/types/api";
 import { AppErrorClass } from "@/types/api";
 import type { NewsService } from "@/services/news.service";
 import type { CreateNewsDTO } from "@/types/news/dtos";
+import { NewsStatus } from "@/types/news/entities";
 import { authMiddleware } from "@/middlewares/auth-middleware";
 import {
   createNewsSchema,
   updateNewsSchema,
   newsParamsSchema,
-  latestNewsQuerySchema,
+  newsListQuerySchema,
   newsSlugSchema,
   newsSearchQuerySchema,
 } from "@/validation/news";
@@ -194,25 +195,31 @@ export async function newsController(
     }
   }
 
-  async function findLatestNewsHandler(
+  async function listNewsHandler(
     request: FastifyRequest<{
-      Querystring: { page?: string; perPage?: string };
+      Querystring: { page?: string; perPage?: string; status?: string };
     }>,
-    reply: { code: (status: number) => void },
+    reply: FastifyReply,
   ): Promise<ResponsePayload> {
-    console.log("findLatestNewsHandler");
+    const parsed = newsListQuerySchema.safeParse(request.query);
 
-    const { success, data, error } = latestNewsQuerySchema.safeParse(
-      request.query,
-    );
-
-    if (!success) {
-      console.error("Validation error:", error.format());
+    if (!parsed.success) {
+      reply.code(400);
+      return {
+        status: 400,
+        data: null,
+        error: {
+          message: "Parâmetros de listagem inválidos",
+          code: "VALIDATION_ERROR",
+        },
+      };
     }
 
-    const { page, perPage } = success ? data : { page: 1, perPage: 10 };
+    if (parsed.data.status === NewsStatus.UNPUBLISHED) {
+      await authMiddleware(request, reply);
+    }
 
-    const result = await deps.newsService.findLatest({ page, perPage });
+    const result = await deps.newsService.findLatest(parsed.data);
     return {
       status: 200,
       data: result.items,
@@ -225,29 +232,35 @@ export async function newsController(
     };
   }
 
-  async function findLatestNewsByCategoryHandler(
+  async function listNewsByCategoryHandler(
     request: FastifyRequest<{
       Params: { category: string };
-      Querystring: { page?: string; perPage?: string };
+      Querystring: { page?: string; perPage?: string; status?: string };
     }>,
-    reply: { code: (status: number) => void },
+    reply: FastifyReply,
   ): Promise<ResponsePayload> {
-    const parsed = latestNewsQuerySchema.safeParse(request.query);
+    const parsed = newsListQuerySchema.safeParse(request.query);
 
-    console.log("findLatestNewsByCategoryHandler - query validation", {
-      success: parsed.success,
-      error: parsed.success ? null : parsed.error.format(),
-      data: parsed.data,
-      category: request.params.category,
-    });
+    if (!parsed.success) {
+      reply.code(400);
+      return {
+        status: 400,
+        data: null,
+        error: {
+          message: "Parâmetros de listagem inválidos",
+          code: "VALIDATION_ERROR",
+        },
+      };
+    }
 
-    const { page, perPage } = parsed.success
-      ? parsed.data
-      : { page: 1, perPage: 10 };
+    if (parsed.data.status === NewsStatus.UNPUBLISHED) {
+      await authMiddleware(request, reply);
+    }
 
     const result = await deps.newsService.findLatest({
-      page,
-      perPage,
+      page: parsed.data.page,
+      perPage: parsed.data.perPage,
+      status: parsed.data.status,
       category: request.params.category,
     });
     return {
@@ -323,13 +336,13 @@ export async function newsController(
     deleteNewsHandler,
   );
 
-  app.get<{ Querystring: { page?: string; perPage?: string } }>(
+  app.get<{ Querystring: { page?: string; perPage?: string; status?: string } }>(
     "/news",
-    findLatestNewsHandler,
+    listNewsHandler,
   );
 
   app.get<{
     Params: { category: string };
-    Querystring: { page?: string; perPage?: string };
-  }>("/news/category/:category", findLatestNewsByCategoryHandler);
+    Querystring: { page?: string; perPage?: string; status?: string };
+  }>("/news/category/:category", listNewsByCategoryHandler);
 }
