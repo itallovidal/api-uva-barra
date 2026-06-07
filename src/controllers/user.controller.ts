@@ -137,6 +137,34 @@ export async function userController(
     }
   }
 
+  async function listUsersHandler(
+    _request: FastifyRequest,
+    reply: FastifyReply,
+  ) {
+    try {
+      const users = await deps.userService.listUsers();
+      reply.code(200);
+
+      const responsePayload: ResponsePayload<typeof users> = {
+        status: 200,
+        data: users,
+      };
+
+      return responsePayload;
+    } catch (error: unknown) {
+      if (error instanceof AppErrorClass) {
+        reply.code(error.statusCode);
+        return {
+          status: error.statusCode,
+          error: { message: error.message, code: error.code },
+          data: null,
+        };
+      }
+
+      throw error;
+    }
+  }
+
   async function updateUserHandler(
     request: FastifyRequest,
     reply: FastifyReply,
@@ -287,6 +315,7 @@ export async function userController(
   app.post("/user/login", loginHandler);
   app.post("/user/", { preHandler: [authMiddleware] }, createUserHandler);
   app.get("/user/:id", { preHandler: [authMiddleware] }, getUserByIdHandler);
+  app.get("/user/list", { preHandler: [authMiddleware] }, listUsersHandler);
   app.get(
     "/user/email/:email",
     { preHandler: [authMiddleware] },

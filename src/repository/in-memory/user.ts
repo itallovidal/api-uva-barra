@@ -9,6 +9,10 @@ export function UserInMemoryRepositoryFactory(): UserRepository {
       return store.get(id) || null;
     },
 
+    async findAll(): Promise<User[]> {
+      return Array.from(store.values());
+    },
+
     async create(input: User): Promise<User> {
       store.set(input.id, input);
       return input;

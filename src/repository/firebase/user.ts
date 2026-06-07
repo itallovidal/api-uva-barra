@@ -40,6 +40,14 @@ export function UserFirebaseRepositoryFactory(
       return deserializeUser(doc.id, doc.data() as Record<string, unknown>);
     },
 
+    async findAll(): Promise<User[]> {
+      const snapshot = await db.collection(COLLECTION).get();
+
+      return snapshot.docs.map((doc) =>
+        deserializeUser(doc.id, doc.data() as Record<string, unknown>),
+      );
+    },
+
     async create(input: User): Promise<User> {
       await db.collection(COLLECTION).doc(input.id).set(input);
       return input;

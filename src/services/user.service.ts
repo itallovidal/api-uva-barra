@@ -6,6 +6,15 @@ import { hashPassword, verifyPassword } from "@/utils/password-handler";
 import { generateToken } from "@/utils/jwt-handler";
 import { v4 as uuidv4 } from "uuid";
 
+function omitPassword(user: User): Omit<User, "password"> {
+  const { password: _, ...userWithoutPassword } = user;
+  return userWithoutPassword;
+}
+
+function omitPasswordFromUsers(users: User[]): Array<Omit<User, "password">> {
+  return users.map(omitPassword);
+}
+
 export type UserService = ReturnType<typeof UserServiceFactory>;
 
 export function UserServiceFactory(
@@ -97,6 +106,11 @@ export function UserServiceFactory(
         );
       }
       return user;
+    },
+
+    async listUsers() {
+      const users = await userRepo.findAll();
+      return omitPasswordFromUsers(users);
     },
 
     async updateUser(id: string, input: Partial<Omit<User, "id">>) {
