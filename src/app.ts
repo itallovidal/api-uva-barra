@@ -30,6 +30,8 @@ export async function createApp() {
 
   await app.register(cors, {
     origin: "*",
+    methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
   });
 
   const env = validateEnv(process.env);
