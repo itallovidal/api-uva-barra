@@ -7,21 +7,18 @@ export const createRegistrationSchema = z.object({
   password: z.string().min(6, "Password must be at least 6 characters long"),
   profession: z.string().refine(
     (val) => {
-      const value = UserProfession[val as UserProfessionType];
+      const value = UserProfession[val.toUpperCase() as UserProfessionType];
       return value !== undefined;
     },
     {
-      message:
-        "Profession must be one of: student, teacher, developer, designer",
+      message: `Profession must be one of: ${Object.values(UserProfession).join(", ")}`,
     },
   ),
   bio: z.string().optional().nullable(),
 });
 
 export const listRegistrationQuerySchema = z.object({
-  status: z
-    .enum(["PENDING", "APPROVED", "REJECTED"])
-    .optional(),
+  status: z.enum(["PENDING", "APPROVED", "REJECTED"]).optional(),
   page: z.coerce.number().int().positive().optional().default(1),
   perPage: z.coerce.number().int().positive().max(100).optional().default(10),
 });
@@ -40,11 +37,11 @@ export const createUserSchema = z.object({
   password: z.string().min(6, "Password must be at least 6 characters long"),
   profession: z.string().refine(
     (val) => {
-      const value = UserProfession[val as UserProfessionType];
+      const value = UserProfession[val.toUpperCase() as UserProfessionType];
       return value !== undefined;
     },
     {
-      message: "Profession must be a valid profession type",
+      message: `Profession must be one of: ${Object.values(UserProfession).join(", ")}`,
     },
   ),
   bio: z.string().optional().nullable(),
@@ -62,10 +59,12 @@ export const updateUserSchema = z.object({
     .string()
     .refine(
       (val) => {
-        const value = UserProfession[val as UserProfessionType];
+        const value = UserProfession[val.toUpperCase() as UserProfessionType];
         return value !== undefined;
       },
-      { message: "Profession must be a valid profession type" },
+      {
+        message: `Profession must be one of: ${Object.values(UserProfession).join(", ")}`,
+      },
     )
     .optional(),
   bio: z.string().optional().nullable(),
