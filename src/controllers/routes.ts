@@ -5,6 +5,8 @@ import { healthcheckController } from "./healthcheck.controller";
 import { newsController } from "./news.controller";
 import { registrationController } from "./registration.controller";
 import { userController } from "./user.controller";
+import { newsletterController } from "./newsletter.controller";
+import { newsletterAdminController } from "./newsletter-admin.controller";
 
 export async function registerRoutes(
   app: FastifyInstance,
@@ -18,4 +20,11 @@ export async function registerRoutes(
     registrationService: deps.registrationService,
   });
   await userController(app, { userService: deps.userService });
+  await newsletterController(app, {
+    newsletterEmailService: deps.newsletterEmailService,
+  });
+  await newsletterAdminController(app, {
+    newsletterEmailService: deps.newsletterEmailService,
+    newsletterService: deps.newsletterService,
+  });
 }

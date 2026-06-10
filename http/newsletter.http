@@ -1,0 +1,61 @@
+### Newsletter Email Registration
+
+POST http://localhost:3000/newsletter/register
+Content-Type: application/json
+
+{
+  "email": "test@example.com"
+}
+
+### Newsletter Email Registration - Duplicate
+
+POST http://localhost:3000/newsletter/register
+Content-Type: application/json
+
+{
+  "email": "test@example.com"
+}
+
+### Newsletter Email Registration - Invalid Email
+
+POST http://localhost:3000/newsletter/register
+Content-Type: application/json
+
+{
+  "email": "invalid-email"
+}
+
+### List Newsletter Emails (Authenticated)
+
+GET http://localhost:3000/newsletter/email?page=1&perPage=10
+Authorization: Bearer <token>
+
+### Get Newsletter Email by Email (Authenticated)
+
+GET http://localhost:3000/newsletter/email/test@example.com
+Authorization: Bearer <token>
+
+### Create Newsletter (Authenticated)
+
+POST http://localhost:3000/newsletter/
+Content-Type: application/json
+Authorization: Bearer <token>
+
+{
+  "content": "Conteúdo da newsletter de exemplo"
+}
+
+### Update Newsletter (Authenticated)
+
+PUT http://localhost:3000/newsletter/<newsletter-id>
+Content-Type: application/json
+Authorization: Bearer <token>
+
+{
+  "content": "Conteúdo atualizado da newsletter"
+}
+
+### Delete Newsletter (Authenticated)
+
+DELETE http://localhost:3000/newsletter/<newsletter-id>
+Authorization: Bearer <token>
