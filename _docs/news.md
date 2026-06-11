@@ -76,7 +76,7 @@ Esta documentação descreve o módulo de Notícias (News): como criar, atualiza
 }
 ```
 
-- `NewsPreviewDTO` (listagem): contém `id`, `title`, `summary`, `coverImageUrl`, `category`, `tags`, `featured`, `readingTime`, `publishedAt`, `authorName`.
+- `NewsPreviewDTO` (listagem): contém `id`, `title`, `summary`, `coverImageUrl`, `category`, `tags`, `featured`, `readingTime`, `publishedAt`, `author`. A listagem e busca são servidas do cache em memória; busca por `id` ou `slug` busca a notícia completa (com `content`) no Firebase Firestore.
 
 ## Validações aplicadas
 
@@ -114,7 +114,7 @@ Esta documentação descreve o módulo de Notícias (News): como criar, atualiza
 - Garantir unicidade de `slug` quando necessário (evitar colisões ao criar artigos com títulos iguais).
 - Incluir auditoria (quem criou/atualizou/deletou) para rastreabilidade.
 - Adicionar testes automatizados cobrindo: criação, atualização, deleção, publicação (publishedAt), e listagem paginada/por categoria.
-- Caching (ex.: CDN ou cache no serviço) para endpoints de listagem pode melhorar performance para conteúdo publicado.
+- Cache em memória implementado: listagens (`status=published`) e busca servem do cache TTL (15 dias); detalhe (`/news/:id`, `/news/slug/:slug`) busca no Firebase Firestore.
 
 ## Arquivos relevantes
 
