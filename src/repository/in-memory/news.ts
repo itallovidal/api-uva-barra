@@ -71,9 +71,11 @@ export function createNewsInMemoryRepository(): NewsRepository {
           : existing.readingTime,
         updatedAt: new Date(),
         publishedAt:
-          input.status === NewsStatus.PUBLISHED && !existing.publishedAt
-            ? new Date()
-            : existing.publishedAt,
+          input.publishedAt
+            ? new Date(input.publishedAt)
+            : input.status === NewsStatus.PUBLISHED && !existing.publishedAt
+              ? new Date()
+              : existing.publishedAt,
       };
       store.set(id, updated);
       return updated;

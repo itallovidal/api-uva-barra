@@ -23,7 +23,7 @@ export const updateNewsSchema = z.object({
   title: z.string().min(1).optional(),
   summary: z.string().min(1).optional(),
   content: z.string().min(1).optional(),
-  coverImageUrl: z.string().default(""),
+  coverImageUrl: z.string().optional(),
   category: z.string().min(1).optional(),
   tags: z.array(z.string()).optional(),
   featured: z.boolean().optional(),
@@ -37,6 +37,7 @@ export const updateNewsSchema = z.object({
     .optional(),
   slug: z.string().min(1).optional(),
   author: z.string().min(1).optional(),
+  publishedAt: z.string().datetime().optional(),
 });
 
 export const newsParamsSchema = z.object({

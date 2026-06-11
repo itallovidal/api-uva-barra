@@ -53,7 +53,10 @@ export function createNewsService(
     },
 
     async update(id: string, input: Partial<CreateNewsDTO>): Promise<News> {
-      const news = await newsRepo.update(id, input);
+      const definedInput = Object.fromEntries(
+        Object.entries(input).filter(([, v]) => v !== undefined),
+      );
+      const news = await newsRepo.update(id, definedInput);
       if (!news) {
         throw new AppErrorClass("Notícia não encontrada", "NOT_FOUND", 404);
       }
