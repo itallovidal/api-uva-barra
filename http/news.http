@@ -1,7 +1,7 @@
 ### Criar notícia (autenticado)
 POST http://localhost:3000/news
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MDUyMzE0MCwiZXhwIjoxNzgwNjA5NTQwfQ.HxV4yIJkOxRkppw41wfR8P6FH5UH_wFitb7mTxICbUc
+Authorization: Bearer <token>
 
 {
   "id": "12862",

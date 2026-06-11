@@ -10,7 +10,7 @@ Content-Type: application/json
 ### Criar usuário (autenticado)
 POST http://localhost:3000/user/
 Content-Type: application/json
-Authorization: Bearer replace-with-token
+Authorization: Bearer <token>
 
 {
   "name": "admin",
@@ -23,15 +23,15 @@ Authorization: Bearer replace-with-token
 
 ### Buscar usuário por ID (autenticado)
 GET http://localhost:3000/user/c2e7ccde-2ca4-4379-8c54-616f578bc972
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MDUyMzE0MCwiZXhwIjoxNzgwNjA5NTQwfQ.HxV4yIJkOxRkppw41wfR8P6FH5UH_wFitb7mTxICbUc
+Authorization: Bearer <token>
 
 ### Listar usuários (autenticado)
 GET http://localhost:3000/user/list
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MDgwOTAzMiwiZXhwIjoxNzgwODk1NDMyfQ.GYSUTJew8XEhEcUG-b7a5HpBOEazd9CxZKuyjoPMkPQ
+Authorization: Bearer <token>
 
 ### Buscar usuário por email (autenticado)
 GET http://localhost:3000/user/email/admin@email.com
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MDUyMzE0MCwiZXhwIjoxNzgwNjA5NTQwfQ.HxV4yIJkOxRkppw41wfR8P6FH5UH_wFitb7mTxICbUc
+Authorization: Bearer <token>
 
 ### Atualizar usuário (autenticado)
 PUT http://localhost:3000/user/c2e7ccde-2ca4-4379-8c54-616f578bc972
@@ -44,4 +44,4 @@ Authorization: Bearer <token>
 
 ### Deletar usuário (autenticado)
 DELETE http://localhost:3000/user/fb123e2c-9458-46ed-b46c-d7aa22d44e57
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MTA0MTY2OSwiZXhwIjoxNzgxMTI4MDY5fQ.ibzyyQmWA-gUjLyv9MorUf0gHqEf1Ij20CnMN_kkw0A
+Authorization: Bearer <token>
