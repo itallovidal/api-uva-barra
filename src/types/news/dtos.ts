@@ -12,7 +12,7 @@ export interface NewsPreviewDTO {
   featured: boolean;
   readingTime: number;
   publishedAt: Date | null;
-  authorName: string;
+  author: string;
 }
 
 export interface CreateNewsDTO {

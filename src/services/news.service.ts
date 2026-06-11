@@ -3,7 +3,7 @@ import { NewsStatus } from "@/types/news/entities";
 import type { CreateNewsDTO, NewsListQueryDTO, NewsPreviewDTO } from "@/types/news/dtos";
 import type { NewsRepository } from "@/repository/news";
 import { AppErrorClass } from "@/types/api";
-import type { CacheService, NewsIndexEntry } from "@/services/cache.service";
+import type { CacheService, CachedNewsPreview } from "@/services/cache.service";
 
 export type NewsService = ReturnType<typeof createNewsService>;
 
@@ -15,8 +15,21 @@ export function createNewsService(
     async create(input: CreateNewsDTO): Promise<News> {
       const news = await newsRepo.create(input);
       if (news.status === NewsStatus.PUBLISHED) {
-        cacheService.update<NewsIndexEntry[]>("news-index", (current = []) => [
-          { id: news.id, slug: news.slug, title: news.title },
+        const preview: CachedNewsPreview = {
+          id: news.id,
+          slug: news.slug,
+          title: news.title,
+          summary: news.summary,
+          coverImageUrl: news.coverImageUrl,
+          category: news.category,
+          tags: news.tags,
+          featured: news.featured,
+          readingTime: news.readingTime,
+          publishedAt: news.publishedAt ?? null,
+          author: news.author,
+        };
+        cacheService.update<CachedNewsPreview[]>("news-index", (current = []) => [
+          preview,
           ...current,
         ]);
       }
@@ -44,6 +57,29 @@ export function createNewsService(
       if (!news) {
         throw new AppErrorClass("Notícia não encontrada", "NOT_FOUND", 404);
       }
+      if (news.status === NewsStatus.PUBLISHED) {
+        const preview: CachedNewsPreview = {
+          id: news.id,
+          slug: news.slug,
+          title: news.title,
+          summary: news.summary,
+          coverImageUrl: news.coverImageUrl,
+          category: news.category,
+          tags: news.tags,
+          featured: news.featured,
+          readingTime: news.readingTime,
+          publishedAt: news.publishedAt ?? null,
+          author: news.author,
+        };
+        cacheService.update<CachedNewsPreview[]>("news-index", (current = []) => {
+          const filtered = current.filter((n) => n.id !== id);
+          return [preview, ...filtered];
+        });
+      } else {
+        cacheService.update<CachedNewsPreview[]>("news-index", (current = []) =>
+          current.filter((n) => n.id !== id),
+        );
+      }
       return news;
     },
 
@@ -52,7 +88,7 @@ export function createNewsService(
       if (!deleted) {
         throw new AppErrorClass("Notícia não encontrada", "NOT_FOUND", 404);
       }
-      cacheService.update<NewsIndexEntry[]>("news-index", (current = []) =>
+      cacheService.update<CachedNewsPreview[]>("news-index", (current = []) =>
         current.filter((n) => n.id !== id),
       );
     },
@@ -69,11 +105,10 @@ export function createNewsService(
       perPage: number;
       totalPages: number;
     }> {
-      let entries = cacheService.get<NewsIndexEntry[]>("news-index");
+      let entries = cacheService.get<CachedNewsPreview[]>("news-index");
       if (!entries) {
         console.log("search (cache miss) - NewsService");
-        // await cacheService.warmUpNewsIndex(newsRepo);
-        entries = cacheService.get<NewsIndexEntry[]>("news-index") || [];
+        entries = [];
       } else {
         console.log("search (cache hit) - NewsService");
       }
@@ -96,34 +131,15 @@ export function createNewsService(
       });
 
       if (params.order === "oldest") {
-        // Reverse creates a new sorted array from the originally newest-first entries
         filtered = [...filtered].reverse();
       }
 
       const total = filtered.length;
       const start = (params.page - 1) * params.perPage;
       const pageEntries = filtered.slice(start, start + params.perPage);
-      const ids = pageEntries.map((e) => e.id);
-
-      const items = await newsRepo.findManyByIds(ids);
-
-      const orderedItems = items.sort((a, b) => {
-        return ids.indexOf(a.id) - ids.indexOf(b.id);
-      });
 
       return {
-        items: orderedItems.map((n) => ({
-          id: n.id,
-          title: n.title,
-          summary: n.summary,
-          coverImageUrl: n.coverImageUrl,
-          category: n.category,
-          tags: n.tags,
-          featured: n.featured,
-          readingTime: n.readingTime,
-          publishedAt: n.publishedAt ?? null,
-          authorName: n.author,
-        })),
+        items: pageEntries,
         total,
         page: params.page,
         perPage: params.perPage,
@@ -138,6 +154,27 @@ export function createNewsService(
       perPage: number;
       totalPages: number;
     }> {
+      if (params.status === NewsStatus.PUBLISHED) {
+        const entries = cacheService.get<CachedNewsPreview[]>("news-index") || [];
+        let filtered = [...entries];
+
+        if (params.category) {
+          filtered = filtered.filter((n) => n.category === params.category);
+        }
+
+        const total = filtered.length;
+        const start = (params.page - 1) * params.perPage;
+        const pageItems = filtered.slice(start, start + params.perPage);
+
+        return {
+          items: pageItems,
+          total,
+          page: params.page,
+          perPage: params.perPage,
+          totalPages: Math.ceil(total / params.perPage) || 1,
+        };
+      }
+
       const { items, total } = await newsRepo.findLatest(params);
       return {
         items: items.map((n) => ({
@@ -150,7 +187,7 @@ export function createNewsService(
           featured: n.featured,
           readingTime: n.readingTime,
           publishedAt: n.publishedAt ?? null,
-          authorName: n.author,
+          author: n.author,
         })),
         total,
         page: params.page,
