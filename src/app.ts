@@ -47,12 +47,13 @@ export async function createApp() {
   const db = initFirebase(env);
   console.log("Firebase initialized successfully.");
 
-  // category dependencies
-  const categoryRepo = CategoryFirebaseRepositoryFactory(db);
-  const categoryService = createCategoryService(categoryRepo);
-
   // cache dependency
   const cacheService = createCacheService();
+
+  // category dependencies
+  const categoryRepo = CategoryFirebaseRepositoryFactory(db);
+  await cacheService.warmUpCategories(categoryRepo);
+  const categoryService = createCategoryService(categoryRepo, cacheService);
 
   // news dependencies
   const newsRepo = NewsFirebaseRepositoryFactory(db);

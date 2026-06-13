@@ -1,10 +1,12 @@
 import assert from "node:assert/strict";
 import { createCategoryInMemoryRepository } from "@/repository/in-memory/category";
 import { createCategoryService } from "@/services/category.service";
+import { createCacheService } from "@/services/cache.service";
 
 async function main() {
   const repo = createCategoryInMemoryRepository();
-  const service = createCategoryService(repo);
+  const cacheService = createCacheService();
+  const service = createCategoryService(repo, cacheService);
 
   // Create with tags
   const created = await service.create({ name: "Health", tags: ["Wellness", "Fitness"] });

@@ -7,6 +7,8 @@
 
 Endpoints para gerenciamento de categorias. Operações de CRUD completas. Atualmente todas as rotas são públicas (sem autenticação).
 
+> **Cache:** A listagem de categorias (`GET /categories`) utiliza cache em memória com warm-up no startup do servidor. Mutações (criação, atualização, deleção) invalidam o cache automaticamente, garantindo que a próxima listagem reflita os dados atualizados.
+
 ## Endpoints
 
 | Método | Rota | Autenticação | Descrição |

@@ -1,5 +1,6 @@
 import { TTLCache } from "@isaacs/ttlcache";
 import type { NewsRepository } from "@/repository/news";
+import type { CategoryRepository } from "@/repository/category";
 import type { NewsPreviewDTO } from "@/types/news/dtos";
 import { NewsStatus } from "@/types/news/entities";
 
@@ -12,6 +13,7 @@ export interface CacheService {
   delete(namespace: string): void;
   reset(namespace: string): void;
   warmUpNewsIndex(newsRepo: NewsRepository): Promise<void>;
+  warmUpCategories(categoryRepo: CategoryRepository): Promise<void>;
 }
 
 export function createCacheService(): CacheService {
@@ -76,6 +78,12 @@ export function createCacheService(): CacheService {
         author: news.author,
       }));
       this.set("news-index", entries);
+    },
+
+    async warmUpCategories(categoryRepo: CategoryRepository): Promise<void> {
+      console.log("warmUpCategories - CacheService");
+      const categories = await categoryRepo.findAll();
+      this.set("categories", categories);
     },
   };
 }
