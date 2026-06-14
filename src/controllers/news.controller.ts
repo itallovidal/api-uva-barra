@@ -130,6 +130,7 @@ export async function newsController(
     const bodyParsed = updateNewsSchema.safeParse(request.body);
     if (!bodyParsed.success) {
       reply.code(400);
+      console.log("Validation error:", bodyParsed.error.format());
       return {
         status: 400,
         data: null,

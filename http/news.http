@@ -28,14 +28,11 @@ Authorization: Bearer <token>
 GET http://localhost:3000/news/replace-with-uuid
 
 ### Atualizar notícia (autenticado)
-PUT http://localhost:3000/news/replace-with-uuid
+PUT http://localhost:3000/news/07276e25-3a49-4938-babe-60af81d3ce65
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjMmU3Y2NkZS0yY2E0LTQzNzktOGM1NC02MTZmNTc4YmM5NzIiLCJlbWFpbCI6ImFkbWluQGVtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4MTM5MzExMiwiZXhwIjoxNzgxNDc5NTEyfQ.GuygULuRmiClk2nLpwTDMU4BP1WhzECTJ6yuGLGC700
 Content-Type: application/json
-Authorization: Bearer replace-with-token
 
-{
-  "title": "Título atualizado",
-  "featured": false
-}
+{"status":"DRAFT","publishedAt":null}
 
 ### Deletar notícia (autenticado)
 DELETE http://localhost:3000/news/replace-with-uuid

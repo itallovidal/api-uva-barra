@@ -26,7 +26,7 @@ export interface CreateNewsDTO {
   status: NewsStatusType;
   slug?: string;
   author?: string;
-  publishedAt?: string;
+  publishedAt?: string | null;
 }
 
 export interface NewsListQueryDTO {

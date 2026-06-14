@@ -2,12 +2,12 @@ import { NewsStatus } from "@/types/news/entities";
 import { z } from "zod";
 
 export const createNewsSchema = z.object({
-  title: z.string().min(1, "Title is required"),
-  summary: z.string().min(1, "Summary is required"),
-  content: z.string().min(1, "Content is required"),
-  coverImageUrl: z.string().default(""),
-  category: z.string().min(1, "Category is required"),
-  tags: z.array(z.string()).default([]),
+  title: z.string().min(1, "Title is required").max(200, "Title must be at most 200 characters").trim(),
+  summary: z.string().min(1, "Summary is required").max(500, "Summary must be at most 500 characters").trim(),
+  content: z.string().min(1, "Content is required").trim(),
+  coverImageUrl: z.union([z.literal(""), z.string().url("Invalid URL")]).default(""),
+  category: z.string().min(1, "Category is required").trim(),
+  tags: z.array(z.string().min(1, "Tag cannot be empty").trim()).max(10, "At most 10 tags allowed").default([]),
   featured: z.boolean().default(false),
   status: z.enum([
     NewsStatus.DRAFT,
@@ -15,17 +15,17 @@ export const createNewsSchema = z.object({
     NewsStatus.PUBLISHED,
     NewsStatus.ARCHIVED,
   ]),
-  slug: z.string().min(1).optional(),
-  author: z.string().min(1).optional(),
+  slug: z.string().min(1).regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, "Slug must be lowercase, alphanumeric, and hyphenated").optional(),
+  author: z.string().min(1).trim().optional(),
 });
 
 export const updateNewsSchema = z.object({
-  title: z.string().min(1).optional(),
-  summary: z.string().min(1).optional(),
-  content: z.string().min(1).optional(),
-  coverImageUrl: z.string().optional(),
-  category: z.string().min(1).optional(),
-  tags: z.array(z.string()).optional(),
+  title: z.string().min(1, "Title is required").max(200, "Title must be at most 200 characters").trim().optional(),
+  summary: z.string().min(1, "Summary is required").max(500, "Summary must be at most 500 characters").trim().optional(),
+  content: z.string().min(1, "Content is required").trim().optional(),
+  coverImageUrl: z.union([z.literal(""), z.string().url("Invalid URL")]).optional(),
+  category: z.string().min(1, "Category is required").trim().optional(),
+  tags: z.array(z.string().min(1, "Tag cannot be empty").trim()).max(10, "At most 10 tags allowed").optional(),
   featured: z.boolean().optional(),
   status: z
     .enum([
@@ -35,9 +35,9 @@ export const updateNewsSchema = z.object({
       NewsStatus.ARCHIVED,
     ])
     .optional(),
-  slug: z.string().min(1).optional(),
-  author: z.string().min(1).optional(),
-  publishedAt: z.string().datetime().optional(),
+  slug: z.string().min(1).regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, "Slug must be lowercase, alphanumeric, and hyphenated").optional(),
+  author: z.string().min(1).trim().optional(),
+  publishedAt: z.nullable(z.iso.datetime()).optional(),
 });
 
 export const newsParamsSchema = z.object({
