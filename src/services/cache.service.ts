@@ -3,8 +3,10 @@ import type { NewsRepository } from "@/repository/news";
 import type { CategoryRepository } from "@/repository/category";
 import type { NewsPreviewDTO } from "@/types/news/dtos";
 import { NewsStatus } from "@/types/news/entities";
+import type { NewsStatusType } from "@/types/news/entities";
+import { getNewsTimelineDate } from "@/utils/news-utils";
 
-export type CachedNewsPreview = NewsPreviewDTO & { slug: string };
+export type CachedNewsPreview = NewsPreviewDTO & { slug: string; status: NewsStatusType };
 
 export interface CacheService {
   get<T>(namespace: string): T | undefined;
@@ -59,25 +61,45 @@ export function createCacheService(): CacheService {
 
     async warmUpNewsIndex(newsRepo: NewsRepository): Promise<void> {
       console.log("warmUpNewsIndex - CacheService");
-      const { items } = await newsRepo.findLatest({
-        page: 1,
-        perPage: 100000,
-        status: NewsStatus.PUBLISHED,
-      });
-      const entries: CachedNewsPreview[] = items.map((news) => ({
-        id: news.id,
-        slug: news.slug,
-        title: news.title,
-        summary: news.summary,
-        coverImageUrl: news.coverImageUrl,
-        category: news.category,
-        tags: news.tags,
-        featured: news.featured,
-        readingTime: news.readingTime,
-        publishedAt: news.publishedAt ?? null,
-        author: news.author,
-      }));
-      this.set("news-index", entries);
+      try {
+        const [published, unpublished] = await Promise.all([
+          newsRepo.findLatest({
+            page: 1,
+            perPage: 100000,
+            status: "published",
+          }),
+          newsRepo.findLatest({
+            page: 1,
+            perPage: 100000,
+            status: "unpublished",
+          }),
+        ]);
+
+        const allItems = [...published.items, ...unpublished.items];
+        allItems.sort((a, b) => {
+          const dateA = (a.publishedAt ?? a.updatedAt ?? a.createdAt).getTime();
+          const dateB = (b.publishedAt ?? b.updatedAt ?? b.createdAt).getTime();
+          return dateB - dateA;
+        });
+
+        const entries: CachedNewsPreview[] = allItems.map((news) => ({
+          id: news.id,
+          slug: news.slug,
+          title: news.title,
+          summary: news.summary,
+          coverImageUrl: news.coverImageUrl,
+          category: news.category,
+          tags: news.tags,
+          featured: news.featured,
+          readingTime: news.readingTime,
+          publishedAt: news.publishedAt ?? null,
+          author: news.author,
+          status: news.status,
+        }));
+        this.set("news-index", entries);
+      } catch (error) {
+        console.error("warmUpNewsIndex failed - CacheService", error);
+      }
     },
 
     async warmUpCategories(categoryRepo: CategoryRepository): Promise<void> {

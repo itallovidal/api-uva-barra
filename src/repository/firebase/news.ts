@@ -164,7 +164,41 @@ export function NewsFirebaseRepositoryFactory(
       page: number;
       perPage: number;
     }): Promise<{ items: News[]; total: number }> {
-      throw new Error("Search is not implemented directly in Firebase repo. It should be delegated to CacheService in the NewsService.");
+      console.log("search - NewsFirebaseRepository");
+      const snapshot = await db.collection(COLLECTION).get();
+      const all = snapshot.docs.map((doc) =>
+        deserializeNews(doc.id, doc.data() as Record<string, unknown>),
+      );
+
+      const query = params.q
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase();
+
+      const filtered = all.filter((n) => {
+        if (n.status !== NewsStatus.PUBLISHED) return false;
+        const t = n.title
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .toLowerCase();
+        const s = n.slug
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .toLowerCase();
+        return t.includes(query) || s.includes(query);
+      });
+
+      filtered.sort((a, b) => {
+        const aTime = a.publishedAt?.getTime() ?? 0;
+        const bTime = b.publishedAt?.getTime() ?? 0;
+        return params.order === "newest" ? bTime - aTime : aTime - bTime;
+      });
+
+      const total = filtered.length;
+      const start = (params.page - 1) * params.perPage;
+      const items = filtered.slice(start, start + params.perPage);
+
+      return { items, total };
     },
   };
 }

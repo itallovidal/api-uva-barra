@@ -7,7 +7,7 @@
 
 Endpoints para gerenciamento de notícias. Operações de criação, edição e remoção são protegidas (autenticação JWT). Listagem e leitura são públicas.
 
-**Cache:** Os endpoints de listagem (`GET /news`, `GET /news/category/:category`) e busca (`GET /news/search`) utilizam cache em memória populado no startup da aplicação, evitando consultas ao Firebase Firestore. Os endpoints de detalhe (`GET /news/:id`, `GET /news/slug/:slug`) buscam a notícia completa (com `content`) diretamente no Firestore.
+**Cache:** Os endpoints de listagem (`GET /news`, `GET /news/category/:category`) e busca (`GET /news/search`) utilizam cache em memória como fonte primária. O cache é populado no startup com **todas** as notícias (publicadas e não publicadas) e é filtrado por status em memória. Se o cache estiver vazio, faz fallback para o Firebase Firestore. Os endpoints de detalhe (`GET /news/:id`, `GET /news/slug/:slug`) buscam a notícia completa (com `content`) diretamente no Firestore.
 
 ## Endpoints
 
@@ -344,13 +344,14 @@ Lista notícias por categoria com filtro de publicação. Por padrão, retorna a
 ## Comportamentos importantes
 
 - Listagens (`/news` e `/news/category/:category`) aceitam `status=published|unpublished`; por padrão retornam artigos publicados.
-- Listagens com `status=published` e busca utilizam cache em memória (populado no startup). Listagens com `status=unpublished` buscam no Firebase Firestore.
+- **Todas** as listagens e busca utilizam cache em memória como fonte primária, filtrando por status em memória. Se o cache estiver vazio, faz fallback para o Firebase Firestore.
+- O cache contém **todas** as notícias (publicadas e não publicadas), não apenas publicadas.
 - Os endpoints `GET /news/:id` e `GET /news/slug/:slug` sempre buscam a notícia completa no Firebase Firestore.
 - Registros sem `status` salvo são normalizados como `published` na leitura.
 - `slug` é gerado automaticamente via `slugify(title)` se não fornecido.
 - `readingTime` é calculado automaticamente por `calculateReadingTime(content)`.
 - Ao criar/atualizar: se `status` passar para `published` e `publishedAt` for nulo, o repositório define `publishedAt = now`.
-- O cache é automaticamente atualizado ao criar, editar ou deletar notícias publicadas.
+- O cache é automaticamente atualizado ao criar, editar ou deletar notícias (independente do status).
 
 ## Arquivos relevantes
 
