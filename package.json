@@ -2,10 +2,11 @@
   "name": "api-site-uva-barra",
   "version": "0.1.0",
   "description": "API for api-site-uva-barra",
+  "type": "module",
   "main": "dist/server.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "build": "tsc",
+    "build": "tsup",
     "start": "node dist/server.js",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src/",
