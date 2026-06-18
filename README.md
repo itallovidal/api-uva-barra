@@ -54,6 +54,30 @@ Categories are intentionally minimal in this codebase:
 - `GET /categories` lists all categories
 - `DELETE /categories/:id` deletes a category by id
 
+### Categorias de Referência
+
+As categorias oficiais do portal são gerenciadas dinamicamente via API. Abaixo estão as categorias de referência:
+
+| # | Nome |
+|---|------|
+| 1 | Cultura & Artes |
+| 2 | Ciência & Tecnologia |
+| 3 | Educação & Profissão |
+| 4 | Sociedade & Comportamento |
+| 5 | Saúde & Bem-estar |
+| 6 | Política & Economia |
+| 7 | Esporte & Lazer |
+| 8 | Gastronomia & Moda |
+| 9 | Ambiente & Sustentabilidade |
+| 10 | Institucional & Eventos |
+| 11 | Rádio UVA Barra |
+
+Para inicializar as categorias no Firestore, execute:
+
+```bash
+npm run seed:categories
+```
+
 ---
 
 ## Links

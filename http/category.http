@@ -11,8 +11,13 @@ POST http://localhost:3000/categories
 Content-Type: application/json
 
 {
-  "name": "Saúde & Bem Estar",
-  "tags": ["Saúde", "Saúde Mental", "Psicologia"]
+  "name": "Rádio UVA Barra",
+  "tags": [
+    "agencia uva barra",
+    "universidade veiga de almeida",
+    "uva barra",
+    "uva"
+  ]
 }
 
 ### Listar categorias

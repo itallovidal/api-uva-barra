@@ -1,3 +1,23 @@
+## Categorias de Referência
+
+As categorias oficiais do portal são gerenciadas dinamicamente via CRUD, mas as seguintes são as categorias de referência que devem ser inicializadas no Firestore:
+
+| # | Nome |
+|---|------|
+| 1 | Cultura & Artes |
+| 2 | Ciência & Tecnologia |
+| 3 | Educação & Profissão |
+| 4 | Sociedade & Comportamento |
+| 5 | Saúde & Bem-estar |
+| 6 | Política & Economia |
+| 7 | Esporte & Lazer |
+| 8 | Gastronomia & Moda |
+| 9 | Ambiente & Sustentabilidade |
+| 10 | Institucional & Eventos |
+| 11 | Rádio UVA Barra |
+
+A inicialização pode ser feita via `npm run seed:categories` (scripts/seed-categories.ts).
+
 ## MODIFIED Requirements
 
 ### Requirement: Create Category

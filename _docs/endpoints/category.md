@@ -216,6 +216,31 @@ Remove uma categoria.
 | `CreateCategoryRequestDTO` | `src/types/category/dtos.ts` | DTO de criação: `name`, `tags?` |
 | `UpdateCategoryRequestDTO` | `src/types/category/dtos.ts` | DTO de atualização: `name`, `tags` |
 
+## Categorias de Referência
+
+As categorias oficiais do sistema são gerenciadas dinamicamente via API, mas as seguintes são as categorias de referência do portal:
+
+| # | Nome |
+|---|------|
+| 1 | Cultura & Artes |
+| 2 | Ciência & Tecnologia |
+| 3 | Educação & Profissão |
+| 4 | Sociedade & Comportamento |
+| 5 | Saúde & Bem-estar |
+| 6 | Política & Economia |
+| 7 | Esporte & Lazer |
+| 8 | Gastronomia & Moda |
+| 9 | Ambiente & Sustentabilidade |
+| 10 | Institucional & Eventos |
+| 11 | Rádio UVA Barra |
+
+A inicialização dessas categorias pode ser feita via script:
+```bash
+npm run seed:categories
+```
+
+O arquivo de seed encontra-se em `scripts/seed-categories.ts`.
+
 ## Arquivos relevantes
 
 - `src/controllers/category.controller.ts` — handlers de rota
