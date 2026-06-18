@@ -81,7 +81,11 @@ export function NewsFirebaseRepositoryFactory(
         readingTime: calculateReadingTime(input.content),
         createdAt: now,
         updatedAt: now,
-        publishedAt: input.status === NewsStatus.PUBLISHED ? now : null,
+        publishedAt: input.publishedAt
+          ? new Date(input.publishedAt)
+          : input.status === NewsStatus.PUBLISHED
+            ? now
+            : null,
       };
       await db.collection(COLLECTION).doc(id).set(news);
       return news;

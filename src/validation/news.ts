@@ -3,7 +3,7 @@ import { z } from "zod";
 
 export const createNewsSchema = z.object({
   title: z.string().min(1, "Title is required").max(200, "Title must be at most 200 characters").trim(),
-  summary: z.string().min(1, "Summary is required").max(500, "Summary must be at most 500 characters").trim(),
+  summary: z.string().min(1, "Summary is required").max(800, "Summary must be at most 800 characters").trim(),
   content: z.string().min(1, "Content is required").trim(),
   coverImageUrl: z.union([z.literal(""), z.string().url("Invalid URL")]).default(""),
   category: z.string().min(1, "Category is required").trim(),
@@ -17,11 +17,12 @@ export const createNewsSchema = z.object({
   ]),
   slug: z.string().min(1).regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, "Slug must be lowercase, alphanumeric, and hyphenated").optional(),
   author: z.string().min(1).trim().optional(),
+  publishedAt: z.nullable(z.iso.datetime()).optional(),
 });
 
 export const updateNewsSchema = z.object({
   title: z.string().min(1, "Title is required").max(200, "Title must be at most 200 characters").trim().optional(),
-  summary: z.string().min(1, "Summary is required").max(500, "Summary must be at most 500 characters").trim().optional(),
+  summary: z.string().min(1, "Summary is required").max(800, "Summary must be at most 800 characters").trim().optional(),
   content: z.string().min(1, "Content is required").trim().optional(),
   coverImageUrl: z.union([z.literal(""), z.string().url("Invalid URL")]).optional(),
   category: z.string().min(1, "Category is required").trim().optional(),
