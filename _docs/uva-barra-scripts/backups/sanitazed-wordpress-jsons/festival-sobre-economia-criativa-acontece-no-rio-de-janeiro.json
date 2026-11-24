@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13817/revisions/13845",
+        "id": 13845
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13817"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13817",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 18,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13817/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13817"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13836"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13817",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13817",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    5557381,
+    17964,
+    2366,
+    22,
+    758
+  ],
+  "class_list": [
+    "post-13817",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-economia-criativa",
+    "category-educacao",
+    "category-eventos",
+    "category-internet",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-criativa",
+    "tag-economia",
+    "tag-eventos",
+    "tag-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Universidade Veiga de Almeida esteve presente no evento</em></p><p>Nos dias 7 e 8 de dezembro, o Centro Sebrae de Referência do Artesanato Brasileiro (CRAB), recebeu a 2° edição do Crie e Ative, a primeira de forma presencial, já que no ano passado ele foi realizado de maneira online. Foram dois dias de painéis com profissionais de áreas distintas e oficinas gratuitas para o público.</p><p>A analista da coordenação de economia criativa Isadora Flores falou sobre o objetivo do evento: “O intuito é apresentar para os fazedores de cultura e para os empreendedores de todos os setores da economia criativa, novidades e tendências desse momento pós pandêmico”, afirma Isadora. Ela completa dizendo que a cultura foi um dos setores mais atingidos pela paralisação do mundo devido ao vírus da Covid-19, e era necessário que fossem trazidos novos olhares e novas oportunidades.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-leo.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\" /><figcaption>Para Léo, eventos como este são importantes para que mais pessoas conheçam sobre o tema. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-isadora-1.jpeg?resize=418%2C443&amp;ssl=1\" alt=\"\" width=\"418\" height=\"443\" /><figcaption>Para Isadora foi uma experiência nova e interessante, o evento ter ocorrido de maneira presencial. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-lea.jpeg?resize=828%2C821&amp;ssl=1\" alt=\"\" width=\"828\" height=\"821\" /><figcaption>Léa é publicitária e acha super importante estar sempre se atualizando no mercado profissional. (Foto: Arquivo pessoal)</figcaption></figure><p>Na quinta-feira (8), aconteceu o último painel do evento, e o assunto abordado foi: Tecnologias imersivas na economia criativa. A palestra contou com a presença de profissionais da área da tecnologia e foi mediada pelo professor do campus Barra da UVA, Léo Amato. Entre os assuntos, estava a implementação do Metaverso na sociedade, como a tecnologia pode acrescentar na educação pública brasileira e até o debate sobre a integração e exploração turística do Rio de Janeiro. “É extremamente importante para quem está na universidade e deseja atuar na área criativa e tecnológica, que tenha contato com profissionais que atuam e possuem bons resultados no setor”, afirma o professor Léo.</p><p><strong>Veja o vídeo e entenda a relação da tecnologia com a educação, com o professor Léo Amato:</strong></p><figure><div><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/ylS0b0r8Bos?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p><br>A coordenadora Isadora Flores destacou a participação do público nesta primeira edição presencial do evento: “Foi bom contar com um público muito caloroso, pois só tínhamos contato com eles a distância. Eles estavam muito entusiasmados, e isso nos dá forças para as próximas edições”, afirma Isadora. A publicitária Léa Mendonça assistiu aos painéis e comentou que por ela ser formada em uma geração analógica, é necessário que esteja em constante contato com as novas tecnologias digitais.</p><p><strong>No áudio abaixo, Léa Mendonça fala sobre a importância desta palestra para o seu crescimento profissional:</strong></p><figure><div><iframe loading=\"lazy\" title=\"Léa Mendonça fala sobre a importância desta palestra para o seu crescimento profissional by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1402102936&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></figure><p>A ideia para as próximas edições é identificar as necessidades do mercado artístico, e trazer novidades para serem debatidas nos painéis e nas oficinas. “Trabalhar junto e inovar nas nossas ações de economia criativa do SEBRAE, para estar sempre trazendo essas inovações para os negócios criativos”, afirma Isadora sobre o objetivo do festival.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-palco.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\" /><figcaption>Palco onde aconteceram as palestras do festival Crie &amp; Ative. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-palestrantes.jpeg?resize=1600%2C1200&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1200\" /><figcaption>Palestrantes após o painel de tecnologias imersivas na economia criativa. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-palestra.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\" /><figcaption>Painel sobre a representatividade feminina nos setores criativos. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-do-show.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\" /><figcaption>Momento cultural SESC com show de Gabi Buarque e Geovana Pires. (Foto: Igor Concolato)</figcaption></figure><p><em>Igor Concolato – 2° período</em></p></main>"
+  },
+  "date": "2022-12-13T18:16:43",
+  "date_gmt": "2022-12-13T21:16:43",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Nos dias 7 e 8 de dezembro, o Centro Sebrae de Referência do Artesanato Brasileiro (CRAB), recebeu a 2° edição do Crie e Ative, a primeira de forma presencial, já que no ano passado ele foi realizado de maneira online. Foram dois dias de painéis com profissionais de áreas distintas e oficinas gratuitas para o público. </p>\n"
+  },
+  "featured_media": 13836,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13817"
+  },
+  "id": 13817,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-de-capa.jpeg?fit=1200%2C1600&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3AR",
+  "link": "https://agenciauvabarra.com/2022/12/13/festival-sobre-economia-criativa-acontece-no-rio-de-janeiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-13T18:43:23",
+  "modified_gmt": "2022-12-13T21:43:23",
+  "ping_status": "open",
+  "slug": "festival-sobre-economia-criativa-acontece-no-rio-de-janeiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    353351,
+    2372,
+    767056596,
+    767056593
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Festival sobre economia criativa acontece no Rio de Janeiro"
+  },
+  "type": "post"
+}

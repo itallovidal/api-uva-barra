@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15442/revisions/15445",
+        "id": 15445
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15442"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15442",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15442/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15442"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15417"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15442",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15442",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    175,
+    39479,
+    701438832
+  ],
+  "class_list": [
+    "post-15442",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-marketing",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "tag-academico",
+    "tag-agencia-uva-barra",
+    "tag-personalidade",
+    "tag-podcast",
+    "tag-universidade",
+    "tag-videocast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O grupo formado por Ana Caroline Dallio, Beatriz Ingrid, Beatriz Martins, Gabriela Andrade, Isadora Almeida e Lucas Sucena trouxe para o debate os diferentes tipos de personalidade no meio acadêmico.</p><p>No segundo episódio da série, o foco do videocast foi no comportamento dos estudantes em diferentes cenários da vida universitária. Já pensou como é feito um trabalho em grupo com pessoas tão distintas umas das outras? Os alunos falaram sobre os desafios de trabalhar em equipe e como as características de cada um podem ajudar ou prejudicar neste momento.<strong> Confira o programa completo clicando no link abaixo!</strong></p><figure><img src='https://www.youtube.com/embed/68mrKXtZj_4?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' alt='Vídeo incorporado' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox' loading='lazy' frameborder='0' style='border:0;'/><figcaption>Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto.</figcaption></figure></main>"
+  },
+  "date": "2023-08-08T17:15:54",
+  "date_gmt": "2023-08-08T20:15:54",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No segundo episódio da série, o foco do videocast foi no comportamento dos estudantes em diferentes cenários da vida universitária. Já pensou como é feito um trabalho em grupo com pessoas tão distintas umas das outras? Os alunos falaram sobre os desafios de trabalhar em equipe e como as características de cada um podem ajudar ou prejudicar neste momento.</p>\n"
+  },
+  "featured_media": 15417,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15442"
+  },
+  "id": 15442,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/whatsapp-image-2023-08-07-at-15.29.00.jpeg?fit=1270%2C710&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-414",
+  "link": "https://agenciauvabarra.com/2023/08/08/e-pro-meu-tcc-as-diferentes-personalidades-no-mundo-academico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-08T17:16:26",
+  "modified_gmt": "2023-08-08T20:16:26",
+  "ping_status": "open",
+  "slug": "e-pro-meu-tcc-as-diferentes-personalidades-no-mundo-academico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    167358,
+    648221465,
+    410674,
+    1142,
+    47232,
+    32208
+  ],
+  "template": "",
+  "title": {
+    "rendered": "É pro meu TCC: As Diferentes Personalidades no Mundo Acadêmico"
+  },
+  "type": "post"
+}

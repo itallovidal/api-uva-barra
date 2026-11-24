@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8780/revisions/8783",
+        "id": 8783
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8780"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8780",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8780/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8780"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8782"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8780",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8780",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8780",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podcast",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F941321836&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Player do SoundCloud' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><a href='https://soundcloud.com/podcast-ficcao' title='O diário de uma vítima'>O diário de uma vítima</a> · <a href='https://soundcloud.com/podcast-ficcao/ep-4-o-diario-de-uma-vitima' title='EP 4 O diário de uma vítima. O Desespero'>EP 4 O diário de uma vítima. O Desespero</a><p>Valentina não encontra apoio da mãe, mas encontra num caderno o ouvinte perfeito. O assédio se agrava até que algo acontece.</p><p>Se você perdeu algum capítulo dessa jornada, ouça agora e fique por dentro de tudo que aconteceu com Valentina em \"Diário de uma vítima\".</p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1220981467&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='450' title='Player do SoundCloud' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><a href='https://soundcloud.com/user-525438802' title='Agência UVA Barra'>Agência UVA Barra</a> · <a href='https://soundcloud.com/user-525438802/sets/o-diario-de-uma-vitima' title='O diário de uma vítima'>O diário de uma vítima</a><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2021-03-04T15:40:06",
+  "date_gmt": "2021-03-04T18:40:06",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O diário de uma vítima · EP 4 O diário de uma vítima. O Desespero Valentina não encontra apoio da mãe, mas encontra num caderno o ouvinte perfeito. O assédio se agrava até que algo acontece.&nbsp; Se você perdeu algum capítulo dessa jornada, ouça agora e fique por dentro de tudo que aconteceu com Valentina [&hellip;]</p>\n"
+  },
+  "featured_media": 8782,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=8780"
+  },
+  "id": 8780,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/podserie-5.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2hC",
+  "link": "https://agenciauvabarra.com/2021/03/04/podserie-radio-uva-barra-diario-de-uma-vitima-s07-ep4/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-03-04T15:40:06",
+  "modified_gmt": "2021-03-04T18:40:06",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-diario-de-uma-vitima-s07-ep4",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142,
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra – Diário de uma vítima – S07 EP4"
+  },
+  "type": "post"
+}

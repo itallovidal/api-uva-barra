@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2015/revisions/3098",
+        "id": 3098
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2015"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2015",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2015/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2015"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2015",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2015",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2015",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/uma-quase-dupla_creditoserendipityinc_pressrelease_000041.jpeg?resize=1200%2C710&#038;ssl=1' alt='uma-quase-dupla_CreditoSerendipityInc_PressRelease_000041' width='1200' height='710'><figcaption>Foto: divulgação</figcaption></figure><p>Mês de férias, de descanso e de cinema. A estreia nacional traz elementos já conhecidos do público brasileiro: atores famosos e a comédia, gênero que mais leva público para ver as novidades da telona. “Uma quase dupla” tem esses ingredientes e ainda acrescenta outros, como o casamento do humor com a trama policial em um roteiro que relembra as comédias não apelativas da década de 80.</p><p>O texto de Ana Reber e Leandro Muniz tem a colaboração da protagonista Tatá Werneck. A atriz dá vida a Keyla, policial do Rio de Janeiro que é convocada a solucionar um caso sério na pacata Joinlândia. A investigação vai juntar Keyla a Claudio, personagem de Cauã Reymond, o inexperiente subdelegado da cidade. Com temperamentos e métodos de trabalhos opostos, a trajetória para resolver o problema é uma série de cenas que buscam a gargalhada do público de qualquer maneira.</p><p>Tatá é mais uma vez Tatá. A atriz leva para o filme um trabalho já visto em outras produções por ela estralados, diálogos rápidos e por vezes sem entender os finais das falas e movimentos corporais que denotam um duplo sentido. Não é ruim, mas já conhecido do público. A grata surpresa fica com Cauã, o ator imprime uma atuação de comédia com a cara dos anos 80, uma mistura de “Trapalhões” com “Corra que a polícia vem aí”.</p><p>O resultado dessa “quase” dupla é confirmado nas participações de Louise Cardoso, Daniel Furlan e outros atores que ajudam a costurar o roteiro. A direção é de Marcus Baldini (Bruna Surfistinha) e entrega o que promete, comédia. O longa tem uma hora e meia de duração e estreia no dia 19 de julho.</p><p>Por: Anderson Barreto</p></main>"
+  },
+  "date": "2018-07-13T12:38:56",
+  "date_gmt": "2018-07-13T15:38:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mês de férias, de descanso e de cinema. A estreia nacional traz elementos já conhecidos do público brasileiro: &nbsp;atores famosos e a comédia, gênero que mais leva público para ver as novidades da telona. “Uma quase dupla” tem esses ingredientes e ainda acrescenta outros, como o casamento do humor com a trama policial em um [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2015"
+  },
+  "id": 2015,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-wv",
+  "link": "https://agenciauvabarra.com/2018/07/13/agencia-uva-barra-assistiu-uma-quase-dupla/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:36:09",
+  "modified_gmt": "2019-01-31T14:36:09",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-uma-quase-dupla",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: Uma Quase Dupla"
+  },
+  "type": "post"
+}

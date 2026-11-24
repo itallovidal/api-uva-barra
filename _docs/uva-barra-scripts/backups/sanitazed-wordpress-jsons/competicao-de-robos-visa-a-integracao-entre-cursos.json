@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1137/revisions/3305",
+        "id": 3305
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1137"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1137",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1137/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1137"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1137",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1137",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1137",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>O Workshop reúne professores e alunos da UVA para experimentar o mundo da robótica</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/img_1421.jpg?resize=3456%2C1944&#038;ssl=1' alt='IMG_1421' width='3456' height='1944' /><figcaption>Fotografia: Gabriel Torres</figcaption></figure><p>Com o avanço das tecnologias, os robôs ganharam espaço em todas as áreas profissionais e em salas de aulas. Por isso, a Universidade Veiga de Almeida proporciona a Batalha de Robô, um projeto que terá a presença dos cursos de Engenharia, Jornalismo, Publicidade, Administração e Design. A reunião da última quarta-feira, 30, determinou prazos e cargos do programa, além de estabelecer o papel dos alunos nessa iniciativa.</p><p>Em relação a influência da competição nos alunos, o professor da UVA, Antônio Carlindo, explicou que esse exercício extraclasse serve para preparar os estudantes para a robótica. “A inteligência artificial já é uma realidade e nós precisamos nos adaptar a isso”, disse. O projeto visa a construção de uma pista, o desenvolvimento e habilidades do robô de linha, mas que também pretende a integração entre os cursos.</p><p>Os alunos da disciplina de Projeto Interdisciplinar em Jornalismo irão fazer reportagens sobre o evento, com a orientação da professora Maristela Fittipaldi. Presente na reunião, a orientadora contou sobre a experiência de elaborar um robô de Lego Mindstorms. “É muito divertido! É um trabalho que demanda qualidades e competências exigidas de um profissional de qualquer área”, explicou. Apesar de todos os desafios do projeto, Maristela afirmou que os alunos envolvidos irão se divertir com o processo.</p><p>Ao ser questionado sobre a execução do programa, o coordenador de engenharia, Professor Marcio Suzano, declarou que o primordial é manter a integração dos alunos e professores durante todo desenvolvimento. “É importante que eles estejam atentos às tecnologias e possam desenvolver a sua criatividade durante todo processo”, esclareceu. Também ressaltou a importância do projeto multidisciplinar, uma vez que os alunos são instados à participação, retirando-os de suas tradicionais áreas de domínio.</p><p>A Batalha de Robôs acontece no dia 5 de dezembro, com coberturas da Agência e TV UVA. Os alunos de jornalismo irão fazer matérias sobre o evento e os alunos de engenhariam ganharão mais experiência para o mercado de trabalho. Além disso, as reportagens feitas pelos alunos irão colaborar para tornar os projetos da universidade conhecidos e também para aproximar alunos de diferentes cursos.</p><p><strong>Carolina Marinho 4° período</strong></p></main>"
+  },
+  "date": "2017-09-01T09:38:46",
+  "date_gmt": "2017-09-01T12:38:46",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Workshop reúne professores e alunos da UVA para experimentar o mundo da robótica Com o avanço das tecnologias, os robôs ganharam espaço em todas as áreas profissionais e em salas de aulas. Por isso, a Universidade Veiga de Almeida proporciona a Batalha de Robô, um projeto que terá a presença dos cursos de Engenharia, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1137"
+  },
+  "id": 1137,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-il",
+  "link": "https://agenciauvabarra.com/2017/09/01/competicao-de-robos-visa-a-integracao-entre-cursos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:37:38",
+  "modified_gmt": "2019-02-28T19:37:38",
+  "ping_status": "open",
+  "slug": "competicao-de-robos-visa-a-integracao-entre-cursos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Competição de robôs visa a integração entre cursos"
+  },
+  "type": "post"
+}

@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3936/revisions/3970",
+        "id": 3970
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3936"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3936",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3936/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3936"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3957"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3936",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3936",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3936",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-choque-de-cultura",
+    "tag-cidade-das-artes",
+    "tag-rio2c",
+    "tag-robotica",
+    "tag-robo-nao",
+    "tag-robocup-brasil",
+    "tag-robocup-federation",
+    "tag-tv-quase"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento encerra a semana com grandes nomes do audiovisual e abrindo espaço para assuntos sobre robótica</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/robc3b4-nao-programado-por-alunos-brasileiros.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>Robô NAO programado por alunos brasileiros &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/painel-no-rio2c-fala-sobre-a-utilizac3a7c3a3o-da-cultura-pop-para-inovar-na-educac3a7c3a3o.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>Painel no Rio2C fala sobre a utilização da cultura pop para inovar na educação &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/editores-falam-sobre-a-construc3a7c3a3o-de-narrativas-na-pc3b3s-produc3a7c3a3o.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>Editores falam sobre a construção de narrativas na pós produção &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/natara-ney-fala-sobre-o-processo-de-edic3a7c3a3o.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>Natara Ney fala sobre o processo de edição &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/andrc3a9-paz-fala-sobre-como-desenvolver-um-documentc3a1rio-imersivo.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>André Paz fala sobre como desenvolver um documentário imersivo &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/daniel-de-santanna-fala-sobre-rpgs-para-abordar-tema-de-painel.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>Daniel de Sant&#8217;anna fala sobre RPGs para abordar tema de painel &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/integrantes-da-tv-quase-falam-sobre-o-trabalho-ao-longo-dos-dez-anos.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>Integrantes da TV Quase falam sobre o trabalho ao longo dos dez anos &#8211; Foto: Gabriel Torres</figcaption></figure><p>.</p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/vKR5dvb1Fyk?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>.</p><p>O último dia de Rio Creative Conference, que aconteceu na Cidade das Artes, na Barra da Tijuca, entre os dias 23 e 28 de maio, combinou palestras e exposições ao longo do dia. Como “A Edição como narrativa”, “Cultura pop para inovar na educação”, “Como desenvolver um documentário imersivo”, entre outros, como Choque de Cultura e assuntos relacionados à robótica, que também foram destaque.</p><p><a href=\"https://agenciauvabarra.com/2019/04/30/robos-programados-por-alunos-brasileiros-ganham-espaco-no-rio2c/\">Robôs programados por alunos brasileiros ganham destaque no RIO2C</a>. Em uma demonstração, estudantes que já venceram modalidades de batalhas mundiais compartilham seus trabalhos na RoboCup Brasil com o objetivo de divulgar a ciência e a tecnologia no campo da robótica a pessoas que não conhecem o assunto. Segundo Cristiane Pelisolli Cabral, uma das oito representantes da RoboCup Brasil, são mais de 4 mil equipes e 11 mil alunos participando.</p><p>Os robôs dividiram espaço com os motoristas de vans mais conhecidos da internet e da TV. <a href=\"https://agenciauvabarra.com/2019/04/30/choque-de-cultura-no-rio2c-evento-recebe-roteiristas-e-atores-da-tv-quase-para-falar-sobre-os-10-anos-do-grupo/\">O evento recebeu roteiristas e atores da TV Quase para falar sobre os 10 anos do grupo.</a> A equipe do Choque de Cultura contou a trajetória desde o começo, com uma revista intitulada “Quase” até a popularidade, em 2016, com o programa, uma parceria com o canal “Omeleteve”.</p><p>O audiovisual já faz parte da vida das pessoas e se faz presente em vários momentos. Para lazer ou para trabalho, os espaços hoje se confundem e falar sobre isso é uma forma de compartilhar as diversas facetas desse assunto. No Rio2C pessoas de diferentes nacionalidades se reuniram com um único objetivo: adquirir conhecimento e trocar experiências. Ao todo foram mais de mil convidados, entre artistas e palestrantes, em cinco dias de evento e quem saiu ganhando foi o público.</p><p><strong>Ana Beatriz Bernardo &#8211; 7º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2019-04-30T15:00:01",
+  "date_gmt": "2019-04-30T18:00:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento encerra a semana com grandes nomes do audiovisual e abrindo espaço para assuntos sobre robótica . . O último dia de Rio Creative Conference, que aconteceu na Cidade das Artes, na Barra da Tijuca, entre os dias 23 e 28 de maio, combinou palestras e exposições ao longo do dia. Como “A Edição como [&hellip;]</p>\n"
+  },
+  "featured_media": 3957,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3936"
+  },
+  "id": 3936,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/editores-falam-sobre-a-construc3a7c3a3o-de-narrativas-na-pc3b3s-produc3a7c3a3o.jpg?fit=4896%2C3672&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-11u",
+  "link": "https://agenciauvabarra.com/2019/04/30/do-youtube-aos-robos-rio2c-se-despede-da-cidade-das-artes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-30T19:40:01",
+  "modified_gmt": "2019-04-30T22:40:01",
+  "ping_status": "open",
+  "slug": "do-youtube-aos-robos-rio2c-se-despede-da-cidade-das-artes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    7106332,
+    15767449,
+    604292533,
+    70135,
+    39257656,
+    678248980,
+    120182360,
+    25696594
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Do youtube aos robôs: RIO2C se despede da Cidade das Artes"
+  },
+  "type": "post"
+}

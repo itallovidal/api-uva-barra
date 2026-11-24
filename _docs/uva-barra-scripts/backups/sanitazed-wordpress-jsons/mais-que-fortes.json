@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14033/revisions/14038",
+        "id": 14038
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14033"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14033",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14033/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14033"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14037"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14033",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14033",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    632602,
+    43377791,
+    74499,
+    7114,
+    14591
+  ],
+  "class_list": [
+    "post-14033",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-diversidade",
+    "category-encontro-com-profissionais",
+    "category-mercado-de-trabalho",
+    "category-sociedade",
+    "category-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-genero",
+    "tag-igualdade",
+    "tag-machismo",
+    "tag-mercado",
+    "tag-mulheres",
+    "tag-trabalho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Para abordar o tema descrito no ODS 5 (igualdade de gênero) e com base no tópico 5.5, que tem como objetivo garantir a participação e as oportunidades efetivas das mulheres em todos os níveis de decisão na vida política, econômica e pública, o documentário “Mais que fortes” traz entrevistas com mulheres que contam experiências e opiniões sobre o mercado de trabalho em que estão inseridas.</p><p>A produção realizada por Juliana Bonfim, Anna Clara Sergipe, Arthur Rodrigues e Eduardo Lima, tem como objetivo informar e conscientizar o público, de como a desigualdade de gênero afeta o salário, as férias e a relevância das mulheres no mercado profissional.</p><p><strong>Assista!</strong></p><figure><div class=\"wp-block-embed__wrapper\"><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/j2RKeMO0q3c?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p></p><p><em>Documentário produzido para a disciplina de Produção em rádio tv e cinema, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-02-03T15:22:01",
+  "date_gmt": "2023-02-03T18:22:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Para abordar o tema descrito no ODS 5 (igualdade de gênero) e com base no tópico 5.5, que tem como objetivo garantir a participação e as oportunidades efetivas das mulheres em todos os níveis de decisão na vida política, econômica e pública, o documentário “Mais que fortes” traz entrevistas com mulheres que contam experiências e opiniões sobre o mercado de trabalho em que estão inseridas. </p>\n"
+  },
+  "featured_media": 14037,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14033"
+  },
+  "id": 14033,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/whatsapp-image-2023-02-03-at-15.25.46.jpeg?fit=1600%2C739&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3El",
+  "link": "https://agenciauvabarra.com/2023/02/03/mais-que-fortes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-02-03T15:35:16",
+  "modified_gmt": "2023-02-03T18:35:16",
+  "ping_status": "open",
+  "slug": "mais-que-fortes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    376665,
+    759177,
+    198876,
+    85628,
+    15254,
+    767056610
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Mais que fortes"
+  },
+  "type": "post"
+}

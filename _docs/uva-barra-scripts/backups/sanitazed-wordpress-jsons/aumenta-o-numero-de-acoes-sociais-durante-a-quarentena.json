@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7475/revisions/7492",
+        "id": 7492
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7475"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7475",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7475/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7475"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7482"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7475",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7475",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    268277,
+    703299214
+  ],
+  "class_list": [
+    "post-7475",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "category-solidariedade",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Grupos de familiares e amigos se unem para ajudar moradores de rua distribuindo comida e itens de higiene</em></p><p>O isolamento social provocou uma diminuição no movimento de bares, ruas e avenidas, afetando o lucro do comércio, de empresas e das demais camadas da sociedade. Diante dessa crise, pessoas em situações de vulnerabilidade social dependem ainda mais de auxílio para lidar com questões como a fome e a higiene. Se antes, Organizações Não-Governamentais (ONGs) e ações governamentais administravam essa situação, agora, com a quarentena, a necessidade se torna ainda maior e moradores de rua vem contando com essa ajuda.</p><p>No cotidiano normal – sem coronavírus –, ações sociais já realizavam um trabalho contínuo com moradores de rua e contavam com doações de terceiros. Agora, grupos independentes têm sido formados por familiares e amigos para contribuir nesse auxílio e não sobrecarregar ONGs e projetos que atendem a uma população numerosa de moradores de rua. Em Jacarepaguá, grupos de pessoas dispostas a reunir doações de alimentos entram nessa onda de solidariedade. No bairro da Freguesia, nasceu mais um projeto que tem como proposta inicial entregar quentinhas para moradores de rua da região. O grupo ‘Amigos da Merenda’ começou com a entrega em 20 de março deste ano. A turma se reúne todo sábado na parte da manhã para preparar os alimentos e por volta das 18h30 sai para a entrega das quentinhas.</p><p>A ideia da distribuição partiu de uma conversa pelo WhatsApp, após o encerramento das atividades escolares, que fez com que a merendeira Nádia Maria Corrêa, 64 anos, pudesse enxergar uma oportunidade de ajudar o próximo. O grupo começou com cerca de 20 pessoas e incluía a família de Nádia mais alguns amigos, e hoje conta com o total cem pessoas envolvidas. “Para quem começou no nosso grupo do Whatsapp só com 20 pessoas, entregando apenas 20 quentinhas, ter hoje esse total de pessoas contribuindo com doação, participando das entregas ou ajudando de alguma forma, é muito gratificante”, conta a merendeira.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-14.png?resize=337%2C239&amp;ssl=1\" alt=\"\" width=\"337\" height=\"239\"><figcaption>Grupo Amigos da Merenda antes de sair para a entrega  — Foto: Camyla Lima</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-15.png?resize=251%2C199&amp;ssl=1\" alt=\"\" width=\"251\" height=\"199\"><figcaption>Da esquerda para a direita: Sandra Maria ensacando as quentinhas &#8211; Foto: Camyla Lima</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-16.png?resize=279%2C200&amp;ssl=1\" alt=\"\" width=\"279\" height=\"200\"><figcaption>Quentinhas prontas para entrega &#8211; Foto: Camyla Lima</figcaption></figure><p>Mesmo fazendo uso dos equipamentos recomendados pela Organização Mundial da Saúde (OMS), como mascaras, álcool em gel e luvas, algumas pessoas não podem participar das entregas. Esse é o caso de Sandra Maria da Silva, 65 anos, que faz parte do grupo Amigos da Merenda, contribuindo apenas nas doações, na montagem das quentinhas e compartilhando a ideia nas redes sociais. “Infelizmente não faço parte das entregas. O grupo resolveu me preservar por ter 65 anos e fazer parte do grupo de risco, então acabo ajudando como posso. Participo mais da montagem das quentinhas”, explica a aposentada.</p><p>Diante de todo esse cenário, é possível notar um aumento significativo no número de pessoas preocupadas em ajudar o próximo. Em uma das entregas realizadas, Nádia Maria conta que foi possível notar a presença de outros grupos que também realizavam a doação de comida, itens de higiene ou até mesmo roupas.&nbsp; “Eu até me emociono em falar isso, mas teve uma vez que paramos para entregar umas quentinhas e esses moradores não aceitaram porque já tinham feito a refeição da noite. Eles poderiam muito bem aceitar e guardar para o dia seguinte, mas preferiram deixar para o próximo”.</p><p>Iniciativas em todo o estado ajudam a dar um auxílio para quem precisa, provocando um salto nas doações realizadas durante essa pandemia. Mesmo notando cada vez mais a presença de grupos sem fins lucrativos, isso não impede ou acomoda outras pessoas que querem começar a colocar um projeto em prática. É o caso de amigas, que, no último fim de semana, resolveram criar um coletivo para arrecadar doações para atender às necessidades dos moradores de rua de uma parte da Zona Oeste do Rio de Janeiro.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-17.png?resize=241%2C263&amp;ssl=1\" alt=\"\" width=\"241\" height=\"263\"><figcaption>Folder do projeto Coletivo Regional — Foto: Divulgação/Coletivo Regional </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-18.png?resize=198%2C261&amp;ssl=1\" alt=\"\" width=\"198\" height=\"261\"><figcaption>Folder do projeto Coletivo Regional — Foto: Divulgação/Coletivo Regional </figcaption></figure><p>O grupo, formado por quatro amigas, ainda está na fase de recolhimento de doações e faz uso dos meios digitais para propagar a ideia. A primeira rede social utilizada foi o Twitter, em seguida o grupo criou um perfil no Instagram, para dar destaque ao começo das ações, as doações recebidas e incentivar mais pessoas para participar do projeto. Foi criada também uma “vaquinha” online para as pessoas que preferirem fazer a doação em dinheiro. O coletivo pretende começar a ação pelos bairros de Madureira, Bangu, Realengo e Padre Miguel, mas ainda estuda outras possíveis rotas. </p><p>“Acho que há um prazer único em sentir que fez a diferença na vida de alguém em situação de tanta vulnerabilidade, ainda mais moradores de rua que, a partir do momento no qual passam a não ter mais residência, deixam de ser vistos como seres humanos para a maior parte da população. A nossa intenção não é só levar alimento e agasalhos, mas também um pouco de gentileza para essas pessoas”, relata a estudante sobre o propósito do projeto.</p><p><strong>Camyla Barbosa Deiró de Lima &#8211; 3º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-08-11T14:04:00",
+  "date_gmt": "2020-08-11T17:04:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Grupos de familiares e amigos se unem para ajudar moradores de rua distribuindo comida e itens de higiene O isolamento social provocou uma diminuição no movimento de bares, ruas e avenidas, afetando o lucro do comércio, de empresas e das demais camadas da sociedade. Diante dessa crise, pessoas em situações de vulnerabilidade social dependem ainda [&hellip;]</p>\n"
+  },
+  "featured_media": 7482,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7475"
+  },
+  "id": 7475,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-16.png?fit=279%2C200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Wz",
+  "link": "https://agenciauvabarra.com/2020/08/11/aumenta-o-numero-de-acoes-sociais-durante-a-quarentena/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-10T15:31:33",
+  "modified_gmt": "2020-08-10T18:31:33",
+  "ping_status": "open",
+  "slug": "aumenta-o-numero-de-acoes-sociais-durante-a-quarentena",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Aumenta o número de ações sociais durante a quarentena"
+  },
+  "type": "post"
+}

@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5356/revisions/5368",
+        "id": 5368
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5356"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5356",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5356/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5356"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5362"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5356",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5356",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    774
+  ],
+  "class_list": [
+    "post-5356",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-musica",
+    "tag-agencia-uva-barra",
+    "tag-concertos-de-orgaos",
+    "tag-eduardo-biato",
+    "tag-marco-aurelio-lischt",
+    "tag-petropolis"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Organista levou clássicos de Bach e Zipoli</em></p><p>O repertório clássico deu o tom neste último domingo, dia 29, no evento Concertos de Órgão da Catedral São Pedro de Alcântara, em Petrópolis. A programação especial, prevista para todo o último domingo do mês, contou com a presença do organista Eduardo Biato.</p><p>O órgão da Catedral de São Pedro possui 2.227 tubos (que medem cerca de 29 centímetros a 7 metros de altura), 33 registros, três teclados manuais e 1 pedal. De acordo com Marco Aurélio Lischt, que é organista da Catedral, diretor artístico da série de concertos e, também, regente do coral Os Canarinhos do Instituto Meninos Cantores de Petrópolis, desde 2010, o órgão – existente desde 1937 – tem passado por diversos processos de valorização e preservação. “Temos aqui este belo instrumento em funcionamento, depois de restaurado e 20 anos parado”, diz Marco Aurélio.</p><p>Com entrada gratuita, o concerto emociona a todos e principalmente quem vai contemplar o som do órgão pela primeira vez. É o caso do educador físico Eduardo do Vale. Morando em Petrópolis há poucos meses com a família, ele disse ter ficado impressionado com a apresentação. “É vibrante. Te toca. Nunca tinha presenciado ao vivo. As emoções se misturam com o contexto arquitetônico do local a cada melodia. É emocionante demais”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20190929_162730.jpg?resize=508%2C285&amp;ssl=1\" alt=\"\" width=\"508\" height=\"285\" /><figcaption>Organista Eduardo Biato durante apresentação no Concerto de Órgãos da Catedral São Pedro de Alcântara, em Petrópolis – Foto: Paula Guaraldo</figcaption></figure><p>Biato ressalta a importância da iniciativa de preservação deste instrumento raro e histórico. “Participo de séries com outros músicos e em outros órgãos do Rio de Janeiro que buscam valorizar estes instrumentos e suas preciosidades e, que além de terem que estar em boas mãos, também precisam ser utilizados e conhecidos”. O órgão da Catedral de São Pedro foi feito em estilo neogótico francês. No local é possível observar esculturas de Jean Magrou, Bertozzi, vitrais e pinturas de Carlos Oswald e ter visitação no Mausoléu da Família Imperial.</p><p>A iniciativa do concerto de órgãos é apoiada pela prefeitura por meio da Turispetro e do Instituto Municipal de Cultura e Esportes (IMCE). O próximo está previsto para o dia 27 de outubro com o organista Benedito Rosa, bacharel em órgão e mestre em Música, com formação em cravo, piano, canto e regência coral. O espetáculo começará às 15 horas.</p><p><strong>Paula Guaraldo – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-03T13:51:25",
+  "date_gmt": "2019-10-03T16:51:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Organista levou clássicos de Bach e Zipoli O repertório clássico deu o tom neste último domingo, dia 29, no evento Concertos de Órgão da Catedral São Pedro de Alcântara, em Petrópolis. A programação especial, prevista para todo o último domingo do mês, contou com a presença do organista Eduardo Biato. O órgão da Catedral de [&hellip;]</p>\n"
+  },
+  "featured_media": 5362,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5356"
+  },
+  "id": 5356,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20190929_163800.jpg?fit=2048%2C1152&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1oo",
+  "link": "https://agenciauvabarra.com/2019/10/03/eduardo-biato-faz-apresentacao-na-serie-de-concertos-de-orgao-da-catedral-de-sao-pedro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-03T13:51:25",
+  "modified_gmt": "2019-10-03T16:51:25",
+  "ping_status": "open",
+  "slug": "eduardo-biato-faz-apresentacao-na-serie-de-concertos-de-orgao-da-catedral-de-sao-pedro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    687648826,
+    687648837,
+    83774797,
+    1542906
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Eduardo Biato faz apresentação na série de Concertos de Órgão da Catedral de São Pedro"
+  },
+  "type": "post"
+}

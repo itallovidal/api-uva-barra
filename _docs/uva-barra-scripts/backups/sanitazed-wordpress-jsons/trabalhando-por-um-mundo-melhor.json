@@ -1,0 +1,156 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1376/revisions/3002",
+        "id": 3002
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1376"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1376",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1376/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1376"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1376",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1376",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7442,
+    670411728
+  ],
+  "class_list": [
+    "post-1376",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-empreendedorismo",
+    "category-institucional-uva",
+    "tag-projetodiversidade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Palestra sobre empreendedorismo social na UVA traz profissionais da área para debate com os alunos</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/img-20170921-wa0033-2.jpg?resize=1280%2C720&#038;ssl=1' alt='IMG-20170921-WA0033 (2)' width='1280' height='720' /><figcaption>Professora Lourdes Domingos mediando Talk Show com Alda Marino e Giovanni Harvey  Foto: Rafaela dos Santos</figcaption></figure><p>Hoje, cada vez mais pessoas estão se alinhando à ideia de empreendedorismo. Em todas as áreas, inclusive na vertente social. Ciente da importância do tema para o alcance de um mundo mais sustentável, justo e igualitário, a UVA abrigou em seu campus Barra o Talk Show \"Empreendedorismo Social\", que integrou a II Feira de Práticas Sustentáveis. O debate teve como convidados Alda Marino, diretora da empresa PARES; e Giovanni Harvey, diretor executivo da Incubadora Afro Brasileira. Lá, ambos puderam falar sobre como suas instituições, que não têm fins lucrativos, procuram beneficiar a vida em sociedade.</p><p>Alda Marino fez um caminho considerado oposto: parou de atuar em uma grande companhia para trabalhar com empreendedorismo social. Ela é sócia-fundadora da PARES, que há sete anos presta consultoria e capacitação para outras instituições. A intenção do trabalho é gerar qualidade de governança e relações internas nas empresas que solicitam seus serviços, além de bons vínculos com a sociedade. Para Alda, agir nesse ramo parte da vontade de cada um em mudar a realidade em que vive. \"Não conheço ninguém que esteja satisfeito com o mundo como ele está. Temos que ser protagonistas dessas mudanças\".</p><p>Foi também com uma vertente mais social que surgiu a Incubadora Afro Brasileira. Fundada em 2004 e localizada próxima ao Cais do Valongo, no porto do Rio – local simbólico, pois lá desembarcaram muitos escravos -, a instituição foca na formação de empreendedores afrodescendentes. Ao contrário de outros lugares, lá ganha vantagem quem possuir menos instrução e viver em locais de baixo desenvolvimento humano. \"Buscamos empreendimentos que estejam numa situação de vulnerabilidade e líderes que tenham uma função de responsabilidade com o núcleo familiar\", conta Giovanni Harvey, diretor executivo do projeto. Com isso, a incubadora cresceu dando chances àqueles que não teriam oportunidades em uma empresa \"comum\".</p><p>O debate foi de grande proveito para os que empreendem ou que um dia planejam fazer isso. Marjorie Fernandes, que cursa o 3° período de Administração, pretende levar essa experiência para seu trabalho voluntário na associação católica Shalom. O projeto, espalhado pelo Rio e pelo mundo, visa atender moradores de rua, dependentes químicos e outros grupos vulneráveis, especialmente jovens. Para Marjorie, a palestra ensinou que é importante levar sua causa adiante, seja ela qual for e esteja onde estiver. \"Nós somos empreendedores onde estivermos. Vou levar para a minha carreira esse foco\", garante.</p><p>Este é exatamente um dos objetivos do evento promovido pela UVA. Para a coordenadora da Feira de Práticas Sustentáveis, professora Maria de Lourdes Domingos, empreendedorismo é um tema totalmente integrado ao evento. \"Expandir a ideia de empreendedorismo para o social está totalmente ligado à sustentabilidade, pois estamos falando de um mundo muito populoso com várias transformações do sistema de trabalho\". Com isso, a feira busca gerar uma reflexão em alunos e visitantes para as mudanças que estão por vir, tanto ambientais quanto humanas.</p></main>"
+  },
+  "date": "2017-10-02T14:31:45",
+  "date_gmt": "2017-10-02T17:31:45",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestra sobre empreendedorismo social na UVA traz profissionais da área para debate com os alunos Hoje, cada vez mais pessoas estão se alinhando à ideia de empreendedorismo. Em todas as áreas, inclusive na vertente social. Ciente da importância do tema para o alcance de um mundo mais sustentável, justo e igualitário, a UVA abrigou em [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1376"
+  },
+  "id": 1376,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-mc",
+  "link": "https://agenciauvabarra.com/2017/10/02/trabalhando-por-um-mundo-melhor/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T10:56:48",
+  "modified_gmt": "2019-01-31T12:56:48",
+  "ping_status": "open",
+  "slug": "trabalhando-por-um-mundo-melhor",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056637
+  ],
+  "template": "",
+  "title": {
+    "rendered": "#ProjetoDiversidade: Trabalhando por um mundo melhor"
+  },
+  "type": "post"
+}

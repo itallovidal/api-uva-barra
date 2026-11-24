@@ -1,0 +1,155 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1724/revisions/2970",
+        "id": 2970
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1724"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1724",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1724/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1724"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1724",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1724",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    670411728,
+    72064
+  ],
+  "class_list": [
+    "post-1724",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-esporte",
+    "category-institucional-uva",
+    "category-saude"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Escola de Samba Mangueira abre portas para treino da Equipe Mahamudra</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/01/whatsapp-image-2018-01-30-at-17-04-34.jpeg?resize=1280%2C960&amp;ssl=1' alt='WhatsApp Image 2018-01-30 at 17.04.34' width='1280' height='960' /><figcaption>Foto: Guilherme Honrado</figcaption></figure><p>Corpo, alma, espírito e samba. Esses foram os focos do primeiro aulão pré-carnaval da Equipe Mahamudra Rio, que aconteceu neste último sábado (27/01), na Quadra da Escola de Samba Mangueira. O evento ainda teve o apoio da Universidade Veiga de Almeida (UVA), que pretende manter a parceria ao longo desse ano. Ao juntar yoga, crossfit e funcional, os atletas acreditam na filosofia de que todos são capazes de manter a saúde e a atividade física em dia.</p><p>Esse lema é ressaltado pelo professor Raphaell Ramos da Equipe Mahamudra, que sempre anima os iniciantes e incentiva a não desistirem do objetivo final. “É sempre uma caminhada difícil, mas ver as mudanças no físico e no humor é totalmente satisfatório”. Foi a primeira vez que treinaram com show ao vivo, a bateria da Mangueira tocou alguns sucessos enquanto os exercícios eram realizados. “Foi uma energia maravilhosa! A junção da música com o nosso trabalho foi uma experiência única.”, completa Raphaell.</p><p>O professor de Inovação e Criatividade da UVA, Alex Oliveira, também comemora o sucesso da parceria, que conseguiu graças aos anos como Rei Momo do Carnaval. Hoje é praticante da Mahamudra. “Eu vi a oportunidade de juntar as coisas que amo, fico muito feliz que tenha dado certo e todo mundo elogiado”, comenta. Por trabalhar na Universidade, levou a ideia para a direção.</p><p>Quem ficou animado com a possibilidade foi o coordenador do curso de Educação Física, Alexandre Motta. “Percebi que podia colocar em prática o que os alunos aprendem na sala de aula, eles adoraram a oportunidade”, afirma. Na chegada, os estudantes fizeram avaliação física gratuita, o que antes só tinham visto na teoria ensinada pelos professores. Mas a parceria não encerra agora. A Equipe pretende fazer um aulão por semana no Campus Barra com cortesia para os universitários. Fiquem atentos nas próximas notícias para não perderem a chance!</p><p><strong>Giovanna Faria, 6º período</strong></p></main>"
+  },
+  "date": "2018-01-31T13:13:35",
+  "date_gmt": "2018-01-31T15:13:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Escola de Samba Mangueira abre portas para treino da Equipe Mahamudra</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1724"
+  },
+  "id": 1724,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-rO",
+  "link": "https://agenciauvabarra.com/2018/01/31/samba-no-corpo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T17:46:42",
+  "modified_gmt": "2019-01-26T19:46:42",
+  "ping_status": "open",
+  "slug": "samba-no-corpo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Samba no Corpo"
+  },
+  "type": "post"
+}

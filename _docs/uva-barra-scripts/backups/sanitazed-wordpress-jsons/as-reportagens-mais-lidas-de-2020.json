@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8439/revisions/8448",
+        "id": 8448
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8439"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8439",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8439/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8439"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8444"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8439",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8439",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-8439",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>As matérias mais clicadas trazem retratos sobre o ano que se passou</em></p><p>A Agência UVA Barra teve que se adaptar às medidas de isolamento social em decorrência ao novo coronavírus. Os eventos foram virtualizados e os repórteres tiveram que trabalhar em esquema de <em>home office</em>. Entretanto, o leitor da Agência UVA Barra teve acesso a matérias que deram conta de registrar como estamos enfrentando esse momento. As reportagens mais vistas de 2020 refletem a o que acontece na sociedade.</p><p>A matéria mais vista é intitulada <a href=\"https://agenciauvabarra.com/2020/07/20/a-representatividade-negra-nas-artes/\" target=\"_blank\" rel=\"noreferrer noopener\">\"Representatividade Negra nas artes\"</a>, de Greicy Kelly Gomes. Ao longo do texto e do vídeo, é possível compreender como a população preta brasileira encontra barreiras por conta do racismo estrutural. Para a autora, o tema se faz necessário por ainda existir uma disparidade entre negros e brancos em oportunidades. Apesar de serem mais da metade da população do país, a hegemonia nas artes ainda é de pessoas brancas. Por isso, o debate é crucial, segundo Greicy.</p><p><strong>Ouça o áudio de <strong>Greicy Kelly Gomes</strong>sobre racismo</strong></p><iframe loading=\"lazy\" width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F953694538&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" title=\"Agência UVA Barra\" allow=\"autoplay\"></iframe><p>A segunda reportagem mais clicada de 2020 foi \"Alunas da Veiga de Almeida são selecionadas para mostra <a href=\"https://agenciauvabarra.com/2020/09/23/alunas-do-campus-barra-sao-selecionadas-para-mostra-novos-talentos-brasileiros-design-e-arte/\" target=\"_blank\">\"Novos Talentos Brasileiros – Design e Arte\".</a> A matéria traz a trajetória das alunas do curso de Design de Interiores que tiveram os projetos aprovados para a mostra Novos Talentos Brasileiros. Os desafios de desenvolver um projeto durante o isolamento, a logística de produzir um móvel e a sensação da aprovação são alguns dos temas abordados pelas alunas.</p><p>Para a professora Silvana Rocha, responsável pela disciplina que deu origem aos projetos, o reconhecimento é inesperado, mas agradável. O que começou em sala, ganhou espaço na mostra e se destaca entre as reportagens mais lidas de 2020.</p><p><strong>Ouça o áudio da professora&nbsp; Silvana Rocha sobre reconhecimento</strong></p><iframe loading=\"lazy\" width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F953697826&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" title=\"Agência UVA Barra\" allow=\"autoplay\"></iframe><p>A terceira matéria mais lida de 2020 é intitulada de <a href=\"https://agenciauvabarra.com/2020/11/25/mulheres-em-situacao-de-violencia-um-problema-brasileiro/\" target=\"_blank\" rel=\"noreferrer noopener\">\"Mulheres em situação de violência: um problema brasileiro\"</a>, escrita por Beatriz Barbosa e Rafaela Barbosa, autora do presente texto. A reportagem trouxe o debate sobre violência contra mulher no dia 25 de novembro, dia Dia Internacional da Não Violência Contra a Mulher. Além de relatos de quem já passou por situações delicadas a reportagem provoca o leitor a olhar o tema por uma outra ótica.</p><p>Para Beatriz Barbosa, poder falar sobre um tema tão sensível e ter o reconhecimento do público é importante para a carreira profissional como comunicadora. Para ela, o caminho do jornalismo foi algo natural. \"O jornalismo me escolheu\", afirma Beatriz.</p><p><strong>Ouça o áudio de Beatriz Barbosa sobre a importância do debate sobre violência contra mulher</strong></p><iframe loading=\"lazy\" width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F953699134&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" title=\"Agência UVA Barra\" allow=\"autoplay\"></iframe><p>O ano de 2020 se aproxima do fim. As reportagens mais lidas trazem alguns pontos em comum: o desafio do distanciamento nas atividades laborais, problemas da sociedade brasileira e como é possível superar os obstáculos. Além dessas reportagens, a Agência UVA Barra produziu outras matérias&nbsp; e podcasts que são um retrato de como os brasileiros passaram por 2020.</p><p>A pandemia de COVID-19 deixa rastros irreparáveis. São quase 200 mil vidas perdidas ao longo do ano. Saber os rumos do ano que se inicia não é tarefa do jornalismo: vacina, crises políticas, reformas, são ainda incógnitas. Entretanto, o leitor pode contar com mais um ano de reportagens que visam sempre trazer a ética que move o jornalismo.</p><p><em>Rafaela Barbosa – 8º período</em></p></main>"
+  },
+  "date": "2020-12-24T18:51:14",
+  "date_gmt": "2020-12-24T21:51:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>As matérias mais clicadas trazem retratos sobre o ano que se passou A Agência UVA Barra teve que se adaptar às medidas de isolamento social em decorrência ao novo coronavírus. Os eventos foram virtualizados e os repórteres tiveram que trabalhar em esquema de home office. Entretanto, o leitor da Agência UVA Barra teve acesso a [&hellip;]</p>\n"
+  },
+  "featured_media": 8444,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8439"
+  },
+  "id": 8439,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/whatsapp-image-2020-12-21-at-11.57.50.jpeg?fit=945%2C945&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2c7",
+  "link": "https://agenciauvabarra.com/2020/12/24/as-reportagens-mais-lidas-de-2020/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-12-24T19:23:16",
+  "modified_gmt": "2020-12-24T22:23:16",
+  "ping_status": "open",
+  "slug": "as-reportagens-mais-lidas-de-2020",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "As reportagens mais lidas de 2020"
+  },
+  "type": "post"
+}

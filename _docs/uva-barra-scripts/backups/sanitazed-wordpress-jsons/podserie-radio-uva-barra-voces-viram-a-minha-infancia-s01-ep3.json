@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8486/revisions/8493",
+        "id": 8493
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8486"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8486",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8486/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8486"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8491"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8486",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8486",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8486",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F941039179&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Player do SoundCloud' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>Foi dada partida. A aventura de sair do estado para assistir ao show do ídolo Michael Jackson finalmente começou. No meio do caminho, Lúcio e os amigos encontram Malu. Agora, o romance também faz parte da história de Lúcio. O perrengue também pega carona nessa aventura e Lúcio não será mais o mesmo depois dessa jornada.</p><p>Esse é o terceiro capítulo da podsérie “Vocês viram a minha infância?”. Os episódios estão sendo lançados pela Rádio UVA Barra de 11 a 15 de janeiro. Ao longo do mês outras histórias farão parte dessa temporada inédita de podcasts ficcionais feitos por alunos da Universidade Veiga de Almeida.</p><p>Links de “vocês viram a minha infância?”</p><p><a href='https://agenciauvabarra.com/2021/01/11/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep1/' target='_blank'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP1</a></p><p><a href='https://agenciauvabarra.com/2021/01/12/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep2/' target='_blank'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP2</a></p><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2021-01-13T15:23:14",
+  "date_gmt": "2021-01-13T18:23:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Vocês Viram a Minha Infância? · Temporada 1 &#8211; Vocês Viram o Meu Ídolo &#8211; Episódio 3 Foi dada partida. A aventura de sair do estado para assistir ao show do ídolo&nbsp; Michael Jackson finalmente começou. No meio do caminho, Lúcio e os amigos encontram Malu. Agora, o romance também faz parte da história de [&hellip;]</p>\n"
+  },
+  "featured_media": 8491,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8486"
+  },
+  "id": 8486,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/p1ep3.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2cS",
+  "link": "https://agenciauvabarra.com/2021/01/13/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep3/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-01-13T15:23:14",
+  "modified_gmt": "2021-01-13T18:23:14",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep3",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP3"
+  },
+  "type": "post"
+}

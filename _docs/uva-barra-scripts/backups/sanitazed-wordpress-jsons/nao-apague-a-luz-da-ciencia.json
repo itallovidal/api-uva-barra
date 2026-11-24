@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14004/revisions/14006",
+        "id": 14006
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14004"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14004",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14004/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14004"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14007"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14004",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14004",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    17964,
+    798,
+    758
+  ],
+  "class_list": [
+    "post-14004",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-educacao",
+    "category-politica",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-ciencia-2",
+    "tag-educacao",
+    "tag-investimento",
+    "tag-politica-2"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>“Não apague a luz da ciência” é um curta metragem com elementos de suspense, que trabalha em cima do ODS 9.5 dos Objetivos de Desenvolvimento Sustentável da ONU, Indústria, inovação e infraestrutura, para fortalecer a pesquisa científica e melhorar as capacidades tecnológicas de setores industriais em todos os países até 2030.</p><p>O grupo formado por Adalberto Ribeiro, Esther Brollo, Gabriel Mattos, Luiza Moura, Maria Eduarda Almeida quer chamar a atenção do público para os projetos que são desenvolvidos dentro das universidades, que na maioria das vezes são invisíveis para a sociedade. O curta conta a história de um professor universitário, que está desenvolvendo um meio de transporte super tecnológico, mas esbarra na falta de apoio e investimento para concluir esse projeto.</p><p><strong>Assista!</strong></p><figure><img src='https://www.youtube.com/embed/nIumbe2ilkc' alt='Vídeo do curta Não apague a luz da ciência' width='640' height='360'><figcaption>Documentário produzido para a disciplina de Produção em rádio tv e cinema, sob a supervisão do professor Anderson Barreto.</figcaption></figure><p></p><p></p><p></p></main>"
+  },
+  "date": "2023-01-27T16:09:35",
+  "date_gmt": "2023-01-27T19:09:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Não apague a luz da ciência&#8221; é um curta metragem com elementos de suspense, que trabalha em cima do ODS 9.5 dos Objetivos de Desenvolvimento Sustentável da ONU, Indústria, inovação e infraestrutura, para fortalecer a pesquisa científica e melhorar as capacidades tecnológicas de setores industriais em todos os países até 2030. </p>\n"
+  },
+  "featured_media": 14007,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14004"
+  },
+  "id": 14004,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/01/whatsapp-image-2023-01-27-at-16.36.32.jpeg?fit=1600%2C739&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3DS",
+  "link": "https://agenciauvabarra.com/2023/01/27/nao-apague-a-luz-da-ciencia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-01-27T16:44:46",
+  "modified_gmt": "2023-01-27T19:44:46",
+  "ping_status": "open",
+  "slug": "nao-apague-a-luz-da-ciencia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    12543076,
+    767056613,
+    494365,
+    22334
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Não apague a luz da ciência"
+  },
+  "type": "post"
+}

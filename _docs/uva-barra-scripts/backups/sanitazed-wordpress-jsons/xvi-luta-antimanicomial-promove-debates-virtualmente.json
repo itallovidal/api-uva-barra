@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6859/revisions/6872",
+        "id": 6872
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6859"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6859",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6859/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6859"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6866"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6859",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6859",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6859",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-psicologia",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra",
+    "tag-xvi-luta-antimanicomial"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento contou com mais de dez horas de atividades que discutiram o papel da arte e as políticas públicas na área de psicologia e psiquiatria</em></p><p>Debates, artes e informação. Há dezesseis anos a Universidade Veiga de Almeida abre um diálogo acadêmico sobre a Luta Antimanicomial. A 16ª edição do evento ganhou novo formato por conta da quarentena. O evento virtualizado aconteceu no dia 22 de maio, das sete e meia da manhã até depois das dez da noite e sempre com a “casa” cheia.</p><p>A coordenadora do campus Barra, Cristina Simões, realizou a abertura dos debates. Para ela, a virtualização não exclui a necessidade de se pautar a luta antimanicominal. “Hoje faremos uma luta virtual, mas é importante estar aquipresente e reforçar toda a necessidade dessa  transformação”. Além disso, ela fez uma menção honrosa à Nise da Silveira, médica psiquiatra brasileira que foi um expoente da psiquiatria do século XX.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/luta-foto-1.png?resize=1366%2C768&amp;ssl=1\" alt=\"\" width=\"1366\" height=\"768\"><figcaption>Aline Drummond, professora e idealizadora do evento, acredita que o isolamento deve ser físico, mas não social – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/luta-foto-2.png?resize=987%2C556&amp;ssl=1\" alt=\"\" width=\"987\" height=\"556\"><figcaption>Cristina Simões, coordenadora do curso de Psicologia da UVA Barra, ressalta a importância das reformas psiquiátricas e torce para que a luta da transformação continue – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/luta-foto-3.png?resize=987%2C551&amp;ssl=1\" alt=\"\" width=\"987\" height=\"551\"><figcaption>“Todos nós, com esse confinamento obrigatório, estamos sentindo um pouco o que é loucura”, Danielle Lamarca, coordenadora do curso de Psicologia, no campus Tijuca – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/luta-foto-4.png?resize=986%2C555&amp;ssl=1\" alt=\"\" width=\"986\" height=\"555\"><figcaption>Glória Sadala parabeniza a organização do evento que, nessa edição, teve que se reinventar – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/luta-foto-5.png?resize=1207%2C682&amp;ssl=1\" alt=\"\" width=\"1207\" height=\"682\"><figcaption>Cristianne Lima durante o show de encerramento “#Lou(CURA) em Casa” cantando a música “sufoco de vida”, da banda Harmonia enlouquece – Foto: Reprodução da Internet</figcaption></figure><p>Danielle Lamarca, coordenadora do campus Tijuca, também falou na abertura do evento. Ela destacou que o confinamento por conta da quarentena possibilita o entendimento mais sensível ao que os “Loucos” sentiam quando interditados socialmente. “A gente tá sentido na pele o que é ficar preso, o que é perder o direito de ir e vir, por uma questão que a gente não tem como controlar”. Ela complementa, ainda, que essa identificação não é plena pois os pacientes ainda eram torturados.</p><p>Além das coordenadoras dos campi Barra e Tijuca, a coordenadora da pós-graduação, Glória Sadala também deu as boas-vindas aos participantes. “É um  evento que integra todos os segmentos da psicologia da Universidade Veiga de Almeida: graduação, pós-graduação Lato Sensu e o nosso programa de pós-graduação em psicanálise, saúde e sociedade que engloba nosso mestrado e nosso doutorado”.</p><p>Aline Drummond foi quem encerrou a mesa de abertura. Ela é idealizadora do evento e o coordena desde 2004, quando se abriu um espaço de discussão sobre o papel da psicologia e a loucura. Durante o discurso, Aline enfatizou a necessidade de manter-se as atividades sociais ainda que via digital.“Estamos aqui hoje porque lutamos por uma rede de assistência em saúde mental democrática, capaz de respeitar a cidadania e os sintomas dos sujeitos inseridos nesse campo. E hoje teremos aqui um debate democrático, aberto e crítico”.</p><blockquote><p><em>“Estamos aqui hoje porque lutamos por uma rede de assistência em saúde mental democrática, capaz de respeitar a cidadania e os sintomas dos sujeitos inseridos nesse campo. E hoje teremos aqui um debate democrático, aberto e crítico”.</em></p><cite>– Aline Drumon</cite></blockquote><p>O evento seguiu durante todo o dia com diversas atividades. Os debates se inciaram com a mesa-redonda “O que a Psicanálise ensina para Reforma Psiquiátrica?”. Em seguida, Antônio Quinet realizou uma conferência com o título “James Joyce e a arte como Sinthoma”, na qual desenvolvia o pensamento psicanalítico embasado na obra do escritor James Joyce.</p><p>A diversidade esteve presente nos temas discutidos, de realizações artísticas e filosóficas a importância da Reforma Psiquiátrica e a Política de Saúde Mental no Brasil, todos os temas que tiveram participações de alunos e professores. O evento contou com a participação de diversos expectadores. Durantes alguns momentos, havia cerca de 700 pessoas conectadas ao aplicativo Zoom e já são mais de 1.500 visualizações na rede Facebok.</p><p>Para encerrar as atividades, Cristianne Lima de Silva Moura promoveu um show com o nome “#Lou(CURA) em Casa”, no qual cantava músicas que iam desde Harmonia Enlouquece até Dona Ivone Lara.</p><p><strong>Rafaela Barbosa – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-26T16:05:10",
+  "date_gmt": "2020-05-26T19:05:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento contou com mais de dez horas de atividades que discutiram o papel da arte e as políticas públicas na área de psicologia e psiquiatria Debates, artes e informação. Há dezesseis anos a Universidade Veiga de Almeida abre um diálogo acadêmico sobre a Luta Antimanicomial. A 16ª edição do evento ganhou novo formato por [&hellip;]</p>\n"
+  },
+  "featured_media": 6866,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6859"
+  },
+  "id": 6859,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/luta-foto-1.png?fit=1366%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1MD",
+  "link": "https://agenciauvabarra.com/2020/05/26/xvi-luta-antimanicomial-promove-debates-virtualmente/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-26T16:32:07",
+  "modified_gmt": "2020-05-26T19:32:07",
+  "ping_status": "open",
+  "slug": "xvi-luta-antimanicomial-promove-debates-virtualmente",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056608,
+    5435308,
+    193805510,
+    700314989
+  ],
+  "template": "",
+  "title": {
+    "rendered": "XVI Luta antimanicomial promove debates virtualmente"
+  },
+  "type": "post"
+}

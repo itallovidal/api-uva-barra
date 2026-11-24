@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15684/revisions/15694",
+        "id": 15694
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15684"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15684",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15684/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15684"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15686"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15684",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15684",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2860759,
+    3719
+  ],
+  "class_list": [
+    "post-15684",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-bienal-do-livro",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-bienal",
+    "tag-escritor",
+    "tag-leitor",
+    "tag-leitura",
+    "tag-litaratura",
+    "tag-livro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Com três pavilhões, espaço pretende reunir 600 mil pessoas</em></p><p>A 21ª edição da Bienal do Livro começou na sexta-feira (01/09) e vai reunir mais de 300 autores, cerca de 200 horas de programação e uma expectativa que 600 mil pessoas circulem nos dez dias de festival.</p><p>No primeiro fim de semana do evento dezenas de autores nacionais e internacionais passaram pelos diversos espaços de encontro e debate — que neste ano foram reformulados e expandidos. Maurício de Sousa, Thalita Rebouças, Ana Maria Machado, Ruy Castro, Clara Alves, Itamar Vieira Júnior, Lázaro Ramos, Julia Quinn, Holly Black e Cassandra Clare são apenas algumas das personalidades mais icônicas que fizeram lotar o Riocentro.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/celebracao-40-anos.jpg?resize=3456%2C4608&#038;ssl=1\" alt=\"\" width=\"3456\" height=\"4608\"><figcaption>Da direita para a esquerda, escritores Ruy Castro, Thalita Rebouças, Rosa Maria Araújo, Mauricio de Sousa, Ana Maria Machado e Clara Alves no painel de celebração de 40 da Bienal. (Foto: Pedro Lima)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/verunschk-aldri-itamar.jpg?resize=3456%2C4608&#038;ssl=1\" alt=\"\" width=\"3456\" height=\"4608\"><figcaption>Autora Micheliny Verunschk, dramaturgo Aldri Anunciação e escritor Itamar Vieira Júnior em roda de conversa para debater novos pontos de vista nas narrativas nacionais. (Foto: Pedro Lima)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/eduardo-paes.png?resize=520%2C643&#038;ssl=1\" alt=\"\" width=\"520\" height=\"643\"><figcaption>Prefeito Eduardo Paes, no dia da abertura do evento. (Foto Reprodução/redes sociais)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/lais-borelli.jpeg?resize=899%2C1074&#038;ssl=1\" alt=\"\" width=\"899\" height=\"1074\"><figcaption>Laís acredita que a Bienal do Livro valoriza o acesso à informação, e fica satisfeita de ver um evento literário tão cheio. (Foto: Pedro Lima)</figcaption></figure><p>A novidade da edição, que comemora 40 anos, foi o decreto do prefeito Eduardo Paes que torna a Bienal oficialmente Patrimônio Cultural de Natureza Imaterial da cidade. “É sempre uma honra participar da Bienal do Livro. Que alegria testemunhar milhares de crianças e jovens apaixonados pela literatura vivendo a experiência de estar na maior feira do livro do Brasil”, comentou Paes em rede social.</p><p>Outras inovações incluem os quadros “Páginas no Palco” e “Em primeira pessoa”, que ocupam o Café Literário — espaço para debates com abordagem mais próxima do público sobre temas contemporâneos, como relação com a terra, e uso da inteligência artificial. O primeiro formato especial traz performances, leituras e monólogos de peças adaptadas dos livros por artistas do teatro. O segundo propõe conversas mais longas e aprofundadas sobre a obra de autores de renome, como Conceição Evaristo e Ailton Krenak.</p><p>“Páginas na Tela” é a nova atração da Estação Plural, e aborda trabalhos que têm relação tanto com o universo literário quanto com o audiovisual (com direito a spoilers das novas produções). A exemplo da adaptação para série de streaming do livro “Dias perfeitos”, de Raphael Montes. O autor anunciou em primeira mão durante o painel que serão oito episódios, e o final da narrativa será diferente do original. “O que muda, na verdade, não muda, expande. E acabei aceitando a mudança do final da história proposto pela roteirista Claudia Jouvin, que me deu vinho para essa conversa e eu respondi que sim”, comentou o escritor.</p><p>Além de revigorar espaços tradicionais, o maior festival de literatura e cultura do país também inaugura o Palavra-chave, palco voltado para todo tipo de discussão em torno da cultura pop. De romances de época a questões sociais e latentes, do “felizes para sempre” ao humor, do universo da fantasia à música. Este foi o local do desfile de fantasias das autoras americanas de fantasia Cassandra Clare e Holly Black — e do aguardado Baile da Realeza, baseado nos livros “Os Bridgertons”, de Julia Quinn.</p><p>Quem aproveitou o momento no Palavra-chave foi a estudante de biblioteconomia Laís Borelli, que assistiu um painel de entrevista com a escritora Julia Quinn. <strong>Ouça abaixo as impressões de Laís sobre essa parte da programação:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1609105908&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\" width=\"500\" height=\"400\" title=\"Laís Borelli comenta sobre a programação do evento by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Apenas nos primeiros três dias de evento, as editoras bateram recordes de venda. Tatiana Zaccaro, diretora da GL events Exhibitions, uma das organizadoras do evento ao lado do Sindicato Nacional dos Editores de Livros (SNEL), comentou: “Estamos muito satisfeitos com o público nesses três primeiros dias de Bienal, as editoras tiveram ótimas vendas e os autores também estão bastante empolgados em ver o público retomando em peso ao Riocentro, para acompanhar novos formatos e experiências que estamos trazendo para esta edição especial. O grande número de pessoas só comprova a potência desse encontro”.</p><p>Em relação aos 40 anos do festival, o Presidente do Sindicato Nacional dos Editores de Livros, Dante Cid, afirmou:</p><p>“O leitor é o motivo da nossa existência. Chegamos aos 40 anos acreditando nas pontes que criamos e nos sonhos que ainda podemos realizar. Queremos que as experiências sejam cada vez mais positivas e marcantes na vida das pessoas”</p><p><em>Pedro Lima — 5° Período</em></p></main>"
+  },
+  "date": "2023-09-05T14:48:59",
+  "date_gmt": "2023-09-05T17:48:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No primeiro fim de semana do evento dezenas de autores nacionais e internacionais passaram pelos diversos espaços de encontro e debate — que neste ano foram reformulados e expandidos. Maurício de Sousa, Thalita Rebouças, Ana Maria Machado, Ruy Castro, Clara Alves, Itamar Vieira Júnior, Lázaro Ramos, Julia Quinn, Holly Black e Cassandra Clare são apenas algumas das personalidades mais icônicas que fizeram lotar o Riocentro.</p>\n"
+  },
+  "featured_media": 15686,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15684"
+  },
+  "id": 15684,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/foto-de-capa.jpg?fit=4608%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-44Y",
+  "link": "https://agenciauvabarra.com/2023/09/05/bienal-do-livro-rio-comemora-40-anos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-05T14:48:59",
+  "modified_gmt": "2023-09-05T17:48:59",
+  "ping_status": "open",
+  "slug": "bienal-do-livro-rio-comemora-40-anos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1191769,
+    223003,
+    1002188,
+    101239,
+    2925214,
+    162577
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Bienal do Livro Rio comemora 40 anos"
+  },
+  "type": "post"
+}

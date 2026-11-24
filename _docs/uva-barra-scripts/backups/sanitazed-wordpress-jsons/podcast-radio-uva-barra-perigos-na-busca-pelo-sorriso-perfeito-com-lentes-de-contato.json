@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14836/revisions/14839",
+        "id": 14839
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14836"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14836",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14836/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14836"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14838"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14836",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14836",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    2367,
+    8086,
+    701438832,
+    72064
+  ],
+  "class_list": [
+    "post-14836",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-cultura",
+    "category-moda",
+    "category-radio-uva-barra",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-dentarias",
+    "tag-lentes",
+    "tag-odontologia",
+    "tag-saude",
+    "tag-sorriso"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Perigos na busca pelo sorriso perfeito com lentes de contato\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/3iuvhj19eMNL1kNrDChvnK?si=lnG7k116Rpu5-7igNp3w4g&#038;utm_source=oembed\"></iframe></div></figure><p>A busca pelo sorriso perfeito faz parte da cultura estética do Brasil, porém, processos irreversíveis não devem virar trend de moda.</p><p>No episódio de hoje da Rádio UVA Barra, o assunto é a lente de contato dental. Cada vez mais popular, principalmente entre celebridades da TV, esporte e internet, o procedimento está sendo muito buscado por brasileiros, mas as indicações não são para todos.</p><p>Para falar mais sobre o assunto, esse episódio conta com a presença da professora de odontologia da UVA Barra, Raquel Castello, e da dentista Clarissa Silveira, especializada em estética oral.</p><p><em>Lia van Boekel – 8° período</em></p></main>"
+  },
+  "date": "2023-05-31T18:20:09",
+  "date_gmt": "2023-05-31T21:20:09",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No episódio de hoje da Rádio UVA Barra, o assunto é a lente de contato dental. Cada vez mais popular, principalmente entre celebridades da TV, esporte e internet, o procedimento está sendo muito buscado por brasileiros, mas as indicações não são para todos.</p>\n"
+  },
+  "featured_media": 14838,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14836"
+  },
+  "id": 14836,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/image0.jpeg?fit=1280%2C853&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Ri",
+  "link": "https://agenciauvabarra.com/2023/05/31/podcast-radio-uva-barra-perigos-na-busca-pelo-sorriso-perfeito-com-lentes-de-contato/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-06-12T18:36:14",
+  "modified_gmt": "2023-06-12T21:36:14",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-perigos-na-busca-pelo-sorriso-perfeito-com-lentes-de-contato",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    23541985,
+    1034545,
+    369179,
+    767056622,
+    475263
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Perigos na busca pelo sorriso perfeito com lentes de contato"
+  },
+  "type": "post"
+}

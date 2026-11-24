@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18980/revisions/18987",
+        "id": 18987
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18980"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18980",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18980/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18980"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18983"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18980",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18980",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    14603,
+    713047979,
+    39479,
+    701438832
+  ],
+  "class_list": [
+    "post-18980",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-jornalismo",
+    "category-podseries",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-podserie",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>De acordo com o Comitê Olímpico Internacional (COI), as Olimpíadas de Tóquio 2020 contaram com a maior participação de atletas femininas de todas as edições do evento. Esse número significativo deixou a esperança na população de ver cada vez mais mulheres nas competições. Segundo o COI, a estimativa para a edição de 2024, em Paris, era de que a porcentagem chegasse a 50%. Por mais que esse espaço tenha sido difícil de ser conquistado, com todo o preconceito enraizado, a autonomia feminina na luta é de grande prestígio, principalmente, por ter conquistado mais visibilidade nas Olimpíadas.</p><p>No episódio do Lugar de Fala, Eloá e Anny mostram que ser mulher não é um impedimento para estar no ringue de luta; pelo contrário, é uma inspiração para outras mulheres que desejam aprender, se defender e lutar contra o preconceito. A conversa contou ainda com a participação da atleta de MMA Gabriela Fujimoto, em um bate-papo sobre o espaço que as mulheres vêm conquistando nas artes marciais e nos pontos principais sobre a importância de se defender na sociedade atual.</p><figure><iframe title=\"Spotify Embed: Lugar de Fala #04 - Lugar de fala também é lugar de luta\" width=\"624\" height=\"351\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/1LtL9D8S5Ji0fosKaF7R51/video?si=hHKpdgkFR8iuirEMr0FGmg&amp;utm_source=oembed\"></iframe></figure><p>Equipe Lugar de Fala:</p><p>Maria Eduarda Forte Kneip</p><p>Maria Eduarda Menino</p><p>Maria Eduarda de Mello</p><p>Maria Clara Coelho</p><p>Equipe Agência UVA Barra:</p><p>Duda Nicolich – 2º Período</p><p>Carolina Alves – 4º Período</p></main>"
+  },
+  "date": "2025-09-08T19:15:22",
+  "date_gmt": "2025-09-08T22:15:22",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A autonomia feminina na luta é de grande prestígio, principalmente, por ter combatido a estigmas estruturados </p>\n"
+  },
+  "featured_media": 18983,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18980"
+  },
+  "id": 18980,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/0606c9d9-c993-4bff-8bd4-2bee2939d539.jpeg?fit=1536%2C1024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4W8",
+  "link": "https://agenciauvabarra.com/2025/09/08/lugar-de-fala-tambem-e-lugar-de-luta/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-09T15:19:09",
+  "modified_gmt": "2025-09-09T18:19:09",
+  "ping_status": "open",
+  "slug": "lugar-de-fala-tambem-e-lugar-de-luta",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    712276378,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Lugar de Fala: Lugar de fala também é lugar de luta"
+  },
+  "type": "post"
+}

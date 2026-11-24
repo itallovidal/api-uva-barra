@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15478/revisions/15495",
+        "id": 15495
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15478"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15478",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15478/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15478"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15486"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15478",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15478",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15478",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Problema ambiental afeta ecossistema marinho e prejudica qualidade de vida de trabalhadores</em></p><p>Na Barra da Tijuca, um dos bairros mais privilegiados e conhecidos da cidade do Rio de Janeiro, a poluição das áreas aquáticas tem se tornado uma preocupação crescente. A falta de fiscalização adequada e uma estrutura de despejo de esgoto ineficiente têm resultado em uma séria degradação ambiental que afeta o ecossistema marinho e a qualidade de vida dos moradores locais.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/foto-1.jpg?resize=4080%2C3060&amp;ssl=1\" alt=\"\" width=\"4080\" height=\"3060\" /><figcaption>Água poluída da Lagoa Marapendi é uma ameaça para animais e humanos. (Foto: Mariana Moura e Vitor Barbosa) </figcaption></figure><p>A Barra com suas praias paradisíacas e lagoas encantadoras, costumava ser um refúgio natural e um local de lazer para turistas e cariocas. No entanto, nos últimos anos, as águas que antes eram cristalinas têm se transformado em um cenário de poluição e contaminação. De acordo com a professora de Biologia Dandara Sousa, um dos principais problemas está relacionado à falta de fiscalização dos pontos de despejo de esgoto. Muitas residências, condomínios e estabelecimentos comerciais ainda despejam seus resíduos diretamente nas águas sem qualquer tratamento prévio: “O derramamento indevido de esgoto causa o assoreamento das lagoas da região. Isso significa que as águas recebem um aporte muito maior de resíduos do que conseguem suportar, o que causa um desequilíbrio em toda a biodiversidade da região, podendo inclusive levar à extinção de espécies”, alerta. </p><p>Além dos impactos ambientais, a poluição nessas áreas também prejudica diretamente a qualidade de vida dos moradores. As águas poluídas se tornam impróprias para o banho, atividades náuticas e até mesmo para a pesca. Essa situação gera prejuízos econômicos para os negócios locais que dependem do turismo e do lazer na região. </p><p>“Vale citar também os malefícios que a poluição pode trazer a nós, desde o desconforto causado pelo mau cheiro das águas, até a impossibilidade de utilizar o meio como fonte de renda, por exemplo, pela pesca e turismo, e maior possibilidade de surgimento de doenças” ressalta a bióloga.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/foto-3.jpg?resize=4080%2C3060&amp;ssl=1\" alt=\"\" width=\"4080\" height=\"3060\" /><figcaption>Lagoa Marapendi leva biodiversidade à extinção devido descarte irregular nas águas. (Foto: Mariana Moura e Vitor Barbosa)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/foto-2.jpg?resize=4080%2C3060&amp;ssl=1\" alt=\"\" width=\"4080\" height=\"3060\" /></figure><p>A poluição também impacta negativamente o ecossistema marinho. Os resíduos lançados nas águas contaminam a fauna e flora marinhas, comprometendo a biodiversidade e gerando um desequilíbrio ecológico. Espécies de peixes, crustáceos e aves aquáticas têm sido afetadas, prejudicando a cadeia alimentar e a reprodução dos animais. Naiara Rust, professora de Ciências Biológicas do Instituto Benjamin Constant, explica que o esgoto doméstico é rico em matéria orgânica e, portanto, aumenta a proliferação de algas e interfere na entrada da luz na água. </p><p>‘’A camada de alga na superfície diminui o processo de fotossíntese dos organismos, já que não chega mais luz até eles. Portanto, diminui a fotossíntese e aumenta o consumo de oxigênio pelos microrganismos. Assim, os peixes e outros seres vivos aquáticos começam a morrer por falta de O2’’, esclarece. </p><h2>Insalubridade </h2><p><em>Trabalhadores que atuam nas lagoas reclamam das condições de preservação do local</em></p><p>A falta de fiscalização efetiva por parte das autoridades é uma lacuna preocupante. A atuação dos órgãos responsáveis pelo controle ambiental e pela qualidade da água é fundamental para identificar, punir os infratores que poluem as áreas aquáticas e, principalmente, tentar reverter a situação. No entanto, quem trabalha nesses espaços relata não ver o trabalho do poder público. O marinheiro João Victor diz que a poluição afeta seu emprego de diversas formas, mas que presenciou somente uma vez o Instituto Estadual do Ambiente (Inea) na Lagoa Marapendi, onde trabalha.</p><p>“O cheiro e o lixo que agarra no motor são fatores que prejudicam meu trabalho. Vi o Inea só quando teve uma mortalidade muito grande de peixe. Morreram 20 toneladas de peixes e o governo veio aqui ver e recolher água para ver qual era o motivo”, afirma. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/20230619_143214.jpg?resize=4080%2C3060&amp;ssl=1\" alt=\"\" width=\"4080\" height=\"3060\" /><figcaption>Água poluída tem forte odor e prejudica trabalhadores. (Foto: Mariana Moura e Vitor Barbosa) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/20230619_142933.jpg?resize=4080%2C3060&amp;ssl=1\" alt=\"\" width=\"4080\" height=\"3060\" /></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/20230619_142913.jpg?resize=4080%2C3060&amp;ssl=1\" alt=\"\" width=\"4080\" height=\"3060\" /></figure><p>O Instituto Estadual do Ambiente manifestou que “as lagoas que fazem parte do sistema lagunar de jacarepaguá (Camorim, Jacarepaguá, Tijuca e Marapendi) estão inseridas na rede de monitoramento sistemático do INEA, executado anualmente, e seu monitoramento é realizado bimestralmente.”</p><p>Para especialistas, além do dever das autoridades de fiscalizar, ações de conscientização e educação ambiental também são necessárias para que a população seja conscientizada e o poder público pressionado para tratamento e direcionamento adequado do esgoto, como reforça Dandara Sousa. </p><p><em>Lorhan Nascimento – 7° período </em><br><em>Marina Moura – 7° período </em><br><em>Vitor Barbosa – 5° período</em></p></main>"
+  },
+  "date": "2023-08-15T18:05:20",
+  "date_gmt": "2023-08-15T21:05:20",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Na Barra da Tijuca, um dos bairros mais privilegiados e conhecidos da cidade do Rio de Janeiro, a poluição das áreas aquáticas tem se tornado uma preocupação crescente. A falta de fiscalização adequada e uma estrutura de despejo de esgoto ineficiente têm resultado em uma séria degradação ambiental que afeta o ecossistema marinho e a qualidade de vida dos moradores locais.</p>\n"
+  },
+  "featured_media": 15486,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15478"
+  },
+  "id": 15478,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/foto-1.jpg?fit=4080%2C3060&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-41E",
+  "link": "https://agenciauvabarra.com/2023/08/15/falta-de-fiscalizacao-e-estrutura-de-despejo-de-esgoto-causa-poluicao-nas-areas-aquaticas-da-barra-da-tijuca/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-15T18:05:20",
+  "modified_gmt": "2023-08-15T21:05:20",
+  "ping_status": "open",
+  "slug": "falta-de-fiscalizacao-e-estrutura-de-despejo-de-esgoto-causa-poluicao-nas-areas-aquaticas-da-barra-da-tijuca",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Falta de fiscalização e estrutura de despejo de esgoto causa poluição nas áreas aquáticas da Barra da Tijuca"
+  },
+  "type": "post"
+}

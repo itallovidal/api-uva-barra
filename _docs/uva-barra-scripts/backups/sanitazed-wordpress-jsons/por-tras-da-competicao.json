@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1688/revisions/3238",
+        "id": 3238
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1688"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1688",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1688/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1688"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1688",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1688",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1688",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Alunos e professores da UVA se preparam para Batalha de Robôs</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/12/img_9652.jpg?ssl=1' alt='IMG_9652.jpg' /><figcaption>Foto: Sarah Izidim</figcaption></figure><p>Os últimos retoques nas engrenagens. É isso que os estudantes vêm preparando. Desde as competições entre robôs que aconteceram na Universidade Veiga de Almeida (UVA), do campus Barra, no dia 27 de setembro, e outra no dia 22 de novembro, alunos das disciplinas de Engenharia e Design Gráfico se preparam para o último passo. A Batalha Final, que aconteceu no dia 6 de dezembro, na Tijuca, e dia 7, no Campus Barra, reuniu as equipes com as melhores máquinas para uma série de provas.</p><p>Apesar dessa competição, a ideia principal não é fazer um projeto para terminar em destruição. De acordo com o professor de Design Gráfico e Administração, Antônio Carlindo, que também é coordenador do Projeto Robótica, o objetivo é que os estudantes se envolvam com as técnicas e o planejamento. “Eles constroem o robô e precisam pensar em cada detalhe. Desde a parte elétrica até o design e o nome”, comenta. No momento, o mundo passa pela quarta revolução industrial, por isso, ele destaca a importância de entender sobre robótica e inteligência artificial.</p><p>Além do conhecimento básico sobre eletrônicos e tecnologia, a disciplina de Laboratório de Criação estimula os jovens a utilizarem a criatividade na hora de criar um <em>storytelling </em>para compor o cenário. A responsável pelo desenvolvimento, Maiandra Carrijo Cianni, 20, que cursa Design Gráfico, explica que a narração da história dos personagens é fundamental para o público entender os elementos simbólicos. “Precisamos criar uma história que conte a jornada do herói. É um contexto que une o que está acontecendo no momento com o personagem”.</p><p>Isso é possível devido ao engajamento dos universitários, segundo a professora de Inovação e Criatividade para Engenharia, Carla da Costa. “Esse é o projeto em que os discentes mais ficam envolvidos, desde a primeira ideia no papel, até o momento da briga robótica”. Em classe, houve uma pequena competição com os grupos da sala, na qual cada um amarrava uma bola de gás no competidor e vencia o que estourasse mais. “Eles fizeram tudo de forma artesanal, até o controle remoto. Então, realmente torcem e ficam ansiosos para saber quem vai ser o vencedor”, enfatiza.</p><p>E a equipe campeã foi a do <em>Bob Esponja, </em>após ganharem do preferido do dia, <em>Darth Vader</em>. Matheus Costa, do 2º período de Engenharia, foi o escolhido para controlar o robô durante a competição. Ele assume que esse trabalho agregou muito na carreira. “Foi difícil conseguir acertar na fiação e tudo mais, porém, deu para ter uma noção do que vou fazer profissionalmente”, avalia. Por mais cansativo que tenha sido, eles admitem que foi uma experiência divertida e que esperam por mais projetos desse estilo. “Agora, é focar toda dedicação nas próximas batalhas para o ano que vem”, conclui.</p><p><strong>Alunas: Giovanna Faria, Isabelle Amancio e Ana Carolina Marinho</strong></p></main>"
+  },
+  "date": "2017-12-08T11:15:40",
+  "date_gmt": "2017-12-08T13:15:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alunos e professores da UVA se preparam para Batalha de Robôs</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1688"
+  },
+  "id": 1688,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-re",
+  "link": "https://agenciauvabarra.com/2017/12/08/por-tras-da-competicao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T18:05:19",
+  "modified_gmt": "2019-02-27T21:05:19",
+  "ping_status": "open",
+  "slug": "por-tras-da-competicao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Por trás da competição"
+  },
+  "type": "post"
+}

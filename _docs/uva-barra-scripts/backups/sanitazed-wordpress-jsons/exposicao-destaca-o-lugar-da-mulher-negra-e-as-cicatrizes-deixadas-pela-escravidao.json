@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3680/revisions/3702",
+        "id": 3702
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3680"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3680",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3680/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3680"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3685"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3680",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3680",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    407146
+  ],
+  "class_list": [
+    "post-3680",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-exposicao",
+    "tag-agencia-uva-barra",
+    "tag-rosana-paulino-a-costura-da-memoria",
+    "tag-museu-de-arte-do-rio-mar"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Mostra chega ao Rio após temporada na Pinacoteca, em São Paulo</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/foto-1-figuras-1.jpg?resize=2500%2C1667&amp;ssl=1\" alt=\"\" width=\"2500\" height=\"1667\" /><figcaption><br>Figuras se contorcem em busca da liberdade na instalação “Tecelãs”. – Foto: Kaliane Trindade</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/foto-2-rosana-2.jpg?resize=2500%2C1667&amp;ssl=1\" alt=\"\" width=\"2500\" height=\"1667\" /><figcaption><br>Rosana Paulino conversa com visitantes do museu que participaram da roda de conversa – Foto: Kaliane Trindade</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/foto-3-artista-1.jpg?resize=2500%2C1667&amp;ssl=1\" alt=\"\" width=\"2500\" height=\"1667\" /><figcaption><br>Artista devolve ao corpo da mulher negra alguma humanidade através do trabalho “Assentamento” – Foto: Kaliane Trindade</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/foto-4-instalacao-1.jpg?resize=1280%2C720&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"720\" /><figcaption><br>Instalação “Parede da Memória” composta por patuás em manta acrílica e fotocópias – Foto: Gabriel Torres</figcaption></figure><p>A exposição “Rosana Paulino: a costura da memória” foi inaugurada no último sábado, dia 13, no Museu de Arte do Rio. Em seus trabalhos, a artista busca destacar o lugar da mulher negra na sociedade, assim como retratar as cicatrizes deixadas pela época da escravidão A mostra chegou ao Museu com 140 peças que foram produzidas pela artista ao longo dos seus 25 anos de carreira.</p><p>Rosana Paulino surgiu no cenário artístico nos anos de 1990, propondo desde sempre debates sobre questões sociais, como a violência sobre os corpos afrodescendentes, o racismo, o silenciamento e a invisibilidade. Segundo Valéria Piccoli, curadora que assina a mostra, é importante destacar o pioneirismo de Rosana. “Ela começou o seu trabalho quando o assunto não estava na agenda, não estava em pauta. Então se levanta como uma voz única”.</p><p>Se Rosana gerou tendência, nos museus, suas obras geram desconforto. “A arte acontece quando eu consigo pegar minhas ideias, meu trabalho, e pôr para observação. Quando o público contempla com a própria história, a própria vida, e reflete”, diz a artista. Um dos destaques da mostra é a “Parede da Memória”, composta por onze fotografias da família Paulino que, distribuídas em patuás (pequenas peças usadas como amuletos de proteção por religiões de matriz africanas), formam um conjunto de mais de mil peças. Essa é a primeira obra da exposição, a mais próxima da entrada. “Então quando você entra, dá de cara com todas aquelas fotos, todas aquelas pessoas te encarando. A gente quer isso, que você se sinta observado”, diz Pedro Nery, também curador.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/foto-5-soldado.jpg?resize=1080%2C540&amp;ssl=1\" alt=\"\" width=\"1080\" height=\"540\" /><figcaption> “Soldado” e “Rainha” evidenciam o confinamento das mulheres negras no contexto brasileiro – Foto: Gabriel Torres</figcaption></figure><p>Em uma de suas obras, Rosana utiliza uma feita fotografia de 1865, durante uma expedição comandada pelo cientista Louis Agassiz, no Rio de Janeiro. Nela é retratada a imagem de uma escrava, negra, nua e em diferentes posições: de frente, de lado e de costas. “Eu quero entender como a fotografia negativa todo um grupo social. Eu estou interessada no drama de todas aquelas pessoas que vieram parar no Brasil. No drama humano. Interessada na vida, na família. Ela é uma pessoa que está ali”. A artista constrói uma inversão, chamada “Assentamento”, adicionando elementos que geram mais humanidade à mulher, como um coração no peito, e raízes nas pernas, tornando-a uma figura de fundação da cultura brasileira.</p><p>Confira o vídeo da obra:</p><figure><iframe src=\"https://www.youtube.com/embed/DlzCdiES8Kg?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p class=\"has-text-color has-white-color\">.</p><p>O que antes era silenciado, agora ganha voz. A abertura da exposição também contou com uma roda de conversa com a artista e os curadores responsáveis pela mostra. Para Leandro Pimentel, professor de Fotografia na UERJ, é importante ter o lugar de fala do artista negro, considerando dentro do universo produtor uma mudança de não mais um corpo falado, mas um corpo que fala. “Eu acho que o trabalho dela deixa isso bem claro. Ela faz essa resistência, essa reviravolta para denunciar esse tipo de violência que predomina ainda hoje”, diz.</p><p>Rosana Paulino conclui que a arte é uma ferramenta de educação muito importante, pois possibilita que você veja e se coloque no local do outro, aprendendo sobre outras histórias e diferentes pontos de vista. Os interessados em conhecer mais sobre o trabalho e a artista poderão visitar a exposição no Museu de Arte do Rio até o dia 25 de agosto.</p><p>Veja mais sobre a abertura da exposição no vídeo abaixo:</p><figure><iframe src=\"https://www.youtube.com/embed/chYEt4OyHXM?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p class=\"has-text-color has-white-color\">..</p><p class=\"has-text-color has-black-color\"><strong>Gabriel Torres – 5º Período | Jornalismo . Colaboradora: Kaliane Trindade – 5 º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-16T14:27:52",
+  "date_gmt": "2019-04-16T17:27:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mostra chega ao Rio após temporada na Pinacoteca, em São Paulo A exposição “Rosana Paulino: a costura da memória” foi inaugurada no último sábado, dia 13, no Museu de Arte do Rio. Em seus trabalhos, a artista busca destacar o lugar da mulher negra na sociedade, assim como retratar as cicatrizes deixadas pela época da [&hellip;]</p>\n"
+  },
+  "featured_media": 3685,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3680"
+  },
+  "id": 3680,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/foto-3-artista.jpg?fit=2500%2C1667&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Xm",
+  "link": "https://agenciauvabarra.com/2019/04/16/exposicao-destaca-o-lugar-da-mulher-negra-e-as-cicatrizes-deixadas-pela-escravidao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-16T14:41:20",
+  "modified_gmt": "2019-04-16T17:41:20",
+  "ping_status": "open",
+  "slug": "exposicao-destaca-o-lugar-da-mulher-negra-e-as-cicatrizes-deixadas-pela-escravidao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    677094952,
+    150794066
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Exposição destaca o lugar da mulher negra e as cicatrizes deixadas pela escravidão"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21695/revisions/21698",
+        "id": 21698
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21695"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21695",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21695/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21695"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21697"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21695",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21695",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-21695",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Nos dias 23 e 24 de março, o Rio FutSummit 2026 reuniu profissionais do esporte, jornalistas, empresários, estudantes e torcedores na Cidade das Artes, consolidando-se como um dos principais encontros sobre futebol da América Latina. Com palestras, painéis temáticos e experiências interativas, o evento propôs debates sobre o futebol para além das quatro linhas do campo, abordando temas como inovação, comunicação, gestão esportiva e inclusão social.</p><p>A programação reuniu especialistas do mercado esportivo em diferentes palcos, promovendo discussões sobre os desafios e transformações do futebol contemporâneo. O evento também abriu espaço para networking e troca de experiências entre profissionais do setor e o público presente.</p><p>A idealizadora do evento, Isabel Barbosa, destacou a importância do Rio FutSummit para aproximar o futebol dos torcedores e fortalecer o calendário esportivo da cidade. “Eu me sinto lisonjeada por termos tido essa ideia de criar um festival de futebol para quem mais importa na indústria do futebol, que são os torcedores. Agora fazemos parte do calendário oficial da cidade e teremos várias pautas voltadas ao futebol feminino”, afirmou.</p><p>Além dos debates sobre inovação e mercado esportivo, o evento também discutiu o impacto social do futebol. Painéis abordaram projetos de inclusão, desenvolvimento de atletas e iniciativas voltadas ao fortalecimento do esporte feminino no Brasil.</p><p>O jornalista Atos Moura ressaltou a diversidade de públicos presentes no evento e destacou a importância de projetos sociais ligados ao futebol. “Está sendo muito interessante ver pessoas de diferentes idades e áreas do esporte reunidas aqui. Temos crianças fãs de futebol, atletas, treinadores, dirigentes e pessoas que querem entrar no mercado esportivo”, comentou.</p><p>Atos também falou sobre a importância da Copa Zico Feminina, projeto voltado ao incentivo do futebol feminino. “Quando oferecemos oportunidades específicas para meninas no esporte, ajudamos a quebrar preconceitos históricos. Precisamos criar políticas públicas para que o futebol feminino continue crescendo mesmo depois da Copa do Mundo de 2027”, explicou.</p><p>A jornalista Glenda Kozlowski participou de painéis ao longo da programação e destacou a relevância do encontro para o futuro do futebol brasileiro. “Em um evento como esse, você reúne jogadores, jornalistas, empresários, executivos e especialistas para pensar o futebol sob diferentes perspectivas. Aqui é discutido o presente e o futuro do futebol brasileiro”, afirmou.</p><p>Para os visitantes, o Rio FutSummit também representou uma oportunidade de aprendizado e inspiração. A estudante de Administração Pública Malu, de 22 anos, destacou a experiência de acompanhar os debates. “O evento está melhor do que eu imaginava. As palestras trazem aprendizados não só para o mercado esportivo, mas para a vida. Além disso, toda a experiência do evento é muito divertida e dinâmica”, contou.</p><p>Durante os dois dias de programação, os participantes acompanharam discussões sobre comunicação esportiva, empreendedorismo, inovação tecnológica, projetos sociais e experiências de mercado. O encontro mostrou como o futebol se conecta com diferentes áreas da sociedade e reforçou o papel do esporte como ferramenta cultural, econômica e social.</p><p>Ao final da edição de 2026, o Rio FutSummit reafirmou sua importância no calendário esportivo da cidade ao promover debates sobre o futuro do futebol brasileiro e aproximar profissionais, torcedores e estudantes em um mesmo espaço de troca e construção de conhecimento.</p><p>Duda Nicolich – 3º Período de Jornalismo</p></main>"
+  },
+  "date": "2026-03-26T12:12:47",
+  "date_gmt": "2026-03-26T15:12:47",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Nos dias 23 e 24 de março, o Rio FutSummit 2026 reuniu profissionais do esporte, jornalistas, empresários, estudantes e torcedores na Cidade das Artes, consolidando-se como um dos principais encontros sobre futebol da América Latina. Com palestras, painéis temáticos e experiências interativas, o evento propôs debates sobre o futebol para além das quatro linhas do [&hellip;]</p>\n"
+  },
+  "featured_media": 21697,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21695"
+  },
+  "id": 21695,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/6943f1cf21f0d-lg.png?fit=1400%2C733&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5DV",
+  "link": "https://agenciauvabarra.com/2026/03/26/rio-futsummit-2026-debate-inovacao-inclusao-e-o-futuro-do-futebol-brasileiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAH1Lj27wjSAaUBBgMDBQACBAIEAwEWARF4AgQCCAYCBgKGAYQCAQEIAkIBAkgAoA4BAQgCQgECSACICQEBCAJCAQJIAIQOAQEIAkIBAkgAgggBAQgCQgECSAC2CwEBCAJCAQJIAKILAQEIAkIBAkgAvgsBAQgCQgECSACMDQEBCAJCAQJIAIoLAQEIAkIBAkgAsggBAQgCJGYBAkguJjAEJgTCeAZyqAEChPoB7PsBCwoCBAIIBgIGAoR2owEoASEAJwAEAIQNJwEoBicAKBUnAMQIBwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBACEACgEJwDEAIQEBAComlC5TnN0YXRldmVyc2lvbmRvY3VtZW50ZGF0ZWRvY3VtZW50c3RhdHVzZG9jdW1lbnR0aXRsZVJhc2N1bmhvIGF1dG9tw6F0aWNvZG9jdW1lbnRjb250ZW50ZG9jdW1lbnRleGNlcnB0ZG9jdW1lbnRhdXRob3Jkb2N1bWVudGZlYXR1cmVkX21lZGlhZG9jdW1lbnRjb21tZW50X3N0YXR1c2RvY3VtZW50cGluZ19zdGF0dXNkb2N1bWVudHN0aWNreWRvY3VtZW50dGVtcGxhdGVkb2N1bWVudGZvcm1hdGRvY3VtZW50bWV0YWFkdmFuY2VkX3Nlb19kZXNjcmlwdGlvbmpldHBhY2tfc2VvX2h0bWxfdGl0bGVqZXRwYWNrX3Nlb19ub2luZGV4X2NvYmxvY2tzX2F0dHJfY29ibG9ja3NfZGltZW5zaW9uc19jb2Jsb2Nrc19yZXNwb25zaXZlX2hlaWdodF9jb2Jsb2Nrc19hY2NvcmRpb25faWVfc3VwcG9ydGpldHBhY2tfcG9zdF93YXNfZXZlcl9wdWJsaXNoZWRyZWFkZXJfc3VnZ2VzdGVkX3RhZ3NfamV0cGFja19uZXdzbGV0dGVyX2FjY2Vzc19qZXRwYWNrX2RvbnRfZW1haWxfcG9zdF90b19zdWJzX2pldHBhY2tfbmV3c2xldHRlcl90aWVyX2lkX2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGF5d2FsbGVkX2NvbnRlbnRfamV0cGFja19mZWF0dXJlX2NsaXBfaWRfamV0cGFja19tZW1iZXJzaGlwc19jb250YWluc19wYWlkX2NvbnRlbnRmb290bm90ZXNqZXRwYWNrX3B1YmxpY2l6ZV9tZXNzYWdlamV0cGFja19wdWJsaWNpemVfZmVhdHVyZV9lbmFibGVkamV0cGFja19zb2NpYWxfcG9zdF9hbHJlYWR5X3NoYXJlZGpldHBhY2tfc29jaWFsX29wdGlvbnNkb2N1bWVudGNhdGVnb3JpZXNkb2N1bWVudHRhZ3Nkb2N1bWVudGJsb2Nrc2lvIEZ1dFN1bW1pdCAyMDI2IGRlYnRlIGlub3Zhw6fDo28sIGlubHPDo2UgbyBmdXIgZG8gZnVlYm9sIGJyYXNsZWlyY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50Tm9zIGRpYXMgMjMgZSAyNCBkZSBtYXLDp28sIG8gUmlvIEZ1dFN1bW1pdCAyMDI2IHJldW5pdSBwcm9maXNzaW9uYWlzIGRvIGVzcG9ydGUsIGpvcm5hbGlzdGFzLCBlbXByZXPDoXJpb3MsIGVzdHVkYW50ZXMgZSB0b3JjZWRvcmVzIG5hIENpZGFkZSBkYXMgQXJ0ZXMsIGNvbnNvbGlkYW5kby1zZSBjb21vIHVtIGRvcyBwcmluY2lwYWlzIGVuY29udHJvcyBzb2JyZSBmdXRlYm9sIGRhIEFtw6lyaWNhIExhdGluYS4gQ29tIHBhbGVzdHJhcywgcGFpbsOpaXMgdGVtw6F0aWNvcyBlIGV4cGVyacOqbmNpYXMgaW50ZXJhdGl2YXMsIG8gZXZlbnRvIHByb3DDtHMgZGViYXRlcyBzb2JyZSBvIGZ1dGVib2wgcGFyYSBhbMOpbSBkYXMgcXVhdHJvIGxpbmhhcyBkbyBjYW1wbywgYWJvcmRhbmRvIHRlbWFzIGNvbW8gaW5vdmHDp8OjbywgY29tdW5pY2HDp8OjbywgZ2VzdMOjbyBlc3BvcnRpdmEgZSBpbmNsdXPDo28gc29jaWFsLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50QSBwcm9ncmFtYcOnw6NvIHJldW5pdSBlc3BlY2lhbGlzdGFzIGRvIG1lcmNhZG8gZXNwb3J0aXZvIGVtIGRpZmVyZW50ZXMgcGFsY29zLCBwcm9tb3ZlbmRvIGRpc2N1c3PDtWVzIHNvYnJlIG9zIGRlc2FmaW9zIGUgdHJhbnNmb3JtYcOnw7VlcyBkbyBmdXRlYm9sIGNvbnRlbXBvcsOibmVvLiBPIGV2ZW50byB0YW1iw6ltIGFicml1IGVzcGHDp28gcGFyYSBuZXR3b3JraW5nIGUgdHJvY2EgZGUgZXhwZXJpw6puY2lhcyBlbnRyZSBwcm9maXNzaW9uYWlzIGRvIHNldG9yIGUgbyBww7pibGljbyBwcmVzZW50ZS5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEEgaWRlYWxpemFkb3JhIGRvIGV2ZW50bywgSXNhYmVsIEJhcmJvc2EsIGRlc3RhY291IGEgaW1wb3J0w6JuY2lhIGRvIFJpbyBGdXRTdW1taXQgcGFyYSBhcHJveGltYXIgbyBmdXRlYm9sIGRvcyB0b3JjZWRvcmVzIGUgZm9ydGFsZWNlciBvIGNhbGVuZMOhcmlvIGVzcG9ydGl2byBkYSBjaWRhZGUuIOKAnEV1IG1lIHNpbnRvIGxpc29uamVhZGEgcG9yIHRlcm1vcyB0aWRvIGVzc2EgaWRlaWEgZGUgY3JpYXIgdW0gZmVzdGl2YWwgZGUgZnV0ZWJvbCBwYXJhIHF1ZW0gbWFpcyBpbXBvcnRhIG5hIGluZMO6c3RyaWEgZG8gZnV0ZWJvbCwgcXVlIHPDo28gb3MgdG9yY2Vkb3Jlcy4gQWdvcmEgZmF6ZW1vcyBwYXJ0ZSBkbyBjYWxlbmTDoXJpbyBvZmljaWFsIGRhIGNpZGFkZSBlIHRlcmVtb3MgdsOhcmlhcyBwYXV0YXMgdm9sdGFkYXMgYW8gZnV0ZWJvbCBmZW1pbmlub+KAnSwgYWZpcm1vdS5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEFsw6ltIGRvcyBkZWJhdGVzIHNvYnJlIGlub3Zhw6fDo28gZSBtZXJjYWRvIGVzcG9ydGl2bywgbyBldmVudG8gdGFtYsOpbSBkaXNjdXRpdSBvIGltcGFjdG8gc29jaWFsIGRvIGZ1dGVib2wuIFBhaW7DqWlzIGFib3JkYXJhbSBwcm9qZXRvcyBkZSBpbmNsdXPDo28sIGRlc2Vudm9sdmltZW50byBkZSBhdGxldGFzIGUgaW5pY2lhdGl2YXMgdm9sdGFkYXMgYW8gZm9ydGFsZWNpbWVudG8gZG8gZXNwb3J0ZSBmZW1pbmlubyBubyBCcmFzaWwuZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRPIGpvcm5hbGlzdGEgQXRvcyBNb3VyYSByZXNzYWx0b3UgYSBkaXZlcnNpZGFkZSBkZSBww7pibGljb3MgcHJlc2VudGVzIG5vIGV2ZW50byBlIGRlc3RhY291IGEgaW1wb3J0w6JuY2lhIGRlIHByb2pldG9zIHNvY2lhaXMgbGlnYWRvcyBhbyBmdXRlYm9sLiDigJxFc3TDoSBzZW5kbyBtdWl0byBpbnRlcmVzc2FudGUgdmVyIHBlc3NvYXMgZGUgZGlmZXJlbnRlcyBpZGFkZXMgZSDDoXJlYXMgZG8gZXNwb3J0ZSByZXVuaWRhcyBhcXVpLiBUZW1vcyBjcmlhbsOnYXMgZsOjcyBkZSBmdXRlYm9sLCBhdGxldGFzLCB0cmVpbmFkb3JlcywgZGlyaWdlbnRlcyBlIHBlc3NvYXMgcXVlIHF1ZXJlbSBlbnRyYXIgbm8gbWVyY2FkbyBlc3BvcnRpdm/igJ0sIGNvbWVudG91LmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50QXRvcyB0YW1iw6ltIGZhbG91IHNvYnJlIGEgaW1wb3J0w6JuY2lhIGRhIENvcGEgWmljbyBGZW1pbmluYSwgcHJvamV0byB2b2x0YWRvIGFvIGluY2VudGl2byBkbyBmdXRlYm9sIGZlbWluaW5vLiDigJxRdWFuZG8gb2ZlcmVjZW1vcyBvcG9ydHVuaWRhZGVzIGVzcGVjw61maWNhcyBwYXJhIG1lbmluYXMgbm8gZXNwb3J0ZSwgYWp1ZGFtb3MgYSBxdWVicmFyIHByZWNvbmNlaXRvcyBoaXN0w7NyaWNvcy4gUHJlY2lzYW1vcyBjcmlhciBwb2zDrXRpY2FzIHDDumJsaWNhcyBwYXJhIHF1ZSBvIGZ1dGVib2wgZmVtaW5pbm8gY29udGludWUgY3Jlc2NlbmRvIG1lc21vIGRlcG9pcyBkYSBDb3BhIGRvIE11bmRvIGRlIDIwMjfigJ0sIGV4cGxpY291LmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50QSBqb3JuYWxpc3RhIEdsZW5kYSBLb3psb3dza2kgcGFydGljaXBvdSBkZSBwYWluw6lpcyBhbyBsb25nbyBkYSBwcm9ncmFtYcOnw6NvIGUgZGVzdGFjb3UgYSByZWxldsOibmNpYSBkbyBlbmNvbnRybyBwYXJhIG8gZnV0dXJvIGRvIGZ1dGVib2wgYnJhc2lsZWlyby4g4oCcRW0gdW0gZXZlbnRvIGNvbW8gZXNzZSwgdm9jw6ogcmXDum5lIGpvZ2Fkb3Jlcywgam9ybmFsaXN0YXMsIGVtcHJlc8OhcmlvcywgZXhlY3V0aXZvcyBlIGVzcGVjaWFsaXN0YXMgcGFyYSBwZW5zYXIgbyBmdXRlYm9sIHNvYiBkaWZlcmVudGVzIHBlcnNwZWN0aXZhcy4gQXF1aSDDqSBkaXNjdXRpZG8gbyBwcmVzZW50ZSBlIG8gZnV0dXJvIGRvIGZ1dGVib2wgYnJhc2lsZWlyb+KAnSwgYWZpcm1vdS5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudFBhcmEgb3MgdmlzaXRhbnRlcywgbyBSaW8gRnV0U3VtbWl0IHRhbWLDqW0gcmVwcmVzZW50b3UgdW1hIG9wb3J0dW5pZGFkZSBkZSBhcHJlbmRpemFkbyBlIGluc3BpcmHDp8Ojby4gQSBlc3R1ZGFudGUgZGUgQWRtaW5pc3RyYcOnw6NvIFDDumJsaWNhIE1hbHUsIGRlIDIyIGFub3MsIGRlc3RhY291IGEgZXhwZXJpw6puY2lhIGRlIGFjb21wYW5oYXIgb3MgZGViYXRlcy4g4oCcTyBldmVudG8gZXN0w6EgbWVsaG9yIGRvIHF1ZSBldSBpbWFnaW5hdmEuIEFzIHBhbGVzdHJhcyB0cmF6ZW0gYXByZW5kaXphZG9zIG7Do28gc8OzIHBhcmEgbyBtZXJjYWRvIGVzcG9ydGl2bywgbWFzIHBhcmEgYSB2aWRhLiBBbMOpbSBkaXNzbywgdG9kYSBhIGV4cGVyacOqbmNpYSBkbyBldmVudG8gw6kgbXVpdG8gZGl2ZXJ0aWRhIGUgZGluw6JtaWNh4oCdLCBjb250b3UuZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnREdXJhbnRlIG9zIGRvaXMgZGlhcyBkZSBwcm9ncmFtYcOnw6NvLCBvcyBwYXJ0aWNpcGFudGVzIGFjb21wYW5oYXJhbSBkaXNjdXNzw7VlcyBzb2JyZSBjb211bmljYcOnw6NvIGVzcG9ydGl2YSwgZW1wcmVlbmRlZG9yaXNtbywgaW5vdmHDp8OjbyB0ZWNub2zDs2dpY2EsIHByb2pldG9zIHNvY2lhaXMgZSBleHBlcmnDqm5jaWFzIGRlIG1lcmNhZG8uIE8gZW5jb250cm8gbW9zdHJvdSBjb21vIG8gZnV0ZWJvbCBzZSBjb25lY3RhIGNvbSBkaWZlcmVudGVzIMOhcmVhcyBkYSBzb2NpZWRhZGUgZSByZWZvcsOnb3UgbyBwYXBlbCBkbyBlc3BvcnRlIGNvbW8gZmVycmFtZW50YSBjdWx0dXJhbCwgZWNvbsO0bWljYSBlIHNvY2lhbC5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEFvIGZpbmFsIGRhIGVkacOnw6NvIGRlIDIwMjYsIG8gUmlvIEZ1dFN1bW1pdCByZWFmaXJtb3Ugc3VhIGltcG9ydMOibmNpYSBubyBjYWxlbmTDoXJpbyBlc3BvcnRpdm8gZGEgY2lkYWRlIGFvIHByb21vdmVyIGRlYmF0ZXMgc29icmUgbyBmdXR1cm8gZG8gZnV0ZWJvbCBicmFzaWxlaXJvIGUgYXByb3hpbWFyIHByb2Zpc3Npb25haXMsIHRvcmNlZG9yZXMgZSBlc3R1ZGFudGVzIGVtIHVtIG1lc21vIGVzcGHDp28gZGUgdHJvY2EgZSBjb25zdHJ1w6fDo28gZGUgY29uaGVjaW1lbnRvLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50PHN0cm9uZz5Qb3IgQ2Fyb2xpbmEgU2FudG9uaTwvc3Ryb25nPmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzbmEgU2FudG88L3N0cm9uZ0R1YWRkYSBOaWNvbGljaCAtIDPCuiBQZcK0cnLDrW9kbyBkZSBKb3JuYWxpc21vIDwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5Ob3MgZGlhcyAyMyBlIDI0IGRlIG1hcsOnbywgbyBSaW8gRnV0U3VtbWl0IDIwMjYgcmV1bml1IHByb2Zpc3Npb25haXMgZG8gZXNwb3J0ZSwgam9ybmFsaXN0YXMsIGVtcHJlc8OhcmlvcywgZXN0dWRhbnRlcyBlIHRvcmNlZG9yZXMgbmEgQ2lkYWRlIGRhcyBBcnRlcywgY29uc29saWRhbmRvLXNlIGNvbW8gdW0gZG9zIHByaW5jaXBhaXMgZW5jb250cm9zIHNvYnJlIGZ1dGVib2wgZGEgQW3DqXJpY2EgTGF0aW5hLiBDb20gcGFsZXN0cmFzLCBwYWluw6lpcyB0ZW3DoXRpY29zIGUgZXhwZXJpw6puY2lhcyBpbnRlcmF0aXZhcywgbyBldmVudG8gcHJvcMO0cyBkZWJhdGVzIHNvYnJlIG8gZnV0ZWJvbCBwYXJhIGFsw6ltIGRhcyBxdWF0cm8gbGluaGFzIGRvIGNhbXBvLCBhYm9yZGFuZG8gdGVtYXMgY29tbyBpbm92YcOnw6NvLCBjb211bmljYcOnw6NvLCBnZXN0w6NvIGVzcG9ydGl2YSBlIGluY2x1c8OjbyBzb2NpYWwuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+QSBwcm9ncmFtYcOnw6NvIHJldW5pdSBlc3BlY2lhbGlzdGFzIGRvIG1lcmNhZG8gZXNwb3J0aXZvIGVtIGRpZmVyZW50ZXMgcGFsY29zLCBwcm9tb3ZlbmRvIGRpc2N1c3PDtWVzIHNvYnJlIG9zIGRlc2FmaW9zIGUgdHJhbnNmb3JtYcOnw7VlcyBkbyBmdXRlYm9sIGNvbnRlbXBvcsOibmVvLiBPIGV2ZW50byB0YW1iw6ltIGFicml1IGVzcGHDp28gcGFyYSBuZXR3b3JraW5nIGUgdHJvY2EgZGUgZXhwZXJpw6puY2lhcyBlbnRyZSBwcm9maXNzaW9uYWlzIGRvIHNldG9yIGUgbyBww7pibGljbyBwcmVzZW50ZS48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5BIGlkZWFsaXphZG9yYSBkbyBldmVudG8sIElzYWJlbCBCYXJib3NhLCBkZXN0YWNvdSBhIGltcG9ydMOibmNpYSBkbyBSaW8gRnV0U3VtbWl0IHBhcmEgYXByb3hpbWFyIG8gZnV0ZWJvbCBkb3MgdG9yY2Vkb3JlcyBlIGZvcnRhbGVjZXIgbyBjYWxlbmTDoXJpbyBlc3BvcnRpdm8gZGEgY2lkYWRlLiDigJxFdSBtZSBzaW50byBsaXNvbmplYWRhIHBvciB0ZXJtb3MgdGlkbyBlc3NhIGlkZWlhIGRlIGNyaWFyIHVtIGZlc3RpdmFsIGRlIGZ1dGVib2wgcGFyYSBxdWVtIG1haXMgaW1wb3J0YSBuYSBpbmTDunN0cmlhIGRvIGZ1dGVib2wsIHF1ZSBzw6NvIG9zIHRvcmNlZG9yZXMuIEFnb3JhIGZhemVtb3MgcGFydGUgZG8gY2FsZW5kw6FyaW8gb2ZpY2lhbCBkYSBjaWRhZGUgZSB0ZXJlbW9zIHbDoXJpYXMgcGF1dGFzIHZvbHRhZGFzIGFvIGZ1dGVib2wgZmVtaW5pbm/igJ0sIGFmaXJtb3UuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+QWzDqW0gZG9zIGRlYmF0ZXMgc29icmUgaW5vdmHDp8OjbyBlIG1lcmNhZG8gZXNwb3J0aXZvLCBvIGV2ZW50byB0YW1iw6ltIGRpc2N1dGl1IG8gaW1wYWN0byBzb2NpYWwgZG8gZnV0ZWJvbC4gUGFpbsOpaXMgYWJvcmRhcmFtIHByb2pldG9zIGRlIGluY2x1c8OjbywgZGVzZW52b2x2aW1lbnRvIGRlIGF0bGV0YXMgZSBpbmljaWF0aXZhcyB2b2x0YWRhcyBhbyBmb3J0YWxlY2ltZW50byBkbyBlc3BvcnRlIGZlbWluaW5vIG5vIEJyYXNpbC48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5PIGpvcm5hbGlzdGEgQXRvcyBNb3VyYSByZXNzYWx0b3UgYSBkaXZlcnNpZGFkZSBkZSBww7pibGljb3MgcHJlc2VudGVzIG5vIGV2ZW50byBlIGRlc3RhY291IGEgaW1wb3J0w6JuY2lhIGRlIHByb2pldG9zIHNvY2lhaXMgbGlnYWRvcyBhbyBmdXRlYm9sLiDigJxFc3TDoSBzZW5kbyBtdWl0byBpbnRlcmVzc2FudGUgdmVyIHBlc3NvYXMgZGUgZGlmZXJlbnRlcyBpZGFkZXMgZSDDoXJlYXMgZG8gZXNwb3J0ZSByZXVuaWRhcyBhcXVpLiBUZW1vcyBjcmlhbsOnYXMgZsOjcyBkZSBmdXRlYm9sLCBhdGxldGFzLCB0cmVpbmFkb3JlcywgZGlyaWdlbnRlcyBlIHBlc3NvYXMgcXVlIHF1ZXJlbSBlbnRyYXIgbm8gbWVyY2FkbyBlc3BvcnRpdm/igJ0sIGNvbWVudG91LjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkF0b3MgdGFtYsOpbSBmYWxvdSBzb2JyZSBhIGltcG9ydMOibmNpYSBkYSBDb3BhIFppY28gRmVtaW5pbmEsIHByb2pldG8gdm9sdGFkbyBhbyBpbmNlbnRpdm8gZG8gZnV0ZWJvbCBmZW1pbmluby4g4oCcUXVhbmRvIG9mZXJlY2Vtb3Mgb3BvcnR1bmlkYWRlcyBlc3BlY8OtZmljYXMgcGFyYSBtZW5pbmFzIG5vIGVzcG9ydGUsIGFqdWRhbW9zIGEgcXVlYnJhciBwcmVjb25jZWl0b3MgaGlzdMOzcmljb3MuIFByZWNpc2Ftb3MgY3JpYXIgcG9sw610aWNhcyBww7pibGljYXMgcGFyYSBxdWUgbyBmdXRlYm9sIGZlbWluaW5vIGNvbnRpbnVlIGNyZXNjZW5kbyBtZXNtbyBkZXBvaXMgZGEgQ29wYSBkbyBNdW5kbyBkZSAyMDI34oCdLCBleHBsaWNvdS48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5BIGpvcm5hbGlzdGEgR2xlbmRhIEtvemxvd3NraSBwYXJ0aWNpcG91IGRlIHBhaW7DqWlzIGFvIGxvbmdvIGRhIHByb2dyYW1hw6fDo28gZSBkZXN0YWNvdSBhIHJlbGV2w6JuY2lhIGRvIGVuY29udHJvIHBhcmEgbyBmdXR1cm8gZG8gZnV0ZWJvbCBicmFzaWxlaXJvLiDigJxFbSB1bSBldmVudG8gY29tbyBlc3NlLCB2b2PDqiByZcO6bmUgam9nYWRvcmVzLCBqb3JuYWxpc3RhcywgZW1wcmVzw6FyaW9zLCBleGVjdXRpdm9zIGUgZXNwZWNpYWxpc3RhcyBwYXJhIHBlbnNhciBvIGZ1dGVib2wgc29iIGRpZmVyZW50ZXMgcGVyc3BlY3RpdmFzLiBBcXVpIMOpIGRpc2N1dGlkbyBvIHByZXNlbnRlIGUgbyBmdXR1cm8gZG8gZnV0ZWJvbCBicmFzaWxlaXJv4oCdLCBhZmlybW91LjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPlBhcmEgb3MgdmlzaXRhbnRlcywgbyBSaW8gRnV0U3VtbWl0IHRhbWLDqW0gcmVwcmVzZW50b3UgdW1hIG9wb3J0dW5pZGFkZSBkZSBhcHJlbmRpemFkbyBlIGluc3BpcmHDp8Ojby4gQSBlc3R1ZGFudGUgZGUgQWRtaW5pc3RyYcOnw6NvIFDDumJsaWNhIE1hbHUsIGRlIDIyIGFub3MsIGRlc3RhY291IGEgZXhwZXJpw6puY2lhIGRlIGFjb21wYW5oYXIgb3MgZGViYXRlcy4g4oCcTyBldmVudG8gZXN0w6EgbWVsaG9yIGRvIHF1ZSBldSBpbWFnaW5hdmEuIEFzIHBhbGVzdHJhcyB0cmF6ZW0gYXByZW5kaXphZG9zIG7Do28gc8OzIHBhcmEgbyBtZXJjYWRvIGVzcG9ydGl2bywgbWFzIHBhcmEgYSB2aWRhLiBBbMOpbSBkaXNzbywgdG9kYSBhIGV4cGVyacOqbmNpYSBkbyBldmVudG8gw6kgbXVpdG8gZGl2ZXJ0aWRhIGUgZGluw6JtaWNh4oCdLCBjb250b3UuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+RHVyYW50ZSBvcyBkb2lzIGRpYXMgZGUgcHJvZ3JhbWHDp8Ojbywgb3MgcGFydGljaXBhbnRlcyBhY29tcGFuaGFyYW0gZGlzY3Vzc8O1ZXMgc29icmUgY29tdW5pY2HDp8OjbyBlc3BvcnRpdmEsIGVtcHJlZW5kZWRvcmlzbW8sIGlub3Zhw6fDo28gdGVjbm9sw7NnaWNhLCBwcm9qZXRvcyBzb2NpYWlzIGUgZXhwZXJpw6puY2lhcyBkZSBtZXJjYWRvLiBPIGVuY29udHJvIG1vc3Ryb3UgY29tbyBvIGZ1dGVib2wgc2UgY29uZWN0YSBjb20gZGlmZXJlbnRlcyDDoXJlYXMgZGEgc29jaWVkYWRlIGUgcmVmb3LDp291IG8gcGFwZWwgZG8gZXNwb3J0ZSBjb21vIGZlcnJhbWVudGEgY3VsdHVyYWwsIGVjb27DtG1pY2EgZSBzb2NpYWwuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+QW8gZmluYWwgZGEgZWRpw6fDo28gZGUgMjAyNiwgbyBSaW8gRnV0U3VtbWl0IHJlYWZpcm1vdSBzdWEgaW1wb3J0w6JuY2lhIG5vIGNhbGVuZMOhcmlvIGVzcG9ydGl2byBkYSBjaWRhZGUgYW8gcHJvbW92ZXIgZGViYXRlcyBzb2JyZSBvIGZ1dHVybyBkbyBmdXRlYm9sIGJyYXNpbGVpcm8gZSBhcHJveGltYXIgcHJvZmlzc2lvbmFpcywgdG9yY2Vkb3JlcyBlIGVzdHVkYW50ZXMgZW0gdW0gbWVzbW8gZXNwYcOnbyBkZSB0cm9jYSBlIGNvbnN0cnXDp8OjbyBkZSBjb25oZWNpbWVudG8uPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+RHVkYSBOaWNvbGljaCAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vIDwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgUHCAQIBggFQQNCAAECAQJBAggHCAcIBggOCA4ICwgGSAEGCAQYFhMOFBseHxUaIBsvGCoJGSEiFggKCAQIBhUPAQIFAgYJBAgHBAoHhAcHCg0PDAsIBwQKB5gEBwoNDwwLCAcECge2BgcKDQ8MCwgHBAoHtQMHCg0PDAsIBwQKB68FBwoNDwwLCAcECgelBQcKDQ8MCwgHBAoHswUHCg0PDAsIBwQKB5oGBwoNDwwLCAcECgeZBQcKDQ8MCwgHBAoHjQQHCg0PDAsIBwQKBxITBwoNDwwLEEIAEwIUh0ELAQMAAAEJABMBAgAwQgEBAEEAAgBBAAIAQQACAEEAAgBBAAIAQQACAEEAAgBBAAIAQQACAEEAAgBBAAIABUF5AkEAAdoBAH0BdxMyMDI2LTA1LTEzVDEyOjEyOjQ3fZrgrnJ9AHcEb3BlbncEb3Blbnl3AHcIc3RhbmRhcmR3AHcAeXcAdwB3AHcAeXcAdwB5fQB5fQB5dwB3AHh5dgIYaW1hZ2VfZ2VuZXJhdG9yX3NldHRpbmdzdgQIdGVtcGxhdGV3B2hpZ2h3YXkQZGVmYXVsdF9pbWFnZV9pZH0ABGZvbnR3AAdlbmFibGVkeQd2ZXJzaW9ufQJ1AHUAdyQ4N2FhNzYwOC0yMDBhLTQ2NzctOGNiNi0yYmI3ZWJlYmM5MGN4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDhlNGJhN2VkLTMxNjQtNDljNC05NDMwLTQ5M2E3NzIxMDI3ZHh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckYzIxN2QzYmMtZjkwMS00NDIyLWE2M2QtMDE3MTYyMGE4YTdmeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ2YjY3NDJiNi1hYjgzLTQzOTUtYjE3My0yMzdhOWY4MzE4NmZ4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDExOTdlM2MwLWIwOWQtNDdkYS05ZmM2LTZlNDljY2ZhYWU1Mnh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckNjQyZDQ2MzYtNTMwNi00ZTE1LWE0NjItZGM5ZmY1ZTQzMDljeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ5YzYxNGMxOS1lYzY0LTRkZjktYTI1Zi0zZmM1MmYzZTRhZjl4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDdkYzgzMzE5LTVlZjgtNDIyMi04NDJmLWY3YTkzNzE1ZDI4Mnh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckNjZjMzNjOTAtZWY1ZC00YmY5LWIwODctZDUxMzE4ZGYwM2NkeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ2ZTRjNTAxNC0wNWM5LTRiNzUtYWI4Yy0zOTZlNWNhOTE5Nzh4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDU3NGUzOTcyLTk3OTItNDA1OC1iMTNmLTgxZjVmOTRmNWMwNnh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eX2B0wJ3EzIwMjYtMDMtMjZUMTI6MTI6NDd1AX2+JHUBfZnMmOoEdQJ9mcyY6gR9hvPpuAF1A32ZzJjqBH2G8+m4AX2svpcFdwdwdWJsaXNoAZSc+7cEDQEBAwACAQIAAwECAAQAGgGOHSQGDwIBEwHeIAE=\",\"updateId\":458539355}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-13T12:16:51",
+  "modified_gmt": "2026-05-13T15:16:51",
+  "ping_status": "open",
+  "slug": "rio-futsummit-2026-debate-inovacao-inclusao-e-o-futuro-do-futebol-brasileiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rio FutSummit 2026 debate inovação, inclusão e o futuro do futebol brasileiro"
+  },
+  "type": "post"
+}

@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1806/revisions/3207",
+        "id": 3207
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1806"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1806",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1806/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1806"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1806",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1806",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1806",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Curso de Nutrição da UVA aplica conhecimentos no Centro Casacap</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/sem-tc3adtulo-40.jpg?ssl=1' alt='sem título-40.jpg' /><figcaption>Créditos: Felipe Campo</figcaption></figure><p>Um bom desempenho físico costuma estar ligado a uma alimentação de qualidade, entretanto, algumas pessoas não possuem esse acesso. Ao pensar nisso, o curso de Nutrição da Universidade Veiga de Almeida (UVA), da Barra, firmou um convênio com o Centro de Ação Social Casacap, em Vargem Grande. O objetivo é divulgar hábitos saudáveis a população local. O projeto – que vai continuar pelos próximos meses – iniciou nesta quarta (21/03), com foco nos alunos de jiu-jitsu.</p><p>Outras atividades como palestras e degustação de receitas de baixa caloria também estavam presentes. No caso desta última, apenas alunos de Nutrição do quarto e quinto período tinham contato com o público. Porém, ao desenvolver essa iniciativa, a UVA possibilitou essa experiência aos calouros. “É algo pioneiro. Eles podem manter um convívio com as pessoas mesmo no início da faculdade”, afirma Cinara Costa, professora do curso e coordenadora do projeto.</p><p>Quem também aprova essa iniciativa é a monitora da ação Ludmilla Torquetti, que está apenas há dois semestres na universidade. Ela iniciou as disciplinas mais específicas há pouco tempo, mas isso não a impediu de seguir o desafio. “O intuito do projeto é esse: trazer um pouco da prática e, claro, aplicar o que estamos aprendendo. ” Além dela, outros alunos de períodos iniciais estiveram presentes, e puderam apresentar um pouco do que aprenderam aos frequentadores do Casacap.</p><p>Esse centro com ações voluntariadas é mantida pela primeira Igreja Batista do Recreio, que trabalha com fins filantrópicos há 16 anos. Serviços gratuitos também são oferecidos a população do entorno de Vargem Grande, especialmente de baixa renda. Com isso, a coordenação da UVA viu a oportunidade de incluir os estudantes num campo de saúde coletiva. “A finalidade é proporcionar melhorias na qualidade de vida. No caso, na área de nutrição”, salienta Cinara Costa.</p><p>O foco desta ação específica foi o jiu-jitsu, um dos esportes mantidos pela centro. Em pouco mais de uma hora de evento, o público foi informado sobre o valor nutricional de vários alimentos e como fazer para substituir os mais calóricos, além dos mais indicados para a prática esportiva. Alexandro Moraes, que pratica há quatro anos, pretende seguir algumas dessas dicas. “Vou pedir uma lista com essas informações, quero saber como perder peso sem que eu perca muita força”, brinca.</p><p>Lucas Motta, 6° período.</p></main>"
+  },
+  "date": "2018-03-22T20:49:02",
+  "date_gmt": "2018-03-22T23:49:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Curso de Nutrição da UVA aplica conhecimentos no Centro Casacap</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1806"
+  },
+  "id": 1806,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-t8",
+  "link": "https://agenciauvabarra.com/2018/03/22/integrando-alunos-e-praticas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:19:44",
+  "modified_gmt": "2019-02-26T00:19:44",
+  "ping_status": "open",
+  "slug": "integrando-alunos-e-praticas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Integrando alunos e práticas"
+  },
+  "type": "post"
+}

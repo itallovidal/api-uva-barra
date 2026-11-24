@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6745/revisions/6762",
+        "id": 6762
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6745"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6745",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6745/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6745"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6751"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6745",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6745",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6745",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento possibilitou debates sobre os desafios do jornalismo em um momento de pandemia</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-19-at-15.56.33.jpeg?resize=350%2C350&amp;ssl=1\" alt=\"\" width=\"350\" height=\"350\" /><figcaption>Foto: Divulgação SECOM UVA Barra</figcaption></figure><p>Ouça o áudio da matéria sobre o Esquenta SECOM</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F823909927&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Player do SoundCloud\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>A Semana de Comunicação do campus Barra acontece nos dias 28 e 29 de maio, mas as atividades de pré-evento já começaram. O Esquenta SECOM teve a participação do jornalista Erick Rianelli, repórter do Grupo Globo no Rio de janeiro, com mediação do professor Eduardo Bianchi e durou cerca de duas horas com assuntos que passaram dos desafios de fazer matérias de rua durante a quarentena ao início da carreira.</p><p>O bate-papo foi marcado pela história de vida profissional de Erick Rianelli e uma forma de aproximar academia e mercado. Os futuros jornalista e publicitários do campus Barra conheceram, através dessa trajetória, a importância, de ainda na faculdade, passar por diferentes áreas da comunicação. A experiência acumulada aguçou os sentidos do jornalista. “Foi uma oportunidade muito boa de praticar o olhar, a sensibilidade, de ir num lugar pra fazer uma matéria e pensar no cheiro que aquele lugar tem, como são as cores daquela parede. Coisas que no dia a dia, trabalhando em redação, você nem sempre tem esse tempo, mas se você treinar esse olhar, com o tempo você consegue captar essas coisas muito rapidamente”.</p><p>As mudanças no modo de fazer reportagens foram pauta de perguntas dos alunos e professores que participaram do evento. Beatriz Barbosa é aluna de do quinto período de jornalismo e acredita que palestras com profissionais da área possibilita o conhecimento dos bastidores. “Trazer essa experiência da redação nesse momento é muito importante e a maneira como as reportagens de rua mudaram. Saber como isso tá sendo feito na prática é muito importante. O Erick tem muito pra contar e a gente tem muito o que aprender”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/foto2.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\" /><figcaption>Beatriz Barbosa, aluna do curso de jornalismo, acompanhou a palestra e acredita que a presença dos profissionais da área prepara os alunos para o mercado de trabalho – Foto: Arquivo Pessoal.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/foto1-1.jpeg?resize=699%2C1040&amp;ssl=1\" alt=\"\" width=\"699\" height=\"1040\" /><figcaption>O professor Eduardo Bianchi participou da palestra como mediador. Para ele, eventos como este possibilitam o contato dos alunos com outras perspectivas – Foto: Arquivo Pessoal.</figcaption></figure><p>A palestra, que estava prevista para durar 1 hora, dobrou o tempo, sem perder a audiência. Do início ao fim, alunos e professores acompanharam virtualmente as falas do jornalista. O formato online é novidade e acontece principalmente por conta das recomendações da OMS de distanciamento social. Para Eduardo Bianchi, professor e mediador do debate, a mudança de formato foi positiva. “A palestra de hoje foi uma primeira tentativa e deu super certo. Eu acho que a SECOM tem tudo pra dar certo”</p><p><strong>Rafaela Barbosa -7° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-19T15:47:30",
+  "date_gmt": "2020-05-19T18:47:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento possibilitou debates sobre os desafios do jornalismo em um momento de pandemia Ouça o áudio da matéria sobre o Esquenta SECOM A Semana de Comunicação do campus Barra acontece nos dias 28 e 29 de maio, mas as atividades de pré-evento já começaram. O Esquenta SECOM teve a participação do jornalista Erick Rianelli, [&hellip;]</p>\n"
+  },
+  "featured_media": 6751,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6745"
+  },
+  "id": 6745,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-19-at-15.56.33.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1KN",
+  "link": "https://agenciauvabarra.com/2020/05/19/o-jornalista-erick-rianelli-da-tv-globo-palestrou-no-esquenta-secom/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-19T17:18:45",
+  "modified_gmt": "2020-05-19T20:18:45",
+  "ping_status": "open",
+  "slug": "o-jornalista-erick-rianelli-da-tv-globo-palestrou-no-esquenta-secom",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Jornalista Erick Rianelli da TV Globo palestrou no Esquenta SECOM"
+  },
+  "type": "post"
+}

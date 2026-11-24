@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1054/revisions/3317",
+        "id": 3317
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1054"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1054",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 18,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1054/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1054"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1054",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1054",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1054",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Cursos realizados aos sábados, em parceria com Conselho Regional de Contabilidade, incentivou visita ao Lar Maria de Lourdes no mês de maio</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/07/2222222222222.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"2222222222222\" width=\"1280\" height=\"960\" /><figcaption><em>Curso sobre Planejamento Tributário realizado no sábado, (10/06), na UVA. Foto: Leo Quadra</em></figcaption></figure><p><em>Curso sobre Planejamento Tributário realizado no sábado, (10/06), na UVA. Foto: Leo Quadra</em></p><p>O mês de maio foi marcado pela solidariedade no Lar Maria de Lourdes. A instituição que cuida de trinta e quatro, sendo crianças, adolescentes e adultos com deficiências, recebeu no dia 25 de maio desse ano, a visita de alguns professores da Universidade Veiga de Almeida, da Barra da Tijuca. O objetivo foi expandir essas práticas sociais além das salas de aula.</p><p>A origem desse projeto foi por meio das aulas realizadas aos sábados, pela coordenadora de Administração e Ciências Contábeis, Lorena Berolla, em parceria com o CRC (Conselho Regional de Contabilidade). São cursos de áreas de conhecimento, como tributária e fiscal, entretanto, não se restringe apenas a alunos de Direito ou Administração, qualquer pessoa pode se inscrever.</p><p>Por apresentar um valor de investimento maior, a faculdade oferece esses mesmos cursos com o valor de uma doação. Isso estimulou os noventa e um inscritos, no dia 06 de maio, a arrecadarem cerca de 120 kg de alimentos e produtos de higiene pessoal para o Lar Maria de Lourdes. Uma vez que não recebem muita ajuda governamental, já que o Estado auxilia até os 18 anos, são imprescindíveis essas doações vindas de fora.</p><p>O gerente do Lar, Cláudio Alves, admite receber bastantes mantimentos de visitantes, porém não é o suficiente. “<em>Nossa maior dificuldade é manter o abrigo com as doações e o financeiro, pois nossas crianças e adultos possuem uma rotina diária delicada”</em>. Por isso é importante saber o que eles necessitam antes de fazer qualquer tipo de doação, como afirma Leo Quadra, professor de Administração e Ciências Contábeis.</p><p>Além dessas contribuições, muitos jovens são voluntários no abrigo no fim de semana. Claudio reconhece que essas visitas estimulam o exercício da caridade. Da mesma forma, o professor da UVA, Antonio Sobrinho, confirma que essas vivências com as pessoas com deficiência intelectual e física geram um aprendizado. <em>“É com certeza uma experiência ímpar e comovente”</em>.</p><p>Uma das cenas que também sensibilizaram Lorena foi quando encontrou uma mulher de 29 anos com hidrocefalia. <em>“Ela mexeu muito comigo, porque como sou religiosa, me fez questionar tudo, reavaliar minhas posturas diante do mundo”</em>. A coordenadora também acredita que essas pessoas possuem uma missão de fazer a diferença no modo de vida de todos. <em>“Isso traz um sentido maior para mim, pois me motiva a fazer essas idas”</em>.</p><p><strong>Isabelle Amancio, 3° período.</strong></p><p><strong>Ana Carolina Marinho, 3° período.</strong></p></main>"
+  },
+  "date": "2017-07-04T14:00:08",
+  "date_gmt": "2017-07-04T17:00:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Cursos realizados aos sábados, em parceria com Conselho Regional de Contabilidade, incentivou visita ao Lar Maria de Lourdes no mês de maio Curso sobre Planejamento Tributário realizado no sábado, (10/06), na UVA. Foto: Leo Quadra O mês de maio foi marcado pela solidariedade no Lar Maria de Lourdes. A instituição que cuida de trinta e [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1054"
+  },
+  "id": 1054,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-h0",
+  "link": "https://agenciauvabarra.com/2017/07/04/acao-social-alem-das-salas-de-aula/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:43:13",
+  "modified_gmt": "2019-02-28T19:43:13",
+  "ping_status": "open",
+  "slug": "acao-social-alem-das-salas-de-aula",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Ação social além das salas de aula"
+  },
+  "type": "post"
+}

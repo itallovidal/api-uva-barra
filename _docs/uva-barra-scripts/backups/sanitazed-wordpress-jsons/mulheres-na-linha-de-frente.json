@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8798/revisions/8813",
+        "id": 8813
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8798"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8798",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8798/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8798"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8810"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8798",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8798",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    1899315
+  ],
+  "class_list": [
+    "post-8798",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-coronavirus",
+    "tag-8m",
+    "tag-covid-19",
+    "tag-dia-internacional-da-mulher",
+    "tag-linha-de-frente"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A pandemia despertou a necessidade de valorização do protagonismo feminino na luta contra a COVID-19</em></p><p>O Dia Internacional da Mulher é uma data comemorativa que simboliza a luta histórica das mulheres contra as formas de repressão patriarcal, desigualdade e discriminação de gênero. Como forma de reconhecimento da militância protagonizada pelos movimentos sociais feministas, a Organização das Nações Unidas (ONU) oficializou em 1975 a solenidade do dia 8 de março.</p><p>As mulheres sempre estiveram na linha de frente dos desafios impostos pela sociedade. E o contexto da pandemia do coronavírus evidenciou o papel fundamental das milhares de profissionais de diferentes especialidades. Representando cerca de 65% dos 6 milhões de profissionais do setor público e privado, de acordo com o Censo do IBGE de 2010 as mulheres somam maioria entre os trabalhadores da saúde. Neste 8 de março, Dia Internacional da Mulher, destaca-se o protagonismo feminino no combate direto ao vírus.</p><p>A crise sanitária transformou significativamente a jornada da enfermeira, Ingrid Corrêa, de apenas 29 anos. A profissional que antes trabalhava em uma Instituição de Longa Permanência para Idosos (ILPI) passou a atuar no Hospital de Campanha do Riocentro, desde a inauguração até o fechamento. “Digo que foram os 7 meses mais desafiadores da minha vida” afirma a Ingrid.</p><p><strong>Veja o que a Enfermeira Ingrid Corrêa tem a dizer sobre a rotina pesada no CTI</strong></p><figure><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/c0ktQR9c-tg?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>A enfermeira conta que no início deste ano foi transferida para o Hospital Ronaldo Gazolla, que apesar de ser referência no tratamento da COVID-19, sofre com a falta de insumos e leitos. “Desde o início da segunda onda de contaminação, presenciamos números recordes de internações diárias. Às vezes tenho a sensação de que estamos enxugando gelo”, relata.</p><p>As profissionais da enfermagem fazem parte da categoria mais numerosa na linha de frente e são fundamentais na detecção e contenção do vírus nas unidades de saúde. Elas têm contato direto com pacientes infectados, encaram longos plantões em razão da alta demanda de casos, muitas vezes, sem os recursos necessários como: equipamentos de proteção individual (EPIs), remédios, respiradores e vagas nos leitos.</p><blockquote><p><em>“Meu coração dói quando vejo aglomerações. Só quem está na linha da frente sabe realmente como esse vírus é cruel”</em></p><cite><em>Ingrid Corrêa</em></cite></blockquote><p>A enfermagem é a classe que possui os maiores índices de contaminação entre todos os profissionais de saúde, por representarem a maior parcela da linha de frente e por precisarem lidar com a infecção viral mais de perto.</p><p><strong></strong>A enfermeira Jacqueline Ambrozi atua na prevenção e no tratamento dos infectados no Hospital Edmundo Vasconcelos e participou da fase de testes da vacina de Oxford. “Participar dos testes da vacina foi tranquilo. Tive receio por conta das reações e possíveis efeitos colaterais, mas no fim deu tudo certo”</p><p>A urgência pela cura e o desejo de enxergar uma luz no fim do túnel para todos, faz com que Jacqueline não desanime. “O amor à enfermagem e o cuidado ao próximo é o principal objetivo dessa profissão. Cuidar do amor da vida de alguém e ver um sorriso de uma pessoa melhorando não tem preço”.</p><blockquote><p><em>“Saber que o que eu faço, estudei e batalhei para conquistar está sendo válido para alguém é gratificante. Sinto que estou no caminho certo.”</em></p><cite><em>Jacqueline Ambrozi</em></cite></blockquote><p>Novos caminhos e antigos desafios. Aos 56 anos de idade e 32 de profissão, a médica Daniela De Luca nunca passou por nada parecido. Logo no início da pandemia, desempenhava o papel de Coordenadora Médica em uma Unidade de Pronto Atendimento (UPA) em Campo Grande, na qual era responsável por acolher e informar sobre os sinais da COVID-19. No entanto, a demanda cresceu e a situação dos hospitais se agravou. “Vi que os hospitais necessitavam de médicos experientes em terapia intensiva e senti que era meu dever fazer parte disso”, relata.</p><p>Para Daniela, o mais difícil é assistir de mãos atadas a pacientes e colegas de profissão vindo a óbito. Mas conta que o que a impulsiona a continuar nos momentos de aflição é a honraria ao juramento médico e a necessidade de manter o sustento da família.</p><blockquote><p><em>“Trabalho de segunda a segunda, 12 horas por dia, envolvida pela necessidade de salvar vidas.”</em></p><cite><em>Daniela De Luca</em></cite></blockquote><p>Desafios não são novidade para a fisioterapeuta do Instituto Nacional de Infectologia (INI) da Fiocruz e egressa da Universidade Veiga de Almeida (UVA), Bianca Figueira. Mesmo assim, a pandemia conseguiu deixar a rotina ainda mais intensa. “O dia a dia dentro do Centro de Terapia Intensiva (CTI) é assustador. Desde o início da pandemia, o medo e as incertezas tomam conta dos meus plantões.”</p><p>Como se não bastasse a carga de trabalho interminável e o contexto caótico no qual está inserida, Bianca ainda encontra forças para consolar os pacientes. “Eles precisam de mim e eu tenho a missão de fazer a diferença na vida deles. Eles ficam ali isolados e sem apoio familiar, somos o porto seguro deles”, exclama a fisioterapeuta.</p><blockquote><p><em>“Chegava em casa e não conseguia assistir televisão pois estava passando ali um ‘filme da minha realidade’ vivida durante 12h de plantão”</em></p><cite><em>Bianca Figueira</em></cite></blockquote><p>A médica infectologista do Instituto Estadual de Infectologia São Sebastião (IEISS), Ana Luiza Martins, acredita que a presença feminina na ciência é primordial. Mesmo representando uma minoria, as mulheres que entram nestas áreas desenvolvem tecnologias capazes de resolver problemas que assolam a sociedade.</p><blockquote><p><em>“Devido a&nbsp; desigualdade de gênero não temos representantes femininas na mesma proporção que os homens”</em></p><cite>Ana Luiza Martins</cite></blockquote><p><strong>Veja o que a Infectologista Ana Luiza tem a dizer sobre a presença feminina na ciência.</strong></p><figure><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/QjwpHRzalbw?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>Ingrid, Jacqueline, Daniela, Bianca e Ana Luiza usufruem dos direitos conquistados desempenhando um papel fundamental no campo da saúde e da ciência. A data de hoje foi instituída a fim de conscientizar, exaltar e promover debates sobre as contribuições femininas para a sociedade. É um convite à reflexão referente ao tratamento que a sociedade dispensa às mulheres em todas as esferas.</p><p><em>Gabrielle Lopes – 7º período</em></p></main>"
+  },
+  "date": "2021-03-08T18:47:28",
+  "date_gmt": "2021-03-08T21:47:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A pandemia despertou a necessidade de valorização do protagonismo feminino na luta contra a COVID-19 O Dia Internacional da Mulher é uma data comemorativa que simboliza a luta histórica das mulheres contra as formas de repressão patriarcal, desigualdade e discriminação de gênero. Como forma de reconhecimento da militância protagonizada pelos movimentos sociais feministas, a Organização [&hellip;]</p>\n"
+  },
+  "featured_media": 8810,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=8798"
+  },
+  "id": 8798,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/mulheres-na-linha-de-frente.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2hU",
+  "link": "https://agenciauvabarra.com/2021/03/08/mulheres-na-linha-de-frente/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-03-08T19:08:01",
+  "modified_gmt": "2021-03-08T22:08:01",
+  "ping_status": "open",
+  "slug": "mulheres-na-linha-de-frente",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    7114275,
+    694479852,
+    820449,
+    1525505
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Mulheres na Linha de Frente"
+  },
+  "type": "post"
+}

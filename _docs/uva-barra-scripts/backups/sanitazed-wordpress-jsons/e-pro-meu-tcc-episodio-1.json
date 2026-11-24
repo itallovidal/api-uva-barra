@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15415/revisions/15421",
+        "id": 15421
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15415"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15415",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15415/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15415"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15417"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15415",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15415",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    22,
+    14603,
+    175,
+    39479,
+    701438832
+  ],
+  "class_list": [
+    "post-15415",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-internet",
+    "category-jornalismo",
+    "category-marketing",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-programa",
+    "tag-tcc",
+    "tag-videocast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O primeiro episódio do videocast “É pro meu TCC” aborda a maturidade emocional dos estudantes durante a adaptação à vida universitária. As participantes compartilharam suas experiências nos primeiros dias de aula na graduação, o sentimento de realização pessoal por ter se encontrado no curso escolhido e os desafios para conciliar a vida acadêmica com as tarefas pessoais e sociais.</p><p>O trabalho foi produzido pelo grupo formado por Eduarda Marinho, Igor Dias, Livia Oliveira, Maria Eduarda Almeida e Raphaela Sanfins. <strong>Confira o programa completo clicando no link abaixo!</strong></p><figure><img src='https://www.youtube.com/embed/zgajOglIX10?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' alt='Vídeo incorporado' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allow-scripts='true' allow-same-origin='true' allow-popups='true' allow-presentation='true' allow-popups-to-escape-sandbox='true' style='border:0; text-align:center; display:block;'><figcaption>*Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto.</figcaption></figure></main>"
+  },
+  "date": "2023-08-07T15:39:18",
+  "date_gmt": "2023-08-07T18:39:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O primeiro episódio do videocast “É pro meu TCC” aborda a maturidade emocional dos estudantes durante a adaptação à vida universitária. As participantes compartilharam suas experiências nos primeiros dias de aula na graduação, o sentimento de realização pessoal por ter se encontrado no curso escolhido e os desafios para conciliar a vida acadêmica com as tarefas pessoais e sociais. </p>\n"
+  },
+  "featured_media": 15417,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15415"
+  },
+  "id": 15415,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/whatsapp-image-2023-08-07-at-15.29.00.jpeg?fit=1270%2C710&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-40D",
+  "link": "https://agenciauvabarra.com/2023/08/07/e-pro-meu-tcc-episodio-1/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-07T15:41:59",
+  "modified_gmt": "2023-08-07T18:41:59",
+  "ping_status": "open",
+  "slug": "e-pro-meu-tcc-episodio-1",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    69270,
+    17978,
+    32208
+  ],
+  "template": "",
+  "title": {
+    "rendered": "É pro meu TCC: Maturidade Emocional"
+  },
+  "type": "post"
+}

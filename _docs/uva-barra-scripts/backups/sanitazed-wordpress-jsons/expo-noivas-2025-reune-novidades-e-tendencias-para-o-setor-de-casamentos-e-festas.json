@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19061/revisions/19074",
+        "id": 19074
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19061"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19061",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19061/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19061"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19063"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19061",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19061",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    43377791,
+    23208,
+    2366,
+    14603
+  ],
+  "class_list": [
+    "post-19061",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-encontro-com-profissionais",
+    "category-entretenimento",
+    "category-eventos",
+    "category-jornalismo",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Vestidos brancos reluzindo sob luzes direcionadas, cabines de fotos interativas disputando a atenção do público e aplicativos que prometem organizar a lista de convidados com um simples toque no celular. Mais do que um encontro entre fornecedores e clientes, as grandes feiras de noivas transformaram-se em vitrines de tendências que revelam como o setor de casamentos e festas se reinventa a cada temporada. Na edição mais recente da Expo Noivas, considerada uma das maiores feiras do setor na América Latina, tecnologia, moda e criatividade se encontraram para mostrar que celebrar continua sendo, antes de tudo, um exercício de inovação.</p><p>A programação contou com mais de 100 expositores, incluindo estilistas, empresas de buffet, decoradores, fotógrafos e fornecedores de serviços especializados. Além dos tradicionais desfiles de vestidos de noiva e trajes para noivo. A feira traz soluções digitais como simuladores em realidade aumentada para personalização de ambientes, ferramentas inteligentes para gerenciamento de convidados e cabines de fotos tecnológicas e interativas.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/img_7806.jpeg?resize=447%2C447&amp;ssl=1\" alt=\"Expo Noivas 2025\" width=\"447\" height=\"447\"><figcaption>Expo Noivas 2025</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/img_7800.jpeg?resize=828%2C469&amp;ssl=1\" alt=\"Marcelo Rodrigues, proprietário da Lu Rodrigues (Reprodução: Agência UVA Barra)\" width=\"828\" height=\"469\"><figcaption>Marcelo Rodrigues, proprietário da Lu Rodrigues (Reprodução: Agência UVA Barra)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/img_7805.jpeg?resize=828%2C466&amp;ssl=1\" alt=\"Larissa Oliveira, noiva (Reprodução: Agência UVA Barra)\" width=\"828\" height=\"466\"><figcaption>Larissa Oliveira, noiva (Reprodução: Agência UVA Barra)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/faacdac4-fb1f-406e-8941-c8e9799076f7.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"Diana Ramos, vídeomaker e CEO da UniqueMidia (Arquivo Pessoal)\" width=\"960\" height=\"1280\"><figcaption>Diana Ramos, vídeomaker e CEO da UniqueMidia (Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/b4ea4b05-cbec-4481-9400-fc13cf46b604.jpeg?resize=1066%2C1600&amp;ssl=1\" alt=\"Maria Fontinele, equipe de Marketing da Expo Noivas (Arquivo Pessoal)\" width=\"1066\" height=\"1600\"><figcaption>Maria Fontinele, equipe de Marketing da Expo Noivas (Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/img_7807.jpeg?resize=462%2C1037&amp;ssl=1\" alt=\"Bruno Rafane, CEO da BGR filmes (Arquivo Pessoal)\" width=\"462\" height=\"1037\"><figcaption>Bruno Rafane, CEO da BGR filmes (Arquivo Pessoal)</figcaption></figure><p>Para Marcelo Rodrigues, proprietário da Lu Rodrigues, a feira é uma oportunidade de pequenos negócios expandirem o seu espaço no mercado, uma vez que existem muitos benefícios em participar e fechar negócio na Expo Noivas. Segundo Rodrigues, é indispensável participar do projeto, já que a sua loja acompanha a programação a 33 anos e só trás benefícios para o seu negócio. \"O cliente que vem na feira tem a oportunidade de conhecer as tendências do próximo ano, receber descontos imperdíveis e praticar sorteios maravilhosos, e nós como empresa, temos a oportunidade de divulgar a nossa marca\", afirmou Marcelo Rodrigues.</p><p>Larissa Oliveira, é noiva e está participando da feira pela primeira vez, para ela é importante ter eventos como esse, principalmente para as jovens que não conhecem muito o ramo de festas, e precisam de um auxílio maior. Ela destacou que ter um lugar que reúne tudo no mesmo lugar é mais eficiente e prático. \"Ter um lugar que reúne convites, fotografias, festas, comida, vestidos, ternos, iluminação, é muito importante para a vida da noiva, porque facilita a nossa vida\", citou Larissa Oliveira.</p><p>Diana Ramos, vídeomaker e CEO da UniqueMidia, comentou que acha importante um projeto que mostre para os clientes, marcas e empresas com um maior desconto, e também ressaltou como é bom ter o reconhecimento de novos clientes. \"A melhor parte é conseguir fechar contrato com pessoas que realmente querem o meu trabalho, porque é um público diferente, elas já vão para a feira querendo fechar orçamento, já na internet, o meu conteúdo pode ser visto por milhares de pessoas que não tem interesse\", relatou Diana.</p><p>Maria Fontinele, da equipe de marketing da Expo Noivas, destacou que eventos como essa feira são fundamentais, uma vez que aproximam sonhos da realidade. Para ela, ter uma feira que reúne em um único espaço tudo sobre festas, facilitando a vida dos aniversariantes e dos noivos é essencial. \"É uma oportunidade única de gerar conexões diretas entre o público e profissionais, criando experiências que dificilmente seriam vividas a ou apenas no ambiente digital\", afirmou Maria.</p><p>Além disso, ela acrescentou que realizar esse evento é um privilégio e também uma grande responsabilidade, uma vez que são meses de preparação para garantir que cada visitante encontre soluções, inspiração e acolhimento em cada detalhe.\"Para nós, é emocionante ver como a feira impacta vidas, seja no sorriso de quem encontra o vestido perfeito, no contrato fechado que fortalece o negócio de um expositor, ou nas histórias que nascem a partir desse encontro. É esse propósito que nos move a cada edição\", disse Maria Fontinele.</p><p>O expositor Bruno Rafane, CEO da BGR Filmes, contou que é a sua primeira vez na Expo, e por isso, ficou impressionado com a organização e o suporte que a feira dá para os expositores, e também com a quantidade de empresas e itens de festas, só no Rio de Janeiro. Além disso, o fotógrafo revelou que conheceu muitas pessoas da área de eventos, conheceu novas áreas, novos clientes e novos espaços. \"É muito legal ver novos clientes se interessando e dando privilégio a nossa empresa. Aqui conseguimos fechar alguns contratos, fazer algumas parcerias e alavancar a minha carreira, fazendo vários networkings\", ressaltou Bruno.</p><p>O fotógrafo gostou tanto da sua experiência no projeto que está planejando a sua agenda para ir na próxima edição em São Paulo, e já conseguir um stand só para a sua empresa. \"Adorei como funciona tudo por lá, e por isso, mesmo morando no Rio de Janeiro, eu já garanti a minha mesa na feira de São Paulo. Quero garantir que eu e a minha empresa tenhamos mais conexões com os clientes e os fornecedores\", afirmou Bruno Rafane.</p><p>Os ingressos para as próximas edições estão disponíveis no site oficial do Expo Noivas &amp; Festas, se você não conseguiu comparecer na primeira e na segunda edição de 2025, o projeto organizou uma terceira edição, do dia 17 a 19 de outubro.</p><p>Duda Nicolich – 2º Período</p></main>"
+  },
+  "date": "2025-09-16T18:49:51",
+  "date_gmt": "2025-09-16T21:49:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>As grandes feiras de noivas transformaram-se em vitrines de tendências que revelam como o setor de casamentos e festas se reinventa a cada temporada</p>\n"
+  },
+  "featured_media": 19063,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19061"
+  },
+  "id": 19061,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/img_7806.jpeg?fit=447%2C447&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Xr",
+  "link": "https://agenciauvabarra.com/2025/09/16/expo-noivas-2025-reune-novidades-e-tendencias-para-o-setor-de-casamentos-e-festas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-16T19:00:48",
+  "modified_gmt": "2025-09-16T22:00:48",
+  "ping_status": "open",
+  "slug": "expo-noivas-2025-reune-novidades-e-tendencias-para-o-setor-de-casamentos-e-festas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Expo Noivas 2025 reúne novidades e tendências para o setor de casamentos e festas"
+  },
+  "type": "post"
+}

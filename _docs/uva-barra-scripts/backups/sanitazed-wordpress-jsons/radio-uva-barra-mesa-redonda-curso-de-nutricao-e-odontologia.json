@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21407/revisions/21510",
+        "id": 21510
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21407"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21407",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21407/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21407"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21345"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21407",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21407",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-21407",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A UVA Barra promoveu uma mesa redonda sobre a relação entre alimentação, saúde bucal e saúde sistêmica. O encontro reuniu professores e alunos de Nutrição e Odontologia e destacou a importância da atuação interdisciplinar na prevenção de doenças e no cuidado com a saúde.</p><p>Quer saber mais sobre? Sintonize agora na Rádio UVA Barra!</p><figure><blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/reel/DWZ9PX1CSq3/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:500px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/reel/DWZ9PX1CSq3/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a></div></blockquote><script async src=\"//platform.instagram.com/en_US/embeds.js\"></script></div>\n</figure><p>CRÉDITOS Roteiro: Carolina Alves – 5º período de Jornalismo Locução: Duda Nicolich – 3º período de Jornalismo Produção: Carolina Alves – 5º período de Jornalismo, Duda Nicolich – 3º período de Jornalismo, Julya de Moares – 1º período de Jornalismo Edição: Coordenação Rádio UVA Barra: Prof. Anderson Barreto Coordenação do Curso de Jornalismo: Profa. Renata Feital</p></main>"
+  },
+  "date": "2026-03-27T12:26:04",
+  "date_gmt": "2026-03-27T15:26:04",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A UVA Barra promoveu uma mesa redonda sobre a relação entre alimentação, saúde bucal e saúde sistêmica.O encontro reuniu professores e alunos de Nutrição e Odontologia e destacou a importância da atuação interdisciplinar na prevenção de doenças e no cuidado com a saúde. Quer saber mais sobre? Sintonize agora na Rádio UVA Barra! CRÉDITOSRoteiro: Carolina [&hellip;]</p>\n"
+  },
+  "featured_media": 21345,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21407"
+  },
+  "id": 21407,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-06-113047-e1778077932904.png?fit=565%2C258&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5zh",
+  "link": "https://agenciauvabarra.com/2026/03/27/radio-uva-barra-mesa-redonda-curso-de-nutricao-e-odontologia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAXgZ3j/hrK/pKeBBC0hZ39D8r+kp4E1QKRAqAm1g/aFUKgFUKkAlgmHFg+QqoBQqoBQtIDmhcMEBoPABQECAYCEAQmLAYUBg4UBAgGAggKCAIMBwEsBhQHAAIGFQAGFgwGAwAOAgQCBhjoOwI4ARAsAgEBCAEDSArMAY4KCqIBBAb8C0ZspgECBJ4VAQEIAQNICkqMAgEBCAEDSAIEAgEESCoBAQgBA0gCCEo8AQEIAkIBAkgAqAEBAQgCQgECSACoAQEBCAJCAQJIzgegD7YLCgIOAgQCEgIKBAIKAhIDAQYCBAMADgMBJgIqBAISAwAEAgoCEgMBBgIEAwEGCAIFAAMABgUAAgYCBAIqBAISAgQCBAMABAISAggFAgISBAgFAAMBDAMDBhjqOzeiJrYLDBAaDwAUBAgGAhAEJiwGFAYOFAQIBgIICggCDAcBLAYUBwACBhUABhYMBgMADgIEAgYY7QIoAMQAqAEoAKgAKACoACgAqAEoAKgAKACoACgAqAAoACEAhADENCECJwAEAIEAJwEoACEAKAQnACgSIQEnAAcAIQAoAScBKAQnAAQAhACBAIQAgQCEAIEAqAAEAKgBoQCHACEAKAEnASgEJwAEAIcAIQAoACEAJwAhBScAoQCoACcAKAMhACgAhwAhACgBJwEoBCcAoQAEAIcAIQAoAScBBAAoBCcAhwAhACgBJwEEACgEJwCHACEAKAEnAQQAKAQnAIQBgQCEAIEAhACBAIQAgQCEAIEAhAGBAIQAgQCEAIEAhACBAIQAgQCEAYEAhACBAIQBgQCEAIEAhACBAIQAgQCEAYEAhACBAIQAgQCEAIEAhACBAIQBgQCEAIEAhACBAIQCgQCEAIEAhAGBAIQAgQCEAIEAhACBAIQAgQCEAIEAhAGBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAoEAhAGBAIQEqLQhuh9zdGF0ZXZlcnNpb25hbXA7b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50c3RhdGV2ZXJzaW9uQ1LDiURJVE9TPGJyPlJvdGVpcm86IENhcm9saW5hIEFsdmVzIOKAkyA1wrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbzxicj5Mb2N1w6fDo286IER1ZGEgTmljb2xpY2ggLSAzwrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbzxicj5Qcm9kdcOnw6NvOiBDYXJvbGluYSBBbHZlcyDigJMgNcK6IHBlcsOtb2RvIGRlIEpvcm5hbGlzbW8sIER1ZGEgTmljb2xpY2ggLSAzwrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbywgSnVseWEgZGUgTW9hcmVzIC0gMcK6IHBlcsOtb2RvIGRlIEpvcm5hbGlzbW88YnI+RWRpw6fDo286PGJyPkNvb3JkZW5hw6fDo28gUsOhZGlvIFVWQSBCYXJyYTogUHJvZi4gQW5kZXJzb24gQmFycmV0bzxicj5Db29yZGVuYcOnw6NvIGRvIEN1cnNvIGRlIEpvcm5hbGlzbW86IFByb2ZhLiBSZW5hdGEgRmVpdGFsQ1LDiURJVE9TPGJyPlJvdGlvQ29saW5BbHZlc+KAkyA1wrogZcOtb2RvIGRlIEpvbmxpc21vYnJMb2N1w6fDo286IHBiclByb2R1w6fDo28gQ29saW5BbHZlc+KAkyA1wrogZcOtb2RvIGRlIEpvbmxpc21vLCBEdWRhIE5pY29saWMgM8K6IGVyw61vZG8gZGUgSm9ybmlzbW8sIEpseWEgTWFyZXMxcGJyRWRpw6fDo288Yj5Db29kZW7Dp8Ojb1LDoWRpb1VWQSBCOlBmLm5kcm9uQmFycnRvPGI+Q29yZW5hw6fDo28gQ3Vyc28gZDogUHJvZmEuIFJlbmF0YSBGZWl0YWxzdGF0ZXZlcnNpb25kb2N1bWVudGRhdGVkb2N1bWVudHN0YXR1c2RvY3VtZW50dGl0bGVSZG9jdW1lbnRjb250ZW50ZG9jdW1lbnRleGNlcnB0ZG9jdW1lbnRhdXRob3Jkb2N1bWVudGZlYXR1cmVkX21lZGlhZG9jdW1lbnRjb21tZW50X3N0YXR1c2RvY3VtZW50cGluZ19zdGF0dXNkb2N1bWVudHN0aWNreWRvY3VtZW50dGVtcGxhdGVkb2N1bWVudGZvcm1hdGRvY3VtZW50bWV0YWFkdmFuY2VkX3Nlb19kZXNjcmlwdGlvbmpldHBhY2tfc2VvX2h0bWxfdGl0bGVqZXRwYWNrX3Nlb19ub2luZGV4X2NvYmxvY2tzX2F0dHJfY29ibG9ja3NfZGltZW5zaW9uc19jb2Jsb2Nrc19yZXNwb25zaXZlX2hlaWdodF9jb2Jsb2Nrc19hY2NvcmRpb25faWVfc3VwcG9ydGpldHBhY2tfcG9zdF93YXNfZXZlcl9wdWJsaXNoZWRyZWFkZXJfc3VnZ2VzdGVkX3RhZ3NfamV0cGFja19uZXdzbGV0dGVyX2FjY2Vzc19qZXRwYWNrX2RvbnRfZW1haWxfcG9zdF90b19zdWJzX2pldHBhY2tfbmV3c2xldHRlcl90aWVyX2lkX2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGF5d2FsbGVkX2NvbnRlbnRfamV0cGFja19tZW1iZXJzaGlwc19jb250YWluc19wYWlkX2NvbnRlbnRmb290bm90ZXNqZXRwYWNrX3B1YmxpY2l6ZV9tZXNzYWdlamV0cGFja19wdWJsaWNpemVfZmVhdHVyZV9lbmFibGVkamV0cGFja19zb2NpYWxfcG9zdF9hbHJlYWR5X3NoYXJlZGpldHBhY2tfc29jaWFsX29wdGlvbnNkb2N1bWVudGNhdGVnb3JpZXNkb2N1bWVudHRhZ3Nkb2N1bWVudGJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzQSBVVkEgQmFycmEgcHJvbW92ZXUgdW1hIG1lc2EgcmVkb25kYSBzb2JyZSBhIHJlbGHDp8OjbyBlbnRyZSBhbGltZW50YcOnw6NvLCBzYcO6ZGUgYnVjYWwgZSBzYcO6ZGUgc2lzdMOqbWljYS48YnI+TyBlbmNvbnRybyByZXVuaXUgcHJvZmVzc29yZXMgZSBhbHVub3MgZGUgTnV0cmnDp8OjbyBlIE9kb250b2xvZ2lhIGUgZGVzdGFjb3UgYSBpbXBvcnTDom5jaWEgZGEgYXR1YcOnw6NvIGludGVyZGlzY2lwbGluYXIgbmEgcHJldmVuw6fDo28gZGUgZG9lbsOnYXMgZSBubyBjdWlkYWRvIGNvbSBhIHNhw7pkZS7DoWRpbyBVVkEgQmFycmEgLSBNZXNhIFJlZG9uZGEgY3Vyc28gZGUgTnV0cmnDp8OjbyBlIE9kb250b2xvZ2lhPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkEgVVZBIEJhcnJhIHByb21vdmV1IHVtYSBtZXNhIHJlZG9uZGEgc29icmUgYSByZWxhw6fDo28gZW50cmUgYWxpbWVudGHDp8Ojbywgc2HDumRlIGJ1Y2FsIGUgc2HDumRlIHNpc3TDqm1pY2EuPGJyPk8gZW5jb250cm8gcmV1bml1IHByb2Zlc3NvcmVzIGUgYWx1bm9zIGRlIE51dHJpw6fDo28gZSBPZG9udG9sb2dpYSBlIGRlc3RhY291IGEgaW1wb3J0w6JuY2lhIGRhIGF0dWHDp8OjbyBpbnRlcmRpc2NpcGxpbmFyIG5hIHByZXZlbsOnw6NvIGRlIGRvZW7Dp2FzIGUgbm8gY3VpZGFkbyBjb20gYSBzYcO6ZGUuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Y2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NRdWVyIHNhYmVyIG1haXMgc29icmU/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhIWNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2FwdGlvbnByb3ZpZGVyTmFtZVNsdWdhbGxvd1Jlc3BvbnNpdmVyZXNwb25zaXZlcHJldmlld2FibGV1cmx0eXBlY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NFcXVpcGUgVVZBIEJhcnJhOmNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudER1ZGEgTmljb2xpY2ggLSAzwrogUGVyw61vZG8gZGUgSm9ybmFsaXNtb2Ryb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50TWFsdSBDb3JkZWlybyAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRDYXJvbGluYSBBbHZlcyAtIDXCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3MKCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5RdWVyIHNhYmVyIG1haXMgc29icmU/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhITwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDplbWJlZCB7InVybCI6Imh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EV1o5UFgxQ1NxMy8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rXHUwMDI2aWdzaD1NelJsT0RCaU5XRmxaQT09IiwidHlwZSI6InJpY2giLCJwcm92aWRlck5hbWVTbHVnIjoiaW5zdGFncmFtIiwicmVzcG9uc2l2ZSI6dHJ1ZX0gLS0+CjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWVtYmVkIGlzLXR5cGUtcmljaCBpcy1wcm92aWRlci1pbnN0YWdyYW0gd3AtYmxvY2stZW1iZWQtaW5zdGFncmFtIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EV1o5UFgxQ1NxMy8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmFtcDtpZ3NoPU16UmxPREJpTldGbFpBPT0KPC9kaXY+PC9maWd1cmU+CjwhLS0gL3dwOmVtYmVkIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPmVyOiBhcmEgIHBycmE8PkR1ZGEgTmljb2xpY2ggLSAzwrogZXLDrW9kbyBkZSBKb3JuYWxpc21vPD46YXJhICBwcnJhaCAtcGFsdSBkZW8gLSDCuiBlcsOtb2RvIGRlIEpvcm5hbGlzbW88PjpycmEgIGFycmEgcm8gQWVzIGVyb2RvIGRlIEpvcm5hbGlzbW88L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4FBwRPBQUHvgUPQQEERQABCgEFAgkBAggCBEUAAQoBEwQOBwMCBEEAAgYCBEMARQBBAEIAAQJEAEIABQkWBQcIBAgGCAUBCAcIBwgGCA4IDggLCAZIAQYIBBgWEw4UGx4fFRogGy8qCRkhIhYICggECAYIBwQKRwAKDQ8MC5IECTEDhgUIBwQKRwAKDQ8MCzoIBwQKRwAKDQ8MCwcQDwoLAwQIBwQKRwAKDQ8MCxEIBwQKBygHCg0PDAsIBwQKBygHCg0PDAsIBwQKBykHCg0PDAuVA7sFQQICQQcTFUEAAkEFAwECQQACAQMCFUEFQgABQgBBBQMMGw8BAAAGAQQAAAEJABIBAgAgQgEBAEEAAgBBAAIAQQAAAkEAAgBBAAIAQQACAEEAAgA2QRMSQSIFAkECA0E4BQcCCUUACQEDAgdBAAIJAQUJAQMCAQQCAwJBAAIJQgEJBEIACQQCBkEAAxIAfQF1A32ZzJjqBH2svpcFfYbz6bgBdyQ5Yjc1ZmMyMC05MWExLTQ4MTktYWRmNy02OTZmOWZiZjk5OGF3qQI8cD5BIFVWQSBCYXJyYSBwcm9tb3ZldSB1bWEgbWVzYSByZWRvbmRhIHNvYnJlIGEgcmVsYcOnw6NvIGVudHJlIGFsaW1lbnRhw6fDo28sIHNhw7pkZSBidWNhbCBlIHNhw7pkZSBzaXN0w6ptaWNhLjxicj5PIGVuY29udHJvIHJldW5pdSBwcm9mZXNzb3JlcyBlIGFsdW5vcyBkZSBOdXRyacOnw6NvIGUgT2RvbnRvbG9naWEgZSBkZXN0YWNvdSBhIGltcG9ydMOibmNpYSBkYSBhdHVhw6fDo28gaW50ZXJkaXNjaXBsaW5hciBuYSBwcmV2ZW7Dp8OjbyBkZSBkb2Vuw6dhcyBlIG5vIGN1aWRhZG8gY29tIGEgc2HDumRlLjwvcD53JGU0NGZhYTc0LTQzNjktNGQ1YS1iMDI3LTcxNzNkMWNkYmRjY3dCPHA+UXVlciBzYWJlciBtYWlzIHNvYnJlPyBTaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSE8L3A+dyRiNWFiMDI4YS01ZTExLTQyMjktYjg1Yi1kZTM2MmMzNGNmZjZ38gE8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1lbWJlZCBpcy10eXBlLXJpY2ggaXMtcHJvdmlkZXItaW5zdGFncmFtIHdwLWJsb2NrLWVtYmVkLWluc3RhZ3JhbSI+PGRpdiBjbGFzcz0id3AtYmxvY2stZW1iZWRfX3dyYXBwZXIiPgpodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRFdaOVBYMUNTcTMvP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGluayZhbXA7aWdzaD1NelJsT0RCaU5XRmxaQT09CjwvZGl2PjwvZmlndXJlPndhaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RXWjlQWDFDU3EzLz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmYW1wO2lnc2g9TXpSbE9EQmlOV0ZsWkE9PXckZWMyOGUzMDUtOTBmMC00MDRkLWFlZjMtODQyZDc3NDg0MmVldxg8cD5FcXVpcGUgVVZBIEJhcnJhOjwvcD53JDcyNWMzM2FiLTk4YmEtNDU5OS1hMzIyLWFlMjdmZjZkODY5MHcxPHA+RHVkYSBOaWNvbGljaCAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vPC9wPnckMDk1YjlmYTAtMmJjNS00ZjlhLWEwNzctMjVkZjMyN2I5MzU4dzE8cD5NYWx1IENvcmRlaXJvIC0gM8K6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW88L3A+dyQzOWE2MmZkZS1lNjQ1LTRhODEtOGIyNi0wNDhkNDdmYTQwOTR3MjxwPkNhcm9saW5hIEFsdmVzIC0gNcK6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW88L3A+NwD8AQB9muCucncEb3BlbncEb3Blbnl3AHcIc3RhbmRhcmR3AHcAeXcAdwB3AHcAeXcAdwB5fQB5eXcAdwB4eXYCGGltYWdlX2dlbmVyYXRvcl9zZXR0aW5nc3YECHRlbXBsYXRldwdoaWdod2F5EGRlZmF1bHRfaW1hZ2VfaWR9AARmb250dwAHZW5hYmxlZHkHdmVyc2lvbn0CeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5faHNAncTMjAyNi0wMy0yN1QxMjoyNjowNHUBfbDt+JwFeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcKY29yZS9lbWJlZHcJaW5zdGFncmFteHh4dwRyaWNoeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dwdwdWJsaXNoA8HOsb8NAQ8F9MLO/gcBAACKv4mPAjsAAgIRAwAZAQIApQIEMQEDAMkCAgEARQABAAEFAQAGAAIACq4B0AQEAQYBAQEIAQQDBAEIAQABAgEBAgYBABQAFQEBCAEAAwQBCAEAAQIBAQIAAwMBAQQCAgEEAAIAFQEBCAEBAQECAQEIAQMCAQIBAQgCAwIBAwUCAA==\",\"updateId\":846292985}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-06T15:21:05",
+  "modified_gmt": "2026-05-06T18:21:05",
+  "ping_status": "open",
+  "slug": "radio-uva-barra-mesa-redonda-curso-de-nutricao-e-odontologia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rádio UVA Barra &#8211; Mesa Redonda curso de Nutrição e Odontologia"
+  },
+  "type": "post"
+}

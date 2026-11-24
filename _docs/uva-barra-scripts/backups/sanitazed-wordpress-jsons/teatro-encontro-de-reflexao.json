@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1909/revisions/2901",
+        "id": 2901
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1909"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1909",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1909/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1909"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1909",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1909",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2432
+  ],
+  "class_list": [
+    "post-1909",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-teatro",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-botafogo",
+    "tag-casa-de-cultura-laura-alvim",
+    "tag-conexao-solidao",
+    "tag-teatro-poeira"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>'Conexão: Solidão' aborda o paradoxo da hiperconexão virtual e a superficialidade das relações físicas</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/04/31265582_1235981806532277_6259462175705804958_n.jpg?resize=719%2C457&amp;ssl=1' alt='31265582_1235981806532277_6259462175705804958_n' width='719' height='457' /><figcaption>Foto: divulgalção</figcaption></figure><p>Angústia, gargalhadas e risos angustiados foram as reações deixadas pela peça “Conexão: solidão”, nesta quarta-feira (25/04), em última apresentação da 2ª temporada no Teatro Poeira, Botafogo. Com uma proposta atual, irreverente, dinâmica e, é claro, totalmente <em>conectada,</em> o projeto de conclusão de curso da turma de atores da Casa de Cultura Laura Alvim instiga a cada minuto a autocrítica da plateia. O objetivo do espetáculo é provocar reflexão sobre a forma em que a tecnologia e o uso das redes sociais interferem nas relações pessoais e afetivas atualmente.</p><p>Divididas em vários esquetes e atuada por 18 atores, essa interferência é satirizada em todos os momentos – como no ato em que um casal passa o dia separados fisicamente, mas em intenso contato virtual e, quando se encontram, não se falam. “Esse paradoxo da superficialidade nas relações, por meio de uma ferramenta que poderia ser utilizado como mais uma possibilidade de afeto, foi a grande inquietação para a ideia da peça”, explica o diretor Daniel Hertz que também dirigiu “Ubu Rei”.</p><div><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/04/31345788_1733538630040514_1343813361892065280_n.jpg?resize=960%2C960&amp;ssl=1' alt='31345788_1733538630040514_1343813361892065280_n' width='960' height='960' /><figcaption>Foto: @gabriel_fontenelle</figcaption></figure></div><p>Apesar dessa forte crítica à problemática incutida no roteiro, o discurso e atuações passam longe do pedantismo e se colocam como agentes iguais e também reprodutores daquela realidade. “A gente não coloca o tema de uma forma moralista. Levantamos a poeira e deixamos a reflexão de toda essa angústia e solidão que há em nós”, pontua o ator Vinicius Bertoli. Outros momentos em que é possível constatar isto são os de interrupção da peça em que a atriz, Roberta Brisson, pede para que a plateia use os celulares para autodivulgação e também faz uma <em>live</em> (ao vivo) se suicidando para gerar <em>likes</em> (audiência).</p><p>Essa linguagem digital e antenada acompanha o espetáculo em tempo integral e dá ar de jovialidade e engajamento – apesar de reforçar estereótipos femininos que enfraquecem a qualidade da narrativa inclusiva. Ainda assim, a criação de Daniel, Conexão: Solidão, mostra-se eficaz quanto ao propósito de fazer repensar a forma que sociedade lida com a hiperconexão. “Achei fantástica, interessante, divertida, mas deixa uma certa angústia e um medo do caminho que sociedade está tomando. Tempos novos a frente”, declara o espectador Fábio Bahia.</p><p><strong>Yhara Linka, 6º período</strong></p></main>"
+  },
+  "date": "2018-04-26T16:32:06",
+  "date_gmt": "2018-04-26T19:32:06",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>‘Conexão: Solidão’ aborda o paradoxo da hiperconexão virtual e a superficialidade das relações físicas Angústia, gargalhadas e risos angustiados foram as reações deixadas pela peça “Conexão: solidão”, nesta quarta-feira (25/04), em última apresentação da 2ª temporada no Teatro Poeira, Botafogo. Com uma proposta atual, irreverente, dinâmica e, é claro, totalmente conectada, o projeto de conclusão [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1909"
+  },
+  "id": 1909,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-uN",
+  "link": "https://agenciauvabarra.com/2018/04/26/teatro-encontro-de-reflexao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T14:55:36",
+  "modified_gmt": "2019-01-26T16:55:36",
+  "ping_status": "open",
+  "slug": "teatro-encontro-de-reflexao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    342801,
+    13560946,
+    670594418,
+    11884368
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Teatro: encontro de reflexão"
+  },
+  "type": "post"
+}

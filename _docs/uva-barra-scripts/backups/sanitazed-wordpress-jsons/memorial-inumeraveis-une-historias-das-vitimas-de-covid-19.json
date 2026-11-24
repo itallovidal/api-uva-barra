@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6692/revisions/6705",
+        "id": 6705
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6692"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6692",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6692/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6692"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6701"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6692",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6692",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-6692",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Artistas, jornalistas e voluntários juntam-se para escrever prosas em homenagem as pessoas que faleceram</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/2020-05-12-6-1-e1589393928550.png?resize=478%2C469&amp;ssl=1' alt='Site Memorial Inumeráveis homenageando as vítimas do novo coronavírus – Fonte: site Memorial Inumeráveis' width='478' height='469' /><figcaption>Site Memorial Inumeráveis homenageando as vítimas do novo coronavírus – Fonte: site Memorial Inumeráveis</figcaption></figure><p>Desde 17 de março de 2020, o Brasil sofre com as mortes causadas pela pandemia do novo coronavírus (COVID-19). O país já passou 12 mil falecimentos de infectados pela doença. Em homenagem às vítimas e aos parentes, o projeto <a href='https://inumeraveis.com.br/'>Memorial Inumeráveis</a> foi criado para voluntários escutarem relatos das famílias que perderam entes queridos e eternizarem em prosas a história de vida da vítima.</p><p>A publicitária e moderadora voluntária do Memorial, Rayane Urani, conta que a ideia surgiu do artista Edson Pavoni com o intuito de mostrar que as pessoas que compõem os números das estatísticas também tiveram lembranças. “Muitos brasileiros se foram, mas os legados delas continuam. Nós não podemos tratá-las só como estatísticas”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/2020-05-12-10.png?resize=507%2C491&amp;ssl=1' alt='' width='507' height='491' /><figcaption>Primeiro texto feito pelo jornalista Josué Seixas – Fonte: Site Memorial Inumeráveis</figcaption></figure><p>O projeto conta com uma equipe de voluntários que acreditam na causa e gostam de escrever. O jornalista <em>freelancer </em>Josué Seixas uniu-se ao time pelo objetivo de eternizar memórias. “Nós estamos permitindo que uma família lembre de uma pessoa só com um clique. O nome dela vai estar para sempre ali, além da imaginação dos parentes”, conta. Josué também diz que a primeira sensação ao escrever o primeiro relato foi uma mistura de tristeza e felicidade.</p><p>Confira o relato do jornalista:</p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F819103186&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Memorial Inumeráveis - Josué Seixas' allow='autoplay; fullscreen' allowfullscreen></iframe><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/2020-05-12-8.png?resize=578%2C347&amp;ssl=1' alt='' width='578' height='347' /><figcaption>Prosa feita pela Rayane Urani, em homenagem à Maria Volpe, mãe da Ana Camargo – Fonte: Site Memorial Inumeráveis</figcaption></figure><p>Inumeráveis já tem mais de 400 prosas que são dedicadas às vítimas falecidas por causa do COVID-19. A educomunicadora Ana Paula Camargo conheceu o site através de uma amiga e, em seguida, decidiu mandar memórias de sua falecida mãe, Maria Volpe, para o projeto. Ana diz que ficou emocionada quando viu a prosa pronta. “Chorei muito e ainda acho que foi pouco. Todas as vítimas mereciam mais iniciativas assim, porque no meu entender, estamos sós”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-12-at-16.32.39-e1589393234575.jpeg?resize=331%2C444&amp;ssl=1' alt='' width='331' height='444' /><figcaption>Última foto da Ana Camargo com a mãe Maria Volpe – Foto: Arquivo Pessoal</figcaption></figure><p>Rayane Urani diz que a equipe criadora do Memorial está satisfeita em saber que o plano de tributo é bem recebido por todos.</p><p>Confira o trecho da entrevista com a publicitária:</p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F819104104&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Memorial Inumeráveis - Rayane Urani' allow='autoplay; fullscreen' allowfullscreen></iframe><p>Aos interessados em se voluntariar a escrever textos de homenagem ou perderam alguém próximo e que deseja contar suas memórias para o Inumeráveis, basta acessar o link do <a href='https://inumeraveis.com.br/adicionar/'>site</a> e cadastrar-se.</p><blockquote><p><em>“não há quem goste de ser número</em>,</p><p><em>gente merece existir em prosa” </em></p><p><em>– Inumeráveis.</em></p></blockquote><p><strong>Isabella Lutz – 7º Período|Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-13T15:23:11",
+  "date_gmt": "2020-05-13T18:23:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Artistas, jornalistas e voluntários juntam-se para escrever prosas em homenagem as pessoas que faleceram Desde 17 de março de 2020, o Brasil sofre com as mortes causadas pela pandemia do novo coronavírus (COVID-19). O país já passou 12 mil falecimentos de infectados pela doença. Em homenagem às vítimas e aos parentes, o projeto Memorial Inumeráveis [&hellip;]</p>\n"
+  },
+  "featured_media": 6701,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6692"
+  },
+  "id": 6692,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/2020-05-12-6-1-e1589393928550.png?fit=614%2C602&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1JW",
+  "link": "https://agenciauvabarra.com/2020/05/13/memorial-inumeraveis-une-historias-das-vitimas-de-covid-19/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-13T15:45:07",
+  "modified_gmt": "2020-05-13T18:45:07",
+  "ping_status": "open",
+  "slug": "memorial-inumeraveis-une-historias-das-vitimas-de-covid-19",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Memorial Inumeráveis une histórias das vítimas de COVID-19"
+  },
+  "type": "post"
+}

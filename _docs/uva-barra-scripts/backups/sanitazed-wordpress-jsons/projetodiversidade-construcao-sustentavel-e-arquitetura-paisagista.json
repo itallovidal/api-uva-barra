@@ -1,0 +1,156 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1426/revisions/2993",
+        "id": 2993
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1426"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1426",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1426/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1426"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1426",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1426",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    254332
+  ],
+  "class_list": [
+    "post-1426",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-sustentabilidade",
+    "tag-projetodiversidade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><strong>Os setores têm papel fundamental nas cidades para a realização dos objetivos globais de desenvolvimento ético sustentável</strong></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/unnamed.jpg?resize=724%2C543&#038;ssl=1' alt='unnamed' width='724' height='543' /><figcaption></figcaption></figure><p>Tecnologias, construções, paisagismo: num mundo que precisa buscar novas formas de desenvolver, estimular e apoiar práticas mais éticas e maneiras menos prejudiciais de usufruir dos recursos naturais e de organizar a ocupação do homem no ambiente em que vive, tudo deve prezar pela sustentabilidade. Divulgar, debater e incentivar o uso sustentável na construção civil e na arquitetura paisagista foram precisamente os objetivos do bate-papo, que foi mediado pelo prof. Thiago Araújo, com os convidados Suzana Carvalho e Dany Garza, que comandaram junto a alunos e professores da Universidade Veiga de Almeida durante a II Feira de Práticas Sustentáveis.</p><p>No Talk show “Construções sustentáveis”, o especialista em bioconstrução Dany Garza, ao relatar sobre como o progresso científico e econômico gerou fortes consequências ambientais, mostrou que os problemas atuais são causados pelo modelo de desenvolvimento em que o mundo vive e pela visão limitada sobre os impactos ambientais, ocasionados muitas vezes pelas novas tecnologias. “A tecnologia e a cultura exercem um papel fundamental na intensidade dos impactos ambientais, por determinarem os padrões de produção e consumo. A maior parte do globo terrestre compactua com valores elevados de consumo de mercadorias produzidas industrialmente em processos pouco sustentáveis”, destacou Dany.</p><p>As características naturais de uma região também são influenciadas pelo processo de urbanização, que altera suas condições climáticas, seu relevo, seus recursos hídricos, sua cobertura vegetal, seus ecossistemas. Hoje, a concentração urbana das grandes metrópoles excede os suportes naturais, ocasionando catástrofes. Uma mudança de paradigma é pensada a partir do momento em que determinados atores começam a questionar os limites da racionalidade econômica. Este novo padrão se baseou na construção de uma ética capaz de reorientar os valores e comportamentos para os objetivos de realização da sustentabilidade ecológica e da equidade social.</p><p>É importante munir o conhecimento de soluções arquitetônicas e urbanísticas que se mostrem sustentáveis no decorrer do tempo. É possível economizar energia, por exemplo, de maneira que sejam empregados materiais de construção menos consumidores, e da realização de projetos que utilizem iluminação e ventilação natural, o que inclui os projetos paisagísticos que criam micro-climas. No Brasil, por exemplo, o mercado das construções verdes tem se consolidado nos últimos dez anos. O crescimento se deve à ampliação do mercado das construções sustentáveis, que não se restringem a edificações de alto padrão: a iniciativa está presente em residências, escolas, creches, hospitais e museus.</p><p>A arquiteta e paisagista Suzana Carvalho fala um pouco sobre o paisagismo sustentável no desenvolvimento urbano. “A cada dia está sendo mais inserida a necessidade do verde, para as mais variadas questões. A parede verde, por exemplo, está sendo cada vez mais usada, seja por seus benefícios como também por sua beleza. A área verde é um espaço de educação ambiental, visa à preservação do nosso patrimônio, integrando de maneira harmoniosa e ética uma área urbanizada”.</p></main>"
+  },
+  "date": "2017-10-02T15:14:08",
+  "date_gmt": "2017-10-02T18:14:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os setores têm papel fundamental nas cidades para a realização dos objetivos globais de desenvolvimento ético sustentável Tecnologias, construções, paisagismo: num mundo que precisa buscar novas formas de desenvolver, estimular e apoiar práticas mais éticas e maneiras menos prejudiciais de usufruir dos recursos naturais e de organizar a ocupação do homem no ambiente em que [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1426"
+  },
+  "id": 1426,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-n0",
+  "link": "https://agenciauvabarra.com/2017/10/02/projetodiversidade-construcao-sustentavel-e-arquitetura-paisagista/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T18:10:27",
+  "modified_gmt": "2019-01-26T20:10:27",
+  "ping_status": "open",
+  "slug": "projetodiversidade-construcao-sustentavel-e-arquitetura-paisagista",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056637
+  ],
+  "template": "",
+  "title": {
+    "rendered": "#ProjetoDiversidade: Construção sustentável e arquitetura paisagista"
+  },
+  "type": "post"
+}

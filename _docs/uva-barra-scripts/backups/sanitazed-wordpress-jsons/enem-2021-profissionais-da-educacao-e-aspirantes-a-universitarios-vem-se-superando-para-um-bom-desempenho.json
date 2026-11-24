@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10314/revisions/10340",
+        "id": 10340
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10314"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10314",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 19,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10314/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10314"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10329"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10314",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10314",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964
+  ],
+  "class_list": [
+    "post-10314",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Faltam menos de 2 meses para o vestibular mais concorrido do país e candidatos se dedicam para conquistar uma vaga</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/whatsapp-image-2021-10-12-at-3.03.07-pm.jpeg?resize=1242%2C1591&#038;ssl=1' alt='' width='1242' height='1591' /><figcaption>Apesar dos empecilhos, Gabriela Goulart segue focada nos estudos para o vestibular. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/whatsapp-image-2021-10-12-at-10.34.53-am-e1634333533215.jpeg?resize=631%2C762&#038;ssl=1' alt='' width='631' height='762' /><figcaption>Diante às dificuldades dos alunos da escola pública, professor cria método para ajudá-los a se preparar para o ENEM. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/pasted-image-0.png?resize=599%2C321&#038;ssl=1' alt='' width='599' height='321' /><figcaption>Marcos Vinícius faz tweet para divulgar assistência aos inscritos na prova. (Foto: Reprodução da Internet)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/whatsapp-image-2021-10-14-at-11.21.41-pm.jpeg?resize=708%2C891&#038;ssl=1' alt='' width='708' height='891' /><figcaption>A psicopedagoga Margareth Oliveira aconselha distribuir estudos e vida pessoal para não ficar tão cansativo essa reta final. (Foto: Arquivo Pessoal)</figcaption></figure><p>A prova é composta por um conteúdo extenso, por isso, a preparação necessita de organização, comprometimento e responsabilidade, afinal, é ela que possibilita a entrada na universidade por meio de uma vaga, bolsa ou financiamento. No entanto, controlar o nervosismo, a ansiedade e se manter focado no plano de estudo torna-se uma tarefa difícil diante a todas as dificuldades em meio à conjuntura pandêmica atual.</p><p>A fim de fazer com que os estudantes se sintam mais preparados na hora de enfrentar a prova do ENEM, um professor de matemática da Rede de Ensino Público do Estado do Rio de Janeiro tomou uma atitude inusitada. Através de um <em>tweet</em>, Marcos Vinícius da Costa, colocou-se à disposição para tirar dúvidas dos inscritos através do <em>WhatsApp</em>.</p><p>Marcos Vinícius conta que a iniciativa surgiu ao se deparar com os problemas considerados básicos na matéria enfrentados por seus alunos do 3º ano do Ensino Médio e por conta da rede social ser uma forma de contato mais acessível nesse momento. “Muitas das vezes as dificuldades aparecem pelo fato de os alunos não terem uma boa base do ensino fundamental, e o ENEM cobra muito essa ideia de matemática básica. Mas até surgiram algumas dúvidas que estão indo um pouco além disso, isso é bom’’, explica Marcos.</p><p>O foco da proposta é exclusivamente uma monitoria e o objetivo é que o aluno leve a dúvida para que o professor auxilie no ponto em específico, visto que, não há uma carga horária pré-estabelecida para aulas e muito menos um cronograma de conteúdos. “A ideia é fazer com que ele entenda o ‘caminho das pedras’ e finalize sozinho a questão’’, acrescenta o professor.</p><p>Embora a prova já esteja marcada e o INEP (Instituto Nacional de Pedagogia) apresente um cronograma, a estudante Gabriela Goulart se sente insegura em relação à data da prova, que pode ser mudada a qualquer momento por conta do quadro epidemiológico referente à pandemia. Contudo, ela conta que se sente otimista para tentar novamente uma boa colocação no <em>ranking</em> da tão sonhada vaga no curso de direito.</p><p>Para a candidata, a pandemia aliado a pouca prática dos conteúdos dificultou o bom desempenho na prova anterior, mas conta que vem se superando. “O ENEM está se aproximando e estou focada. Tento conciliar as matérias e compensar a rotina de estudo com os exercícios”, afirma Gabriela.</p><h2><strong>Criando uma rotina de preparação</strong></h2><p>Cada pessoa possui uma rotina diferente, então, acima de tudo, é importante que a rotina de estudo seja compatível à realidade de cada um, pois criar metas inalcançáveis pode gerar frustrações. Para Margareth Oliveira, psicopedagoga e professora da Universidade Veiga de Almeida, é importante que o vestibulando faça um levantamento das disciplinas que possuem mais facilidade com as que têm mais complexidade. “É importante que se estabeleça uma aplicação de técnica de estudo que não seja sempre a mesma coisa. Então se num dia se dedicou mais à leitura, no outro é legal que faça exercícios para responder’’, esclarece.</p><p>A psicopedagoga ressalta também a importância de paradas periódicas em meio aos estudos como forma de descanso para a mente e para o corpo. Além de incentivar a prática de atividades lúdicas e a necessidade de um ambiente adequado para os estudos. “No espaço em que se programa para estudar é necessária uma certa estrutura, isto é, um ambiente silencioso, uma boa conexão com a internet, uma mesa para colocar os materiais e uma cadeira mais adequada’’, salienta.</p><p>Margareth afirma que há algumas técnicas e estilos de aprendizagem que podem auxiliar na melhor absorção dos conteúdos e deixar a rotina um pouco mais dinâmica. Para isso, basta saber com qual mais se identifica.</p><p><strong>Conheça no gráfico abaixo:</strong></p><figure class=\"aligncenter size-large\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/estilos-de-aprendizagem-1.png?resize=1080%2C1080&#038;ssl=1' alt='' width='1080' height='1080' /><figcaption>Arte com os estilos de aprendizagem. (Créditos: Lorhan Nascimento)</figcaption></figure><p><em>Lorhan Nascimento </em>– <em>3º período</em></p><p><em>Bruno Venâncio </em>– <em>4º período</em></p></main>"
+  },
+  "date": "2021-10-15T18:43:50",
+  "date_gmt": "2021-10-15T21:43:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>solicitação e para as pessoas em privação de liberdade (PPL), o exame será aplicado nos dias 09 e 16 de janeiro de 2022.</p>\n"
+  },
+  "featured_media": 10329,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10314"
+  },
+  "id": 10314,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/capa-site-agencia-1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Gm",
+  "link": "https://agenciauvabarra.com/2021/10/15/enem-2021-profissionais-da-educacao-e-aspirantes-a-universitarios-vem-se-superando-para-um-bom-desempenho/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-15T20:10:43",
+  "modified_gmt": "2021-10-15T23:10:43",
+  "ping_status": "open",
+  "slug": "enem-2021-profissionais-da-educacao-e-aspirantes-a-universitarios-vem-se-superando-para-um-bom-desempenho",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "ENEM 2021: Profissionais da educação e aspirantes a universitários vêm se superando para um bom desempenho"
+  },
+  "type": "post"
+}

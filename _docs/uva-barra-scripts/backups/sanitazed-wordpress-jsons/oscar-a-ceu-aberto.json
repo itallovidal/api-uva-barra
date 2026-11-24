@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1736/revisions/3122",
+        "id": 3122
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1736"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1736",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1736/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1736"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1736",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1736",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    2366
+  ],
+  "class_list": [
+    "post-1736",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Em ritmo de fuga e Me chame pelo seu nome são exibidos no segundo dia de Village Movie Art</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/02/2.jpg?resize=5184%2C3456&#038;ssl=1' alt='2' width='5184' height='3456' /><figcaption>Foto: Brenda Martins</figcaption></figure><p>A contagem regressiva para o Oscar já começou, e os cariocas não poderiam deixar de aproveitá-la da melhor forma. A exibição dos filmes indicados à maior premiação cinematográfica do mundo continuou neste sábado, 24, no Village Mall, com “Em ritmo de Fuga” e “Me chame pelo seu nome”. Os dois filmes tiveram grandes indicações. Principalmente o segundo, que teve o maior público durante o segundo dia de sessão.</p><p>Dirigido pelo italiano Luca Guadagnino, “Me chame pelo seu nome”, teve, entre outras indicações, a maior delas: Melhor Filme. Com a temática LGBT+, o longa conta a história de Ellio, que passava mais um preguiçoso verão na Itália com os pais, até conhecer o pesquisador Oliver. Que veio até o país para ajudar o pai do menino na finalização de um livro. E os dois acabam descobrindo que os belos lugares italianos são ótimos cenários para se viver um grande amor. Enquanto um filme foi totalmente focado no romance, o outro contou com roubos e perseguições.</p><p>“Em ritmo de fuga” teve indicações como: melhor mixagem musical e melhor montagem. Ele conta a história de Baby, um talentoso motorista que trabalha para o grande chefe do crime. Sempre com os fones de ouvido, ele dá um ritmo diferente para suas fugas, silenciando o zumbido que tem desde que sofreu um acidente. Até que conhece Deborah, a doce garçonete que o faz pensar em recomeçar a vida do zero, longe dos assaltos e das armações. E por mais diferentes que fossem as temáticas dos dois filmes, eles animaram a noite dos que foram assisti-los.</p><p>Para o estudante de Design Pedro Paulo, o evento foi muito importante por unir pessoas de vários bairros com um amor em comum: o Cinema. “É muito legal englobar tanta gente, as pessoas vêm de vários lados da cidade para curtir um pouco do festival”, conta. A mostra ao ar livre também contou com música ao vivo e foodtrucks, além da tradicional pipoca. A diversão foi tanta que deixou um gostinho de “quero mais” para o dia seguinte, que também é o último dia de evento.</p><p><strong>Ana Beatriz Bernardo, 5º período</strong></p></main>"
+  },
+  "date": "2018-02-26T13:50:00",
+  "date_gmt": "2018-02-26T16:50:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Em ritmo de fuga e Me chame pelo seu nome são exibidos no segundo dia de Village Movie Art</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1736"
+  },
+  "id": 1736,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-s0",
+  "link": "https://agenciauvabarra.com/2018/02/26/oscar-a-ceu-aberto/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:57:16",
+  "modified_gmt": "2019-01-31T14:57:16",
+  "ping_status": "open",
+  "slug": "oscar-a-ceu-aberto",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Oscar a céu aberto"
+  },
+  "type": "post"
+}

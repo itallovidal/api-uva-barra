@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8606/revisions/8619",
+        "id": 8619
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8606"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8606",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8606/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8606"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8616"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8606",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8606",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8606",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-bastidores",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os bastidores de Castelo de Cartas</em></p><p></p><p>Castelo de Cartas foi a terceira história a fazer parte da temporada 2021 de podcasts ficcionais da Rádio UVA Barra. O distanciamento e a impossibilidade de um encontro ao vivo, por conta da pandemia, não impediu a equipe de desenvolver uma trama que se passa num futuro caótico no Estado do Rio de Janeiro.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/foto-1.jpeg?resize=1123%2C1060&#038;ssl=1' alt='' width='1123' height='1060'><figcaption>Guilherme Da Silva Luz teve que buscar referencias para o processo de edição da poserie. Foto: arquivo pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/foto-2.jpeg?resize=720%2C1280&#038;ssl=1' alt='' width='720' height='1280'><figcaption>Artur Lopes Lavinas atuou na criação da narrativa da série Castelo de Cartas. Foto: arquivo pessoal</figcaption></figure><p>Artur Lopes Lavinas, aluno do 3º período de Jornalismo do campus Barra, fez parte da equipe que idealizou e escreveu a série. O cenário apocalíptico no qual os personagens vivem foi o ponto de partida. Crise econômica, ambiental e política fazem parte dessa história que, apesar de ficcional, tem inspirações na realidade.</p><blockquote><p>É uma história que se passa teoricamente em 2021, num cenário piorado, só que ela poderia ser a nossa realidade. A gente menciona casos gravíssimos: queimadas na Amazônia, apagão no Amapá. Então, esse cenário é ao mesmo tempo distópico e verossímil,</p><cite><em>Artur Lopes Lavinas.</em></cite></blockquote><p>A bagagem em cultura pop adquirida por Guilherme Da Silva Luz, aluno do 7º período de Publicidade e Propaganda no Campus Barra, foi essencial para construir a atmosfera da série. Para ele, o foi um exercício de reunir referências e criar uma narrativa própria.</p><p>Assista o vídeo de Guilherme Da Silva Luz sobre o processo de pós-produção</p><figure><div><span class='embed-youtube' style='text-align:center; display: block;'><iframe loading='lazy' class='youtube-player' width='640' height='360' src='https://www.youtube.com/embed/Aay2G35gMUQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></span></div></figure><p>A série Castelo de Cartas é a terceira da temporada 2021. Na próxima semana, os ouvintes da Rádio UVA Barra vão conhecer a história de A hora do crepúsculo, uma narrativa repleta de fantasia e aventura.</p><p>Ouça agora a podsérie Castelo de cartas:</p><iframe loading='lazy' width='100%' height='450' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1173310993&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500'></iframe><div style='font-size:10px;color:#cccccc;line-break:anywhere;word-break:normal;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-family:Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;font-weight:100;'><a href='https://soundcloud.com/castelodecartas' title='Castelo de Cartas' target='_blank' style='color:#cccccc;text-decoration:none;'>Castelo de Cartas</a> · <a href='https://soundcloud.com/castelodecartas/sets/castelo-de-cartas-temporada' title='Castelo de Cartas - Temporada Completa' target='_blank' style='color:#cccccc;text-decoration:none;'>Castelo de Cartas – Temporada Completa</a></div><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2021-01-30T15:53:54",
+  "date_gmt": "2021-01-30T18:53:54",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os bastidores de “Castelo de Cartas” “Castelo de Cartas” foi a terceira história a fazer parte da temporada 2021 de podcasts ficcionais da Rádio UVA Barra. O distanciamento e a impossibilidade de um encontro ao vivo, por conta da pandemia, não impediu a equipe de desenvolver uma trama que se passa num futuro caótico no Estado [&hellip;]</p>\n"
+  },
+  "featured_media": 8616,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8606"
+  },
+  "id": 8606,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/p3.bast_.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2eO",
+  "link": "https://agenciauvabarra.com/2021/01/30/a-criacao-de-narrativa-ficcional-3/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-01-30T16:12:30",
+  "modified_gmt": "2021-01-30T19:12:30",
+  "ping_status": "open",
+  "slug": "a-criacao-de-narrativa-ficcional-3",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    486623,
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A criação de narrativa ficcional"
+  },
+  "type": "post"
+}

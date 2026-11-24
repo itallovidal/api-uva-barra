@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1330/revisions/3129",
+        "id": 3129
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1330"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1330",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1330/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1330"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1330",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1330",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    3719
+  ],
+  "class_list": [
+    "post-1330",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Escritora Paula Pimenta esteve na Bienal do Livro Rio e conversou com leitores sobre seus trabalhos e futuros projetos</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/img_20170909_182415641.jpg?resize=4160%2C3120&#038;ssl=1' alt='IMG_20170909_182415641' width='4160' height='3120' /><figcaption></figcaption></figure><p>A literatura infanto-juvenil volta a ser destaque na Bienal do Livro Rio. Em seu penúltimo dia, o evento recebeu a escritora Paula Pimenta no espaço “Encontro com Autores”, que aconteceu no Auditório Madureira. No debate, ela detalhou seu processo de criação, respondeu perguntas de fãs e deu dicas para quem quiser começar a escrever.</p><p>Mineira de 42 anos, Paula Pimenta não se diferencia do perfil dos seus leitores: até hoje é fã de romances e de histórias das princesas “Disney”. Esse fator talvez explique seu sucesso no gênero, onde já ultrapassou a marca de 1 milhão de cópias vendidas. Autora das sagas “Fazendo Meu Filme” e “Minha Vida Fora de Série”, ela encontrou muitas dificuldades para tornar seu primeiro livro realidade. “Apenas a terceira editora em que fui aceitou ler e publicar. O segundo (Fazendo Meu Filme) é especial, pois eu escrevi sabendo que seria publicado”, afirma.</p><p>As publicações de Paula estão relacionadas aos elementos do mundo “pop”. Não para menos, seus livros possuem referências a “filmes” e “séries de TV” (palavras que compõe os títulos do livro), seja nas características dos personagens ou nomes de capítulos. Além disso, readaptou histórias das princesas “Disney” para contextos contemporâneos, como em “Cinderela Pop”, adicionando características mais atuais aos personagens. “Eu não quis apenas modernizar. Eu criei as histórias e coloquei os elementos das princesas”.</p><p>O sucesso de suas histórias ultrapassou as fronteiras nacionais. Os livros de Paula Pimenta já estão presentes por toda a América Latina, além de Espanha, Portugal e Itália. “Alguma menina que está lá do outro lado do mundo está lendo meu livro. Eu nunca imaginaria que isso fosse acontecer”, afirma. Para o futuro, ela pretende buscar novos países para continuar o sonho de publicar no exterior, em especial nas nações de língua inglesa, como Reino Unido – terra de sua saga favorita, “Harry Potter”.</p><p>Enquanto isso, a maioria de seus fãs ainda se encontra no Brasil. Com isso, uma multidão composta quase exclusivamente de meninas encheu o espaço destinado ao debate e não poupou perguntas. Uma dessas meninas foi Talita Florencio, estudante de 18 anos, que afirma se sentir identificada com personagens de Paula Pimenta. “Um evento desses cria uma conexão com o autor, não só com os personagens que ele cria”, afirma.</p><p>Para delírio dos fãs, Paula está com muitos planos para o futuro. Pelo menos cinco livros vão ser lançados nos próximos anos, incluindo novas temporadas das sagas e uma princesa não revelada. Além disso, adaptações de suas histórias para o cinema e TV e uma publicação destinada ao público adulto. Diante de tantos projetos, ela espera influenciar o surgimento de novas escritoras, especialmente depois desse debate. “Eu queria um livro que não existia, então eu escrevi. Leia muito e, claro, escreva sobre o que você gosta”.</p><p>Lucas Motta – 5° período.</p></main>"
+  },
+  "date": "2017-09-17T13:09:51",
+  "date_gmt": "2017-09-17T16:09:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Escritora Paula Pimenta esteve na Bienal do Livro Rio e conversou com leitores sobre seus trabalhos e futuros projetos A literatura infanto-juvenil volta a ser destaque na Bienal do Livro Rio. Em seu penúltimo dia, o evento recebeu a escritora Paula Pimenta no espaço “Encontro com Autores”, que aconteceu no Auditório Madureira. No debate, ela [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1330"
+  },
+  "id": 1330,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-ls",
+  "link": "https://agenciauvabarra.com/2017/09/17/fazendo-minha-historia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:03:39",
+  "modified_gmt": "2019-01-31T15:03:39",
+  "ping_status": "open",
+  "slug": "fazendo-minha-historia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Fazendo Minha História"
+  },
+  "type": "post"
+}

@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7925/revisions/7930",
+        "id": 7930
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7925"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7925",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7925/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7925"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7929"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7925",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7925",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    1899315,
+    2367,
+    4753134,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-7925",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-cultura",
+    "category-quarentena",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-dia-do-podcast",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Mercado de Podcasts tem alta nos números de usuários durante o período de isolamento social.</em></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F915069334&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Player de áudio' allow='autoplay' allowfullscreen></iframe><p>Em razão da pandemia do coronavírus, as pessoas passaram a consumir mais as plataformas de áudio em busca de informações aprofundadas e entretenimento.</p><p>Segundo dados divulgados pela VOXNEST em junho deste ano, o Brasil lidera o ranking de países onde a produção de podcasts mais cresceu de janeiro para cá. Houve um aumento de 103% no número de produções internas. E com isso o país se firma como segundo que mais se ouve podcasts no mundo inteiro, atrás apenas dos Estados Unidos.</p><p>Vinícius Antunes, criador dos podcasts “Minuto de Silêncio” e “Gilmar Baltazar: detetive particular”, também conhecido como Cacofonias, acredita que pela incapacidade das grandes mídias de produzirem conteúdo audiovisual, elas se viram na oportunidade de migrarem para a plataforma de podcasts, “a Globo por exemplo, lançou Gilmar Baltazar: Detetive Particular, que é sua primeira dramaturgia em podcast, justamente durante o período de pandemia, por estar com dificuldade de produzir séries.”</p><p>De acordo com um estudo divulgado pela plataforma Deezer, a quarentena também fez com que as pessoas mudassem o horário em que consomem produtos sonoros. Em vez do habitual horário de pico que era das 7h, após o início do isolamento, se alterou para a faixa entre 9h e 10h. Isso indica que as pessoas deixaram de ouvir podcasts no caminho para o trabalho e passaram a ouvir já em home office ou estudando em casa.</p><p><em>Khaio Lopes – 6° período</em></p><p><em>Victor Hugo Serra – 6° período</em></p></main>"
+  },
+  "date": "2020-10-20T19:28:37",
+  "date_gmt": "2020-10-20T22:28:37",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mercado de Podcasts tem alta nos números de usuários durante o período de isolamento social. Rádio UVA Barra · Dia do Podcast &#8211; S02 EP04 Em razão da pandemia do coronavírus, as pessoas passaram a consumir mais as plataformas de áudio em busca de informações aprofundadas e entretenimento. Segundo dados divulgados pela VOXNEST em junho [&hellip;]</p>\n"
+  },
+  "featured_media": 7929,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7925"
+  },
+  "id": 7925,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/12-aub.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-23P",
+  "link": "https://agenciauvabarra.com/2020/10/20/podcast-radio-uva-barra-os-impactos-no-consumo-de-podcast-durante-a-pandemia-s02-ep04/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-20T19:28:37",
+  "modified_gmt": "2020-10-20T22:28:37",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-os-impactos-no-consumo-de-podcast-durante-a-pandemia-s02-ep04",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    285819317,
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra – Os impactos no consumo de podcast durante a pandemia – S02 EP04"
+  },
+  "type": "post"
+}

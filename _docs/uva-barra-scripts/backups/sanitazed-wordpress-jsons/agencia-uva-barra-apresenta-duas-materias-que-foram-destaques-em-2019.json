@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6569/revisions/7655",
+        "id": 7655
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6569"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6569",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6569/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6569"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6574"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6569",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6569",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6569",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Equipe une coberturas mais lidas do ano passado e procura onde estão os participantes de cada projeto</em></p><p>O ano de 2019 consolidou o trabalho da Agência UVA Barra como laboratório experimental de cobertura jornalística de eventos. Ao longo dos dois semestres buscamos pautas e fomos convidados a realizar reportagens do que acontecia na cidade do Rio de Janeiro e dentro do campus Barra. Nossa missão foi cumprida, mas em momento de isolamento social causado pelo novo coronavírus (COVID-19), buscamos trazer um novo olhar sobre as notícias e a própria maneira de fazer e consumir informação.</p><p>Uma revirada nos nossos arquivos apresentou duas matérias mais vistas do ano passado e resolvemos procurar os envolvidos para saber onde e como estão aqueles que organizaram e participaram de cada uma.</p><p><strong>Resgate da Cultura Indígena</strong></p><p>O passeio até a aldeia Pataxó em Paraty (RJ) foi um marco para o curso de Arquitetura e Urbanismo. Alunos de várias faculdades fizeram uma visita técnica na terceira edição do projeto <a href=\"https://agenciauvabarra.com/2019/03/27/resgate-da-cultura-indigena/\">“Arquitetura indígena: tradição e intercâmbio cultural”</a>, ação criada pelo professor da UVA, Igor de Vetyemy, então Diretor da Associação Brasileira de Ensino de Arquitetura e atual Presidente do Instituto de Arquitetos do Brasil (IAB-RJ). Na aldeia, os estudantes tiveram experiências do processo de construção das ocas e também aprenderam sobre a cultura da tribo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-01-at-12.37.31.jpeg?resize=481%2C481&amp;ssl=1\" alt=\"\" width=\"481\" height=\"481\" /><figcaption>Professor Igor de Vetyemy no passeio do projeto &#8220;Arquitetura indígena: tradição e intercâmbio cultural&#8221;  &#8211; Foto: Arquivo Pessoal</figcaption></figure><p>Em entrevista à Agência UVA Barra, o professor afirma que após o fim do isolamento social quer dar continuidade às viagens até a aldeia. Igor confirma que a experiência é importante para vida acadêmica e pessoal, pois a nossa sociedade voltou a buscar processos sustentáveis e os povos indígenas já utilizam há séculos. “Os materiais e técnicas construtivas que permitem que suas moradias façam um controle da umidade e temperatura do ambiente sem aporte de energia, apenas com barro e telhado de sapê”.</p><p>Com boas lembranças, Igor fala que o projeto já levou mais de 200 alunos nas edições anteriores e a próxima já está marcada para os dias 9 e 10 de setembro &#8211; sujeito a mudança dependendo das recomendações do governo e autoridades sanitárias. As inscrições estão abertas no site: <a href=\"http://www.iabcompartilha.com\">www.iabcompartilha.com</a>.</p><p>Confira o vídeo do professor Igor contando sua melhor memória da experiência:</p><figure><iframe src=\"https://www.youtube.com/embed/EyBLOBVVTC8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Curso de Nutrição promove saúde em ambiente acadêmico</strong></p><p>A atividade <a href=\"https://agenciauvabarra.com/2019/04/27/curso-de-nutricao-promove-saude-no-ambiente-academico/\">“Nutrição em Movimento”</a>, produzida pelo Núcleo de Alunos em Saúde Coletiva (NASC), foi um evento aberto para todos que estavam na UVA campus Barra em abril de 2019. O programa tinha como objetivo mostrar, de forma prática, a importância de ser saudável.</p><p>A organizadora do evento e professora e coordenadora do núcleo, Cinara Oliveira, conta que os projetos do NASC estão andamento, mesmo com a quarentena. Em colaboração com as alunas do curso e a professora Daniela Viana, foi escrito o E-book sobre Alimentação, Nutrição e Saúde em tempos de COVID-19 que será publicado em breve. Outro trabalho em andamento é a conclusão do Projeto de Extensão que vai levar os acadêmicos de Nutrição para atuar em Angola, o Nutrindo a Angola &#8211; com o objetivo de levar a inclusão e integração dos Objetivos de Desenvolvimento Sustentável da ONU ao país africano.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-04-30-at-13.27.09-e1588390430630.jpeg?resize=488%2C418&amp;ssl=1\" alt=\"\" width=\"488\" height=\"418\" /><figcaption>Professora Cinara Oliveira trabalha nos projetos do NASC durante a quarentena &#8211; Foto: Arquivo Pessoal</figcaption></figure><p>A aluna do 7º período de Nutrição e participante do NASC, Ludmila Torquetti, diz que sente falta das aulas práticas que agregam para sua futura vida profissional. Durante o isolamento, a estudante conta que tenta continuar sua rotina normal de estudos e na produção do projeto Nutrindo a Angola.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-04-30-at-16.48.22-e1588390553686.jpeg?resize=491%2C276&amp;ssl=1\" alt=\"\" width=\"491\" height=\"276\" /><figcaption>Aluna Ludmila Torquetti palestra sobre nutrição &#8211; Foto: Arquivo Pessoal</figcaption></figure><p>Confira o áudio da aluna Ludmila contando um pouco mais sobre Nutrindo a Angola:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F811593157&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Áudio incorporado\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe><p>Os eventos de saúde continuarão quando as atividades acadêmicas tiveram a autorização de voltar à normalidade. “Os projetos são muito importantes, uma vez que cooperam em promover saúde no ambiente acadêmico com os universitários de Nutrição atuando na área”, finaliza a professora Cinara.</p><p><strong>Isabella Lutz &#8211; 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-02T09:01:37",
+  "date_gmt": "2020-05-02T12:01:37",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Equipe une coberturas mais lidas do ano passado e procura onde estão os participantes de cada projeto O ano de 2019 consolidou o trabalho da Agência UVA Barra como laboratório experimental de cobertura jornalística de eventos. Ao longo dos dois semestres buscamos pautas e fomos convidados a realizar reportagens do que acontecia na cidade do [&hellip;]</p>\n"
+  },
+  "featured_media": 6574,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6569"
+  },
+  "id": 6569,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-01-at-12.37.31.jpeg?fit=1280%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1HX",
+  "link": "https://agenciauvabarra.com/2020/05/02/agencia-uva-barra-apresenta-duas-materias-que-foram-destaques-em-2019/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-03T23:23:38",
+  "modified_gmt": "2020-05-04T02:23:38",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-apresenta-duas-materias-que-foram-destaques-em-2019",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra apresenta duas matérias que foram destaques em 2019"
+  },
+  "type": "post"
+}

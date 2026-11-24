@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8053/revisions/8093",
+        "id": 8093
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8053"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8053",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 14,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8053/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8053"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8057"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8053",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8053",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    1899315,
+    7114,
+    14591
+  ],
+  "class_list": [
+    "post-8053",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-sociedade",
+    "category-trabalho",
+    "tag-home-office"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Ambiente que o trabalho é realizado e relação familiar contribuem para o desgaste emocional</em></p><p>O home office tornou-se permanente para boa parte dos trabalhadores na pandemia. Além das inovações tecnológicas e possiblidade de continuar os afazeres, ele trouxe efeitos colaterais que intervieram na rotina profissional, sendo um deles, o estresse. Fora a preocupação com a crise sanitária, a transição do presencial ao on-line teve que conciliar a mudança do cotidiano domiciliar a partir do isolamento social, o que acabou exigindo um equilíbrio mental dos empregados.</p><p>No Brasil, o estresse é um dos responsáveis por mais de 130 milhões de infartos de acordo com o Ministério da Saúde. O trabalho influencia nessa estatística, tendo em vista que o acúmulo do cansaço, desconforto mental e frustração profissional corrobora para tal cenário. Embora o home office aparente ser menos cansativo devido à ausência da mobilidade urbana, para Ondina Maria Alves, professora da graduação de Psicologia da UVA, trabalhar em casa pode acarretar uma série de problemas se a preparação for incorreta. “Caso não tenha um ambiente adequado para trabalhar, isso pode se agregar a uma situação de estresse. Uma pessoa estressada produz menos, dorme mal, começa a ter problemas digestivos”, afirma.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-lucas.jpeg?resize=854%2C1280&amp;ssl=1' alt='' width='854' height='1280' /><figcaption>Lucas de Oliveira já estava acostumado a trabalhar como fotógrafo em home office. Como montou o cenário e recebeu os equipamentos no domicílio, não foi necessário sair de casa durante a quarentena – Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-ana.jpeg?resize=1280%2C958&amp;ssl=1' alt='' width='1280' height='958' /><figcaption>Para conter o transtorno durante o home office, Ana Vasconcellos improvisou um escritório em casa e preservou o trabalho ao impossibilitar a interferência familiar – Foto: Arquivo Pessoal</figcaption></figure><iframe src='https://www.youtube.com/embed/FSTdWs4KT9s?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen></iframe><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F920476834&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500' width='100%' height='166' title='Player do SoundCloud' allowfullscreen></iframe><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-luciana.jpeg?resize=960%2C1280&amp;ssl=1' alt='' width='960' height='1280' /><figcaption>Nos fins de semana, Luciana Bastos fica mais próxima da filha, Rafaela, por estar livre do compromisso profissional. Ambas já pegaram a Covid-19 e tomam as medidas sanitárias para evitar uma possível reinfecção – Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-filha-1.jpeg?resize=960%2C1280&amp;ssl=1' alt='' width='960' height='1280' /><figcaption> Ao mesmo tempo que Luciana precisou focar no trabalho virtual, ela tinha que dar atenção à filha, Rafaela, com as tarefas on-line da escola – Foto: Arquivo Pessoal</figcaption></figure><p>As restrições sociais impostas pelo novo coronavírus também afetaram a saúde mental da jornalista Luciana Bastos enquanto fazia a atividade profissional em casa. “Não fiquei estressada com o home office em si, mas com a pandemia e tudo que ela envolve. Esse pânico de pegar a doença e não ter segurança ao sair foram me deixando abalada psicologicamente no trabalho”, declara. Ela, inclusive, contraiu a doença junto à filha, irmã e padrasto. Ondina fala que é vital o diálogo e a disciplina no confinamento social, senão, a irritabilidade, por trabalhar demais e dormir pouco, prejudica o desempenho profissional.</p><p>Por ser mãe, Luciana necessitou ajustar a profissão com a escola da filha, sendo os primeiros 4 meses de isolamento um choque de realidade. “Mesmo trabalhando, não queria deixar de dar atenção a minha filha. Era bem complicado conciliar as reuniões remotas com a escola. Tive sorte que ela pôde brincar com a vizinha pela varanda”, lembra. Segundo Ondina, o relacionamento parental é peça-chave na prevenção do desequilíbrio mental durante o home office. “Para evitar o estresse no home office, é preciso organização, estrutura e procurar uma rotina que todos ao redor possam cumprir. Uma mãe, por exemplo, que não tem controle do(a) filho(a) vai viver eternamente estressada”, garante.</p><p><em>Lucas Ribeiro – 4° período</em></p></main>"
+  },
+  "date": "2020-10-30T16:38:15",
+  "date_gmt": "2020-10-30T19:38:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ambiente que o trabalho é realizado e relação familiar contribuem para o desgaste emocional O home office tornou-se permanente para boa parte dos trabalhadores na pandemia. Além das inovações tecnológicas e possiblidade de continuar os afazeres, ele trouxe efeitos colaterais que interviram na rotina profissional, sendo um deles, o estresse. Fora a preocupação com a [&hellip;]</p>\n"
+  },
+  "featured_media": 8057,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8053"
+  },
+  "id": 8053,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-lucas.jpeg?fit=854%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-25T",
+  "link": "https://agenciauvabarra.com/2020/10/30/pandemia-facilita-estresse-no-home-office/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-11-03T11:07:32",
+  "modified_gmt": "2020-11-03T14:07:32",
+  "ping_status": "open",
+  "slug": "pandemia-facilita-estresse-no-home-office",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    25322
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Pandemia facilita estresse no home office"
+  },
+  "type": "post"
+}

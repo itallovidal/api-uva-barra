@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7263/revisions/7282",
+        "id": 7282
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7263"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7263",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 14,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7263/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7263"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7271"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7263",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7263",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-7263",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "tag-agencia-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Um retrato da desigualdade de gênero no mundo jornalístico</em></p><p>Assista ao videojornalismo: “As Mulheres em Cargos de Liderança nos Meios de Comunicação</p><figure><iframe src='https://www.youtube.com/embed/OeJgT5ggmNY?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p>Segundo dados do IBGE (Instituto Brasileiro de Geografia e Estatística), no Brasil a parcela feminina ultrapassa a masculina, contabilizando um total de 51,7% de mulheres e 48,3% de homens. Entretanto, em termos de “mercado de trabalho”, a regra não se aplica na mesma proporção, e nos meios de comunicação a disparidade é maior ainda.</p><p>Desta parcela feminina, a porcentagem de mulheres que possuem vinte e cinco anos ou mais e que concluíram ensino superior somam 33,9%, já a dos homens, apenas 27,7%. Os dados apontam que mulheres possuem maior grau de escolaridade e, no entanto, não desfrutam das mesmas oportunidades e direitos.</p><p>Segundos dados divulgados em 2019 pela Workr (Plataforma de comunicação corporativa desenvolvida pelo Comunique-se), nos setores de comunicação do país a presença feminina representa menos da metade, cerca de 15 mil mulheres atuantes, o que equivale a somente 36,98% do mercado. E nos cargos de liderança os números são mais díspares, cerca de 32,18% nestes postos.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/07/whatsapp-image-2020-06-29-at-19.02.37.jpeg?resize=1024%2C768&ssl=1' alt='Infográfico: Gabrielle Lopes' width='1024' height='768' /><figcaption>Infográfico: Gabrielle Lopes</figcaption></figure><p><strong>Preconceitos com a liderança feminina</strong></p><p>A jornalista Carla Alves revela que é necessário seriedade para lidar com eventuais piadas na redação do Jornal O Dia, onde é Diretora. “Eu sou a única mulher em cargo de chefia. É preciso ter jogo de cintura para pontuar quando aquilo se excedeu. Só quando nos colocamos, que os homens percebem o que tem de ruim nisso”. A diretora garante que nunca foi desrespeitada no ambiente de trabalho. Já a jornalista Daniela Christoffer relata alguns problemas com a figura de liderança. “Fui chefe de reportagem na Band durante um ano e meio e tive muitos problemas com os homens de redação por sugerir e não ser acatada”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/07/carla.jpg?resize=760%2C500&ssl=1' alt='A diretora de redação do Jornal o Dia, Carla Alvez, diz ser necessário ter um jogo de cintura para pontuar algo que passou dos limites' width='760' height='500' /><figcaption>A diretora de redação do Jornal o Dia, Carla Alvez, diz ser necessário ter um jogo de cintura para pontuar algo que passou dos limites – Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/07/dani.jpeg?resize=1024%2C768&ssl=1' alt='Daniela Christoffer, jornalista esportiva, afirma que já teve problemas com colegas de trabalhos por ser mulher' width='1024' height='768' /><figcaption>Daniela Christoffer, jornalista esportiva, afirma que já teve problemas com colegas de trabalhos por ser mulher – Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/07/whatsapp-image-2020-06-29-at-17.28.49.jpeg?resize=720%2C718&ssl=1' alt='Ana Paula explica que os fatores históricos são as causas da desigualdade de gênero no mercado de trabalho' width='720' height='718' /><figcaption>Ana Paula explica que os fatores históricos são as causas da desigualdade de gênero no mercado de trabalho – Foto: Arquivo Pessoal</figcaption></figure><p>A psicóloga organizacional, Ana Paula Ribeiro, explica que as causas da desigualdade de gênero no mercado, se dão devido a fatores históricos previamente estabelecidos. “Historicamente éramos uma sociedade patriarcal, a mulher lutava muito e não era bem vista quando saía de casa para trabalhar. Só que agora estamos no século XXI, então acho que todo esse fator histórico já está bem explicado e como nós ainda temos essa questão?”</p><p><strong>Gabrielle Lopes – 5º Período | jornalismo</strong> ………… <strong>Julia Santos – 5º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-07-13T16:14:12",
+  "date_gmt": "2020-07-13T19:14:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um retrato da desigualdade de gênero no mundo jornalístico Assista ao videojornalismo: “As Mulheres em Cargos de Liderança nos Meios de Comunicação . Segundo dados do IBGE (Instituto Brasileiro de Geografia e Estatística), no Brasil a parcela feminina ultrapassa a masculina, contabilizando um total de 51,7% de mulheres e 48,3% de homens. Entretanto, em termos [&hellip;]</p>\n"
+  },
+  "featured_media": 7271,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7263"
+  },
+  "id": 7263,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/07/dani.jpeg?fit=1024%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1T9",
+  "link": "https://agenciauvabarra.com/2020/07/13/lideranca-feminina-nos-meios-de-comunicacao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-07-13T16:49:59",
+  "modified_gmt": "2020-07-13T19:49:59",
+  "ping_status": "open",
+  "slug": "lideranca-feminina-nos-meios-de-comunicacao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Liderança feminina nos meios de comunicação"
+  },
+  "type": "post"
+}

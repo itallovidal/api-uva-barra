@@ -1,0 +1,170 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14342/revisions/14349",
+        "id": 14349
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14342"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14342",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14342/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14342"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14342",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14342",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    11716206,
+    7442,
+    2366
+  ],
+  "class_list": [
+    "post-14342",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cultura",
+    "category-economia-2",
+    "category-empreendedorismo",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-aumento",
+    "tag-inflacao",
+    "tag-ovo",
+    "tag-pascoa",
+    "tag-preco"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Ovos de chocolate subiram 12% do ano passado para 2023</em></p><p>O domingo de Páscoa é conhecido pela troca de chocolates, especialmente os ovos, entre familiares e amigos, principalmente para as crianças. O simbolismo do ovo é antigo, diz a tradição que o ovo é símbolo da fertilidade e da renovação da vida. Entretanto, um grande número de consumidores está sendo “pressionado” a optar por chocolates mais baratos e mais acessíveis, devido a um aumento nos preços. De acordo com o Índice de Preços ao Consumidor da Fundação Getúlio Vargas, o preço dos ovos de chocolate aumentou em 12% nos últimos 12 meses.</p><p>Segundo a pesquisa da Fundação Getúlio Vargas, apenas 10% dos consumidores optam pelo tradicional ovo de páscoa, apesar da procura cada vez menor, o preço só aumenta.</p><p>Fernando Baptista, economista, explica o porquê da crescente do preço mesmo com menos demanda. “Perto da Páscoa, quem comercializa o produto aumenta seu preço para extrair mais renda da sociedade. Eles preferem vender uma menor quantidade por um preço mais elevado”.</p><p>Para o economista, cada vez mais as pessoas vão comprar o ovo perto da Páscoa e isso faz a demanda aumentar o preço. “A sazonalidade do consumo do produto faz o preço subir”, diz Fernando.</p><p><br></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/whatsapp-image-2023-04-06-at-16.18.23-1.jpeg?resize=640%2C640&amp;ssl=1\" alt=\"\" width=\"640\" height=\"640\"><figcaption>O economista Fernando Baptista diz que as empresas vendem menos ovos, mas ainda preferem o preço alto, já que é um produto de sazonalidade. (Foto: Arquivo pessoal)</figcaption></figure><p>A empregada Andrelucia da Cruz entende que presentear com os ovos tem muito a ver com religião, mas esse ano teve que deixar de comprar por conta da alta dos valores. “Dar esses ovos pras crianças é uma coisa que não pode faltar, mas hoje em dia a gente não tem como fazer isso por causa do preço”, relata Andrelucia</p><p>Uma parte da população está buscando alternativas para presentear com chocolates menores e mais baratos. “Na nossa tradição a gente não pode ficar sem comer e dar o chocolate, então passamos a dar caixas de bombom e barras de chocolates”, explica Andrelucia.</p><p>Ainda que com o bolso apertado, existem pessoas que levam os ovos de páscoa com um certo valor afetivo para suas casas. Karen Nunes, professora de educação física, optou por comprar ovos somente para presente, e não para consumo próprio. “Os ovos são uma coisa muito simbólica, comprei só pra dar de presente. Pra mim mesmo não cheguei a comprar nenhum chocolate”, diz Karen</p><p><em>Matheus Moraes – 3º Período<br>Victor Martins – 3º Período</em></p></main>"
+  },
+  "date": "2023-04-06T11:17:48",
+  "date_gmt": "2023-04-06T14:17:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O domingo de Páscoa é conhecido pela troca de chocolates, especialmente os ovos, entre familiares e amigos, principalmente para as crianças. O simbolismo do ovo é antigo, diz a tradição que o ovo é símbolo da fertilidade e da renovação da vida. Entretanto, um grande número de consumidores está sendo “pressionado” a optar por chocolates mais baratos e mais acessíveis, devido a um aumento nos preços. De acordo com o Índice de Preços ao Consumidor da Fundação Getúlio Vargas, o preço dos ovos de chocolate aumentou em 12% nos últimos 12 meses.</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14342"
+  },
+  "id": 14342,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Jk",
+  "link": "https://agenciauvabarra.com/2023/04/06/consumidores-buscam-alternativas-para-presentear-na-pascoa/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-04-10T11:54:46",
+  "modified_gmt": "2023-04-10T14:54:46",
+  "ping_status": "open",
+  "slug": "consumidores-buscam-alternativas-para-presentear-na-pascoa",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    941295,
+    213945,
+    440456,
+    902875,
+    617693
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Consumidores buscam alternativas para presentear na Páscoa"
+  },
+  "type": "post"
+}

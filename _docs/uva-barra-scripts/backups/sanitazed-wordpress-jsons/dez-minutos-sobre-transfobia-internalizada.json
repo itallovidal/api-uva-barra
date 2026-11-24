@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21466/revisions/21541",
+        "id": 21541
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21466"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21466",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21466/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21466"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21468"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21466",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21466",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-21466",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Mais um episódio de 10 Minutos Sobre no ar!</p><p>Mostramos como a transfobia se dá no cotidiano, na exclusão social, na dificuldade de acesso a direitos básicos e no impacto direto sobre a saúde mental das pessoas trans.</p><p>Na entrevista, a psicóloga Raquel analisou como a transfobia internalizada afeta a autoestima, a sensação de pertencimento e a expectativa de futuro. Durante a conversa, ela destacou o papel da psicologia, das redes de apoio e das políticas públicas na construção de dignidade e cuidado.</p><p>Quer entender sobre resistência e saúde mental? Então sintonize agora na Rádio UVA Barra!</p><figure><img src='https://www.instagram.com/reel/DUA-cYbCR-a/' alt='Post do Instagram' width='500' height='500'><figcaption>View this post on Instagram</figcaption></figure><p>Créditos:<br>Produção: Isabela Matos e Eduarda Kneipp<br>Coordenação da Rádio UVA Barra: Professor Anderson Barreto<br>Coordenação do Curso de Jornalismo: Professora Renata Feita</p></main>"
+  },
+  "date": "2026-01-27T13:09:55",
+  "date_gmt": "2026-01-27T16:09:55",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mais um episódio de 10 Minutos Sobre no ar! Mostramos como a transfobia se dá no cotidiano, na exclusão social, na dificuldade de acesso a direitos básicos e no impacto direto sobre a saúde mental das pessoas trans. Na entrevista, a psicóloga Raquel analisou como a transfobia internalizada afeta a autoestima, a sensação de pertencimento [&hellip;]</p>\n"
+  },
+  "featured_media": 21468,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21466"
+  },
+  "id": 21466,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-06-131117.png?fit=585%2C589&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5Ae",
+  "link": "https://agenciauvabarra.com/2026/01/27/dez-minutos-sobre-transfobia-internalizada/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAMmeWJ8hvuhtrbGuYCnAKGNIIR9kFCsAFCsAVCmAlCogNYJq4nWD5CqgFCqgFC0gO8BRwIBhQFAAcAFAwODAIGAwASBBAEAhoVAT4GCAQMlAGEARQWBhAEyk86ARBUuAEIIOABpAEBAQgCQgECSACuAQEBCAJCAQJIAK4FAQEIAkIBAkgAlgkBAQgCQgECSACKAwEBCAEDSAIEAgEE5haYM/ocvCcBAQgBA0gCCEo8AQEIAkIBAkgAqAEBAQgCQgECSACoAQEBCAJCAQJI4EJypgECnD24BhoCBQECEgMDBAIEAhICCAQCCgIKAwAEAwUIAwEFAAMFBAYCCAMBEgIKBQACEgISAhICEgQGBQADAAoDAQQcGgISAh4CIgIQBBQCBAMBCAQDAAbSTyyINLgRHAgGFAUABwAUDA4MAgYDABIEEAQCGhUBPgYIBAyUAYQBFBYGEATKT58DKADEAKgBKACoACgAqAAoAKgAKACoACgAqAEoAKgAKACoACgAqAAoA4QAxCUhAicAAQAnASgAIQAoBCcAKBIhAScARACEAIEAhACBAAcAIQAoAScBBAAoBCcAhwAhACgBJwEEACgEJwCHACEAKAEnAQQAKAQnAIcAIQAoAScBBAAoBCcAhwAhACgAIQAnACEFJwChAKgAJwAoAyEAKAAEAIQAhwAhACgBJwEoBCcAoQAEAIcAIQAoAScBBAAoBCcAhwAhACgBJwEEACgEJwCHACEAKAEnAQQAKAQnAKgCoQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhAGBAIQAgQCEAYEAhAKBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAoEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhAGBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAqN4k3SJzdGF0ZXZlcnNpb25hbXA7b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50b3JpZ2luYWxDb250ZW50ZG9jdW1lbnRzbHVnc3RhdGVzYXZlZEF0c3RhdGVzYXZlZEJ5Q3LDqWRpdG9zOjxicj5Qcm9kdcOnw6NvOiBJc2FiZWxhIE1hdG9zIGUgRWR1YXJkYSBLbmVpcHA8YnI+Q29vcmRlbmHDp8OjbyBkYSBSw6FkaW8gVVZBIEJhcnJhOiBQcm9mZXNzb3IgQW5kZXJzb24gQmFycmV0bzxicj5Db29yZGVuYcOnw6NvIGRvIEN1cnNvIGRlIEpvcm5hbGlzbW86IFByb2Zlc3NvcmEgUmVuYXRhIEZlaXRhQ8OpZGl0b3NiclByb2R1w6fDo28gSXNiZWwgTXRvc2VFZHVkS25laXA8YnJDb29yZW7Dp8Ojb2RhIFLDoWRVVkFCYXJyYTpmZXNzckFubkJldG9ib25hw6fDo2RvQ3VzUGZzcmFSdGEgRmV0YXN0YXRldmVyc2lvbmRvY3VtZW50ZGF0ZWRvY3VtZW50c3RhdHVzZG9jdW1lbnR0aXRsZWRvY3VtZW50Y29udGVudGRvY3VtZW50ZXhjZXJwdGRvY3VtZW50YXV0aG9yZG9jdW1lbnRmZWF0dXJlZF9tZWRpYWRvY3VtZW50Y29tbWVudF9zdGF0dXNkb2N1bWVudHBpbmdfc3RhdHVzZG9jdW1lbnRzdGlja3lkb2N1bWVudHRlbXBsYXRlZG9jdW1lbnRmb3JtYXRkb2N1bWVudG1ldGFhZHZhbmNlZF9zZW9fZGVzY3JpcHRpb25qZXRwYWNrX3Nlb19odG1sX3RpdGxlamV0cGFja19zZW9fbm9pbmRleF9jb2Jsb2Nrc19hdHRyX2NvYmxvY2tzX2RpbWVuc2lvbnNfY29ibG9ja3NfcmVzcG9uc2l2ZV9oZWlnaHRfY29ibG9ja3NfYWNjb3JkaW9uX2llX3N1cHBvcnRqZXRwYWNrX3Bvc3Rfd2FzX2V2ZXJfcHVibGlzaGVkcmVhZGVyX3N1Z2dlc3RlZF90YWdzX2pldHBhY2tfbmV3c2xldHRlcl9hY2Nlc3NfamV0cGFja19kb250X2VtYWlsX3Bvc3RfdG9fc3Vic19qZXRwYWNrX25ld3NsZXR0ZXJfdGllcl9pZF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BheXdhbGxlZF9jb250ZW50X2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGFpZF9jb250ZW50Zm9vdG5vdGVzamV0cGFja19wdWJsaWNpemVfbWVzc2FnZWpldHBhY2tfcHVibGljaXplX2ZlYXR1cmVfZW5hYmxlZGpldHBhY2tfc29jaWFsX3Bvc3RfYWxyZWFkeV9zaGFyZWRqZXRwYWNrX3NvY2lhbF9vcHRpb25zZG9jdW1lbnRjYXRlZ29yaWVzZG9jdW1lbnR0YWdzZG9jdW1lbnRibG9ja3NEZXogbWludXRvcyBzb2JyZSAtIFRyYW5zZm9iaWEgSW50ZXJuYWxpemFkYWNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudE1haXMgdW0gZXBpc8OzZGlvIGRlIDEwIE1pbnV0b3MgU29icmUgbm8gYXIhZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRNb3N0cmFtb3MgY29tbyBhIHRyYW5zZm9iaWEgc2UgZMOhIG5vIGNvdGlkaWFubywgbmEgZXhjbHVzw6NvIHNvY2lhbCwgbmEgZGlmaWN1bGRhZGUgZGUgYWNlc3NvIGEgZGlyZWl0b3MgYsOhc2ljb3MgZSBubyBpbXBhY3RvIGRpcmV0byBzb2JyZSBhIHNhw7pkZSBtZW50YWwgZGFzIHBlc3NvYXMgdHJhbnMuZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnROYSBlbnRyZXZpc3RhLCBhIHBzaWPDs2xvZ2EgUmFxdWVsIGFuYWxpc291IGNvbW8gYSB0cmFuc2ZvYmlhIGludGVybmFsaXphZGEgYWZldGEgYSBhdXRvZXN0aW1hLCBhIHNlbnNhw6fDo28gZGUgcGVydGVuY2ltZW50byBlIGEgZXhwZWN0YXRpdmEgZGUgZnV0dXJvLiBEdXJhbnRlIGEgY29udmVyc2EsIGVsYSBkZXN0YWNvdSBvIHBhcGVsIGRhIHBzaWNvbG9naWEsIGRhcyByZWRlcyBkZSBhcG9pbyBlIGRhcyBwb2zDrXRpY2FzIHDDumJsaWNhcyBuYSBjb25zdHJ1w6fDo28gZGUgZGlnbmlkYWRlIGUgY3VpZGFkby5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudFF1ZXIgZW50ZW5kZXIgc29icmUgcmVzaXN0w6puY2lhIGUgc2HDumRlIG1lbnRhbD8gRW50w6NvIHNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhIWRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjYXB0aW9ucHJvdmlkZXJOYW1lU2x1Z2FsbG93UmVzcG9uc2l2ZXJlc3BvbnNpdmVwcmV2aWV3YWJsZXVybHR5cGU8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+TWFpcyB1bSBlcGlzw7NkaW8gZGUgMTAgTWludXRvcyBTb2JyZSBubyBhciE8L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5Nb3N0cmFtb3MgY29tbyBhIHRyYW5zZm9iaWEgc2UgZMOhIG5vIGNvdGlkaWFubywgbmEgZXhjbHVzw6NvIHNvY2lhbCwgbmEgZGlmaWN1bGRhZGUgZGUgYWNlc3NvIGEgZGlyZWl0b3MgYsOhc2ljb3MgZSBubyBpbXBhY3RvIGRpcmV0byBzb2JyZSBhIHNhw7pkZSBtZW50YWwgZGFzIHBlc3NvYXMgdHJhbnMuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+TmEgZW50cmV2aXN0YSwgYSBwc2ljw7Nsb2dhIFJhcXVlbCBhbmFsaXNvdSBjb21vIGEgdHJhbnNmb2JpYSBpbnRlcm5hbGl6YWRhIGFmZXRhIGEgYXV0b2VzdGltYSwgYSBzZW5zYcOnw6NvIGRlIHBlcnRlbmNpbWVudG8gZSBhIGV4cGVjdGF0aXZhIGRlIGZ1dHVyby4gRHVyYW50ZSBhIGNvbnZlcnNhLCBlbGEgZGVzdGFjb3UgbyBwYXBlbCBkYSBwc2ljb2xvZ2lhLCBkYXMgcmVkZXMgZGUgYXBvaW8gZSBkYXMgcG9sw610aWNhcyBww7pibGljYXMgbmEgY29uc3RydcOnw6NvIGRlIGRpZ25pZGFkZSBlIGN1aWRhZG8uPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+UXVlciBlbnRlbmRlciBzb2JyZSByZXNpc3TDqm5jaWEgZSBzYcO6ZGUgbWVudGFsPyBFbnTDo28gc2ludG9uaXplIGFnb3JhIG5hIFLDoWRpbyBVVkEgQmFycmEhPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOmVtYmVkIHsidXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RVQS1jWWJDUi1hLz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmtcdTAwMjZpZ3NoPU16UmxPREJpTldGbFpBPT0iLCJ0eXBlIjoicmljaCIsInByb3ZpZGVyTmFtZVNsdWciOiJpbnN0YWdyYW0iLCJyZXNwb25zaXZlIjp0cnVlfSAtLT4KPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2stZW1iZWQgaXMtdHlwZS1yaWNoIGlzLXByb3ZpZGVyLWluc3RhZ3JhbSB3cC1ibG9jay1lbWJlZC1pbnN0YWdyYW0iPjxkaXYgY2xhc3M9IndwLWJsb2NrLWVtYmVkX193cmFwcGVyIj4KaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RVQS1jWWJDUi1hLz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmYW1wO2lnc2g9TXpSbE9EQmlOV0ZsWkE9PQo8L2Rpdj48L2ZpZ3VyZT4KPCEtLSAvd3A6ZW1iZWQgLS0+Y2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NFcXVpcGUgVVZBIEJhcnJhOmNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudER1ZGEgTmljb2xpY2ggLSAzwrogUGVyw61vZG8gZGUgSm9ybmFsaXNtb2Ryb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50TWFsdSBDb3JkZWlybyAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRDYXJvbGluYSBBbHZlcyAtIDXCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3MKCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5yOjw+OmFhYSAgYXJhIHA+ZGEgaW8gICBQcm9vIGRlcnNvIGFycjxyPkNvcmRlbyAgcm8gZGUgSm9ybmFsaXNtbzogcm9lc28gZW5haTwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgUHBE8HCAQFBwUHsgIBBgIIQwACAwEDAUQBAgMGAwYEAQJBAANBAARCAEECAgEFAgUHCAQIBggFCAcIBwgGCA4IDggLCAZIAQYIBBgWEw4UGx4fFRogGy8qCRkhIhYICggECAYBGxAIBwQKBysHCg0PDAsIBwQKB6sCBwoNDwwLCAcECgefBAcKDQ8MCwgHBAoHmQEHCg0PDAsIBwQKRwAKDQ8MCwcQDwoLAwSJDqAFCAcECkcACg0PDAsRCAcECgcoBwoNDwwLCAcECgcoBwoNDwwLCAcECgcpBwoNDwwLGwECQQUCQQkCQQICQQICQQICAwJBAQ5BAgJBAQIBGw8BAAAIAQYAAAEJABIBAgAoQgEBAEEAAgBBAAIAQQACAEEAAgBBAAACQQACAEEAAgBBAAIAQQACADZBGRNBGgRBVAMNQgAJQQBCAAkERQACQQAEAQJBAQMEAQkFAkkCAgEFAQINCQ8RCAoCAQQBAwECQAB9AXUDfZnMmOoEfay+lwV9hvPpuAF3JDYzOTllYjI0LWViMTItNGNjNS05ZDM3LTAxOTczMWNkNjBmOXczPHA+TWFpcyB1bSBlcGlzw7NkaW8gZGUgMTAgTWludXRvcyBTb2JyZSBubyBhciE8L3A+dyQ0Y2ZiYjc4OC1jNDViLTQ2MjEtYWQ2YS03OWU4MmZhNmYwOWZ3tgE8cD5Nb3N0cmFtb3MgY29tbyBhIHRyYW5zZm9iaWEgc2UgZMOhIG5vIGNvdGlkaWFubywgbmEgZXhjbHVzw6NvIHNvY2lhbCwgbmEgZGlmaWN1bGRhZGUgZGUgYWNlc3NvIGEgZGlyZWl0b3MgYsOhc2ljb3MgZSBubyBpbXBhY3RvIGRpcmV0byBzb2JyZSBhIHNhw7pkZSBtZW50YWwgZGFzIHBlc3NvYXMgdHJhbnMuPC9wPnckNWFlNmFiNmItZTQyYi00MWY4LTgyOTctN2I4N2IzNjI5ODFhd60CPHA+TmEgZW50cmV2aXN0YSwgYSBwc2ljw7Nsb2dhIFJhcXVlbCBhbmFsaXNvdSBjb21vIGEgdHJhbnNmb2JpYSBpbnRlcm5hbGl6YWRhIGFmZXRhIGEgYXV0b2VzdGltYSwgYSBzZW5zYcOnw6NvIGRlIHBlcnRlbmNpbWVudG8gZSBhIGV4cGVjdGF0aXZhIGRlIGZ1dHVyby4gRHVyYW50ZSBhIGNvbnZlcnNhLCBlbGEgZGVzdGFjb3UgbyBwYXBlbCBkYSBwc2ljb2xvZ2lhLCBkYXMgcmVkZXMgZGUgYXBvaW8gZSBkYXMgcG9sw610aWNhcyBww7pibGljYXMgbmEgY29uc3RydcOnw6NvIGRlIGRpZ25pZGFkZSBlIGN1aWRhZG8uPC9wPnckNGExY2U5OGYtY2ZiYS00MDY4LTk5NjktYzQyYjIyNWM2Njgyd2Q8cD5RdWVyIGVudGVuZGVyIHNvYnJlIHJlc2lzdMOqbmNpYSBlIHNhw7pkZSBtZW50YWw/IEVudMOjbyBzaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSE8L3A+dyQxM2YzZjVhMC1hYzg4LTRmMjktODJhOS1kZDc1NTBmMTcyOGJ38gE8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1lbWJlZCBpcy10eXBlLXJpY2ggaXMtcHJvdmlkZXItaW5zdGFncmFtIHdwLWJsb2NrLWVtYmVkLWluc3RhZ3JhbSI+PGRpdiBjbGFzcz0id3AtYmxvY2stZW1iZWRfX3dyYXBwZXIiPgpodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRFVBLWNZYkNSLWEvP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGluayZhbXA7aWdzaD1NelJsT0RCaU5XRmxaQT09CjwvZGl2PjwvZmlndXJlPndhaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RVQS1jWWJDUi1hLz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmYW1wO2lnc2g9TXpSbE9EQmlOV0ZsWkE9PXckY2E1OTU2OTgtMGI4ZC00NGNkLThjZTEtNzNmOGQ5MjE5ZGZhdxg8cD5FcXVpcGUgVVZBIEJhcnJhOjwvcD53JDg4ODZmZjIwLTU0ZGItNGFmNy1hMmRhLWJhNTQ5MmJkN2QzOXcxPHA+RHVkYSBOaWNvbGljaCAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vPC9wPnckNmNkNGQ0NGItNjMxZi00MjFiLTlmYjctMDk2NDI4OTlkMTJhdzE8cD5NYWx1IENvcmRlaXJvIC0gM8K6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW88L3A+dyQxMThmOTk1MC1iOTViLTQ5YzAtYWM0ZC05MTZkNDAzNzkwMDB3MjxwPkNhcm9saW5hIEFsdmVzIC0gNcK6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW88L3A+dypkZXotbWludXRvcy1zb2JyZS10cmFuc2ZvYmlhLWludGVybmFsaXphZGF7Qnnf6RG+4AB7QevkJysgAACVAgB9muCucncEb3BlbncEb3Blbnl3AHcIc3RhbmRhcmR3AHcAeXcAdwB3AHcAeXcAdwB5fQB5eXcAdwB4eXYCGGltYWdlX2dlbmVyYXRvcl9zZXR0aW5nc3YECHRlbXBsYXRldwdoaWdod2F5EGRlZmF1bHRfaW1hZ2VfaWR9AARmb250dwAHZW5hYmxlZHkHdmVyc2lvbn0CeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcKY29yZS9lbWJlZHcJaW5zdGFncmFteHh4dwRyaWNoeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5fZzPAncTMjAyNi0wMS0yN1QxMzowOTo1NXUBfbDt+JwFdwdwdWJsaXNoAtnyhPkNARMFroPtrQ1BAAIBEgMAGQEdAxAAAQA2ALYBAKoCAGQAAQABBQEABgDrCQAKrgEDAhsMAQECAQEIAQABAAEBAQEBCAEDAwQBBAIBAwABAAEDAQABAQIAAQABAAQCAQMBAAEIAQQCAQEIAQgBCAEIBQECAAEEAQABAQ4MAQgBDgEQAQcCCQEBAQABAwIAAQI=\",\"updateId\":805074953}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-06T15:33:51",
+  "modified_gmt": "2026-05-06T18:33:51",
+  "ping_status": "open",
+  "slug": "dez-minutos-sobre-transfobia-internalizada",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dez minutos sobre &#8211; Transfobia Internalizada"
+  },
+  "type": "post"
+}

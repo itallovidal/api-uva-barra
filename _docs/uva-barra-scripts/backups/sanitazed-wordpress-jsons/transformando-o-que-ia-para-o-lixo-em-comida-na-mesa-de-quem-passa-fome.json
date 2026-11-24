@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9458/revisions/9471",
+        "id": 9471
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9458"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9458",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9458/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9458"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9463"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9458",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9458",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330,
+    7114,
+    254332
+  ],
+  "class_list": [
+    "post-9458",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "category-sociedade",
+    "category-sustentabilidade",
+    "tag-desperdicio-de-alimentos",
+    "tag-fome"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Projetos evitam desperdício de alimentos no Brasil</em></p><p>De acordo com a FAO (Organização das Nações Unidas para Alimentação e Agricultura), 821 milhões de pessoas passam fome no mundo, enquanto um terço dos alimentos produzidos são desperdiçados diariamente. A compra excessiva de alimentos, o armazenamento de forma inadequada e o aproveitamento incompleto em alguma refeição acabam parando no lixo.</p><p>O Brasil ocupa o 10º lugar no ranking dos países que mais desperdiçam alimentos no mundo. Algumas ações podem transformar o que ia para o lixo em alimento na mesa de quem passa fome. O projeto Mover Vidas tem como intuito colher alimentos de mercados centrais que seriam descartados e não mais vendidos e organizar cestas básicas para pessoas que precisam em momentos como esse de isolamento social. A gestora da ação social Amanda Almeida, conta que não tinha noção de que os comerciantes jogavam toda essa comida fora por dia. \"Se cada um doasse em vez de jogar fora, o número de desperdícios iria diminuir muito\", afirma.</p><blockquote><p><em>\"Através do Mover Vidas aprendemos que aquilo que achamos que está ruim para gente, para o outro pode ser ouro\"</em></p><cite><em>Amanda Almeida</em></cite></blockquote><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-1-3-1.jpeg?resize=780%2C1040&amp;ssl=1\" alt=\"\" width=\"780\" height=\"1040\"/><figcaption>Muitos alimentos quando não são vendidos naquele dia, vão direto para o lixo ou desperdiçados por não valerem mais a pena. Foto: arquivo pessoal.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-2-1.jpeg?resize=780%2C1040&amp;ssl=1\" alt=\"\" width=\"780\" height=\"1040\"/><figcaption>Apenas os alimentos que não estragam são armazenados para o outro dia de venda. Já aqueles que não servem mais, são jogados fora. Foto: arquivo pessoal.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-3-1.jpeg?resize=1280%2C720&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"720\"/><figcaption>A equipe do projeto social organiza as cestas básicas durante o dia para entregar às famílias no fim da tarde. Foto: arquivo pessoal.</figcaption></figure><p>Um dos fatores principais para ajudar na redução de desperdício é a doação. A nutricionista do Banco de Alimentos, Natalia Rodrigues, relata que a contribuição de alimentos para ONG's e projetos é muito importante. \"Hoje nossa atividade de colheita urbana evita que, pelo menos, 80 toneladas de alimentos sejam descartadas todos os meses. Esses alimentos são entregues para 42 entidades sociais que, juntas, atendem 23.000 pessoas\", diz a nutricionista.</p><p>Segundo um relatório de 2021 feito pela PNUMA (Programa das Nações Unidas para o Meio Ambiente), a maior parte de desperdícios tem origem em residências, que descartam 11% do total de alimentos disponíveis na fase de consumo da cadeia de abastecimento. Os serviços alimentares e os estabelecimentos desperdiçam 5% e 2%, respectivamente. Em nível global, 121 quilos de alimentos são desperdiçados por consumidores a cada ano. Deste total, 74 quilos são descartados no ambiente doméstico. Muitos desses alimentos poderiam estar na mesa de quem está passando por fome nesse momento de pandemia.</p><blockquote><p><em>\"Acreditamos que não basta distribuir o que colhemos, acreditamos ser fundamental ensinar a manipulação e o preparo adequado aos alimentos, sempre visando a utilização, o aumento no valor nutricional das refeições, contribuindo concretamente para a melhoria da saúde das pessoas atendidas.\"</em></p><cite><em>Natalia Rodrigues</em></cite></blockquote><p>\"Aquilo que jogamos fora, tem gente que corta aquilo ali e faz uma metade. Por exemplo, os tomates que vem muito amassado, nós tiramos apenas a parte que não está boa e com o resto dá para se fazer um molho de tomate e dividir para as famílias\", expõe a criadora da ONG Mover Vidas, Amanda Almeida. Ela conta que a aprendizagem que o projeto passa é que não precisa desperdiçar nada, com qualquer alimento sai ótimos pratos.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-4-1.jpeg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\"/><figcaption><em>\"Fomos no centro de abastecimentos de alimentos na intenção de ajudar 30 famílias e conseguimos ajudar 80\", conta Amanda Almeida. Foto: Arquivo pessoal</em></figcaption></figure><p></p><p><em>Ana Júlia Queiroz – 5º período</em></p></main>"
+  },
+  "date": "2021-05-31T18:29:15",
+  "date_gmt": "2021-05-31T21:29:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De acordo com a FAO (Organização das Nações Unidas para Alimentação e Agricultura), 821 milhões de pessoas passam fome no mundo, enquanto um terço dos alimentos produzidos são desperdiçados diariamente. A compra excessiva de alimentos, o armazenamento de forma inadequada e o aproveitamento incompleto em alguma refeição acabam parando no lixo. </p>\n"
+  },
+  "featured_media": 9463,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9458"
+  },
+  "id": 9458,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/e9e3fac1-f350-4d85-b311-490fe6be3b80.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2sy",
+  "link": "https://agenciauvabarra.com/2021/05/31/transformando-o-que-ia-para-o-lixo-em-comida-na-mesa-de-quem-passa-fome/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-05-31T18:29:15",
+  "modified_gmt": "2021-05-31T21:29:15",
+  "ping_status": "open",
+  "slug": "transformando-o-que-ia-para-o-lixo-em-comida-na-mesa-de-quem-passa-fome",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    10317956,
+    253306
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Transformando o que ia para o lixo em comida na mesa de quem passa fome"
+  },
+  "type": "post"
+}

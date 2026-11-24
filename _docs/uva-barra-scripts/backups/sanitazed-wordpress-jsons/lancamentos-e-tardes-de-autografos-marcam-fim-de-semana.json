@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2158/revisions/3077",
+        "id": 3077
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2158"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2158",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2158/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2158"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2156"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2158",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2158",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-2158",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-literatura",
+    "tag-fernanda-nia",
+    "tag-literatura",
+    "tag-vitor-martins"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Vitor Martins e Fernanda Nia recebem fãs em Botafogo</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/20180825_162706.jpg?resize=4032%2C3024&#038;ssl=1' alt='20180825_162706' width='4032' height='3024' /><figcaption>Autor Vitor Martins em sessão de autógrafos com fã. Foto: Ana Carolina Soares</figcaption></figure><p>Mesmo com frio, chuva e o tempo fechado, os últimos dias foram bem aproveitados pelos fãs de literatura. Na tarde dos dias 25 e 26 de agosto, aconteceram eventos dos livros “Um milhão de finais felizes”, de Vitor Martins, e “Mensageira da Sorte”, de Fernanda Nia – ambos em Botafogo.</p><p>No sábado ocorreu a tarde de autógrafos com Vitor. O tamanho da fila e a relação de proximidade do autor com os fãs chamaram a atenção. O público era diverso tanto em idade quanto em gênero. Débora Barbosa já acompanhava Vitor pelo canal no YouTube e gostou desse encontro escritor-fã. “É maravilhoso! Contato com autor é sempre muito bom, não só para eles que escrevem, mas para o público também”, diz a bibliotecária de 24 anos.</p><p>“Um milhão de finais felizes” passou pela Bienal do Livro em São Paulo antes de ter seu lançamento no Rio. Embora a Bienal seja um evento de proporções maiores, Vitor Martins fala sobre a importância de uma reunião mais ‘exclusiva’. “Estar aqui é muito bom, principalmente porque as pessoas estão dentro das livrarias”, explica o autor.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/img_0603.jpg?resize=5184%2C2912&#038;ssl=1' alt='IMG_0603' width='5184' height='2912' /><figcaption>Fernanda Nia durante bate-papo com fãs. Foto: Ana Carolina Soares</figcaption></figure><p>No domingo, foi a vez de Fernanda Nia reunir familiares, amigos e fãs para o lançamento do romance “Mensageira da Sorte”. A autora se aventura no gênero <em>Young Adult </em>(Jovem Adulto) e sabe da importância dessa escrita para o público. “Esta literatura é uma ferramenta de mudança social. Você tem que ter muito mais responsabilidade com o que você está escrevendo e muita responsabilidade com a mensagem que você vai passar”, afirma a autora.</p><p>O encontro com Nia foi caracterizado por uma atmosfera intimista e familiar. “É interessante para essas pessoas que vêm aqui prestigiar o lançamento e conseguem ouvir as opiniões da autora e fazer perguntas mais extensas”, destaca o estudante de computação, Igor Batista. Depois desse contato mais “íntimo” com os autores é torcer para que mais adeptos da leitura façam parte desses eventos.</p><p><strong>Ana Carolina Soares – 6º período e Julia Morais – 6º período</strong></p></main>"
+  },
+  "date": "2018-08-28T15:44:16",
+  "date_gmt": "2018-08-28T18:44:16",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Vitor Martins e Fernanda Nia recebem fãs em Botafogo Mesmo com frio, chuva e o tempo fechado, os últimos dias foram bem aproveitados pelos fãs de literatura. Na tarde dos dias 25 e 26 de agosto, aconteceram eventos dos livros “Um milhão de finais felizes”, de Vitor Martins, e “Mensageira da Sorte”, de Fernanda Nia [&hellip;]</p>\n"
+  },
+  "featured_media": 2156,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2158"
+  },
+  "id": 2158,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/20180825_162706.jpg?fit=4032%2C3024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-yO",
+  "link": "https://agenciauvabarra.com/2018/08/28/lancamentos-e-tardes-de-autografos-marcam-fim-de-semana/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:26:35",
+  "modified_gmt": "2019-01-31T14:26:35",
+  "ping_status": "open",
+  "slug": "lancamentos-e-tardes-de-autografos-marcam-fim-de-semana",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    97312837,
+    767056603,
+    6855671
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Lançamentos e tardes de autógrafos marcam fim de semana"
+  },
+  "type": "post"
+}

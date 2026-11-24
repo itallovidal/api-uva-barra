@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12469/revisions/12476",
+        "id": 12476
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12469"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12469",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12469/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12469"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12471"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12469",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12469",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    8086,
+    7114
+  ],
+  "class_list": [
+    "post-12469",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-moda",
+    "category-sociedade",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Moda sem padrão: A dificuldade da mulher no mundo da moda\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/4nghO3mQfHB1976jOZylPf?si=18d9dc70b1ba411a&#038;utm_source=oembed\"></iframe></figure><p>A pauta é sobre a dificuldade das mulheres gordas no mundo da moda. Através de um bate papo leve e consciente conduzido e produzido pelos alunos do curso de moda sobre as seções plus size, que não costumam trazer novos estilos, o objetivo é apresentar as tendências presentes em outras marcas, tendo como exemplo a ampliação da grade de numerações para não ocorrer a segregação.</p><p>Neste podcast da Rádio UVA Barra, contamos com a participação de Júlia Sarcinelli, estudante de marketing, e Isabella Santana, criadora de conteúdos digitais, para debaterem sobre o assunto proposto.</p><p>Emanuelly Oliveira – 3º período<br>Jennyfer Pereira – 3º período<br>Júlia Maria – 4º período<br>Leonardo Linhares – 3º período</p></main>"
+  },
+  "date": "2022-08-03T14:45:10",
+  "date_gmt": "2022-08-03T17:45:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A pauta é sobre a dificuldade das mulheres gordas no mundo da moda. Através de um bate papo leve e consciente conduzido e produzido pelos alunos do curso de moda sobre as seções plus size, que não costumam trazer novos estilos, o objetivo é apresentar as tendências presentes em outras marcas, como exemplo de ampliação da grade de numerações para não ocorrer a segregação.</p>\n"
+  },
+  "featured_media": 12471,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12469"
+  },
+  "id": 12469,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-02-at-11.25.08-e1659548772893.jpeg?fit=814%2C929&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3f7",
+  "link": "https://agenciauvabarra.com/2022/08/03/podcast-radio-uva-barra-moda-sem-padrao-a-dificuldade-da-mulher-no-mundo-da-moda/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-03T15:16:58",
+  "modified_gmt": "2022-08-03T18:16:58",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-moda-sem-padrao-a-dificuldade-da-mulher-no-mundo-da-moda",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Moda sem padrão &#8211; A dificuldade da mulher no mundo da moda"
+  },
+  "type": "post"
+}

@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6994/revisions/6999",
+        "id": 6999
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6994"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6994",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6994/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6994"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6998"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6994",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6994",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6994",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento refletiu a relação da pandemia nas relações sociais de trabalho</em></p><p>A Liga Acadêmica de Saúde Coletiva da Universidade Veiga de Almeida (LASC UVA) promoveu no dia cinco (5) de junho uma palestra sobre a saúde mental do trabalhador durante a quarentena. A psicóloga e professora Lurdes Domingos falou sobre como o cenário atual pode afetar as pessoas e o que se pode fazer para superar esse momento. Eunice Cortes também participou do debate fazendo a mediação entre o público e a palestrante. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/print.png?resize=474%2C900&amp;ssl=1' alt='' width='474' height='900' /><figcaption>Eunice Cortes (na parte superior) e Lurdes Domingos (na parte inferior) durante a palestra sobre a saúde mental do trabalhador durante a pandemia. Para Lurdes, é preciso filtrar a quantidade de informações para evitar episódios de ansiedade – Foto: Reprodução da internet</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/lurdes.jpeg?resize=1280%2C720&amp;ssl=1' alt='' width='1280' height='720' /><figcaption>Cartaz de divulgação – Foto: Reprodução da internet</figcaption></figure><p>A temática da saúde mental, nesse momento de quarentena e isolamento, foi abordada através de questões pertinentes a muitas pessoas, como as inseguranças, incertezas, mudanças no trabalho, economia e relações sociais. Aliado a tudo isso, muitos profissionais ainda possuem o medo da morte e como a pandemia pode abalar a vida. “Falar disso é fundamental para que o trabalhador possa enfrentar com um pouco mais de tranquilidade, entendendo que o que ele tá passando é temporário, é aflitivo, mas que ele precisa ser ouvido nessa angústia que a pandemia gera”</p><p>Síndrome do pânico, estresse, compulsões, foram apontados como efeitos colaterais recorrentes pela psicóloga. A compulsão alimentar, por exemplo, pode ser intensificada e se transformar em sofrimento e motivo de culpa. Por isso, Lurdes destaca a importância de dividir esses momentos e buscar ajuda. Outras ferramentas apontadas para manter o controle foram citadas como a meditação e a prática de atividades físicas.</p><p>A conversa apresentou a importância da tolerância. Segundo Lurdes, o momento atual pode afetar a produtividade e a forma de se reagir aos problemas é essencial para afastar o sentimento de culpa tão comum no contexto de pandemia. “É um momento que você tem que aprender a tolerância contigo e a respeitar esses sentimentos”, afirma.</p><p>A palestra foi transmitida pela página oficial do LASC UVA na plataforma Instagram. O público foi receptivo e interagiu através de perguntas. Eventos como este destacam a importância da manutenção da saúde mental. “A sensação que eu tenho é que o coronavírus colocou as coisas à flor da pele”, declarou Lurdes Domingos.</p><p><strong>Rafaela Barbosa – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-06-09T16:31:02",
+  "date_gmt": "2020-06-09T19:31:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento refletiu a relação da pandemia nas relações sociais de trabalho A Liga Acadêmica de Saúde Coletiva da Universidade Veiga de Almeida (LASC UVA) promoveu no dia cinco (5) de junho uma palestra sobre a saúde mental do trabalhador durante a quarentena. A psicóloga e professora Lurdes Domingos falou sobre como o cenário atual [&hellip;]</p>\n"
+  },
+  "featured_media": 6998,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6994"
+  },
+  "id": 6994,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/print.png?fit=474%2C900&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1OO",
+  "link": "https://agenciauvabarra.com/2020/06/09/saude-mental-do-trabalhador-e-tema-de-palestra-virtual/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-06-09T16:31:02",
+  "modified_gmt": "2020-06-09T19:31:02",
+  "ping_status": "open",
+  "slug": "saude-mental-do-trabalhador-e-tema-de-palestra-virtual",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Saúde mental do trabalhador é tema de palestra virtual"
+  },
+  "type": "post"
+}

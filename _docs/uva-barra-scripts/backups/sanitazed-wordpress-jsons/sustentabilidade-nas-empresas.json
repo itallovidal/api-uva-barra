@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2665/revisions/2944",
+        "id": 2944
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2665"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2665",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2665/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2665"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2667"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2665",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2665",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    11716206,
+    670411728,
+    254332
+  ],
+  "class_list": [
+    "post-2665",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-economia-2",
+    "category-institucional-uva",
+    "category-sustentabilidade",
+    "tag-agencia-uva-barra",
+    "tag-eccoa-coloquio-de-economia-circular",
+    "tag-economia-circular",
+    "tag-sustentabilidade",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>UVA recebe colóquio sobre economia circular</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-14-at-18-24-23.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-11-14 at 18.24.23' width='1280' height='960' /><figcaption>Wladmir motta, professor Uva e líder do grupo de Pesquisa, apresentando os fundamentos e conceitos base da economia circular</figcaption></figure><p>Tornar uma empresa sustentável pode ser difícil se não utilizar os métodos mais adequados como, por exemplo, a economia circular – um modelo de negócios que viabiliza principalmente o uso eficiente dos recursos naturais, evitando o uso exagerado dos mesmos. Esse foi o tema discutido no último dia 30, no auditório da Universidade Veiga de Almeida, no Eccoa – Colóquio de economia circular.</p><p>Durante o bate papo entre profissionais e alunos, foi possível compreender um pouco mais sobre o método. O professor Wladimir Motta explicou os principais conceitos nas formas de implementação, que ainda gera dúvidas, afinal se confunde muito com a reciclagem, mas acaba fugindo desse aspecto. “É baseada em uma maior utilização dos recursos naturais, ou seja, você tenta usar isso em um maior tempo possível evitando ter que voltar a natureza e pegar mais recursos, gerando menos resíduos”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-14-at-18-24-23-1-e1542372048257.jpeg?resize=1280%2C720&#038;ssl=1' alt='WhatsApp Image 2018-11-14 at 18.24.23 (1)' width='1280' height='720' /><figcaption>Integrante do grupo de pesquisa eccoa e a representante da gerência de sustentabilidade da firjan ( eccoa-Wladmir motta, carla Moura, Thaís Vieira e sergio anversa, firjan- Carolina Zoccoli)</figcaption></figure><p>É muito mais do que uma mera logística reversa. A efetiva execução dos aspectos que envolvem a economia circular pode minimizar ou reduzir bastante as perdas como impactos ambientais de forma geral, tornando-se um método muito importante para os futuros profissionais. “Mostra que o mundo está evoluindo e a preocupação com o meio ambiente aumenta”, diz Leonardo Cardoso, aluno do 8° período de ciências contábeis, presente no colóquio.</p><p>Hoje em dia já é possível ver empresas colocando em prática esse método em diversos pontos da companhia e dessa forma tornando-se parceira da natureza. A ideia dos recursos infinitos já não é propagada, é preciso escapar do antigo modelo linear, no qual se retira os produtos da natureza, produz, consome, descarta e depois volta para natureza de novo para pegar mais. Essa nova estratégia vai colocar no mercado uma nova geração de profissionais que entendem que qualidade de vida não é representada por desperdício.</p><p><strong>Ana Carolina Soares – 6° Período</strong></p></main>"
+  },
+  "date": "2018-11-02T11:36:53",
+  "date_gmt": "2018-11-02T13:36:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>UVA recebe colóquio sobre economia circular Tornar uma empresa sustentável pode ser difícil se não utilizar os métodos mais adequados como, por exemplo, a economia circular &#8211; um modelo de negócios que viabiliza principalmente o uso eficiente dos recursos naturais, evitando o uso exagerado dos mesmos. Esse foi o tema discutido no último dia 30, [&hellip;]</p>\n"
+  },
+  "featured_media": 2667,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2665"
+  },
+  "id": 2665,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-14-at-18-24-23-1-e1542372048257.jpeg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-GZ",
+  "link": "https://agenciauvabarra.com/2018/11/02/sustentabilidade-nas-empresas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T15:36:37",
+  "modified_gmt": "2019-01-26T17:36:37",
+  "ping_status": "open",
+  "slug": "sustentabilidade-nas-empresas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654097722,
+    5742812,
+    767056627,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Sustentabilidade nas empresas"
+  },
+  "type": "post"
+}

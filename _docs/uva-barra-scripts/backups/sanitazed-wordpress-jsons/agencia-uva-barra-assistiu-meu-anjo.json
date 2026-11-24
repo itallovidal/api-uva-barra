@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2552/revisions/2557",
+        "id": 2557
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2552"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2552",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2552/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2552"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2556"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2552",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2552",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2552",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-cinema",
+    "tag-meu-anjo"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/260x500-banner-site-meu-anjo565766345.png?resize=260%2C500&amp;ssl=1' alt='Foto: Divulgação' width='260' height='500' /><figcaption>Foto: Divulgação</figcaption></figure><p>Elli (Ayline Aksoy-Etaix) é filha de Marlène (Marion Cotillard) no drama francês “Meu Anjo”, e precisa disputar a atenção da mãe, uma mulher alcoólatra e festeira, que possui amantes, e cria a menina em um ambiente impróprio. Certa noite, Marlène leva a criança para uma boate, onde conhece um pretendente e manda Elli sozinha para casa. Após dias sem notícias, com apenas oito anos de idade, a jovem lida com a dura responsabilidade de estar só no mundo. Com direção de Vanessa Filho, também roteirista junto de François Pirot e Diastéme.</p><p>O longa é o primeiro filme da atriz mirim Ayline. A protagonista contracena com Alban Lenoir que dá vida ao personagem Julio e, ao longo da história, se torna importante na vida de Elli e de sua mãe. Interpretada por Marion, já ganhadora do Oscar como melhor atriz no filme Piaf, Marlène representa uma personagem extravagante em sua forma de vestir e viver, com maquiagens coloridas e marcantes, como vários os outros elementos da obra que aparecem com certa frequência.</p><p>A narrativa não é nova, trata de questões complexas que estão presentes no dia a dia de muitas famílias, como no caso do abandono e da dependência de bebidas alcoólicas, mas é importante e abre espaço para o debate. É um drama familiar que mostra as dificuldades que pessoas humildes podem enfrentar ao longo da vida, e causa preocupação em quase todo momento por tratar do futuro de uma criança.</p><p>Na composição da trilha sonora é possível perceber a escolha de instrumentos, como piano e violino, que ajudam na criação de situações comoventes que humanizam os personagens. A obra teve estreia no Festival de Cannes em maio deste ano e entra em cartaz nos cinemas brasileiros no dia 25 de outubro.</p><p><strong>Amanda Almeida – 4º período</strong></p></main>"
+  },
+  "date": "2018-10-25T18:00:45",
+  "date_gmt": "2018-10-25T21:00:45",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Elli (Ayline Aksoy-Etaix) é filha de Marlène (Marion Cotillard) no drama francês “Meu Anjo”, e precisa disputar a atenção da mãe, uma mulher alcoólatra e festeira, que possui amantes, e cria a menina em um ambiente impróprio. Certa noite, Marlène leva a criança para uma boate, onde conhece um pretendente e manda Elli sozinha para [&hellip;]</p>\n"
+  },
+  "featured_media": 2556,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2552"
+  },
+  "id": 2552,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/260x500-banner-site-meu-anjo.png?fit=260%2C500&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Fa",
+  "link": "https://agenciauvabarra.com/2018/10/25/agencia-uva-barra-assistiu-meu-anjo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-10-25T15:50:19",
+  "modified_gmt": "2018-10-25T18:50:19",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-meu-anjo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056592,
+    4397488
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: &#8220;Meu Anjo&#8221;"
+  },
+  "type": "post"
+}

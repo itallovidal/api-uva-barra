@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1507/revisions/2941",
+        "id": 2941
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1507"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1507",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1507/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1507"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1507",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1507",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    670411728
+  ],
+  "class_list": [
+    "post-1507",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-educacao",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Aluna de Engenharia Civil tem artigo aprovado pela COBRAE que ocorrerá em novembro</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/ec5b4531bf0f37526fe1dff1ee993fd4.jpg?resize=689%2C361&amp;ssl=1' alt='ec5b4531bf0f37526fe1dff1ee993fd4' width='689' height='361' /><figcaption>Foto disponibilizada para divulgação do evento COBRAE. </figcaption></figure><p>O sucesso profissional hoje não se baseia apenas em adquirir conhecimento durante o período acadêmico, mas também em compartilhá-lo e inspirar outras pessoas. Quem concorda com isso é a aluna Fernanda Raythz, de 31 anos, do curso de Engenharia Civil, da Universidade Veiga de Almeida (UVA), do Campus Barra, que teve o artigo aprovado para ser apresentado em Florianópolis – Santa Catarina, nos dias 2 a 4 de novembro. A VII Conferência Brasileira de Estabilidade de Encostas (COBRAE) está sendo organizada pela Associação Brasileira de Mecânica dos Solos (ABMS) e Engenharia Geotécnica do núcleo de Paraná.</p><p>Esse artigo foi o Estudo de Caso “O Uso de Parede de Diafragma como Método de Contenção em Grande Escavação Urbana” surgiu por meio da monografia de Fernanda que não era a primeira opção no Trabalho de Conclusão de Curso (TCC). Por ser graduada em Fisioterapia, escolheu o tema de segurança e resolveu seguir essa área, já que cuidava de pacientes que se acidentavam em locais de trabalho. Foi nessa mesma época que estagiava em uma obra no Centro da Cidade e ao observar a planta do projeto, decidiu alterar o tema inicial. “Olhei para a planta de fundações aberta em cima da mesa e fiquei impressionada com os vários tipos de fundações e suas logísticas. Resolvi mudar tudo e começar do zero”.</p><p>A afinidade desse tema se dá pela disciplina de Fundações, ministrada pelo professor André Pereira Lima de Engenharia Civil, que hoje é seu orientador no artigo. Segundo André, esse caso de construção, no Rio de Janeiro, foi um trabalho interessante do ponto de vista de aplicação prática, já que mostrava os desafios com o uso da parede de diafragma. Por meio de uma sugestão dele, Fernanda escolhe uma parte da monografia e escreve um artigo para o Congresso. “Eu apenas mostrei o caminho, o mérito é dela por ter desenvolvido o trabalho”, afirma.</p><p>Durante o processo, a universitária admite que sentiu dificuldades em montar o estudo, porque entrou na fase final da obra e não acompanhou de perto o início. “Foi trabalhoso, precisei da ajuda de outros profissionais para colher os dados, registros e analisar todos os relatórios fotográficos. Era como montar um quebra-cabeça”. Além disso, o tempo foi outro fator que atrasou o processo pois como estava fazendo o TCC sobre outro assunto teve menos de 6 meses para mudar, montar e entregar tudo no prazo. Apesar dessa correria, revela que ver o artigo aprovado é sinônimo de gratidão. “Dá um gás, dá vontade de continuar pesquisando, por isso aconselho para que busquem orientação de professores experientes”.</p><p>Com os dias contados para comparecer em Florianópolis, ela conta que o artigo sairá nos anais do site da <a href='http://cobrae2017.com.br/trabalhos/index.php'>COBRAE</a> e ficará exposto também um e-pôster no totem do Congresso, em que as pessoas vão poder ver o resumo do trabalho. De acordo com a página da organização, esse evento que ocorre a cada dois anos tem o objetivo de discutir aspectos teóricos, práticos e legais relacionados a diversas pesquisas voltadas para geotecnia. Para André, essa oportunidade não acontece toda hora. “Nem todos conseguem ser selecionados, pois são muitas pessoas tentando, ela conseguiu. E também é uma conferência a nível nacional, a expectativa é de cerca de 600 pessoas e costuma vir gente de fora também”.</p><p>Por poder acompanhar toda a trajetória, o orientador analisa que a missão dele é encorajar os estudantes a encontrarem suas linhas de produção. “Nós professores temos esse objetivo, e eles conseguem se sobressair por conta de suas competências e envolvimento”. No caso de Fernanda, ele confirma que ela conseguiu desenvolver o trabalho com propriedade e soube aplicar com determinação. “Tudo isso dá visibilidade não só para o aluno, mas para a instituição e o currículo. Minha satisfação maior é de ter plantado uma semente para os alunos da Veiga”.</p><p><strong>Isabelle Amancio, 4° período.</strong></p></main>"
+  },
+  "date": "2017-10-11T14:53:10",
+  "date_gmt": "2017-10-11T17:53:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Aluna de Engenharia Civil tem artigo aprovado pela COBRAE que ocorrerá em novembro O sucesso profissional hoje não se baseia apenas em adquirir conhecimento durante o período acadêmico, mas também em compartilhá-lo e inspirar outras pessoas. Quem concorda com isso é a aluna Fernanda Raythz, de 31 anos, do curso de Engenharia Civil, da Universidade [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1507"
+  },
+  "id": 1507,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-oj",
+  "link": "https://agenciauvabarra.com/2017/10/11/compartilhar-saberes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T15:31:12",
+  "modified_gmt": "2019-01-26T17:31:12",
+  "ping_status": "open",
+  "slug": "compartilhar-saberes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Compartilhar saberes"
+  },
+  "type": "post"
+}

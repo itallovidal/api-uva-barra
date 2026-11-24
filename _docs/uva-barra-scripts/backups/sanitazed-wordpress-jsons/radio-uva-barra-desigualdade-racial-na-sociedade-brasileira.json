@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13888/revisions/13892",
+        "id": 13892
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13888"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13888",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13888/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13888"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13893"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13888",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13888",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    187874,
+    632602,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-13888",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direitos-humanos",
+    "category-diversidade",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-desigualdade",
+    "tag-diversidade",
+    "tag-racial",
+    "tag-racismo",
+    "tag-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A diferença de oportunidades e condições de vida entre pretos e brancos está presente na sociedade desde a escravidão. Segundo o IBGE, mais da metade dos negros no Brasil, estão abaixo da linha da pobreza.</p><p>A repórter da Rádio UVA Barra, Juliane Barbosa, conversou com o advogado e diretor do instituto de defesa da população negra, Jeff Amadeus e traz também informações sobre a redução da desigualdade que deve ser realizada através da educação, políticas públicas e oportunidades iguais de emprego.</p><figure><img src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1405944025&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' alt='Desigualdade racial na sociedade brasileira by Agência UVA Barra' width='500' height='400' title='Desigualdade racial na sociedade brasileira by Agência UVA Barra' allow='autoplay' allowfullscreen><figcaption>Desigualdade racial na sociedade brasileira by Agência UVA Barra</figcaption></figure><p><em>Juliane Barbosa – 4° período</em><br><br><em>*matéria produzida para a disciplina de Audiojornalismo, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2022-12-19T18:00:00",
+  "date_gmt": "2022-12-19T21:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A diferença de oportunidades e condições de vida entre pretos e brancos está presente na sociedade desde a escravidão. Segundo o IBGE, mais da metade dos negros no Brasil, estão abaixo da linha da pobreza.</p>\n"
+  },
+  "featured_media": 13893,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13888"
+  },
+  "id": 13888,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/black-lives-matter-g98831d3cd_1920.jpg?fit=1440%2C1920&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3C0",
+  "link": "https://agenciauvabarra.com/2022/12/19/radio-uva-barra-desigualdade-racial-na-sociedade-brasileira/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-19T17:39:26",
+  "modified_gmt": "2022-12-19T20:39:26",
+  "ping_status": "open",
+  "slug": "radio-uva-barra-desigualdade-racial-na-sociedade-brasileira",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    728677,
+    767056631,
+    276912,
+    162432,
+    767056605
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rádio UVA Barra: Desigualdade racial na sociedade brasileira"
+  },
+  "type": "post"
+}

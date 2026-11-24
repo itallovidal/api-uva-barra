@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5847/revisions/5866",
+        "id": 5866
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5847"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5847",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5847/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5847"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5852"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5847",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5847",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2432
+  ],
+  "class_list": [
+    "post-5847",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-crocodilagem",
+    "tag-teatro-petrorio"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Espetáculo faz uso do humor para abordar questões sociais</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/thumbnail_cena-afonso-e-luci-ponderam-sobre-quem-c3a9-a-melhor-pessoa-e-por-isso-merece-viver-e1572977376923.jpg?resize=1280%2C827&#038;ssl=1' alt='' width='1280' height='827' /><figcaption>Afonso e Luci ponderam sobre quem é a melhor pessoa e por isso merece viver – Foto: Luma Keily</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/thumbnail_durante-o-espetc3a1culo-afonso-salva-luci-da-queda.jpg?resize=1280%2C960&#038;ssl=1' alt='' width='1280' height='960' /><figcaption>Cena da peça Crocodilagem – Foto: Luma Keily</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/thumbnail_ensaio-dos-atores-antes-do-espetc3a1culo-e1572977402570.jpg?resize=1280%2C687&#038;ssl=1' alt='' width='1280' height='687' /><figcaption>Ensaio dos atores antes do espetáculo – Foto: Luma Keily</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/thumbnail_ao-tc3a9rmino-da-apresentac3a7c3a3o-os-atores-fazem-um-agradecimento-ao-pc3bablico-presente-e1572977416644.jpg?resize=1280%2C804&#038;ssl=1' alt='' width='1280' height='804' /><figcaption>Ao término da apresentação os atores fazem um agradecimento ao público presente – Foto: Luma Keily</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/thumbnail_romualdo-cunha-e-sua-esposa.jpg?resize=1280%2C960&#038;ssl=1' alt='' width='1280' height='960' /><figcaption>Romualdo Cunha e esposa – Foto: Luma Keily</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/thumbnail_carlos-cidade-e-sua-esposa.jpg?resize=1280%2C960&#038;ssl=1' alt='' width='1280' height='960' /><figcaption>Carlos Cidade e esposa – Foto: Luma Keily</figcaption></figure><p>A comédia de aventura Crocodilagem, estrelada pelos atores Dani Brescianini e Pablo Diego e com roteiro e direção de Cláudio Torres Gonzaga, traz ao palco do Teatro PetroRio um debate sobre temas contemporâneos de uma forma leve e divertida.</p><p>A obra conta a história de Afonso, um guia de excursão, e Luci, sua única cliente, que, para fugir de um jacaré, sobem numa árvore e precisam descobrir como descer sem ter que enfrentar o animal. “Essa peça foi baseada numa notícia que eu li no jornal já tem muitos anos”, explicou o diretor Cláudio Gonzaga. Segundo ele, além de ser uma comédia, o roteiro promove uma reflexão sobre a relação das pessoas consigo, com o outro e com o mundo. No decorrer da narrativa, o público vivencia o nascer de uma grande amizade.</p><blockquote>“Estamos num campeonato onde o troféu é a vida” – Afonso (Interpretado por Pablo Diego Garcia)</blockquote><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/thumbnail_dani-brescianini-pablo-diego-garcia-atores-da-peca-crocodilagem.jpg?fit=1024%2C768&amp;ssl=1' alt='' width='463' height='347' /><figcaption>Os atores Dani Brescianini e Pablo Diego Garcia – Foto: Luma Keily</figcaption></figure><p>Quem sou eu, o que estou fazendo da minha vida e no que acredito? Essas são as perguntas que os personagens da encenação teatral levam ao público como reflexão. Para o advogado Romualdo Cunha, a peça trouxe a representação do momento em que, diante de um momento de aflição, um filme da sua vida passa diante de seus olhos, e você analisa cada experiência vivida. “Foi um Humor inteligente”, disse.</p><p>Orientação sexual, fidelidade, solidão, casamento e família são alguns dos assuntos discutidos em cena. De acordo com o advogado Carlos Cidade, a exibição é eloquente ao retratar as crises da vida. “É muito importante estar sempre com o humor presente na vida, e o teatro possibilita isso “, relata. A atriz Dani Brescianini acredita que os temas explorados através da risada podem ajudar a transformar a vida da plateia. “Acho que a gente consegue acessar e atravessar o público através do riso”, relatou.</p><blockquote>“A comédia parte do princípio de você não levar nada a sério” – Pablo Diego Garcia</blockquote><p>Crocodilagem fica em cartaz até o dia 1 de dezembro. Toda sexta e sábado, 21h, e domingo, 20h, no Teatro PetroRio.</p><p><strong>Luma Keily – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-11-05T18:53:02",
+  "date_gmt": "2019-11-05T21:53:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Espetáculo faz uso do humor para abordar questões sociais A comédia de aventura Crocodilagem, estrelada pelos atores Dani Brescianini e Pablo Diego e com roteiro e direção de Cláudio Torres Gonzaga, traz ao palco do Teatro PetroRio um debate sobre temas contemporâneos de uma forma leve e divertida. A obra conta a história de Afonso, [&hellip;]</p>\n"
+  },
+  "featured_media": 5852,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5847"
+  },
+  "id": 5847,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/thumbnail_cena-afonso-e-luci-ponderam-sobre-quem-c3a9-a-melhor-pessoa-e-por-isso-merece-viver-e1572977376923.jpg?fit=1280%2C827&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1wj",
+  "link": "https://agenciauvabarra.com/2019/11/05/peca-teatral-crocodilagem-traz-informacao-e-comedia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-11-05T18:55:17",
+  "modified_gmt": "2019-11-05T21:55:17",
+  "ping_status": "open",
+  "slug": "peca-teatral-crocodilagem-traz-informacao-e-comedia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    3161144,
+    689381377
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Peça teatral &#8220;Crocodilagem&#8221; traz informação e comédia"
+  },
+  "type": "post"
+}

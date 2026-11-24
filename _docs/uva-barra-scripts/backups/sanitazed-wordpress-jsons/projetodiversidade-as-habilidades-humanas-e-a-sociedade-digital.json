@@ -1,0 +1,156 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1432/revisions/2992",
+        "id": 2992
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1432"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1432",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1432/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1432"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1432",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1432",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    254332
+  ],
+  "class_list": [
+    "post-1432",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-sustentabilidade",
+    "tag-projetodiversidade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Workshop debate o futuro das carreiras profissionais em evento sobre sustentabilidade</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/img-20170926-wa0000.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"IMG-20170926-WA0000\" width=\"1280\" height=\"960\" /><figcaption></figcaption></figure><p>Refletir sobre possíveis soluções para o desenvolvimento sustentável e incentivar práticas que possam melhorar o bem-estar social, minimizando os impactos ambientais das ações do homem no meio em que vive. Esses foram apenas alguns dos objetivos da \"II Feira de Práticas Sustentáveis\" da UVA, que, entre as inúmeras atividades promovidas ao longo do dia, ofereceu à comunidade um workshop sobre as \"Carreiras do Futuro\", que têm como missão buscar soluções para os desafios que o ser humano tem diante de si na busca por um mundo melhor, mais sustentável, mais humano e, claro, mais ético.</p><p>Ministrada por Marluce Baptista, psicóloga, professora, coach, consultora de carreira e executiva na liderança das áreas Recrutamento &amp; Seleção, Desenvolvimento Humano &amp; Organizacional, Carreira &amp; Sucessão e Consultoria Interna em empresas nacionais e multinacionais de grande porte, a palestra contou com alunos e professores de cursos como Nutrição, Jornalismo e Administração na plateia. Durante o evento, Marluce levantou uma série de reflexões, desde quais competências um profissional deve ter para se adaptar ao futuro até como os avanços digitais e tecnológicos estão influenciando a sociedade.</p><p>A palestrante também destacou que é indispensável estar sempre estudando e ter conhecimentos variados. \"Você precisa sempre estar aberto a aprender, atualizar seu software\". Mesmo em meio a uma sociedade digital, que tende a se tornar cada vez mais tecnológica, Marluce ressalta que algumas características do indivíduo são fundamentais para a formação de um bom profissional. Segundo ela, as habilidades humanas são essenciais não somente agora, mas também no futuro. \"Algumas habilidades não serão substituídas, como a empatia, criatividade e curiosidade. Essas são características que nós precisaremos desenvolver cada vez mais para fazer as conexões que o futuro nos impuser\".</p><p>Além disso, outra habilidade relevante é a ética da pessoa dentro do mercado de trabalho. Caso o indivíduo não aja de forma ética no seu dia a dia, as chances de entrar e permanecer no mercado de trabalho são praticamente inexistentes, independentemente da época. \"A ética é uma habilidade muito importante para o profissional, pois ela é atemporal\".</p><p>Foi esse o principal motivo da edição da Feira de Práticas Sustentáveis esse ano: trazer ensinamentos que não se prendem somente a um determinado momento, mas sim que os universitários possam levar para o futuro. Segundo o aluno do 3º período de Publicidade, Gabriel Torres, o evento o fez refletir a respeito do profissional que ele quer ser. \"Acredito que a feira pode ter contribuído para que, no futuro, eu me torne alguém mais engajado nas causas sustentáveis, contribuindo para a construção de um mundo melhor\".</p><p>Também para a professora de Administração e Ciências Contábeis Mary Wanyza, que estava presente no workshop como ouvinte, refletir sobre os desafios a enfrentar e sobre as características e habilidades que os profissionais devem ter, em qualquer tempo, foram os grandes destaques do workshop. \"Temos sempre que nos reinventar para ver como iremos nos alocar dentro desse novo contexto no qual estaremos inseridos no futuro\".</p></main>"
+  },
+  "date": "2017-10-02T15:19:38",
+  "date_gmt": "2017-10-02T18:19:38",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Workshop debate o futuro das carreiras profissionais em evento sobre sustentabilidade Refletir sobre possíveis soluções para o desenvolvimento sustentável e incentivar práticas que possam melhorar o bem-estar social, minimizando os impactos ambientais das ações do homem no meio em que vive. Esses foram apenas alguns dos objetivos da “II Feira de Práticas Sustentáveis” da UVA, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1432"
+  },
+  "id": 1432,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-n6",
+  "link": "https://agenciauvabarra.com/2017/10/02/projetodiversidade-as-habilidades-humanas-e-a-sociedade-digital/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T18:09:40",
+  "modified_gmt": "2019-01-26T20:09:40",
+  "ping_status": "open",
+  "slug": "projetodiversidade-as-habilidades-humanas-e-a-sociedade-digital",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056637
+  ],
+  "template": "",
+  "title": {
+    "rendered": "#ProjetoDiversidade: As habilidades humanas e a sociedade digital"
+  },
+  "type": "post"
+}

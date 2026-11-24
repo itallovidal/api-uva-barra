@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12147/revisions/12162",
+        "id": 12162
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12147"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12147",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12147/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12147"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12160"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12147",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12147",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    401170,
+    10889,
+    858951,
+    18330
+  ],
+  "class_list": [
+    "post-12147",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-educacao-fisica",
+    "category-esporte",
+    "category-eventos-internos",
+    "category-institucional",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O seminário contextualizou feitos históricos e proporcionou uma análise do ramo</em></p><p>Pela manhã de sexta-feira, 10/06, no campus Barra, aconteceu o seminário \"O futuro do mercado de trabalho do profissional de Educação Física\" com Felipe Goulart, mestre em Ciências da Atividade Física. Os alunos do curso tiveram a oportunidade de ter contato com o profissional da área para saber mais sobre a pós-formação e a modernização da profissão.</p><p>Felipe Goulart, vice-presidente do Conselho Regional de Educação Física (CREF), inciou a apresentação com ênfase na história da regulamentação da Educação Física. Em 1998, o Brasil se destacou na área em nível mundial. Mais de 20 anos se passaram desde a promulgação e a tecnologia se encontra, atualmente, como um instrumento influenciador no trabalho cotidiano. \"Essa geração é conectada com as redes sociais e as pessoas, então quanto mais conectado você for, a possibilidade de sucesso vai ser muito maior\", disse.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/img_2084-e1654895918553.jpg?resize=4196%2C3452&amp;ssl=1\" alt=\"\" width=\"4196\" height=\"3452\"><figcaption>O palestrante Felipe Goulart reverberou a empatia como um fator importante no exercício da profissão. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/img_2095-e1654896010985.jpg?resize=2601%2C2601&amp;ssl=1\" alt=\"\" width=\"2601\" height=\"2601\"><figcaption>Emanuela Meirelles acrescentou o desempenho do Conselho Regional de Educação Física na conferência. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/img_2103.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Para o professor Álvaro Alves, os encontros com profissionais permitem uma troca de experiência e conhecimento aos alunos. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/img_2098.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>A universitária Juliana Sobral entendeu a integração da área tecnológica com a Educação Física. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/img_2099-e1654896103747.jpg?resize=3262%2C2813&amp;ssl=1\" alt=\"\" width=\"3262\" height=\"2813\"><figcaption>O discente Pedro Corrêa deseja ser preparador físico após a formação na faculdade e revela como o seminário foi significativo. (Foto: Pedro Amorim)</figcaption></figure><p>Comunicação e criatividade foram assuntos discutidos. A propaganda relacionada a prática das atividades movimentou um debate sobre quais corpos são protagonistas na mídia. \"Atividade física não tem relação com o corpo, tem relação com a saúde. Parem de ser a estética, imagem ou performance, e comecem a ser saúde\", ressaltou.</p><p><strong>Felipe Goulart destaca dicas aos futuros profissionais do ramo.</strong></p><figure><div><iframe src=\"https://www.youtube.com/embed/htbfmEgog7I?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p>Quem estava presente na reunião foi Emanuela Meirelles, a gestora do CREF de relacionamento da região Barra da Tijuca, Recreio e São Conrado. Ao parabenizar os participantes da palestra pela escolha da Educação Física como função e serviço, Emanuela explicou sobre a atuação do Conselho: \"É saber que a profissão deles é regulamentada e tem um órgão que protege, fiscaliza, acompanha e valoriza\".</p><p>\"O futuro do mercado de trabalho do profissional de Educação Física\" marcou o primeiro evento presencial do curso no campus. O professor e coordenador de Educação Física Álvaro Alves já tem ideias de programações que prometem agitar a UVA Barra, principalmente, no dia do profissional de Educação Física, 1º de setembro.</p><p><strong>Álvaro Alves, professor e coordenador, comenta a importância da interação através das palestras.</strong></p><figure><div><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1285044934&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Álvaro Alves, professor e coordenador, comenta a importância da interação através das palestras by Agência UVA Barra\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p>Os estudantes Pedro Felipe Corrêa do 3º período e Juliana Sobral do 5º período de Educação Física participaram do seminário. Para eles, o conhecimento sobre como atuar nas redes sociais como ferramenta de nicho foi fundamental. \"Essa palestra agregou muito. O diferencial foi o que Felipe disse sobre equipamentos multimídia, a presença do personal e a individualidade biológica\", concluíram os alunos.</p><p><em>Pedro Amorim – 6º período</em><br><em>Editado por Lucas Souza – 7º período</em></p></main>"
+  },
+  "date": "2022-06-10T18:39:17",
+  "date_gmt": "2022-06-10T21:39:17",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Pela manhã de sexta-feira, 10/06, no campus Barra, aconteceu o seminário “O futuro do mercado de trabalho do profissional de Educação Física” com Felipe Goulart, mestre em Ciências da Atividade Física. Os alunos do curso tiveram a oportunidade de ter contato com o profissional da área para saber mais sobre a pós-formação e a modernização da profissão. </p>\n"
+  },
+  "featured_media": 12160,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12147"
+  },
+  "id": 12147,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/capa-site-agencia-2022-3.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-39V",
+  "link": "https://agenciauvabarra.com/2022/06/10/futuro-do-mercado-de-trabalho-e-tema-do-primeiro-evento-presencial-do-curso-de-educacao-fisica-na-uva-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-06-10T18:55:53",
+  "modified_gmt": "2022-06-10T21:55:53",
+  "ping_status": "open",
+  "slug": "futuro-do-mercado-de-trabalho-e-tema-do-primeiro-evento-presencial-do-curso-de-educacao-fisica-na-uva-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Futuro do mercado de trabalho é tema do primeiro evento presencial do curso de Educação Física na UVA Barra"
+  },
+  "type": "post"
+}

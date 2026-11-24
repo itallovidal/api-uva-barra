@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19270/revisions/19283",
+        "id": 19283
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19270"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19270",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19270/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19270"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19276"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19270",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19270",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    23208,
+    2366,
+    670411728,
+    14603,
+    39479,
+    6669656
+  ],
+  "class_list": [
+    "post-19270",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-entretenimento",
+    "category-eventos",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-publicidade",
+    "category-secom",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Clara Soares, assistente de direção para produções audiovisuais, veio até a Universidade Veiga de Almeida campus Barra nesta sexta-feira (26) para compor a programação do último dia de Semana da Comunicação. Durante palestra, Clara mencionou os desafios e as oportunidades do setor audiovisual no Brasil e destacou a importância da organização no processo de produção.</p><p><img src=\"https://agenciauvabarra.com/8684187b-a560-4260-92aa-07a42aad9e82\" alt=\"\" width=\"605\" height=\"348\"></p><p>“Ser comunicólogo é dar um jeito, é paixão”, disse Clara.</p><p>Ao decorrer da palestra Clara abordou temas como o desenvolvimento da tecnologia e afirmou que o audiovisual é um campo movido por pessoas e criatividade. Mais do que equipamentos sofisticados, é a dedicação da equipe e a clareza no planejamento que vão determinar a qualidade de um projeto e fazer a diferença para que o produto final se destaque dos demais.</p><p>A palestrante ressaltou que o fluxo de produção de um filme ou série envolve múltiplas etapas e demanda organização e detalhismo em cada etapa. O produtor precisa lidar com diferentes contextos e orçamentos. “O produtor está ali para produzir na realidade que tem”, ressaltou lembrando que conhecer o território e administrar bem o tempo são competências essenciais.</p><p>O roteiro vai muito além da construção narrativa, é também uma ferramenta prática de organização, de acordo com a assistente de direção, que explicou que um roteiro detalhado funciona como uma planilha de produção, capaz de orientar até questões de custos e cronogramas.</p><p>Outro ponto abordado na palestra foi a relevância da distribuição. Clara lembrou que o aspecto financeiro impacta diretamente essa etapa, permitindo que, dependendo do orçamento, o conteúdo chegue ao público com mais agilidade e qualidade ou não.</p><p>A escolha das narrativas a seguir também foi destaque. Clara aconselhou aos alunos a pensarem em que tipo de histórias as pessoas querem ouvir como público consumidor, reforçando que o audiovisual precisa refletir os contextos históricos e sociais. As produções audiovisuais vão além de algo com fim meramente de entretenimento, são também agentes de transformação e formação de opiniões. Nesse processo, buscar referências se faz indispensável.</p><p>A palestra foi encerrada deixando aos alunos a mensagem de que para ser produtor audiovisual e trabalhar com comunicação exige muito mais do que técnica ou talento, é preciso ter paixão e ser cuidadoso com o que produz.</p><p>Clara Luz – 6º Período</p></main>"
+  },
+  "date": "2025-10-02T12:48:21",
+  "date_gmt": "2025-10-02T15:48:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Assistente de direção, Clara Soares, ressalta que organização, referências e atenção às tendências são fundamentais para destacar uma produção audiovisual</p>\n"
+  },
+  "featured_media": 19276,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19270"
+  },
+  "id": 19270,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/whatsapp-image-2025-10-02-at-12.43.40-2.jpeg?fit=1600%2C900&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-50O",
+  "link": "https://agenciauvabarra.com/2025/10/02/secom-o-trabalho-do-produtor-audiovisual/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-10-02T12:48:21",
+  "modified_gmt": "2025-10-02T15:48:21",
+  "ping_status": "open",
+  "slug": "secom-o-trabalho-do-produtor-audiovisual",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "SECOM: O Trabalho do Produtor Audiovisual "
+  },
+  "type": "post"
+}

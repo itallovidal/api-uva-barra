@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21379/revisions/21476",
+        "id": 21476
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21379"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21379",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21379/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21379"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21345"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21379",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21379",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [],
+  "class_list": [
+    "post-21379",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Termina amanhã(06/05) o prazo para tirar ou regularizar o título de eleitor. É possível resolver online ou presencialmente, mas atenção; a biometria precisa ser feita no cartório. Fique em dia com a justiça Eleitoral e garanta seu voto.</p><p>Quer saber mais sobre? Sintonize agora na Rádio UVA Barra!</p><figure><blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/reel/DX-B-mqp9E7/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:500px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/reel/DX-B-mqp9E7/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a></div></blockquote><script async src=\"//platform.instagram.com/en_US/embeds.js\"></script></div></figure><p>Roteiro e Apresentação: Malu Cordeiro – 3º período de Jornalismo<br>Edição: Malu Cordeiro- 3º período de Jornalismo<br>Coordenação Rádio UVA Barra: Prof. Anderson Barreto<br>Coordenação do Curso de Jornalismo: Profa. Renata Feital</p></main>"
+  },
+  "date": "2026-05-05T11:57:28",
+  "date_gmt": "2026-05-05T14:57:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Termina amanhã(06/05) o prazo para tirar ou regularizar o título de eleitor. É possível resolver online ou presencialmente, mas atenção; a biometria precisa ser feita no cartório. Fique em dia com a justiça Eleitoral e garanta seu voto. Quer saber mais sobre? Sintonize agora na Rádio UVA Barra! Roteiro e Apresentação: Malu Cordeiro – 3º [&hellip;]</p>\n"
+  },
+  "featured_media": 21345,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21379"
+  },
+  "id": 21379,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-06-113047-e1778077932904.png?fit=565%2C258&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5yP",
+  "link": "https://agenciauvabarra.com/2026/05/05/hertz-regularizacao-do-titulo-de-eleitor/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAXiYvpmB7C367pCEO7uYKdEcLfrukIrgKkAoAgsBEIDAgEFgwQggEIDgosNJwBLAYaAgwVAAYWDAYDAA4CBAIGGOoTqBTIOkKyB0KkAlg+WJ4RogFYPkKqAUKqAULcIfABOgEQVIoBShABAQgBA0gKSrAHAQEIAQNICkqMAgEBCAEDSAIEAgECSCYBAQgBA0gCBAIBAvgLmBkDAZQBBAIEJgMBnAEDAdIRAOwKiB3kEqgSAQEIAQNIAghKPAEBCAJCAQJIAKgBAQEIAkIBAkgAqAEBAQgCQgECSN4ico4cAwGIC+wJAwK2EwYDAAUAAgYDAhICCgIOAh4CIAIGAwEIAwAIAioeAhICEgISAg4aAgoCKgQCGAMACgISAggFAgISBAgFAAMBDAMDBhjgOQKWCgEAhg4DAZQBBAIE5hs9sjEIDAgEFgwQggEIDgosNJwBLAYaAgwVAAYWDAYDAA4CBAIGGOoT6CXwAYocAwEAnAEDAfIDAwGUAQQCBO0CKACEAMQhIQDEAKgBKACoACgAqAAoAKgAKACoASgAqAAoAKgAKACoACgDxAAhAicAAQAnASgAIQAoBCcAKBIhAScAQQCBAIQABwAhACgBJwEoBCcABACHACEAKAEnASgEJwAEAIcAIQAoACEAJwAhBScAoQCoACcAKAOHACEAKAAhACcAIQUnAKEAqAAnACgDBACEDyEAKACEAIEAhwAhACgBJwEoBCcAoQAEAIcAIQAoAScBBAAoBCcAhwAhACgBJwEEACgEJwCHACEAKAEnAQQAKAQnAKgBxAiEAIEAhACBAIQAgQCEAIEAhACBAIQBgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAYEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQCgQCEAYEAhASoAKEAKALEB6iHJPchc3RhdGV2ZXJzaW9uUm90ZWlybyBlIEFwcmVzZW50YcOnw6NvOiBNYWx1IENvcmRlaXJvIOKAkyAzwrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbzxicj5FZGnDp8OjbzogTWFsdSBDb3JkZWlyby0gM8K6IHBlcsOtb2RvIGRlIEpvcm5hbGlzbW88YnI+Q29vcmRlbmHDp8OjbyBSw6FkaW8gVVZBIEJhcnJhOiBQcm9mLiBBbmRlcnNvbiBCYXJyZXRvPGJyPkNvb3JkZW5hw6fDo28gZG8gQ3Vyc28gZGUgSm9ybmFsaXNtbzogUHJvZmEuIFJlbmF0YSBGZWl0YWxSb3Rlcm8gcGVzZW50w6fDo29NbHVDb2Vy4oCTcGJFZGnDp8Ojb3BickNvb2RlbsOnw6NvUsOhZGlvVVZBIEI6UGYubmRyb25CYXJydG88Yj5Db3JlbmHDp8OjbyBDdXJzbyBkOiBQcm9mYS4gUmVuYXRhIEZlaXRhbHN0YXRldmVyc2lvbmFtcDtvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRkb2N1bWVudHNsdWdzdGF0ZXNhdmVkQXRzdGF0ZXNhdmVkQnlQb2RjYXN0IEluZm9ybWF0aXZvc3RhdGV2ZXJzaW9uZG9jdW1lbnRkYXRlZG9jdW1lbnRzdGF0dXNkb2N1bWVudHRpdGxlZG9jdW1lbnRjb250ZW50ZG9jdW1lbnRleGNlcnB0ZG9jdW1lbnRhdXRob3Jkb2N1bWVudGZlYXR1cmVkX21lZGlhZG9jdW1lbnRjb21tZW50X3N0YXR1c2RvY3VtZW50cGluZ19zdGF0dXNkb2N1bWVudHN0aWNreWRvY3VtZW50dGVtcGxhdGVkb2N1bWVudGZvcm1hdGRvY3VtZW50bWV0YWFkdmFuY2VkX3Nlb19kZXNjcmlwdGlvbmpldHBhY2tfc2VvX2h0bWxfdGl0bGVqZXRwYWNrX3Nlb19ub2luZGV4X2NvYmxvY2tzX2F0dHJfY29ibG9ja3NfZGltZW5zaW9uc19jb2Jsb2Nrc19yZXNwb25zaXZlX2hlaWdodF9jb2Jsb2Nrc19hY2NvcmRpb25faWVfc3VwcG9ydGpldHBhY2tfcG9zdF93YXNfZXZlcl9wdWJsaXNoZWRyZWFkZXJfc3VnZ2VzdGVkX3RhZ3NfamV0cGFja19uZXdzbGV0dGVyX2FjY2Vzc19qZXRwYWNrX2RvbnRfZW1haWxfcG9zdF90b19zdWJzX2pldHBhY2tfbmV3c2xldHRlcl90aWVyX2lkX2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGF5d2FsbGVkX2NvbnRlbnRfamV0cGFja19tZW1iZXJzaGlwc19jb250YWluc19wYWlkX2NvbnRlbnRmb290bm90ZXNqZXRwYWNrX3B1YmxpY2l6ZV9tZXNzYWdlamV0cGFja19wdWJsaWNpemVfZmVhdHVyZV9lbmFibGVkamV0cGFja19zb2NpYWxfcG9zdF9hbHJlYWR5X3NoYXJlZGpldHBhY2tfc29jaWFsX29wdGlvbnNkb2N1bWVudGNhdGVnb3JpZXNkb2N1bWVudHRhZ3Nkb2N1bWVudGJsb2NrczogY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NUZXJtaW5hIGFtYW5ow6MoMDYvMDUpIG8gcHJhem8gcGFyYSB0aXJhciBvdSByZWd1bGFyaXphciBvIHTDrXR1bG8gZGUgZWxlaXRvci4gw4kgcG9zc8OtdmVsIHJlc29sdmVyIG9ubGluZSBvdSBwcmVzZW5jaWFsbWVudGUsIG1hcyBhdGVuw6fDo287IGEgYmlvbWV0cmlhIHByZWNpc2Egc2VyIGZlaXRhIG5vIGNhcnTDs3Jpby4gRmlxdWUgZW0gZGlhIGNvbSBhIGp1c3Rpw6dhIEVsZWl0b3JhbCBlIGdhcmFudGEgc2V1IHZvdG8uY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NRdWVyIHNhYmVyIG1haXMgc29icmU/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhIWNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2FwdGlvbnByb3ZpZGVyTmFtZVNsdWdhbGxvd1Jlc3BvbnNpdmVyZXNwb25zaXZlcHJldmlld2FibGVjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NhcHRpb25wcm92aWRlck5hbWVTbHVnYWxsb3dSZXNwb25zaXZlcmVzcG9uc2l2ZXByZXZpZXdhYmxlPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPlRlcm1pbmEgYW1hbmjDoygwNi8wNSkgbyBwcmF6byBwYXJhIHRpcmFyIG91IHJlZ3VsYXJpemFyIG8gdMOtdHVsbyBkZSBlbGVpdG9yLiDDiSBwb3Nzw612ZWwgcmVzb2x2ZXIgb25saW5lIG91IHByZXNlbmNpYWxtZW50ZSwgbWFzIGF0ZW7Dp8OjbzsgYSBiaW9tZXRyaWEgcHJlY2lzYSBzZXIgZmVpdGEgbm8gY2FydMOzcmlvLiBGaXF1ZSBlbSBkaWEgY29tIGEganVzdGnDp2EgRWxlaXRvcmFsIGUgZ2FyYW50YSBzZXUgdm90by48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5RdWVyIHNhYmVyIG1haXMgc29icmU/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhITwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDplbWJlZCB7InByb3ZpZGVyTmFtZVNsdWciOiJzcG90aWZ5IiwicmVzcG9uc2l2ZSI6dHJ1ZX0gLy0tPgoKPCEtLSB3cDplbWJlZCB7InByb3ZpZGVyTmFtZVNsdWciOiJpbnN0YWdyYW0iLCJyZXNwb25zaXZlIjp0cnVlfSAvLS0+dXJsdHlwZVJlZ3VsYXJpemHDp8OjbyBkbyBUw610dWxvIGRlIEVsZWl0b3JjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc0VxdWlwZSBVVkEgQmFycmE6Y2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50RHVkYSBOaWNvbGljaCAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRNYWx1IENvcmRlaXJvIC0gM8K6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW9kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudENhcm9saW5hIEFsdmVzIC0gNcK6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW9kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc3VybCI6Imh0dHM6Ly93d3cuaW5zdGFnYW0uY20vcmVlbC9EWC1CLW1xcDlFNy8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rXHUwMDI2aWdzaD1NelJsT0RCaU5XRmxaQT09IiwidHlwZSI6InJpY2giLCJwcm8tLT4KPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2stZW1iZWQgaXMtdHlwZS1yaWNoIGlzLXByb3ZpZGVyLWluc3RhZ3JhbSB3cC1ibG9jay1lbWJlZC1pbnN0YWdyYW0iPjxkaXYgY2xhc3M9IndwLWJsb2NrLWVtYmVkX193cmFwcGVyIj4KaHR0cHM6L3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRFhCbXFwOUU3Lz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmYW1wO2lnc2g9TXpSbE9EQmlOV0ZsWkE9PQo8L2RpdjwvZmlndXJlPgo8IS0tIC93cDplbWJlZCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5pZSBBcmE6IGEgcmRpbyAgM8K6IGVyw61vZG8gZGUgSm9ybmFsaXNtbzxyPjogTWFsdSBDb3JkZWlyby0gM8K6IGVyw61vZG8gZGUgSm9ybmFsaXNtbzw+cmEgIGFycmEgcm8gQWVzIGVyb2RvIGRlIEpvcm5hbGlzbW88L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT51cmx0eXBlY2xhc3NOYW1ldXJsIjoiaHR0czovL29wZW4uc3BvdGlmeS5jb20vZXBpc29kZS8yZUgwbktEeG5RWU5BS1lxRkUwN0htP3NpPTdvV0NHcVZXUlpHdWxqZHhHUlhRdyIsInR5cGUiOiJ2aWRlIiwicHJvLCJjbGFzc05hbWUiOiJ3cC1lbWJlZC1hc3BlY3QtMTYtOSB3cC1oYXMtYXNwZWN0LXJhdGlvIi0tPgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1lbWJlZCBpcy10eXBlLXZpZGVvIGlzLXByb3ZpZGVyLXNwb3RpZnkgd3AtYmxvY2stZW1iZWQtc3BvdGlmeSB3cC1lbWJlZC1hc3BlY3QtMTYtOSB3cC1oYXMtYXNwZWN0LXJhdGlvIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi9vcGVuLnNwb3RpZnkuY29tL2VwaXNvZGUvMmVIMG5LRHhuUVlOQUtZcUZFMDdIbT9zaT03b1dDR3FWV1JaR3VsanJkeEdSWFF3CjwvZGl2PjwvZmlndXJlPgo8ISAvd3A6ZW1iZWQgLS0FB6YDBAMBBQMBQgBBAwYBAkMBRQBBAEIAAQJEAEIABQkWBQcETwYIBAUHBQcTBQcIBAgGCAUIBwgHCAYIDggOCAsIBkgBBggEGBYTDhQbHh8VGiAbLyoJGSEiFggKCAQIBgIIBwQKRwAKDQ8MC6wDCAcECkcACg0PDAs6CAcECkcACg0PDAsHEA8KCwgHBApHAAoNDwwLBxAPCguiBkEBKgIBAhNBAS5BAgMEIggHBApHAAoNDwwLEQgHBAoHKAcKDQ8MCwgHBAoHKAcKDQ8MCwgHBAoHKQcKDQ8MCwkOBDUpiwIaAYMBNwECQQoEFUECDQUVQQNCAAFCAEEFAwwbAwRJAIUBFQY3sQKdAQ0PAQEABwEGAAABCQASAQIAJEIBAQBBAAIAQQACAEEAAAJBAAACQQACAEEAAgBBAAIAQQACAC1BGBNBGwRBUgMBAgMBCQUHDxADAQRBAA9JAQdBAAIMBQkEQgAJBAIGQQADQQIDJAB9ARgAdQN9mcyY6gR9rL6XBX2G8+m4AXckMDM5ZjFiNmUtYjZhNy00OTczLWE5MWEtMWVkZmQ0Yjg5ODEzd/sBPHA+VGVybWluYSBhbWFuaMOjKDA2LzA1KSBvIHByYXpvIHBhcmEgdGlyYXIgb3UgcmVndWxhcml6YXIgbyB0w610dWxvIGRlIGVsZWl0b3IuIMOJIHBvc3PDrXZlbCByZXNvbHZlciBvbmxpbmUgb3UgcHJlc2VuY2lhbG1lbnRlLCBtYXMgYXRlbsOnw6NvOyBhIGJpb21ldHJpYSBwcmVjaXNhIHNlciBmZWl0YSBubyBjYXJ0w7NyaW8uIEZpcXVlIGVtIGRpYSBjb20gYSBqdXN0acOnYSBFbGVpdG9yYWwgZSBnYXJhbnRhIHNldSB2b3RvLjwvcD53JDI0M2U2M2ZlLTgxNjItNDI4Mi1iYWMzLTc5NDNiYjRkNjA2NXdCPHA+UXVlciBzYWJlciBtYWlzIHNvYnJlPyBTaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSE8L3A+dyQ3NDA0M2ZlMi1hYzVmLTRmODgtYjVmOC1lOThmZGIyMGM0ZmV3iAI8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1lbWJlZCBpcy10eXBlLXZpZGVvIGlzLXByb3ZpZGVyLXNwb3RpZnkgd3AtYmxvY2stZW1iZWQtc3BvdGlmeSB3cC1lbWJlZC1hc3BlY3QtMTYtOSB3cC1oYXMtYXNwZWN0LXJhdGlvIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lcGlzb2RlLzJlSDBuS0R4blFZTkFLWXFGRTA3SG0/c2k9N29XQ0dxVldSWkd1bGpyZHhHUlhRdwo8L2Rpdj48L2ZpZ3VyZT53JGNiMmZkNWE1LTI3YjUtNGY2Zi1iNDJhLTg4ZTY5ODMzNTUzYXfyATxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWVtYmVkIGlzLXR5cGUtcmljaCBpcy1wcm92aWRlci1pbnN0YWdyYW0gd3AtYmxvY2stZW1iZWQtaW5zdGFncmFtIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EWC1CLW1xcDlFNy8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmFtcDtpZ3NoPU16UmxPREJpTldGbFpBPT0KPC9kaXY+PC9maWd1cmU+d2FodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRFgtQi1tcXA5RTcvP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGluayZhbXA7aWdzaD1NelJsT0RCaU5XRmxaQT09dyRjNDhjNDU1OC1hZDc3LTQyZTUtYjI3Yi0yN2EyOTdlMGEyZjd3GDxwPkVxdWlwZSBVVkEgQmFycmE6PC9wPnckZDUwZWUyMTgtYjczOS00YzZjLTk3MWUtZTRjMjU1ODk0NGY1dzE8cD5EdWRhIE5pY29saWNoIC0gM8K6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW88L3A+dyQ0Mzg0ZDI2Mi1mZjRlLTQ2MWQtOTE0Zi1jOTVkOGJjMTY5Yzh3MTxwPk1hbHUgQ29yZGVpcm8gLSAzwrogUGVyw61vZG8gZGUgSm9ybmFsaXNtbzwvcD53JDkwZjI5MTY0LTg0MGQtNDllYS1hMDI1LTE1YmJiZjYyMTlhNXcyPHA+Q2Fyb2xpbmEgQWx2ZXMgLSA1wrogUGVyw61vZG8gZGUgSm9ybmFsaXNtbzwvcD53KGhlcnR6LXJlZ3VsYXJpemFjYW8tZG8tdGl0dWxvLWRlLWVsZWl0b3J7Qnnf3dr3sAB7QeE6Cc9gAACZAgB9muCucncEb3BlbncEb3Blbnl3AHcIc3RhbmRhcmR3AHcAeXcAdwB3AHcAeXcAdwB5fQB5eXcAdwB4eXYCGGltYWdlX2dlbmVyYXRvcl9zZXR0aW5nc3YECHRlbXBsYXRldwdoaWdod2F5EGRlZmF1bHRfaW1hZ2VfaWR9AARmb250dwAHZW5hYmxlZHkHdmVyc2lvbn0CeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcKY29yZS9lbWJlZHcHc3BvdGlmeXh4eHh3CmNvcmUvZW1iZWR3CWluc3RhZ3JhbXh4eHcEcmljaHh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eX2hzQJ3EzIwMjYtMDUtMDVUMTE6NTc6Mjh1AX2w7ficBXdRaHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VwaXNvZGUvMmVIMG5LRHhuUVlOQUtZcUZFMDdIbT9zaT03b1dDR3FWV1JaR3VsanJkeEdSWFF3dwV2aWRlb3cod3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpb3cHcHVibGlzaAL7nMHOCAIAABAFwq/XtAQ2AAIBEgMAGQEBBAMA9wEARQABAAEFAQAHAAEAAQUBAKIEACMAAQAKrgGbAwIBAAIBAQIBAAIIAQQBBgEOAQ8BAgEAAQMBAAQAFQ4BCAEIAQgBBg0ABQAVAQELAgQBCAEDAgECAQEIAgMCAQMFAgAtAg==\",\"updateId\":84816179}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-06T13:16:14",
+  "modified_gmt": "2026-05-06T16:16:14",
+  "ping_status": "open",
+  "slug": "hertz-regularizacao-do-titulo-de-eleitor",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Informativo: Regularização do Título de Eleitor"
+  },
+  "type": "post"
+}

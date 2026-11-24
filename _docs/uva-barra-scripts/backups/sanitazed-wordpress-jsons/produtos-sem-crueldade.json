@@ -1,0 +1,155 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1656/revisions/3123",
+        "id": 3123
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1656"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1656",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1656/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1656"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1656",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1656",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366,
+    405710
+  ],
+  "class_list": [
+    "post-1656",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "category-veganismo"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Stands veganos chegam à Feira da Providência</h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/12/img_9332.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"IMG_9332\" width=\"5184\" height=\"3456\" /><figcaption>Stand da loja \"Enock\" na Feira da Providência. Foto: Giovanna Faria</figcaption></figure><p>Na 57° edição, a Feira da Providência inova com a moda vegana no Riocentro. Esse conceito ainda novo, atraiu os olhos de muitos visitantes, e consiste no estilo de vida vegano, no qual não se consome nada que venha de alguma exploração animal. Mas algumas pessoas optam trabalhar dessa forma não só por essa questão, visam comercializar produtos artesanais e sem mão de obra escrava.</p><p>Entre as atrações, a loja \"Enock\" trouxe essa tendência em bolsas, sapatos, carteiras e acessórios. A dona desse estabelecimento, Karine Cordeiro, que trabalha na parte de produção e design , é vegetariana há dezesseis anos e vegana há um. Ela explica que já trabalhava com o comércio antes de conhecer o veganismo, porém, com o tempo, percebeu que não queria participar dessa exploração. \"O bom de vender esse tipo de mercadoria é que a gente acaba conscientizando o outro\".</p><p>O marido da Karine, Genilson dos Santos, também é dono e afirma que para ele o mais importante é construir um laço com o cliente. \" Esse tipo de estabelecimento não é capitalista, não visa o lucro, é um comércio mais humanizado\". Mas, ele conta que nem tudo é fácil, por não usarem couro animal, muitas pessoas desqualificam o trabalho dele. \"É que ainda tem muita gente que não conhece esse tipo de material, e acaba ficando com medo de investir\".</p><div class=\"wp-block-image wp-image-1658 alignleft\"><figure class=\"alignleft\"><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/12/img_9351.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"IMG_9351\" width=\"5184\" height=\"3456\" /><figcaption>Proprietária da loja \"Les Amôres\", Georgia Albertini, na Feira da Providência. Foto: Pablo Siviero</figcaption></figure></div><p>\"Les Amôres\" foi outra loja que trouxe esse conceito para o evento, só que com cosméticos. Georgia Albertini é dona do estabelecimento, e admite que sempre busca uma opção mais saudável, e que toma muito cuidado na hora de fazer as compras. \"A pessoas não tem ideia do que estão consumindo, por trás das embalagens podem ter exploração e mão de obra escrava'. Ela conta que o movimento não é tão grande, tendo em vista que grande parte dos visitantes da feira não são veganos. \" Os clientes que mais se interessam são aqueles que se preocupam com a sáude e bem-estar, mais mulheres do que homens\".</p><p>Trazer o veganismo para a Feira da Providência pela primeira vez despertou olhares curiosos. A jovem Carina Bickel, mesmo não sendo vegana incentiva muito essas lojas e prioriza materiais assim. \"Eu gostaria muito de seguir essa ideologia, mas como tenho uma alimentação muito restritiva, fica inviável para mim, porém tudo que não vem de animal, seja reciclável e natural, é minha preferência\". Por meio de feiras, eventos e palestras que as pessoas vão ter acesso à essa ideologia de vida, que tem como objetivo o bem-estar da pessoa, do animal e do meio-ambiente.</p><p>Bruna Barros, 3º período</p></main>"
+  },
+  "date": "2017-12-04T15:57:56",
+  "date_gmt": "2017-12-04T17:57:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Stands veganos chegam à Feira da Providência </p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1656"
+  },
+  "id": 1656,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-qI",
+  "link": "https://agenciauvabarra.com/2017/12/04/produtos-sem-crueldade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:57:48",
+  "modified_gmt": "2019-01-31T14:57:48",
+  "ping_status": "open",
+  "slug": "produtos-sem-crueldade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Produtos sem crueldade"
+  },
+  "type": "post"
+}

@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6709/revisions/6927",
+        "id": 6927
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6709"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6709",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6709/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6709"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6711"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6709",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6709",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-6709",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Empreendedores buscam alternativas para reduzir perdas</em></p><p>A pandemia do coronavírus impôs o fechamento do comércio e serviços em diversas regiões do país, causando prejuízos às pequenas empresas. Um estudo feito pelo Sebrae, entre os dias 3 e 7 de abril, mostrou que 87,5% dos pequenos negócios tiveram queda no faturamento mensal e de 69% em relação a uma semana normal. O estudo ouviu 6.080 empreendedores de diversos setores. A solução encontrada por alguns desses comerciantes foi empreender. Mais uma vez.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/foto-thania-1.jpg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\" /><figcaption>Thânia Araujo estava no auge da sua clínica de estética, mas os negócios foram interrompidos devido a pandemia. Foto: Reprodução/Redes Sociais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/foto-malavota.jpg?ssl=1\" alt=\"\" width=\"581\" height=\"1032\" /><figcaption>O especialista em vendas Gustavo Malavota já formou mais de 20 mil vendedores pelo Brasil. Foto: Divulgação. </figcaption></figure><p>O salão de beleza em que Márcio S. trabalha, apostou em vouchers para driblar a crise imposta pela COVID-19. Com o estabelecimento fechado e acreditando na fidelidade dos clientes, o salão escolheu vender serviços com desconto e antecipadamente para motivar a venda e gerar receita. “A gente espera que novas normas de segurança sejam impostas e que tudo volte a funcionar logo”. Para alguns casos específicos, Márcio diz que ele mesmo faz o atendimento domiciliar.</p><p>No entanto, nem todos os serviços conseguem ser levados até a casa do cliente. Thânia Araujo possuí uma clínica de estética e estava mudando o local do seu negócio quando começou a pandemia. Forçada a alterar o planejamento, enxergou uma oportunidade. “Eu tenho uma grande rede de contatos e vi que as pessoas estavam procurando produtos de limpeza e álcool em gel. Como a demanda estava alta, comecei a vender”.</p><p>O empreendimento com vendas teve sucesso, Thânia expandiu o negócio e agora até entrega outros produtos em domicílio. “Tem muita gente procurando máscara, cestas personalizadas para presentear, além dos produtos de antes. Com a entrega fica mais fácil e mais seguro, para mim e para o cliente”, diz.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/cesta-1-1.jpg?resize=774%2C1032&amp;ssl=1\" alt=\"\" width=\"774\" height=\"1032\" /><figcaption>Cesta personalizada feita por Thânia Araujo – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/cesta-2.jpg?resize=581%2C1032&amp;ssl=1\" alt=\"\" width=\"581\" height=\"1032\" /><figcaption>Cesta personalizada feita por Thânia Araujo – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/mascara-1.jpg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\" /><figcaption>Com a procura, Thânia passou a revender máscaras. – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/mascara-2.jpg?resize=581%2C1032&amp;ssl=1\" alt=\"\" width=\"581\" height=\"1032\" /><figcaption>Thânia tem diversos tipos de máscaras para tentar atender o máximo de clientes. – Foto: Arquivo Pessoal</figcaption></figure><p>Para o especialista em vendas, Gustavo Malavota, a maior dificuldade durante a pandemia é a tomada de decisão em um período tão complicado “A incerteza hoje é o maior vilão para o comerciante por conta da falta de informações, mas a hora de acertar as previsibilidades”, afirma. O fundador do Instituto Vendas, entidade que treina profissionais de diversas redes varejistas, acredita que o sucesso na retomada estará em entender o comportamento dos consumidores e, também, fazer pesquisas para esse novo mercado.</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F819708751&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"SoundCloud\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe><p><strong>Pedro José Alves – 7º Período / Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-14T17:50:44",
+  "date_gmt": "2020-05-14T20:50:44",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Empreendedores buscam alternativas para reduzir perdas A pandemia do coronavírus impôs o fechamento do comércio e serviços em diversas regiões do país, causando prejuízos às pequenas empresas. Um estudo feito pelo Sebrae, entre os dias 3 e 7 de abril, mostrou que 87,5% dos pequenos negócios tiveram queda no faturamento mensal e de 69% em [&hellip;]</p>\n"
+  },
+  "featured_media": 6711,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6709"
+  },
+  "id": 6709,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/foto-malavota-e1589551710484.jpg?fit=847%2C841&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Kd",
+  "link": "https://agenciauvabarra.com/2020/05/14/desafios-dos-pequenos-negocios-durante-a-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-29T18:40:55",
+  "modified_gmt": "2020-05-29T21:40:55",
+  "ping_status": "open",
+  "slug": "desafios-dos-pequenos-negocios-durante-a-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Desafios dos pequenos negócios durante a pandemia"
+  },
+  "type": "post"
+}

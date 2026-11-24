@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18432/revisions/18444",
+        "id": 18444
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18432"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18432",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18432/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18432"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18433"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18432",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18432",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366
+  ],
+  "class_list": [
+    "post-18432",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O Festival 3i de Jornalismo reúne profissionais e estudantes para discutir inovação, tecnologia, diversidade e combate à desinformação.</p><p>A sexta edição nacional do Festival de Jornalismo Inovador, Inspirador e Independente, reuniu nos dias 6 a 8 de junho de 2025, na ESPM Rio, jornalistas, estudantes, pesquisadores e empreendedores para três dias imersivos em debates, oficinas, apresentações de cases e sessões colaborativas sobre boas práticas no Jornalismo Independente.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/image-13.jpeg?resize=828%2C467&amp;ssl=1\" alt=\"\" width=\"828\" height=\"467\"><figcaption>Samanta do Carmo, gerente executiva da Ajor. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/image-14.jpeg?resize=474%2C1026&amp;ssl=1\" alt=\"\" width=\"474\" height=\"1026\"><figcaption>Annie Verusckha, estudante de Jornalismo da UFRB. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/image-15.jpeg?resize=483%2C1047&amp;ssl=1\" alt=\"\" width=\"483\" height=\"1047\"><figcaption>Bárbara Jamile, estudante de Jornalismo da UFRB. (Reprodução: Agência Uva Barra)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/image-16.jpeg?resize=900%2C1600&amp;ssl=1\" alt=\"\" width=\"900\" height=\"1600\"><figcaption>Daniela Cisneiros, jornalista e criadora da Contente. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-12-at-16.38.38.jpeg?resize=828%2C1472&amp;ssl=1\" alt=\"\" width=\"828\" height=\"1472\"><figcaption>Palestra QUEM CONTA UM CONTO SEM AUMENTAR UM PONTO: HISTÓRIAS JORNALÍSTICAS EM DIFERENTES LINGUAGENS no festival 3i. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-12-at-16.38.38-1.jpeg?resize=900%2C1600&amp;ssl=1\" alt=\"\" width=\"900\" height=\"1600\"><figcaption>Maickson dos Santos, jornalista independente, criador do podcast Pavulagem. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-12-at-16.38.38-2.jpeg?resize=900%2C1600&amp;ssl=1\" alt=\"\" width=\"900\" height=\"1600\"><figcaption>Daniela Cisneiros, jornalista independente, criadora do Contente. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-12-at-16.38.39.jpeg?resize=900%2C1600&amp;ssl=1\" alt=\"\" width=\"900\" height=\"1600\"><figcaption>Victor dos Santos, jornalista independente, criador do Ciclo Histórias pelo Recife. (Reprodução: Agência Uva Barra).</figcaption></figure><p>Esse festival é o primeiro da América Latina voltado especialmente para a inovação e o empreendedorismo, questões essenciais para o jornalismo digital. Durante toda a conferência foram debatidos temas diversos como Inteligência Artificial, Narrativas Inovadoras, Impacto das Big Techs e o Combate à desinformação.</p><p>O evento possui um papel importante ao ressaltar debates sobre o futuro do Jornalismo a partir de inovações, diversidades, temas da atualidade, tecnologias contemporâneas e ancestrais, da colaboração e da liberdade. E esse ano o festival contou com um novo modelo de atividade, chamado “Diálogos e Tendências”, em que dois debatedores abordaram um tópico específico a partir de pesquisas e experiências.</p><p>Para Samanta do Carmo, gerente executiva da Ajor, o Festival 3i é muito importante para os profissionais da área da Comunicação. Ela lembra que a Ajor surgiu durante uma edição do Festival 3i, a partir da organização de vários jornalistas, fundadores de instituições e veículos jornalísticos, que debateram sobre a necessidade de uma organização do jornalismo digital para entender o cenário de mudanças e os desafios no fazer jornalístico contemporâneo. “A Ajor e o Festival 3i tem hoje esse espaço de encontro para o jornalismo empreendedor, criativo, inovador, pensando nas novas perspectivas, nos desafios recentes que estão redesenhando o que é o jornalismo, como também nos desafios para o jornalismo do futuro”, afirmou Samanta.</p><p>Ela também comentou sobre a importância de se criar um vínculo entre o jornalismo e a comunidade em que o jornalista está inserido e transmite informação, a fim de combater cada vez mais com a desinformação. “O combate à desinformação começa a partir da relação com as pessoas das comunidades. São sentimentos de confiança entre o jornalismo e as pessoas para que elas não sejam atravessadas pela desinformação”, citou Samanta.</p><p>Annie Verusckha, estudante de jornalismo da UFRB, relatou que é a sua primeira vez no festival, mas que ela já está ansiosa para ter um pouco da experiência de como é viver o jornalismo na prática. “Nós, estudantes, que estamos iniciando a carreira, ouvindo os diversos relatos apresentados no Festival, conseguimos ampliar horizontes, incluindo um leque de oportunidades, e essas ideias vão parar nas universidades. Por isso, ir para um ambiente como esse acaba dando a gente uma noção de realidade, de campos, às vezes você sai dali com outra visão” afirmou Annie.</p><p>Para Bárbara Jamile, estudante de jornalismo da UFRB, a conferência mostrou a diversidade de temas que o jornalismo pode oferecer. “O evento está sendo bem inovador ao abordar o universo climático e ampliar nossos repertórios”.</p><p>A palestra que reuniu Daniela Cisneiros, Victor dos Santos e Maickson dos Santos, o público acompanhou os desafios e os privilégios de fazer parte do chamado Jornalismo independente no Brasil.. A palestrante e jornalista Daniela citou que para ela foi muito difícil, no início, conseguir conciliar escrever, gravar, editar e publicar tudo sozinha. “Ao mesmo tempo que é muito empolgante, pelos temas que possuem uma abordagem diferenciada, é também desafiador e arriscado, tal como acontece com os veículos de comunicação tradicionais”, afirmou Daniela Cisneiros.</p><p>O Festival 3i se consolida, assim, como um espaço fundamental para repensar o jornalismo, valorizando diversidade, inovação, independência e conexão com a sociedade.</p><p>Duda Borges – 1°período</p></main>"
+  },
+  "date": "2025-06-12T16:49:35",
+  "date_gmt": "2025-06-12T19:49:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Festival 3i de Jornalismo reúne profissionais e estudantes para discutir inovação, tecnologia, diversidade e combate à desinformação. A sexta edição nacional do Festival de Jornalismo Inovador, Inspirador e Independente, reuniu nos dias 6 a 8 de junho de 2025, na ESPM Rio,&nbsp; jornalistas, estudantes, pesquisadores e empreendedores para três dias imersivos em debates, oficinas, [&hellip;]</p>\n"
+  },
+  "featured_media": 18433,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18432"
+  },
+  "id": 18432,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/image-12.jpeg?fit=1600%2C900&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Ni",
+  "link": "https://agenciauvabarra.com/2025/06/12/jornalismo-do-futuro-em-debate-no-rio-de-janeiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-06-12T16:49:35",
+  "modified_gmt": "2025-06-12T19:49:35",
+  "ping_status": "open",
+  "slug": "jornalismo-do-futuro-em-debate-no-rio-de-janeiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Jornalismo do Futuro em Debate no Rio de Janeiro"
+  },
+  "type": "post"
+}

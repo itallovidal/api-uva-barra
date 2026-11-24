@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17590/revisions/17639",
+        "id": 17639
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17590"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17590",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17590/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17590"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17592"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17590",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17590",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17590",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Em Força Bruta: Sem Saída dirigido por Lee-Sang-Yong, conta a história de um detetive Ma-Seok-do (Ma Dong-seok) buscando resolver um caso de contrabando ilegal de drogas, espancando capangas, lidando com complicações como o gângster japonês Ricky (Aoki Munetaka) e indo atrás de pistas para chegar até o lider Joo Sung-chul (Lee Jun-hyuk).</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/3e30f6a9749aa1f68e3b9a352fa68755.webp?resize=750%2C1073&#038;ssl=1' alt='' width='750' height='1073' /><figcaption></figcaption></figure><p>O longa se propõe a ser um filme de ação, comédia e policial, e é exatamente o que é, com lutas muito bem coreografadas e bem executadas, sua comédia leve e cheias de besteirol, torna o filme impactante e divertido, o roteiro sabe aproveitar os momentos para fazer suas piadas e não se perder nelas, afinal o filme não é apenas isso.</p><p>A dinâmica do protagonista com seus companheiros é quase que completamente apagada, pois quando entramos nas cenas de luta o Ma-Seok-do o roteiro o trata quase como um super humano, o que em si não é um problema no gênero de ação, mas o seu braço direito, o Detetive Ma (Kim Min-jae), é ofuscado durante toda a história, a falta de desafios também é um problema frequente, visto que os antagonistas são apresentados como poderosos, mas nos confrontos finais são decepcionantes.</p><p>A equipe responsável pela trilha sonora do filme merece reconhecimento pela sua ajuda a botar o telespectador no clima das cenas, além da equipe de filmagem, que fez um ótimo trabalho na movimentação das câmeras nas lutas conseguindo nos passar cada impacto das agressões, parabenizo as atuações de: Ma Dong-seok, Lee Jun-hyuk e Munetaka Aoki as estrelas do filme.</p><figure><iframe src='https://www.youtube.com/embed/LA2tDaNRly4?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>Gabriel Veras – 1° Período</p></main>"
+  },
+  "date": "2024-10-09T17:41:26",
+  "date_gmt": "2024-10-09T20:41:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Em Força Bruta: Sem Saída dirigido por Lee-Sang-Yong, conta a história de um detetive Ma-Seok-do (Ma Dong-seok) buscando resolver um caso de contrabando ilegal de drogas, espancando capangas, lidando com complicações como o gângster japonês Ricky (Aoki Munetaka) e indo atrás de pistas para chegar até o lider Joo Sung-chul (Lee Jun-hyuk). O longa se [&hellip;]</p>\n"
+  },
+  "featured_media": 17592,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17590"
+  },
+  "id": 17590,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/3e30f6a9749aa1f68e3b9a352fa68755.webp?fit=750%2C1073&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4zI",
+  "link": "https://agenciauvabarra.com/2024/10/09/agencia-uva-barra-assistiu-forca-bruta-sem-saida/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-10-10T14:33:31",
+  "modified_gmt": "2024-10-10T17:33:31",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-forca-bruta-sem-saida",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: Força Bruta: Sem Saída"
+  },
+  "type": "post"
+}

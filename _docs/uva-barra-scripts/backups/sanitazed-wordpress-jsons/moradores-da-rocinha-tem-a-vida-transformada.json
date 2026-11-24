@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9190/revisions/9204",
+        "id": 9204
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9190"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9190",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9190/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9190"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9200"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9190",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9190",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    35004455,
+    2367,
+    268277
+  ],
+  "class_list": [
+    "post-9190",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-comportamento-2",
+    "category-cultura",
+    "category-solidariedade",
+    "tag-associacao-sociocultural-semearte",
+    "tag-rocinha"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Projeto social amplia acesso a cultura e lazer na comunidade</em></p><p>As comunidades espalhadas por todo o país enfrentam diariamente a precariedade de diversos serviços que deveriam ser essenciais. A insuficiência está presente nos setores de saúde, educação, segurança e lazer, o que configura uma falta de investimentos do Estado tornando as milhares de pessoas que vivem nesses lugares invisíveis. Uma vez que a máquina pública não é capaz de gerir e cumprir as demandas, a população encontra suporte para subsistir em ações sociais.</p><p>Os projetos sociais tornam visíveis essa parte da população e são capazes de transformar a realidade da população periférica. A Associação Sociocultural Semearte atua desde 2013 mudando a vida de crianças, adolescentes e jovens adultos moradores da Comunidade da Rocinha, no Rio de Janeiro, através da cultura.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/semearte.jpeg?resize=720%2C711&amp;ssl=1\" alt=\"\" width=\"720\" height=\"711\" /><figcaption>Equipe e alunos do projeto celebram a chegada de doações em comemoração aos 7 anos da Associação (Foto: Reprodução Instagram) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/semearte-2.jpeg?resize=720%2C709&amp;ssl=1\" alt=\"\" width=\"720\" height=\"709\" /><figcaption>Equipe e alunos do projeto celebram a chegada de doações em comemoração aos 7 anos da Associação (Foto: </figcaption></figure><p>A idealizadora Talita Santos conta que o projeto surgiu a partir de uma reportagem que mostrava uma guerra na Rocinha, com crianças sendo expostas à violência. Talita que é Pedagoga, Atriz e Diretora, sentiu que precisava levar o projeto social que já realizava em Belo Horizonte para outros lugares. Com isso, a mineira decidiu vir para o Rio de Janeiro fazer a diferença.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/talita.jpeg?resize=759%2C934&amp;ssl=1\" alt=\"\" width=\"759\" height=\"934\" /><figcaption>Talita Santos afirma que a função dos projetos sociais é construir pontes (Foto: Reprodução Instagram)</figcaption></figure><p>A idealizadora Talita Santos conta que o projeto surgiu a partir de uma reportagem que mostrava uma guerra na Rocinha, com crianças sendo expostas à violência. Talita que é Pedagoga, Atriz e Diretora, sentiu que precisava levar o projeto social que já realizava em Belo Horizonte para outros lugares. Com isso, a mineira decidiu vir para o Rio de Janeiro fazer a diferença.</p><p>Atendendo cerca de 100 jovens, o projeto contribui para o desenvolvimento artístico por meio de aulas gratuitas de teatro, dança, música, TV e cinema com o intuito de qualificar e salvar vidas. Desenvolver nos participantes o desejo de ir além e proporcioná-los alternativas, é o principal pilar.</p><blockquote><p><em>\"Nossa missão é resgatar vidas e contribuir para o desenvolvimento humano e artístico\" </em></p><cite><em>Talita Santos.</em></cite></blockquote><p><strong>Ouça o que Talita Santos tem a dizer sobre a importância do incentivo à cultura no cotidiano dos jovens da comunidade.</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1041361129&amp;auto_play=true&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Em razão da pandemia de Covid-19, as aulas, que antes eram realizadas na Biblioteca Parque da Rocinha, agora são virtualizadas e sem previsão de retomada para a modalidade presencial. \"Essa adaptação para o virtual, está sendo um desafio. No presencial conseguimos colocar 105 alunos dentro de um galpão. Na rede a gente não atinge um número muito grande\" conta a idealizadora da Semearte.</p><p>A falta de recursos tecnológicos e acesso às redes é uma dura realidade nas comunidades carentes. E os envolvidos no projeto fazem de tudo para conseguir reverter esta condição e levar cultura e lazer a todos, sem exceção. \"Sabemos de alunos que não tem internet e isso causa um buraco nas nossas atividades. Quando isso ocorre nós vamos até eles e propomos atividades e gravações.\" Revela Talita.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-jefferson-messias.jpg?resize=760%2C1010&amp;ssl=1\" alt=\"\" width=\"760\" height=\"1010\" /><figcaption>Jefferson Messias tornou-se educador por influência do projeto \"Queria me tornar um incentivador de pessoas e é nisso que acredito\" (Foto: Acervo Pessoal)</figcaption></figure><p>Todo o esforço é válido para manter os alunos engajados nas atividades. O jovem Jefferson Messias, de 23 anos, é o mais antigo na Semearte. No momento atua como Professor, Ator, Diretor, Coreógrafo e Coordenador Pedagógico na Associação e revela o que o motivou a entrar para o grupo. \"Queria entender quem eu era e o que sentia, queria de alguma forma preencher o vazio que havia em mim\".</p><p>Jefferson tem origem nordestina e conta que veio para o Rio de Janeiro com a família para tentar ganhar a vida, ainda criança. No entanto, aos 11 anos perdeu sua mãe e em decorrência disso desenvolveu uma depressão profunda. Aos 16 anos, conheceu a Talita que o incentivou a entrar para o teatro. \"Ela insistiu em mim, ela me deu uma chance. Transformei meus traumas em arte, minha história em peças de teatro, meu silêncio em voz\", revela Jefferson.</blockquote><p><em>Eu acreditava não ter nenhum dom, talento, potência e muito menos voz, falo com isso com lágrimas nos olhos. Não me recordo a quantidade de vezes que tentei suicídio\"</em></p><cite><em>Jefferson Messias</em></cite></blockquote><figure><div><iframe src=\"https://www.youtube.com/embed/yI4BygE7YfI?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div></figure><p>Hoje, Talita Santos colhe os frutos do que semeou em 2013. Após ver tantos envolvidos no projeto alçando voos mais altos e até mesmo cursando uma faculdade, afirma que é necessário acreditar. É preciso um olhar mais atento para projetos que incentivam os jovens a serem protagonistas de suas histórias. Ações sociais transformam vidas, fortalecem a comunidade e possibilitam um espaço de desenvolvimento, voz, escuta e potência de talentos.</p><p><em>Gabrielle Lopes – 7º período </em></p></main>"
+  },
+  "date": "2021-05-03T16:34:41",
+  "date_gmt": "2021-05-03T19:34:41",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>As comunidades espalhadas por todo o país enfrentam diariamente a precariedade de diversos serviços que deveriam ser essenciais. A insuficiência está presente nos setores de saúde, educação, segurança e lazer, o que configura uma falta de investimentos do Estado tornando as milhares de pessoas que vivem nesses lugares invisíveis. Uma vez que a máquina pública não é capaz de gerir e cumprir as demandas, a população encontra suporte para subsistir em ações sociais.</p>\n"
+  },
+  "featured_media": 9200,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9190"
+  },
+  "id": 9190,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/agencia-geral-post-5.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2oe",
+  "link": "https://agenciauvabarra.com/2021/05/03/moradores-da-rocinha-tem-a-vida-transformada/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-05-03T21:23:07",
+  "modified_gmt": "2021-05-04T00:23:07",
+  "ping_status": "open",
+  "slug": "moradores-da-rocinha-tem-a-vida-transformada",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    718230330,
+    1854756
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Moradores da Rocinha têm a vida transformada"
+  },
+  "type": "post"
+}

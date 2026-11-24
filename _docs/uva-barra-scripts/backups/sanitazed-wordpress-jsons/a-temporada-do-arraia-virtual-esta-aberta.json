@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7154/revisions/7172",
+        "id": 7172
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7154"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7154",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7154/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7154"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7157"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7154",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7154",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    4753134,
+    7114
+  ],
+  "class_list": [
+    "post-7154",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-quarentena",
+    "category-sociedade",
+    "tag-arraia-virtual",
+    "tag-festa-junina",
+    "tag-isolamento-social"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Festa junina ganha novo formato durante a quarentena</em></p><p>Os dias de Santo Antônio, São João e São Pedro marcam a chegada de uma época muito querida por boa parte da população brasileira, as festas juninas. Com comidas típicas, fogueira e quadrilha, o tradicional arraiá é sempre muito aguardado, mas este ano, devido ao isolamento social causado pela pandemia do novo coronavírus, precisou se reinventar. A festa ganhou um novo espaço, a internet.</p><p>Está cada vez mais comum encontrar grupos de amigos, familiares, vizinhos e colegas de trabalho que se reúnem em lives especiais para celebrar as datas, só que desta vez, cada um na sua casa. Por isso, a publicitária Laís Oliveira conta que se reuniu com oito amigos, no último sábado (27), para um arraiá on line e, assim, não deixar a tradição passar em branco “A vida de todos é corrida e, por vezes, não conseguimos nos encontrar, a festa junina é o momento que dançamos, rimos, nos atualizamos da vida um do outro e ainda comemos as comidinhas típicas da época”.</p><p>Assista um trecho do arraiá virtual organizado pela publicitária:</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-28-at-12.19.48.jpeg?resize=1046%2C646&amp;ssl=1\" alt=\"\" width=\"1046\" height=\"646\"><figcaption>O arraiá virtual foi organizado pela publicitária Laís Oliveira – Foto: Reprodução da internet</figcaption></figure><p>.</p><p>Acostumada a se reunir com os amigos para festejar essa época do ano, a jornalista Brigida Brito comenta que a festa junina representa união. “Precisamos dar um jeito de ficarmos próximos aos nossos, até mesmo para matar um pouco da saudade. As coisas já estão tão difíceis, temos que aproveitar da forma que podemos”, ressalta.</p><iframe loading=\"lazy\" width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F848406520&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\"></iframe><p>Agência UVA Barra · Daniela Oliveira</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-28-at-12.19.51.jpeg?resize=1080%2C1275&amp;ssl=1\" alt=\"\" width=\"1080\" height=\"1275\"><figcaption>Laís Oliveira decorou sua casa para curtir o arraiá virtual – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-28-at-12.19.51-1.jpeg?resize=774%2C1032&amp;ssl=1\" alt=\"\" width=\"774\" height=\"1032\"><figcaption>A mesa foi composta com comidas típicas de festa junina – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-28-at-11.41.50.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Brigida Brito preparou alguns quitutes para o arraiá virtual – Arquivo Pessoal</figcaption></figure><p>E foi pensando nesse público, que não deixou a data passar em branco, que a confeiteira Daniela Oliveira organizou kits com comidas típicas para vender nas redes sociais. Bolo de milho, canjica, cuscuz, paçoca, o cardápio é bem diversificado e é composto por iguarias que marcam os meses de junho e julho. Daniela conta que a ideia surgiu a partir do carinho que tem por São João e suas comidas típicas. “Quis levar as delícias da comida da festa em uma caixinha toda colorida e feliz como essa época é”, relata.</p><p>Ouça o áudio com o depoimento da Daniela:</p><iframe loading=\"lazy\" width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F849098878&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\"></iframe><p>Agência UVA Barra · Lailla Vianna</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-26-at-15.28.30.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Kit com comidas típicas preparado pela confeiteira Daniela Oliveira – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-26-at-15.28.33-1.jpeg?resize=1125%2C1255&amp;ssl=1\" alt=\"\" width=\"1125\" height=\"1255\"><figcaption>Cardápio do Kit Quadrilheiro – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-26-at-15.28.33.jpeg?resize=1125%2C1259&amp;ssl=1\" alt=\"\" width=\"1125\" height=\"1259\"><figcaption>Cardápio do Kit Anarriê – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-26-at-15.29.38.jpeg?resize=602%2C805&amp;ssl=1\" alt=\"\" width=\"602\" height=\"805\"><figcaption>Confeiteira Daniela Oliveira – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-28-at-18.32.42-2.jpeg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\"><figcaption>Lailla utiliza o próprio milho verde para fazer as pamonhas – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-28-at-18.32.42.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Lailla conta que a venda de pamonhas na internet já é um sucesso – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-28-at-12.35.35.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Confeiteira Lailla Vianna – Foto: Arquivo Pessoal</figcaption></figure><p>A festa junina é uma das comemorações favoritas da confeiteira Lailla Vianna, a profissional dos doces teve a ideia de vender pamonhas na internet e diz que é uma maneira das pessoas comemorarem em casa, mesmo que não seja com festas muito grandes. “A minha avó sempre fez muita pamonha para a gente, então tem muito significado pra mim. São tradições legais que as pessoas podem manter mesmo estando em quarentena”. Lailla explica porque optou por produzir somente pamonhas, ouça:</p><iframe loading=\"lazy\" width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F849098878&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\"></iframe><p>Agência UVA Barra · Lailla Vianna</p><p>Assista o passo a passo da produção das pamonhas:</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-28-at-12.35.35.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Confeiteira Lailla Vianna – Foto: Arquivo Pessoal</figcaption></figure><p>As comemorações se estendem até o mês de julho e, por vezes, agosto e tem muita gente esperando a pandemia passar para marcar uma nova data.</p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-06-29T17:42:27",
+  "date_gmt": "2020-06-29T20:42:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Festa junina ganha novo formato durante a quarentena Os dias de Santo Antônio, São João e São Pedro marcam a chegada de uma época muito querida por boa parte da população brasileira, as festas juninas. Com comidas típicas, fogueira e quadrilha, o tradicional arraiá é sempre muito aguardado, mas este ano, devido ao isolamento social [&hellip;]</p>\n"
+  },
+  "featured_media": 7157,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7154"
+  },
+  "id": 7154,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/whatsapp-image-2020-06-28-at-12.19.48.jpeg?fit=1046%2C646&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Ro",
+  "link": "https://agenciauvabarra.com/2020/06/29/a-temporada-do-arraia-virtual-esta-aberta/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-06-29T17:42:27",
+  "modified_gmt": "2020-06-29T20:42:27",
+  "ping_status": "open",
+  "slug": "a-temporada-do-arraia-virtual-esta-aberta",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    701600499,
+    215136,
+    8757533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A temporada do arraiá virtual está aberta"
+  },
+  "type": "post"
+}

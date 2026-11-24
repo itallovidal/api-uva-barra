@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14909/revisions/14922",
+        "id": 14922
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14909"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14909",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14909/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14909"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14920"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14909",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14909",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    43377791,
+    10889,
+    858951,
+    14603,
+    74499
+  ],
+  "class_list": [
+    "post-14909",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-encontro-com-profissionais",
+    "category-esporte",
+    "category-eventos-internos",
+    "category-jornalismo",
+    "category-mercado-de-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-encontro",
+    "tag-ericfaria",
+    "tag-globo",
+    "tag-jornalismo",
+    "tag-palestra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Dicas e conselhos sobre a profissão marcaram o evento</em></p><p>Uma manhã para discutir o jornalismo esportivo. Eric Faria, da TV Globo, visitou na sexta (01/06), o campus Barra da UVA e trouxe informações sobre o futuro da profissão baseado na experiência de mais de 20 anos de carreira, além de informações sobre o jornalismo como um todo e a área de esportes.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-eric.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\" /><figcaption>Eric compartilhou as histórias do trabalho com esporte (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-bianchi.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\" /><figcaption>O professor Bianchi deu o exemplo aos alunos, fazendo perguntas para expandir os temas da palestra (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-thamirys.jpg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\" /><figcaption>Thamirys aproveitou os conhecimentos passados no evento (Foto: Pedro Lima)</figcaption></figure><p>A atual geração já conhece o repórter das transmissões televisivas, mas o começo foi como repórter de cultura, para a rádio. O jornalista falou das dificuldades nas primeiras matérias e da superação da timidez — que admitiu não ser fácil. Nesse quesito, Eric reforçou que para lidar bem com essas eventualidades, é bom se preparar bastante durante o tempo de faculdade. “Não negligenciem quaisquer oportunidades”, completou.</p><p>Dos fundamentos para fazer um bom trabalho jornalístico, foram pontuados conhecimento técnico, ética e sensibilidade. Saber bom português, entender o público e o veículo de comunicação são habilidades essenciais. E para o segundo ponto, Eric reafirmou que os valores éticos e morais devem ser inegociáveis para um jornalista, pois credibilidade leva tempo para ser construída — mas pode rapidamente ser perdida.</p><p>Alguns pontos abordados para o bom trabalho jornalístico:</p><ul><li>Sensibilidade</li><li>Saber identificar o que pode se tornar notícia</li><li>Conduzir bem uma entrevista.</li></ul><p>Para o professor Eduardo Bianchi, mediador da palestra, o encontro com profissionais atuantes do mercado é valioso, pois os alunos têm a oportunidade de tirar dúvidas e descobrir os caminhos que querem seguir. “O objetivo não é que eles se espelhem propriamente, pois cada um tem as próprias particularidades, mas que os alunos possam talvez se inspirar a buscarem seus sonhos, sem deixar de perceber que há muitas outras possibilidades”, explicou o docente.</p><p>Quem aproveitou esses ensinamentos foi a aluna do primeiro período de jornalismo Thamirys Pereira Folha, que sonha em atuar na área de esportes. “Abriu nossa mente, deu várias informações que a gente, por estar iniciando, não sabia, e tinha o anseio de saber. Eu mesma fui anotando um monte de coisa, e acredito que isso vai ajudar lá na frente”, detalhou a caloura.</p><p>Eric concluiu a palestra respondendo perguntas e conversou com exclusividade para a Agência UVA Barra sobre a relação dos que sonham em cobrir grandes competições esportivas: “Acredito que você tem todo o direito de mirar o melhor, mas acredito também que você tem que pensar etapa por etapa. O jornalismo é um acúmulo de experiências que você vai adquirir no dia-a-dia, no teu trabalho, nos erros e acertos. Então, o tempo vai te ajudar a chegar em um lugar mais alto; como a Copa do Mundo ou Jogos Olímpicos, pro jornalista esportivo.”</p><p>Foram necessários treze anos de profissão antes do próprio Eric cobrir a primeira Copa. <strong>Ouça mais sobre o processo para chegar à cobertura de competições prestigiadas no seguinte áudio:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1531706926&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Ouça mais sobre o processo para chegar à cobertura de competições prestigiadas by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><blockquote><p>&#8220;Fazer jornalismo não é difícil. Fazer BOM Jornalismo requer um pouco de trabalho.&#8221;</p><cite>Eric Faria</cite></blockquote><p><em>Pedro Lima — 4º Período</em></p></main>"
+  },
+  "date": "2023-06-05T18:02:21",
+  "date_gmt": "2023-06-05T21:02:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Uma manhã para discutir o jornalismo esportivo. Eric Faria, da TV Globo,  visitou na sexta (01/06), o campus Barra da UVA e trouxe informações sobre o futuro da profissão baseado na experiência de mais de 20 anos de carreira, além de informações sobre o jornalismo como um todo e a área de esportes.</p>\n"
+  },
+  "featured_media": 14920,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14909"
+  },
+  "id": 14909,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-de-capa-_.jpg?fit=5184%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3St",
+  "link": "https://agenciauvabarra.com/2023/06/05/jornalista-eric-faria-participa-de-encontro-com-alunos-na-uva-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-06-05T18:02:21",
+  "modified_gmt": "2023-06-05T21:02:21",
+  "ping_status": "open",
+  "slug": "jornalista-eric-faria-participa-de-encontro-com-alunos-na-uva-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    219881,
+    674148010,
+    250119,
+    767056611,
+    410667
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Jornalista Eric Faria participa de encontro com alunos na UVA Barra"
+  },
+  "type": "post"
+}

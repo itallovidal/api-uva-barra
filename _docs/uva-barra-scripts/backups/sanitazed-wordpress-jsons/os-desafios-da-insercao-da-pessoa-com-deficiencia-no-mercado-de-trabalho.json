@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7934/revisions/7943",
+        "id": 7943
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7934"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7934",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7934/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7934"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7939"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7934",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7934",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-7934",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O estigma, as poucas oportunidades e a ausência de políticas públicas são as principais objeções de PCDs</em></p><p>Tendo como premissa a defesa a igualdade, a Lei de Cotas, de 1991, obriga empresas a contratarem pessoas com deficiência (PCD) diante do número de funcionários na organização. A lei é uma peça fundamental na luta contra o preconceito e promove a inclusão, entretanto, o cumprimento nas contratações de PCDs ainda apresentam inúmeros desafios para trabalhadores e empresas.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/claudia.jpeg?resize=1280%2C1280&amp;ssl=1' alt='Cláudia afirma que a inclusão de PCDs no mercado de trabalho agrega valores. \"É troca de informação e conhecimento\"' width='1280' height='1280' /><figcaption>Cláudia afirma que a inclusão de PCDs no mercado de trabalho agrega valores. \"É troca de informação e conhecimento\"</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/joyce.jpeg?resize=1200%2C1600&amp;ssl=1' alt='Joyce é funcionária PCD do Hotel Urbano e acredita que o trabalho lhe proporciona sonhar.' width='1200' height='1600' /><figcaption>Joyce é funcionária PCD do Hotel Urbano e acredita que o trabalho lhe proporciona sonhar.</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/beatriz.jpeg?resize=662%2C886&amp;ssl=1' alt='Beatriz trabalha no RH do Hotel Urbano e contou que o lema da equipe é \"Normal é ser diferente\".' width='662' height='886' /><figcaption>Beatriz trabalha no RH do Hotel Urbano e contou que o lema da equipe é \"Normal é ser diferente\".</figcaption></figure><p>As estimativas indicam que no Brasil existem cerca de 45,6 milhões de pessoas portadoras de deficiências, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). Muitos enfrentam dificuldades de inserção social e conseguir uma colocação no mercado de trabalho pode ser um dos caminhos para diminuir essa distância.</p><p>As principais barreiras encontradas nas relações empregatícias são: a discriminação, a baixa qualificação profissional, a falta de acessibilidade e o despreparo das empresas contratantes. A Lei de Cotas ainda não é suficiente no processo de inclusão. A Integrante da Comissão do Direitos das Pessoas com Deficiência da OAB do RJ, Cláudia Araujo, destacou que no passado os estereótipos sobre as PCDs eram reforçados a partir do momento em que eram incluídas no mercado de trabalho.</p><p><em>\"As empresas inicialmente contratavam para cargos subalternos. Havia preconceito e desconhecimento. Contratavam por conta da obrigatoriedade em função de uma punição\".</em></p><p>De acordo com Cláudia, apesar da discriminação, a questão da empregabilidade para pessoas com deficiência como pontapé inicial na luta pela a inclusão, impulsionou políticas públicas que na época não eram discutidas. Questões como acessibilidade, saúde, educação inclusiva e transporte público adaptado não tinham tanta visibilidade como hoje.</p><p>Para maiores efetivos, as empresas devem implementar políticas de inclusão e fornecer melhores condições de trabalhos, além de promover cursos de capacitação técnica e ética, com o objetivo de qualificar a pessoa para o primeiro contato com o mercado de trabalho.</p><p>Esse é o caso do Hotel Urbano, que possui um programa de contratação de PCDs e promove a inclusão. A Gestora de Recursos Humanos da Hurb, Beatriz Archeri, conta que empresa é comprometida com a causa e dispõe de um time de 23 funcionários portadores de deficiência. \"Temos uma cultura inclusiva, que acolhe e abraça qualquer tipo de diferença. Fomentamos através de talks, ações, eventos e treinamentos a importância da diversidade. É nas diferenças que evoluímos e nos desenvolvemos como pessoas e profissionais\".</p><p><strong>Ouça a entrevista de Beatriz Archeri falando sobre as funções que as PCDs desempenham no Hurb</strong>:</p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F915137362&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Áudio Beatriz Archeri' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen /><p>Em muitas empresas, pessoas com deficiência são contratadas apenas para exercer funções operacionais e não assumem grandes desafios como ocupar um cargo alto. \"No Hurb todos estão capacitados a se desenvolverem, e crescerem como profissional, independente da cor da pele, estilo, gênero, orientação sexual e/ou deficiência\", afirma Beatriz.</p><p>Joyce Bárbara é PCD e possui um encurtamento da perna direita, oriundo de um tumor. Apesar da adversidade, Joyce lutou e desempenhou várias funções ao longo da carreira. Foi Copeira, Auxiliar de Loja, Auxiliar Administrativo e atualmente é Consultora de Viagens do Hotel Urbano.</p><p><em>\"O trabalho tem uma extrema importância na minha vida. Ele me inspira! Com ele eu me sinto útil, ativa e viva. Com ele tenho poder de planejar e sonhar.\"</em></p><p>A Consultora também possui um projeto voluntário que visa inserir pessoas com deficiência no mercado profissional. \"A gente divulga vagas de emprego, revisa currículo, manda cursos e palestras para incentivar a empregabilidade\". Assim como ela, Cláudia acredita que a inclusão de pessoas com deficiência em uma empresa agrega valores. \"É a troca de informações e de conhecimento. É você ver que as pessoas são diferentes não só pela questão física, mas sob todos os aspectos, sem contar com a humanização do ambiente\".</p><p><strong>Motivos pelos quais as empresas devem contratar PCDs:</strong></p><ul><li>Troca de experiência.</li><li>Aprendizados sobre inclusão e cooperação.</li><li>Promove a autonomia do ser social.</li><li>Potencial de produtividade da PCD pode ser igual ou superior à média dos outros empregados – Se oferecidos as devidas adaptações às necessidades de cada.</li><li>Melhora a imagem da empresa.</li></ul><p>Para além do compromisso com a lei, inserir pessoas com deficiência no mercado de trabalho pode ser positivo para toda as esferas da sociedade uma vez que mais pessoas trabalhando, mais a economia se movimenta. Promovendo o acesso à educação inclusiva e promovendo políticas públicas a favor da causa, cerca de 24% (45,6 milhões) da população deixa de estar a margem.</p><p><em>Gabrielle Lopes – 6º Período</em></p></main>"
+  },
+  "date": "2020-10-21T16:06:56",
+  "date_gmt": "2020-10-21T19:06:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O estigma, as poucas oportunidades e a ausência de políticas públicas são as principais objeções de PCDs Tendo como premissa a defesa a igualdade, a Lei de Cotas, de 1991, obriga empresas a contratarem pessoas com deficiência (PCD) diante do número de funcionários na organização. A lei é uma peça fundamental na luta contra o [&hellip;]</p>\n"
+  },
+  "featured_media": 7939,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7934"
+  },
+  "id": 7934,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/joyce.jpeg?fit=1200%2C1600&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-23Y",
+  "link": "https://agenciauvabarra.com/2020/10/21/os-desafios-da-insercao-da-pessoa-com-deficiencia-no-mercado-de-trabalho/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-21T16:06:56",
+  "modified_gmt": "2020-10-21T19:06:56",
+  "ping_status": "open",
+  "slug": "os-desafios-da-insercao-da-pessoa-com-deficiencia-no-mercado-de-trabalho",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Os desafios da inserção da pessoa com deficiência no mercado de trabalho"
+  },
+  "type": "post"
+}

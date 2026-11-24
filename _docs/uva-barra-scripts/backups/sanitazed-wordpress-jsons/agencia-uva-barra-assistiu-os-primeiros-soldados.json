@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12352/revisions/12362",
+        "id": 12362
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12352"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12352",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12352/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12352"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12360"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12352",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12352",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597
+  ],
+  "class_list": [
+    "post-12352",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>“Os Primeiros Soldados” é a nova obra do diretor Rodrigo de Oliveira. Situado no começo da década de 80 e sob contexto da epidemia de AIDS, Suzano (Johnny Massaro) transporta ao público o sentimento de memória pelas pessoas LGBTQIA+ que lutaram contra o vírus. O longa já foi premiado em festivais de cinema do mundo, como por exemplo no 70º Int Film Festival Mannheim-Heidelberg na Alemanha e na Mostra Int. de Cine LGBTQI na Espanha, além de prêmios no Brasil.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/alex-bonini-muriel-e-johnny-massaro-suzano-foto-de-felipe-amarelo-pique-bandeira-producao.jpg?resize=5400%2C3240&amp;ssl=1\" alt=\"\" width=\"5400\" height=\"3240\" /><figcaption>Foto: Divulgação</figcaption></figure><p>É em Vitória, Espírito Santo, que a narrativa acontece. Prestes a presenciar a virada do ano de 1982 para 1983, Suzano, estudante de biologia, volta ao Brasil depois de um período estudando no exterior. Ao lado da irmã Maura (Clara Choveaux) e do sobrinho Muriel (Alex Bonini), Suzano busca proteger ao máximo seus familiares na tentativa de entender o que está acontecendo com o seu corpo.</p><p>Suzano quer descobrir o seu lugar no mundo enquanto tenta resistir ao vírus, logo se aproxima da performer transexual Rose (Renata Carvalho) e do estudante de cinema Humberto (Vitor Camilo). O ator Johnny Massaro, conhecido por “Verdades Secretas 2” e “O Filme da Minha Vida”, entrega uma performance comovente com direito a monólogos carregados pela emoção do personagem.</p><p>A fotografia se destaca com imagens de paisagens naturais, urbanas e retrô de Vitória. A trilha sonora recheada de músicas daquela época tem a função de recuperar a nostalgia de tempos que se foram. “Linda juventude” de 14 Bis e “Fala” de Secos e Molhados, completam essa missão. Outro ponto é a cultura Ballroom como forte influência na produção de cenas na boate, o objetivo é mostrar a liberdade de expressão política e de entretenimento. Rapidamente, alguns telespectadores podem lembrar da série americana “Pose” de Ryan Murphy.</p><p>A obra se constrói a cada ato e estabelece ao telespectador a sensação de passado, presente e futuro. Na última passagem, o objetivo em utilizar da linguagem documentária é feito para conectar o público LGBTQI+, restaurar a memória, a conscientização e a celebração da vida desse grupo. O filme apresenta fielmente a resistência dos primitivos diante da ciência ainda em desenvolvimento em 1980. “Os Primeiros Soldados” estreia nos cinemas brasileiros nesta quinta-feira, dia 07/07.</p><p><strong>Confira o trailer. </strong></p><figure><iframe src=\"https://www.youtube.com/embed/BIXLpoXZ4DQ?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p><br><em>Pedro Amorim – 6º período</em></p></main>"
+  },
+  "date": "2022-07-05T15:11:21",
+  "date_gmt": "2022-07-05T18:11:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Os Primeiros Soldados” é a nova obra do diretor Rodrigo de Oliveira. Situado no começo da década de 80 e sob contexto da epidemia de AIDS, Suzano (Johnny Massaro) transporta ao público o sentimento de memória pelas pessoas LGBTQIA+ que lutaram contra o vírus. O longa já foi premiado em festivais de cinemas do mundo, como por exemplo no 70º Int Film Festival Mannheim-Heidelberg na Alemanha e na Mostra Int. de Cine LGBTQI na Espanha, além de prêmios no Brasil.</p>\n"
+  },
+  "featured_media": 12360,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12352"
+  },
+  "id": 12352,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/capa-site-agencia-2022.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3de",
+  "link": "https://agenciauvabarra.com/2022/07/05/agencia-uva-barra-assistiu-os-primeiros-soldados/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-07-05T15:17:12",
+  "modified_gmt": "2022-07-05T18:17:12",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-os-primeiros-soldados",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Os Primeiros Soldados"
+  },
+  "type": "post"
+}

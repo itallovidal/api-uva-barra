@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16131/revisions/16134",
+        "id": 16134
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16131"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16131",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16131/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16131"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16133"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16131",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16131",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16131",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Esta edição do Rio Innovation Week trouxe a disucussão dos impactos que a tecnologia causa na vida das pessoas com deficiência e de que maneira esse avanço digitar pode trazer mais igualdade de oportunidade para as pessoas.</p><p>O programa traz especialistas da área e pessoas com deficiência compartilhando suas opiniões e experiências com dispositivos, aplicativos e tendências que fornecem uma maior acessibilidade para que todos consigam viver de forma adequada.</p><p><strong>Ouça o podcast completo!</strong></p><figure><img src='https://open.spotify.com/embed/episode/7FMZew6IhmYNeaR5j1HqRV?si=fcSIlwVDTbyUpbse51VlzQ&#038;utm_source=oembed' alt='Embed Spotify' width='100%' height='152'><figcaption>Vinícius Zakhm – 8° período</figcaption></figure></main>"
+  },
+  "date": "2023-10-09T16:40:07",
+  "date_gmt": "2023-10-09T19:40:07",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Esta edição do Rio Innovation Week trouxe a disucussão dos impactos que a tecnologia causa na vida das pessoas com deficiência e de que maneira esse avanço digitar pode trazer mais igualdade de oportunidade para as pessoas.</p>\n"
+  },
+  "featured_media": 16133,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16131"
+  },
+  "id": 16131,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/img_1334.jpg?fit=3024%2C4032&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4cb",
+  "link": "https://agenciauvabarra.com/2023/10/09/podcast-radio-uva-barra-tecnologia-e-inclusao-no-rio-innovation-week/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-10-17T16:45:47",
+  "modified_gmt": "2023-10-17T19:45:47",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-tecnologia-e-inclusao-no-rio-innovation-week",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Tecnologia e inclusão no Rio Innovation Week"
+  },
+  "type": "post"
+}

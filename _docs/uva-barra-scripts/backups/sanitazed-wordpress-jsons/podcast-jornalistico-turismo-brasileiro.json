@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15796/revisions/15800",
+        "id": 15800
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15796"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15796",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15796/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15796"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15799"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15796",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15796",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15796",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O podcast jornalístico produzido por Leonardo Pereira e Victor Martins mostra os benefícios e os desafios da exploração do turismo brasileiro. A reportagem sonora busca entender as possíveis razões que levam esse setor comercial a não atingir o potencial econômico desejado.</p><p>Para participar dessa discussão, os repórteres entrevistaram duas profissionais da área do turismo, um professor de Geografia e uma vendedora ambulante. <strong>Confira o podcast abaixo:</strong></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Podcast Jornalístico: Turismo Brasileiro\" width=\"100%\" height=\"152\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/4WeELZbk6CG9Tne5jLYpTV?si=JBRVMm9nRWyJXU6U-kS81A&amp;utm_source=oembed\"></iframe></div></figure><p><em>*Produto produzido para a disciplina de Web Rádio e Podcast, sob a supervisão do professor Daniel Paes.</em></p></main>"
+  },
+  "date": "2023-09-13T18:29:11",
+  "date_gmt": "2023-09-13T21:29:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O podcast jornalístico produzido por Leonardo Pereira e Victor Martins mostra os benefícios e os desafios da exploração do turismo brasileiro. A reportagem sonora busca entender as possíveis razões que levam esse setor comercial a não atingir o potencial econômico desejado. </p>\n"
+  },
+  "featured_media": 15799,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15796"
+  },
+  "id": 15796,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/sea-4434933_1280.jpg?fit=1280%2C853&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-46M",
+  "link": "https://agenciauvabarra.com/2023/09/13/podcast-jornalistico-turismo-brasileiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-13T18:29:11",
+  "modified_gmt": "2023-09-13T21:29:11",
+  "ping_status": "open",
+  "slug": "podcast-jornalistico-turismo-brasileiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Jornalístico: Turismo Brasileiro"
+  },
+  "type": "post"
+}

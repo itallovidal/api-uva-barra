@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4788/revisions/4815",
+        "id": 4815
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4788"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4788",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4788/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4788"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4796"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4788",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4788",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    3719
+  ],
+  "class_list": [
+    "post-4788",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-museu-de-arte-do-rio-mar"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento promove atrações culturais gratuitas</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/thumbnail_image3.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\" /><figcaption>Biblioteca do Museu de Arte do Rio – Foto: Lívia Nascimento</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/thumbnail_image7.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\" /><figcaption>Espaço de estudos e leitura da biblioteca do MAR – Foto: Lívia Nascimento</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/thumbnail_image2.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\" /><figcaption>Novo espaço multimídia da biblioteca do MAR – Foto: Lívia Nascimento</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/thumbnail_image12.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\" /><figcaption>Obra do artista Mulambö feito no papelão – Foto: Lívia Nascimento</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/image10.jpeg?resize=1280%2C959&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"959\" /><figcaption>Feira Cardume reuniu cerca de 25 expositores de artistas independentes – Foto: Lívia Nascimento</figcaption></figure><p>A espera acabou! Após quatro meses de reforma, o MAR promoveu, neste último sábado (24), a reabertura da Biblioteca e do Centro de Documentação. A obra teve como objetivo ampliar o espaço e a capacidade de armazenamento do acervo. O evento contou com a presença da Feira Cardume, exposição do artista Mulambo, Lançamento do livro “Menino Movimento” e oficinas gratuitas.</p><p>A reforma possibilitou um aumento de 100% na capacidade de armazenamento do acervo, anexando mais de 25 mil itens, oferecendo também mais assentos aos visitantes, além de mais comodidade para os usuários, conforme informou a Coordenadora de Educação e Organizadora do evento Izabella Pucu. “Criamos diferentes ambientes de multiuso com objetivo de atrair não apenas pesquisadores, mas também fazer dela um espaço de convivência do morador do Rio de Janeiro”, ressalta. </p><p>Confira um trecho da entrevista com Izabella Pucu:</p><figure><iframe src=\"https://www.youtube.com/embed/jJ9WFgb3m40?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p>Outra novidade é o Espaço Orelha, ambiente que abriga exposições. Na abertura o trabalho do artista João Gabriel Motta pode ser visto em “Mulambö – TUDO NOSSO”, um diálogo do cotidiano periférico do artista que reune desenhos e pinturas. As autoras Sandra Santos e Denise Calasans também estiveram presente na reinauguração com o lançamento do livro “Menino Movimento”. Sandra falou sobre a importância das bibliotecas e museus para a sociedade: “Esses espaços são fundamentais para nós cariocas, pois são locais que contribuem para a formação das crianças, professores e cidadãos”, comenta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/image11.jpeg?resize=471%2C352&amp;ssl=1\" alt=\"\" width=\"471\" height=\"352\" /><figcaption>Sandra Santos e Denise Calasans, autoras do livro “Menino movimento” – Foto: Lívia Nascimento</figcaption></figure><p>Atraído pela programação cultural, o servidor público Winter Bastos, de 47 anos, conta que o evento possibilitou uma aproximação maior com escritores e editoras alternativas. “É muito importante qualquer tipo de evento que tenha a ver com leitura porque o povo está carente disso”. A biblioteca do MAR funciona de terça a sábado, das 10h às 18h, e o acervo está disponível para o público.</p><p><strong>Lívia Nascimento – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-08-27T18:45:04",
+  "date_gmt": "2019-08-27T21:45:04",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento promove atrações culturais gratuitas A espera acabou! Após quatro meses de reforma, o MAR promoveu, neste último sábado (24), a reabertura da Biblioteca e do Centro de Documentação. A obra teve como objetivo ampliar o espaço e a capacidade de armazenamento do acervo. O evento contou com a presença da Feira Cardume, exposição do [&hellip;]</p>\n"
+  },
+  "featured_media": 4796,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4788"
+  },
+  "id": 4788,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/thumbnail_image3.jpg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1fe",
+  "link": "https://agenciauvabarra.com/2019/08/27/museu-de-artes-do-rio-reinaugura-biblioteca-e-centro-de-documentacao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-27T18:45:04",
+  "modified_gmt": "2019-08-27T21:45:04",
+  "ping_status": "open",
+  "slug": "museu-de-artes-do-rio-reinaugura-biblioteca-e-centro-de-documentacao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    150794066
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Museu de Artes do Rio reinaugura biblioteca e Centro de Documentação"
+  },
+  "type": "post"
+}

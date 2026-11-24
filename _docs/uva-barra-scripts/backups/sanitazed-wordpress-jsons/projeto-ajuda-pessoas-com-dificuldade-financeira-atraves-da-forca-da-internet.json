@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9687/revisions/9701",
+        "id": 9701
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9687"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9687",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9687/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9687"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9697"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9687",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9687",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    11716206,
+    268277
+  ],
+  "class_list": [
+    "post-9687",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-economia-2",
+    "category-solidariedade",
+    "tag-garrafa-no-mar"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Apesar do auxílio emergencial, a medida paliativa ainda expõe a desigualdade no Brasil</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/alexandre.jpeg?resize=828%2C738&amp;ssl=1' alt='Alexandre Caruso' width='828' height='738' /><figcaption>Segundo Alexandre, mais de 600 internautas ajudaram a iniciativa e o projeto já bateu recorde de pagamentos em um único dia, foram mais de 110 contas pagas. Foto: Maria Isabel Oliveira</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/renata-1.jpg?resize=960%2C1280&amp;ssl=1' alt='Renata Souza' width='960' height='1280' /><figcaption>Renata Souza afirmou que o ato solidário teve uma importância significativa. Foto: Arquivo Pessoal</figcaption></figure><p>No decorrer de 2021, as parcelas do auxílio emergencial foram limitadas para o valor de R$150 a R$375,00 e a decisão do Governo Federal afetou a realidade de milhares de brasileiros. Porém, a internet possibilitou uma maneira de mudar a vivência dessas pessoas que perderam a fonte de renda ou se encontraram com o dinheiro reduzido. Alexandre Caruso é o idealizador do “Garrafa no Mar” e o projeto está devolvendo esperança na casa dos brasileiros.</p><blockquote><p>“Estava lendo uma matéria na revista sobre garrafas que até hoje são lançadas no mar com mensagens aleatórias e as pessoas rastreiam até onde chegam. E pensei: e se as pessoas lançassem suas contas em uma garrafa e de repente aparecessem pagas” </p><cite>Alexandre Caruso</cite></blockquote><p>Alexandre desenvolveu uma estrutura online para ajudar quem precisa pagar contas de consumo atrasadas, por meio da generosidade de quem pode retribuir. Segundo Caruso, mais de 700 pessoas foram beneficiadas e mais de R$145 mil contas já foram pagas. “O primeiro objetivo é estancar esse sofrimento de pessoas que estão tendo entre escolher comprar comida ou pagar contas”, disse Alexandre.</p><p><strong>Alexandre, 45 anos, fala sobre a ideia do “Garrafa no Mar” no vídeo abaixo:</strong></p><figure><iframe src='https://www.youtube.com/embed/hGbjVh5Hz4Y?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='Vídeo do YouTube' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>A iniciativa com um ano de experiência e sem fins lucrativos começou com uma planilha em link público e atualmente já conta com aplicativo e site. Não somente pessoas do Brasil já ajudaram a pagar contas, como também brasileiros no Japão doando para Recife ou Estados Unidos doando para o Pará. “Conectar essa rede de empatia de pessoas que ainda acreditam no ser humano é muito revigorante para enfrentar mais desafios”, contou Alexandre.</p><p>A ação ganhou visibilidade na mídia e pôde transformar diferentes histórias, como por exemplo o caso de Renata Souza, de 43 anos, que conheceu o projeto “Garrafa no Mar” através do seu irmão Vitor Del Rey. A artesã estava com dificuldades em pagar as suas contas. “Cada vez que chegava um e-mail dizendo que minha conta estava paga, meu coração palpitava de alegria pois ainda existem pessoas do bem para ajudar aqueles que precisam sem querer nada em troca”, afirmou Renata.</p><p><strong>Renata Souza fala sobre a importância do projeto:</strong></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1074604627&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Áudio do SoundCloud' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' loading='lazy'></iframe><p>Agência UVA Barra · Renata Souza fala sobre a importância do projeto “Garrafa no Mar”</p><p>Ao ver as contas chegarem e não ter dinheiro para pagá-las, Renata encontrou o projeto e realizou um cadastro. Com as parcelas do auxílio emergencial reduzidas em 2021, a dificuldade percebida pela Renata e ao redor foi “menos comida à mesa para a população”. Por exemplo, o custo médio de uma cesta básica no Rio de Janeiro foi de R$622,76 em maio, segundo a Pesquisa Nacional da Cesta Básica de Alimentos realizada pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (DIEESE).</p><p></p><blockquote><p>“Só de saber que a minha conta estava paga já dava para respirar mais um pouco, pois tem a comida para colocar dentro de casa, uma roupa, um chinelo e eu sou mãe solo, o que fica um pouco complicado. Mas com a ajuda de Deus e dos anjos do projeto, tudo está indo bem graças a Deus”</p><cite><em>Renata Souza</em></cite></blockquote><p>Com a iniciativa na internet, no total Renata já conseguiu o pagamento de 14 contas de consumo e a assistência está transformando realidades no Brasil. O projeto vai manter o formato prévio por um tempo e Alexandre, Head de Comunidade da aceleradora “Fábrica de Startups”, já tem planos de ampliá-lo com novas regras. Para mais informações, basta acessar o site do projeto: <a href='http://www.projetogarrafanomar.com.br/'>http://www.projetogarrafanomar.com.br/</a>.</p><h2>Auxílio Emergencial e a economia brasileira</h2><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/june-1.jpeg?resize=675%2C844&amp;ssl=1' alt='June Rothstein' width='675' height='844' /><figcaption>De acordo com a professora de economia, as consequências do baixo valor do auxílio emergencial destacam que as situações emergenciais não resolvem o problema macro da economia brasileira. Foto: Arquivo Pessoal</figcaption></figure><p>A Organização Mundial da Saúde decretou a pandemia do novo coronavírus em março de 2020. No Brasil, uma das formas de apoio determinadas a uma parte da população foi o auxílio emergencial. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), mais de 67 milhões de brasileiros receberam o pagamento no ano passado, o que representa 1/3 da população no país.</p><p>A questão do preço das parcelas do auxílio emergencial revela um processo econômico e histórico do país além do contexto vigente da pandemia. Para June Rothstein, professora de economia da Universidade Veiga de Almeida, é preciso voltar para 2020, no início da crise viral e sanitária. “Com certeza, os valores atuais do auxílio emergencial não são suficientes, mas estão direcionados a eliminar a fome, vinculado ao custo médio da cesta básica”, explicou June.</p><p>De acordo com a professora, os motivos para a taxa minimizada do auxílio estão relacionados com a capacidade de investimento do Estado, no aspecto dívida/PIB. A pandemia acentua a desigualdade social na sociedade e expõe as dificuldades em meio à crise. “O vírus invisível trouxe visibilidade ao problema social da nossa economia. Na prática revelou a falta de acesso em uma análise expandida: infraestrutura, saneamento, saúde e educação.”, concluiu a professora de economia.</p><p><em>Pedro Amorim – 4° período</em></p><p><em>Pedro Araújo – 3° período</em></p></main>"
+  },
+  "date": "2021-06-24T20:24:10",
+  "date_gmt": "2021-06-24T23:24:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No decorrer de 2021, as parcelas do auxílio emergencial foram limitadas para o valor de R$150 a R$375,00 e a decisão do Governo Federal afetou a realidade de milhares de brasileiros. Porém, a internet possibilitou uma maneira de mudar a vivência dessas pessoas que perderam a fonte de renda ou se encontraram com o dinheiro reduzido. Alexandre Caruso é o idealizador do “Garrafa no Mar” e o projeto está devolvendo esperança na casa dos brasileiros. </p>\n"
+  },
+  "featured_media": 9697,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9687"
+  },
+  "id": 9687,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-de-capa-para-o-site-3.jpg?fit=756%2C756&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2wf",
+  "link": "https://agenciauvabarra.com/2021/06/24/projeto-ajuda-pessoas-com-dificuldade-financeira-atraves-da-forca-da-internet/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-06-25T19:05:46",
+  "modified_gmt": "2021-06-25T22:05:46",
+  "ping_status": "open",
+  "slug": "projeto-ajuda-pessoas-com-dificuldade-financeira-atraves-da-forca-da-internet",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    417580431
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Projeto ajuda pessoas com dificuldade financeira através da força da internet"
+  },
+  "type": "post"
+}

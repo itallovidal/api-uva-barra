@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14008/revisions/14014",
+        "id": 14014
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14008"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14008",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14008/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14008"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14013"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14008",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14008",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    17964,
+    866752,
+    7114,
+    33026
+  ],
+  "class_list": [
+    "post-14008",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-educacao",
+    "category-saude-mental",
+    "category-sociedade",
+    "category-violencia",
+    "tag-agencia-uva-barra",
+    "tag-drogas",
+    "tag-jovens",
+    "tag-prevencao",
+    "tag-vicio-2"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Para abordar o tema do vício nas drogas, “Predestinado” mostra a realidade de jovens que acabam entrando para esse mundo e depois não conseguem mais enxergar saídas. O personagem Gabriel vem de uma família estruturada e por causa de um amigo começa a usar drogas por diversão. Quando se dá conta, está completamente encrencado no mundo do tráfico.</p><p>O grupo composto por Eduarda Marinho, Kauai Pinheiro, Victor Arthur, Luiz Felipe D’Ávila, Igor Concolato, Leonardo Pereira, Victor Martins e Matheus Borges aborda o ODS 3 da Agenda 2030 da ONU, que fala sobre saúde e bem-estar, com o tópico 3.5 que tem como descrição: “Reforçar a prevenção e o tratamento do abuso de substâncias, incluindo o abuso de drogas entorpecentes e uso nocivo do álcool”.</p><p><strong>Assista!</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/TU2cjM35GGY?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><em>Documentário produzido para a disciplina de Produção em rádio tv e cinema, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-01-30T15:30:00",
+  "date_gmt": "2023-01-30T18:30:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Para abordar o tema do vício nas drogas, “Predestinado” mostra a realidade de jovens que acabam entrando para esse mundo e depois não conseguem mais enxergar saídas. O personagem Gabriel vem de uma família estruturada e por causa de um amigo começa a usar drogas por diversão. Quando se dá conta, está completamente encrencado no mundo do tráfico</p>\n"
+  },
+  "featured_media": 14013,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14008"
+  },
+  "id": 14008,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/01/whatsapp-image-2023-01-31-at-10.22.15.jpeg?fit=739%2C1600&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3DW",
+  "link": "https://agenciauvabarra.com/2023/01/30/predestinado/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-01-31T10:38:07",
+  "modified_gmt": "2023-01-31T13:38:07",
+  "ping_status": "open",
+  "slug": "predestinado",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    4018,
+    304840,
+    457519,
+    35898812
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Predestinado"
+  },
+  "type": "post"
+}

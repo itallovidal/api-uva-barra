@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/86/revisions/2866",
+        "id": 2866
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=86"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/86",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 25,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/86/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=86"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=86",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=86",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-86",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "tag-2o-olimpiada-de-matematica",
+    "tag-agencia-uva-barra",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/15181707_10206296915456851_2155256074419266660_n1.jpg?resize=443%2C332&amp;ssl=1' alt='15181707_10206296915456851_2155256074419266660_n' width='443' height='332'></figure><p>A 2ª edição da Olimpíada de Matemática da Universidade Veiga de Almeida (UVA) já tem data marcada. Neste ano, o evento vai acontecer no dia 13/05, das 9h às 13h, no Campus Barra da Tijuca, localizado na Avenida General Felicissimo Cardoso, 500. A competição será aberta para os alunos de graduação de todos os cursos e campi e terá inscrições abertas dia 16/04.</p><p>Segundo a diretora acadêmica do campus, Nara Iwata, a iniciativa tem o objetivo de despertar um maior interesse pela Matemática, incentivar a socialização entre os alunos e ainda mostrá-los novos horizontes. “Esse tipo de competição universitária existe no mundo inteiro e, normalmente, em grande universidades. Então, a Veiga está proporcionando isso para os alunos”. É o momento ideal para que jovens talentos sejam reconhecidos, desenvolvendo seu raciocínio lógico e uma formação mais completa.</p><p>Mas não é só experiência que a Olimpíada oferece. Como recompensa, o candidato leva para casa um troféu, um certificado pela participação, ganha 30 horas de atividade complementar – os outros concorrentes ganham 10 horas pela participação – e ainda tem seu nome inserido no mercado de trabalho. A edição passada teve 22 participantes dos campi Tijuca e Barra.</p><p>O Brasil é um dos melhores países em matemática, ele ocupa a 15º posição no ranking da Olimpíada Internacional de Matemática (2016), quando competiu com mais de cem nações e ganhou cinco medalhas de prata e uma de bronze. O professor e organizador da 2ª Edição do evento, Otávio Castellani, afirma que a maior motivação é chegar nesse nível de competição, levando o nome da UVA e incentivando pesquisas no ramo. Além disso, o professor também destaca a importância da matemática na vida de qualquer pessoa. “Ela está em tudo. Você não precisa estar fazendo contas para utilizá-la. Ela é lógica e ajuda muito na evolução de um futuro, seja como profissional ou como ser humano”.</p><p>Para quem é encantado pelo mundo da matemática e ficou empolgado para participar dessa experiência, as inscrições estão abertas à partir do dia 16/04. Basta mandar um e-mail para o professor responsável pelo evento, Otávio Castellani e mãos à obra. Essa é a oportunidade de colocar em prática toda a teoria aprendida em sala de aula ou para apenas enriquecer seus conhecimentos e acumular experiência. Afinal, a hora de tentar, errar e aprender é agora, para que no futuro haja uma grande bagagem de aprendizagem que garanta uma carreira de sucesso.</p><p>NAILSON RIBEIRO, TAYANE FERNANDES, 5º PERÍODO</p></main>"
+  },
+  "date": "2017-04-17T17:42:54",
+  "date_gmt": "2017-04-17T20:42:54",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Edição de 2015 da Olimpíada de Matemática. Foto: Bernardo Casaes A 2ª edição da Olimpíada de Matemática da Universidade Veiga de Almeida (UVA) já tem data marcada. Neste ano, o evento vai acontecer no dia 13/05, das 9h às 13h, no Campus Barra da Tijuca, localizado na Avenida General Felicissimo Cardoso, 500. A competição será [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=86"
+  },
+  "id": 86,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1o",
+  "link": "https://agenciauvabarra.com/2017/04/17/chegou-a-hora-de-calcular-seu-potencial/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-23T20:39:02",
+  "modified_gmt": "2019-01-23T22:39:02",
+  "ping_status": "open",
+  "slug": "chegou-a-hora-de-calcular-seu-potencial",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    670411713,
+    648221465,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Chegou a hora de calcular seu potencial"
+  },
+  "type": "post"
+}

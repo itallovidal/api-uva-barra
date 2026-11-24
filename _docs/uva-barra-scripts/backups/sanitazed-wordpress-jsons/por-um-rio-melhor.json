@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1598/revisions/3265",
+        "id": 3265
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1598"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1598",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1598/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1598"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1598",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1598",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    7114
+  ],
+  "class_list": [
+    "post-1598",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Secretário municipal do Rio ministra palestra sobre urbanismo e violência urbana na UVA</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/11/img_7322.jpg?resize=5184%2C3456&#038;ssl=1' alt='IMG_7322' width='5184' height='3456' /><figcaption>Foto: Sarah Izidim</figcaption></figure><p>O extenso histórico de violência urbana que os cariocas passam é constante. Seja nas ruas, nas escolas ou dentro de um ônibus, os moradores da capital fluminense vivem com medo e são constantemente bombardeados com as notícias das mídias. Para discutir temas como a falta de segurança no Rio de Janeiro, a Universidade Veiga de Almeida (UVA), do campus Barra, recebe a presença do secretário municipal de Urbanismo Índio da Costa. Durante a palestra, na terça-feira (07/11), o político trouxe exemplos e propostas de superação dessas enfermidades, para uma melhor qualidade de vida e convívio social.</p><figure class=\"alignright\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/11/img_7324.jpg?resize=5184%2C3456&#038;ssl=1' alt='IMG_7324' width='5184' height='3456' /><figcaption>Foto: Sarah Izidim</figcaption></figure><p>Esses exemplos foram indicados, principalmente, para os alunos dos cursos de Arquitetura e Direito. Através de vídeos que captaram a atenção do público, Índio da Costa mostra a experiência de Medellín, na Colômbia, Nova York, nos EUA e Israel, na Ásia. Todos esses lugares tiveram algo em comum: combateram os conflitos através do uso de políticas sociais e tecnologia, e é isso que o palestrante pretende trazer para o Brasil. Para o político, a solução passa principalmente pela polícia. “As UPPs foram boas, mas precisamos retomar os territórios utilizando ações que não sejam tão caras”.</p><p>O secretário traçou um plano que abrange o estado como um todo, para deixar um pouco de lado o eixo municipal. Desde tópicos sobre a melhor fiscalização nas estradas até parcerias público-privadas, as propostas ainda geram dúvidas nos próprios governantes, “São ações caras para o Rio de Janeiro, que se encontra em estado de crise”, acrescenta. Segundo ele, a resposta seria a recuperação fiscal, que passa pela atração de empresas e aumento do recolhimento de tributos. Entretanto, companhias antes instaladas aqui, estão migrando para outras unidades federativas exatamente em razão da insegurança urbana.</p><p>Um dos intuitos do evento era mostrar que os estudantes de Arquitetura podem contribuir por um Rio mais seguro. “Os atuantes nessa área podem projetar lugares que inibam a violência, como é o caso de Medellín. Temos que trazer a cidade de volta para o pedestre”, afirma o professor Carlos Eduardo, de História das Cidades. É consenso entre o secretário e o docente, que a educação é umas das bases para solucionar todos os problemas. Porém, para Índio, há necessidade de reformas. “As escolas formam pessoas para um mundo que não existe mais. Precisa haver um ensino que realmente crie oportunidades, levando em conta a tecnologia”.</p><p>Enquanto isso, os cariocas veem uma escalada da falta de segurança. Até cidades, antes acostumadas com certo nível de tranquilidade, já sentem as mudanças. O estudante de jornalismo Lucas Menezes percebe isso, principalmente, pelos amigos. “Muita gente que conheço tem medo de sair a noite, por causa de assaltos. Também está sendo complicado voltar a frequentar jogos de futebol em razão de brigas de torcida, já que a polícia não consegue conter”, conclui.</p><p></p><p><strong>Lucas Motta, 5° período.</strong></p></main>"
+  },
+  "date": "2017-11-09T18:37:22",
+  "date_gmt": "2017-11-09T20:37:22",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Secretário municipal do Rio ministra palestra sobre urbanismo e violência urbana na UVA</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1598"
+  },
+  "id": 1598,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-pM",
+  "link": "https://agenciauvabarra.com/2017/11/09/por-um-rio-melhor/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T18:23:16",
+  "modified_gmt": "2019-02-27T21:23:16",
+  "ping_status": "open",
+  "slug": "por-um-rio-melhor",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Por um Rio melhor"
+  },
+  "type": "post"
+}

@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1097/revisions/3315",
+        "id": 3315
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1097"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1097",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1097/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1097"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1097",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1097",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1097",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Profissionais renomados, alunos e professores discutem sobre temas importantes da área.</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/08/fb_img_15035156892431.jpg?resize=1137%2C640&amp;ssl=1' alt='FB_IMG_1503515689243' width='1137' height='640' /><figcaption></figcaption></figure><p>Desde que a razão e a consciência ganharam força no mundo, estudar sobre o comportamento humano tem sido a tônica da Modernidade, sobretudo depois que Freud altera radicalmente a forma de pensar a partir da Psicanálise. E a partir da semana que vem, o curso de Psicologia da Universidade Veiga de Almeida vai ter é tempo de discutir sobre a temática. Na segunda-feira, dia 28, em comemoração ao dia do psicólogo, a XXI Semana de Psicologia UVA, o XII Encontro do Mestrado em Psicanálise e o V Encontro do Doutorado em Psicanálise vão reunir uma série de eventos para estudantes, professores, profissionais da área e interessados em entender, debater e aprimorar seus conhecimentos na Psicologia.</p><p>Os eventos terão início a partir das 8h, no auditório da Universidade, campus Barra. Serão seis dias discutindo temas como neurose, psicose, reversão entre outros temas da psicanálise. Evento importante para a Universidade e para o curso de Psicologia, a coordenadora e professora Cristina Caldas está feliz por organizar mais uma semana. “ As palestras com profissionais importantes do mercado de trabalho enriquecem o currículo dos alunos e o aprendizado não fica restrito ao conteúdo da sala de aula. É uma complementação acadêmica importante”, conta.</p><p>Além da participação como ouvintes, alguns alunos também se envolveram na organização do evento. Foi o caso da aluna do oitavo período, Renata Westin, que auxiliou na organização e produção do evento: “O envolvimento dos alunos, seja mediando, seja dando sugestões, foi importante para que tudo pudesse acontecer. Ter contato com profissionais que estão no mercado nos deixam mais conscientes do que vamos encontrar quando sairmos daqui ”, disse a aluna.</p><p>Aluna do 6º período de Psicologia, Priscila Najnudel, afirma gostar bastante de psicanálise e que também vai participar da Arteterapia, tema que ela quer dominar. “A Semana de Psicologia vem nos enriquecer como seres humanos independentemente do curso que você esteja realmente fazendo”, afirma Priscila. “Ela abre a mente para uma abordagem que estes profissionais vivenciam nas suas rotinas, experiências e situações que nem imaginamos passar”, completa.</p><p>No sexto e último dia, os alunos poderão participar de uma conferência internacional com dois grandes profissionais da área, a Psicanalista argentina Patricia Gherovici, cofundadora e diretora do Philadelphia Lacan Group e Mirta La Tessa, Psicanalista e membro da Escuela de Psicoanalisis de los Foros del Campo Lacaniano. Além de participar de um evento com profissionais tão respeitados na área, os alunos que comparecerem irão ganhar 5 horas de Atividades Complementares para atrelarem no Currículo.</p><p>Aos interessados as inscrições estão abertas e podem ser realizadas on-line por meio do Eventbrite, que está disponível no grupo do evento. (Link do grupo <a href='https://web.facebook.com/events/1582238308501552/?ref=br_tf'>https://web.facebook.com/events/1582238308501552/?ref=br_tf</a> )</p><p>Nailson Ribeiro, 5º período</p></main>"
+  },
+  "date": "2017-08-25T19:23:36",
+  "date_gmt": "2017-08-25T22:23:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Profissionais renomados, alunos e professores discutem sobre temas importantes da área. Desde que a razão e a consciência ganharam força no mundo, estudar sobre o comportamento humano tem sido a tônica da Modernidade, sobretudo depois que Freud altera radicalmente a forma de pensar a partir da Psicanálise. E a partir da semana que vem, o [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1097"
+  },
+  "id": 1097,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-hH",
+  "link": "https://agenciauvabarra.com/2017/08/25/psicologia-em-debate-na-uva/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:42:24",
+  "modified_gmt": "2019-02-28T19:42:24",
+  "ping_status": "open",
+  "slug": "psicologia-em-debate-na-uva",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Psicologia em Debate na UVA"
+  },
+  "type": "post"
+}

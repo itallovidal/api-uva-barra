@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9122/revisions/9133",
+        "id": 9133
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9122"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9122",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9122/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9122"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9130"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9122",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9122",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-9122",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-saude",
+    "category-sociedade",
+    "tag-covid-19",
+    "tag-saude-mental",
+    "tag-servico-de-psicologia-aplicada"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Atendimentos psicológicos podem ser gratuitos ou com um valor social</em></p><p>O Brasil é líder em índices de ansiedade e depressão na pandemia, segundo o estudo realizado pela faculdade de Ohio (EUA). A crise sanitária ressignificou as relações sociais, o que ocasionou em sentimentos de medo e ansiedade no cotidiano dos brasileiros. O colapso na área da saúde e a nova onda de contágios e mortes por Covid-19 colocam em risco a saúde mental.</p><p>Os atendimentos psicológicos gratuitos surgem como um instrumento de apoio e amparo aos pacientes que não têm condições financeiras para pagar pelo serviço. É o caso da universitária Maria Eduarda Alves, 19 anos, que já foi atendida gratuitamente e ressalta como foi importante essa experiência. “Estava numa fase muito difícil e recebi ajuda, sabe se lá como eu estaria se não passasse por esse atendimento, foi muito bom e útil ter esse apoio e ainda mais de forma gratuita, me ensinou muitas táticas para lidar com a ansiedade e depressão”, disse a estudante.</p><p><strong>Ouça o depoimento da estudante sobre a importância desse atendimento no áudio abaixo:</strong></p><iframe loading=\"lazy\" width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1034148718&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\"></iframe><p>Agência UVA Barra · Audio da fonte Maria Eduarda Alves sobre como sua vida foi transformada.</p><p>Na Universidade Veiga de Almeida, o Serviço de Psicologia Aplicada (SPA) oferece acompanhamento gratuito através dos estagiários, que são supervisionados por professores especialistas. Para a coordenadora do SPA, professora Clarice Medeiros a “clínica escola” proporciona um serviço essencial e importante. “Como sabemos que o SUS é sobrecarregado, o SPA surge como uma alternativa acessível e de qualidade em atendimento psicológico para a comunidade”, relatou Clarice.</p><figure><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"1280\" alt=\"\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/clarice-medeiros-coordenadora-da-spa.jpeg?resize=960%2C1280&#038;ssl=1\" /><figcaption>A coordenadora do SPA UVA, professora Clarice Medeiros aponta a qualidade dos atendimentos realizados pelos alunos da instituição. Foto: Arquivo Pessoal.</figcaption></figure><figure><img loading=\"lazy\" decoding=\"async\" width=\"550\" height=\"820\" alt=\"\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/maria-eduarda-alves-universitaria.jpg?resize=550%2C820&#038;ssl=1\" /><figcaption>Maria Eduarda Alves já recorreu a um serviço de psicologia gratuito para amenizar a ansiedade causada pela pandemia. Foto: Arquivo Pessoal.</figcaption></figure><p>A OMS (Organização Mundial da Saúde) já tinha alertado sobre o aumento de transtornos psiquiátricos em 2020. O distanciamento social, a quarentena, o aumento do número de mortos e infectados potencializaram a questão da saúde mental. Para transformar a qualidade de vida psíquica de um indivíduo, a terapia é um recurso encontrado para ser um canal de conversas, um meio para dividir as dores, receios e ser ouvido. “Cada paciente é convidado a contar a sua história, do seu jeito, e isso é transformador… ter um lugar onde cada um pode vir a se contar, é uma experiência única, produtora de mudanças”, destacou Clarice sobre a ação transformadora da SPA.</p><p><strong>Clique no vídeo e veja o depoimento da professora Clarice Medeiros sobre os impactos da pandemia na saúde mental.</strong></p><figure><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/orn7F2o2FaI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>A consulta no SPA da Universidade Veiga de Almeida deve ser agendada com antecedência e está disponível em todos os campi (Barra, Cabo Frio e Tijuca). O valor pode chegar a ser gratuito ou variar entre dois e 30 reais.</p><p><strong>Mais informações:</strong></p><p>· <strong>Campus Barra:</strong> de segunda a sexta, das 8h às 17h</p><p>Telefone: (21) 2574 – 8888</p><p>Endereço: Gal. Felicíssimo Cardoso, 500</p><p>· <strong>Campus Cabo Frio:</strong> de segunda a sexta, das 8h às 21h</p><p>Telefone: (22) 2640 – 1637</p><p>Endereço: Estrada Perynas, s/n</p><p>· <strong>Campus Tijuca: </strong>de segunda a sexta, das 8h às 21h</p><p>Telefone: (21) 2574 – 8898</p><p>Endereço: Rua Ibituruna, 108 casa 4</p><pre><em>Pedro Amorim - 4° período\nPedro Araújo - 3° período</em></pre></main>"
+  },
+  "date": "2021-04-24T10:10:30",
+  "date_gmt": "2021-04-24T13:10:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Atendimentos psicológicos podem ser gratuitos ou com um valor social </p>\n"
+  },
+  "featured_media": 9130,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9122"
+  },
+  "id": 9122,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/capa-2404.jpeg?fit=759%2C756&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2n8",
+  "link": "https://agenciauvabarra.com/2021/04/24/servico-de-psicologia-aplicada-oferece-assistencia-segura-e-qualificada-a-comunidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-04-24T10:25:43",
+  "modified_gmt": "2021-04-24T13:25:43",
+  "ping_status": "open",
+  "slug": "servico-de-psicologia-aplicada-oferece-assistencia-segura-e-qualificada-a-comunidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    694479852,
+    767056632,
+    572649386
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Serviço de Psicologia Aplicada oferece assistência segura e qualificada à comunidade"
+  },
+  "type": "post"
+}

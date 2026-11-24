@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18027/revisions/18031",
+        "id": 18031
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18027"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18027",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18027/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18027"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18030"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18027",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18027",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-18027",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Dirigido pela dupla Juru e Vitã, “Salão de Baile: This is Ballroom”, primeiro longa-metragem documental sobre o tema da história do Rio de Janeiro, narra a história da cultura ballroom no estado. Por meio de uma comunidade protagonizada por pessoas negras e LGBTQIAPN+, o roteiro do longa aborda e conta cronológicamente as origens e conceitos da cultura, que já teve alguns de seus elementos popularizados em shows de Madonna, e na série Pose, mas que se originou a partir da década de 60.</p><p>O documentário conta com relatos extremamente íntimos, chocantes, mas acima de tudo emocionantes. Por mais que alguns personagens tenham menos tempo de tela e relatos, suas falas cativam e trazem impacto. Vale destacar que cada tópico abordado é muito bem explicado, de forma que qualquer pessoa que demonstre interesse, possa compreender a história que o personagem conta e ansiar por descobrir mais sobre a história do ballroom.</p><p>O roteiro executa perfeitamente a ideia de ser didático. Além de contar muito bem a história da cultura, ele exemplifica o passo a passo das competições. Cada passo realizado nas performances tem sua razão e seu contexto explicados pelo roteiro. A relação familiar dos membros da comunidade, que por vezes só tem a si próprios, emociona e é um dos grandes momentos da obra.</p><p>O trabalho audiovisual apresentado é impecável, desde as cenas que demonstram a atualidade, até as cenas que retrocedem ao passado para situar o contexto da cultura. O grande trabalho audiovisual é também perceptível por meio dos cenários da região, apresentados ao longo da trama.</p><p>“Salão de Baile: This is Ballroom” é um ótimo longa-metragem documental, que nos faz olhar diretamente para um público pouco visto na sociedade atual, e que desta forma, pode se tornar uma das grandes portas de entrada para a divulgação e difusão da cultura ballroom no país. Seu lançamento oficial será no dia 5 de dezembro, nos cinemas.</p><figure><iframe src='https://www.youtube.com/embed/vuKUCxdZNNg' width='640' height='360' title='Vídeo incorporado' allowfullscreen></iframe></figure><p>João Pedro Magalhães – 7º Período</p></main>"
+  },
+  "date": "2024-12-06T10:42:25",
+  "date_gmt": "2024-12-06T13:42:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Dirigido pela dupla Juru e Vitã, “Salão de Baile: This is Ballroom”, primeiro longa-metragem documental sobre o tema da história do Rio de Janeiro, narra a história da cultura ballroom no estado. Por meio de uma comunidade protagonizada por pessoas negras e LGBTQIAPN+, o roteiro do longa aborda e conta cronológicamente as origens e conceitos [&hellip;]</p>\n"
+  },
+  "featured_media": 18030,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18027"
+  },
+  "id": 18027,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/12/poster_do_salao_de_baile.jpg?fit=2592%2C3840&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4GL",
+  "link": "https://agenciauvabarra.com/2024/12/06/agencia-uva-barra-assistiu-salao-de-baile-this-is-ballroom/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-12-06T10:42:25",
+  "modified_gmt": "2024-12-06T13:42:25",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-salao-de-baile-this-is-ballroom",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: Salão de Baile: This is Ballroom"
+  },
+  "type": "post"
+}

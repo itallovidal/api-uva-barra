@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6035/revisions/6042",
+        "id": 6042
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6035"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6035",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6035/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6035"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6037"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6035",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6035",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6035",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-mostra-a-cara-2019",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Projetos dos alunos foram avaliados por profissionais da área</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/whatsapp-image-2019-12-04-at-14.25.55-e1575573613618.jpeg?resize=768%2C432&amp;ssl=1' alt='Alunos premiados no Mostra a Cara' width='768' height='432' /><figcaption>Alunos premiados no Mostra a Cara – Foto: Anderson Barreto</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/whatsapp-image-2019-12-05-at-16.14.49-e1575573737294.jpeg?resize=1280%2C886&amp;ssl=1' alt='Professores, alunos e convidados durante o Mostra a Cara 2019' width='1280' height='886' /><figcaption>Professores, alunos e convidados durante o Mostra a Cara 2019 – Foto: Leonardo Amato</figcaption></figure><p>A Universidade Veiga de Almeida, campus Barra, promoveu no dia 19 de novembro pela primeira vez o Mostra a Cara. O evento tem como proposta ampliar a visibilidade da produção universitária nas áreas de criatividade, comunicação e design. Além das produções da UVA campi Barra e Cabo Frio, alunos da IBMR e Unigranrio foram convidados para participar do concurso.</p><p>Os trabalhos inscritos foram avaliados por professores e profissionais do mercado. O coordenador da Agência Onze e um dos organizadores do evento, Léo Amato, destaca que a ideia é contemplar os trabalhos dos estudantes. “O principal é qualificar ainda mais os alunos porque quando existe um concurso você tem que ter uma entrega superior ao que está sendo realizado em sala de aula e isso eleva a qualidade do que é produzido pelos universitários”. Ele acrescenta ainda que a mostra possibilita criar uma comunidade acadêmica, pois permite um diálogo com as outras universidades.</p><p>Coordenador dos cursos de Comunicação Social da IBMR, Mateus Freire ressalta a importância da interação entre as instituições. “É dessa forma que continuamos na Educação, fazendo propostas e pensando no novo. Quem sabe esse será o início da carreira de grandes profissionais? Esse é o nosso propósito: transformar a realidade das pessoas”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/whatsapp-image-2019-12-04-at-14.24.48-e1575574127447.jpeg?resize=378%2C581&amp;ssl=1' alt='Os alunos Lucas Oliveira, Sarah Izidim e Davi Werneck, ambos do curso de publicidade, foram premiados no Mostra a Cara' width='378' height='581' /><figcaption>Os alunos Lucas Oliveira, Sarah Izidim e Davi Werneck, ambos do curso de publicidade, foram premiados no Mostra a Cara – Foto: Anderson Barreto</figcaption></figure><p>Premiado em primeiro lugar na categoria Publicidade Digital, o aluno Davi Werneck, 6º período de Publicidade, conta que ficou feliz em poder participar e ganhar um concurso dentro do próprio campus. “Sair com um certificado como esse é muito importante para o nosso currículo e portfólio, é uma experiência única que marca nossa vida acadêmica”, diz.</p><p>Com o segundo e terceiro lugar garantidos na categoria Jornalismo Digital, Kaliane Trindade, 6º período de Jornalismo, comenta que a premiação é importante porque dá a oportunidade de mostrar as próprias produções. “Ser premiada no Mostra a Cara me mostrou que estou no caminho certo na minha profissão e é um estímulo para continuar”, relata. Segundo os idealizadores do evento, a primeira edição foi um sucesso e a segunda já tem data garantida no calendário acadêmico.</p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-12-05T16:32:43",
+  "date_gmt": "2019-12-05T19:32:43",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Projetos dos alunos foram avaliados por profissionais da área A Universidade Veiga de Almeida, campus Barra, promoveu no dia 19 de novembro pela primeira vez o Mostra a Cara. O evento tem como proposta ampliar a visibilidade da produção universitária nas áreas de criatividade, comunicação e design. Além das produções da UVA campi Barra e [&hellip;]</p>\n"
+  },
+  "featured_media": 6037,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6035"
+  },
+  "id": 6035,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/whatsapp-image-2019-12-04-at-14.25.55-e1575573613618.jpeg?fit=768%2C432&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1zl",
+  "link": "https://agenciauvabarra.com/2019/12/05/uva-barra-realiza-primeira-mostra-de-publicidade-jornalismo-e-design/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-12-05T16:33:14",
+  "modified_gmt": "2019-12-05T19:33:14",
+  "ping_status": "open",
+  "slug": "uva-barra-realiza-primeira-mostra-de-publicidade-jornalismo-e-design",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    690938910,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA Barra realiza primeira mostra de publicidade, jornalismo e design"
+  },
+  "type": "post"
+}

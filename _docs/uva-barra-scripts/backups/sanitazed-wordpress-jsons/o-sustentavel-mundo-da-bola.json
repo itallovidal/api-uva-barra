@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10054/revisions/10312",
+        "id": 10312
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10054"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10054",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 21,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10054/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10054"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10059"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10054",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10054",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    254332
+  ],
+  "class_list": [
+    "post-10054",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-esporte",
+    "category-sustentabilidade",
+    "tag-agencia-uva-barra",
+    "tag-conscientizacao",
+    "tag-ecologia",
+    "tag-esportes",
+    "tag-futebol",
+    "tag-meio-ambiente",
+    "tag-sustentabilidade",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Estreitamento da relação esporte e meio ambiente vem contribuindo em defesa de causas humanitárias e preservação do ecossistema</em></p><p>A importância e a necessidade de se adequar pautas e temas relevantes da atualidade também é de competência do esporte, e especialmente, o futebol, já tão conhecido como mobilizador de classes. A diversidade e a riqueza do ecossistema brasileiro vêm sofrendo danos, e é imprescindível que a bola corra no gramado dos estádios e as práticas sustentáveis entrem na lista dos clubes e dirigentes. Uma fusão em que todo mundo sai vencedor.</p><p>Desde a realização da Copa do Mundo no Brasil, em 2014, o Ministério do Esporte propagou uma série de diretrizes para a construção e reforma dos estádios e centros de treinamento, inclusive, abarcando questões sustentáveis, como eficiência energética, racionamento de água, queimadas, entre outros temas proeminentes.</p><p>Tais hábitos são seguidos até hoje, como por exemplo, o reaproveitamento da água da chuva e a geração de energia limpa e renovável que ocorrem em alguns estádios brasileiros. Clubes como: o Grêmio, Internacional, Palmeiras, Corinthians, São Paulo, Atlético Mineiro, e mais recentemente, Red Bull Bragantino, são exemplos de times que visam perpetuar o legado, praticando a sustentabilidade.</p><p>O Clube Atlético Mineiro, por exemplo, inaugurou ano passado a chamada Usina do Galo, mantendo o pioneirismo histórico, agora se tornando o primeiro clube brasileiro auto sustentável.</p><p>A Usina é responsável direta pela produção de energia fotovoltaica no abastecimento da sede administrativa e centro de treinamento, consistindo na transformação da radiação solar diretamente em corrente elétrica, por meio das placas expostas ao sol, ocasionando maior economia financeira e benefícios significativos ao ecossistema.</p><p>Assim, como o Galo, outros dois clubes paulistas, Palmeiras e Corinthians, foram fundamentais na criação de projeto responsável pela reserva ambiental de árvores nativas oriundas da Mata Atlântica. O projeto de educação socioambiental, já plantou 25 mil das 30.400 mil mudas conseguidas por ambas as agremiações. O plantio é feito em terreno localizado em Salto do Pirapora, interior de São Paulo.</p><p>Segundo as regras e condições do projeto, cujo objetivo é promover a responsabilidade socioambiental junto às grandes massas por meio do futebol, a cada partida das equipes, 100 mudas foram plantadas. Os atletas de cada equipe também tinham papel crucial, uma vez que cada gol marcado era equivalente à plantação de mais 100 árvores.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/virgilio-franceschi-neto.jpg?resize=448%2C597&#038;ssl=1' alt='Virgílio Franceschi Neto' width='448' height='597' /><figcaption><strong><em>Virgílio Neto espera que esporte e meio ambiente sigam caminhando na mesma direção</em></strong><br>(Foto: Arquivo Pessoal)</figcaption></figure><p>Mestre em Gestão do Desporto pela Universidade Técnica de Lisboa, Portugal, Virgílio Franceschi Neto acredita ser valioso o engajamento entre futebol e meio ambiente, ao afirmar que ambos são fatores sociais importantes. “Através deles entendemos a organização, os valores, a economia e a política de uma sociedade. Em segundo lugar, o futebol é formador de opinião e pode influenciar o comportamento de milhares de pessoas.”<p><strong>Veja o que Virgílio Neto fala sobre o impacto do futebol em formar opiniões</strong>:</p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src='https://www.youtube.com/embed/f-OLNujHCnE?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></span></div></figure><p>Virgílio acredita que com o passar do tempo, a opinião pública dará atributos positivos ao tema. “Há longo prazo podem significar mais patrocinadores e rendimentos. O conceito de clube sustentável entra em um panorama preocupante a respeito da disponibilidade de recursos disponíveis, e a escassez pode comprometer a continuidade.”<p>Com tantas ações ocorrendo em paralelo, a evolução e o incentivo por práticas conscientes nesse sentido só crescem. Tais ações também visam agregar valor à marca esportiva, propiciando um bom relacionamento com entidades de proteção ambiental e órgãos públicos, além de passar credibilidade aos torcedores e patrocinadores no tocante ao cumprimento delas.</p><p>De acordo com a Neoenergia, empresa integrada que atua em quatro segmentos do setor elétrico (geração, transmissão, distribuição e comercialização), o futebol possui significativo gasto no consumo de energia, determinando também liberação de carga altíssima de CO2 e larga demanda de lixo. Para termos ideia, o estádio do Maracanã, por exemplo, considerado o principal do país, possui custo de um milhão de reais mensais só com energia elétrica, e por conta disso, existe um esforço demasiado para que os estádios brasileiros e as novas arenas utilizem sistemas de iluminação nos modelos LED, de custo mais reduzido, o que já ocorre em alguns casos.</p><p>A Arena Pernambuco (PE), o Maracanã (RJ), o Mineirão (MG) e a Arena Pituaçu (BA), são exemplos de palcos sustentáveis geradores de sua própria energia, inclusive, o Estádio de Pituaçu foi pioneiro na América Latina em aderir à energia elétrica fotovoltaica.</p><blockquote><p>“O esporte é capaz de mobilizar milhões de pessoas simultaneamente, em suas casas e nos eventos esportivos. O impacto ambiental que essa mobilização possui é imensurável.”</p><cite>Virgílio Franceschi Neto</cite></blockquote><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/rafael-zanette.jpg?resize=551%2C413&#038;ssl=1' alt='Rafael Zanette' width='551' height='413' /><figcaption><strong><em>Rafael Zanette confia que os clubes de futebol continuem batalhando pela causa</em></strong><br>(Foto: Arquivo Pessoal)</figcaption></figure><p>O atual Diretor de Negócios da Brasil FA e ex Diretor de Marketing do Cruzeiro Esporte Clube, Rafael Zanette, explicou a relevância da sustentabilidade no esporte, mas também na vida, acreditando que ambos estão interligados. “Existe uma preocupação de que o ecossistema não continue sendo agredido, e o futebol, serve como propaganda positiva, trazendo e incentivando ações consideráveis, aderindo a campanhas agregadoras possibilitando uma maior conscientização social”, afirma.</p><p><strong>Ouça o que diz Rafael Zanette sobre a importância do esporte como fator de conscientização</strong>:</p><figure><div><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title='Rafael Zanette fala sobre a importância do esporte como fator de conscientização by Agência UVA Barra' width='500' height='400' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1133103331&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500'></iframe></div></div></figure><blockquote><p><em>“Hoje, existem clubes que se empenham pela causa, principalmente com relação ao racionamento de água, energia, plantação de seu próprio alimento, diminuição do uso de plásticos, além de outros fatores importantes.”</em></p><cite><em>Rafael Zanette</em></cite></blockquote><p>Importante salientar, que atualmente, predomina uma forte tendência de que os clubes que adotarem medidas de melhorias ambientais ligadas à sustentabilidade venham obter resultados mais expressivos no âmbito financeiro, especialmente com relação a valorização e exposição da marca e o patente reconhecimento dos patrocinadores e adeptos.</p><p><em>Bruno Sadock – 6º período</em></p></main>"
+  },
+  "date": "2021-09-29T11:45:39",
+  "date_gmt": "2021-09-29T14:45:39",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A importância e a necessidade de se adequar pautas e temas relevantes da atualidade também é de competência do esporte, e especialmente, o futebol, já tão conhecido como mobilizador de classes. A diversidade e a riqueza do ecossistema brasileiro vem sofrendo danos e é imprescindível que a bola corra no gramado dos estádios e as práticas sustentáveis entrem na lista dos clubes e dirigentes. Uma fusão em que todo mundo sai vencedor.</p>\n"
+  },
+  "featured_media": 10059,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10054"
+  },
+  "id": 10054,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/capa-site-agencia-1-2.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Ca",
+  "link": "https://agenciauvabarra.com/2021/09/29/o-sustentavel-mundo-da-bola/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-14T18:50:17",
+  "modified_gmt": "2021-10-14T21:50:17",
+  "ping_status": "open",
+  "slug": "o-sustentavel-mundo-da-bola",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    479084,
+    6707,
+    15119,
+    53870,
+    767056612,
+    767056627,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O sustentável mundo da bola"
+  },
+  "type": "post"
+}

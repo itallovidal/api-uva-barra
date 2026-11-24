@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2061/revisions/3094",
+        "id": 3094
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2061"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2061",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2061/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2061"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2062"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2061",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2061",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366,
+    257
+  ],
+  "class_list": [
+    "post-2061",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "category-geek"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Diversão, cultura, lazer e o mundo dos passatempos animados em um só lugar</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/wp_20180722_13_26_36_pro.jpg?resize=1632%2C916&#038;ssl=1' alt='WP_20180722_13_26_36_Pro' width='1632' height='916' /><figcaption>Foto: Karina Figueiredo</figcaption></figure><p>Feira nerd movimentou a Zona Oeste. O Geek &amp; Game Rio Festival reuniu milhares de pessoas no último fim de semana no Riocentro. O evento ofereceu aos visitantes o contato com o universo dos jogos e distribuiu em um pavilhão, os espaços para mesas de competição, workshops e áreas dedicadas aos fãs. A cultura nerd marcou presença com artistas independentes, diversos food trucks e cosplayers. </p><p>E as fantasias dos personagens chamaram a atenção do público infantojuvenil. Esse foi o caso de Vitor Costa, 14 anos. “Eu gosto de animes e do concurso de fantasias”. Ele participou pela primeira vez  e pretende voltar na próxima edição. A cosplayer Luana Mello caracterizada de InuYasha figura conhecida no mangá, sentiu-se realizada ao poder atuar. “Estou participando pela primeira vez e essa organização tem uma boa estrutura”, declarou a profissional da modalidade artística.</p><p>A pluralidade de intérpretes cativou até as famílias durante as apresentações. O Engenheiro Douglas Souza, morador de Volta Redonda, levou o filho Miguel de apenas 5 anos para conhecer as figuras do desenho animado. “Quero ver o Pokemón, Dragon Boll Z e voltar no outro dia”, disse Miguel entusiasmando com o passeio. A dona de casa Paloma Lopes também ficou animada ao entrar no local.“Conheço algumas coisas e tenho interesse pela diversidade dos games”, confessou.</p><p>Ela e o irmão Logan Mercês ficaram satisfeitos com a experiência. “Está fabuloso e do jeito que eu esperava”, opinou o jovem. Do mesmo modo foi com os expositores que tiveram as expectativas alcançadas.“Apostamos na variedade de produtos o que contribuiu bastante para as vendas”, explicou Thiago Magalhães, dono de uma loja de artigos colecionáveis. O coordenador acadêmico de um escola de games Rogério Félix, considera a chance que recebeu como positiva.</p><p>Isso porque a instituição pôde montar uma  infraestrutura no pavilhão voltada para a imersão digital. “Nós ensinamos a criar e a estar dentro da realidade virtual”, esclareceu Rogério. Ele informou que o modelo utilizado é baseado para entender e acompanhar o mercado que está em crescimento no país, mas ainda carece de mão de obra que tenha conhecimento sobre a técnica. “Essa vertente deixa claro o que ensinamos e o que precisamos entender sobre o comércio dos Games”. Depois de três dias dedicados a cultura nerd é hora de dizer tchau e esperar pela edição de 2019.</p><p>Karina Figueiredo, 5º período</p></main>"
+  },
+  "date": "2018-07-24T18:46:11",
+  "date_gmt": "2018-07-24T21:46:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Diversão, cultura, lazer e o mundo dos passatempos animados em um só lugar Feira nerd movimentou a Zona Oeste. O Geek &amp; Game Rio Festival reuniu milhares de pessoas no último fim de semana no Riocentro. O evento ofereceu aos visitantes o contato com o universo dos jogos e distribuiu em um pavilhão, os espaços [&hellip;]</p>\n"
+  },
+  "featured_media": 2062,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2061"
+  },
+  "id": 2061,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/wp_20180722_13_26_36_pro.jpg?fit=1632%2C916&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-xf",
+  "link": "https://agenciauvabarra.com/2018/07/24/maior-evento-geek-se-despede-do-rio-de-janeiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:34:28",
+  "modified_gmt": "2019-01-31T14:34:28",
+  "ping_status": "open",
+  "slug": "maior-evento-geek-se-despede-do-rio-de-janeiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Maior evento Geek se despede do Rio de Janeiro"
+  },
+  "type": "post"
+}

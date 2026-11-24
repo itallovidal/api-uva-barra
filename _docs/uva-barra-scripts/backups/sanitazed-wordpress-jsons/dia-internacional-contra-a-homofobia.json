@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9350/revisions/9357",
+        "id": 9357
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9350"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9350",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9350/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9350"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9356"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9350",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9350",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-9350",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "tag-dia-internacional-contra-a-homofobia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Relembre as reportagens da Agência UVA Barra sobre diversidade</em></p><p>O dia 17 de maio é o Dia Internacional Contra a Homofobia. A data não foi escolhida por acaso. Em 17 de maio de 1990, a Organização Mundial da Saúde (OMS) retirou a homossexualidade da lista de doenças mundiais, apenas 31 anos atrás.</p><p>Em 2020, o Brasil ocupou o 1º lugar no ranking dos assassinatos de pessoas trans no mundo, a ANTRA, Associação Nacional de Travestis e Transexuais do Brasil, encontrou 184 registros lançados no mapa dos assassinatos e após análise minuciosa, chegaram ao número de 175 assassinatos.</p><p>A data é um lembrete social para o combate a violência de outras pessoas incluídas na sigla LGBTQIA+ (Lésbicas, Gays, Bissexuais, Trans e Travestis, Queers, Intersexuais, Assexuais e outras pessoas com identidades de gênero e sexualidade diversas).</p><p>Por isso, a Agência UVA Barra separou uma série de reportagens com histórias de pessoas LGBTQIA+ que passaram por aqui. Confira.</p><figure><blockquote><a href='http://agenciauvabarra.com/2017/05/10/especial-maes-maternidade-lesbica/'>Especial Mães: Maternidade Lésbica</a></blockquote><iframe src='http://agenciauvabarra.com/2017/05/10/especial-maes-maternidade-lesbica/embed/#?secret=BT1uN7McYa#?secret=SEVKAw0Eez' width='500' height='282' title='Especial Mães: Maternidade Lésbica — Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></figure><figure><blockquote><a href='http://agenciauvabarra.com/2017/06/07/resistir-para-existir-2/'>Resistir para existir</a></blockquote><iframe src='http://agenciauvabarra.com/2017/06/07/resistir-para-existir-2/embed/#?secret=BXBZ8bA1gQ#?secret=6BNrZ5LXMp' width='500' height='282' title='Resistir para existir — Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></figure><figure><blockquote><a href='http://agenciauvabarra.com/2021/04/08/iniciativas-transformadoras-conectam-pessoas-trans-e-o-mercado-de-trabalho/'>Iniciativas transformadoras conectam pessoas trans e o mercado de trabalho</a></blockquote><iframe src='http://agenciauvabarra.com/2021/04/08/iniciativas-transformadoras-conectam-pessoas-trans-e-o-mercado-de-trabalho/embed/#?secret=p2cXVbW4ww#?secret=OJ1gg9FxM1' width='500' height='282' title='Iniciativas transformadoras conectam pessoas trans e o mercado de trabalho — Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></figure><figure><blockquote><a href='http://agenciauvabarra.com/2020/06/20/os-efeitos-do-isolamento-na-vida-de-pessoas-trans/'>Os efeitos do isolamento na vida de pessoas trans</a></blockquote><iframe src='http://agenciauvabarra.com/2020/06/20/os-efeitos-do-isolamento-na-vida-de-pessoas-trans/embed/#?secret=XHI2rif74g#?secret=GJXIIdp1bx' width='500' height='282' title='Os efeitos do isolamento na vida de pessoas trans — Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></figure><figure><blockquote><a href='http://agenciauvabarra.com/2021/05/07/amor-que-vai-alem-do-tradicional/'>Amor que vai além do tradicional</a></blockquote><iframe src='http://agenciauvabarra.com/2021/05/07/amor-que-vai-alem-do-tradicional/embed/#?secret=tnoJSSx5Wq#?secret=clFwG2IyyH' width='500' height='282' title='Amor que vai além do tradicional — Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></figure></main>"
+  },
+  "date": "2021-05-17T17:08:19",
+  "date_gmt": "2021-05-17T20:08:19",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O dia 17 de maio é o Dia Internacional Contra a Homofobia. A data não foi escolhida por acaso. Em 17 de maio de 1990, a Organização Mundial da Saúde (OMS) retirou a homossexualidade da lista de doenças mundiais, apenas 31 anos atrás. </p>\n"
+  },
+  "featured_media": 9356,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9350"
+  },
+  "id": 9350,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/agencia-geral-post-9.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2qO",
+  "link": "https://agenciauvabarra.com/2021/05/17/dia-internacional-contra-a-homofobia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-05-17T17:08:19",
+  "modified_gmt": "2021-05-17T20:08:19",
+  "ping_status": "open",
+  "slug": "dia-internacional-contra-a-homofobia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    20517494
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dia Internacional Contra a Homofobia"
+  },
+  "type": "post"
+}

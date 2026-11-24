@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6626/revisions/6648",
+        "id": 6648
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6626"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6626",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6626/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6626"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6637"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6626",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6626",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1704,
+    670411728,
+    4753134,
+    7114
+  ],
+  "class_list": [
+    "post-6626",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-gastronomia",
+    "category-institucional-uva",
+    "category-quarentena",
+    "category-sociedade",
+    "tag-alimentacao-saudavel",
+    "tag-nutricao",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Livro digital é uma produção do curso de nutrição da UVA Barra</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/capa-ebook-nutric3a7c3a3o.jpeg?resize=573%2C391&amp;ssl=1\" alt=\"\" width=\"573\" height=\"391\"><figcaption>Foto: Divulgação</figcaption></figure><p>Em função do isolamento causado pela pandemia do novo coronavírus muitos aspectos da vida estão sendo afetados, principalmente a alimentação. Pensando nisso, o curso de nutrição da Universidade Veiga de Almeida (UVA), campus Barra, lançou no dia 06 de maio o “Guia sobre alimentação, nutrição e saúde 2020 – Durante o distanciamento social, isolamento domiciliar e quarentena COVID-19”. O projeto acadêmico coordenado pelas professoras e nutricionistas Cinara Oliveira e Daniela Viana contou com a colaboração das alunas Elizabeth Oliveira, Júlia Maria Ferreira e Ludmila Torqueti, ambas acadêmicas de nutrição da UVA Barra.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/cinara.jpg?resize=640%2C640&amp;ssl=1\" alt=\"\" width=\"640\" height=\"640\"><figcaption>A nutricionista Cinara Oliveira comenta que a maioria das pessoas identificam mudanças no padrão de escolhas alimentares em situações de estresse – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-06-at-17.51.57.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>A nutricionista Daniela Viana destaca que o ebook esclarece dúvidas sobre a manutenção da saúde física e mental – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-04-30-at-16.48.22-1-e1588891142308.jpeg?resize=764%2C548&amp;ssl=1\" alt=\"\" width=\"764\" height=\"548\"><figcaption>Para a universitária Ludmila Torqueti participar da produção do ebook foi uma experiência engradecedora- Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-07-at-15.12.24.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>A estudante Júlia Maria ficou responsável, junto com Ludmila, pelo conteúdo que aborda a conscientização dos hábitos alimentares – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-07-at-16.35.04.jpeg?resize=853%2C853&amp;ssl=1\" alt=\"\" width=\"853\" height=\"853\"><figcaption>A aluna Elizabeth Oliveira ja pensava em produzir algum conteúdo voltado para alimentação saudável – foto: Arquivo Pessoal</figcaption></figure><p>Com o objetivo de dar suporte para a população em relação a alimentação, nutrição e saúde, Cinara destaca que o guia é um material didático de educação nutricional e alimentar para o atual momento. “Uma alimentação saudável é primordial para manter a saúde, atua na prevenção contra doenças e é especialmente importante para manter nosso sistema imunológico em ótimas condições”, afirma.</p><p>Cuidar da alimentação em tempos de pandemia não é uma tarefa fácil, por isso Daniela explica que o ideal é priorizar diferentes tipos de alimentos, com variedade de cores e o mais natural possível. “É importante reforçar que o ‘menos é mais’. Portanto, a divisão das refeições em menores porções é muito importante para a manutenção da saúde física”, comenta a professora.</p><p>Aluna de nutrição e uma das colaboradoras do ebook, Ludmila Torqueti acredita que muitas pessoas descontam sentimentos como a angústia e ansiedade na comida. “Não precisamos fazer da comida nossa única válvula de escape. Agora, mais do que nunca, é importante manter uma alimentação saudável, fortalecendo assim nosso sistema imunológico”, diz.</p><p>Ouça o áudio com os relatos das estudantes Júlia Maria Ferreira e Elizabeth Oliveira:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F815898205&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Player do SoundCloud\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe><p>Em tempos tão difíceis, o ebook de nutrição desempenha um papel informativo para a sociedade. A diretora acadêmica da UVA Barra Nara Iwata ressalta que a missão da universidade é levar essas discussões para a comunidade. “Esse é um momento novo para todos, estão todos preocupados em como se adaptar e se pudermos colaborar, ainda que seja um pouco, já vale a pena”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/pp-2.jpg?resize=333%2C333&amp;ssl=1\" alt=\"\" width=\"333\" height=\"333\"><figcaption>Diretora acadêmica da UVA Barra Nara Iwata – Foto: Arquivo Pessoal</figcaption></figure><p>A edição e o projeto gráfico original do e-book foram elaborados pelos alunos da Agência Onze, da UVA Barra, com coordenação do Prof. Leonardo Amato e finalização da equipe de marketing da universidade.</p><p>Para baixar o ebook gratuitamente, acesse <a href=\"https://agenciauvabarra.com/wp-content/uploads/2020/05/ebook-guia-alimentaccca7acc83o-nutriccca7acc83o-e-saucc81de-covid-19-maio-2020.pdf\">aqui</a></p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-07T19:45:48",
+  "date_gmt": "2020-05-07T22:45:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Livro digital é uma produção do curso de nutrição da UVA Barra Em função do isolamento causado pela pandemia do novo coronavírus muitos aspectos da vida estão sendo afetados, principalmente a alimentação. Pensando nisso, o curso de nutrição da Universidade Veiga de Almeida (UVA), campus Barra, lançou no dia 06 de maio o “Guia sobre [&hellip;]</p>\n"
+  },
+  "featured_media": 6637,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6626"
+  },
+  "id": 6626,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/capa-ebook-nutric3a7c3a3o.jpeg?fit=657%2C448&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1IS",
+  "link": "https://agenciauvabarra.com/2020/05/07/ebook-mostra-passo-a-passo-de-como-manter-uma-alimentacao-saudavel/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-08T08:23:53",
+  "modified_gmt": "2020-05-08T11:23:53",
+  "ping_status": "open",
+  "slug": "ebook-mostra-passo-a-passo-de-como-manter-uma-alimentacao-saudavel",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    246866,
+    767056604,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Ebook mostra passo a passo de como manter uma alimentação saudável"
+  },
+  "type": "post"
+}

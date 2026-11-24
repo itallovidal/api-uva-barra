@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3733/revisions/3766",
+        "id": 3766
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3733"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3733",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3733/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3733"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3733",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3733",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3733",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Primeiro dia do Rio2C tem programação plural</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/dscn0049-1.jpg?resize=4896%2C3672&#038;ssl=1\" alt=\"\" width=\"4896\" height=\"3672\" /><figcaption>Diretoras criativas debatem sobre as diversas famílias do Brasil – Foto: Gabriel Torres</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/23278e63-7065-490e-abb3-6c88370af27b-1.jpeg?resize=4032%2C3024&#038;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Palestrantes discutem os novos players do mercado – Foto: Juliana Marques</figcaption></figure><p>A maior conferência de criatividade e inovação da América Latina começou ontem, 23/04, na Cidade das Artes na Barra da Tijuca. O Rio2C – Rio creative conference vai até domingo (28/04) e conta com debates sobre música, cotidiano e tecnologia e traz grandes nomes do mercado criativo, como Charlie Brooker criador da série Black Mirror e o proprietário do maior canal brasileiro do YouTube e o terceiro do mundo, KondZilla.</p><p>A programação pode ser conferida no aplicativo e no site do evento. Ao todo serão mais de mil convidados, entre artistas e palestrantes uma oportunidade de traçar diálogos e trocar experiências.</p><p>O primeiro dia trouxe temas importantes, entre eles um debate com diretoras criativas, sobre como a comunicação nos faz enxergar a diversidade familiar. Com 42% das famílias sendo pais com seus filhos, a diretora Denise Gallo comenta que é preciso persistir para que casas com mãe solo, casais sem filhos e lares homoafetivos sejam considerados repensados pela comunidade e pela comunicação.</p><p>O evento aumenta o potencial de interligar os profissionais da indústria. Rio2C é o catalisador de encontros transformadores. Nas diversas salas e stands disponíveis há sempre alguém trocando ideias e fazendo contatos, na sala do Pitching Show os músicos se apresentam para uma banca formada por profissionais do meio e mostram seus trabalhos autorais. No painel Música – Novos Players do Mercado, o bate papo mostrou a força que o som tem no nosso dia a dia e como as Empresas apostam nas músicas para a construção de marcas fortes.</p><p>Ana Carolina Marinho – 7° período e Juliana Marques – 6° período | Jornalismo</p></main>"
+  },
+  "date": "2019-04-24T16:43:32",
+  "date_gmt": "2019-04-24T19:43:32",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Primeiro dia do Rio2C tem programação plural A maior conferência de criatividade e inovação da América Latina&nbsp;começou ontem, 23/04,&nbsp;na Cidade das Artes na Barra da Tijuca. O Rio2C – Rio creative conference vai até domingo (28/04) e conta com debates sobre música, cotidiano e tecnologia e traz grandes nomes do mercado criativo, como Charlie Brooker [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3733"
+  },
+  "id": 3733,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Yd",
+  "link": "https://agenciauvabarra.com/2019/04/24/maior-evento-audiovisual-desembarca-na-cidade-das-artes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-26T07:22:23",
+  "modified_gmt": "2019-04-26T10:22:23",
+  "ping_status": "open",
+  "slug": "maior-evento-audiovisual-desembarca-na-cidade-das-artes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Maior evento audiovisual desembarca na Cidade das Artes"
+  },
+  "type": "post"
+}

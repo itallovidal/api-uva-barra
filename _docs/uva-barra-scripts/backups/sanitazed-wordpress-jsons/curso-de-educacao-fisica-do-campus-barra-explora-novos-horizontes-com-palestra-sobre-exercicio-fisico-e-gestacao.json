@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16750/revisions/16758",
+        "id": 16758
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16750"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16750",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16750/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16750"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16756"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16750",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16750",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16750",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O Curso de Educação Física recebeu, nesta sexta-feira, a visita da Professora Júlia Ronchete, especialista em treinamento personalizado para gestantes. A palestra aconteceu no Lab Ideias e teve como tema “Seminário de Exercício Físico e Gestação: Horizontes para futuros profissionais da Educação Física”, com a presença de alunos e professores. Júlia é Mestre pela UERJ e defendeu a dissertação de Mestrado sobre o mesmo tema. O objetivo do encontro foi mostrar aos alunos uma área especializada que não é abordada com profundidade durante a formação regular, proporcionando maior conhecimento sobre as necessidades fisiológicas e psicológicas das gestantes, bem como as adaptações necessárias nos programas de exercícios e benefícios específicos sobre a atividade física durante a gestação.</p><p>Participaram alunos do curso de Educação Física, além da professora Daiane Lazzeri, do curso de Fisioterapia, enriquecendo o debate com perspectivas interdisciplinares. Experiências como essa ajudam os alunos a visualizar novas possibilidades de carreira para além do tradicional papel do Educador Físico. É como pensa a Professora Julia: “Os alunos passam a considerar carreiras como personal trainers especializados, além conhecerem um pouco sobre a saúde das gestantes e também pesquisas acadêmicas que estão sendo desenvolvidas na área de saúde e gestação”, conta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/whatsapp-image-2024-05-18-at-11.25.19.jpeg?resize=1600%2C1204&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1204\" /><figcaption></figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/whatsapp-image-2024-05-18-at-13.51.57.jpeg?resize=1204%2C1600&amp;ssl=1\" alt=\"\" width=\"1204\" height=\"1600\" /><figcaption></figcaption></figure><p>Lucas Caldas, do 3. Período de Educação Física, conheceu um pouco mais sobre as melhores práticas para se trabalhar com gestantes. “É um momento delicado na vida de uma mulher e receber um tratamento especializado, personalizado de um educador físico, dá segurança às gestantes e capacita o profissional da área a fazer o seu melhor”, afirma.</p><p>O coordenador do curso de Educação Física, Prof. Alvaro Alves, incentiva esse contato com profissionais do mercado e pesquisadores desde os períodos iniciais. Segundo ele, o aluno passa a ter uma visão ampliada para além das tradicionais formas de ocupação profissional em um mercado já tão concorrido como é o da Educação Física. “A inclusão de palestras com temas especializados complementa o currículo acadêmico com as últimas tendências de pesquisas na área. Além disso, propicia ao aluno que pode, até nos postos mais tradicionais de trabalho, uma orientação especializada, personalizada, além de agregar valor e um diferencial ao seu trabalho como Educador Físico.</p><p>Para Gabrielle Antonelly Ferreira, também do 3. Período, foi uma experiência muito enriquecedora, tendo em vista ser um assunto que ela desconhecia e que pode ser um diferencial, envolvendo várias áreas do conhecimento, desde os ganhos financeiros até uma especialização importante para o aluno de Educação Física na prática profissional. “Um evento de qualidade que nos trouxe conhecimentos novos e a ideia de uma especialização que vai nos preparar melhor para os desafios do mercado profissional. Fiquei até com vontade de saber mais sobre a área”, finaliza.</p><p>A Universidade Veiga de Almeida do Campus Barra tem o curso de Educação Física na unidade, sob a coordenação do Prof. Alvaro Alves.</p><p><em>Giulia Karol Nascimento – 3º Período</em></p></main>"
+  },
+  "date": "2024-05-18T13:54:55",
+  "date_gmt": "2024-05-18T16:54:55",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Curso de Educação Física recebeu, nesta sexta-feira, a visita da Professora Júlia Ronchete, especialista em treinamento personalizado para gestantes. A palestra aconteceu no Lab Ideias e teve como tema “Seminário de Exercício Físico e Gestação: Horizontes para futuros profissionais da Educação Física”, com a presença de alunos e professores. Júlia é Mestre pela UERJ [&hellip;]</p>\n"
+  },
+  "featured_media": 16756,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16750"
+  },
+  "id": 16750,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/whatsapp-image-2024-05-18-at-13.52.55.jpeg?fit=1204%2C1600&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4ma",
+  "link": "https://agenciauvabarra.com/2024/05/18/curso-de-educacao-fisica-do-campus-barra-explora-novos-horizontes-com-palestra-sobre-exercicio-fisico-e-gestacao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-05-18T13:54:55",
+  "modified_gmt": "2024-05-18T16:54:55",
+  "ping_status": "open",
+  "slug": "curso-de-educacao-fisica-do-campus-barra-explora-novos-horizontes-com-palestra-sobre-exercicio-fisico-e-gestacao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Curso de Educação Física do Campus Barra explora novos horizontes com Palestra sobre exercício físico e gestação"
+  },
+  "type": "post"
+}

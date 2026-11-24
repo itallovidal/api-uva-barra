@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8652/revisions/8657",
+        "id": 8657
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8652"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8652",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8652/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8652"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8656"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8652",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8652",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8652",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os bastidores de A hora do crepúsculo</em></p><p>Com folclore e aventura, A hora do crepúsculo foi a quarta podserie da temporada 2021 de podcasts ficcionais da Rádio UVA Barra. A narrativa traz figuras mitológicas e reflexões sobre a valorização da cultura nacional.</p><p>Para desenvolver essa história a equipe teve um trabalho de pesquisa sobre o tema. A ideia inicial era transformar as lendas brasileiras em uma narrativa igual as das histórias do cinema. Para Laila Sbardeloto, aluna do 3° período de Publicidade e Propaganda do Campus Barra, o processo de elaboração de uma realidade alternativa foi um desafio.</p><p>Isso nos forçou a criar um mundo com suas próprias regras e sentidos, e, com o passar do tempo, nós mesmos nos tornamos parte dele Laila Sbardeloto</p><p>Para Aimée Borba, aluna do 5° período de Publicidade e Propaganda do campus Barra, escolher o caminho da fantasia foi natural pela bagagem que tem como consumidora desses produtos. Entretanto, buscar referências para uma narrativa inédita e atual com personagens do folclore brasileiro exigiu muita pesquisa e leitura.</p><p>Assista ao vídeo de Aimée Borba sobre a produção da podserie</p><figure><img src='https://www.youtube.com/embed/x2NexVW5b3A' alt='Vídeo de Aimée Borba sobre a produção da podserie' width='640' height='360' /><figcaption>Agência UVA Barra · A hora do crepúsculo</figcaption></figure><p>Na próxima semana, estreia a história de Pedro na podserie Acredita em mim?. Os ouvintes vão acompanhar a trajetória do jovem que vivenciou o abandono e pode ter a vida mudada quando uma figura do passado cruza o seu caminho.</p><p>Se você perdeu algum capítulo de A hora do crepúsculo, ouça agora:</p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1206146002&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='450' title='A hora do crepúsculo' allowfullscreen='true'></iframe><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2021-02-05T18:57:07",
+  "date_gmt": "2021-02-05T21:57:07",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os bastidores de “A hora do crepúsculo” Com folclore e aventura, “A hora do crepúsculo” foi a quarta podserie da temporada 2021 de podcasts ficcionais da Rádio UVA Barra.&nbsp;A narrativa traz figuras mitológicas e reflexões sobre a valorização da cultura nacional. Para desenvolver essa história a equipe teve um trabalho de pesquisa sobre o tema. A [&hellip;]</p>\n"
+  },
+  "featured_media": 8656,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8652"
+  },
+  "id": 8652,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/02/p4.bast_.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2fy",
+  "link": "https://agenciauvabarra.com/2021/02/05/a-criacao-de-narrativa-ficcional-4/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-02-05T18:57:07",
+  "modified_gmt": "2021-02-05T21:57:07",
+  "ping_status": "open",
+  "slug": "a-criacao-de-narrativa-ficcional-4",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A criação de narrativa ficcional"
+  },
+  "type": "post"
+}

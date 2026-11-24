@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2105/revisions/3087",
+        "id": 3087
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2105"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2105",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2105/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2105"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2106"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2105",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2105",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2105",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-cinema",
+    "tag-javier-bardem",
+    "tag-pablo-escobar",
+    "tag-penelope-cruz"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/nerdtrip-28062018161058386.jpeg?resize=660%2C360&amp;ssl=1' alt='nerdtrip-28062018161058386' width='660' height='360'><figcaption>Foto: Divulgação</figcaption></figure><p>\"Escobar: A Traição\" é mais um capítulo das histórias envolvendo Pablo Escobar. O enredo desta vez concentra-se em um romance do traficante com a jornalista Virgínia Vellejo. Após ser entrevistado por ela, os dois iniciam um caso que acaba custando caro para ambos. O filme é baseado no livro \"Amando Pablo, Odiando Escobar\", escrito por Vellejo e lançado em 2007.</p><p>A história é contada a partir de 1983 e narrada pela jornalista. Durante boa parte das cenas, a grandiosidade dos esquemas e manobras de Escobar é apresentada de uma maneira atraente. Em alguns momentos do filme é inevitável não torcer por Patrón, assim chamado por seus fiéis seguidores. Oscilando entre o carisma e um lado obscuro, o Pablo Escobar interpretado por Javier Bardem é um anti-herói.</p><p>Penélope Cruz consegue tranquilamente envolver e prender a atenção no papel de protagonista. A atriz é capaz de viver a inteligente e carismática jornalista e também a frágil e insensata amante. Outro destaque fica para Julieth Restrepo, como a esposa traída e angustiada. Bardem aposta em um tom sério e frio para viver Pablo e acerta em cheio.</p><p>Apesar de não trazer nada novo, apenas mais um ponto de vista da vida de Escobar, a história contada por Virgínia é interessante. O filme permite entender o que era viver ao lado do famoso traficante e as consequências disso. As cenas de violência, muito bem editadas, chocam e mostram o lado sombrio de Escobar, quebrando o encanto dele conquistado ao longo do filme.</p><p>Junior Almeida – 3º período</p></main>"
+  },
+  "date": "2018-08-15T19:48:11",
+  "date_gmt": "2018-08-15T22:48:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>&#8220;Escobar: A Traição&#8221; é mais um capítulo das histórias envolvendo Pablo Escobar. O enredo desta vez concentra-se em um romance do traficante com a jornalista Virgínia Vellejo. Após ser entrevistado por ela, os dois iniciam um caso que acaba custando caro para ambos. O filme é baseado no livro &#8220;Amando Pablo, Odiando Escobar&#8221;, escrito por [&hellip;]</p>\n"
+  },
+  "featured_media": 2106,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2105"
+  },
+  "id": 2105,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/nerdtrip-28062018161058386.jpeg?fit=660%2C360&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-xX",
+  "link": "https://agenciauvabarra.com/2018/08/15/agencia-uva-barra-assistiu-escobar-a-traicao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:30:53",
+  "modified_gmt": "2019-01-31T14:30:53",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-escobar-a-traicao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056592,
+    773655,
+    720714,
+    33752
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: &#8220;Escobar: A Traição&#8221;"
+  },
+  "type": "post"
+}

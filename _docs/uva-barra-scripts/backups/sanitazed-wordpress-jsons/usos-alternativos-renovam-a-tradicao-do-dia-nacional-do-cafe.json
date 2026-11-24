@@ -1,0 +1,189 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14732/revisions/14752",
+        "id": 14752
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14732"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14732",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14732/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14732"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14745"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14732",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14732",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    2213927,
+    2367,
+    11716206,
+    1704,
+    18330,
+    6955,
+    72064,
+    254332
+  ],
+  "class_list": [
+    "post-14732",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-cosmetico",
+    "category-cultura",
+    "category-economia-2",
+    "category-gastronomia",
+    "category-institucional",
+    "category-nutricao",
+    "category-saude",
+    "category-sustentabilidade",
+    "tag-agencia-uva-barra",
+    "tag-cafe",
+    "tag-cultura",
+    "tag-diadocafe",
+    "tag-diferente",
+    "tag-nacional",
+    "tag-tradicao"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Grão pode ser utilizado em produtos que vão desde doces até cosméticos</em></p><p>O Brasil é o segundo país que mais consome café no mundo, atrás apenas dos Estados Unidos; então, não é para menos que essa bebida recebeu o próprio Dia Nacional: 24 de maio. Segundo estimativas da Associação Brasileira das Indústrias de Café (ABIC) a área faturou mais de R$23 bilhões em 2022, aumento notável em relação aos R$15,2 Bilhões de 2021.</p><p>Porém, os usos do grão não se restringem somente à tão famosa bebida quente. Há quem explore novas possibilidades de incluir o café em sua vida — como a empreendedora do ramo de doces Simone Mussalem, de 38 anos. Simone é doceira há nove anos, e após ouvir os pedidos da clientela, lançou opções cafeinadas.</p><p>Massas de bolo, recheios e brigadeiros são alguns dos produtos que levam pó de café na composição — e que Simone recomenda como acompanhamentos para uma xícara cheia. São os 'xodózinhos' das mães, mas normalmente as crianças não são muito chegadas\", brinca a profissional.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/foto-simone-mussalem.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\" /><figcaption>Simone trabalha usando café há cinco anos. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/foto-douglas-tavares.jpeg?resize=853%2C1280&amp;ssl=1\" alt=\"\" width=\"853\" height=\"1280\" /><figcaption>O café é uma parte marcante da vida de Douglas. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/foto-thamyres-clarice.jpeg?resize=1066%2C1600&amp;ssl=1\" alt=\"\" width=\"1066\" height=\"1600\" /><figcaption>Thamyres planeja incluir café em seus produtos no futuro próximo. (Foto: Arquivo Pessoal)</figcaption></figure><p>As cafeterias e restaurantes são parte do setor de serviços (ou setor terciário) da economia — que fechou o mês de março deste ano com a criação de pelo menos 122 mil vagas de emprego. Os dados são do Cadastro Geral de Empregados e Desempregados (Caged) e consideram apenas os trabalhadores formais.</p><p>E foi do emprego em cafeteria, como barista, que surgiu a inspiração para o trabalho do hoje designer, bordadeiro e fundador da própria marca de roupas, Douglas Teixeira. Douglas trabalhou por cerca de quatro anos torrando e servindo café. E essa experiência, junto de sua própria paixão pela bebida, o instigaram a relacionar o café e a moda em seu Trabalho de Conclusão de Curso.</p><p>Unindo também ao projeto ideais de sustentabilidade, Douglas se voltou para o tingimento natural — usando os grãos e galhos da planta de café no processo.</p><p><strong>Ouça um pouco do processo de pesquisa de Douglas no seguinte áudio:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1521771352&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Ouça um pouco do processo de pesquisa de Douglas no seguinte áudio: by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Atualmente com sua marca, \"1985 d.D\", Douglas busca fomentar os fazeres manuais e a cultura brasileira, sem esquecer das origens do negócio. \"Hoje a confecção das peças é feita em Muzambinho, sul de Minas, que também é uma cidade rodeada de fazendas cafeeiras\", explica o designer.</p><p><strong>Confira abaixo algumas das peças tingidas à base de café:</strong></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/modelo-1.jpeg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\" /><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/modelo-2.jpeg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\" /><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/modelo-3.jpeg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\" /></figure></figure><p>O uso do café de novas maneiras é também o objetivo de Thamyres Clarice, trabalhadora autônoma na área de cosméticos artesanais. Thamyres vende sabonetes, hidratantes e velas aromáticas, começou a perceber a demanda do seu público. \"Já me pediram para fazer produtos com o cheirinho do café\", afirma a empreendedora.</p><p>Ainda que esse seja um projeto futuro, Thamyres já estuda maneiras de inserir nos cosméticos o cheiro cafeinado — do qual também é fã assídua. \"Sou fissurada por café, em qualquer pausinha que tiver eu tomo\", admite a artesã.</p><p><em>Pedro Lima – 4° Período</em></p></main>"
+  },
+  "date": "2023-05-24T18:06:00",
+  "date_gmt": "2023-05-24T21:06:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Brasil é o segundo país que mais consome café no mundo, atrás apenas dos Estados Unidos; então, não é para menos que essa bebida recebeu o próprio Dia Nacional: 24 de maio. Segundo estimativas da Associação Brasileira das Indústrias de Café (ABIC) a área faturou mais de R$23 bilhões em 2022, aumento notável em relação aos R$15,2 Bilhões de 2021.</p>\n"
+  },
+  "featured_media": 14745,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14732"
+  },
+  "id": 14732,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/foto-de-capa-1.jpg?fit=2979%2C3724&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3PC",
+  "link": "https://agenciauvabarra.com/2023/05/24/usos-alternativos-renovam-a-tradicao-do-dia-nacional-do-cafe/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-25T13:24:38",
+  "modified_gmt": "2023-05-25T16:24:38",
+  "ping_status": "open",
+  "slug": "usos-alternativos-renovam-a-tradicao-do-dia-nacional-do-cafe",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    21898,
+    767056597,
+    135238620,
+    1223878,
+    3214,
+    429479
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Usos alternativos renovam a tradição do Dia Nacional do Café"
+  },
+  "type": "post"
+}

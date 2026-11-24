@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2417/revisions/3044",
+        "id": 3044
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2417"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2417",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2417/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2417"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2418"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2417",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2417",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2366,
+    407146
+  ],
+  "class_list": [
+    "post-2417",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-eventos",
+    "category-exposicao",
+    "tag-agencia-uva-barra",
+    "tag-artrio",
+    "tag-feira-de-artes"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Feira de artes reúne “veteranos” e “calouros” para exibição de obras</h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-03-at-14-55-23-1.jpeg?resize=1152%2C648&amp;ssl=1\" alt=\"WhatsApp Image 2018-10-03 at 14.55.23 (1)\" width=\"1152\" height=\"648\" /><figcaption>Foto: Ana Carolina Soares</figcaption></figure><p>A arte existe para ser apreciada em vários aspectos e de diversas formas – mesclando experiência e novidade. Pensando nisso, a ArtRio – que aconteceu no último fim de semana entre os dias 26 e 30 – proporcionou a união de duas gerações: através das alas PANORAMA e VISTA, o evento celebrou tanto galerias reconhecidas quanto aquelas que são recentes no mercado artístico.</p><p>Foram 42 galerias consideradas “veteranas” e 6 inéditas. Mesmo com a grande diferença no número, o evento conseguiu passar boas impressões para o público com a combinação. “O futuro é esse: olhar um pouquinho para frente e um pouquinho para trás. Tem que ter essa mistura. Acho que os dois acabam caminhando lado a lado”, comenta o artista plástico Jorge Cupim. “O mercado precisa se renovar. Tanto o ‘novo’ quanto o ‘velho’ precisam um do outro”, completa.</p><p>Ainda que cada galeria tivesse sua característica particular, com obras de caráter pessoal e sem ligação com as outras que fizeram parte do evento, a conexão estava implícita aos olhos de quem observou de perto ambos os trabalhos. “Mesmo sendo bem discrepante as diferenças entre traço e cor, as referências sempre vêm do antigo”, disse Fernanda Myamoto, estudante de Design da UFRJ. Também foi falado sobre a importância de incluir as novas gerações mercadológicas em grandes eventos. “É um incentivo para o artista, dele com ele mesmo”, afirma a estudante.</p><p>A ArtRio amplia sua atuação no segmento de arte e lançou, durante a feira, sua plataforma para a comercialização dos trabalhos de todas os participantes, sendo a primeira feira de arte do mundo a ter a venda online de obras das galerias. O ArtRio.com, estará ativo durante todo o ano.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-03-at-14-55-23.jpeg?resize=1280%2C767&amp;ssl=1\" alt=\"WhatsApp Image 2018-10-03 at 14.55.23\" width=\"1280\" height=\"767\" /><figcaption><p></p><p>Foto: Ana Carolina Soares</p></figcaption></figure><p><strong>Ana Carolina Soares – 6° período e Julia Morais – 6° período</strong></p></main>"
+  },
+  "date": "2018-10-03T19:00:11",
+  "date_gmt": "2018-10-03T22:00:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Feira de artes reúne “veteranos” e “calouros” para exibição de obras A arte existe para ser apreciada em vários aspectos e de diversas formas – mesclando experiência e novidade. Pensando nisso, a ArtRio &#8211; que aconteceu no último fim de semana entre os dias 26 e 30 &#8211; proporcionou a união de duas gerações: através [&hellip;]</p>\n"
+  },
+  "featured_media": 2418,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2417"
+  },
+  "id": 2417,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-03-at-14-55-23-1.jpeg?fit=1152%2C648&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-CZ",
+  "link": "https://agenciauvabarra.com/2018/10/03/o-ontem-e-o-amanha-artistico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:57:23",
+  "modified_gmt": "2019-01-31T13:57:23",
+  "ping_status": "open",
+  "slug": "o-ontem-e-o-amanha-artistico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    62612750,
+    16413826
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O ‘ontem’ e o ‘amanhã’ artístico"
+  },
+  "type": "post"
+}

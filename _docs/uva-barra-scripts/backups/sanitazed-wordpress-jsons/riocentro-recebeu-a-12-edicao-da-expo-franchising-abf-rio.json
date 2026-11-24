@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2358/revisions/2362",
+        "id": 2362
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2358"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2358",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2358/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2358"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2359"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2358",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2358",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2358",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-12o-expo-franchising-abf-rio",
+    "tag-agencia-uva-barra",
+    "tag-rio-centro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>O evento promoveu palestras sobre o mercado de franquias e abriu portas para empreendedores</h4><p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-29-at-19-41-35.jpeg?resize=1152%2C648&amp;ssl=1' alt='WhatsApp Image 2018-09-29 at 19.41.35' width='1152' height='648'><figcaption>Foto: Ana Carolina Soares</figcaption></figure></p><p>De acordo com a pesquisa realizada pela Associação Brasileira de Franchising seccional Rio de Janeiro (ABF-Rio), mesmo com um país em crise, o mercado de franquias permanece crescendo. No último ano, houve um aumento de 7,4% comparado ao ano anterior. Seguindo essa linha, a GL Events promoveu entre os dias 27 e 29 de setembro – no Riocentro – a 12° edição da Expo Franchising ABF-Rio.</p><p>O evento chegou com o intuito de trazer, tanto para novos empresários quanto para empreendedores estabelecidos no mercado, palestras com conteúdos visando elucidar questões sobre a área e uma feira com diversas marcas do mercado brasileiro de franquias. “A ABF tem vário objetivos, um deles é promover ações que fomentem o mercado de franchising, não só de negócios, mas também proporcionar um conteúdo de capacitação”, explica a Presidente da ABF-Rio, Eliane Bernardino.</p><p>Apresentando temas como: Marketing, aspectos jurídicos e financeiros, seleção de ponto, comercial, cultura digital, tendências do setor de alimentação, coaching e microfranquias, estimava-se 20 mil visitantes na expo. Para o empreendedor Paulo Alves de Tocantins – que teve oportunidade de visitar as feiras de São Paulo, Brasília e Portugal – pensa que a feira pode apresentar uma boa alternativa para o Brasil, “nesse momento de crise a questão da divulgação do empreendedorismo da feira é de extrema importância”, comenta.</p><p>Durante a cerimônia de abertura, Rodrigo Castro, representando a prefeitura do Rio de Janeiro, valorizou a grande importância de eventos como esse na economia do Rio de Janeiro, “não é fácil manter aquecido o mercado do entretenimento e negócios na cidade nesse momento tão delicado, quando a violência e a crise econômica são os maiores adversários a serem abatidos”, afirma. A edição desse ano trouxe novidades, os estandes expostos deram oportunidades para as microfranquias, além de também apresentar a nova parceria Brasil-Portugal no mercado de franqueados.</p><p>Ana Carolina Soares – 6º período</p></main>"
+  },
+  "date": "2018-09-30T10:48:34",
+  "date_gmt": "2018-09-30T13:48:34",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento promoveu palestras sobre o mercado de franquias e abriu portas para empreendedores De acordo com a pesquisa realizada pela Associação Brasileira de Franchising seccional Rio de Janeiro (ABF-Rio), mesmo com um país em crise, o mercado de franquias permanece crescendo. No último ano, houve um aumento de 7,4% comparado ao ano anterior. Seguindo [&hellip;]</p>\n"
+  },
+  "featured_media": 2359,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2358"
+  },
+  "id": 2358,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-29-at-19-41-35.jpeg?fit=1152%2C648&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-C2",
+  "link": "https://agenciauvabarra.com/2018/09/30/riocentro-recebeu-a-12-edicao-da-expo-franchising-abf-rio/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-09-30T10:55:14",
+  "modified_gmt": "2018-09-30T13:55:14",
+  "ping_status": "open",
+  "slug": "riocentro-recebeu-a-12-edicao-da-expo-franchising-abf-rio",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    650618394,
+    648221465,
+    10330401
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Riocentro recebeu a 12° edição da Expo Franchising ABF-Rio"
+  },
+  "type": "post"
+}

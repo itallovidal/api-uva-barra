@@ -1,0 +1,189 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14795/revisions/14832",
+        "id": 14832
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14795"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14795",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 14,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14795/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14795"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14813"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14795",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14795",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    187874,
+    632602,
+    43377791,
+    2366,
+    18330,
+    774,
+    10567,
+    866752
+  ],
+  "class_list": [
+    "post-14795",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-direitos-humanos",
+    "category-diversidade",
+    "category-encontro-com-profissionais",
+    "category-eventos",
+    "category-institucional",
+    "category-musica",
+    "category-psicologia",
+    "category-saude-mental",
+    "tag-agencia-uva-barra",
+    "tag-antimanicomial",
+    "tag-arte",
+    "tag-luta",
+    "tag-mental",
+    "tag-psicologia",
+    "tag-saude-2"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento debate a humanização nos tratamentos de pacientes</em></p><p>A importância de combater estigmas e preconceitos contra pessoas em sofrimento mental, pautou os assuntos tratados na última sexta-feira (26) na Universidade Veiga de Almeida, campus Barra. Oficinas de artes, músicas e mesas de debates buscaram trazer um novo olhar para o tema.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-27-at-14.34.09.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>A coordenadora do curso de Psicologia, Bárbara Carissimi, homenageando a professora Aline Drummond. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1846.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Jardel Cruz afirma que que a arte faz os usuários de álcool e múltiplas drogas possuírem mais vontade de viver. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-30-at-16.58.09.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>\"Esse evento é importante para desconstruir o imaginário social á respeito da loucura\", afirma a empresária Gilma Godinho. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-30-at-16.58.10.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Bianca Darski fez parte da equipe organizadora do evento como monitora da professora Aline Drummond. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-30-at-16.58.10-1-1.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Ana de Sousa é arquiteta e está cursando sua 2° graduação em psicologia. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-30-at-16.58.10-2.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>A oficina \"Viver pela arte\" foi o que mais chamou atenção da estudante Clara Amancio. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-30-at-16.58.11-1.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Mayara Ferreira se impactou com os depoimentos dos participantes do Ateliê Gaia. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1908.jpg?resize=2127%2C2502&amp;ssl=1\" alt=\"\" width=\"2127\" height=\"2502\"><figcaption>\"É preciso entender que nós estamos tratando de sujeitos, e não de objetos\", afirmou Aline Drummond. (Foto: Igor Concolato)</figcaption></figure><p>O auditório da UVA Barra recebeu alunos e pessoas ligadas aos CAPS (Centro de Atenção Psicossocial), CAPSi (Centro de Atenção Psicossocial Infanto-Juvenil) e CAPSad (Centro de Atenção Psicossocial Álcool e outras Drogas). Para a coordenadora do curso de Psicologia, Bárbara Carissimi, essa reunião e diversidade de vozes é importante na formação dos alunos. \"Esse espaço comum faz com que eles mostrem a diferença que o tratamento tem na vidas deles\", afirmou.</p><p>Um dos destaques da Luta Antimanicomial foi a parte musical com os grupos \"harmonia enlouquece\", formado por integrantes do Centro Psiquiátrico Rio de Janeiro, e \"os originais do Mussum\", que consiste em uma oficina de samba e pagode do CAPSad Antônio Carlos Mussum. O diretor do centro de atenção psicossocial Jardel Cruz é enfermeiro de formação, e hoje integra o grupo musical. \"Os originais do Mussum\" têm a funcionalidade terapêutica de trabalhar a música como arte no cuidado do cara que sofre com a dependência química. Ele troca o desejo pela droga pelo desejo de cantar, sorrir e sambar\", comentou Jardel.</p><p>A 19ª luta antimanicomial contou também com expositores. A psicóloga Gilma Godinho, é dona da papelaria afetiva online \"Psicanartes\" e trouxe os materiais para o público. \"Eu trago a psicanálise e a arte como um recurso para dialogar com profissionais da área\", explicou a empresária sobre o trabalho que desenvolve. Outro expositor foi o Ateliê Gaia, uma oficina da antiga colônia Juliano Moreira, que se localiza na zona oeste do Rio de Janeiro. O público conheceu quadros e camisetas.</p><p>Existem vários caminhos possíveis para incluir as pessoas com sofrimento psíquico na sociedade, e um deles é através da arte. Essa foi a premissa de duas oficinas artísticas que contaram com atividades interativas, a \"Viver com arte\" e \"Luta, afeto e arte\". A primeira, coordenada por Bianca Darski e Rosana Gomes, apresentou o impressionismo para os alunos: \"O objetivo é ensinar aos alunos que a arte é um movimento livre que trabalha todo o seu inconsciente através de técnicas de cores e tipos de movimento, por exemplo. Pessoas que nunca pintaram na vida, saíram daqui com quatro lindos\", afirmou Bianca.</p><p>Já a oficina \"Luta, afeto e arte\" foi ministrada pela estudante Ana de Sousa, que está cursando o 3° período da graduação de psicologia.O objetivo desta dinâmica era mostrar a diversidade através da arte: \"Por mais que você dê o mesmo material, cada pessoa fez um desenho totalmente diferente do outro. Isso mostra que cada ser humano é único\", comentou Ana.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1799.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Mesa dos usuários e familiares dos CAPS, CAPSi E CAPSad. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1825.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>O Grupo \"Os originais do Mussum\" animou o público com muito samba e pagode. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-27-at-14.37.25.jpeg?resize=1600%2C1200&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1200\"><figcaption>O grupo \"Harmonia enlouquece\" levou a música para o evento. (Foto: Bárbara Carissimi) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1788.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Exposição da papelaria afetiva \"Psicanartes\". (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1790-1.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Quadros feitos pelos integrantes do \"Ateliê Gaia\". (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1869.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Oficina \"Viver com arte\", coordenada por Bianca Darski e Rosana Gomes. (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1859.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Oficina artística \"Luta, afeto e arte\", sob coordenação da estudante Ana de Sousa. (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1800-1.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Auditório do Campus Barra cheio para acompanhar a Luta Antimanicomial. (Foto: Igor Concolato) </figcaption></figure><p>A estudante Clara Amancio está no 1° período da graduação de psicologia e comentou que o evento abriu a sua visão para debates que ela nunca tinha pensado sobre as oficinas terapêuticas e a importância da arte no tratamento das pessoas com sofrimento psíquico. <strong>Confira no vídeo abaixo:</strong></p><figure><div class=\"wp-block-embed__wrapper\"><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/w3P3eEe_LgI?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>Mayara Ferreira também está no 1° período do curso de Psicologia e chamou a atenção para a importância de escutar a visão das pessoas com sofrimento psíquico: \"Para mim é muito interessante ver a visão deles, além da visão dos psicólogos para que possamos crescer como profissionais e como ser humano. Sair dessa alienação que vivemos constantemente\", completou a aluna.</p><p>Um dos destaques do dia, foi a homenagem feita para a professora Aline Drummond, que é a idealizadora da Luta Antimanicomial no Campus Barra. A docente recebeu um vídeo com depoimentos dos alunos e fotos das edições anteriores do evento. Além disso, Aline comentou que o principal objetivo do projeto, é garantir que todas as pessoas tenham acesso a cuidados humanizados. <strong>Confira no áudio abaixo:</strong></p><figure><div class=\"wp-block-embed__wrapper\"><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Aline comenta que o objetivo do projeto é garantir que todos tenham acesso a cuidados humanizados by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1526284375&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></div></figure><p>Além disso, Aline destacou a participação de duas ex-alunas da UVA Barra na Luta Antimanicomial e a posição de destaque que elas ocupam no mercado profissional. Marina Melchiades é diretora do CAPS III Lima Barreto, e Luciana Medeiros é superintendente da rede de saúde mental da zona oeste do Rio de Janeiro. \"Nosso curso de psicologia provocou e sustentou nessas alunas o desejo de trabalhar na área da saúde mental. Orgulho\", afirmou a docente.</p><p><em>Igor Concolato – 3° período</em></p></main>"
+  },
+  "date": "2023-05-30T16:50:58",
+  "date_gmt": "2023-05-30T19:50:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A importância de combater estigmas e preconceitos contra pessoas em sofrimento mental, pautou os assuntos tratados na última sexta-feira (26) na Universidade Veiga de Almeida, campus Barra. Oficinas de artes, músicas e mesas de debates buscaram trazer um novo olhar para o tema. </p>\n"
+  },
+  "featured_media": 14813,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14795"
+  },
+  "id": 14795,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/img_1789.jpg?fit=5184%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3QD",
+  "link": "https://agenciauvabarra.com/2023/05/30/luta-antimanicomial-completou-19-edicoes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-30T17:54:28",
+  "modified_gmt": "2023-05-30T20:54:28",
+  "ping_status": "open",
+  "slug": "luta-antimanicomial-completou-19-edicoes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5519246,
+    3468,
+    577334,
+    61872,
+    767056608,
+    34919441
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Luta Antimanicomial completou 19 edições"
+  },
+  "type": "post"
+}

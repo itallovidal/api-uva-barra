@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11976/revisions/12002",
+        "id": 12002
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11976"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11976",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 16,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11976/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11976"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11998"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11976",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11976",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    187874,
+    858951,
+    6669656,
+    7114
+  ],
+  "class_list": [
+    "post-11976",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-direitos-humanos",
+    "category-eventos-internos",
+    "category-secom",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A programação de 23 a 27 de maio foi realizada de forma híbrida</em></p><p>A 18ª edição da Semana de Comunicação da Universidade Veiga de Almeida aconteceu entre os dias 23 e 27 de maio. Sob a organização dos campi Barra, Cabo Frio e Tijuca, o evento teve como tema central “Direitos Humanos e a Comunicação na Pós-Modernidade”. Palestras, oficinas e workshops, ocorreram com o objetivo de desenvolver o olhar crítico dos estudantes.</p><p>As atividades tiveram início com a fala da reitora da UVA, professora Beatriz Balena, que afirmou a importância de aproveitar momentos únicos como a SECOM para expandir o conhecimento e se tornar um profissional diferenciado no mercado. “Discutir direitos humanos, hoje, é fundamental para qualquer profissão, especialmente para aqueles que se destinam à comunicação e publicidade. É nela que você vai encontrar o seu lugar no mundo”, destacou a reitora.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/seeeeeee-e1653761821107.png?resize=1354%2C763&#038;ssl=1\" alt=\"\" width=\"1354\" height=\"763\"><figcaption>A reitora Beatriz Balena recomendou que os alunos aproveitassem a experiência. (Foto: Reprodução)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/helena.png?resize=1366%2C768&#038;ssl=1\" alt=\"\" width=\"1366\" height=\"768\"><figcaption>Helena Bertho abordou a importância da inclusão nas empresas como instrumento de transformação social. (Foto: Reprodução)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/gus.png?resize=1366%2C768&#038;ssl=1\" alt=\"\" width=\"1366\" height=\"768\"><figcaption>Gustavo contextualizou o processo histórico de atuação dos Direitos Humanos na sociedade brasileira. (Foto: Reprodução)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/mc.png?resize=1366%2C768&#038;ssl=1\" alt=\"\" width=\"1366\" height=\"768\"><figcaption>Para Thais, a transformação das mulheres negras é ética, estética e política. (Foto: Reprodução)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/dicas-e1653761846674.png?resize=1294%2C574&#038;ssl=1\" alt=\"\" width=\"1294\" height=\"574\"><figcaption>Melissa destacou como a pandemia acelerou o processo de digitalização e influenciou o trabalho dos comunicadores.  (Foto: Reprodução)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-27-at-16.55.59-e1653761859191.jpeg?resize=900%2C1172&#038;ssl=1\" alt=\"\" width=\"900\" height=\"1172\"><figcaption>Matheus ressalta a necessidade de discussão do tema da SECOM 2022. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-24-at-21.00.50-e1653761869108.jpeg?resize=999%2C1007&#038;ssl=1\" alt=\"\" width=\"999\" height=\"1007\"><figcaption>Durante a Semana, houveram debates sobre mercado de trabalho, feminismo, influência das plataformas digitais, fake news, entre outros. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-27-at-13.55.48.jpeg?resize=1600%2C1200&#038;ssl=1\" alt=\"\" width=\"1600\" height=\"1200\"><figcaption>Um momento de lazer para fazer um balanço sobre a Semana de Comunicação. (Foto: Arquivo pessoal)</figcaption></figure><p>A primeira palestra trouxe Helena Bertho, Diretora Global de Diversidade e Inclusão da Nubank para falar sobre políticas afirmativas. A publicitária destacou exemplos e compartilhou o compromisso da diversidade nas contratações de pessoas pretas, LGBTQIAP+ e pessoas com deficiência.</p><blockquote>“Nosso papel como comunicador é transformar o mundo”<cite>Helena Bertho</cite></blockquote><p>“O mundo em ebulição, as fakes news e a sociedade burocrática” encerrou o primeiro dia. A moderação foi da professora Érica Ribeiro e o debate contextualizou os últimos acontecimentos históricos, como a desinformação, violência política e os ataques aos jornalistas. Os profissionais Julia Tavares, Gustavo Barreto, Renato Brito, Cris Dissat e Brígida Brito, discutiram os impactos das transformações digitais no exercício da cidadania. “De ciberdemocracia nos anos 2000, hoje, a gente está falando de ameaça à democracia”, disse Gustavo</p><p>No segundo dia de evento, a oficina “O feminismo negro: por quê precisamos dele” teve a participação de Thais Ferreira, especialista em políticas públicas, a cantora Mc Zuleide e a professora Daniela Oliveira. O diálogo buscou retratar a vivência e a resistência das mulheres pretas na sociedade. “Quando a gente fala de mulheres que tiveram que fazer a continuidade sobre todos nós, a gente vai ver esse potencial de inventividade da mulher preta, sobretudo, é para garantir não só a sobrevivência do nosso povo, mas a regeneração da sociedade”, explicou Thais.</p><p><strong>Ouça um trecho da Mc Zuleide na palestra.</strong></p><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Ouça um trecho da Mc Zuleide na palestra by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1276505614&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\"></iframe></div></figure><p>No dia 25/05, quarta-feira, a oficina “Comunicação Digital e o Mercado de Ações” recebeu Melissa Ferreira, Head de Marketing do canal Contadora de Bolsa. A produção de conteúdo para redes sociais foi o tema da mesa virtual e a profissional compartilhou dicas sobre como alavancar a marca, através da assessoria de imprensa. Melissa também recomendou que todos devemos nos moldar de acordo com as mudanças do mercado.</p><p>Quem esteve presente para acompanhar a SECOM pela primeira vez foi o calouro de jornalismo Matheus Buzinari. Ao assistir às palestras voltadas aos Direitos Humanos, o estudante destacou a importância de aprender mais sobre a integridade e dignidade individual. “Vejo como uma grande oportunidade para todos, mas principalmente nós calouros, que começamos o curso tendo contato com professores e profissionais experientes no mercado da comunicação”, relatou.</p><p><strong>Matheus comenta sobre a interação no evento</strong>.</p><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Matheus comenta sobre a interação no evento by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1276504984&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\"></iframe></div></figure><p><strong>Confira a reportagem sobre a SECOM Barra, que aconteceu no dia 26/05. A programação contou com palestras e outras atividades presenciais no campus.</strong></p><figure><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/zhEoIntyJbs?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></figure><p><br></p><blockquote>“Vivemos em uma sociedade mediada pela comunicação. É por meio dela que podemos construir uma sociedade mais justa e igualitária”<cite>Ana Cristina Rosado</cite></blockquote><p>A Semana de Comunicação foi organizada pela professora Ana Cristina Rosado e os alunos da disciplina de “Tópicos Especiais em Eventos”. No último dia, 27/05, foi realizado um piquenique de confraternização ao ar livre no Parque da Catacumba. “Os alunos subiram a trilha e a gente conversou sobre o evento”, concluiu Ana.</p><p><em>Pedro Amorim – 6º período</em><br><em>Sabrina Marques – 3º período</em></p></main>"
+  },
+  "date": "2022-05-28T18:00:00",
+  "date_gmt": "2022-05-28T21:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A 18ª edição da Semana de Comunicação da Universidade Veiga de Almeida aconteceu entre os dias 23 e 27 de maio. Sob a organização dos campi Barra, Cabo Frio e Tijuca, o evento teve como tema central “Direitos Humanos e a Comunicação na Pós-Modernidade”. Palestras, oficinas e workshops, ocorreram com o objetivo de desenvolver o olhar crítico dos estudantes. </p>\n"
+  },
+  "featured_media": 11998,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11976"
+  },
+  "id": 11976,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/capa-site-agencia-2022-1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-37a",
+  "link": "https://agenciauvabarra.com/2022/05/28/a-18o-edicao-da-secom-debate-os-direitos-humanos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-05-30T16:55:50",
+  "modified_gmt": "2022-05-30T19:55:50",
+  "ping_status": "open",
+  "slug": "a-18o-edicao-da-secom-debate-os-direitos-humanos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A 18º edição da SECOM debate os Direitos Humanos"
+  },
+  "type": "post"
+}

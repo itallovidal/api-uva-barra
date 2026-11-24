@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17336/revisions/17367",
+        "id": 17367
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17336"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17336",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17336/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17336"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17339"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17336",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17336",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17336",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "Com base no texto fornecido, aqui está um resumo estruturado sobre o **Programa de Desenvolvimento do Gestor** realizado pela Universidade Veiga de Almeida (UVA):\n\n### 🎯 Objetivo Principal\nO programa visa promover uma revolução na gestão acadêmica, integrando coordenadores de cursos e gestores com as ferramentas de planejamento, novas tecnologias (como Inteligência Artificial) e estratégias de gestão, visando sempre o **resultado final para o aluno**.\n\n### 📋 Temas Abordados\n*   **Gestão Acadêmica:** Ingresso de alunos, organização de disciplinas, definição de cargas horárias e calendário acadêmico.\n*   **Ocupação de Espaços:** Desafios de planejamento físico pós-pandemia.\n*   **Tecnologia:** Uso de plataformas de organização e aplicação da Inteligência Artificial para otimizar processos e reduzir erros manuais.\n*   **Integração:** Troca de experiências entre diferentes campi (Barra, Tijuca, Cabo Frio, Botafogo) para fortalecer a identidade institucional.\n\n### 💬 Destaques das Palestras e Rodas de Conversa\n*   **Painel de Especialistas:** Participaram Pablo Cunha (Secretaria Acadêmica), Lidiane Moutinho (Cursos Semipresenciais) e Bruno Guimarães (DAE), que responderam dúvidas práticas sobre o dia a dia da gestão.\n*   **Foco em Dados:** As apresentações basearam-se em relatórios e dados concretos para argumentar sobre o panorama atual e propor soluções.\n\n### 🗣️ Reflexões dos Coordenadores Participantes\n\n| Coordenador | Curso/Campo | Principais Pontos |\n| :--- | :--- | :--- |\n| **Dra. Mery Chalfun** | Direito (Tijuca) | Necessidade de equilibrar teoria e prática; desafio de incorporar IA sem perder a didática tradicional; importância da comunicação entre setores. |\n| **Dra. Cristina F. Amarante** | Medicina Veterinária (Barra) | A importância de entender o processo global da universidade, não apenas do curso próprio. |\n| **Dra. Bárbara Carissimi** | Psicologia (Barra) | A eficácia da convivência mútua e da troca de boas práticas entre gestores de diferentes campi. |\n| **Prof. Dr. Fabrício da Costa Dias** | Engenharia de Produção (Barra) | Eventos ajudam a tomar decisões estratégicas; unificação de identidade fortalece a marca da UVA. |\n| **Jorge William Yoshida Fernandes** | Diretor (Botafogo/Barra) | O programa gera senso de pertencimento; a colaboração resolve dúvidas comuns (\"a dúvida de um é a dúvida de muitos\"). |\n| **Jalme Pereira** | Recursos Humanos | A IA é fundamental para agilizar a busca por dados e melhorar a qualidade do serviço ao aluno. |\n| **Ms. Flávia Targa Martins** | Engenharias (Cabo Frio) | Integração de equipes é crucial mesmo estando em unidades distintas; compartilhamento de desafios e boas práticas. |\n\n### ✅ Conclusão do Evento\nO encontro foi considerado saudável e promissor pelos participantes. A conclusão geral é que, embora existam unidades distintas, todos trabalham sob a **mesma missão**. A integração contínua, o uso de dados e a adoção de novas tecnologias são essenciais para fortalecer a instituição e, principalmente, para oferecer uma educação de melhor qualidade aos estudantes da UVA."
+  },
+  "date": "2024-09-05T20:43:00",
+  "date_gmt": "2024-09-05T23:43:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento reúne gestores de diversos campi na UVA Barra&nbsp; para debater desafios da gestão educacional, compartilhar experiências e explorar o papel da tecnologia na otimização dos processos acadêmicos. Nesta quinta-feira, dia 5, no auditório do campus Barra da Universidade Veiga de Almeida, o Programa de Desenvolvimento do Gestor, uma iniciativa institucional que visa a capacitação [&hellip;]</p>\n"
+  },
+  "featured_media": 17339,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17336"
+  },
+  "id": 17336,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/09/img_8302.jpg?fit=6000%2C4000&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4vC",
+  "link": "https://agenciauvabarra.com/2024/09/05/programa-de-desenvolvimento-do-gestor-capacita-coordenadores-da-uva-com-foco-em-planejamento-e-integracao-academica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-09-06T18:33:36",
+  "modified_gmt": "2024-09-06T21:33:36",
+  "ping_status": "open",
+  "slug": "programa-de-desenvolvimento-do-gestor-capacita-coordenadores-da-uva-com-foco-em-planejamento-e-integracao-academica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Programa de Desenvolvimento do Gestor capacita coordenadores da UVA com foco em planejamento e integração acadêmica"
+  },
+  "type": "post"
+}

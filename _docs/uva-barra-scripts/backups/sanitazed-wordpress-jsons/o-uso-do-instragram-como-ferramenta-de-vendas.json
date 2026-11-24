@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3650/revisions/3676",
+        "id": 3676
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3650"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3650",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3650/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3650"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3651"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3650",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3650",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    758
+  ],
+  "class_list": [
+    "post-3650",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-tecnologia",
+    "tag-instagram",
+    "tag-midia",
+    "tag-plataforma-digital"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Palestra apresentou dicas de uso das ferramentas digitais que vão além dos likes</em></p><p>A evolução da popularidade das redes sociais, principalmente o Instagram, faz com que a comunicação entre pessoas e empresas esteja em constante adaptação. Pensando nessas transformações, a empresa Talyuli Digital, realizou na última quinta-feira, (11/04), a palestra “O segredo que ninguém revela sobre o Instagram”. O projeto tem como objetivo apresentar os pontos fundamentais para a implementação da plataforma digital nas diversas organizações.</p><p>A dinâmica tinha como ponto principal as questões que envolvia o crescimento empresarial com o auxílio tecnológico. Os participantes tiveram informações sobre a importância da participação nas redes sociais e o entendimento sobre público-alvo, além das estratégias de produção de conteúdo relevante para as redes sociais. A ideia de que quanto mais visualizado pelas pessoas, mais rápido o negócio vai crescer.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/373c154b-d51b-4c7c-8f57-82149b4b10c6.jpeg?resize=1024%2C768&amp;ssl=1\" alt=\"A palestrante Ive Talyuli discute como alcançar o crescimento empresarial com auxílio da plataforma digital\" /><figcaption>A palestrante Ive Talyuli discute como alcançar o crescimento empresarial com auxílio da plataforma digital – Foto: Juliana Marques</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/1007710b-8840-462d-8192-fedc5755b316.jpeg?resize=1024%2C768&amp;ssl=1\" alt=\"Ive Talyuli passa alguns ensinamentos sobre o instagram\" /><figcaption>Ive Talyuli passa alguns ensinamentos sobre o instagram – Juliana Marques</figcaption></figure><p>Ive Talyuli o objetivo do treinamento foi trazer informação correta para profissionais que usam o Instagram como ferramenta de vendas. Além de conscientização das empresas com a correta utilização do marketing digital: “Eles acham que ter seguidor, ganhar curtidas e visualizações é o caminho do sucesso”, afirma Talyuli.</p><p>Para obter bons resultados é preciso entender a ferramenta e a relação da conexão digital das pessoas. Flávia Nunes participou do evento e constatou essa afirmação: “As pessoas vivem dessas plataformas agora”. A Podóloga acredita que deva explorar a rede social para ficar mais conhecida e acessível as pessoas.</p><p>O empreendedor Ademar Coelho foi prestigiar a palestra e saiu com informação. Ele afirmou que a sociedade que quer crescer no ramo dos negócios, precisa entender qual a verdadeira potencialidade do Instagram. “Saio daqui hoje, já satisfeito com que eu aprendi. Transformarei meus seguidores em clientes”, afirma.</p><p><strong>Juliana Marques – 6º Período | Jornalismo</strong></p><iframe src=\"https://www.youtube.com/embed/S53L8JCqwQU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"></iframe></main>"
+  },
+  "date": "2019-04-13T17:30:41",
+  "date_gmt": "2019-04-13T20:30:41",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestra apresentou dicas de uso das ferramentas digitais que vão além dos likes A evolução da popularidade das redes sociais, principalmente o Instagram, faz com que a comunicação entre pessoas e empresas esteja em constante adaptação. Pensando nessas transformações, a empresa Talyuli Digital, realizou na última quinta-feira, (11/04), a palestra “O segredo que ninguém revela [&hellip;]</p>\n"
+  },
+  "featured_media": 3651,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3650"
+  },
+  "id": 3650,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/373c154b-d51b-4c7c-8f57-82149b4b10c6.jpeg?fit=1024%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-WS",
+  "link": "https://agenciauvabarra.com/2019/04/13/o-uso-do-instragram-como-ferramenta-de-vendas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-15T10:00:30",
+  "modified_gmt": "2019-04-15T13:00:30",
+  "ping_status": "open",
+  "slug": "o-uso-do-instragram-como-ferramenta-de-vendas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    42653521,
+    28941,
+    24663018
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O uso do Instragram como ferramenta de vendas"
+  },
+  "type": "post"
+}

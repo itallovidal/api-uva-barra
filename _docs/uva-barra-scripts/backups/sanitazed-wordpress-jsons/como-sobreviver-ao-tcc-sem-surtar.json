@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19020/revisions/19029",
+        "id": 19029
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19020"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19020",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19020/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19020"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19025"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19020",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19020",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    23208,
+    670411728,
+    14603,
+    713047979,
+    39479,
+    701438832
+  ],
+  "class_list": [
+    "post-19020",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-entretenimento",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-podseries",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-podserie",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O Trabalho de Conclusão de Curso, mais conhecido como TCC, é um dos maiores temores da vida universitária. Basta ouvir a sigla para que muitos estudantes sintam um frio na barriga. Mas, apesar da fama assustadora, é possível atravessar essa fase sem surtar. Um estudo feito pela UFMG destaca que a maioria dos estudantes sente ansiedade nessa fase. Por isso, nesse episódio entenderemos que o planejamento, a escolha do tema e a organização da rotina são essenciais para concluir o trabalho com sanidade mental.</p><p>Mayara está no último ano de jornalismo e está passando pela fase do TCC, para ela é muito difícil passar por esse processo, principalmente para ela que mora longe e precisa conciliar o tempo de ida e vinda e o seu tempo pessoal com o momento de estudos intensos. A professora, Jéssica Dias, também compartilhou o que ela acha dessa fase e o que ela tenta fazer para ajudar os seus alunos, como sempre trocar seus métodos de estudo e correção para ter uma maior produção e produtividade do trabalho e uma boa  nota final na entrega do trabalho. Jéssica relatou que sempre tenta conhecer o aluno para entender os seus limites e desejos, tornando esse momento mais fácil e leve.</p><p>A psicóloga, Raquel Assis, deu dicas de como cuidar do psicológico no momento do TCC, como normalizar o medo e a dúvida , criar uma rotina que combine com a sua vida, ter conversas francas e saudáveis com o seu orientando. O TCC não precisa ser perfeito, ele só precisa ser entregue com confiança. Esse processo é um exercício de resistência, foco e autoconhecimento, que vai passar, não precisa surtar.</p><figure><img src='https://open.spotify.com/embed/episode/4UFoNgy5BDpNCYsT2B7YSN/video?si=t27J96QLSF64Xg2T9wrgFw&#038;utm_source=oembed' alt='Lugar de Fala #06 - Como sobreviver ao TCC sem surtar: Estratégias, Desabafos e Verdades Não Ditas no Projeto Final' width='624' height='351' title='Spotify Embed: Lugar de Fala #06 - Como sobreviver ao TCC sem surtar: Estratégias, Desabafos e Verdades Não Ditas no Projeto Final' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen><figcaption>Lugar de Fala #06 - Como sobreviver ao TCC sem surtar: Estratégias, Desabafos e Verdades Não Ditas no Projeto Final</figcaption></figure><p>Equipe Lugar de Fala:</p><p>Isabella Onatos</p><p>Juliana knauer</p><p>Giulia Karol </p><p>Julia Cotrim</p><p>Equipe Agência UVA Barra:</p><p>Duda Nicolich – 2º Período</p><p>Carolina Alves – 4º Período</p></main>"
+  },
+  "date": "2025-09-10T14:49:45",
+  "date_gmt": "2025-09-10T17:49:45",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O TCC não precisa ser perfeito, ele só precisa ser entregue com confiança</p>\n"
+  },
+  "featured_media": 19025,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19020"
+  },
+  "id": 19020,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-10-at-13.57.35.jpeg?fit=1280%2C1600&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4WM",
+  "link": "https://agenciauvabarra.com/2025/09/10/como-sobreviver-ao-tcc-sem-surtar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-11T10:16:18",
+  "modified_gmt": "2025-09-11T13:16:18",
+  "ping_status": "open",
+  "slug": "como-sobreviver-ao-tcc-sem-surtar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    712276378,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "PodCast UVA Barra: Lugar de Fala: Como sobreviver ao tcc sem surtar"
+  },
+  "type": "post"
+}

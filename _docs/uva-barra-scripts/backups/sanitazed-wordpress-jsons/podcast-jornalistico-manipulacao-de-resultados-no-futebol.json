@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15842/revisions/15846",
+        "id": 15846
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15842"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15842",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15842/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15842"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15845"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15842",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15842",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15842",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>As manipulações de resultados esportivos não são fatos novos, mas recentemente com o crescimento das casas de apostas online, o futebol foi alvo de diversas denúncias e investigações para tentar controlar possíveis esquemas.</p><p>O podcast produzido por Cauã Tinoco e Igor Concolato traz depoimentos e entrevistas de personagens envolvidos no meio, como torcedor, advogado do âmbito esportivo e até mesmo um ex treinador de futsal que confessa ter aceitado uma oferta para manipular o resultado de um jogo da sua equipe. </p><figure><blockquote class=\"wp-embedded-content\" data-secret=\"obzHqiPrQA2n6Ds3pF5Lhw\"><iframe title=\"Spotify Embed: Podcast Jornalístico: Manipulação de Resultados no Futebol\" src=\"https://open.spotify.com/embed/episode/5Z4R7QyMyuq79DO9sz6i2Q?si=obzHqiPrQA2n6Ds3pF5Lhw&amp;utm_source=oembed\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></blockquote><script async src=\"//www.googletagmanager.com/pagead/conversion.js\"></script><noscript><img src=\"https://www.googletagmanager.com/pagead/conversion.png?kw=&amp;conversion_id=&amp;conversion_page=conversion&amp;click_id=obzHqiPrQA2n6Ds3pF5Lhw\" height=\"1\" width=\"1\" alt=\"\"/></noscript></figure><p>*Produto produzido para a disciplina de Web Rádio e Podcast, sob a supervisão do professor Daniel Paes.</p></main>"
+  },
+  "date": "2023-09-18T19:45:40",
+  "date_gmt": "2023-09-18T22:45:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>As manipulações de resultados esportivos não são fatos novos, mas recentemente com o crescimento das casas de apostas online, o futebol foi alvo de diversas denúncias e investigações para tentar controlar possíveis esquemas.</p>\n"
+  },
+  "featured_media": 15845,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15842"
+  },
+  "id": 15842,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/banknotes-4518189_1280.jpg?fit=1280%2C961&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-47w",
+  "link": "https://agenciauvabarra.com/2023/09/18/podcast-jornalistico-manipulacao-de-resultados-no-futebol/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-18T19:45:40",
+  "modified_gmt": "2023-09-18T22:45:40",
+  "ping_status": "open",
+  "slug": "podcast-jornalistico-manipulacao-de-resultados-no-futebol",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Jornalístico: Manipulação de Resultados no Futebol"
+  },
+  "type": "post"
+}

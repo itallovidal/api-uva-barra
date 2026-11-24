@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5435/revisions/5441",
+        "id": 5441
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5435"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5435",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5435/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5435"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5438"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5435",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5435",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-5435",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-chris-hemsworth",
+    "tag-o-enigma-da-rosa",
+    "tag-ramiro-blas"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/unnamed.jpg?resize=499%2C733&amp;ssl=1' alt='' width='499' height='733' /><figcaption>Foto: Divulgação – Elite Filmes</figcaption></figure><p>Uma família comum tem a vida virada do avesso após o desaparecimento da filha mais nova. Depois de dias sem notícias, um dos sequestradores entra em contato afirmando que pode libertar a garota, mas para isso a família precisa deixar que ele entre na casa deles.</p><p>O filme escrito e dirigido por Josué Ramos ganhou mais de trinta prêmios em festivais ao redor do mundo e vai ganhar o remake hollywoodiano produzido pelo ator Chris Hemsworth (Thor). A primeira vista temos uma trama que não é muito original, o longa é basicamente um “thriller” psicológico que brinca com o gênero de invasão domiciliar, mas no decorrer da exibição o público é levado para outros caminhos. O diretor estabelece uma dinâmica em que o espectador a todo momento é levado a pensar algo, mas logo em seguida tem a expectativa subvertida.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/fotograma1.jpg?resize=650%2C276&amp;ssl=1' alt='' width='650' height='276' /><figcaption>Foto: Divulgação – Elite Filmes</figcaption></figure><p>Muito desses momentos de subversão se devem a atuação da família, os pais, Oliver e Julia (Pedro Casablanc e Julia Francés) entregam as atuações mais fortes do filme. Durante todo o filme, eles são colocados em situações que exigem uma entrega tanto emocional quanto em expressões que são um dos pontos altos do filme. O mesmo já não pode ser dito do Filho, Alex (Zack Gómez), que faz o estilo rebelde, mas não consegue entregar a mesma emoção dos pais.</p><p>Entre os atores, o grande destaque do elenco é o ator Ramiro Blas, que interpreta o sequestrador que tenta entrar na casa da família. Ele faz um personagem enigmático, cheio de camadas e que leva o espectador a ficar imaginando qual a motivação dele em toda essa trama (que só é revelada no final), o que ele quer e qual a relação que ele tem com a família.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/fotograma3.jpg?resize=600%2C255&amp;ssl=1' alt='' width='600' height='255' /><figcaption>Ramiro Blas – Foto: Divulgação – Elite Filmes</figcaption></figure><p>A parte técnica do filme é muito bem pensada pelo diretor, o longa apesar de claramente não ter um grande orçamento, se aproveita disso para utilizar planos longos, com poucos cortes e deixa os atores bem à vontade para interpretar.</p><p>O Enigma da Rosa é um filme que tem um plot twist bem elaborado, mas pouco surpreendente, os atores estão bem, o diretor consegue equilibrar bons momentos de tensão e brincar com o imaginário do espectador.</p><figure><div><iframe src='https://www.youtube.com/embed/zp9dcftJ-Fk?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></div></figure><p>.</p><p><strong>Lucas Souza – 2º Período – Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-10T12:00:00",
+  "date_gmt": "2019-10-10T15:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Uma família comum tem a vida virada do avesso após o desaparecimento da filha mais nova. Depois de dias sem notícias, um dos sequestradores entra em contato afirmando que pode libertar a garota, mas para isso a família precisa deixar que ele entre na casa deles. O filme escrito e dirigido por Josué Ramos ganhou [&hellip;]</p>\n"
+  },
+  "featured_media": 5438,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5435"
+  },
+  "id": 5435,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/fotograma1.jpg?fit=1920%2C816&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1pF",
+  "link": "https://agenciauvabarra.com/2019/10/10/agencia-uva-barra-assistiu-o-enigma-da-rosa/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-09T11:07:01",
+  "modified_gmt": "2019-10-09T14:07:01",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-o-enigma-da-rosa",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    9517212,
+    676635370,
+    95669413
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: &#8220;O Enigma da Rosa&#8221;"
+  },
+  "type": "post"
+}

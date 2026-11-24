@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12903/revisions/12909",
+        "id": 12909
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12903"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12903",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12903/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12903"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12906"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12903",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12903",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    11716206
+  ],
+  "class_list": [
+    "post-12903",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-economia-2",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Dados mostram uma diminuição devido à redução de impostos</em></p><p>Segundo a Agência Nacional do Petróleo, no último mês houve um corte do valor da gasolina no Brasil. De acordo com o mesmo órgão, a baixa do preço ocorreu por meio de uma mistura entre a queda no mercado internacional e uma moderação de impostos forçados pelo governo federal. Já a Petrobras, no mês de setembro, relatou o quarto reajuste para a baixa do valor da gasolina desde meados de junho do mesmo ano.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/2b5bd334-378b-49b6-9933-f3c8e188b93f-e1663947808362.jpg?resize=958%2C1023&#038;ssl=1' alt='' width='958' height='1023' /><figcaption>Antonio Cássio destaca o processo da cadeia de valores dos combustíveis no Brasil. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/355a39c1-2daa-4d40-af39-6677049a004f.jpg?ssl=1' alt='' /><figcaption>Leonardo sentiu no bolso o aumento dos combustíveis e agora já percebe uma melhora.  (Foto: Arquivo pessoal)</figcaption></figure><p>A quantidade de venda às distribuidoras foi reduzida em 7,08%, de R$3,53 passou para R$3,28 por litro. Em menos de três meses, o combustível sofreu uma alteração de 19,2% na verba praticada nas refinarias, no pico da curva, o preço chegou a R$4,06 em 18 de junho.</p><p>Quem percebeu esse impacto foi Leonardo Pereira, motorista de aplicativo. A mudança teve um efeito na rotina do trabalhador. “No período em que a gasolina estava em uma crescente, ela acabou prejudicando os motoristas, pois, por mais que aumentasse, a Uber não repassava o lucro da forma com que não fosse tão pesado”, afirma.</p><p><strong>O motorista Leonardo Pereira comenta as mudanças ocasionadas pela redução dos impostos.</strong></p><figure class=\"wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\"><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src='https://www.youtube.com/embed/ClN9CGeuZLo?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><br></p><p>O reajuste é capaz de influenciar na manutenção do carro. “Estava cada vez mais difícil rodar por uma duração maior, pois quanto mais tempo rodasse, mais desgastado o carro ficava”, comenta Leonardo.</p><p>Uma pesquisa do IPCA, Índice Nacional de Preços ao Consumidor Amplo, com o IBGE comparou a alta da gasolina com a inflação. Na metade de 2021 o combustível subiu 2,6 vezes mais do que a faixa no mesmo período, o que resultou no preço de R$ 8,99. O aumento da gasolina, na mesma época citada, subiu sem nenhuma demonstração que iria cair, até que, em 2022, o litro teve o preço de R$ 4,99.</p><p>O economista Antonio Cássio fala como a diminuição feita pela Petrobras vai influenciar na inflação, posteriormente no bolso do consumidor. “Qualquer tipo de índice é afetado diretamente, progressivamente e em cascata pela redução do custo do combustível“, disse.</p><p><strong>Antonio Cássio explica a relação entre a gasolina e as diferentes formas de transportes.</strong></p><figure class=\"wp-block-embed aligncenter is-type-rich is-provider-soundcloud wp-block-embed-soundcloud\"><div class=\"wp-block-embed__wrapper\"><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"O economista Antonio Cássio explica as diferentes formas de transporte com relação a gasolina by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1349599054&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500'></iframe></div></div></figure><p>Os processos econômicos ajudam a entender o valor que cai no bolso do brasileiro. “Se há uma redução dos combustíveis, automaticamente os preços finais da economia tendem a ser reduzidos”, conclui Cássio.</p><p><em>Leonardo Pereira &#8211; 2º período</em></p><p></p></main>"
+  },
+  "date": "2022-09-23T12:44:16",
+  "date_gmt": "2022-09-23T15:44:16",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Segundo a Agência Nacional do Petróleo, no último mês houve um corte do valor da gasolina no Brasil. De acordo com o mesmo órgão, a baixa do preço ocorreu por meio de uma mistura entre a queda no mercado internacional e uma moderação de impostos forçados pelo governo federal. Já a Petrobras, no mês de setembro, relatou o quarto reajuste para a baixa do valor da gasolina desde meados de junho do mesmo ano.</p>\n"
+  },
+  "featured_media": 12906,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12903"
+  },
+  "id": 12903,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/355a39c1-2daa-4d40-af39-6677049a004f-e1663948061619.jpg?fit=1025%2C1082&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3m7",
+  "link": "https://agenciauvabarra.com/2022/09/23/o-preco-da-gasolina-apresenta-queda-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-09-23T12:47:46",
+  "modified_gmt": "2022-09-23T15:47:46",
+  "ping_status": "open",
+  "slug": "o-preco-da-gasolina-apresenta-queda-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O preço da gasolina apresenta queda no Brasil"
+  },
+  "type": "post"
+}

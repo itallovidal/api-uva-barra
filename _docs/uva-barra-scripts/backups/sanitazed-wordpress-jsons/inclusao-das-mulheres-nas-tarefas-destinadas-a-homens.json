@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2254/revisions/3176",
+        "id": 3176
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2254"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2254",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2254/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2254"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2254",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2254",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-2254",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Igualdade na capacidade para as mulheres</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_20180906_153910.jpg?resize=3120%2C4160&#038;ssl=1' alt='IMG_20180906_153910' width='3120' height='4160' /><figcaption>Foto: Jamille Ribeiro</figcaption></figure><p>Aprender a ser independente é inovador. Na tarde desta quinta-feira, dia (06/09), aconteceu o workshop “Faça você mesma 2.0”, no Projeto Favela Hub, promovido pela Viva Rio, localizado em Ipanema, onde as participantes, foram convidadas através do site da iniciativa, Facebook e Instagram pelo Eduardo Figueiredo, mais conhecido como Edu, na qual se propôs a não somente ensinar, mas mostrar que nas mulheres existe a capacidade de realizar qualquer procedimento e sem a “dependência de terceiros”, onde ele relata: “ As mulheres podem fazer qualquer procedimento que geralmente os homens realizam com mais facilidade, priorizando a segurança em primeiro lugar”.</p><p>As atividades realizadas pelas integrantes foram orientadas e feitas com extrema segurança onde o Palestrante pode ensinar, mostrar e acompanhar desde pregar e retirar um prego com martelo até mesmo montar e desmontar a resistência de um chuveiro, com essas informações Tayná da Silva Sampaio, Cabelereira, argumenta: “Com as tarefas bem esclarecedoras, pude tirar diversas dúvidas, além de aprender ter mais cuidado ao realizar algum procedimento em minha casa”.</p><p>A inspiração dessa aula, veio através da vizinha do Eduardo que solicitou ajuda para montar a resistência de um chuveiro e ao invés dele realizar a tarefa, ensinou o processo a ser feito, onde menciona que: “ Falei a ela que não iria ajudá-la, mas ensinaria todo procedimento para que fizesse, pois quando precisasse novamente, iria fazer sozinha”, com esse incentivo a Tatiane Fiori, Estudante de Sistemas de Informação desabafa: “ Aprendi a ter independência principalmente dos homens, pois as vezes achamos que é difícil e realmente não é nada disso.”</p><p>O entendimento é perceber que ainda há muitas mulheres que ainda não sabem realizar determinadas funções, onde geralmente elas pagariam alguém para fazer o serviço, então foi feito o encontro para aprenderem a mexer nas ferramentas, exercer as atividades, aderir algo novo e ainda economizar do bolso o que seria pago e ainda ensinar outras mulheres a serem também independentes, finaliza o Palestrador.</p><p><strong>Jamille Ribeiro – 4º período</strong></p></main>"
+  },
+  "date": "2018-09-07T09:19:49",
+  "date_gmt": "2018-09-07T12:19:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Igualdade na capacidade para as mulheres Aprender a ser independente é inovador. Na tarde desta quinta-feira, dia (06/09), aconteceu o workshop “Faça você mesma 2.0”, no Projeto Favela Hub, promovido pela Viva Rio, localizado em Ipanema, onde as participantes, foram convidadas através do site da iniciativa, Facebook e Instagram pelo Eduardo Figueiredo, mais conhecido como [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2254"
+  },
+  "id": 2254,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Am",
+  "link": "https://agenciauvabarra.com/2018/09/07/inclusao-das-mulheres-nas-tarefas-destinadas-a-homens/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T20:55:33",
+  "modified_gmt": "2019-02-25T23:55:33",
+  "ping_status": "open",
+  "slug": "inclusao-das-mulheres-nas-tarefas-destinadas-a-homens",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Inclusão das mulheres nas tarefas destinadas a homens"
+  },
+  "type": "post"
+}

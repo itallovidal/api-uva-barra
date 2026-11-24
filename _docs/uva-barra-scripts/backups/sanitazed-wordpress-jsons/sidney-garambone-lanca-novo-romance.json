@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3890/revisions/4204",
+        "id": 4204
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3890"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3890",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3890/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3890"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3893"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3890",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3890",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-3890",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-fausto-tropical",
+    "tag-sidney-garambone"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Fausto Tropical é a quinta obra publicada do jornalista</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/unnamed-8.jpg?resize=512%2C423&#038;ssl=1' alt='' width='512' height='423' /><figcaption>Fausto Tropical é o segundo romance escrito por Sidney Garambone – Foto: Kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/unnamed-4.jpg?resize=512%2C422&#038;ssl=1' alt='' width='512' height='422' /><figcaption>Sidney Garambone recebeu amigos e familiares – Foto: Kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/unnamed-7.jpg?resize=512%2C341&#038;ssl=1' alt='' width='512' height='341' /><figcaption>O lançamento aconteceu na Galeria Vitrine, em Ipanema – Foto: Kaliane Trindade</figcaption></figure><p>O jornalista e escritor Sidney Garambone lançou o livro “Fausto Tropical” na última quarta-feira (24), na galeria Vritine de Ipanema. Esta é a quinta obra publicada por ele, sendo o segundo romance. A história é contada em torno de dois personagens: Victor Vaz que se vê na presença do Diabo. Um clássico da literatura com um aspecto atual.</p><p>Para chegar ao resultado final o projeto foi elaborado com cuidado e tempo. O trabalho de pesquisa teve início há quase 4 anos e para Garambone, escrever um romance é o maior dos desafios. “Meu primeiro livro é de crônicas, o segundo jornalístico, o terceiro romance, o quarto esportivo. A sedução do romance me pegou novamente. É onde a criação atinge seu ponto máximo”, comenta.</p><p>A capa do romance chamou a atenção de muitas pessoas que foram ao lançamento. O desenho foi elaborado pela estudante de artes Alice Garambone, filha do jornalista. “Meu pai queria usar alguma pintura minha, então escolheu várias e no final decidimos que essa tinha mais a ver”. Além disso, ela conta que fez a pintura antes mesmo do livro, era um dos seus estudos.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/unnamed-5.jpg?resize=427%2C352&#038;ssl=1' alt='' width='427' height='352' /><figcaption><br><em>Sessão de autógrafos durante o lançamento de Fausto Tropical – Foto: Kaliane Trindade<br></em></figcaption></figure><p>O lançamento contou com a presença de familiares, amigos, fãs e colegas de trabalho que enfrentaram uma grande fila para receber um autógrafo. A advogada Larissa Campos conta que o conhecia apenas como jornalista. “Eu vim para prestigiar ele e conhecer um pouco do seu trabalho e o lado literário. Eu gosto de ler, então é sempre bom conhecer coisas novas”.</p><p>Apesar da televisão estar no cotidiano de Garambone, o jornalista não perde tempo e já começou a escrever um novo romance, mas ainda é um projeto muito recente. O próximo livro terá como protagonista uma mulher. “É uma baita responsabilidade, afinal a última coisa que quero é me meter num lugar de fala que não é meu. Por isso a cultura é fascinante. Permite tudo”, comenta animado com o futuro trabalho.</p><p><strong>Kaliane Trindade – 5º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-28T15:09:15",
+  "date_gmt": "2019-04-28T18:09:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Fausto Tropical é a quinta obra publicada do jornalista O jornalista e escritor Sidney Garambone lançou o livro “Fausto Tropical” na última quarta-feira (24), na galeria Vritine de Ipanema. Esta é a quinta obra publicada por ele, sendo o segundo romance. A história é contada em torno de dois personagens: Victor Vaz que se vê [&hellip;]</p>\n"
+  },
+  "featured_media": 3893,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3890"
+  },
+  "id": 3890,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/unnamed-8.jpg?fit=512%2C423&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-10K",
+  "link": "https://agenciauvabarra.com/2019/04/28/sidney-garambone-lanca-novo-romance/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-21T14:10:55",
+  "modified_gmt": "2019-05-21T17:10:55",
+  "ping_status": "open",
+  "slug": "sidney-garambone-lanca-novo-romance",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    678168317,
+    10830486
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Sidney Garambone lança novo romance"
+  },
+  "type": "post"
+}

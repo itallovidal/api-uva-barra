@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12556/revisions/12571",
+        "id": 12571
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12556"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12556",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12556/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12556"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12557"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12556",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12556",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    18330
+  ],
+  "class_list": [
+    "post-12556",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-institucional",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Projetos de monitoria e nivelamento ajudam na formação acadêmica</em></p><p>Ser universitário vai além da sala de aula e do curso escolhido. Na Universidade Veiga de Almeida dois programas de apoio ao discente são oferecidos a cada semestre como opção de melhoria aos estudos de graduação e atualização dos conhecimentos na área.</p><p>“Incentivar os alunos a vivenciarem um pouco do que é ajudar ou participar do processo de docência”. É como o coordenador acadêmico do campus Barra, e docente, Fabrício Costa avalia a Monitoria. Todo aluno pode ser monitor de disciplina e dar suporte aos professores em determinadas aulas. Para o processo seletivo é necessário ter tido uma boa performance quando estava matriculado na matéria.</p><p>Vitor Mota, formado em Cinema e Audiovisual pela UVA Barra, já fez duas monitorias da grade curricular e três de outros cursos: Análise e Prática da Cor, Metodologia Visual e Comunicação e Imagem. O egresso buscou aprender cada vez mais para colocar em prática os ensinamentos recebidos. “Enquanto profissional, a monitoria é uma experiência microcósmica de todo um universo amplo que o mercado de trabalho nos exige&#8221;, afirma.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-18-at-15.26.53.jpeg?resize=1346%2C1600&#038;ssl=1\" alt=\"\" width=\"1346\" height=\"1600\"><figcaption>Vitor pôde assimilar a importância na montagem de um roteiro e um plano de ação para executar demandas exigidas. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-16-at-16.25.26.jpeg?resize=768%2C1024&#038;ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>Aimée avalia o programa como importante e uma oportunidade de experiência curricular. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-27-at-16.16.54-e1660940565619.jpeg?resize=1054%2C1500&#038;ssl=1\" alt=\"\" width=\"1054\" height=\"1500\"><figcaption>De acordo com Fabrício, a monitoria é aberta para diversas disciplinas. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-18-at-08.25.47.jpeg?resize=960%2C1280&#038;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>O professor constrói nas aulas um ambiente leve para gerar um aproveitamento das temáticas abordadas. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-18-at-19.49.28.jpeg?resize=899%2C1599&#038;ssl=1\" alt=\"\" width=\"899\" height=\"1599\"><figcaption>Byanca relembra como havia uma interação com o professor, no qual perguntava quais conteúdos específicos gostariam de uma explicação. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/minha-foto-livro.jpg?resize=1280%2C1251&#038;ssl=1\" alt=\"\" width=\"1280\" height=\"1251\"><figcaption>Segundo Mônica, a proposta inicial era atender os calouros, porém o nivelamento se ampliou para os veteranos, o que contribui para uma formação educacional maior do público alvo. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-18-at-13.26.29.jpeg?resize=1026%2C1280&#038;ssl=1\" alt=\"\" width=\"1026\" height=\"1280\"><figcaption>Lucas interpreta o nivelamento como uma oportunidade para agregar aos estudantes que não tiveram um ensino básico aprofundado. (Foto: Arquivo pessoal)</figcaption></figure><p>Aimée Borba, estudante de Publicidade e Propaganda no 8º período no campus Barra, já participou da disciplina de “Escrita Criativa e Storytelling” como monitora. Ter uma realidade similar com a do professor, preparar a aula e entender os alunos, foram os motivos que levaram a universitária a participar. “Os alunos vêm até você para tirar dúvidas, pedem a sua opinião em relação aos trabalhos que estão desenvolvendo. Eu me senti fazendo a diferença”, diz.</p><p><strong>Aimée Borba comenta sobre os estudos.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1327318768&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\" width=\"500\" height=\"400\" title=\"Aimée Borba comenta sobre os estudos by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Outro projeto que tem muita procura na UVA é o nivelamento. Disciplinas como, Matemática, Português, Física, Química e Biologia possuem aulas gratuitas ao vivo e virtualizadas. Ricardo Gomes, professor de nivelamento de Matemática, diz que o programa é aberto a todos os cursos e busca auxiliar os alunos dos períodos iniciais a retomar o contato com temas vistos do ensino fundamental ao médio. “Faço parte desde anos anteriores à pandemia. Naquela época, ainda em 2018, o nivelamento era um projeto pequeno e presencial. Com a crise sanitária, o projeto teve crescimento exponencial. Mais do que nunca vimos a necessidade de nos fazermos presentes na vida e atuantes nas dificuldades dos alunos”, fala.</p><p>Muitos o classificam como uma fonte de ajuda ou como bote salva-vidas, para Byanca Brasil é considerado como enriquecedor de forma geral.&nbsp; No 8º período de Engenharia civil em Cabo Frio, ela começou a perder certos medos com a matemática e pôde compreender melhor os temas das aulas. “O professor sempre passava conteúdo, exercícios para fixação e tirava as dúvidas existentes. Pelo menos pra mim, acabei tendo a base necessária para não ter dificuldade em conteúdos mais ‘puxados’ do meu curso”, ressalta.</p><p>De exatas para humanas, Mônica Cabral é a professora de nivelamento de Português desde 2004 no campus da Região dos Lagos. Antes presencial, a ação passou a ser virtual com a pandemia de Covid-19 em todos os campi, o que chegou a alcançar 500 inscritos em duas turmas. Para a profissional, o objetivo é nivelar o repertório da Língua Portuguesa para desenvolver uma capacitação na leitura e escrita do texto acadêmico.</p><blockquote><p>“Durante as aulas, uso, como metodologia, uma linguagem simples para tratar dos aspectos gramaticais. Esse uso prático das regras do Português formal tem incentivado uma boa parte dos estudantes a continuar o investimento no estudo da língua. Sei disso, porque alguns me mandam mensagem com essa informação. É o meu presente&#8221;</p><cite>Mônica Cabral.</cite></blockquote><p><strong>Mônica Cabral propõe como os ingressantes podem aproveitar o programa.</strong></p><figure><iframe src=\"https://www.youtube.com/embed/h1R2_VVRX-Q?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" width=\"640\" height=\"360\" title=\"\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><br>Atualmente no último período de Jornalismo na UVA Barra, Lucas Souza fez o nivelamento de Português duas vezes na crise sanitária. Ao sentir dificuldades com uso de crase e com construção de frases, o aluno resolveu entrar no projeto para tirar dúvidas e revisar tópicos. “Também consegui aprender dicas importantes para o TCC como o uso de frases com uma lógica de construção (inicio, meio e fim), além de como fazer citações dentro das normas da ABNT”, conclui.</p><p>Os editais de monitoria, nivelamento e as inscrições se encontram no portal do aluno. O monitor recebe um certificado de 60 horas de Atividades Complementares (AC), já o aluno participante do nivelamento adquire certificado e 30 horas AC, além de se preparar melhor para o mercado. &nbsp;</p><p><em>Pedro Amorim &#8211; 7º período</em></p></main>"
+  },
+  "date": "2022-08-19T17:33:26",
+  "date_gmt": "2022-08-19T20:33:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ser universitário vai além da sala de aula e do curso escolhido. Na Universidade Veiga de Almeida dois programas de apoio ao discente são oferecidos a cada semestre como opção de melhoria aos estudos de graduação e atualização dos conhecimentos na área. </p>\n"
+  },
+  "featured_media": 12557,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12556"
+  },
+  "id": 12556,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/minha-foto-livro.jpg?fit=1280%2C1251&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3gw",
+  "link": "https://agenciauvabarra.com/2022/08/19/universidade-veiga-de-almeida-oferece-programas-de-apoio-ao-discente/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-19T17:37:52",
+  "modified_gmt": "2022-08-19T20:37:52",
+  "ping_status": "open",
+  "slug": "universidade-veiga-de-almeida-oferece-programas-de-apoio-ao-discente",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Universidade Veiga de Almeida oferece programas de apoio ao discente"
+  },
+  "type": "post"
+}

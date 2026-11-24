@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15326/revisions/15330",
+        "id": 15330
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15326"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15326",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15326/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15326"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15329"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15326",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15326",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    15243,
+    254332
+  ],
+  "class_list": [
+    "post-15326",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-meio-ambiente",
+    "category-sustentabilidade",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-gotadagua",
+    "tag-justica",
+    "tag-poluicao",
+    "tag-webserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Para abordar o ODS 12: Consumo e Produções Responsáveis, a série “A Gota D’água” fala sobre o tópico 12.4, que pretende até 2030, alcançar o manejo ambiental saudável dos produtos químicos e todos os resíduos para minimizar seus impactos negativos sobre a saúde humana e o meio ambiente.</p><p>A produção feita por Isabella Mattos, Isadora Vianna, Julia Davoezem, Julia Cotrim, Juliana Knauer e Juliana Romi conta a história de Marina Paiva, que após perder a irmã tragicamente, vai atrás de justiça. Depois de uma investigação, ela chega até o nome de Bruna Cardoso, uma empresária ambiciosa, dona de uma empresa que derramou resíduos tóxicos de forma ilegal no meio ambiente, contaminando a água que levou a irmã de Marina ao óbito. Assista ao epísódio completo!</p><figure><img src='https://www.youtube.com/embed/Onoo935wPPk' alt='Vídeo incorporado' width='640' height='360'><figcaption>Produto produzido para a disciplina de Escrita Criativa e Storytelling, sob a supervisão do professor Anderson Barreto.</figcaption></figure></main>"
+  },
+  "date": "2023-07-12T17:00:10",
+  "date_gmt": "2023-07-12T20:00:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Para abordar o ODS 12: Consumo e Produções Responsáveis, a série “Gota D’água” fala sobre o tópico 12.4, que pretende até 2030, alcançar o manejo ambiental saudável dos produtos químicos e todos os resíduos para minimizar seus impactos negativos sobre a saúde humana e o meio ambiente. </p>\n"
+  },
+  "featured_media": 15329,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15326"
+  },
+  "id": 15326,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/whatsapp-image-2023-07-12-at-15.39.57.jpeg?fit=1366%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Zc",
+  "link": "https://agenciauvabarra.com/2023/07/12/a-gota-d-agua/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-12T17:00:10",
+  "modified_gmt": "2023-07-12T20:00:10",
+  "ping_status": "open",
+  "slug": "a-gota-d-agua",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    68886377,
+    155592,
+    303870,
+    1438351
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A Gota d&#8217; Água"
+  },
+  "type": "post"
+}

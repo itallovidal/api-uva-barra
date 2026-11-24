@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21336/revisions/21502",
+        "id": 21502
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21336"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21336",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21336/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21336"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21353"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21336",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21336",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    14603,
+    701438832
+  ],
+  "class_list": [
+    "post-21336",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-jornalismo",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>No episódio mais recente do Dez Minutos Sobre, celebramos o Dia do Jornalista, comemorado em 7 de abril, com a participação da professora Renata Feital, Coordenadora do Curso de Jornalismo da UVA Barra.</p><p>Durante a conversa, a professora destacou o papel e a importância do jornalista na sociedade atual, além de abordar os impactos das Fake News e os principais desafios da profissão, como o combate à desinformação e a manutenção da credibilidade.</p><p>A data homenageia Líbero Badaró, símbolo da luta pela liberdade de imprensa no Brasil, e reforça o compromisso do jornalismo com a verdade e o interesse público.</p><p>Quer entender mais sobre os desafios da profissão? Sintonize agora na Rádio UVA Barra!</p><figure><img src='https://open.spotify.com/embed/episode/0uvIFnCSfqWeltOoiY5zab/video?utm_source=oembed' alt='Vídeo incorporado' width='624' height='351'><figcaption>Spotify Embed: 10 Minutos Sobre: Dia do Jornalista: desafios e importância da profissão</figcaption></figure><p>CRÉDITOS:</p><p>Produção: Duda Nicolich – 3º Período de Jornalismo</p><p>Roteiro e Edição: Malu Cordeiro – 3º Período de Jornalismo</p><p>Coordenação Rádio UVA Barra: Prof. Anderson Barreto</p><p>Coordenação do Curso de Jornalismo: Profa. Renata Feital</p></main>"
+  },
+  "date": "2026-04-07T11:14:48",
+  "date_gmt": "2026-04-07T14:14:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No episódio mais recente do Dez Minutos Sobre, celebramos o Dia do Jornalista, comemorado em 7 de abril, com a participação da professora Renata Feital , Coordenadora do Curso de Jornalismo da UVA Barra.  Durante a conversa, a professora destacou o papel e a importância do jornalista na sociedade atual, além de abordar os impactos [&hellip;]</p>\n"
+  },
+  "featured_media": 21353,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21336"
+  },
+  "id": 21336,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/whatsapp-image-2026-05-06-at-11.34.25.jpeg?fit=1024%2C1024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5y8",
+  "link": "https://agenciauvabarra.com/2026/04/07/dez-minutos-sobre-dia-do-jornalista/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AABe04azsQmeAq6p9o4E04azsQkFrqn2jgSThrOxCa6p9o4Ek4azsQmuqfaOBJOGs7EJrqn2jgTThrOxCQDuqfaOBA2ThrOxCe6p9o4ECtOGs7EJAO6p9o4ECtOGs7EJC4cCBgQDAAQGCAIEAhgBEHYDAAQGCAIEAgSAAb4FAQEIAkIBAkgAgAgBAQgCQgECSACaBQEBCAKsAu4CAQJI1hSWGAMHBgKUEgw4AQEIAQNICtglvisgYAAyAlAYDALsH7AfAQEIAQNICigEEAL4HAMHBgKWE7gRAwcMAwKAAf4J4AGkDAEBCAEDSAo6AhAK5gI2iAP4AoIFAQEIAQNI1jGuMQEBCAEDSAIEAgEF0kW2RfRFgj0DBwwDAIoHmBDOD+5GcqxX6leqNLwi8D/SFwQSAqRF2EUYAggCEgYsBBgGAwCwAY4BgkDIPgEBCAJCAQJIoD7QPAEBCAEDSAqGIYgq6hYCvgSgEjY8CAQDAAQGCAIEAoAHvisiAQBiIgEAxBsDBwYCtCbgC7oJAwcMAwDgCvQckB2kDAEC/AzACZwTAwC+BKAS+QEoACEBJwABAIEIJwEoACEAKAQnACgSIQEnAEEAwQiBAAcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAhAAoBCcABACEC4EAhABHACgCJwEoBCcABACEAYEAxAHBAMQAwQDEAMEAxACHACgCJwEoBCcABACBAIQAgQCEAMQLhBGHACgCJwEoBCcABACBAIQAgQCEAMQAhAGHACgCJwEoBCcAxwAhACgAIQAnACEFJwCoAScAKAahAKgAoQDEDIQBoQCoAKEAqAEhAMQAqAAoAsQARAHEAwQAhA6HACgCJwEEACgEJwDHACgCJwEoBCcABADEBYS7KZwnc3RhdGV2ZXJzaW9uZG9jdW1lbnRkYXRlZG9jdW1lbnRzdGF0dXNkb2N1bWVudHRpdGxlZG9jdW1lbnRjb250ZW50ZG9jdW1lbnRleGNlcnB0ZG9jdW1lbnRhdXRob3Jkb2N1bWVudGZlYXR1cmVkX21lZGlhZG9jdW1lbnRjb21tZW50X3N0YXR1c2RvY3VtZW50cGluZ19zdGF0dXNkb2N1bWVudHN0aWNreWRvY3VtZW50dGVtcGxhdGVkb2N1bWVudGZvcm1hdGRvY3VtZW50bWV0YWFkdmFuY2VkX3Nlb19kZXNjcmlwdGlvbmpldHBhY2tfc2VvX2h0bWxfdGl0bGVqZXRwYWNrX3Nlb19ub2luZGV4X2NvYmxvY2tzX2F0dHJfY29ibG9ja3NfZGltZW5zaW9uc19jb2Jsb2Nrc19yZXNwb25zaXZlX2hlaWdodF9jb2Jsb2Nrc19hY2NvcmRpb25faWVfc3VwcG9ydGpldHBhY2tfcG9zdF93YXNfZXZlcl9wdWJsaXNoZWRyZWFkZXJfc3VnZ2VzdGVkX3RhZ3NfamV0cGFja19uZXdzbGV0dGVyX2FjY2Vzc19qZXRwYWNrX2RvbnRfZW1haWxfcG9zdF90b19zdWJzX2pldHBhY2tfbmV3c2xldHRlcl90aWVyX2lkX2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGF5d2FsbGVkX2NvbnRlbnRfamV0cGFja19tZW1iZXJzaGlwc19jb250YWluc19wYWlkX2NvbnRlbnRmb290bm90ZXNqZXRwYWNrX3B1YmxpY2l6ZV9tZXNzYWdlamV0cGFja19wdWJsaWNpemVfZmVhdHVyZV9lbmFibGVkamV0cGFja19zb2NpYWxfcG9zdF9hbHJlYWR5X3NoYXJlZGpldHBhY2tfc29jaWFsX29wdGlvbnNkb2N1bWVudGNhdGVnb3JpZXNkb2N1bWVudHRhZ3Nkb2N1bWVudGJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudER1cmFudGUgYSBjb252ZXJzYSwgYSBwcm9mZXNzb3JhIGRlc3RhY291IG8gcGFwZWwgZSBhIGltcG9ydMOibmNpYSBkbyBqb3JuYWxpc3RhIG5hIHNvY2llZGFkZSBhdHVhbCwgYWzDqW0gZGUgYWJvcmRhciBvcyBpbXBhY3RvcyBkYXMgRmFrZSBOZXdzIGUgb3MgcHJpbmNpcGFpcyBkZXNhZmlvcyBkYSBwcm9maXNzw6NvLCBjb21vIG8gY29tYmF0ZSDDoCBkZXNpbmZvcm1hw6fDo28gZSBhIG1hbnV0ZW7Dp8OjbyBkYSBjcmVkaWJpbGlkYWRlLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50QSBkYXRhIGhvbWVuYWdlaWEgTMOtYmVybyBCYWRhcsOzLCBzw61tYm9sbyBkYSBsdXRhIHBlbGEgbGliZXJkYWRlIGRlIGltcHJlbnNhIG5vIEJyYXNpbCwgZSByZWZvcsOnYSBvIGNvbXByb21pc3NvIGRvIGpvcm5hbGlzbW8gY29tIGEgdmVyZGFkZSBlIG8gaW50ZXJlc3NlIHDDumJsaWNvLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50UXVlciBlbnRlbmRlciBtYWlzIHNvYnJlIG9zIGRlc2FmaW9zIGRhIHByb2Zpc3PDo28/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhISZuYnNwO2Ryb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkR1cmFudGUgYSBjb252ZXJzYSwgYSBwcm9mZXNzb3JhIGRlc3RhY291IG8gcGFwZWwgZSBhIGltcG9ydMOibmNpYSBkbyBqb3JuYWxpc3RhIG5hIHNvY2llZGFkZSBhdHVhbCwgYWzDqW0gZGUgYWJvcmRhciBvcyBpbXBhY3RvcyBkYXMgRmFrZSBOZXdzIGUgb3MgcHJpbmNpcGFpcyBkZXNhZmlvcyBkYSBwcm9maXNzw6NvLCBjb21vIG8gY29tYmF0ZSDDoCBkZXNpbmZvcm1hw6fDo28gZSBhIG1hbnV0ZW7Dp8OjbyBkYSBjcmVkaWJpbGlkYWRlLjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkEgZGF0YSBob21lbmFnZWlhIEzDrWJlcm8gQmFkYXLDsywgc8OtbWJvbG8gZGEgbHV0YSBwZWxhIGxpYmVyZGFkZSBkZSBpbXByZW5zYSBubyBCcmFzaWwsIGUgcmVmb3LDp2EgbyBjb21wcm9taXNzbyBkbyBqb3JuYWxpc21vIGNvbSBhIHZlcmRhZGUgZSBvIGludGVyZXNzZSBww7pibGljby48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5RdWVyIGVudGVuZGVyIG1haXMgc29icmUgb3MgZGVzYWZpb3MgZGEgcHJvZmlzc8Ojbz8gU2ludG9uaXplIGFnb3JhIG5hIFLDoWRpbyBVVkEgQmFycmEhPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Y2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NObyBlcGlzw7NkaW8gbWFpcyByZWNlbnRlIGRvIERleiBNaW51dG9zIFNvYnJlLCBjZWxlYnJhbW9zIG8gRGlhIGRvIEpvcm5hbGlzdGEsIGNvbWVtb3JhZG8gZW0gNyBkZSBhYnJpbCwgY29tIGEgcGFydGljaXBhw6fDo28gZGEgcHJvZmVzc29yYSBSZW5hdGEgRmVpdGFsICwgQ29vcmRlbmFkb3JhIGRvIEN1cnNvIGRlIEpvcm5hbGlzbW8gZGEgVVZBIEJhcnJhLsKgRGlhIGRvIEpvcm5hbGlzdGFEZXogTWludXRvcyBzb2JyZSBjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc0R1ZGEgTmljb2xpY2ggLSAzwrogUGVyw61vZG8gZGUgSm9ybk5vIGVwaXPDs2RpbyBtYWlzIHJlY2VudGUgZG8gZXogTWludG9zIFNvYmUsIGNlbGVicm1vcyBvIERpYSBkbyBKb3JhbGlzYSwgY29tbW9yYWRvZW0gNyBkZSBicmlsLG0gYSBwYXJ0aWNpcGHDp8OjbyBkYSBwcm9mZXNzb3JhIFJlYXRhIEZlaXRhbCAsIENvb3JkZW5hZG9yYSBkbyBDdXJzbyBkZSBKb3JuYWxpc21vIGRhIFVWQSBCYXJyYS7CoDwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkR1cmFudGUgYSBjb24KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5EdWRhIE5pY29saWNoIC0gM8K6IFBlcsOtb2RvIGRlIEpvcm48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT5hbGlzbW8gY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NNYWx1IENvcmRlaXJvIC0gM8K6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW8gYWxpc21vIAoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPk1hbHUgQ29yZGVpcm8gLSAzwrogUGVyw61vZG8gZGUgSm9ybmFsaXNtbyA8L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT5jbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2FwdGlvbnByb3ZpZGVyTmFtZVNsdWdhbGxvd1Jlc3BvbnNpdmVyZXNwb25zaXZlcHJldmlld2FibGV1cmx0eXBlY2xhc3NOYW1lZW1iZWQgeyJ1cmwiOiJodHRzOi8vb3Blbi5zcG90aWZ5LmNvbS9lcGlzb2RlLzB1dklGbkNTZnFXZWx0T29pWTV6YiIsInR5cGUiOiJ2aWRlbyIsInBvdmlkZXJObWVTbHUiOiJzcG90aWZ5IiwiZXNwb25zaXZlIjp0cnVlLCJjbHNzTmFtZSI6InctZW1iZWQtYXNwZWN0LTE2LTkgd3AtYXMtYXNwZWN0LXJhdGlvIn1maWd1cmUgY2xhc3M9InctYmxvY2stZW1iZWQgaXMtdHlwZS12aWRlbyBpcy1wcm92aWRlci1zcG90aWZ5IHdwLWJsb2NrLWVtYmVkLXNwb3RpZnkgd3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpbyI8ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9lcGlzb2RlLzB1dklGbkNTZnFXZWx0T29pWTV6YWIKPC9kaXY+PC9maWd1cmU+CjwhLS0gL3dwOmVtYmVkIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPnN0YXRldmVyc2lvbi1kb2N1bWVudHNsdWdzdGF0ZXNhdmVkQXRzdGF0ZXNhdmVkQnnCoFByb2R1w6fDo286IFJvdGV1cmlybyBlIEVkaWPDp8OjbzogQ1LDiURJVE9TPGJyPlJvdGVpcm86IE1hbHUgQ29yZGVpcm8tIDPCuiBwZXLDrW9kbyBkZSBKb3JuYWxpc21vPGJyPkVkacOnw6NvOiBNYWx1IENvcmRlaXJvIC0gM8K6IHBlcsOtb2RvIGRlIEpvcm5hbGlzbW88YnI+Q29vcmRlbmHDp8OjbyBSw6FkaW8gVVZBIEJhcnJhOiBQcm9mLiBBbmRlcnNvbiBCYXJyZXRvPGJyPkNvb3JkZW5hw6fDo28gZG8gQ3Vyc28gZGUgSm9ybmFsaXNtbzogUHJvZmEuIFJlbmF0YSBGZWl0YWxjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnQ8YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mYS4gUmVuYXRhIEZlaXRhbGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NDUsOJRElUT1M6wqBDUsOJSVRPUzo8L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5Qcm9kw6fDo286IER1Um90ZWlybyBlIEVkacOnw6NvOiBDb29yZGVuYcOnw6NvIFLDoWRpbyBVVkEgQmFycmE6IFByb2YuIEFuZGVyc29uIEJhcnJldG8KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD48YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mYS4gUmVuYXRhIEZlaXRhbDwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgUHCAQIBggFCAcIBwgGCA4IDggLCAZIAQYIBBgWEw4UGx4fFRogGy8qCRkhIhYICggECAYIBwQKB7QDBwoNDwwLCAcECgehAgcKDQ8MCwgHBAoHlgEGBwoNDwwLGUEHAwGKCRsIBwQKRwAKDQ8MC4wDARABBwQFAQgHBApHAAoNDwwLDggMHAYHCRAERgAIBSGCAgpBBwZBAiAbBwgHBApHAAoNDwwLFwgKBxuEAQgHBApHAAoNDwwLCAcECkcACg0PDAsHEA8KCwMECRExFAcFDRMKFhEPrwGbAlsABQcBCAQFBwUHAQoEAgkBBQEMAQQBCQMWAgwDQQA4JzwIBwQKBzwHCg0PDAsIBwQKRwAKDQ8MCwkBAz8HEjOyAQ8BAwAAAQkAEgECAGcBAwAsQgEBAEEAAgBBAAIAQQACAEEAAgBBAAIAQQACAEEAAgBBAAACQQACAEEAAgAoQQECQQACAwQBAgECQRoNAQMBBAcQFBkDoQFBFgZBEgJBCAVBGwJBFwKEAgB9AX2a4K5ydwRvcGVudwRvcGVueXcAdwhzdGFuZGFyZHcAdwB5dwB3AHcAdwB5dwB3AHl9AHl5dwB3AHh5dgIYaW1hZ2VfZ2VuZXJhdG9yX3NldHRpbmdzdgQIdGVtcGxhdGV3B2hpZ2h3YXkQZGVmYXVsdF9pbWFnZV9pZH0ABGZvbnR3AAdlbmFibGVkeQd2ZXJzaW9ufQJ3JGRiN2ZjYjA1LTMxYjYtNDM0ZS1hZmEzLTU0ODAwZjI0Y2EzNXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckOTMwZmUzYzUtNWNlNC00Yjc2LWIwYzUtNTA2YjMxZTFiMjY0eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyRmYThjNTdkNS01MzMxLTQ4YzgtODkxOS1kZDkwMDY0MzU1Zjh4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDlkODk1N2E0LWViZDgtNDNhZi05ZjJkLTkzNWNkYWVmYThhOXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckMTY3N2JiYjctNzg5Ny00ZTM5LTliMWUtMmZiZjc5YmEzMDM2eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyRjYTUxYTVkOC0wNDU0LTQyYmQtYTc3MS00ZTM5NWI3N2RjMzd4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JGRiODQxMDdmLTkxOTEtNDYwZC1hZDg0LTAxY2NkYTBhZmMyN3h3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3JDAxYzNlYjM3LTk2NTUtNDE1Zi1iYzYxLTA4MmI3M2VkMWEwNXcKY29yZS9lbWJlZHcHc3BvdGlmeXh4eHc3aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VwaXNvZGUvMHV2SUZuQ1NmcVdlbHRPb2lZNXphYncFdmlkZW93KHdwLWVtYmVkLWFzcGVjdC0xNi05IHdwLWhhcy1hc3BlY3QtcmF0aW91An2L5AF9sO34nAV9qc0CdxMyMDI2LTA0LTA3VDExOjE0OjQ4dwdwdWJsaXNoPgB1A32ZzJjqBH2svpcFfYbz6bgBdyNkZXotbWludXRvcy1zb2JyZS1kaWEtZG8tam9ybmFsaXN0YXtCed/oGTpQAH2uqfaOBHckZGUzZjZjMTItNDU3Ni00Y2E2LTlhNTUtNTIxMGUyNDAyOWE2eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ3NGQ5OTllNS03ZGU4LTQyZjctOTc2My01ODU3ZjIyYzU0ZDF4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXkCk8PZ2AQWAQEBEgMAGQEBvQGJBAX2BAWEAgAIAAQABQAbAQgAkAMACAR9AAEAAQULAAEAggQBAQDulLuHAgsAABQBCQAGCwEDAQgDFQILAwABNyc7\",\"updateId\":222575823}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-06T15:17:24",
+  "modified_gmt": "2026-05-06T18:17:24",
+  "ping_status": "open",
+  "slug": "dez-minutos-sobre-dia-do-jornalista",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dez Minutos sobre- Dia do Jornalista"
+  },
+  "type": "post"
+}

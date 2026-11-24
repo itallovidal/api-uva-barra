@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7447/revisions/7449",
+        "id": 7449
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7447"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7447",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7447/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7447"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7447",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7447",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    703299214
+  ],
+  "class_list": [
+    "post-7447",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-educacao",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>As salas de aula agora são virtuais.Com escolas sendo alguns dos principais espaços que devem permanecer fechados durante a pandemia, professores em todo o mundo se viram obrigados a transferir as aulas para o formato de Conferência de vídeo, e assim tem sido. Mas na rede estadual, que conta com mais de 700 mil alunos, grande parte não dispõe de fácil acesso a tais tecnologias, não é tão simples fazer dessa maneira. A determinação do Governo do Estado foi então usar uma plataforma gratuita: o Google Classroom (Sala de Aula).</p><p>Professores da Escola Estadual Professor Alfredo Maurício Brum, em São João de Meriti, estão passando pela experiência de dar suas aulas com o uso do aplicativo. A professora Ana Lúcia Simões (50), de Educação Física, conta as dificuldades de uma mudança de um modelo prático para um exclusivamente teórico: “Antes a escola não tinha quadra, então eu já dava aulas teóricas da minha matéria, mas já havia me habituado a trabalhar na quadra com os alunos. Mudar assim, e de uma forma tão drástica, tem sido bem complicado”.</p><p>A plataforma permite que professores enviem tarefas e criem questionários para os alunos responderem, mas manter a atenção dos jovens no conteúdo não é tão simples como na aula presencial, já que o aluno só precisa enviar uma resposta e assinar uma lista para receber a presença, e nada garante que esteja realmente focado no conteúdo. A professora de Ciências, Adriana de Oliveira (43), diz que faz o possível para tentar fazer os alunos participarem, mas nem sempre tem sucesso: “Eu não tenho como verificar nada, então tudo que posso fazer é pedir a participação de todos e dizer que vou tirar ponto de quem não participar. A gente faz o que dá, e é até difícil, sabendo das circunstâncias que algumas dessas crianças enfrentam”.</p><p>A Secretaria de Educação do Rio de Janeiro (Seeduc RJ) se comprometeu a imprimir e entregar o material aos alunos sem acesso à internet, além de considerar abrir algumas escolas e disponibilizar os computadores das salas de informática. Dessa forma, os professores podem dar suas aulas sem esta preocupação, mas é claro que não é tão simples. Apenas 30% dos alunos têm comparecido às aulas e, apesar deste número estar dentro das expectativas, mostra que as medidas não foram tão precisas e que a dificuldade continua.</p><p>A orientadora educacional Karla Kardozo(44) é responsável por tomar conta do núcleo de alunos e professores na escola. Ela organiza conferências de vídeo com os professores para conversar sobre o procedimento das aulas e discutir possíveis novos métodos para utilizar na plataforma: “Nós temos aqui professores que gostam de estar mais próximos dos alunos, assim como temos aqueles com uma aproximação mais tradicional ao ensino. Queremos sempre fazer o possível para satisfazer todo mundo, principalmente o aluno, mas claro que dentro das nossas possibilidades nessa situação por que estamos passando”.</p><p><strong>Bernardo Barcelos – 3º Período | Jornalismo</strong></p><p>*Texto produzido na disciplina Teoria e Técnica da Notícia em parceria com a Agência UVA Barra.</p></main>"
+  },
+  "date": "2020-08-31T14:01:00",
+  "date_gmt": "2020-08-31T17:01:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>As salas de aula agora são virtuais.Com escolas sendo alguns dos principais espaços que devem permanecer fechados durante a pandemia, professores em todo o mundo se viram obrigados a transferir as aulas para o formato de Conferência de vídeo, e assim tem sido. Mas na rede estadual, que conta com mais de 700 mil alunos, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7447"
+  },
+  "id": 7447,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1W7",
+  "link": "https://agenciauvabarra.com/2020/08/31/professores-da-rede-estadual-enfrentam-dificuldades-e-vencem-desafios-para-dar-aulas-durante-o-isolamento-social/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-13T14:00:01",
+  "modified_gmt": "2020-08-13T17:00:01",
+  "ping_status": "open",
+  "slug": "professores-da-rede-estadual-enfrentam-dificuldades-e-vencem-desafios-para-dar-aulas-durante-o-isolamento-social",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Professores da rede estadual enfrentam dificuldades e vencem desafios para dar aulas durante o isolamento social"
+  },
+  "type": "post"
+}

@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1652/revisions/3249",
+        "id": 3249
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1652"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1652",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1652/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1652"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1652",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1652",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-1652",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Evento sociocultural reune tendências de diversos países e expõe dicas biodegradáveis</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/12/img_9337.jpg?resize=5184%2C3456&#038;ssl=1' alt='IMG_9337' width='5184' height='3456' /><figcaption>Foto: Giovanna Faria</figcaption></figure><p>Gastronomia, moda, cultura, lazer e meio ambiente estiveram presentes no primeiro dia da 57ª Feira da Providência. O Riocentro abriu as portas para o público, ás 14h da tarde desta quarta-feira (29/11), repleto de atrações que ocorrem até o próximo domingo (03/12). Dentre as apresentações culturais sobre o folclore, dança do ventre, coreografias latinas e um extenso mercado internacional, que agrada o visitante de todos os gostos e classes sociais, a ativista Karin Dreyer, 31 anos, autora do blog \"Desperdício Zero\" demonstra uma ação, na qual ela oferece meios simples para um mundo mais preocupado em preservar a natureza.</p><p>Essa iniciativa começou em 2015 com a carioca, que é graduada em Artes Cênicas e fez pós em Administração de Empresas. Ela ressalta a importância de compartilhar com outras pessoas os hábitos simples que adotou para ajudar o ecossistema a sobreviver ao consumo dos seres humanos. \"Eu sou o que eu falo e eu vivo isso. Quero orientar a cabeça da população para evitar os desperdícios\", revela a militante, que propõe uma reflexão sobre o lixo que descartamos todos os dias, desde um simples guardanapo a infinita quantidade de copos descartáveis no local de trabalho.</p><div><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/12/111111.jpg?resize=300%2C300&#038;ssl=1' alt='111111' width='300' height='300' /><figcaption>Foto: arquivo pessoal</figcaption></figure></div><p>Karin faz um apelo para esses gastos que são influenciados pelas propagandas e ultrapassam o nosso bem-estar. \"Vamos usar a casca de limão e laranja, por exemplo, para gerar desinfetante e desengordurante. Assim diminuiremos os gastos nos supermercados e a poluição que afeta a nossa saúde\". Karin declara viver de acordo com as necessidades diárias e que se prepara antes de sair com marmita, guardanapo de pano e copos biodegradáveis, sempre que for passar longas horas fora de casa. Isso não impede que ela tenha o compromisso de defender e colaborar com práticas saudáveis de forma pessoal e coletiva.</p><p>Ela também apoiou a empresa \"Meu Copo ECO\", com sede em Florianópolis e há 6 anos no mercado, que tem a missão de reduzir, reutilizar e reciclar o lixo do planeta. \"As pessoas não são obrigadas a comprar o copo, ela também poderá alugar. Nós queremos conscientizar e mudar a cultura de consumo\", é o que explicou a responsável por operações de eventos da organização, Priscila Paiva, 31 anos. A responsabilidade social da empresa busca mudar os maus costumes que geram impactos negativos no mundo, com atitudes básicas como a do copo biodegradáveis que poderá ser usado por mais de 30 anos.</p><p>Atitudes que envolvam o meio ambiente sempre são bem-vindas, principalmente quando for para somar e evitar que a ação humana no planeta o destrua. As participantes da feira Priscila e Karin entendem a falta de conscientização e optam por sustentar a causa que pôde estar presente nesse evento realizado na Zona Oeste do Rio. \"Será que eu preciso comprar tudo o que eu consumo todos os dias?\", questiona a blogueira. Para ela não e por conta disso, a vida se torna mais leve e o legado pode ser repassado a todos.</p><p><strong>Karina Figueiredo, 3º período</strong></p></main>"
+  },
+  "date": "2017-12-02T13:40:26",
+  "date_gmt": "2017-12-02T15:40:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento sociocultural reune tendências de diversos países e expõe dicas biodegradáveis</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1652"
+  },
+  "id": 1652,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-qE",
+  "link": "https://agenciauvabarra.com/2017/12/02/foco-na-sustentabilidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T18:14:41",
+  "modified_gmt": "2019-02-27T21:14:41",
+  "ping_status": "open",
+  "slug": "foco-na-sustentabilidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Foco na sustentabilidade"
+  },
+  "type": "post"
+}

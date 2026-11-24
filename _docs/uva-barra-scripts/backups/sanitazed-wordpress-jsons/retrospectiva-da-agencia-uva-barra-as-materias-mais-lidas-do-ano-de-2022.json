@@ -1,0 +1,193 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13938/revisions/13951",
+        "id": 13951
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13938"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13938",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13938/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13938"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13950"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13938",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13938",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    81389,
+    17964,
+    858951,
+    18330,
+    670411728,
+    22,
+    14603,
+    3719,
+    10567,
+    866752
+  ],
+  "class_list": [
+    "post-13938",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direito",
+    "category-educacao",
+    "category-eventos-internos",
+    "category-institucional",
+    "category-institucional-uva",
+    "category-internet",
+    "category-jornalismo",
+    "category-literatura",
+    "category-psicologia",
+    "category-saude-mental",
+    "tag-996330",
+    "tag-agencia-uva-barra",
+    "tag-booktok",
+    "tag-direito",
+    "tag-jornalismo",
+    "tag-maislidas",
+    "tag-psicologia",
+    "tag-retrospectiva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Uma nova maneira de usar a rede social e as novidades do Campus Barra foram os destaques do ano em nosso site</em></p><p>Após os períodos mais graves da pandemia do Covid-19, este ano marcou um recomeço das atividades presenciais na vida das pessoas e para muitos, a nova realidade com todos os protocolos de segurança, passaram a ser realidade, era uma nova forma de convivência, trabalho e estudos. Com o mês de dezembro chegando ao fim, é hora de olhar para trás e refletir sobre tudo que foi feito em 2022, e por isso, a Agência UVA Barra traz a retrospectiva das três matérias mais lidas durante o ano em nosso site para entender como a produção jornalística universitária está conectada com a sociedade.</p><p>A estudante Deborah Gama, ainda estava no 1° período quando escreveu a matéria <em>a</em> <a href=\"https://agenciauvabarra.com/2022/05/23/o-impacto-do-booktok-na-vida-dos-jovens/\">O impacto do booktok na vida dos jovens</a>, e essa foi a mais acessada durante todo o ano de 2022. A reportagem traz a novidade de um mundo que existe dentro das redes sociais, em que um público fã de literatura consegue se conectar com criadores de conteúdo desta bolha, e dessa forma, criam uma rede de incentivo e troca de experiências entre eles, chamada de “Booktok”, pois acontecem em maior número no aplicativo do Tiktok.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/whatsapp-image-2022-12-20-at-12.45.20.jpeg?resize=962%2C1280&amp;ssl=1\" alt=\"\" width=\"962\" height=\"1280\"><figcaption>Deborah Gama faz parte da comunidade do Booktok (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/whatsapp-image-2022-12-20-at-12.46.23.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Para o repórter Pedro Amorim, a melhor maneira de impactar o leitor é usar uma linguagem acessível e objetiva. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/soniarlei-2022.jpg?resize=328%2C768&amp;ssl=1\" alt=\"\" width=\"328\" height=\"768\"><figcaption>“Nosso aluno não fica surpreso quando se depara com a prova da OAB, pois ele já é preparado durante todo o curso”, afirma Soniárlei Vieira. (Foto: Arquivo pessoal)</figcaption></figure><p>Deborah é monitora da Agência UVA Barra, e para ela, o público jovem tem um impacto muito grande na indústria literária e nas vendas de livros, e essas crianças e adolescentes estão conhecendo cada vez mais esse mundo através da internet e das redes sociais. A repórter comentou sobre o que pensou no momento de escrever a matéria: “Meu objetivo era levar uma informação que é muito comum na minha vida para outras pessoas que ainda não conheciam”, afirma a aluna.</p><p><strong>No vídeo abaixo, Deborah fala sobre a sensação de ter a sua matéria como a mais lida do ano:</strong></p><figure><iframe src=\"https://www.youtube.com/embed/6JaQSqJcQuc?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>Na segunda posição do nosso pódio, o repórter Pedro Amorim, na época no 6° período, escreveu a matéria “Curso de Direito da Universidade Veiga de Almeida ganha Selo OAB Recomenda”, que destacava um momento importante para o curso de direito do Campus Barra. A reportagem tinha como objetivo trazer o trabalho realizado por todos os profissionais envolvidos neste curso e mostrar que a metodologia de ensino foi reconhecida com um selo importante para a formação dos futuros advogados. Para Pedro, a sensação é de dever cumprido: “Acredito que a forma como apurei, entrevistei e escrevi a matéria conseguiram impactar o leitor e isso me motiva ainda mais”, afirma o estudante. O coordenador do curso de Direito do Campus Barra, Soniárlei Vieira, comentou sobre a preparação realizada pela universidade para a prova da OAB: “É um trabalho constante realizado durante todo o curso. Desde o primeiro período nossos alunos já realizam avaliações que contemplam o mesmo modelo de prova da OAB. E em nossas reuniões de colegiado, estamos sempre engajados sobre a prova, para podermos preparar o estudante da maneira mais alinhada possível”, afirma o professor. Além disso, Soniárlei destacou a importância da repercussão da matéria para a comunidade acadêmica, para a instituição e também para futuros alunos.<br><br>Na terceira posição, ficou a matéria “UVA Barra realiza a abertura do Serviço de Psicologia Aplicada no campus”, também escrita pelo nosso repórter Pedro Amorim, na época estagiário da Agência. O texto traz a inauguração de um novo espaço do campus Barra da Universidade Veiga de Almeida para atendimentos psicológicos para pessoas com pouco recurso financeiro. Pedro comenta sobre os desafios de escrever uma matéria sobre um evento interno da universidade, para a comunidade externa: “Sobretudo uma responsabilidade. Ser porta-voz de uma informação da UVA, exigiu muita apuração e checagem para a notícia sair completa e 100% pautada na veracidade, pois eu carregava o peso de uma instituição comigo”, afirma.</p><p>Um dos pilares da Agência UVA Barra é formar futuros jornalistas preocupados em fazer um jornalismo de verdade com um olhar para a checagem e a apuração dos fatos. Para o professor e coordenador da Agência, Anderson Barreto, esse momento celebra o trabalho de todos os alunos ao longo do ano. “Todos os semestres entram novos alunos da disciplina de estágio e de monitoria e a minha motivação é plantar uma semente para que eles saibam fazer jornalismo ético. Estar entre as mais lidas não é o nosso objetivo final, mas enche de alegria o coração dessa relação ensino/aprendizagem que construímos”, afirma o professor.<br></p><p>A retrospectiva da Agência UVA Barra é checada pelos mecanismos de visualizações das matérias e é um espaço para debater a importância de um jornal laboratório ético.</p><p><em>Igor Concolato – 2° período</em></p></main>"
+  },
+  "date": "2022-12-23T16:29:47",
+  "date_gmt": "2022-12-23T19:29:47",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Após os períodos mais graves da pandemia do Covid-19, este ano marcou um recomeço das atividades presenciais na vida das pessoas e para muitos, a nova realidade com todos os protocolos de segurança, passaram a ser realidade, era uma nova forma de convivência, trabalho e estudos. Com o mês de dezembro chegando ao fim, é hora de olhar para trás e refletir sobre tudo que foi feito em 2022, e por isso, a Agência UVA Barra traz a retrospectiva das três matérias mais lidas durante o ano em nosso site para entender como a produção jornalística universitária está conectada com a sociedade.</p>\n"
+  },
+  "featured_media": 13950,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13938"
+  },
+  "id": 13938,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/whatsapp-image-2022-12-23-at-16.28.15.jpeg?fit=828%2C1472&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3CO",
+  "link": "https://agenciauvabarra.com/2022/12/23/retrospectiva-da-agencia-uva-barra-as-materias-mais-lidas-do-ano-de-2022/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-23T16:29:47",
+  "modified_gmt": "2022-12-23T19:29:47",
+  "ping_status": "open",
+  "slug": "retrospectiva-da-agencia-uva-barra-as-materias-mais-lidas-do-ano-de-2022",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    996330,
+    648221465,
+    700221018,
+    767056624,
+    767056611,
+    427000239,
+    767056608,
+    561679
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Retrospectiva da Agência UVA Barra: As matérias mais lidas do ano de 2022"
+  },
+  "type": "post"
+}

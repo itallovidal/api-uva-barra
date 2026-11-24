@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/777/revisions/3336",
+        "id": 3336
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=777"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/777",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/777/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=777"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=777",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=777",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-777",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>A palestra abordou o tema sobre estratégias de empresas mundiais</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.jpg?resize=1184%2C771&#038;ssl=1' alt='AAA' width='1184' height='771' /><figcaption><strong>Foto: Carolina Marinho</strong></figcaption></figure><p>No último dia da Semana de Comunicação do campus Barra, a palestra “A internacionalização de uma marca brasileira”, apresentada por Paula Malamud, diretora da empresa Imaginatto Design, marcou a manhã do dia 18. A publicitária falou sobre marcas globais, sendo uma delas a brasileira Vale, sua cliente desde 2007. Além de outros exemplos de instituições nacionais que transcenderam as fronteiras, conquistaram conhecimento mundial e tentam manter a comunicação com o público.</p><p>Segundo Paula, é preciso mais que se comunicar com os consumidores, é preciso uma mobilização social. Ela também abordou o tema sobre o desafio de conectar milhões de pessoas em um único comercial. “Em 2030, serão mais de 9 bilhões de pessoas no mundo, vai ser difícil mobilizar todos”. Além disso, ela ressaltou como os fatores externos influenciam a entrada de uma marca no país.</p><p>A aluna Lizandra Rios, comentou que mesmo sendo do curso de jornalismo, a palestra apontou questões importantes. A estudante afirmou que se interessou bastante quando a palestrante falou sobre os nomes das lojas. “A princípio não me interessou muito, mas quando ela começou a falar sobre as estratégias das marcas me bateu uma curiosidade”. Também disse sobre a parte que mais gostou da palestra.</p><p><strong>Carolina Marinho, 3º período e Gabriel Henrique, 2º período</strong></p></main>"
+  },
+  "date": "2017-05-18T15:12:34",
+  "date_gmt": "2017-05-18T18:12:34",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A palestra abordou o tema sobre estratégias de empresas mundiais No último dia da Semana de Comunicação do campus Barra, a palestra “A internacionalização de uma marca brasileira”, apresentada por Paula Malamud, diretora da empresa Imaginatto Design, marcou a manhã do dia 18. A publicitária falou sobre marcas globais, sendo uma delas a brasileira Vale, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=777"
+  },
+  "id": 777,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-cx",
+  "link": "https://agenciauvabarra.com/2017/05/18/secom-3-marcas-que-conquistaram-o-mundo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:56:09",
+  "modified_gmt": "2019-02-28T19:56:09",
+  "ping_status": "open",
+  "slug": "secom-3-marcas-que-conquistaram-o-mundo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "SECOM #3 Marcas que conquistaram o mundo"
+  },
+  "type": "post"
+}

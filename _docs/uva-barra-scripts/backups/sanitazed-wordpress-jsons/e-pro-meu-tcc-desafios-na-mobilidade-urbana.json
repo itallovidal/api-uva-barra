@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15450/revisions/15453",
+        "id": 15453
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15450"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15450",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15450/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15450"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15417"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15450",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15450",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15450",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Um grande desafio enfrentado pelos estudantes universitários são com os deslocamentos para chegar até o campus. As dificuldades na mobilidade urbana e as suas consequências foi o tema debatido no quarto episódio do “É pro meu TCC”:</p><p>Os alunos compartilharam algumas de suas experiências pessoais e falaram sobre o constante aumento no valor das passagens, do desgaste físico e mental enfrentados durante o trajeto e também deixaram dicas para tentar facilitar a vida dos colegas que enfrentam os mesmos perrengues.</p><p>O videocast foi produzido e apresentado por Amanda Monsores, Isabela Magalhães, João Luis Costa, Julia Gomes, Manuela Vieira e Marcela Roberto. <strong>Confira o programa completo clicando no link abaixo!</strong></p><figure><iframe src='https://www.youtube.com/embed/TgCEveGQ1Z0?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><em>*Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-08-10T15:28:01",
+  "date_gmt": "2023-08-10T18:28:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um grande desafio enfrentado pelos estudantes universitários são com os deslocamentos para chegar até o campus. As dificuldades na mobilidade urbana e as suas consequências foi o tema debatido no quarto episódio do “É pro meu TCC”: </p>\n"
+  },
+  "featured_media": 15417,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15450"
+  },
+  "id": 15450,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/whatsapp-image-2023-08-07-at-15.29.00.jpeg?fit=1270%2C710&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-41c",
+  "link": "https://agenciauvabarra.com/2023/08/10/e-pro-meu-tcc-desafios-na-mobilidade-urbana/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-10T15:28:01",
+  "modified_gmt": "2023-08-10T18:28:01",
+  "ping_status": "open",
+  "slug": "e-pro-meu-tcc-desafios-na-mobilidade-urbana",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "É pro meu TCC: Desafios na Mobilidade Urbana"
+  },
+  "type": "post"
+}

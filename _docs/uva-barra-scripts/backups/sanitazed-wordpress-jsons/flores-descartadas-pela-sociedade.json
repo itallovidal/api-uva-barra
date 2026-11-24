@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/623/revisions/3346",
+        "id": 3346
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=623"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/623",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/623/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=623"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=623",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=623",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-623",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>O curso de psicologia realizou, nesta última quarta feira, o XIII evento da Luta Antimanicomial, promovendo um dia inteiro de atividades em prol da causa</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/img_5131.jpg?resize=4032%2C3024&amp;ssl=1' alt='IMG_5131.JPG' width='4032' height='3024' /><figcaption>O bloco carnavalesco Loucura Suburbana se apresentando na UVA</figcaption></figure><p>O campus Barra da Universidade Veiga de Almeida promoveu, nesta quarta-feira, o XIII evento da Luta Antimanicomial. O objetivo é desconstruir o termo “manicômio” por meio de palestras, debates, exibição de filmes relacionados com o tema e números musicais. O bloco carnavalesco Loucura Suburbana, formado majoritariamente por usuários de saúde mental, canta a favor da liberdade e contra o preconceito.</p><p>Essa é a ideologia do Instituto Municipal Nise da Silveira, antes chamado de Hospício Pedro II. O intuito da luta é romper os muros do instituto e transformar o preconceito contra a loucura em admiração e respeito. Para atingir esse objetivo, são formados grupos para oficinas como a de cultura – onde o bloco é produzido – de percussão, adereços, música e literaturas. Segundo a organização, o importante é mostrar para quem está de fora que os usuários de saúde mental também podem ser integrados na sociedade.</p><p>Nise da Silveira, psiquiatra e defensora da luta antimanicomial, também tinha esse ponto de vista. Ela trabalhou para que o tratamento psiquiátrico fosse mais humanizado, utilizando a arte como ferramenta. Ainda hoje, sua filosofia é difundida. Na opinião de André Cabral, intérprete do bloco carnavalesco, o resultado das oficinas é um legado deixado por Nise. “Vir mostrar isso dentro de uma universidade, um lugar onde as pessoas estão ávidas pelo conhecimento, é romper os limites do hospital e mostrar que nosso trabalho está dando certo. Essa é a nossa luta, mostrar que somos capazes”.</p><p>A psicóloga e integrante do debate Sandra Chiabi também tem essa linha de raciocínio. Ela afirma que é importante trazer esses eventos ao campus para gerar uma reflexão. “Precisamos trazer o sujeito para a sociedade e fazer com que ele crie laços”. Sandra reitera que essas questões não precisam ser apenas discutidas dentro da faculdade, afinal a intenção é conscientizar a todos desse movimento.</p><p>Essa luta é comum a todos os usuários de saúde mental. Adilson Tiamo aprendeu a escrever sambas e cantar. Mesmo com todos os problemas em sua família, ele reforça que a música é indispensável em sua vida e que é necessário sempre extrair o bem de todo acontecimento ruim. “Levo minha vida cantando. Quando você está bem, a família precisa de você. Quando está mal, eles te descartam. A gente tem que ver o lado bom das coisas, afinal no lixo também nascem flores”.</p><h4><strong>Lizandra Rios, 5º período e</strong><strong>Gabriel Henrique, 2º período.</strong></h4></main>"
+  },
+  "date": "2017-05-11T14:52:33",
+  "date_gmt": "2017-05-11T17:52:33",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O curso de psicologia realizou, nesta última quarta feira, o XIII evento da Luta Antimanicomial, promovendo um dia inteiro de atividades em prol da causa &nbsp; O campus Barra da Universidade Veiga de Almeida promoveu, nesta quarta-feira, o XIII evento da Luta Antimanicomial. O objetivo é desconstruir o termo “manicômio” por meio de palestras, debates, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=623"
+  },
+  "id": 623,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-a3",
+  "link": "https://agenciauvabarra.com/2017/05/11/flores-descartadas-pela-sociedade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T17:01:35",
+  "modified_gmt": "2019-02-28T20:01:35",
+  "ping_status": "open",
+  "slug": "flores-descartadas-pela-sociedade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Flores descartadas pela sociedade"
+  },
+  "type": "post"
+}

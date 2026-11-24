@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6877/revisions/6888",
+        "id": 6888
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6877"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6877",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6877/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6877"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6884"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6877",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6877",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    4753134,
+    7114
+  ],
+  "class_list": [
+    "post-6877",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-quarentena",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Profissionais da área de saúde se adaptam para poder atender durante a pandemia</em></p><p>Devido ao constante aumento no número de casos do coronavírus, médicos e dentistas foram orientados por órgãos como a Sociedade brasileira de Infectologia, Ministério da Saúde, Agência Nacional de Vigilância Sanitária (ANVISA) e Organização Mundial da Saúde (OMS) a adotarem medidas de prevenção para o atendimento nesse momento de crise.</p><p>As mudanças são sentidas assim que os pacientes chegam aos consultórios e se deparam com salas de espera vazias, já que o atendimento está sendo limitado, álcool em gel nos balcões e recepcionistas usando máscaras. Quando encontram o profissional, além do clássico jaleco, este também está de máscara, protetor facial, toucas e luvas descartáveis.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-16-at-19.51.54-1.jpeg?resize=1086%2C720&amp;ssl=1\" alt=\"\" width=\"1086\" height=\"720\" /><figcaption>Entre as consultas, Dra. Eni higieniza todas as superfícies de contato para evitar a contaminação – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-16-at-19.51.54-2-1.jpeg?resize=1280%2C911&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"911\" /><figcaption>Alguns dos acompanhamentos que a Dra. Luz realiza através de celular são para indicação do uso correto de elásticos e acompanhamento de colocação das placas alinhadoras em aparelhos ortodônticos – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-16-at-19.51.54-3.jpeg?resize=1020%2C720&amp;ssl=1\" alt=\"\" width=\"1020\" height=\"720\" /><figcaption>Em sua última ida a um consultório, Vinicius acompanhou seu irmão para cirurgia de remoção de ciso – Foto: Arquivo Pessoal</figcaption></figure><p>Apesar de todos os cuidados adotados, a prioridade é evitar que o paciente saia de sua casa. Para isso, os profissionais estão adotando as redes sociais para promover um auxilio a distancia, tornando possível que, em alguns casos, o médico possa realizar um diagnóstico e oferecer um apoio.  </p><p>A dermatologista Eni Rozo não é adepta, mas já realizou algumas consultas por telefone com o intuito de, apenas, dar alguma orientação aos pacientes antigos ou para ver exames. “O atendimento de um paciente por celular é muito perigoso, não só pela péssima qualidade das fotos enviadas, como pelas poucas explicações das pessoas, o que impacta totalmente no diagnóstico”, explica.  Ela afirma que já foi iniciado um movimento de telemedicina como uma alternativa para atender os pacientes do plano Unimed, mas devido a falhas e limitações na plataforma, preferiu não aderir.</p><p>Ouça o que a médica fala sobre a telemedicina: </p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F823005529%3Fsecret_token%3Ds-ppb6n5BFCJV&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Áudio Eni (online – Audio – Converter.com)\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>A doutora considera essencial à ida ao consultório em qualquer circunstância, seja para a primeira consulta ou não. Acredita ser fundamental examinar o paciente, já que manchas, pintas, caroços, coceiras e outras lesões podem ter diagnósticos diferentes, dependendo de vários aspectos, como forma, textura, tamanho, quantidade, etc.</p><p>O estudante Vinicius Palmares comenta que ver o consultório do dentista vazio, em sua ultima consulta, durante a quarentena, foi uma experiência estranha. Ao mesmo tempo, afirma ter se sentido mais seguro, já que com menos pessoas as chances de contaminação são menores. “Mesmo assim, o medo não desapareceu. O consultório é, por natureza, um ambiente fechado. Mesmo com todas as medidas tomadas de forma correta, a chance de contrair o vírus ainda existe”, explica.</p><p>Para Vinicius, mesmo que o medo não desapareça por completo, todos esses cuidados, já são suficientes para ter uma consulta “normal”. “Com certeza as medidas contribuem para o controle da doença. Sabe-se que o vírus é extremamente contagioso e todo cuidado é pouco e, nesse caso, é melhor prevenir do que remediar”.</p><p>  A ortodentista Luz Mery, também está adotando todas as medidas de segurança em seu consultório. Atende apenas emergências, com intervalos de três horas. Os critérios para justificar uma consulta presencial são dores e incômodos no dente ou no sistema buco-facial. A dentista conta que realiza alguns diagnósticos através do uso de fotos e vídeos, mas que o mesmo deve ser confirmado presencialmente e, através de exames, quando for o caso. “Pequenas questões como gengivites e orientações na manutenção do aparelho dentário são possíveis de serem realizadas através de celular”, afirma.</p><p><strong>Érik Sequeira – 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-27T16:21:56",
+  "date_gmt": "2020-05-27T19:21:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Profissionais da área de saúde se adaptam para poder atender durante a pandemia Devido ao constante aumento no número de casos do coronavírus, médicos e dentistas foram orientados por órgãos como a Sociedade brasileira de Infectologia, Ministério da Saúde, Agência Nacional de Vigilância Sanitária (ANVISA) e Organização Mundial da Saúde (OMS) a adotarem medidas de [&hellip;]</p>\n"
+  },
+  "featured_media": 6884,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6877"
+  },
+  "id": 6877,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-16-at-19.51.54-2-1.jpeg?fit=1280%2C911&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1MV",
+  "link": "https://agenciauvabarra.com/2020/05/27/prevencao-nos-consultorios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-27T16:21:56",
+  "modified_gmt": "2020-05-27T19:21:56",
+  "ping_status": "open",
+  "slug": "prevencao-nos-consultorios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Prevenção nos consultórios"
+  },
+  "type": "post"
+}

@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2727/revisions/3009",
+        "id": 3009
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2727"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2727",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2727/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2727"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2739"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2727",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2727",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366
+  ],
+  "class_list": [
+    "post-2727",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "tag-58o-feira-da-providencia",
+    "tag-agencia-uva-barra",
+    "tag-barra-da-tijuca",
+    "tag-diversidade-cultural",
+    "tag-evento-cultural",
+    "tag-florescer-pequenos-jardins",
+    "tag-riocentro",
+    "tag-tece-brasil-tecelagem-manual-de-minas-gerais",
+    "tag-terrarios"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Exposição traz a diversidade cultural em sua 58º edição</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/img_20181201_170350349_hdr.jpg?resize=4160%2C3120&#038;ssl=1' alt='Artesanato peruano na 58º Feira da Providência' width='4160' height='3120' /><figcaption>Artesanato peruano na 58º Feira da Providência – Foto: Junior Almeida</figcaption></figure><p>Bordados, bijuterias, tapetes e esculturas são apenas uma pequena demonstração da variedade de produtos encontrados no artesanato da 58º Feira da Providência, no Riocentro. O evento propõe uma viagem cultural por 20 países e 10 estados por meio de apresentações, pratos típicos e mercadorias das mais diversas regiões.</p><p>O espaço denominado “Artesanato do Brasil e do Mundo” é dividido em dois setores: o nacional – com produtos de Tocantins, Ceará, Minas Gerais, Rio grande do Sul, entre outros – e o internacional que este ano traz a novidade dos perfumes importados, além das pashiminas da Índia, doces de Portugal, matrioskas da Rússia, toalhas do Paquistão e esculturas e cestarias da Indonésia.</p><p>Estreando como expositora, Lívia Cabral responsável pela marca “Florescer Pequenos Jardins” acredita que o tradicional evento carioca é uma porta de abertura para divulgar o trabalho desenvolvido com terrários e pequenos jardins. “A Feira da Providência já faz parte da história da cidade e aqui posso mostrar que é possível fazer a natureza florescer em qualquer espaço”, comenta.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/img_20181201_171127803_hdr.jpg?resize=4160%2C3120&#038;ssl=1' alt='Terrários produzidos pela “Florescer Pequenos Jardins”' width='4160' height='3120' /><figcaption>Terrários produzidos pela “Florescer Pequenos Jardins” – Foto: Junior Almeida</figcaption></figure><p>Há também os que expõe na feira há algum tempo, como é o caso do Evaristo Moraes, proprietário da “Tece Brasil – Tecelagem Manual de Minas Gerais”, que é expositor há 14 anos e diz que frequenta a Feira da Providência desde a época em que a exposição ocupava os cinco pavilhões. “Aqui tenho clientes de muitos anos e que já conhecem o trabalho manual produzido pela minha família há três gerações. Um vai falando para o outro a cada edição”, conta.</p><p>A demonstração da cultura de outros lugares chamou a atenção da administradora Renata Pierce, que visitou pela primeira vez a feira e se interessou pelo artesanato e prataria de outros países. “São produtos manufaturados, mas que não parecem ser, principalmente as peças de vidro que são trabalhados manualmente”. O evento encerrou no domingo, dia 02.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/img_20181201_172344756_hdr.jpg?resize=4160%2C3120&#038;ssl=1' alt='Produtos produzidos manualmente, fio a fio, pela “Tece Brasil – Tecelagem Manual de Minas Gerais”' width='4160' height='3120' /><figcaption>Produtos produzidos manualmente, fio a fio, pela “Tece Brasil – Tecelagem Manual de Minas Gerais” – Foto: Junior Almeida</figcaption></figure><p>Graziela Andrade – 5º período</p></main>"
+  },
+  "date": "2018-12-03T14:14:00",
+  "date_gmt": "2018-12-03T16:14:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Exposição traz a diversidade cultural em sua 58º edição Bordados, bijuterias, tapetes e esculturas são apenas uma pequena demonstração da variedade de produtos encontrados no artesanato da 58º Feira da Providência, no Riocentro. O evento propõe uma viagem cultural por 20 países e 10 estados por meio de apresentações, pratos típicos e mercadorias das mais [&hellip;]</p>\n"
+  },
+  "featured_media": 2739,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2727"
+  },
+  "id": 2727,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/img_20181201_170350349_hdr.jpg?fit=4160%2C3120&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-HZ",
+  "link": "https://agenciauvabarra.com/2018/12/03/feira-da-providencia-apresenta-o-artesanato-brasileiro-e-mundial/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:05:22",
+  "modified_gmt": "2019-01-31T13:05:22",
+  "ping_status": "open",
+  "slug": "feira-da-providencia-apresenta-o-artesanato-brasileiro-e-mundial",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    655458320,
+    648221465,
+    1129725,
+    1557319,
+    4761928,
+    655634145,
+    10031061,
+    655634163,
+    13517598
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Feira da Providência apresenta o artesanato brasileiro e mundial"
+  },
+  "type": "post"
+}

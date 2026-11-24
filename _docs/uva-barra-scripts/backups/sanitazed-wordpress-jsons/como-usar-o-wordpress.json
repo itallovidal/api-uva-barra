@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3453/revisions/3470",
+        "id": 3470
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3453"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3453",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3453/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3453"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3453",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3453",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-3453",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-jornalismo",
+    "tag-publicidade",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Workshop oferecido aos alunos de publicidade e jornalismo traz novas oportunidades para o currículo</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/fb_img_1553961409684.jpg?fit=720%2C543&amp;ssl=1\" alt=\"\" width=\"720\" height=\"543\"><figcaption>Estagiários dos laboratórios de comunicação com o designer digital Maurício Pacheco – Foto: Leonardo Amato</figcaption></figure><p>A Agência ONZE promoveu workshop para estagiários dos laboratórios de comunicação do campus UVA Barra. O projeto foi dividido em dois dias de aula, 26 e 28 de março, e teve como objetivo ensinar as ferramentas do WordPress, desde como escolher um domínio para o site até a parte técnica. Uma atividade extraclasse que visou aumentar o nível profissional dos alunos da Universidade Veiga de Almeida.</p><p>O curso foi ministrado pelo designer digital Maurício Pacheco, que ressaltou a importância de buscar conhecimento fora sala de aula para os futuros profissionais que desejam um trabalho independente. “No curso de comunicação tem muito free lancer, por isso saber mexer com o wordpress pode ser um diferencial para esse profissional”, diz. A criação de sites e blogs é algo pedido constantemente por empresas e marcas.</p><div><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/p_20190328_133905.jpg?fit=1024%2C768&amp;ssl=1\" alt=\"\" width=\"575\" height=\"430\"><figcaption><br>O designer Maurício Pacheco explica aos alunos as diferentes formas de utilizar a plataforma wordpress – Foto: Ana Beatriz Bernardo</figcaption></figure></div><p>Segundo o coordenador da Agência ONZE, Leonardo Amato, o mercado exige profissionais mais completos. “Capacitar os alunos com conhecimentos nesta ferramenta vai torná-los mais preparados para processos seletivos e oportunidades de trabalho”, explica. O professor ainda acrescenta que tudo será utilizado diretamente pelos estagiários. “Na Agência ONZE, produzindo sites para clientes, e na Agência de Notícias, poderão tornar o portal mais dinâmico e atraente”, expõe.</p><p>Gerar experiências dentro da própria faculdade é uma das preocupações da Universidade Veiga de Almeida. Para a estagiária de publicidade, Raquel Sampaio, esse tipo de oportunidade os coloca mais próximo ao mercado de trabalho. “Nós estamos recebendo demandas de sites, aprender a mexer com wordpress ajuda a atendermos os nossos clientes e atrair novos”, conta. A aluna reforça que esse conhecimento é um diferencial para o currículo.</p><p><strong>Ana Beatriz Bernardo – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-03-30T13:12:08",
+  "date_gmt": "2019-03-30T16:12:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Workshop oferecido aos alunos de publicidade e jornalismo traz novas oportunidades para o currículo A Agência ONZE promoveu workshop para estagiários dos laboratórios de comunicação do campus UVA Barra. O projeto foi dividido em dois dias de aula, 26 e 28 de março, e teve como objetivo ensinar as ferramentas do WordPress, desde como escolher [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3453"
+  },
+  "id": 3453,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-TH",
+  "link": "https://agenciauvabarra.com/2019/03/30/como-usar-o-wordpress/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-03-30T15:37:58",
+  "modified_gmt": "2019-03-30T18:37:58",
+  "ping_status": "open",
+  "slug": "como-usar-o-wordpress",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056611,
+    767056618,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Como usar o WordPress"
+  },
+  "type": "post"
+}

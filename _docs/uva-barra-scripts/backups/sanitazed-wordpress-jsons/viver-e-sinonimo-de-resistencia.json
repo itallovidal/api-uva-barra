@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2462/revisions/3039",
+        "id": 3039
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2462"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2462",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2462/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2462"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2463"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2462",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2462",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2432
+  ],
+  "class_list": [
+    "post-2462",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-gisberta",
+    "tag-luis-lobianco",
+    "tag-teatro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Gisberta</em> <em>se apresenta no Rio de Janeiro e traz reflexão e diálogo ao palco do Teatro das Artes</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/97778460-7899-4ce5-ada5-3166fea6f889-1-e1539524753933.jpeg?resize=2909%2C2065&#038;ssl=1' alt='97778460-7899-4CE5-ADA5-3166FEA6F889 (1)' width='2909' height='2065' /><figcaption>Ator e músicos fazem agradecimento ao terminar o espetáculo – Foto: Amanda Almeida</figcaption></figure><p>Ao nascer, culturalmente, uma criança é identificada pelo gênero homem ou mulher e não tem nenhum direito de escolha. A sociedade reproduz esse discurso e espera que o padrão seja seguido durante toda a vida. Mas a arte vem para levantar discussões. A peça \"Gisberta\" trata da transfobia e apresenta a história da personagem de mesmo nome, uma mulher transexual brasileira assassinada de forma brutal em Porto, Portugal, no ano de 2006, por onde morou grande parte da vida. O espetáculo já esteve em cartaz no Rio de Janeiro em 2017 e volta à cidade para mais três apresentações nos dias 12, 13 e 14 de outubro, na Cidade das Artes, Barra da Tijuca.</p><p>Os dados são alarmantes. Pesquisa de 2017 mostra que a cada 20 horas um LGBT morre de forma violenta por conta do preconceito no Brasil, o país que mais mata transexuais no mundo, de acordo com os dados do Grupo Gay da Bahia. Luis Lobianco, que dá vida a Gisberta, acredita que o teatro serve como um mecanismo para gerar a reflexão e o senso crítico nas pessoas. \"Através dessa história estamos falando sobre temas polêmicos. O teatro é sempre uma fonte para o sensível e também pode ser para informação para a transformação da sociedade\", conta o ator.</p><p>A peça faz uso do humor, política, história, música e poesia nos 90 minutos de apresentação. \"As pessoas riem, cantam e muitas pessoas choram, se emocionam. Principalmente quando a gente tem o público LGBT que já passou por uma situação parecida ou tem algum amigo que passou\", relata Claudia Marques, diretora de produção, que acompanha o projeto desde o início. Ela acredita que a história não deva ser contata apenas com os momentos tristes, pois Gisberta foi uma mulher divertida, feliz e amada por muitos.</p><p>O respeito às diversidades é o tema que predomina. A publicitária Marcela Briiones esteve na estreia e disse estar surpresa com a energia que sentiu, e reforça que o respeito deva existir independentemente da decisão que o outro tem sobre a própria vida. \"Não é porque você não concorda, não aceita, que você tem o direito de machucar a outra pessoa, em todos os sentidos. Amor e respeito, mais que tudo\", afirma. Depois do Rio de Janeiro, as cidades Lisboa e Porto, em Portugal, vão receber no final do ano o monólogo Gisberta.</p><p><strong>Amanda Almeida – 4º período</strong></p></main>"
+  },
+  "date": "2018-10-14T10:45:40",
+  "date_gmt": "2018-10-14T13:45:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Gisberta se apresenta no Rio de Janeiro e traz reflexão e diálogo ao palco do Teatro das Artes Ao nascer, culturalmente, uma criança é identificada pelo gênero homem ou mulher e não tem nenhum direito de escolha. A sociedade reproduz esse discurso e espera que o padrão seja seguido durante toda a vida. Mas a [&hellip;]</p>\n"
+  },
+  "featured_media": 2463,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2462"
+  },
+  "id": 2462,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/97778460-7899-4ce5-ada5-3166fea6f889-1-e1539524753933.jpeg?fit=2909%2C2065&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-DI",
+  "link": "https://agenciauvabarra.com/2018/10/14/viver-e-sinonimo-de-resistencia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:53:20",
+  "modified_gmt": "2019-01-31T13:53:20",
+  "ping_status": "open",
+  "slug": "viver-e-sinonimo-de-resistencia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    5444547,
+    24162223,
+    767056600
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Viver é sinônimo de resistência"
+  },
+  "type": "post"
+}

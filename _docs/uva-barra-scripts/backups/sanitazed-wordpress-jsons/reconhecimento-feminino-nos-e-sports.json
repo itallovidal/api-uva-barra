@@ -1,0 +1,164 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2055/revisions/3095",
+        "id": 3095
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2055"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2055",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2055/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2055"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2054"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2055",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2055",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366,
+    257,
+    758
+  ],
+  "class_list": [
+    "post-2055",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "category-geek",
+    "category-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Team Fontt vence primeiro campeonato feminino de Rainbow Six e revela como as mulheres têm tudo para dominar o universo dos esportes eletrônicos</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/final.jpg?resize=3872%2C2592&#038;ssl=1' alt='SONY DSC' width='3872' height='2592' /><figcaption>Final feminina no Rainbow Six. Foto: Bárbara Faria</figcaption></figure><p>A história de que videogame é coisa de menino ficou no passado. O jogo Rainbow Six Siege vem crescendo no cenário competitivo e dando oportunidades para as garotas. Por isso, surgem cada vez mais iniciativas para incentivar equipes femininas. Elas estão se unindo e conquistando o espaço dos esportes eletrônicos. Na noite de domingo do Geek&amp;Game Rio Festival, foi realizada a grande Final do Circuito Feminino de Rainbow Six Siege.</p><p>Após enfrentar etapas online da competição, as meninas participaram da final presencial no Game Stadium. Dentre as quatro equipes finalistas, apenas duas passaram das semifinais. A disputa foi entre RevoltZ e Team Fontt. Mesmo com o nervosismo evidente, elas conseguiram se destacar no jogo e ganhar aplausos da platéia.</p><p>A dedicação faz parte do equilíbrio do time. A jogadora do Team Fontt, Maria Lombardi, mais conhecida como Russa, contou que as garotas são muito unidas e que pretendem conquistar mais espaço. “Temos uma expectativa muito grande e, com certeza, queremos chegar numa pro-league. Nós temos capacidade e isso aqui é só o começo de tudo”, relata.</p><p>O apoio entre as mulheres é importante. A youtuber e contratada da Revoltz como streaming, Lorraine Moraes, 28 anos, relatou que ainda não jogou RainbowSix, mas que estava ali para apoiar a equipe. “É um reconhecimento para o time feminino porque ainda há muito preconceito. É uma maneira de mostrar nosso potencial como jogadoras”, conta.</p><p>As equipes cativaram o público masculino com o desempenho no jogo. Felipe Flor, 25 anos, joga Rainbow Six casualmente e resolveu assistir à final. Ele relatou que as competidoras jogam muito bem. “Isso atrai o público feminino para os jogos e ajuda a ampliar o cenário. Elas jogam melhor do que eu”, afirma. </p><p>A iniciativa pode trazer oportunidades de participar de outros eventos presenciais. Para as jogadoras, esse avanço aumentará a confiança delas e ajudará o cenário a crescer. Não é uma maneira de segregar, mas de incentivar as mulheres a mostrar que elas são capazes de jogar tão bem. As duas equipes demonstraram isso com muita habilidade, mas Team Fontt vence de 2 a 0 o Circuito Feminino de Rainbow Six.</p><p>Bárbara Faria, 6º período.</p></main>"
+  },
+  "date": "2018-07-23T17:54:28",
+  "date_gmt": "2018-07-23T20:54:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Team Fontt vence primeiro campeonato feminino de Rainbow Six e revela como as mulheres têm tudo para dominar o universo dos esportes eletrônicos A história de que videogame é coisa de menino ficou no passado. O jogo Rainbow Six Siege vem crescendo no cenário competitivo e dando oportunidades para as garotas. Por isso, surgem cada [&hellip;]</p>\n"
+  },
+  "featured_media": 2054,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2055"
+  },
+  "id": 2055,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/final.jpg?fit=3872%2C2592&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-x9",
+  "link": "https://agenciauvabarra.com/2018/07/23/reconhecimento-feminino-nos-e-sports/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:35:09",
+  "modified_gmt": "2019-01-31T14:35:09",
+  "ping_status": "open",
+  "slug": "reconhecimento-feminino-nos-e-sports",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Reconhecimento feminino nos e-sports"
+  },
+  "type": "post"
+}

@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1766/revisions/3121",
+        "id": 3121
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1766"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1766",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1766/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1766"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1766",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1766",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    3719
+  ],
+  "class_list": [
+    "post-1766",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Três amigas escritoras se reúnem para expor os livros e dar voz as próprias obras</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/whatsapp-image-2018-03-08-at-16-08-03.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-03-08 at 16.08.03' width='1280' height='960' /><figcaption>Foto: Karina Figueiredo</figcaption></figure><p>Mulheres escritoras ganham espaço no mercado literário. Em comemoração ao Dia Internacional da Mulher a Universidade Veiga de Almeida (UVA), Campus Barra da Tijuca, promove, nesta última quinta-feira (08/03), um diálogo com as convidadas Adriana Igrejas, Renata Thomaz e Marianna Roman. A palestra, aberta para os alunos de Jornalismo e Publicidade, tem o objetivo de motivar o público a consumir livros nacionais e influenciar novos escritores que desejam atuar no ramo da literatura.</p><p>E quem entrou bem cedo nessa área foi a autora Marianna Roman. A mediadora do evento escreveu o primeiro livro aos 17 anos, com mais de 400 páginas. Ao completar a maior idade ganhou a publicação da obra como presente de aniversário. “Eu sofria bullying na escola e encontrei na literatura uma forma de me expressar”, revela a estudante de Publicidade. Ela também esteve na Bienal em 2017, onde apresentou o livro erótico “Êxtase”. “Temos um cenário de preconceito com as mulheres muito forte na sociedade”, declara a universitária.</p><p>Diante desse contexto alarmante autoras femininas lutam pela representatividade. “Quero ser o Tarantino na versão mulher”, conclui Marianna, que defende a importância da literatura como fonte de informação e entretenimento. Para a blogueira Renata Thomaz a rede social interfere nas escolhas do escritor. “Vou transformar minha Fanfic, utilizada no Twitter, em livro”. Assim, ela teve o apoio da escritora Adriana Igreja, que ressalta a importância da quebra de padrões para o surgimento de novas ideias, sem ferir a qualidade da escrita e o respeito aos envolvidos.</p><p>A aceitação das mulheres nesse meio é um exemplo para que as barreiras sejam quebradas. A professora Adriana reconhece o destaque do público feminino no ramo literário. “Hoje não temos medo de dar a nossa própria assinatura”, destaca a orientadora, ao lembrar de uma fase no passado, em que as mulheres só podiam utilizar pseudônimos masculinos. Ela se sente confiante com o novo ponto de vista, que aponta para a exposição da diversidade de gênero e a crescente demanda no setor infanto-juvenil. “As protagonistas da nossa realidade são variadas”, afirma a autora do livro Babá Gótica, que apresenta uma heroína com defeitos.</p><p>Essa versão de personagem chama a atenção dos leitores. Entre eles a estudante Fernanda Lacerda, do 6º período de Jornalismo. “ É diferente mostrar a mulher que é protagonista ganhando outros rumos na história”. Quem também concorda com essa opinião é a aluna Ana Paula. “O envolvimento dos alunos mostra o interesse pela leitura e dá espaço para quem pretende escrever um livro”. Essa troca de informações, que reuniu homens e mulheres no auditório, deve ocorrer em outros momentos para estimular a literatura na vida dos universitários.</p><p><strong>Karina de Figueiredo Lino, 4º período.</strong></p></main>"
+  },
+  "date": "2018-03-09T16:15:27",
+  "date_gmt": "2018-03-09T19:15:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Três amigas escritoras se reúnem para expor os livros e dar voz as próprias obras</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1766"
+  },
+  "id": 1766,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-su",
+  "link": "https://agenciauvabarra.com/2018/03/09/agora-e-a-vez-delas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:55:20",
+  "modified_gmt": "2019-01-31T14:55:20",
+  "ping_status": "open",
+  "slug": "agora-e-a-vez-delas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Agora é a vez delas"
+  },
+  "type": "post"
+}

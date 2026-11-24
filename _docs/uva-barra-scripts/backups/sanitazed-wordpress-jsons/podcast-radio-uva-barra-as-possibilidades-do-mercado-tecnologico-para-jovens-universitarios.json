@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13336/revisions/13347",
+        "id": 13347
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13336"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13336",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13336/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13336"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13341"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13336",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13336",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    22,
+    74499,
+    701438832,
+    758
+  ],
+  "class_list": [
+    "post-13336",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-internet",
+    "category-mercado-de-trabalho",
+    "category-radio-uva-barra",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-jovens",
+    "tag-mercado",
+    "tag-possibilidades",
+    "tag-radiouvabarra",
+    "tag-tecnologia",
+    "tag-universitarios",
+    "tag-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O setor tecnológico é o que mais cresce no Brasil no ano de 2022 e tem estimativa de alta de 8,2% se comparado ao ano de 2021.</p><p>Com isso, novas oportunidades e opções de trabalho são abertas constantemente para jovens universitários que querem ingressar nesse mercado ou até criar o seu próprio negócio.</p><p>Os alunos Mateus Vandesteen e Matheus Maia foram ao evento HackTudo, o maior festival de cultura digital no Brasil e entrevistaram o Renan Moreira, Co-fundador e CEO do Data Bootcamp e o André Simões, fundador do aplicativo Passei Direto.</p><p><em>Mateus Vandesteen – 6° Período</em><br><em>Matheus Maia – 7° Período</em></p><figure><iframe title=\"Spotify Embed: As possibilidades do mercado tecnológico para jovens universitários \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/5B05fmUwF8GK7zInMLIzXr?utm_source=oembed\"></iframe></figure></main>"
+  },
+  "date": "2022-10-28T18:52:50",
+  "date_gmt": "2022-10-28T21:52:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O setor tecnológico é o que mais cresce no Brasil no ano de 2022 e tem estimativa de alta de 8,2% se comparado ao ano de 2021.<br />\nCom isso, novas oportunidades e opções de trabalho são abertas constantemente para jovens universitários que querem ingressar nesse mercado ou até criar o seu próprio negócio.</p>\n"
+  },
+  "featured_media": 13341,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13336"
+  },
+  "id": 13336,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/foto-podcast-hacktudo.jpeg?fit=1033%2C707&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3t6",
+  "link": "https://agenciauvabarra.com/2022/10/28/podcast-radio-uva-barra-as-possibilidades-do-mercado-tecnologico-para-jovens-universitarios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": true,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-28T19:53:51",
+  "modified_gmt": "2022-10-28T22:53:51",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-as-possibilidades-do-mercado-tecnologico-para-jovens-universitarios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    304840,
+    85628,
+    1176382,
+    756676105,
+    767056593,
+    171334,
+    17523
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: As possibilidades do mercado tecnológico para jovens universitários"
+  },
+  "type": "post"
+}

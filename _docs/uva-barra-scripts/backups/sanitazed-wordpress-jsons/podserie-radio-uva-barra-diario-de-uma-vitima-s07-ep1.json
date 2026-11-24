@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8748/revisions/8754",
+        "id": 8754
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8748"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8748",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8748/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8748"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8751"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8748",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8748",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8748",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podcast",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F941320393&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Player do SoundCloud' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>A podserie \"Diário de uma vítima\" é a sétima história a fazer parte da temporada 2021 de podcasts ficcionais da Rádio UVA Barra. A série é protagonizada por Valentina, uma mulher que escreveu um livro bestseller sobre histórias de abuso que sofreu ao longo da vida.</p><p>No primeiro episódio, Valentina é convidada a participar de um talk show para falar do livro. O ouvinte vai conhecer um pouco da vida da autora e como o assédio teve início.</p><p>Acompanhe essa história ao longo da semana.</p><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2021-03-01T16:32:28",
+  "date_gmt": "2021-03-01T19:32:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O diário de uma vítima · EP 1 O diário de uma vítima- Querido Diário A podserie “Diário de uma vítima” é a sétima história a fazer parte da temporada 2021 de podcasts ficcionais da Rádio UVA Barra. A série é protagonizada por Valentina, uma mulher que escreveu um livro bestseller sobre histórias de abuso [&hellip;]</p>\n"
+  },
+  "featured_media": 8751,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=8748"
+  },
+  "id": 8748,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/podserie.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2h6",
+  "link": "https://agenciauvabarra.com/2021/03/01/podserie-radio-uva-barra-diario-de-uma-vitima-s07-ep1/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-03-01T16:39:23",
+  "modified_gmt": "2021-03-01T19:39:23",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-diario-de-uma-vitima-s07-ep1",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142,
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra – Diário de uma vítima – S07 EP1"
+  },
+  "type": "post"
+}

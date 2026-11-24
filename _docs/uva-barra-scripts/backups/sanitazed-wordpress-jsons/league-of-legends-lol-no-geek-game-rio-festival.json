@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/397/revisions/3153",
+        "id": 3153
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=397"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/397",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/397/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=397"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/404"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=397",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=397",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    257
+  ],
+  "class_list": [
+    "post-397",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-geek"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Intz vence partida de LoL com grande vantagem sobre Progaming</p><p>O mundo de League of Legends não pôde ficar de fora do espetáculo. No domingo, 23, terceiro e último dia do Geek & Game Rio Festival 2017, as equipes INTZ GENESIS e PROGAMING duelaram diante do público no Gamer Stadium. Direto do pavilhão 4, do Riocentro, os visitantes acompanhavam tudo o que acontecia a partir de um telão montado na arena, comemorando e fazendo o estádio vibrar a cada jogada.</p><p>Mais conhecido como \"LoL\", League of Legends foi lançando em outubro de 2009 sendo um jogo Multiplayer Online Battle-Arena (MOBA). Tendo como principal objetivo destruir o Nexus inimigo, ganhou destaque em 2012 – tornando-se, para computador, o mais jogado da América do Norte e Europa. Hoje, existem milhares de torneios regionais e mundiais. Por ser tão popular, algumas finais são em estádios de futebol.</p><p>No Brasil, desde seu lançamento em 2012, o maior campeonato nacional é a Confederação Brasileira de League of Legends (CBLoL), já realizada 5 vezes no país. Tornando-se jogadores profissionais, os participantes saem de um estado para outro competindo para ganhar títulos ou até mesmo tentando conseguir uma vaga para o campeonato internacional.</p><p>No Rio de Janeiro, o Geek e Games Rio Festival (GGRF) deu início à primeira partida do torneio por volta das 13 horas após as apresentações de cada equipe. A premiação, que estava prevista para às 19 horas, aconteceu duas horas mais cedo depois de a INTZ ganhar, com facilidade, a melhor de 5 por 3×0 na PROGAMING.</p><p>Campeão, Alvaro Miguel, 18, falou que no começo nunca pensou em se tornar profissional, mas chegou um momento em que colocou isto em mente. \"Nunca desista\", foi o recado que deixou para todos aqueles que sonham em se tornar profissionais um dia.</p><p>Com esse pensamento, Gabriel Ribeiro, 20, torcedor do PROGAMING, afirma pensar em ter um futuro profissional jogando LOL. Além de já ter participado de campeonatos, conta que sua inspiração vem da equipe Pain Gaming, bicampeã no CBLOL. \"Eventos assim são importantes para a cultura\", completa ele.</p><p>É o que diz também o Diretor de Negócios da Supernova, Rodrigo Bastos. \"Um evento como esse é bom para juntar a galera, e na verdade estava fazendo falta\", ressalta – fazendo referência à carência desse tipo de espetáculo na cidade maravilhosa. Ele ainda conta que muitos jovens saem com outra visão após esses jogos. \"Aqui os amantes de LoL tem a quem se espelhar\", afirma.</p><p>Uma das pessoas inspiradas pelos jogadores é o Victor Hugo, que, com apenas 13 anos, afirmou passar a maior parte do dia jogando \"LoL\". Além de dizer que o evento é uma diversão para as pessoas, Victor mostrou o quanto gostava do que via e afirmou que gostaria de estar no lugar dos outros jogadores e, quem sabe, poder realmente ser profissional no futuro.</p><p>League of Legends, além de ser um passatempo gratuito e disponível a qualquer hora, é um local de interação – onde as pessoas se conhecem e vivenciam uma nova realidade. A prática, persistência levam ao profissionalismo, que é o ponto em que todos os amantes de games querem chegar. Mas para isso é necessário lembrar de algo essencial: Jogo online não tem pause.</p><p>Nailson Ribeiro, 5º período</p></main>"
+  },
+  "date": "2017-04-24T16:24:59",
+  "date_gmt": "2017-04-24T19:24:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Intz vence partida de LoL com grande vantagem sobre Progaming.</p>\n"
+  },
+  "featured_media": 404,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=397"
+  },
+  "id": 397,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/04a59709-85fc-443a-afb4-887ef2b1a2f9.jpg?fit=1280%2C959&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-6p",
+  "link": "https://agenciauvabarra.com/2017/04/24/league-of-legends-lol-no-geek-game-rio-festival/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:26:57",
+  "modified_gmt": "2019-01-31T15:26:57",
+  "ping_status": "open",
+  "slug": "league-of-legends-lol-no-geek-game-rio-festival",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "League of Legends (LoL) no Geek &amp; Game; Game Rio Festival"
+  },
+  "type": "post"
+}

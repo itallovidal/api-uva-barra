@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15346/revisions/15350",
+        "id": 15350
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15346"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15346",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15346/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15346"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15349"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15346",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15346",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    14591
+  ],
+  "class_list": [
+    "post-15346",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-drogas",
+    "tag-ods",
+    "tag-trabalh",
+    "tag-webserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Bernardo Simões, Giulia Fagundes, Luisa Paes Leme, Hiram Fogaça, Arthur Cabral, Vitor Mazoli, Maria Luisa Borges e Marcelo Passini foram os responsáveis por produzir a websérie “O Caos que Habita em Nós”. Na trama, o jovem casal formado por Alice e Pedro vivem juntos em um bairro nobre da cidade do Rio de Janeiro, e realizam uso recreativo de entorpecentes, mas o consumo em excesso acaba trazendo alguns conflitos para a relação.</p><p>Alice descobre uma gravidez inesperada e tenta convencer o seu parceiro a largar de vez o mundo das drogas. O casal vai a uma festa com a promessa de que seria a última vez, mas uma overdose leva Alice ao óbito, antes mesmo de Pedro ficar sabendo que ela estava esperando um filho dele. Assista ao episódio completo!</p><figure><img src='https://www.youtube.com/embed/Dwy5UZgLww4?version=3%26rel=1%26showsearch=0%26showinfo=1%26iv_load_policy=1%26fs=1%26hl=pt-BR%26autohide=2%26wmode=transparent' alt='Vídeo incorporado' width='640' height='360'><figcaption>Produto produzido para a disciplina de Escrita Criativa e Storytelling, sob a supervisão do professor Anderson Barreto.</figcaption></figure></main>"
+  },
+  "date": "2023-07-14T17:49:30",
+  "date_gmt": "2023-07-14T20:49:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alice descobre uma gravidez inesperada e tenta convencer o seu parceiro a largar de vez o mundo das drogas. O casal vai a uma festa com a promessa de que seria a última vez, mas uma overdose leva Alice ao óbito, antes mesmo de Pedro ficar sabendo que ela estava esperando um filho dele.</p>\n"
+  },
+  "featured_media": 15349,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15346"
+  },
+  "id": 15346,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/whatsapp-image-2023-07-14-at-17.46.28.jpeg?fit=1366%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Zw",
+  "link": "https://agenciauvabarra.com/2023/07/14/o-caos-que-habita-em-nos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-14T17:50:19",
+  "modified_gmt": "2023-07-14T20:50:19",
+  "ping_status": "open",
+  "slug": "o-caos-que-habita-em-nos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    4018,
+    1182397,
+    5866967,
+    1438351
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Caos Que Habita Em Nós"
+  },
+  "type": "post"
+}

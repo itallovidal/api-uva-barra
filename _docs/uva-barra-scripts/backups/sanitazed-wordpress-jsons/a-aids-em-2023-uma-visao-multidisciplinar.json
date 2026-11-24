@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16386/revisions/16390",
+        "id": 16390
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16386"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16386",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16386/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16386"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16389"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16386",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16386",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-16386",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-documentario",
+    "tag-jornalismo",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Instituído pela Assembléia Mundial de Saúde, o Dia Mundial de Luta Contra a AIDS, 01/12, foi formalizado a partir de 1987, década marcada pela expansão do HIV, que naquela época atingiu 30 mil mortos pelo mundo todo.</p><p>A AIDS assombrou toda uma geração e estigmatizou os indivíduos que tiveram contato com o vírus. A sociedade não tinha informações sobre a doença, o que mergulhou a sociedade dos anos 80 e 90 numa espiral de medo e preconceito, onde a segregação era evidenciada dia após dia, enquanto a sentença de morte dada pela contaminação só aumentava.</p><p>O avanço da medicina ressignificou esse cenário e a geração Z, criada na era da informação, lida com a infecção de forma diferente da geração de seus pais e avós com a doença. Se por um lado a evolução dos meios de detecção e tratamento removeram a aura de morte eminente, por outro, justamente por esses avanços a geração atual parece minimizar os efeitos dos vetores de trasmissão, principalmente no que tange às relações sexuais desprotegidas, adotando uma postura permissiva e desatenta.</p><p>A Agência UVA Barra apresenta o minidocumentário “A AIDS em 2023: uma visão multidisciplinar”, onde profissionais da saúde analisam como a doença se apresenta nos dias de hoje, bem como a geração atual a encara. Confira:</p><figure><img src='https://www.youtube.com/embed/ZUO_MOAegls' alt='Vídeo do minidocumentário A AIDS em 2023' width='640' height='360' allowfullscreen='true'><figcaption>Vídeo do minidocumentário A AIDS em 2023</figcaption></figure><p><br><em>Vitor Luiz Leite — 2° Período</em></p></main>"
+  },
+  "date": "2023-12-01T18:20:32",
+  "date_gmt": "2023-12-01T21:20:32",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Instituído pela Assembléia Mundial de Saúde, o Dia Mundial de Luta Contra a AIDS, 01/12, foi formalizado a partir de 1987, década marcada pela expansão do HIV, que naquela época atingiu 30 mil mortos pelo mundo todo. A AIDS assombrou toda uma geração e estigmatizou os indivíduos que tiveram contato com o vírus. A sociedade [&hellip;]</p>\n"
+  },
+  "featured_media": 16389,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16386"
+  },
+  "id": 16386,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/12/captura-de-tela-40.png?fit=1366%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4gi",
+  "link": "https://agenciauvabarra.com/2023/12/01/a-aids-em-2023-uma-visao-multidisciplinar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-12-01T18:20:32",
+  "modified_gmt": "2023-12-01T21:20:32",
+  "ping_status": "open",
+  "slug": "a-aids-em-2023-uma-visao-multidisciplinar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    45958,
+    767056611,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A AIDS EM 2023: Uma Visão Multidisciplinar"
+  },
+  "type": "post"
+}

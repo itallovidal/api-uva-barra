@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1760/revisions/2938",
+        "id": 2938
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1760"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1760",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1760/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1760"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1760",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1760",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    2366
+  ],
+  "class_list": [
+    "post-1760",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-educacao",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Salão do Estudante incentiva intercâmbio para os brasileiros</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/whatsapp-image-2018-03-08-at-13-16-23.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-03-08 at 13.16.23' width='1280' height='960' /><figcaption>Foto: Ana Carolina Marinho</figcaption></figure><p>Um currículo bom não é mais o suficiente. A grande concorrência no mercado de trabalho tem feito pessoas de todo o Brasil buscarem alternativas para o alcance de um futuro melhor. Com isso, o Salão do Estudante, a maior feira de intercâmbio da América Latina, abre as portas, nesta terça-feira (06/03), no hotel Rio Othon Palace, no Rio de Janeiro. O evento, que se iniciou em 3 de março, em São Paulo, é direcionado para todos os interessados em um diploma ou uma experiência internacional.</p><p>A ideia de levar oportunidades de trabalho para essas regiões surgiu há 25 anos, no Rio de Janeiro. O objetivo é divulgar informações sobre grandes universidades e escolas de idiomas. Além disso, traz respostas para dúvidas frequentes sobre a vida fora do país. Com estimativa de 6 mil visitantes por dia, os cursos de graduação e pós-graduação são destaques entre os estandes.</p><figure class='alignleft'><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/whatsapp-image-2018-03-08-at-15-43-58.jpeg?resize=1117%2C1280&#038;ssl=1' alt='WhatsApp Image 2018-03-08 at 15.43.58' width='1117' height='1280' /><figcaption>Foto: Nayara Simões</figcaption></figure><p>A procura por essas qualificações trouxe ao aluno de direito Alan Trindade um grande interesse pela feira. “Quero fazer um mestrado de Direito Internacional focado em política fora do Brasil e que esteja dentro da minha condição financeira”. Quem também está em busca de especialização é a estudante de Relações Internacionais Roberta Vilete. “É muito bom chegar aqui e poder conversar com representantes de universidades de vários países e poder esclarecer algumas questões que eu tinha”.</p><p>Esses comitês participantes auxiliam interessados em novos destinos a encararem países estrangeiros. É o caso da intercambista Vera Rocha, representante da Escola Avalon, em Londres, presente na feira. “O motivo de estarmos aqui é passar tranquilidade para os futuros viajantes”. Para ela, cidades europeias são boas escolhas pela facilidade de acesso para outros países e pelo valor cultural.</p><p>Outros grupos também marcam presença no evento. Entre eles, a Universidade de Trás-os-Montes e Alto Douro, em Portugal, representada por Maria da Glória Fraga, que comenta sobre a vantagem dos brasileiros de irem para Vila Real. “O fato de a língua ser a mesma faz você se sentir em casa, além do custo de alimentação e estadia ser mais em conta do que no Brasil”. A portuguesa destaca que está encantada com a feira e pretende vir mais vezes para representar o país. O evento vai até o dia 19 de março e irá passar por outras capitais brasileiras com o intuito de entusiasmar outros jovens.</p><p><strong>Ana Carolina Marinho 5° período e Nayara Simões 4° período</strong></p></main>"
+  },
+  "date": "2018-03-08T15:42:27",
+  "date_gmt": "2018-03-08T18:42:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Salão do Estudante incentiva intercâmbio para os brasileiros</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1760"
+  },
+  "id": 1760,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-so",
+  "link": "https://agenciauvabarra.com/2018/03/08/oportunidades-pelo-exterior/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T15:29:14",
+  "modified_gmt": "2019-01-26T17:29:14",
+  "ping_status": "open",
+  "slug": "oportunidades-pelo-exterior",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Oportunidades pelo exterior"
+  },
+  "type": "post"
+}

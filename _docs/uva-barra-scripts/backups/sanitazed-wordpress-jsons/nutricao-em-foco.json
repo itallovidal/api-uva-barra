@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/909/revisions/3325",
+        "id": 3325
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=909"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/909",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/909/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=909"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=909",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=909",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-909",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Evento que reúne palestras e exposições de alunos e profissionais da área acontece na UVA da Barra na próxima quarta</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/fruit-basket-1114060_1920.jpg?resize=1920%2C1271&amp;ssl=1\" alt=\"fruit-basket-1114060_1920\" width=\"1920\" height=\"1271\" /><figcaption></figcaption></figure><p>O curso de Nutrição da Universidade Veiga de Almeida (UVA) finaliza seu primeiro semestre no campus Barra da Tijuca com um grande evento na próxima quarta, dia 14. A \"1° Jornada Acadêmica de Nutrição e Biomedicina\" e o \"1° Ciclo de Palestras do CANUT (Centro Acadêmico de Nutrição)\" chegam para mesclar a experiência de alunos e profissionais da área.<br>\nAo todo serão quatro palestras e duas exposições de trabalho dos estudantes, com abertura marcada para as 8 horas e término previsto para as 13 horas. Para Betina Schmidt, professora do curso e organizadora do evento, é uma chance de integração entre estudantes e profissionais da área. \"Possibilita aos alunos de primeiro período a identificação com a profissão e com colegas veteranos\". Além disso, trará informações de estágio, iniciação científica e mercado de trabalho.<br>\nAlém da importância acadêmica, um evento desse porte ajuda a trazer mais informações sobre Nutrição. O profissional da área pode garantir qualidade nutricional e segurança alimentar para indivíduos ou para o coletivo, gerando, assim, qualidade de vida. Para Carlos Neves, coordenador do curso, a juventude está muito engajada com o tema. \"Só que a nutrição é um pouco mais do que eles pensam que é, então o papel do nutricionista e da questão da educação nutricional é fundamental para essa geração\".</p><p><strong>Lucas Motta, 4º período</strong></p></main>"
+  },
+  "date": "2017-06-13T15:32:21",
+  "date_gmt": "2017-06-13T18:32:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento que reúne palestras e exposições de alunos e profissionais da área acontece na UVA da Barra na próxima quarta O curso de Nutrição da Universidade Veiga de Almeida (UVA) finaliza seu primeiro semestre no campus Barra da Tijuca com um grande evento na próxima quarta, dia 14. &nbsp;A “1° Jornada Acadêmica de Nutrição e [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=909"
+  },
+  "id": 909,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-eF",
+  "link": "https://agenciauvabarra.com/2017/06/13/nutricao-em-foco/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:49:26",
+  "modified_gmt": "2019-02-28T19:49:26",
+  "ping_status": "open",
+  "slug": "nutricao-em-foco",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Nutrição em foco"
+  },
+  "type": "post"
+}

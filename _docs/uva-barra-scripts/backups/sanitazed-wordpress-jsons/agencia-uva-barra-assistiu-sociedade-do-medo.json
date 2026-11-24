@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13185/revisions/13192",
+        "id": 13192
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13185"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13185",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13185/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13185"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13187"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13185",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13185",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    2367,
+    7114
+  ],
+  "class_list": [
+    "post-13185",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-cultura",
+    "category-sociedade",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-de-filme",
+    "tag-cultura",
+    "tag-filmes",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/filme-sociedade-do-medo.jpg?fit=770%2C434&amp;ssl=1' alt='' width='770' height='434' /><figcaption>Foto: Festival do Rio</figcaption></figure><p>Adriana L. Dutra, pesquisadora e diretora de “Sociedade do Medo”, inicia o documentário direcionando aos especialistas convidados uma curta e nada simples pergunta: “Para você, o que é o medo?”. A reflexão sobre a vida em cima dessa “sensação de pânico latente” — descrição da própria para o fenômeno — é o objetivo do terceiro e último filme da trilogia da Catarse, projeto de documentários que Adriana trabalhou por mais de dez anos. “Sociedade do Medo” teve a primeira exibição no Festival do Rio, concorrendo a melhor documentário na mostra Première Brasil.</p><p>O longa procura discutir e entender o medo que assola a humanidade, sob o aspecto de diversos contextos que, historicamente, são considerados os manipuladores da massa a partir da propagação do pavor e da insegurança. Com o documentário, a cineasta carioca divide com o espectador questionamentos de cunho existencial e global e como os mesmos atingem o homem na contemporaneidade.</p><p>As personalidades que compõem a discussão rodeiam o globo com depoimentos vindos de cidades como Tokyo, Amsterdã, Londres, Paris, Nova Iorque e várias outras. Adriana, como também roteirista da obra, toma o cuidado de apresentar diferentes pontos de vista sobre o conceito de medo e todas as questões existenciais que o cercam. Um exemplo é a participação do padre Júlio Lancellotti, que contribui com falas que discutem a relação da religião com todo esse universo do medo.</p><p>O contexto religioso é só um dentre os vários que são explorados durante o documentário. Também se conta bastante da relação entre a cultura de adoração do medo e a atual situação do Brasil contemporâneo em questões políticas e sociais. E historicamente, o documentário traz os medos que perduraram na história com a participação de filósofos, historiadores, jornalistas e pesquisadores para aprofundar a reflexão e expandir a abordagem do tema por várias situações consequentes da emoção em questão.</p><p>As gravações para “Sociedade do Medo” começaram antes da pandemia instaurada pelo Covid-19, até o momento em que toda a reflexão tornou-se realidade e todo o medo discutido foi personificado pela doença que abateu o mundo. Adriana trata por mostrar da adaptação que o filme sofreu ao decidir continuar a produção remotamente e todos os cuidados que, junto da equipe, precisou tomar para continuar fazendo imagens dos bastidores, que compõem alguns dos cortes de cenas durante o documentário.<br><br>Por fim, “Sociedade do Medo” apresenta possíveis respostas para a epidemia do pânico que rodeia a sociedade. Adriana L. Dutra reafirma-se como uma mestra em documentários e encerra o trabalho na trilogia com uma pesquisa cuidadosa sob uma temática atinge um público geral nas salas de cinema. O longa estreia no dia 20 de outubro.</p><p><strong>Confira o trailer.</strong></p><figure><iframe src='https://www.youtube.com/embed/YUOaeUw9kYY?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><em>Bruno Barros – 2º período</em></p></main>"
+  },
+  "date": "2022-10-18T14:47:42",
+  "date_gmt": "2022-10-18T17:47:42",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Adriana L. Dutra, pesquisadora e diretora de “Sociedade do Medo”, inicia o documentário direcionando aos especialistas convidados uma curta e nada simples pergunta: “Para você, o que é o medo?”. A reflexão sobre a vida em cima dessa “sensação de pânico latente” — descrição da própria para o fenômeno — é o objetivo do terceiro e último filme da trilogia da Catarse, projeto de documentários que Adriana trabalhou por mais de dez anos. “Sociedade do Medo” teve a primeira exibição no Festival do Rio, concorrendo a melhor documentário na mostra Première Brasil. </p>\n"
+  },
+  "featured_media": 13187,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13185"
+  },
+  "id": 13185,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/filme-sociedade-do-medo.jpg?fit=770%2C434&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3qF",
+  "link": "https://agenciauvabarra.com/2022/10/18/agencia-uva-barra-assistiu-sociedade-do-medo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-18T15:07:22",
+  "modified_gmt": "2022-10-18T18:07:22",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-sociedade-do-medo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    767056592,
+    1685120,
+    767056597,
+    5554,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Sociedade do Medo"
+  },
+  "type": "post"
+}

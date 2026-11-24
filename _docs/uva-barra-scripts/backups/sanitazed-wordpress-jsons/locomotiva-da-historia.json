@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13999/revisions/14002",
+        "id": 14002
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13999"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13999",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13999/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13999"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14003"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13999",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13999",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    187874,
+    11716206,
+    228738,
+    3503,
+    798,
+    7114
+  ],
+  "class_list": [
+    "post-13999",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direitos-humanos",
+    "category-economia-2",
+    "category-eleicoes",
+    "category-historia",
+    "category-politica",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-eleicoes",
+    "tag-erradicacao",
+    "tag-jovens",
+    "tag-pobreza",
+    "tag-politica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>“Locomotiva da História” é uma produção realizada por Bernardo Martins, Mariana Damous, Giovanna Bartole, Laura Siman, João Pedro Santos e Hamilton Junior que tem como objetivo mostrar de que maneira a pobreza pode atingir a vida das pessoas, e alertar para os jovens, a importância do engajamento nas causas políticas. Um curta metragem baseado no Objetivos de Desenvolvimento Sustentável 1 da ONU, que fala sobre a erradicação da pobreza. <br><br>No decorrer da história, a personagem Maria vive em situação de pobreza após a eleição de um candidato de extrema direita no país, e ao longo dos próximos anos ela decide ir para as ruas, participar de movimentos políticos e tentar mudar a situação. Através disso, nas próximas eleições entra um candidato diferente na presidência e o curta mostra a evolução da sociedade com o novo governo.</p><p><strong>Assista!</strong></p><figure><iframe src='https://www.youtube.com/embed/fnL6RZh_z84?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></figure><p>Documentário produzido para a disciplina de Produção em rádio tv e cinema, sob a supervisão do professor Anderson Barreto.</p></main>"
+  },
+  "date": "2023-01-25T16:00:00",
+  "date_gmt": "2023-01-25T19:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Locomotiva da História&#8221; é uma produção realizada por Bernardo Martins, Mariana Damous, Giovanna Bartole, Laura Siman, João Pedro Santos e Hamilton Junior que tem como objetivo mostrar de que maneira a pobreza pode atingir a vida das pessoas, e alertar para os jovens, a importância do engajamento nas causas políticas. Um curta metragem baseado no Objetivos de Desenvolvimento Sustentável 1 da ONU, que fala sobre a erradicação da pobreza. </p>\n"
+  },
+  "featured_media": 14003,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13999"
+  },
+  "id": 13999,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/01/capa-instagram-agencia-2022-1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3DN",
+  "link": "https://agenciauvabarra.com/2023/01/25/locomotiva-da-historia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-01-25T16:37:01",
+  "modified_gmt": "2023-01-25T19:37:01",
+  "ping_status": "open",
+  "slug": "locomotiva-da-historia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056626,
+    1971004,
+    304840,
+    92267,
+    767056595
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Locomotiva da história"
+  },
+  "type": "post"
+}

@@ -1,0 +1,185 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14307/revisions/14312",
+        "id": 14312
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14307"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14307",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14307/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14307"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14311"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14307",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14307",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    2367,
+    228738,
+    3503,
+    14603,
+    798,
+    9838342,
+    7114
+  ],
+  "class_list": [
+    "post-14307",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-cultura",
+    "category-eleicoes",
+    "category-historia",
+    "category-jornalismo",
+    "category-politica",
+    "category-serie-documental",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-critica-2",
+    "tag-ditadura",
+    "tag-documentario",
+    "tag-memorias",
+    "tag-sufocadas"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Para os mais conhecedores da história nacional, o nome para o novo filme de <strong>Gabriel Di Giacomo</strong> — <em>“Memória Sufocada”</em> — pode não parecer tão estranho assim; isto porque o mesmo não passa de uma analogia provocadora ao livro de memórias de Carlos Alberto Brilhante Ustra, intitulado de “Verdade Sufocada – A história que a esquerda não quer que o Brasil conheça”. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/memoria-sufocada-bastidores_03.jpeg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" width=\"3264\" height=\"2448\" /><figcaption>Foto: Divulgação</figcaption></figure><p>O documentário provoca o questionamento das verdades acerca da Ditadura Militar e a história da tortura no país através da perspectiva de um novo <em>hoje</em>. Coronel Ustra foi o único militar condenado como torturador durante a Ditadura e na busca pelo verossímil, o documentário reconstrói o passado do Brasil com um recursos que somente o presente é capaz de providenciar: um mergulho profundo em conteúdos de arquivo e de acesso a todos na internet. </p><p>Essa proposta foi essencial para a estruturação da linha narrativa que faz com que todo material de vídeos, entrevistas e fotos possa ser facilmente encontrado por qualquer internauta. A montagem e edição do documentário usa das telas dos nossos eletrônicos para contar a história, uma alternativa que pode facilitar — ou não — o entendimento do público sobre os acontecimentos narrados. </p><p>Absorver e digerir qualquer conteúdo sobre esse momento, não é uma tarefa tão fácil. Numa linguagem e montagem que dialoga muito com o virtual e o moderno, Giacomo impõe uma atmosfera tensa sobre o filme quando decide por compilar depoimentos de ex-presos políticos que detalham minuciosamente as atrocidades que eram feitas dentro dos DOI-CODis (estruturas repressivas voltadas para opositores do regime). Contribuindo para tal, o diretor também introduz muitas das propagandas do governo da época, resgatadas do Arquivo Nacional, que estimulavam o povo brasileiro a seguir apoiando o golpe e o regime. </p><p><em>“Memória Sufocada”</em> é quase como uma grande tentativa de fazer com que a sociedade reflita e avalie melhor toda a construção do heroísmo em cima de figuras anti-democráticas, que foi bastante estimulada durante o último governo. A produção é da Salvatore Filmes e será distribuído pela Embaúba Filmes, chegando aos cinemas no dia 30 de março. </p><figure><div><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/ZMvoUTPE27k?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p><br><em>Bruno Barros – 3° período</em></p></main>"
+  },
+  "date": "2023-03-29T19:08:49",
+  "date_gmt": "2023-03-29T22:08:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Para os mais conhecedores da história nacional, o nome para o novo filme de Gabriel Di Giacomo — “Memória Sufocada” — pode não parecer tão estranho assim; isto porque o mesmo não passa de uma analogia provocadora ao livro de memórias de Carlos Alberto Brilhante Ustra, intitulado de “Verdade Sufocada &#8211; A história que a esquerda não quer que o Brasil conheça”. </p>\n"
+  },
+  "featured_media": 14311,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14307"
+  },
+  "id": 14307,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/memoria-capa.png?fit=3840%2C2112&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3IL",
+  "link": "https://agenciauvabarra.com/2023/03/29/agencia-uva-barra-assistiu-memoria-sufocada/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-29T19:08:49",
+  "modified_gmt": "2023-03-29T22:08:49",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-memoria-sufocada",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    34939883,
+    382014,
+    45958,
+    41337,
+    685144417
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Memória sufocada"
+  },
+  "type": "post"
+}

@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1106/revisions/2971",
+        "id": 2971
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1106"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1106",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1106/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1106"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1106",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1106",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    670411728
+  ],
+  "class_list": [
+    "post-1106",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-esporte",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>O curso de Jornalismo do Campus Barra recebe o jornalista Paulo Garritano, dia 5 de setembro</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/08/21148554_1654610814571242_958249690_n.jpg?resize=785%2C960&amp;ssl=1' alt='21148554_1654610814571242_958249690_n' width='785' height='960' /><figcaption></figcaption></figure><p>Em um contexto de discussão sobre alternativas aos veículos tradicionais, é uma tarefa essencial refletir sobre o jornalismo feito pela TV pública, já que essas emissoras públicas seriam importantes para o estabelecimento de um sistema de comunicação mais democrático e plural, que contribua para o desenvolvimento da democracia brasileira como um todo. Essa é a proposta da primeira Palestra que faz parte do ciclo: Encontros com o Jornalismo Profissional e que traz o jornalista Paulo Garritano para conversar com os alunos. O evento está marcado para o dia 5 de setembro, às 10 horas da manhã, na Universidade Veiga de Almeida (UVA) Campus Barra.</p><p>Após ter atuado como repórter na TV Globo e na Manchete, Garritano atualmente é apresentador do programa esportivo Stadium, da TV Brasil, e coordena a área de edição da editoria de esporte. Garritano conta que está trabalhando no planejamento da cobertura das Olimpíadas de 2020, no Japão, para essa emissora. Segundo o jornalista, as pautas na TV Pública se diferenciam por dar enfoques em aspectos mais observadores sobre os fatos. “Notícia é notícia em qualquer lugar, a análise do fato é o que faz a diferença”, declara.</p><p>O jornalista destacou que essa área precisa de mais interesse, não para vender nada ou manter ou captar audiência, já que o modelo público não precisa da publicidade para se sustentar, mas pela vantagem de poder dar enfoques que enriqueçam o conhecimento sobre questões como cidadania e cultura. Essas pautas são menos objetivas e dão vozes a eventos e pessoas que não conseguem espaço na TV Comercial. “Podemos transmitir jogos da série C ou do campeonato feminino, algo que você não vai conseguir assistir em outro lugar, pela falta de investimento e audiência”, afirma Garritano.</p><p>Encontros com o Jornalismo Profissional tem como objetivo aproximar os alunos de Jornalismo com profissionais renomados do mercado de trabalho, mostrando que a distância não deve ser tão longa assim dos conteúdos. A UVA traz um jornalista para aproximar os alunos da diversidade do campo de trabalho. Uma ótima oportunidade para quem tem interesse na área de Telejornalismo. Para os alunos que irão comparecer, o evento valerá 2 horas A.C.</p><p>Giovanna Faria, 5º período e Isabelle Amancio, 4º período.</p></main>"
+  },
+  "date": "2017-08-29T13:24:48",
+  "date_gmt": "2017-08-29T16:24:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O curso de Jornalismo do Campus Barra recebe o jornalista Paulo Garritano, dia 5 de setembro Em um contexto de discussão sobre alternativas aos veículos tradicionais, é uma tarefa essencial refletir sobre o jornalismo feito pela TV pública, já que essas emissoras públicas seriam importantes para o estabelecimento de um sistema de comunicação mais democrático [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1106"
+  },
+  "id": 1106,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-hQ",
+  "link": "https://agenciauvabarra.com/2017/08/29/os-desafios-do-telejornalismo-esportivo-em-uma-tv-publica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T17:48:16",
+  "modified_gmt": "2019-01-26T19:48:16",
+  "ping_status": "open",
+  "slug": "os-desafios-do-telejornalismo-esportivo-em-uma-tv-publica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Os desafios do Telejornalismo esportivo em uma TV Pública"
+  },
+  "type": "post"
+}

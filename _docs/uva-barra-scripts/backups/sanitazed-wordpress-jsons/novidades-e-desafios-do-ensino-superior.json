@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11510/revisions/11537",
+        "id": 11537
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11510"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11510",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11510/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11510"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11528"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11510",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11510",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    858951,
+    7114
+  ],
+  "class_list": [
+    "post-11510",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-eventos-internos",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Calouros de 2022 chegam ao ambiente universitário com a volta às aulas presenciais</em></p><p>De acordo com o dicionário Oxford, ser calouro significa: estudante recém-chegado a uma instituição de ensino ou que ainda cursa o primeiro ano. Ao sair do ensino médio muitos alunos sentem a diferença de encarar uma rotina universitária. Deixar os costumes da escola e entender o novo caminho que está prestes a cursar é uma realidade vista desde o primeiro dia de aula. Conhecer o campus da faculdade, novos colegas de turma e matérias direcionadas para a área de estudo escolhida, trazem a todo calouro uma espera positiva.</p><p>Para Bruna Torres, caloura de cinema da UVA Barra e recém formada no Ensino Médio, a adaptação ao estilo de vida do Ensino Superior tem sido interessante. “Diante dos novos desafios, foi despertado dentro de mim um senso de responsabilidade, dedicação e comprometimento com tudo que eu me proponho a fazer”, diz Bruna.</p><p>As novidades e oportunidades do modelo híbrido chamaram atenção da caloura Gabriela Mota. Ao estudar o curso dos sonhos, a jovem revela estar aliviada por vivenciar na prática tudo o que o Cinema e Audiovisual da Universidade Veiga de Almeida tem para oferecer: “É um sentimento muito bom poder estar de volta à sala de aula e ter esse contato com as pessoas, principalmente após termos passado tanto tempo isolados”, fala Gabriela.</p><p>Abandonar o famoso “professor, posso ir ao banheiro?” pode trazer uma sensação de completa liberdade, e de fato a universidade traz isso, porém a responsabilidade e compromisso são essenciais para a trajetória. A professora Michele Vieira, do curso de Jornalismo, Publicidade e Cinema, enfatiza o quão necessário é o aluno aproveitar cada conteúdo e cada aula. “A dica que eu dou é para que os jovens enxerguem a universidade como um grande privilégio. Cada matéria tem o objetivo de profissionalizar o aluno”, afirma a professora.</p><p><strong>Michele Vieira comenta qual é a maior vantagem de entrar em uma universidade na juventude</strong>.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/04/1bbd0d55-78ec-4058-a5a2-dd9cd7fb470d.jpg?resize=1600%2C1158&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1158\"><figcaption>Bruna Torres fala sobre a experiência ao sair da rotina escolar e destaca a fluidez de como tudo é conduzido na faculdade. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/04/gabi-2.jpg?resize=1384%2C1600&amp;ssl=1\" alt=\"\" width=\"1384\" height=\"1600\"><figcaption>Gabriela expõe a confiança do retorno ao modelo presencial. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/04/b46bcacd-362d-4f1d-b4be-fe7040cd87b0.jpg?resize=900%2C1600&amp;ssl=1\" alt=\"\" width=\"900\" height=\"1600\"><figcaption>A docente Michele Vieira informa a melhor maneira para os calouros desfrutarem o espaço da faculdade. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/04/whatsapp-image-2022-04-25-at-19.36.26.jpeg?resize=330%2C442&amp;ssl=1\" alt=\"\" width=\"330\" height=\"442\"><figcaption>Renata Feital declara que tem altas expectativas para os calouros de 2022. (Foto: Arquivo Pessoal)</figcaption></figure><p>De acordo com Renata Feital, coordenadora do curso de Jornalismo e Publicidade do campus Barra, a faculdade é um lugar facilitador de experiências para a construção social e profissional de cada indivíduo. “A minha dica é que vocês possam aproveitar bastante o momento da universidade e tenham muita vontade de aprender”, conclui Renata.</p><p><em>Bruno Barros – 1º período<br>Déborah Gama – 1º período<br>Julia Alves – 1º período</em></p></main>"
+  },
+  "date": "2022-04-26T18:00:00",
+  "date_gmt": "2022-04-26T21:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De acordo com o dicionário Oxford, ser calouro significa: estudante recém-chegado a uma instituição de ensino ou que ainda cursa o primeiro ano. Ao sair do ensino médio muitos alunos sentem a diferença de encarar uma rotina universitária. Deixar os costumes da escola e entender o novo caminho que está prestes a cursar, é uma realidade vista desde o primeiro dia de aula. Conhecer o campus da faculdade, novos colegas de turma e matérias direcionadas para a área de estudo escolhida, trazem a todo calouro uma espera positiva. </p>\n"
+  },
+  "featured_media": 11528,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11510"
+  },
+  "id": 11510,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/04/capa-site-agencia-2022-2-1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2ZE",
+  "link": "https://agenciauvabarra.com/2022/04/26/novidades-e-desafios-do-ensino-superior/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-04-25T21:06:56",
+  "modified_gmt": "2022-04-26T00:06:56",
+  "ping_status": "open",
+  "slug": "novidades-e-desafios-do-ensino-superior",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Novidades e desafios do ensino superior"
+  },
+  "type": "post"
+}

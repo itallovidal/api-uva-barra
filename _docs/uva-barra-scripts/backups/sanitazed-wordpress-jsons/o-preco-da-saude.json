@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1624/revisions/3263",
+        "id": 3263
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1624"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1624",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1624/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1624"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1624",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1624",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    72064
+  ],
+  "class_list": [
+    "post-1624",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-saude"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Alunos de nutrição organizam evento para debater sobre saúde pública com moradores de Vargem Grande</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/11/salad-2756467_1920.jpg?resize=1920%2C1281&#038;ssl=1' alt='salad-2756467_1920' width='1920' height='1281' /><figcaption>Foto: Pixabay</figcaption></figure><p>Mesmo em dias que a alimentação saudável se tornou moda pelas redes sociais, o mito de que se alimentar bem é mais caro continua pela sociedade. Por isso, cidadãos de baixa renda são mais propícios a terem doenças crônicas não transmissíveis, como diabetes e hipertensão. Para prevenir e ajudar essas pessoas, a professora do departamento de Nutrição e Saúde Coletiva da Universidade Veiga de Almeida (UVA) Cinara Oliveira inicia um projeto junto aos coordenadores e alunos do curso de Nutrição.</p><p>Esse evento começa no dia 21 de novembro das 13 às 16 horas, no Centro de Ação Social Antônio Caldas Pinheiro (Casacap) em Vargem Grande. Tem como finalidade a integração dos universitários, que estão no início da faculdade, e a estimulação dos mesmos a terem contato com os pacientes e com o campus. Para buscar entender melhor uma das áreas de atuação do nutricionista após a graduação, esse contato, que só teriam a partir do quinto período na disciplina de Saúde Coletiva, é adiantado.</p><p>O primeiro dia vai ter como destaque o tema “Como elaborar uma marmita saudável para o trabalho”. Os 30 estudantes, que vão participar, foram separados em grupos, cada um com uma tarefa. “Alguns vão levar a salada pronta e os outros os utensílios para a montagem. O legal é a interatividade e eles ajudarem àquela comunidade”, conta Cinara. Ela também será palestrante no dia, com mais dois veteranos da UVA Campus Tijuca.</p><p>O propósito vai ser contínuo e em 2018 vão ter, pelo menos, uma ação em campo por mês e duas reuniões de planejamento. E já foram discutidos os possíveis planos das próximas oficinas, que seriam “como elaborar sal em ervas para pessoas com hipertensão” e “como elaborar doces para pessoas diabéticas”. Os alunos, que vão participar desse programa, vão receber 15 horas complementares. “Mas o importante é compartilhar conhecimento com pessoas que não possuem acesso à informação e desmitificar essa associação de saúde a gastar muito”, conclui a professora.</p><p><strong>Ana Beatriz Bernardo, 4º período e Giovanna Faria, 5º período</strong></p></main>"
+  },
+  "date": "2017-11-17T17:22:34",
+  "date_gmt": "2017-11-17T19:22:34",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alunos de nutrição organizam evento para debater sobre saúde pública com moradores de Vargem Grande</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1624"
+  },
+  "id": 1624,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-qc",
+  "link": "https://agenciauvabarra.com/2017/11/17/o-preco-da-saude/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T18:22:16",
+  "modified_gmt": "2019-02-27T21:22:16",
+  "ping_status": "open",
+  "slug": "o-preco-da-saude",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "O preço da saúde"
+  },
+  "type": "post"
+}

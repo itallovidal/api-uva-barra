@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8311/revisions/8319",
+        "id": 8319
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8311"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8311",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8311/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8311"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8309"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8311",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8311",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832,
+    72064
+  ],
+  "class_list": [
+    "post-8311",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "category-saude",
+    "tag-dezembro-vermelho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Mês da campanha de conscientização e prevenção do HIV, AIDS e ISTs</em></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F939514948&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Agência UVA Barra · Podcast Radio UVA Barra – Dezembro Vermelho– S02 EP12' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>O dia 1 de dezembro é marcado por ser o Dia Mundial da Luta Contra a AIDS, em homenagem a essa data e à importância do tema para a sociedade, a campanha se estende por todo o mês. O “Dezembro Vermelho” é uma forma de reforçar informações de prevenção.</p><p>O novo episódio do podcast da Rádio UVA Barra recebe Nance Ferreira, soropositivo e que vai nos contar como foi receber a notícia do diagnóstico positivo e como é conviver com o HIV.</p><p>O infectologista Daniel Junger e o coordenador geral da ONG Grupo de Trabalhos em Prevenção Posithivo(GTP+), Wladimir Reis, também participam do debate para falar sobre os métodos de prevenção, as campanhas de conscientização e o preconceito que as pessoas que possuem essas doenças sofrem.</p><p></p><p><em>Iago Bastos 6º período<br>Gustavo Teixeira 6º período<br>Fernando Pieroni 6º período</em></p></main>"
+  },
+  "date": "2020-12-01T16:48:36",
+  "date_gmt": "2020-12-01T19:48:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mês da campanha de conscientização e prevenção do HIV, AIDS e ISTs Agência UVA Barra · Podcast Radio UVA Barra – Dezembro Vermelho– S02 EP12 O dia 1 de dezembro é marcado por ser o Dia Mundial da Luta Contra a AIDS, em homenagem a essa data e à importância do tema para a sociedade, [&hellip;]</p>\n"
+  },
+  "featured_media": 8309,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8311"
+  },
+  "id": 8311,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/agecc82ncia-uva-barra-dezembro-vermelho-2.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2a3",
+  "link": "https://agenciauvabarra.com/2020/12/01/podcast-radio-uva-barra-dezembro-vermelho-s02-ep12/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-12-02T11:36:24",
+  "modified_gmt": "2020-12-02T14:36:24",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-dezembro-vermelho-s02-ep12",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    207365586
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra – Dezembro Vermelho– S02 EP12"
+  },
+  "type": "post"
+}

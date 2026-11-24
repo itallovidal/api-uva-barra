@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15422/revisions/15428",
+        "id": 15428
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15422"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15422",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15422/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15422"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15427"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15422",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15422",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    798,
+    2432
+  ],
+  "class_list": [
+    "post-15422",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-politica",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-desejo",
+    "tag-documentario",
+    "tag-maquina"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A estreia de “Máquina do Desejo”, dirigido por Joaquim Castro e Lucas Weglinski, proporciona um olhar para o legado artístico e biográfico de um dos grandes expoentes das artes cênicas do Brasil, José Celso Martinez Corrêa. O dramaturgo foi responsável por comandar uma das principais companhias teatrais do país, o Teatro Oficina. Zé Celso, como era conhecido, faleceu no dia 06 de julho deste ano. O documentário recebeu reconhecimento no circuito de festivais de cinema, dentre eles as premiações de melhor edição no Festival É Tudo Verdade, Melhor filme documental no FICCSUR (Chile), e menção honrosa pela montagem no Prêmio edt.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/maquina-do-desejo_01.jpg?resize=3000%2C1679&amp;ssl=1\" alt=\"\" width=\"3000\" height=\"1679\" /><figcaption>Foto: Divulgação</figcaption></figure><p>O Teatro Oficina é uma das organizações teatrais com maior longevidade do país. Ao longo de 60 anos a companhia, que permanece em atividade atualmente, foi vanguardista e uma das principais responsáveis pelo desenvolvimento do Tropicalismo, além de estabelecer remodelações e novas vertentes em linguagens artísticas. O trabalho sempre buscou uma representação de uma identidade verdadeiramente brasileira.</p><p>O documentário se desenvolve por meio de um olhar cronológico de acontecimentos e destaca o período embrionário que desdobra as dúvidas, as críticas iniciais e a construção progressiva de uma herança cultural assimilada ao longo do filme. A contribuição artística, porém, não é a única pauta apresentada no longa-metragem, ainda tem: discussões sobre o meio ambiente, especulações imobiliárias, disputas jurídicas e a busca pela contemplação e reconhecimento do setor público para a políticas públicas no setor cultural.</p><p>O material audiovisual é vasto e inclui filmagens de espetáculos, obras audiovisuais que também atestam o desenvolvimento da companhia, assim como apresenta fotografias e matérias jornalísticas que enriquecem e propiciam o espectador de informações. Existe no projeto a escolha de muitas vezes não identificar quem são os responsáveis por determinadas falas, trazendo para a produção uma ideia de coletivo e não do pensamento individual de um depoimento. O filme abraça o resgate de um passado entrelaçado com o presente, que traz projeções e expectativas para um futuro.</p><p>A montagem é a principal forma como a produção estabelece o seu elo narrativo, o qual é responsável por articular diferentes linhas temporais, diversos materiais fragmentados e vozes isoladas, apresentadas aqui de uma maneira que é possível compreender os percursos e etapas enfrentados pelo Teatro Oficina e o grande mobilizador da organização, Zé Celso, mas mantendo um impacto conceitual reforçado pelo caráter essencialmente performático e transgressivo das imagens. O desenho de som é um dos elementos artísticos que potencializa essa tendência conceitual, trazendo uma variedade de sons, foleys (reproduções artificiais de complementares de um filme), ruídos que ajudam a criar um tom solene ao projeto.</p><p>“Máquina do Desejo” é um documentário que busca não ser apenas uma proposta de resgate da cultura brasileira por um retrato vívido da arte, mas confronta o espectador com os questionamentos, com a controvérsia, a dificuldade da realização artística em um país que enfrenta inúmeras questões sociais. É uma oportunidade para testemunhar um rito de passagem de Zé Celso nas telonas. <strong>Confira o trailler!</strong></p><figure><iframe src=\"https://www.youtube.com/embed/HIh7QbRdNVs?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p><br><em>Márcio Weber – 3° período</em></p></main>"
+  },
+  "date": "2023-07-20T11:58:58",
+  "date_gmt": "2023-07-20T14:58:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A estreia de “Máquina do Desejo”, dirigido por Joaquim Castro e Lucas Weglinski, proporciona um olhar para o legado artístico e biográfico de um dos grandes expoentes das artes cênicas do Brasil, José Celso Martinez Corrêa. O dramaturgo foi responsável por comandar uma das principais companhias teatrais do país, o Teatro Oficina. Zé Celso, como era conhecido, faleceu no dia 06 de julho deste ano. O documentário recebeu reconhecimento no circuito de festivais de cinema, dentre eles as premiações de melhor edição no Festival É Tudo Verdade, Melhor filme documental no FICCSUR (Chile), e menção honrosa pela montagem no Prêmio edt. </p>\n"
+  },
+  "featured_media": 15427,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15422"
+  },
+  "id": 15422,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/maquina-do-desejo_09.jpg?fit=3000%2C1683&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-40K",
+  "link": "https://agenciauvabarra.com/2023/07/20/agencia-uva-barra-assistiu-maquina-do-desejo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-08T12:08:25",
+  "modified_gmt": "2023-08-08T15:08:25",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-maquina-do-desejo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    34939883,
+    143992,
+    45958,
+    260740
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Máquina do Desejo"
+  },
+  "type": "post"
+}

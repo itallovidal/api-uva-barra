@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13596/revisions/13601",
+        "id": 13601
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13596"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13596",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13596/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13596"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13600"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13596",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13596",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    11716206,
+    10889,
+    701438832
+  ],
+  "class_list": [
+    "post-13596",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-economia-2",
+    "category-esporte",
+    "category-radio-uva-barra",
+    "tag-apostas",
+    "tag-copa",
+    "tag-esportivas",
+    "tag-futebol",
+    "tag-radiouvabarra-2"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Apostas esportivas durante a Copa do Mundo\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/5ih1s7mOPBb02B36bGSdk0?si=XKCYWTOZQmW7X_R-m4Jsog&amp;utm_source=oembed\"></iframe></div></figure><p>A última copa do mundo, de 2018, movimentou aproximadamente 160 bilhões de dólares com as apostas esportivas.</p><p>Com o aumento da busca por essa modalidade, dúvidas começam a surgir sobre os riscos que isso pode trazer e se é de fato algo legalizado no Brasil, visto que jogos de azar são proibidos em território nacional.</p><p>Para entender esses e outros levantamentos, participaram do Podcast a advogada Ana Paula Marques Cruz, o torcedor Matheus de Lucas, a contadora Sonia Jardim e o Tipster Jefferson Luiz Marchetti.</p><p><em>Mateus Vandesteen – 6° Período</em><br><em>Vinicius Alves – 8° Período</em></p></main>"
+  },
+  "date": "2022-11-23T19:25:37",
+  "date_gmt": "2022-11-23T22:25:37",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A última copa do mundo, de 2018, movimentou aproximadamente 160 bilhões de dólares com as apostas esportivas.</p>\n<p>Com o aumento da busca por essa modalidade, dúvidas começam a surgir sobre os riscos que isso pode trazer e se é de fato algo legalizado no Brasil, visto que jogos de azar são proibidos em território nacional.</p>\n"
+  },
+  "featured_media": 13600,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13596"
+  },
+  "id": 13596,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/whatsapp-image-2022-11-23-at-16.55.37.jpeg?fit=1500%2C844&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3xi",
+  "link": "https://agenciauvabarra.com/2022/11/23/podcast-radio-uva-barra-apostas-esportivas-durante-a-copa-do-mundo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-11-23T19:25:37",
+  "modified_gmt": "2022-11-23T22:25:37",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-apostas-esportivas-durante-a-copa-do-mundo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    341594,
+    146277,
+    2545783,
+    53870,
+    757434341
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Apostas esportivas durante a Copa do Mundo"
+  },
+  "type": "post"
+}

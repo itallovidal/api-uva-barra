@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3704/revisions/3706",
+        "id": 3706
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3704"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3704",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3704/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3704"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3704",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3704",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-3704",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Alunos de Jornalismo, Publicidade e Produção Audiovisual estiveram presentes</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/img_8667.jpg?ssl=1' alt='' /><figcaption>A palestra contou com vídeos como exemplo sobre engajamento no Youtube – Foto: Ana Carolina Marinho</figcaption></figure><p>O Youtube é o segundo site mais acessado pelos brasileiros e uma ferramenta profissional que vai além de curtidas e compartilhamentos. Publicitários, jornalistas e produtores audiovisuais precisam se integrar com as funcionalidades da mídia social para atender um novo mercado. Na palestra realizada na última quinta-feira (18) pelo especialista em marketing digital Willian Rocha, os alunos da UVA Barra tiveram a oportunidade de receber dicas sobre como gerar engajamento nessa rede social.</p><p>Com o crescimento do consumo de vídeos pela plataforma do Youtube é preciso entender o comportamento dos usuários para gerar conteúdo que vai agradar aos internautas. “É preciso ter uma estratégia muito clara e é importante respeitar as características de quem consume esse tipo de conteúdo, como criar uma rotina nas postagens dos vídeos, para que o canal não fique escasso”, explica Willian.</p><p>O coordenador da Agência ONZE de publicidade, professor Leo Amato, diz que a participação de alguém do mercado é relevante na formação dos alunos e destaca a importância dessa troca para o futuro profissional. “São plataformas que jornalistas, publicitários e produtores audiovisuais estão usando bastante, com migração de conteúdo para o Youtube e captação de novos clientes”, disse.</p><p>Amante de produção audiovisual e estudante do 3° período de jornalismo, Júlia Santos se interessou pela palestra por ser uma interação entre os cursos e uma oportunidade de entender esta ferramenta de trabalho. “O que me chamou a atenção foram as cinco dicas dadas pelo especialista para alavancar o nosso produto”.</p><p><strong>Ana Carolina Marinho – 7° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-20T11:02:40",
+  "date_gmt": "2019-04-20T14:02:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alunos de Jornalismo, Publicidade e Produção Audiovisual estiveram presentes O Youtube é o segundo site mais acessado pelos brasileiros e uma ferramenta profissional que vai além de curtidas e compartilhamentos. Publicitários, jornalistas e produtores audiovisuais precisam se integrar com as funcionalidades da mídia social para atender um novo mercado. Na palestra realizada na última quinta-feira [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3704"
+  },
+  "id": 3704,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-XK",
+  "link": "https://agenciauvabarra.com/2019/04/20/palestra-sobre-o-youtube-agita-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-20T11:02:40",
+  "modified_gmt": "2019-04-20T14:02:40",
+  "ping_status": "open",
+  "slug": "palestra-sobre-o-youtube-agita-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Palestra sobre o Youtube agita campus Barra"
+  },
+  "type": "post"
+}

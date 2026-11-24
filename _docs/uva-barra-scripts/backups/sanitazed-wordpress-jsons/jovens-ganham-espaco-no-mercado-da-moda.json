@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2500/revisions/2507",
+        "id": 2507
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2500"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2500",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2500/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2500"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2501"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2500",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2500",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2500",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-carandaio-25",
+    "tag-ella",
+    "tag-empreendedorismo",
+    "tag-moda",
+    "tag-pier-maua",
+    "tag-veste-rio-2018",
+    "tag-vogue"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><strong>Veste Rio, na Zona Portuária do Rio, destacou a área de empreendedorismo na moda.</strong></h4><p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-20-at-11-49-04-e1540078416423.jpeg?fit=1275%2C717&amp;ssl=1' alt='WhatsApp Image 2018-10-20 at 11.49.04' width='1275' height='717'><figcaption>A redatora chefe da Vogue Brasil Camila Garcia e a empresária Tatiana Accioli dando dicas sobre como começar o próprio negócio – Foto: Ana Carolina Marinho</figcaption></figure></p><p>O perfil do novo empresário no Brasil é o jovem. De acordo com o Sebrae, mais de 15,7 milhões de pessoas estão a procura de informações sobre abrir um negócio. Com base nestes dados, a 6° edição do Veste Rio dedicou, na última sexta-feira (19), um pouco da programação ao assunto. A jornalista Camila Garcia mediou o bate papo, sobre este novo cenário no país, com a estilista Tatiana Accioli.</p><p>Criadora da plataforma carioca <em>Carandaío 25, </em>a empresária Tatiana Accioli explica como os novos empreendedores de moda conseguem chamar atenção para os trabalhos. “É preciso ter estilo próprio, focar na moda atual e, principalmente, se reinventar sempre”, disse. A coletiva criada há cinco anos, procura criar possiblidades para os novos estilistas que estão chegando no mercado.</p><p>Redatora chefe da Vogue Brasil Camila Garcia enfatiza que as pequenas marcas precisam de ajuda para vender em um mercado cercado por grandes empresas. “Existem boas lojas no país e elas precisam ser vistas e ganhar espaço entre os amantes de moda”. Além disso, esclarece que os jovens devem se aventurar nessa nova área sem ter medo de falhar.</p><p>Presente no talk show e concentrado nas palestrantes, o estudante de marketing Matheus Barreto almeja ajudar a namorada, recém graduada em design de moda, a abrir o próprio negócio. “Tinha dúvidas de como o mercado da moda funciona e agora eu entendo mais sobre o assunto”, destaca. O evento vai até o domingo (21) com palestras, workshops, bate papos e outlets.</p><p><strong>Ana Carolina Marinho, 6° período </strong></p></main>"
+  },
+  "date": "2018-10-20T18:40:30",
+  "date_gmt": "2018-10-20T21:40:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>            Veste Rio, na Zona Portuária do Rio, destacou a área de empreendedorismo na moda. O perfil do novo empresário no Brasil é o jovem. De acordo com o Sebrae, mais de 15,7 milhões de pessoas estão a procura de informações sobre abrir um negócio. Com base nestes dados, a 6° [&hellip;]</p>\n"
+  },
+  "featured_media": 2501,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2500"
+  },
+  "id": 2500,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-20-at-11-49-04-e1540078416423.jpeg?fit=1275%2C717&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Ek",
+  "link": "https://agenciauvabarra.com/2018/10/20/jovens-ganham-espaco-no-mercado-da-moda/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-10-20T20:33:27",
+  "modified_gmt": "2018-10-20T23:33:27",
+  "ping_status": "open",
+  "slug": "jovens-ganham-espaco-no-mercado-da-moda",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    652581027,
+    17577,
+    767056606,
+    767056607,
+    16124770,
+    652568066,
+    146332
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Jovens ganham espaço no mercado da Moda"
+  },
+  "type": "post"
+}

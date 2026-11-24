@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16397/revisions/16413",
+        "id": 16413
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16397"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16397",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16397/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16397"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16404"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16397",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16397",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    15243
+  ],
+  "class_list": [
+    "post-16397",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-meio-ambiente",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>“Diário de uma Onça” tem direção de Joe Stevens (“Earth at Night”), Fábio Nascimento (cineasta e fotógrafo documental) e Mario Haberfeld (fundador da ONG Onçafari). O documentário conta a história verídica da sobrevivência de três gerações de onças pintadas no Pantanal, Fera (a avó da família e a primeira onça a reintroduzida com sucesso em habitat natural no mundo), Ferinha (a mãe) e Leventina (a neta).</p><p>A história é narrada em primeira pessoa com a voz de Alanis Guillen (Juma no remake da novela “Pantanal”) para a onça Leventina. O uso do voice over pelo ponto de vista da protagonista, além de ser a costura que contextualiza o filme inteiro, aproxima o espectador do enredo. O resultado é ver cenas verídicas com a emoção da voz da atriz. – </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/12/diario-de-uma-onca_1-1.png?resize=3840%2C2160&amp;ssl=1\" alt=\"\" width=\"3840\" height=\"2160\" /><figcaption>Foto: Divulgação</figcaption></figure><p>O curto documentário, de pouco mais de uma hora, traz a luz e leva os espectadores a refletir sobre os impactos que as ações humanas causam no Pantanal. A própria história dessa família de onças começa com uma dessas consequências, Fera perdeu a mãe quando ainda era um filhote devido à acidente causado pelo homem. Nem mesmo a vegetação escapa da ameaça. Os rios, que antes eram abundantes, agora estão secos. O que agrava as queimadas oriundas do aquecimento global.  </p><p>Em relação a parte técnica, a maior parte das imagens foram feitas ao ar livre, por isso a predominância da luz natural. A sonorização com música e os ruídos da natureza estão bem encaixados e contribuem para a história, muitas vezes ajudam com o respiro da trama. </p><p>“Diário de uma Onça” é mais do que um documentário animal. É um filme reflexivo que possui o objetivo de fazer as pessoas mudarem de atitude e ajudar a preservar e salvar o Pantanal. Com coprodução de WCP, Ventre Studio e Globoplay, o enredo chega na plataforma de streaming no dia 6 de dezembro. Confira o trailer:</p><figure><iframe src=\"https://www.youtube.com/embed/IgDKUIDtPzU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p><br><em>Juliana Vilete — 5º período</em></p></main>"
+  },
+  "date": "2023-12-06T18:15:22",
+  "date_gmt": "2023-12-06T21:15:22",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Diário de uma Onça” tem direção de Joe Stevens (“Earth at Night”), Fábio Nascimento (cineasta e fotógrafo documental) e Mario Haberfeld (fundador da ONG Onçafari). O documentário conta a história verídica da sobrevivência de três gerações de onças pintadas no Pantanal, Fera (a avó da família e a primeira onça a reintroduzida com sucesso em [&hellip;]</p>\n"
+  },
+  "featured_media": 16404,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16397"
+  },
+  "id": 16397,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/12/diario-de-uma-onca_07_leventina.jpg?fit=1005%2C507&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4gt",
+  "link": "https://agenciauvabarra.com/2023/12/06/agencia-uva-barra-assistiu-diario-de-uma-onca/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-12-07T13:30:09",
+  "modified_gmt": "2023-12-07T16:30:09",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-diario-de-uma-onca",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    34939883,
+    17563,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Diário de uma Onça"
+  },
+  "type": "post"
+}

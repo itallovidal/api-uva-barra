@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5224/revisions/5232",
+        "id": 5232
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5224"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5224",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5224/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5224"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5226"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5224",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5224",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    758
+  ],
+  "class_list": [
+    "post-5224",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-rio-info"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Acadêmicos e profissionais, discutem o progresso tecnológico na comunicação</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img-2985.jpg?resize=2835%2C2429&#038;ssl=1' alt='' width='2835' height='2429' /><figcaption>Tema \"Jornalismo e Tecnologia\" foi discutido por profissionais da área de comunicação – Foto: Anna Clara Motta</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img-2994-e1569011552722.jpg?resize=3264%2C1836&#038;ssl=1' alt='' width='3264' height='1836' /><figcaption>Dhaniel Cohen, comentou sua experiência no Marketing Digital – Foto: Anna Clara Motta</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img-3017-e1569011379744.jpg?resize=3064%2C2294&#038;ssl=1' alt='' width='3064' height='2294' /><figcaption>Coordenadora da mesa, Cristina Dissat – Foto: Anna Clara Motta</figcaption></figure><p>Na última segunda-feira (16/09), no Centro de Convenções SulAmérica, o Rio Info 2019 promoveu uma série de palestras sobre o tema “Jornalismo e Tecnologia”, mediado pela jornalista Cristina Dissat, que debateram o momento do mercado de jornalismo aliado às tecnologias. Estiveram presentes nomes do Jornalismo, Radialismo e Marketing Digital.</p><p>A jornalista Vanessa Riche deu início às palestras, contando experiências e a iniciativa de quebrar barreiras nas narrações de futebol. A apresentadora do programa “Comenta Quem Sabe” no canal Fox Sports, abordou o tema “Negócios, Comunicação e Tecnologia” e as dificuldades que os profissionais de comunicação estão vivenciando no dia a dia. Vanessa, idealizou o projeto “Narra Quem Sabe”, voltado exclusivamente para o público feminino, onde três mulheres foram escolhidas para trabalhar em todos os jogos da Seleção Feminina, como narradoras na Copa do Mundo Feminina 2018. “A gente venceu uma barreira gigante!”, disse a jornalista em relação à iniciativa.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img-2975.jpg?resize=558%2C418&#038;ssl=1' alt='' width='558' height='418' /><figcaption>Vanessa Riche iniciou o debate sobre Jornalismo e Tecnologia, no Rio Info – Foto: Anna Clara Motta</figcaption></figure><p>O Marketing digital também foi subtema das discussões. O jornalista, escritor e gerente do Flu-Memória – departamento criado para preservar a memória do Fluminense FC – Dhaniel Cohen, expôs o trabalho de financiamento coletivo no esporte. O escritor criou cerca de 7 projetos de financiamento coletivo, todos eles no Fluminense, onde os torcedores apoiam uma causa em prol com essa modalidade de ajuda financeira, sem prejudicar as receitas dos clubes.</p><p>Aliando a tecnologia com a comunicação. As novidades tecnológicas podem trazer problemas de adaptação e o tema foi discutido na mesa Do Analógico ao Digital no Rádio. “Houve muita resistência na entrada da tecnologia, o fato é que a tecnologia veio pra ficar e as inovações de modelos e processos facilitam o consumo”, afirma o comentarista da Rádio Globo, Rafael Marques.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img-2986-e1569011330317.jpg?resize=526%2C295&#038;ssl=1' alt='' width='526' height='295' /><figcaption>Rafael Marques, comentarista da Rádio Globo, falou sobre a passagem do analógico para o digital no rádio – Foto: Anna Clara Motta</figcaption></figure><p>Para Rafael, o principal desafio de trabalhar no rádio com o avanço tecnológico, são as pessoas que tem um olhar mais antigo e contaminado em relação ao veículo. “Vive-se a era dos podcasts, produções que independem do factual, imagino que seja esse um caminho sem volta e vantajoso para a sobrevida do rádio.”</p><p>O público presente nas palestras foi composto por acadêmicos e profissionais da área da comunicação e tecnologia, a jornalista Sonia Polinário, falou a importância de discutir esse tema. “Essa relação entre jornalismo e tecnologia é importante pra gente, eu tenho 56 anos, tecnologia é difícil para mim e tudo que possa ajudar como, minicursos eu faço, palestras eu vou, porque eu preciso aprender cada vez mais”.</p><p>Os assuntos abordados no Rio Info 2019, segundo o jornalista Eduardo Leite, que também assistiu ao debate, são importantes para o maior aprendizado dos profissionais da área, ou aqueles que procuram um melhor entendimento sobre o jornalismo juntamente com o crescimento tecnológico.</p><p><strong>Anna Clara Motta – 1º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-20T17:31:50",
+  "date_gmt": "2019-09-20T20:31:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Acadêmicos e profissionais, discutem o progresso tecnológico na comunicação Na última segunda-feira (16/09), no Centro de Convenções SulAmérica, o Rio Info 2019 promoveu uma série de palestras sobre o tema “Jornalismo e Tecnologia”, mediado pela jornalista Cristina Dissat, que debateram o momento do mercado de jornalismo aliado às tecnologias. Estiveram presentes nomes do Jornalismo, Radialismo [&hellip;]</p>\n"
+  },
+  "featured_media": 5226,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5224"
+  },
+  "id": 5224,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img-2985.jpg?fit=2835%2C2429&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1mg",
+  "link": "https://agenciauvabarra.com/2019/09/20/jornalismo-aliado-a-tecnologia-e-abordado-no-rio-info-2019/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-20T17:33:08",
+  "modified_gmt": "2019-09-20T20:33:08",
+  "ping_status": "open",
+  "slug": "jornalismo-aliado-a-tecnologia-e-abordado-no-rio-info-2019",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    22711148
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Jornalismo aliado à tecnologia é abordado no Rio Info 2019"
+  },
+  "type": "post"
+}

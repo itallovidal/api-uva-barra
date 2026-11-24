@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21308/revisions/21311",
+        "id": 21311
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21308"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21308",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21308/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21308"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21309"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21308",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21308",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-21308",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O primeiro “Mortal Kombat” (2021) dividiu o público e não conseguiu atingir totalmente as expectativas dos fãs da franquia. Apesar de apresentar personagens icônicos e prometer uma adaptação fiel do universo dos games, o filme foi criticado por sua narrativa simplista e pela falta de desenvolvimento mais consistente do torneio em si.</p><p>Agora, “Mortal Kombat 2” surge como uma tentativa clara de corrigir esse caminho e reconquistar a confiança do público, prometendo expandir a mitologia, aprofundar os personagens e finalmente dar mais peso ao próprio torneio que dá nome à saga. A sequência amplia o conflito entre Earthrealm e Outworld, elevando as apostas da disputa que define o destino dos mundos. O que antes era apresentado de forma introdutória passa a ser tratado como uma guerra em escala maior, com consequências diretas para todos os reinos envolvidos.</p><p>Desta vez, a produção investe mais na construção do universo, trazendo novos lutadores icônicos, arenas clássicas e elementos diretamente retirados dos jogos. Um dos pontos mais elogiáveis da sequência é justamente o visual, que está muito mais refinado, os cenários são mais detalhados, os efeitos são mais impactantes e a estética geral consegue equilibrar bem o estilo sombrio com o espetáculo característico da franquia.</p><p>As cenas de ação continuam sendo um dos pontos centrais, com lutas intensas, coreografias elaboradas e violência estilizada. No entanto, agora os confrontos são inseridos dentro de uma narrativa mais urgente, em que cada vitória ou derrota altera o equilíbrio entre os mundos.</p><p>Com a ameaça de Shao Kahn se tornando cada vez mais concreta, o torneio deixa de ser apenas uma tradição e passa a funcionar como última barreira de proteção da Terra. Isso aumenta a pressão sobre os campeões, que precisam lidar com inimigos mais perigosos e com o peso das próprias escolhas.</p><p>Os personagens ganham mais espaço e profundidade nesta sequência, deixando de ser apenas peças do torneio para assumir papéis mais definidos dentro do conflito entre os reinos. Cole Young continua como ponto de ligação para o público, agora mais pressionado a evoluir como lutador e despertar plenamente o símbolo do dragão, que representa sua ligação com o torneio e amplia suas habilidades em combate. </p><p>Entre os lutadores clássicos, nomes como Liu Kang, Sub-Zero e Scorpion retornam com ainda mais destaque. Liu Kang mantém seu domínio sobre o fogo, mas com maior controle de suas habilidades místicas ligadas ao destino do Earthrealm. Sub-Zero continua utilizando o gelo como poder principal, criando armas, estruturas e ataques congelantes de grande impacto. Já Scorpion, movido por sua energia infernal e espírito vingativo, reforça seus ataques de fogo e o uso da corrente. Novos combatentes também ampliam o universo, como Kitana, com suas lâminas letais e agilidade extrema, e Johnny Cage, que combina artes marciais com golpes acrobáticos e carisma marcante, trazendo um contraste mais leve ao clima de guerra.</p><p>Com isso, “Mortal Kombat 2” se posiciona como uma tentativa de reconstruir a franquia no cinema, corrigindo falhas do primeiro filme e apostando em uma abordagem mais grandiosa. A expectativa é que essa nova fase finalmente entregue a intensidade e o impacto que o público esperava desde o início.</p><p>Duda Nicolich – 3º Período de Jornalismo</p></main>"
+  },
+  "date": "2026-05-06T10:43:29",
+  "date_gmt": "2026-05-06T13:43:29",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Mortal Kombat 2” se posiciona como uma tentativa de reconstruir a franquia no cinema</p>\n"
+  },
+  "featured_media": 21309,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21308"
+  },
+  "id": 21308,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/maxresdefault.jpg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5xG",
+  "link": "https://agenciauvabarra.com/2026/05/06/mortal-kombat-2/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAH+fKgmAymAYgBBwEKBwAYARB0BgoHAASmAuYBkgMBAQgCQgECSAC2CgEBCAJCAQJIALoQAQEIAkIBAkgAqA0BAQgCQgECSACACQEBCAJCAQJIAKAJAQEIAkIBAkgAig0BAQgCQgECSACsFgEBCAJCAQJIAKoJAQEIAQNIChYCNAL6bkYCiuYB0uUBAojoAe7pAQYIBwAKBwCTASgBIQAnAAQAhAQnASgGJwAoFCcARADEBIQBBwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBBAAoBCcAhwAoAicBKAQnAAQAhAOoAAQAKAAEAIQAqL5J+0dzdGF0ZXZlcnNpb25kb2N1bWVudGRhdGVkb2N1bWVudHN0YXR1c2RvY3VtZW50dGl0bGVSYXNjdW5obyBhdXRvbcOhdGljb2RvY3VtZW50Y29udGVudGRvY3VtZW50ZXhjZXJwdGRvY3VtZW50YXV0aG9yZG9jdW1lbnRmZWF0dXJlZF9tZWRpYWRvY3VtZW50Y29tbWVudF9zdGF0dXNkb2N1bWVudHBpbmdfc3RhdHVzZG9jdW1lbnRzdGlja3lkb2N1bWVudHRlbXBsYXRlZG9jdW1lbnRmb3JtYXRkb2N1bWVudG1ldGFhZHZhbmNlZF9zZW9fZGVzY3JpcHRpb25qZXRwYWNrX3Nlb19odG1sX3RpdGxlamV0cGFja19zZW9fbm9pbmRleF9jb2Jsb2Nrc19hdHRyX2NvYmxvY2tzX2RpbWVuc2lvbnNfY29ibG9ja3NfcmVzcG9uc2l2ZV9oZWlnaHRfY29ibG9ja3NfYWNjb3JkaW9uX2llX3N1cHBvcnRqZXRwYWNrX3Bvc3Rfd2FzX2V2ZXJfcHVibGlzaGVkcmVhZGVyX3N1Z2dlc3RlZF90YWdzX2pldHBhY2tfbmV3c2xldHRlcl9hY2Nlc3NfamV0cGFja19kb250X2VtYWlsX3Bvc3RfdG9fc3Vic19qZXRwYWNrX25ld3NsZXR0ZXJfdGllcl9pZF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BheXdhbGxlZF9jb250ZW50X2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGFpZF9jb250ZW50Zm9vdG5vdGVzamV0cGFja19wdWJsaWNpemVfbWVzc2FnZWpldHBhY2tfcHVibGljaXplX2ZlYXR1cmVfZW5hYmxlZGpldHBhY2tfc29jaWFsX3Bvc3RfYWxyZWFkeV9zaGFyZWRqZXRwYWNrX3NvY2lhbF9vcHRpb25zZG9jdW1lbnRjYXRlZ29yaWVzZG9jdW1lbnR0YWdzZG9jdW1lbnRibG9ja3NodHRwOi8vYWdlY2l2YWJhcnJhLmMvMjAyNi8wNC8yOS9kYWItdmVzdGUtcHJhZGEtMi9Nb3J0YWwgS29tYmF0IDIgZSBhIFRlbnRhdGl2YSBkZSBSZWRlZmluaXIgYSBGcmFucXVpYWNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudE8gcHJpbWVpcm8g4oCcTW9ydGFsIEtvbWJhdOKAnSAoMjAyMSkgZGl2aWRpdSBvIHDDumJsaWNvIGUgbsOjbyBjb25zZWd1aXUgYXRpbmdpciB0b3RhbG1lbnRlIGFzIGV4cGVjdGF0aXZhcyBkb3MgZsOjcyBkYSBmcmFucXVpYS4gQXBlc2FyIGRlIGFwcmVzZW50YXIgcGVyc29uYWdlbnMgaWPDtG5pY29zIGUgcHJvbWV0ZXIgdW1hIGFkYXB0YcOnw6NvIGZpZWwgZG8gdW5pdmVyc28gZG9zIGdhbWVzLCBvIGZpbG1lIGZvaSBjcml0aWNhZG8gcG9yIHN1YSBuYXJyYXRpdmEgc2ltcGxpc3RhIGUgcGVsYSBmYWx0YSBkZSBkZXNlbnZvbHZpbWVudG8gbWFpcyBjb25zaXN0ZW50ZSBkbyB0b3JuZWlvIGVtIHNpLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50QWdvcmEsIOKAnE1vcnRhbCBLb21iYXQgMuKAnSBzdXJnZSBjb21vIHVtYSB0ZW50YXRpdmEgY2xhcmEgZGUgY29ycmlnaXIgZXNzZSBjYW1pbmhvIGUgcmVjb25xdWlzdGFyIGEgY29uZmlhbsOnYSBkbyBww7pibGljbywgcHJvbWV0ZW5kbyBleHBhbmRpciBhIG1pdG9sb2dpYSwgYXByb2Z1bmRhciBvcyBwZXJzb25hZ2VucyBlIGZpbmFsbWVudGUgZGFyIG1haXMgcGVzbyBhbyBwcsOzcHJpbyB0b3JuZWlvIHF1ZSBkw6Egbm9tZSDDoCBzYWdhLiBBIHNlcXXDqm5jaWEgYW1wbGlhIG8gY29uZmxpdG8gZW50cmUgRWFydGhyZWFsbSBlIE91dHdvcmxkLCBlbGV2YW5kbyBhcyBhcG9zdGFzIGRhIGRpc3B1dGEgcXVlIGRlZmluZSBvIGRlc3Rpbm8gZG9zIG11bmRvcy4gTyBxdWUgYW50ZXMgZXJhIGFwcmVzZW50YWRvIGRlIGZvcm1hIGludHJvZHV0w7NyaWEgcGFzc2EgYSBzZXIgdHJhdGFkbyBjb21vIHVtYSBndWVycmEgZW0gZXNjYWxhIG1haW9yLCBjb20gY29uc2VxdcOqbmNpYXMgZGlyZXRhcyBwYXJhIHRvZG9zIG9zIHJlaW5vcyBlbnZvbHZpZG9zLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50RGVzdGEgdmV6LCBhIHByb2R1w6fDo28gaW52ZXN0ZSBtYWlzIG5hIGNvbnN0cnXDp8OjbyBkbyB1bml2ZXJzbywgdHJhemVuZG8gbm92b3MgbHV0YWRvcmVzIGljw7RuaWNvcywgYXJlbmFzIGNsw6Fzc2ljYXMgZSBlbGVtZW50b3MgZGlyZXRhbWVudGUgcmV0aXJhZG9zIGRvcyBqb2dvcy4gVW0gZG9zIHBvbnRvcyBtYWlzIGVsb2dpw6F2ZWlzIGRhIHNlcXXDqm5jaWEgw6kganVzdGFtZW50ZSBvIHZpc3VhbCwgcXVlIGVzdMOhIG11aXRvIG1haXMgcmVmaW5hZG8sIG9zIGNlbsOhcmlvcyBzw6NvIG1haXMgZGV0YWxoYWRvcywgb3MgZWZlaXRvcyBzw6NvIG1haXMgaW1wYWN0YW50ZXMgZSBhIGVzdMOpdGljYSBnZXJhbCBjb25zZWd1ZSBlcXVpbGlicmFyIGJlbSBvIGVzdGlsbyBzb21icmlvIGNvbSBvIGVzcGV0w6FjdWxvIGNhcmFjdGVyw61zdGljbyBkYSBmcmFucXVpYS5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEFzIGNlbmFzIGRlIGHDp8OjbyBjb250aW51YW0gc2VuZG8gdW0gZG9zIHBvbnRvcyBjZW50cmFpcywgY29tIGx1dGFzIGludGVuc2FzLCBjb3Jlb2dyYWZpYXMgZWxhYm9yYWRhcyBlIHZpb2zDqm5jaWEgZXN0aWxpemFkYS4gTm8gZW50YW50bywgYWdvcmEgb3MgY29uZnJvbnRvcyBzw6NvIGluc2VyaWRvcyBkZW50cm8gZGUgdW1hIG5hcnJhdGl2YSBtYWlzIHVyZ2VudGUsIGVtIHF1ZSBjYWRhIHZpdMOzcmlhIG91IGRlcnJvdGEgYWx0ZXJhIG8gZXF1aWzDrWJyaW8gZW50cmUgb3MgbXVuZG9zLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50Q29tIGEgYW1lYcOnYSBkZSBTaGFvIEthaG4gc2UgdG9ybmFuZG8gY2FkYSB2ZXogbWFpcyBjb25jcmV0YSwgbyB0b3JuZWlvIGRlaXhhIGRlIHNlciBhcGVuYXMgdW1hIHRyYWRpw6fDo28gZSBwYXNzYSBhIGZ1bmNpb25hciBjb21vIMO6bHRpbWEgYmFycmVpcmEgZGUgcHJvdGXDp8OjbyBkYSBUZXJyYS4gSXNzbyBhdW1lbnRhIGEgcHJlc3PDo28gc29icmUgb3MgY2FtcGXDtWVzLCBxdWUgcHJlY2lzYW0gbGlkYXIgY29tIGluaW1pZ29zIG1haXMgcGVyaWdvc29zIGUgY29tIG8gcGVzbyBkYXMgcHLDs3ByaWFzIGVzY29saGFzLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50T3MgcGVyc29uYWdlbnMgZ2FuaGFtIG1haXMgZXNwYcOnbyBlIHByb2Z1bmRpZGFkZSBuZXN0YSBzZXF1w6puY2lhLCBkZWl4YW5kbyBkZSBzZXIgYXBlbmFzIHBlw6dhcyBkbyB0b3JuZWlvIHBhcmEgYXNzdW1pciBwYXDDqWlzIG1haXMgZGVmaW5pZG9zIGRlbnRybyBkbyBjb25mbGl0byBlbnRyZSBvcyByZWlub3MuIENvbGUgWW91bmcgY29udGludWEgY29tbyBwb250byBkZSBsaWdhw6fDo28gcGFyYSBvIHDDumJsaWNvLCBhZ29yYSBtYWlzIHByZXNzaW9uYWRvIGEgZXZvbHVpciBjb21vIGx1dGFkb3IgZSBkZXNwZXJ0YXIgcGxlbmFtZW50ZSBvIHPDrW1ib2xvIGRvIGRyYWfDo28sIHF1ZSByZXByZXNlbnRhIHN1YSBsaWdhw6fDo28gY29tIG8gdG9ybmVpbyBlIGFtcGxpYSBzdWFzIGhhYmlsaWRhZGVzIGVtIGNvbWJhdGUuJm5ic3A7ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRFbnRyZSBvcyBsdXRhZG9yZXMgY2zDoXNzaWNvcywgbm9tZXMgY29tbyBMaXUgS2FuZywgU3ViLVplcm8gZSBTY29ycGlvbiByZXRvcm5hbSBjb20gYWluZGEgbWFpcyBkZXN0YXF1ZS4gTGl1IEthbmcgbWFudMOpbSBzZXUgZG9tw61uaW8gc29icmUgbyBmb2dvLCBtYXMgY29tIG1haW9yIGNvbnRyb2xlIGRlIHN1YXMgaGFiaWxpZGFkZXMgbcOtc3RpY2FzIGxpZ2FkYXMgYW8gZGVzdGlubyBkbyBFYXJ0aHJlYWxtLiBTdWItWmVybyBjb250aW51YSB1dGlsaXphbmRvIG8gZ2VsbyBjb21vIHBvZGVyIHByaW5jaXBhbCwgY3JpYW5kbyBhcm1hcywgZXN0cnV0dXJhcyBlIGF0YXF1ZXMgY29uZ2VsYW50ZXMgZGUgZ3JhbmRlIGltcGFjdG8uIErDoSBTY29ycGlvbiwgbW92aWRvIHBvciBzdWEgZW5lcmdpYSBpbmZlcm5hbCBlIGVzcMOtcml0byB2aW5nYXRpdm8sIHJlZm9yw6dhIHNldXMgYXRhcXVlcyBkZSBmb2dvIGUgbyB1c28gZGEgY29ycmVudGUuIE5vdm9zIGNvbWJhdGVudGVzIHRhbWLDqW0gYW1wbGlhbSBvIHVuaXZlcnNvLCBjb21vIEtpdGFuYSwgY29tIHN1YXMgbMOibWluYXMgbGV0YWlzIGUgYWdpbGlkYWRlIGV4dHJlbWEsIGUgSm9obm55IENhZ2UsIHF1ZSBjb21iaW5hIGFydGVzIG1hcmNpYWlzIGNvbSBnb2xwZXMgYWNyb2LDoXRpY29zIGUgY2FyaXNtYSBtYXJjYW50ZSwgdHJhemVuZG8gdW0gY29udHJhc3RlIG1haXMgbGV2ZSBhbyBjbGltYSBkZSBndWVycmEuZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRDb20gaXNzbywg4oCcTW9ydGFsIEtvbWJhdCAy4oCdIHNlIHBvc2ljaW9uYSBjb21vIHVtYSB0ZW50YXRpdmEgZGUgcmVjb25zdHJ1aXIgYSBmcmFucXVpYSBubyBjaW5lbWEsIGNvcnJpZ2luZG8gZmFsaGFzIGRvIHByaW1laXJvIGZpbG1lIGUgYXBvc3RhbmRvIGVtIHVtYSBhYm9yZGFnZW0gbWFpcyBncmFuZGlvc2EuIEEgZXhwZWN0YXRpdmEgw6kgcXVlIGVzc2Egbm92YSBmYXNlIGZpbmFsbWVudGUgZW50cmVndWUgYSBpbnRlbnNpZGFkZSBlIG8gaW1wYWN0byBxdWUgbyBww7pibGljbyBlc3BlcmF2YSBkZXNkZSBvIGluw61jaW8uZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc0R1ZGEgTU5pY29saWNoIC0gM8K6IFBlcsOtb2RvIGRlIEpPb3JuYWxpc21vIDwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5PIHByaW1laXJvIOKAnE1vcnRhbCBLb21iYXTigJ0gKDIwMjEpIGRpdmlkaXUgbyBww7pibGljbyBlIG7Do28gY29uc2VndWl1IGF0aW5naXIgdG90YWxtZW50ZSBhcyBleHBlY3RhdGl2YXMgZG9zIGbDo3MgZGEgZnJhbnF1aWEuIEFwZXNhciBkZSBhcHJlc2VudGFyIHBlcnNvbmFnZW5zIGljw7RuaWNvcyBlIHByb21ldGVyIHVtYSBhZGFwdGHDp8OjbyBmaWVsIGRvIHVuaXZlcnNvIGRvcyBnYW1lcywgbyBmaWxtZSBmb2kgY3JpdGljYWRvIHBvciBzdWEgbmFycmF0aXZhIHNpbXBsaXN0YSBlIHBlbGEgZmFsdGEgZGUgZGVzZW52b2x2aW1lbnRvIG1haXMgY29uc2lzdGVudGUgZG8gdG9ybmVpbyBlbSBzaS48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5BZ29yYSwg4oCcTW9ydGFsIEtvbWJhdCAy4oCdIHN1cmdlIGNvbW8gdW1hIHRlbnRhdGl2YSBjbGFyYSBkZSBjb3JyaWdpciBlc3NlIGNhbWluaG8gZSByZWNvbnF1aXN0YXIgYSBjb25maWFuw6dhIGRvIHDDumJsaWNvLCBwcm9tZXRlbmRvIGV4cGFuZGlyIGEgbWl0b2xvZ2lhLCBhcHJvZnVuZGFyIG9zIHBlcnNvbmFnZW5zIGUgZmluYWxtZW50ZSBkYXIgbWFpcyBwZXNvIGFvIHByw7NwcmlvIHRvcm5laW8gcXVlIGTDoSBub21lIMOgIHNhZ2EuIEEgc2VxdcOqbmNpYSBhbXBsaWEgbyBjb25mbGl0byBlbnRyZSBFYXJ0aHJlYWxtIGUgT3V0d29ybGQsIGVsZXZhbmRvIGFzIGFwb3N0YXMgZGEgZGlzcHV0YSBxdWUgZGVmaW5lIG8gZGVzdGlubyBkb3MgbXVuZG9zLiBPIHF1ZSBhbnRlcyBlcmEgYXByZXNlbnRhZG8gZGUgZm9ybWEgaW50cm9kdXTDs3JpYSBwYXNzYSBhIHNlciB0cmF0YWRvIGNvbW8gdW1hIGd1ZXJyYSBlbSBlc2NhbGEgbWFpb3IsIGNvbSBjb25zZXF1w6puY2lhcyBkaXJldGFzIHBhcmEgdG9kb3Mgb3MgcmVpbm9zIGVudm9sdmlkb3MuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+RGVzdGEgdmV6LCBhIHByb2R1w6fDo28gaW52ZXN0ZSBtYWlzIG5hIGNvbnN0cnXDp8OjbyBkbyB1bml2ZXJzbywgdHJhemVuZG8gbm92b3MgbHV0YWRvcmVzIGljw7RuaWNvcywgYXJlbmFzIGNsw6Fzc2ljYXMgZSBlbGVtZW50b3MgZGlyZXRhbWVudGUgcmV0aXJhZG9zIGRvcyBqb2dvcy4gVW0gZG9zIHBvbnRvcyBtYWlzIGVsb2dpw6F2ZWlzIGRhIHNlcXXDqm5jaWEgw6kganVzdGFtZW50ZSBvIHZpc3VhbCwgcXVlIGVzdMOhIG11aXRvIG1haXMgcmVmaW5hZG8sIG9zIGNlbsOhcmlvcyBzw6NvIG1haXMgZGV0YWxoYWRvcywgb3MgZWZlaXRvcyBzw6NvIG1haXMgaW1wYWN0YW50ZXMgZSBhIGVzdMOpdGljYSBnZXJhbCBjb25zZWd1ZSBlcXVpbGlicmFyIGJlbSBvIGVzdGlsbyBzb21icmlvIGNvbSBvIGVzcGV0w6FjdWxvIGNhcmFjdGVyw61zdGljbyBkYSBmcmFucXVpYS48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5BcyBjZW5hcyBkZSBhw6fDo28gY29udGludWFtIHNlbmRvIHVtIGRvcyBwb250b3MgY2VudHJhaXMsIGNvbSBsdXRhcyBpbnRlbnNhcywgY29yZW9ncmFmaWFzIGVsYWJvcmFkYXMgZSB2aW9sw6puY2lhIGVzdGlsaXphZGEuIE5vIGVudGFudG8sIGFnb3JhIG9zIGNvbmZyb250b3Mgc8OjbyBpbnNlcmlkb3MgZGVudHJvIGRlIHVtYSBuYXJyYXRpdmEgbWFpcyB1cmdlbnRlLCBlbSBxdWUgY2FkYSB2aXTDs3JpYSBvdSBkZXJyb3RhIGFsdGVyYSBvIGVxdWlsw61icmlvIGVudHJlIG9zIG11bmRvcy48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5Db20gYSBhbWVhw6dhIGRlIFNoYW8gS2FobiBzZSB0b3JuYW5kbyBjYWRhIHZleiBtYWlzIGNvbmNyZXRhLCBvIHRvcm5laW8gZGVpeGEgZGUgc2VyIGFwZW5hcyB1bWEgdHJhZGnDp8OjbyBlIHBhc3NhIGEgZnVuY2lvbmFyIGNvbW8gw7psdGltYSBiYXJyZWlyYSBkZSBwcm90ZcOnw6NvIGRhIFRlcnJhLiBJc3NvIGF1bWVudGEgYSBwcmVzc8OjbyBzb2JyZSBvcyBjYW1wZcO1ZXMsIHF1ZSBwcmVjaXNhbSBsaWRhciBjb20gaW5pbWlnb3MgbWFpcyBwZXJpZ29zb3MgZSBjb20gbyBwZXNvIGRhcyBwcsOzcHJpYXMgZXNjb2xoYXMuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+T3MgcGVyc29uYWdlbnMgZ2FuaGFtIG1haXMgZXNwYcOnbyBlIHByb2Z1bmRpZGFkZSBuZXN0YSBzZXF1w6puY2lhLCBkZWl4YW5kbyBkZSBzZXIgYXBlbmFzIHBlw6dhcyBkbyB0b3JuZWlvIHBhcmEgYXNzdW1pciBwYXDDqWlzIG1haXMgZGVmaW5pZG9zIGRlbnRybyBkbyBjb25mbGl0byBlbnRyZSBvcyByZWlub3MuIENvbGUgWW91bmcgY29udGludWEgY29tbyBwb250byBkZSBsaWdhw6fDo28gcGFyYSBvIHDDumJsaWNvLCBhZ29yYSBtYWlzIHByZXNzaW9uYWRvIGEgZXZvbHVpciBjb21vIGx1dGFkb3IgZSBkZXNwZXJ0YXIgcGxlbmFtZW50ZSBvIHPDrW1ib2xvIGRvIGRyYWfDo28sIHF1ZSByZXByZXNlbnRhIHN1YSBsaWdhw6fDo28gY29tIG8gdG9ybmVpbyBlIGFtcGxpYSBzdWFzIGhhYmlsaWRhZGVzIGVtIGNvbWJhdGUuJm5ic3A7PC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+RW50cmUgb3MgbHV0YWRvcmVzIGNsw6Fzc2ljb3MsIG5vbWVzIGNvbW8gTGl1IEthbmcsIFN1Yi1aZXJvIGUgU2NvcnBpb24gcmV0b3JuYW0gY29tIGFpbmRhIG1haXMgZGVzdGFxdWUuIExpdSBLYW5nIG1hbnTDqW0gc2V1IGRvbcOtbmlvIHNvYnJlIG8gZm9nbywgbWFzIGNvbSBtYWlvciBjb250cm9sZSBkZSBzdWFzIGhhYmlsaWRhZGVzIG3DrXN0aWNhcyBsaWdhZGFzIGFvIGRlc3Rpbm8gZG8gRWFydGhyZWFsbS4gU3ViLVplcm8gY29udGludWEgdXRpbGl6YW5kbyBvIGdlbG8gY29tbyBwb2RlciBwcmluY2lwYWwsIGNyaWFuZG8gYXJtYXMsIGVzdHJ1dHVyYXMgZSBhdGFxdWVzIGNvbmdlbGFudGVzIGRlIGdyYW5kZSBpbXBhY3RvLiBKw6EgU2NvcnBpb24sIG1vdmlkbyBwb3Igc3VhIGVuZXJnaWEgaW5mZXJuYWwgZSBlc3DDrXJpdG8gdmluZ2F0aXZvLCByZWZvcsOnYSBzZXVzIGF0YXF1ZXMgZGUgZm9nbyBlIG8gdXNvIGRhIGNvcnJlbnRlLiBOb3ZvcyBjb21iYXRlbnRlcyB0YW1iw6ltIGFtcGxpYW0gbyB1bml2ZXJzbywgY29tbyBLaXRhbmEsIGNvbSBzdWFzIGzDom1pbmFzIGxldGFpcyBlIGFnaWxpZGFkZSBleHRyZW1hLCBlIEpvaG5ueSBDYWdlLCBxdWUgY29tYmluYSBhcnRlcyBtYXJjaWFpcyBjb20gZ29scGVzIGFjcm9iw6F0aWNvcyBlIGNhcmlzbWEgbWFyY2FudGUsIHRyYXplbmRvIHVtIGNvbnRyYXN0ZSBtYWlzIGxldmUgYW8gY2xpbWEgZGUgZ3VlcnJhLjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkNvbSBpc3NvLCDigJxNb3J0YWwgS29tYmF0IDLigJ0gc2UgcG9zaWNpb25hIGNvbW8gdW1hIHRlbnRhdGl2YSBkZSByZWNvbnN0cnVpciBhIGZyYW5xdWlhIG5vIGNpbmVtYSwgY29ycmlnaW5kbyBmYWxoYXMgZG8gcHJpbWVpcm8gZmlsbWUgZSBhcG9zdGFuZG8gZW0gdW1hIGFib3JkYWdlbSBtYWlzIGdyYW5kaW9zYS4gQSBleHBlY3RhdGl2YSDDqSBxdWUgZXNzYSBub3ZhIGZhc2UgZmluYWxtZW50ZSBlbnRyZWd1ZSBhIGludGVuc2lkYWRlIGUgbyBpbXBhY3RvIHF1ZSBvIHDDumJsaWNvIGVzcGVyYXZhIGRlc2RlIG8gaW7DrWNpby48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5EdWRhIE5pY29saWNoIC0gM8K6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW8gPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+ZG9jdW1lbnRzbHVnIOKAnE1vcnRhbCBLb21iYXQgMuKAnSBzZSBwb3NpY2lvbmEgY29tbyB1bWEgdGVudGF0aXZhIGRlIHJlY29uc3RydWlyIGEgZnJhbnF1aWEgbm8gY2luZW1hBQcIBAgGCAVDAAVDAAIIBwgHCAYIDggOCAsIBkgBBggEGBYTDhQbHh8VGiAbLyoJGSEiFggKCAQIBgQGAgkNAg81CAcECgePBQcKDQ8MCwgHBAoHkQgHCg0PDAsIBwQKB6gGBwoNDwwLCAcECgeUBAcKDQ8MCwgHBAoHpAQHCg0PDAsIBwQKB5kGBwoNDwwLCAcECgeKCwcKDQ8MCwgHBAoHqQQHCg0PDAsIBwQKRwAKDQ8MCwUBGgEKmTsIBAGVAQ8BAwAAAQkAEgECAG0BAAAoQgEBAEEAAgBBAAIAQQACAEEAAgBBAAIAQQACAEEAAgBBAAIAQQACAAVBaAZBAAG0AQB9AXcTMjAyNi0wNS0wNlQxMDo0MDo0MX2a4K5yfQB3BG9wZW53BG9wZW55dwB3CHN0YW5kYXJkdwB3AHl3AHcAdwB3AHl3AHcAeX0AeXl3AHcAeHl2AhhpbWFnZV9nZW5lcmF0b3Jfc2V0dGluZ3N2BAh0ZW1wbGF0ZXcHaGlnaHdheRBkZWZhdWx0X2ltYWdlX2lkfQAEZm9udHcAB2VuYWJsZWR5B3ZlcnNpb259AnUAdQB3JDE5MjNkNjVlLWU5NjMtNDI1ZS1hNGVhLWQ3NjlkMGJkZWYxYXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckYjI3ZjkxZWQtYWIzZi00MTE2LTlhZTYtYTlkNmUyYTNlM2E0eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQxNjkzMzc2OS1lZjc5LTQ3MTctOTMyYi1jZjRhYjc1ZjI1YzZ4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDM2NzhiMzg4LTFhYzYtNDVmZi04MWI3LTY2ODQ0MTBjMmU1M3h3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckMzcxNDZhMzItYmIxNi00ZGU0LWFmYjUtZDFhMWQxYWViNWVjeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyRhMjFlZTEyMC1hMzgyLTQ4Y2QtYWU1ZS1jNDM5NWFhZWIyMjZ4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDE3YWIzNGU0LTRkNzMtNDgyOC04YjRmLWZkNDFmNzc5ODBiN3h3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckMjI5OGQxZTUtMWI1Yy00NzRmLWE4MmUtZjMxNjA1NDBiMGQ2eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyRlNDcwOTFiMC1kNjBhLTQyYmUtOTRjMy03YTNmM2I5MGJjYzl4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl9vcwCdw9tb3J0YWwta29tYmF0LTJ1AX2VCXUBfZnMmOoEdQJ9mcyY6gR9hvPpuAF1A32ZzJjqBH2G8+m4AX2VCXUEfZnMmOoEfYbz6bgBfZUJfay+lwV1BX2ZzJjqBH2G8+m4AX2VCX2svpcFfYqr3+8EdQZ9mcyY6gR9hvPpuAF9lQl9rL6XBX2Kq9/vBH2bkgJ1B32ZzJjqBH2G8+m4AX2VCX2svpcFfYqr3+8EfZuSAn2rj6khdwdwdWJsaXNoAbm5kIwGCQIAARIDABkBATLyGgAaAOUdAFYF\",\"updateId\":293212080}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-06T10:43:29",
+  "modified_gmt": "2026-05-06T13:43:29",
+  "ping_status": "open",
+  "slug": "mortal-kombat-2",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    17563,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Mortal Kombat 2 e a Tentativa de Redefinir a Franquia"
+  },
+  "type": "post"
+}

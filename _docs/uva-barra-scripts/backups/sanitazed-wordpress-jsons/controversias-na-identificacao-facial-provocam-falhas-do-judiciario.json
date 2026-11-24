@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10413/revisions/10440",
+        "id": 10440
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10413"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10413",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 23,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10413/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10413"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10433"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10413",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10413",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    81389,
+    14603,
+    7114
+  ],
+  "class_list": [
+    "post-10413",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direito",
+    "category-jornalismo",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Tribunais Superiores e Órgãos Públicos buscam medidas para minimizar tais erros, um dos mais recorrentes no Brasil</em></p><p>As falhas cometidas pelo Judiciário em virtude do método de reconhecimento facial tornam-se cada vez mais frequentes no país, onde muitas pessoas, principalmente negras, de baixa renda e moradoras de periferia, acabam presas injustamente. Atualmente, o Conselho Nacional de Justiça (CNJ), presidido pelo Ministro Luiz Fux, elaborou uma portaria buscando minimizar tais efeitos através da criação de um grupo de trabalho que procura encontrar soluções e outras formas procedimentais de reconhecimento que possam vir a ser aplicadas pelo Judiciário evitando a prisão de inocentes.</p><p>O grupo analisa dois tipos de reconhecimento: o fotográfico, feito presencialmente durante uma investigação, e o facial, através algoritmo, fazendo crer que o reconhecimento por foto é retrógrado, não havendo discussão sobre o emprego desse expediente sem falar de racismo.</p><p>No Superior Tribunal de Justiça, apesar de já existirem decisões proferidas anteriormente que tenham rejeitado a prisão preventiva e a condenação com base no reconhecimento fotográfico como único meio de prova eficaz, erros no reconhecimento por meio de fotografia têm acontecido regularmente. Levantamentos de dados recentes trazem o Rio de Janeiro como foco. Um deles, realizado pelo Colégio Nacional de Defensores Públicos Gerais, o Condege, publicado em setembro do ano passado, mapeou 58 erros de reconhecimento fotográfico de junho de 2019 a março de 2020, todos sucedidos no estado do Rio, sendo que 80% dos suspeitos eram negros.</p><p>Em 86% das ocorrências, foi decretada prisão preventiva, impondo às vítimas períodos de privação de liberdade que variaram de cinco dias a três anos. Outro relatório relevante, elaborado também pelo Condege, e publicado em fevereiro deste ano, contou com informações de dez estados, e ainda assim, o Rio de Janeiro manteve-se na liderança, responsável por 46% dos casos, com mais de 80% das prisões pertinentes à classe negra.</p><p>Segundo o mesmo levantamento, de 2012 a 2020, ocorreram no Brasil pelo menos 90 prisões de inocentes, com 73 delas apenas no Rio de Janeiro, o que traz à tona a desigualdade e o racismo estrutural, ainda que a maioria dos acusados tenha sido inocentada, pois o reconhecimento não foi confirmado judicialmente.</p><p>O Defensor Público da União e Professor de Legislação Penal, Pedro Coelho, explica que é necessário respeitar o posicionamento de que a violação às previsões contidas no artigo 226 do Código de Processo Penal (CPP) deve indicar o reconhecimento da nulidade, pois descumpre o direito de não produzir prova contra si mesmo.</p><blockquote><p><em>“Por mais que os tribunais brasileiros façam vista grossa para esse abuso, argumentando em nome do livre convencimento do julgador, a prática pode ensejar nulidade”</em></p><cite>Pedro Coelho</cite></blockquote><p>O defensor entende que alguns dispositivos antigos asseguravam que o desacato das formalidades legais para o reconhecimento pessoal do acusado não torna o ato nulo. “Por não se tratar de exigência, mas apenas recomendação, o ato é válido quando realizado de forma diversa da prevista em lei, notadamente quando amparado em outros elementos de prova, e apesar da resistência de parte da doutrina, esse entendimento serviu de base aos Tribunais Superiores por longo período”, afirma.</p><p>Pedro garante que atualmente, após uma alteração significativa dos rumos da jurisprudência do Superior Tribunal de Justiça (STJ), mediante entendimento já consagrado na 6ª Turma deste Órgão, o reconhecimento, seja fotográfico ou presencial, efetuado pela vítima na fase do inquérito policial, sem a observância dos procedimentos descritos no artigo 226 do CPP, não evidencia a autoria do delito de forma segura. “A ideia de mera recomendação e entendimento atual do que previsto no artigo 226, que valida o reconhecimento de pessoas, serve como prova eficaz no convencimento acerca da autoria”, declara.</p><p>O auxiliar administrativo Danilo Félix Vicente de Oliveira, de 24 anos, foi mais uma vítima, sendo acusado pela prática de um delito que jamais cometeu. Morador do Morro da Chácara, em Niterói, foi abordado por policiais à paisana e conduzido à 76ª Delegacia de Polícia, onde uma fotografia dele de 2017 retirada de suas mídias sociais teria sido reconhecida pelo homem roubado na ocasião.</p><p><strong>O jovem afirma, que além de todo constrangimento a que foi submetido, precisou lidar também com o receio de não conseguir provar sua inocência. Ouça abaixo:</strong></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/danillo-felix-foto.jpg?resize=720%2C718&amp;ssl=1\" alt=\"Danilo Félix ainda tem medo do que possa acontecer com ele mesmo após a soltura. (Foto: Arquivo Pessoal)\" width=\"720\" height=\"718\"><figcaption>Danilo Félix ainda tem medo do que possa acontecer com ele mesmo após a soltura. (Foto: Arquivo Pessoal)</figcaption></figure><p>Contudo, em 2019, ano em que foi conduzido a detenção, o rapaz estava com cabelos longos, tranças e cavanhaque, não correspondendo à descrição do meliante feita pela vítima. Segundo seus advogados, apenas uma semana após a prisão e sob forte pressão do movimento das entidades defensoras dos direitos humanos é que as imagens das câmeras de vigilância do local do furto foram requeridas pela Justiça.</p><p><strong>Danilo afirma que ainda oscila bastante com relação a sua saúde mental, alegando que por vezes ainda sente-se vulnerável. Ouça abaixo:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1144939936&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Danilo Félix contou sobre o medo que teve em não conseguir provar sua inocência by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Diante de todo esse fato, Danilo esclarece que com certeza foi vítima de um sistema falho, pautado na desigualdade racial que impera no país. “Sem dúvida fui vítima de preconceito, e com certeza foi fator preponderante para a minha prisão, pois não havia sequer um mandado de prisão expedido contra mim.” E conclui dizendo que mesmo após o trauma da prisão tendenciosa não vai abrir mão de continuar lutando para tentar minimizar as injustiças. “Tenho vários planos daqui para a frente, mas uma de minhas prioridades é provar que com muita força de vontade podemos derrubar esse sistema falho e mentiroso”, conta.</p><p>Integrante da Comissão de Direitos Humanos da Ordem dos Advogados do Brasil (OAB), Sônia Ferreira Soares, entende que a realização desse meio de prova por reconhecimento fotográfico, não possui base legal, não sendo motivo por parte dos delegados de polícia levar ao Poder Judiciário para fins de requerimento de prisão, seja ela temporária, ou preventiva.</p><p>Para a jurista, a Ordem dos Advogados do Brasil desenvolve iniciativas para diminuir os impactos dessa injustiça na sociedade. “A OAB vem buscando soluções eficazes no combate ao tema com o intuito de prestar auxílio ao Judiciário no desenrolar dos processos, bem como as delegacias, os magistrados e o Ministério Público”, responde.</p><p>Outro fator importante a ser destacado por ela, é no que diz respeito ao amparo familiar após a ocorrência destes episódios. “Temos prestado auxílio às famílias no que tange a reparação indenizatória por parte do Estado. Nesse sentido, temos colaborado diretamente na mediação entre familiares e Defensoria Pública do Estado para atuação nesses casos específicos”, esclarece.</blockquote><p><em>“A OAB também organizou e lançou uma campanha de veiculação denominada ‘Justiça para Inocentes’, contendo depoimentos, descrições e participação do cantor Caetano Veloso e do Juiz André Nicolliti”</em></p><p><em>– Sônia Soares</em>.</p><p><strong>A advogada acredita que o trabalho direcionado pela Ordem dos Advogados do Brasil, em conjunto com o Conselho Nacional de Justiça, possa colher frutos no futuro, impactando positivamente na filtragem e diminuição das falhas. Ouça no áudio abaixo:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1144942258&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Sônia Ferreira acredita que o trabalho feito pelo CNJ e pela OAB renderá frutos no futuro by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Vale ressaltar, que o Senado aprovou no dia 13 de outubro deste ano, o projeto de lei nº 676/2021, que modifica o Código de Processo Penal (CPP), com a inserção de novas regras para o reconhecimento pessoal no Brasil. A redação estabelece inovações para o procedimento, e visa preencher um vácuo legislativo que tem resultado em prisões ilegítimas. A proposta agora segue para ser confirmada na Câmara dos Deputados.</p><p><em>Bruno Sadock – 6º período</em></p></main>"
+  },
+  "date": "2021-10-21T18:48:00",
+  "date_gmt": "2021-10-21T21:48:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>presas injustamente. Atualmente, o Conselho Nacional de Justiça (CNJ), presidido pelo Ministro Luiz Fux, elaborou uma portaria buscando minimizar tais efeitos através da criação de um grupo de trabalho que procura encontrar soluções e outras formas procedimentais de reconhecimento que possam vir a ser aplicadas pelo Judiciário evitando a prisão de inocentes. </p>\n"
+  },
+  "featured_media": 10433,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10413"
+  },
+  "id": 10413,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/capa-site-agencia-erros-de-rf-azul.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2HX",
+  "link": "https://agenciauvabarra.com/2021/10/21/controversias-na-identificacao-facial-provocam-falhas-do-judiciario/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-21T19:07:26",
+  "modified_gmt": "2021-10-21T22:07:26",
+  "ping_status": "open",
+  "slug": "controversias-na-identificacao-facial-provocam-falhas-do-judiciario",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Controvérsias na identificação facial provocam falhas do Judiciário"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2098/revisions/3088",
+        "id": 3088
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2098"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2098",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2098/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2098"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2101"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2098",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2098",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2098",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-acao",
+    "tag-cinema",
+    "tag-denzel-washington"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/banner-o-protetor-2-740x360.png?resize=740%2C360&amp;ssl=1' alt='BANNER-O-PROTETOR-2-740x360' width='740' height='360'><figcaption>Foto: Divulgação</figcaption></figure><p>Denzel Washington está de volta como o protagonista de O Protetor 2. A história de Robert McCall, iniciada no primeiro filme de 2014, também é baseada em série homônima da década de 1980 e narra a trajetória do ex-agente secreto tentando recomeçar a vida, mas logo se vê envolvido em uma trama de interesses e conflitos.</p><p>O segundo filme aprofunda um pouco mais as relações do protagonista com as pessoas do dia a dia. O personagem demonstra preocupação social com a vizinhança e precisa conciliar alguns motivos pessoais com a necessidade de proteger aqueles que acabam se envolvendo em suas histórias. Da reconstrução de um jardim até proteger uma vida, lá está Robert salvando o dia. A produção foge de um estilo épico com cenas inverossímeis e mantém-se realista, porém ainda interessante.</p><p>O longa tem direção de Antoine Fuqua e o roteiro de Richard Wenk, a dupla conduz a história de forma agradável durante todo o filme. Diálogos inteligentes, com um toque de humor e ironia, funcionam como alívios para as sequências de ação que surgem na tela a todo momento. Duas grandes reviravoltas movimentam as peças e reorganizam o tabuleiro do Sr. McCall — assim chamado por Milles, um garoto que desperta seu lado paterno.</p><p>Denzel Washington consegue mais uma vez demonstrar seu talento através de uma atuação que não deixa a desejar. Oscilando entre as nuances do personagem, o ator cativa, principalmente nos momentos mais humanos no filme. O que é visto é uma história que vai além da sede de justiça e transita também por um lado heroico e sem sangue nas mãos.</p><p><strong>Junior Almeida — 3º período</strong></p></main>"
+  },
+  "date": "2018-08-13T15:08:33",
+  "date_gmt": "2018-08-13T18:08:33",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Denzel Washington está de volta como o protagonista de O Protetor 2.&nbsp; A história de Robert McCall, iniciada no primeiro filme de 2014, também é baseada em série homônima da década de 1980 e narra a trajetória do ex-agente secreto tentando recomeçar a vida, mas logo se vê envolvido em uma trama de interesses e [&hellip;]</p>\n"
+  },
+  "featured_media": 2101,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2098"
+  },
+  "id": 2098,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/banner-o-protetor-2-740x360.png?fit=740%2C360&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-xQ",
+  "link": "https://agenciauvabarra.com/2018/08/13/agencia-uva-barra-assistiu-o-protetor-2/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:31:01",
+  "modified_gmt": "2019-01-31T14:31:01",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-o-protetor-2",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    8810,
+    767056592,
+    31144
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: O Protetor 2"
+  },
+  "type": "post"
+}

@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18759/revisions/19370",
+        "id": 19370
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18759"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18759",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18759/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18759"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18763"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18759",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18759",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    1484722,
+    23208,
+    22,
+    39479
+  ],
+  "class_list": [
+    "post-18759",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-coletiva",
+    "category-entretenimento",
+    "category-internet",
+    "category-publicidade",
+    "tag-agenciauvabarra",
+    "tag-agenciauvabarraassistiu",
+    "tag-cinema"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O filme Uma Sexta-Feira Muito Louca marcou a infância de muitas pessoas nos anos 2000, com a história de mãe e filha que, misteriosamente, trocam de corpo e passam a viver a vida uma da outra, enfrentando os desafios de uma nova identidade. Portanto, a sequência é extremamente significativa para o público, já que representa um verdadeiro ícone daquela geração.</p><p>Agora, em um novo cenário, com as protagonistas mais velhas, Tess (Jamie Lee Curtis) e Anna (Lindsay Lohan) enfrentam novas dificuldades, principalmente por  não compreenderem tão bem a mente de uma adolescente. Ambas tentam lidar com essa nova fase com calma e leveza, o que se contrasta muito com o comportamento das duas personagens no primeiro filme.</p><p>Nesta nova trama, Anna é mãe de Harper (Julia Butters), uma adolescente de 15 anos com uma personalidade forte, muito parecida com a da própria Anna no primeiro filme. Por isso, Tess, agora avó, se vê determinada a ajudar sua filha a lidar com Harper. No entanto, para isso, ela precisará equilibrar sua relação com Anna, sem tirar seu posto de mãe, e, ao mesmo tempo, conquistar o coração da neta dando tudo o que ela quer. Sua filha, por sua vez, vive uma relação instável com Harper, enquanto tenta conciliar sua vida como empresária de uma grande estrela pop e sua vida pessoal como mãe e madrasta.</p><p>Paralelamente a esse drama familiar, Anna Coleman  conhece Eric Davies (Manny Jacinto), e os dois se apaixonam perdidamente. Com o seu amor tão intenso, eles acreditam que suas famílias podem conviver em harmonia e decidem se casar após seis meses de namoro. Eric não é muito desenvolvido no filme, ele atua como um personagem secundário durante a trama, mas, um ponto importante sobre o noivo de Anna é que ele também tem uma filha de 15 anos, Lily Davies (Sophia Hammons), que estuda na mesma turma de Harper Coleman, e o que os pais não sabem, ou fingem não saber, é que as suas filhas se detestam. Ainda assim, os pais decidem seguir com os planos do casamento, ignorando completamente a opinião das filhas.</p><p>Ao longo do filme, o público é presenteado com diversas referências ao longa original, através de músicas, cenários, piadas e até fotografias. No entanto, o que mais chamou a atenção dos fãs foi o retorno de personagens icônicos como Jake (Chad Michael Murray), Ryan (Mark Harmon), Harry Coleman (Ryan Malgarini), Pei-Pei (Rosalind Chao), entre outros, que despertando uma deliciosa sensação de nostalgia.</p><p>Uma Sexta-Feira Mais Louca Ainda foi feito para os fãs dos anos 2000, com várias piadas, frases e momentos que remetem diretamente à obra original. Assim como Anna e Tess descobriram que um raio pode, sim, cair duas vezes no mesmo lugar, o público também se surpreende ao reviver essa história com ainda mais emoção e risadas.</p><p></p></main>"
+  },
+  "date": "2025-08-09T13:21:45",
+  "date_gmt": "2025-08-09T16:21:45",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O filme Uma Sexta-Feira Muito Louca marcou a infância de muitas pessoas nos anos 2000, com a história de mãe e filha que, misteriosamente, trocam de corpo e passam a viver a vida uma da outra, enfrentando os desafios de uma nova identidade. Portanto, a sequência é extremamente significativa para o público, já que representa [&hellip;]</p>\n"
+  },
+  "featured_media": 18763,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/2025/08/09/18759/"
+  },
+  "id": 18759,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/img_6254-1.jpeg?fit=1079%2C989&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/s8BGMb-18759",
+  "link": "https://agenciauvabarra.com/2025/08/09/18759/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-10-17T12:06:23",
+  "modified_gmt": "2025-10-17T15:06:23",
+  "ping_status": "open",
+  "slug": "18759",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    705220696,
+    756647270,
+    767056592
+  ],
+  "template": "",
+  "title": {
+    "rendered": "&#8220;Uma Sexta-Feira Mais Louca Ainda&#8221; chega aos cinemas após 22 anos do longa original"
+  },
+  "type": "post"
+}

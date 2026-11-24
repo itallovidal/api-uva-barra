@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13386/revisions/13425",
+        "id": 13425
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13386"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13386",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13386/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13386"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13406"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13386",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13386",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    858951,
+    2368
+  ],
+  "class_list": [
+    "post-13386",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-eventos-internos",
+    "category-transporte",
+    "tag-agencia-uva-barra",
+    "tag-arquitetura",
+    "tag-barra-da-tijuca",
+    "tag-forum",
+    "tag-oficina",
+    "tag-urbanismo"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento contou com palestras, mesa redonda e oficina para os alunos</em></p><p>Na última terça feira, dia 01/11, aconteceu no Campus Barra da Universidade Veiga de Almeida, o primeiro dia do IV fórum de arquitetura. Durante o evento, foi realizada uma mesa redonda para discutir e repensar o Rio de Janeiro, além de contar com a presença de ex-alunos da universidade que apresentaram seus trabalhos de conclusão de curso, além de uma oficina prática para análise visual do território ao redor do campus. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/natalia.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>Natália Sanchez, coordenadora do curso de arquitetura, afirma que o fórum é uma oportunidade muito boa para os alunos (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/eliana-1.jpeg?resize=1600%2C1200&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1200\"><figcaption>\"Em 10 anos eu não vejo o Rio de Janeiro muito diferente do que é hoje\", afirma a professora Eliana de Queiroz (Foto: Ana Júlia Queiroz)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/fernando.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>Em seu TCC, Fernando Bauler falou sobre o projeto de Lúcio Costa para o desenvolvimento da Barra da Tijuca realizado 50 anos atrás (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/mariana.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>Mariana Santos comentou em seu TCC sobre um projeto para transformar a Barra da Tijuca em um local mais compacto (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/leticia-1.jpeg?ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>Professora Letícia Viana realizou com os alunos uma oficina prática de reconhecimento do território ao redor do campus (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/helena.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Helena Vilhena, aluna do 2° período, se mostrou bastante empolgada com a oportunidade de participar do evento (Foto: Leonardo Pereira)</figcaption></figure><p>O dia começou com a provação de como repensar as mudanças sobre o Rio de Janeiro. Um dos pontos colocados na palestra foi os impactos climáticos que a cidade obteve nos últimos tempos. A professora do departamento de urbanismo da UFRJ, Eliana de Queiroz, explicou que houve o aumento do calor extremo e das inundações no Rio de Janeiro, devido aos grandes níveis das chuvas, que estão cada vez mais severas. \"Nós precisamos passar a olhar para essas questões climáticas com mais atenção para criar um bom planejamento geográfico\", relata. </p><p>Na segunda parte do evento, Fernando Bauler e Mariana Santos, dois ex-alunos da Universidade Veiga de Almeida, fizeram a exposição de suas pesquisas, com foco principal no bairro onde se encontra o Campus, a Barra da Tijuca. Fernando comentou sobre o plano piloto feito por Lúcio Costa, para o desenvolvimento da Barra da Tijuca, que completou 50 anos em 2019. Além disso, o arquiteto comentou sobre a relação da arquitetura e do urbanismo com a legislação: <strong>confira no áudio abaixo</strong>:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1375976566&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"O arquiteto comentou sobre a relação da arquitetura e do urbanismo com a legislação by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>No projeto de Mariana Santos, a arquiteta traz a ideia de transformar o modernismo da Barra da Tijuca em um lugar compacto. <strong>Veja a explicação da profissional no vídeo abaixo</strong>:</p><figure><iframe src=\"https://www.youtube.com/embed/af0U26IZ-XM?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>Por fim, os alunos tiveram uma oficina prática com a professora Letícia Viana, e usaram a tecnologia para explorar o relevo que se encontra o Campus. \"Essa experiência de caminhar e reconhecer toda a morfologia da cidade através dos mapas para além de dentro da universidade é muito importante\", afirma Letícia. </p><p>Helena Vilhena, aluna do 2° período falou sobre a importância do fórum na sua formação: \"Palestras como essas ajudam a ampliar nossos olhares e perspectivas quanto ao curso e quanto a nossa profissão, além de expandir nossos conhecimentos\", afirmou a estudante. </p><p><em>Ana Júlia Queiroz – 7º período<br>Igor Concolato – 2° período</em></p></main>"
+  },
+  "date": "2022-11-03T19:24:57",
+  "date_gmt": "2022-11-03T22:24:57",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Na última terça feira, dia 01/11, aconteceu no Campus Barra da Universidade Veiga de Almeida, o primeiro dia do IV fórum de arquitetura. Durante o evento, foi realizada uma mesa redonda para discutir e repensar o Rio de Janeiro, além de contar com a presença de ex-alunos da universidade que apresentaram seus trabalhos de conclusão de curso, além de uma oficina prática para análise visual do território ao redor do campus</p>\n"
+  },
+  "featured_media": 13406,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13386"
+  },
+  "id": 13386,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/capa.jpeg?fit=1024%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3tU",
+  "link": "https://agenciauvabarra.com/2022/11/03/iv-forum-de-arquitetura-tem-inicio-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-11-05T00:04:05",
+  "modified_gmt": "2022-11-05T03:04:05",
+  "ping_status": "open",
+  "slug": "iv-forum-de-arquitetura-tem-inicio-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    24789,
+    1129725,
+    8796,
+    69028,
+    51424
+  ],
+  "template": "",
+  "title": {
+    "rendered": "IV fórum de arquitetura tem início no Campus Barra"
+  },
+  "type": "post"
+}

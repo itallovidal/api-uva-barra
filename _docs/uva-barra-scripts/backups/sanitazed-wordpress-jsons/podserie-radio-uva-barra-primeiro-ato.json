@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12594/revisions/12599",
+        "id": 12599
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12594"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12594",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12594/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12594"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12598"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12594",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12594",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    713047979
+  ],
+  "class_list": [
+    "post-12594",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-podseries",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O campus Barra, da Universidade Veiga de Almeida, traz uma narrativa que tem o propósito de discutir o racismo, empoderar e promover a inclusão social, econômica e política através da podsérie \"Primeiro Ato\".</p><p>Richard Rodrigues é um jovem estudante negro recém chegado na escola de artes com o objetivo de se tonar um ator. Já no primeiro dia de aula, Richard sofre bullying motivado pelo racismo, porém, ele não vai desistir de seguir o sonho de ser uma estrela de cinema.</p><p>O Objetivo 10 (Redução das Desigualdades) dos 17 de Desenvolvimento Sustentável da ONU 2030 representa a podsérie, que teve a produção de Arthur Santos, Eduarda Marinho, Igor Concolato, Leonardo Pereira, Luiz Felipe Assef, Matheus Moraes, Victor Arthur e Victor Martins.</p><p><strong>Ouça já!</strong></p><figure><img src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1331352142&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\" alt=\"Primeiro Ato by Agência UVA Barra\" width=\"500\" height=\"400\"><figcaption>Pedro Amorim – 7º período</figcaption></figure></main>"
+  },
+  "date": "2022-08-25T17:23:03",
+  "date_gmt": "2022-08-25T20:23:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O campus Barra, da Universidade Veiga de Almeida, traz uma narrativa que tem o propósito de discutir o racismo, empoderar e promover a inclusão social, econômica e política através da podsérie “Primeiro Ato”. </p>\n"
+  },
+  "featured_media": 12598,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12594"
+  },
+  "id": 12594,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-25-at-17.16.28-e1661458972233.jpeg?fit=378%2C366&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3h8",
+  "link": "https://agenciauvabarra.com/2022/08/25/podserie-radio-uva-barra-primeiro-ato/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-25T17:23:03",
+  "modified_gmt": "2022-08-25T20:23:03",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-primeiro-ato",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra: Primeiro Ato"
+  },
+  "type": "post"
+}

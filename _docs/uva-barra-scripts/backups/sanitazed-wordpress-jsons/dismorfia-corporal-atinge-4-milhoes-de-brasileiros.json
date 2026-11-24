@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10612/revisions/10628",
+        "id": 10628
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10612"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10612",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10612/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10612"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10626"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10612",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10612",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    14603,
+    72064
+  ],
+  "class_list": [
+    "post-10612",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-jornalismo",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Estimativas de que 2% da população mundial sofra com a doença</em></p><p>Estar um pouco acima do peso, ter pernas mais grossas e contornos mais volumosos fogem do “padrão” de beleza estabelecido pela sociedade. Devido a isso, muitas pessoas desenvolvem o distúrbio de dismorfia corporal, isto é distorção de imagem. Esse transtorno mental atinge mais as mulheres do que os homens, sendo que essa estatística pode ser ainda maior, por motivo de que algumas pessoas nunca chegam a buscar ajuda ou até mesmo não assumem o problema.</p><p>A dismorfia é uma doença que afeta o estado mental e acarreta bastante sofrimento. Um dos sintomas é examinar a aparência no espelho com frequência e sempre estar insatisfeito com o que vê. Além de ter pensamentos obsessivos a respeito de supostas “imperfeições” no corpo e até comportamentos compulsivos que prejudicam seriamente a saúde.</p><p>Pouco se sabe, mas a dismorfia tem tratamento e a fisioterapia é uma das aliadas neste processo. Ela atua na recuperação e na prevenção de lesões decorrentes de fraturas, má-formação ou vícios de postura e ativa a programação da estrutura física e dos pensamentos. Diante disso, a fisioterapeuta Bianca Thurm criou um tratamento com o intuito de ajudar neste quesito.</p><p>De acordo Bianca, a distorção da percepção de imagem corporal vem desde a infância. “Se ela teve uma vivência mais negativa com seu corpo, com muito julgamentos, comparação, diferenciação por causa do tamanho, isso faz com que se desenvolva uma crença de que tem algo de errado com ela”, explica Bianca.</p><p>A fisioterapeuta pondera que a criança começa a associar que por causa da dimensão que o corpo tem, ela é a errada. “Ela ouve alguém falar “nossa eu engordei muito, estou muito grande, porque eu comi demais, automaticamente relaciona o comprimento dela está relacionado a comer em excesso”, alega.</p><p><strong>Bianca Thurm explica como é o funcionamento da avaliação com cada paciente para diagnosticar se existe um distúrbio de imagem.</strong></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/bianca-nascimento.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>A estudante transparece que sente vergonha de usar roupas mais curtas por medo de está mais cheia do que realmente é. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/bianca-thurm.jpeg?resize=827%2C812&amp;ssl=1\" alt=\"\" width=\"827\" height=\"812\"><figcaption>Bianca Thurm explica como é o funcionamento da avaliação com cada paciente para diagnosticar se existe um distúrbio de imagem. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/fernanda.jpeg?resize=827%2C808&amp;ssl=1\" alt=\"\" width=\"827\" height=\"808\"><figcaption>A nutricionista aponta que seu papel também é discutir padrões de beleza que tenham conexão direta com a forma como o paciente vivencia sua relação com o corpo e a comida. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/ana-cristina.jpeg?resize=827%2C808&amp;ssl=1\" alt=\"\" width=\"827\" height=\"808\"><figcaption> A psicóloga Ana Cristina apresenta que essa distorção vem de um conjunto de fatores que vão desde a infância e acabam crescendo e formando traumas nas pessoas. (Foto: Arquivo Pessoal)</figcaption></figure><p>A pretensão por uma imagem corporal perfeita e inalcançável produz um impacto tão avassalador que leva a vários comportamentos exagerados e prejudiciais. Os distúrbios em relação à autoimagem podem ser a causa principal de transtornos alimentares, fato que implica a atenção de nutricionistas. Este profissional pode se utilizar de escalas de avaliação ou propor exercícios para rastreamento dos distúrbios, além de agregar muito na identificação, reconhecimento e tratamento.</p><p>Para a nutricionista Fernanda Timerman, durante o tratamento da dismorfia é necessário ajudar o paciente a melhorar a relação com a comida e com o corpo, minimizando medos, angústias e crenças disfuncionais que trazem imensa preocupação para ela e para os que o cercam. “É preciso mostrar que se é compatível com biotipo e propor para se pesar apenas na consulta. Dependendo do vínculo de confiança, muitos pacientes até preferem que o nutricionista ‘tome conta disso’ para que eles diminuam a neurose com o número absoluto”, expõe Fernanda.</p><p>Pela intrínseca relação entre satisfação corporal, desenvolvimento e manutenção dos comportamentos alimentares, faz-se necessário que nutricionistas conheçam e dominem os aspectos envolvidos nos distúrbios da imagem corporal. Além disso, estes precisam se mostrar empáticos às queixas ou à resistência do paciente na dificuldade de aderir ao tratamento pelo medo do ganho de peso, uma vez que os impactos dessa mudança na autoavaliação podem gerar até mesmo uma crise de personalidade.</p><p>A estudante Bianca Nascimento conta que descobriu que possuía o distúrbio desde o ano passado. “Para mim sempre foi muito frustrante me olhar no espelho e sentir insatisfação do que via. Toda vez que eu ia comprar roupa, sempre pegava peças às vezes até três vezes do meu tamanho e conseguia perceber que aquilo não era para mim só após vestir ela”, declara.</p><p>Para Bianca a necessidade de estar sempre procurando um corpo ideal e nunca ser o suficiente é totalmente angustiante. “Depois que a minha mãe percebeu que eu não estava bem, ela me aconselhou a procurar uma psicóloga e hoje em dia, eu posso garantir que é o que mais me ajuda em questão corporal junto aos meus pensamentos”, revela Bianca.</p><blockquote><p><em>“Sempre falam que eu emagreci, mas eu só consigo olhar um corpo gordo”</em></p><cite> Bianca Nascimento </cite></blockquote><p>O acompanhamento terapêutico auxilia as pessoas a ressignificar conceitos e ideias preestabelecidas. A psicóloga Ana Cristina Bessa evidencia que o psicólogo poderá cuidar da causa que levou o indivíduo a se ver dessa maneira distorcida. “Na terapia a pessoa vai ter a oportunidade de falar, sem medo, além de expor os sentimentos que ela tem num olhar sem críticas”, manifesta Ana Cristina. </p><p>A faixa de peso, para quem sofre com a dismorfia, sempre será distorcida. Muitas vezes essa percepção “real” só acontece quando eles veem uma fotografia, vídeo ou uma imagem refletida de si mesmos. Diante disso, é importante ressaltar que, em caso de sintomas da doença, a ajuda psicológica especializada é a mais indicada.</p><p><em>Ana Júlia Queiroz – 6º período</em></p></main>"
+  },
+  "date": "2021-11-08T18:42:14",
+  "date_gmt": "2021-11-08T21:42:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Estar um pouco acima do peso, ter pernas mais grossas e contornos mais volumosos fogem do “padrão” de beleza estabelecido pela sociedade. Devido a isso, muitas pessoas desenvolvem o distúrbio de dismorfia corporal, isto é distorção de imagem. Esse transtorno mental  atinge mais as mulheres do que os homens, sendo que essa estatística pode ser ainda maior, por motivo de que algumas pessoas nunca chegam a buscar ajuda ou até mesmo não assumem o problema. </p>\n"
+  },
+  "featured_media": 10626,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10612"
+  },
+  "id": 10612,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/capa-3.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2La",
+  "link": "https://agenciauvabarra.com/2021/11/08/dismorfia-corporal-atinge-4-milhoes-de-brasileiros/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-08T18:42:14",
+  "modified_gmt": "2021-11-08T21:42:14",
+  "ping_status": "open",
+  "slug": "dismorfia-corporal-atinge-4-milhoes-de-brasileiros",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dismorfia corporal atinge 4 milhões de brasileiros"
+  },
+  "type": "post"
+}

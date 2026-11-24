@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7518/revisions/7528",
+        "id": 7528
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7518"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7518",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7518/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7518"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7521"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7518",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7518",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    268277,
+    703299214
+  ],
+  "class_list": [
+    "post-7518",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "category-solidariedade",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A corrente do bem é crescente e vem se espalhando pelo país. Idosos, moradores de rua e pessoas com problemas psicológicos estão sendo auxiliados por iniciativas, individuais ou coletivas, durante a quarentena. Nessa guerra pela saúde, a solidariedade tem se tornado uma das principais armas. Voluntários de todas as partes do Brasil estão se mobilizando pelo bem estar social, em benefício daqueles que mais necessitam no momento. Em diversas áreas profissionais, há exemplos de união.</p><p>Atendimento virtual e gratuito de psicólogos está sendo divulgado nas redes sociais, igrejas estão disponibilizando seus espaços para abrigar moradores de rua e artistas vêm promovendo lives para a arrecadação de fundos e mantimentos. Essas ações contagiam cidadão comuns como Thais Ataide Barreto, de 21 anos, em Pedra de Guaratiba, bairro da Zona Oeste do Rio de Janeiro, que, com um grupo de amigos, passou a divulgar uma ação solidária nas suas redes sociais, para coleta de alimento e distribuição a famílias em situação de vulnerabilidade.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-22.png?resize=567%2C425&amp;ssl=1\" alt=\"\" width=\"567\" height=\"425\"><figcaption>Thais e o grupo de amigos – Foto de Arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-23.png?resize=567%2C425&amp;ssl=1\" alt=\"\" width=\"567\" height=\"425\"><figcaption>Foto: Arquivo Pessoal</figcaption></figure><p>Thais relata que sua iniciativa partiu da falta de efetividade do poder público com assistência social, devido à demora para a resolução do auxílio emergencial, e afirma ter se surpreendido com a adesão das pessoas à campanha, que foi primordial nas redes sociais. Ela explica há um processo de montagem de cestas básicas para doação com limpeza em álcool gel e pesagem para distribuição equilibrada de alimentos. O maior desafio do grupo tem sido a logística e o custo para transportar as cestas. O grupo montou ao total 28 cestas básicas e pretende continuar com o projeto, pois tem mudado a vida de famílias da região. Em uma mensagem final, Thaís diz: “Que as pessoas comecem a olhar para o próximo e ter compaixão”.</p><p>Guilherme Araújo – 3º Período | Jornalismo</p></main>"
+  },
+  "date": "2020-08-25T13:47:00",
+  "date_gmt": "2020-08-25T16:47:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A corrente do bem é crescente e vem se espalhando pelo país. Idosos, moradores de rua e pessoas com problemas psicológicos estão sendo auxiliados por iniciativas, individuais ou coletivas, durante a quarentena. Nessa guerra pela saúde, a solidariedade tem se tornado uma das principais armas. Voluntários de todas as partes do Brasil estão se mobilizando [&hellip;]</p>\n"
+  },
+  "featured_media": 7521,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7518"
+  },
+  "id": 7518,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-22.png?fit=567%2C425&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Xg",
+  "link": "https://agenciauvabarra.com/2020/08/25/pandemia-de-solidariedade-em-meio-a-crise-do-covid-19/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-12T14:53:44",
+  "modified_gmt": "2020-08-12T17:53:44",
+  "ping_status": "open",
+  "slug": "pandemia-de-solidariedade-em-meio-a-crise-do-covid-19",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Pandemia de solidariedade em meio à crise do Covid-19"
+  },
+  "type": "post"
+}

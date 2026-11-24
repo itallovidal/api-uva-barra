@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18767/revisions/18774",
+        "id": 18774
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18767"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18767",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18767/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18767"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18769"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18767",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18767",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    23208,
+    3503,
+    3719
+  ],
+  "class_list": [
+    "post-18767",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-entretenimento",
+    "category-historia",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O maior evento de tecnologia, negócios e criatividade da América Latina, o Rio Innovation Week 2025, recebeu dois grandes nomes da historiografia e da literatura brasileira, Marcelo Rubens Paiva, autor de “Ainda Estou Aqui”, e Eduardo Bueno, autor de “Brasil, uma história” no painel “E daqui para onde vamos?, no palco Plenário na quarta-feira, 13 de agosto. Com o auditório lotado, ambos compartilharam memórias históricas e pessoais, e o olhar crítico sobre a atualidade, entrelaçando o passado, presente e futuro.</p><p>A participação de duas figuras importantes para a literatura brasileira tornou o debate mais interessante, principalmente pela riqueza de conhecimento e curiosidades. Durante a conversa, eles ressaltaram como é necessário alertar e dar visibilidade a histórias apagadas. “O papel da literatura e o papel da história, é contar uma história real que foi silenciada, para que não venha se repetir, que venha se destacar, sem retroceder”, afirma Marcelo Rubens Paiva.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-20-at-15.41.15.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\"><figcaption>Eduardo Bueno e Marcelo Rubens Paiva no Rio Innovation Week. (Reprodução: Agência Enquadrar).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-20-at-15.41.15-1.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\"><figcaption>Marcelo Rubens Paiva, escritor e dramaturgo. (Reprodução: Agência Enquadrar).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-20-at-15.41.16.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\"><figcaption>Eduardo Bueno, escritor e jornalista. (Reprodução: Agência Enquadrar).</figcaption></figure><p>Ambos concordaram que os erros cometidos a séculos atrás, na época do Brasil, monarquia e república, estão se repetindo. Portanto, os palestrantes enfatizaram a importância de resgatar os nossos valores e direitos através da literatura, garantindo que não seja apenas mais um livro sobre um poder político, mas que seja uma forma de mudar a realidade da sociedade.</p><p>Para Eduardo Bueno, jornalista e escritor brasileiro, a sociedade brasileira resolveu apagar diversas histórias de famílias que tiveram papel fundamental na formação do país, mas que foram silenciadas ao longo do tempo por não se encaixarem na narrativa oficial. O jornalista destacou que recuperar essas memórias não é apenas um exercício de resgate histórico, mas uma necessidade para que as novas gerações compreendam o passado do país. “O Marcelo trouxe de volta para o Brasil uma história que convenientemente o Brasil resolveu esquecer e apagar. E isso não é só a história dele, mas a história do pai dele, da família dele, de seu país. A todo tempo os escritores tentam resgatar através da literatura um pouco do passado para que os erros não voltem a se repetir”, afirma Eduardo Bueno.</p><p>O escritor acrescentou que a literatura e a historiografia são ferramentas de transformação social, capazes de iluminar aquilo que foi escondido, dar voz a personagens esquecidos e questionar estruturas de poder ainda presentes, que tiveram um papel principal na história do país, “Estamos em um evento de inovação. Mas inovação é você olhar para trás e conhecer os 525 anos de mazelas, de história tortuosa, de história sombria, de história do Brasil. Inovação é ler, inovação é ler livro, inclusive no papel. Inovação é conhecer, inovação é transcender, Inovador é aquele que conhece sua história para não repeti-la”, comentou Eduardo Bueno.</p><p>Marcelo Rubens Paiva, roteirista e escritor, citou que escreveu o livro “Ainda estou aqui” com a intenção de comunicar a sociedade brasileira sobre perigos iminentes na época de seu lançamento, com uma obra que relata a história da sua família, principalmente de seu pai, que enfrenta as dificuldades da ditadura militar, com o propósito de alertar e cuidar de sua nação, dando a chance dos leitores perceberem o retrocesso do país. “Eu escrevi “Ainda Estou Aqui” em 2013 porque tinha gente querendo apoiar o AI-5 e manifestações defendendo a ditadura militar. Eu precisava alertar o público de alguma forma, por isso eu contei o que acontece quando há um poder político autoritário, através da minha família, sem falar de ideologia, sem escolher um lado”, afirmou Marcelo Rubens Paiva.</p><p>O autor também ressaltou sobre a sua luta pessoal com a deficiência e como isso não foi impedimento para transmitir ao público um assunto tão necessário. “Tanto o livro, como a adaptação do filme, contam uma história, uma realidade, uma dor da minha família, a dor de um menino de apenas 20 anos que virou tetraplégico e não sabia mais o que fazer, mas que resistiu e contou a sua história”, citou o escritor.</p><p>O painel se encerrou sob intensos aplausos, refletindo o respeito e a admiração do público diante da profundidade e da franqueza da conversa.</p><p>Duda Nicolich – 2º período</p></main>"
+  },
+  "date": "2025-08-20T16:00:00",
+  "date_gmt": "2025-08-20T19:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O maior evento de tecnologia, negócios e criatividade da América Latina, o Rio Innovation Week 2025, recebeu dois grandes nomes da historiografia e da literatura brasileira, Marcelo Rubens Paiva, autor de “Ainda Estou Aqui”, e Eduardo Bueno, autor de “Brasil, uma história” no painel “E daqui para onde vamos?,&nbsp; no palco Plenário na quarta-feira, 13 [&hellip;]</p>\n"
+  },
+  "featured_media": 18769,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18767"
+  },
+  "id": 18767,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-20-at-15.41.15.jpeg?fit=1600%2C1066&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4SH",
+  "link": "https://agenciauvabarra.com/2025/08/20/marcelo-rubens-paiva-e-eduardo-bueno-debatem-sobre-a-memoria-e-o-futuro-do-brasil-no-rio-innovation-week-2025/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-08-20T15:53:19",
+  "modified_gmt": "2025-08-20T18:53:19",
+  "ping_status": "open",
+  "slug": "marcelo-rubens-paiva-e-eduardo-bueno-debatem-sobre-a-memoria-e-o-futuro-do-brasil-no-rio-innovation-week-2025",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Marcelo Rubens Paiva e Eduardo Bueno debatem sobre a memória e o futuro do Brasil no Rio Innovation Week 2025 "
+  },
+  "type": "post"
+}

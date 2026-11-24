@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4631/revisions/4647",
+        "id": 4647
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4631"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4631",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4631/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4631"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4633"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4631",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4631",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    407146
+  ],
+  "class_list": [
+    "post-4631",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-exposicao",
+    "tag-agencia-uva-barra",
+    "tag-cultura-japonesa",
+    "tag-festival-tesouros-do-japao",
+    "tag-japao",
+    "tag-shopping-villagemall"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A exposição é aberta ao público e oferece diversas atividades sobre a cultura milenar japonesa</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img_0054.jpg?resize=1600%2C1067&amp;ssl=1' alt='Entrada da exposição com Jardim Oriental e lampadas de pedra feitas pelo escultor Márcio Sondré' width='1600' height='1067'><figcaption>Entrada da exposição com Jardim Oriental e lampadas de pedra feitas pelo escultor Márcio Sondré</figcaption></figure><p>.</p><p>Para homenagear os 111 anos da chegada dos primeiros imigrantes japoneses ao Brasil, o Shopping VillageMall recebeu o Festival “Tesouros do Japão”, nesta última sexta-feira (16). O evento exibe cópias de objetos da cultura milenar vindos diretamente de museus japoneses. A programação inclui oficinas, palestras e apresentações de danças orientais. A mostra ficará aberta ao público até o dia 01 de setembro.</p><p>A proposta é alinhar o entretenimento com a cultura em um espaço fora das galerias de arte. A curadora da exposição, Ana Brites conta que “o shopping não é apenas um lugar comercial, ele também tem esse propósito sociocultural”. É uma forma de democratizar o ambiente e aproximar o público de eventos dessa categoria.</p><p>As atividades inspiradas nos costumes orientais proporcionam uma experiência com maior interatividade entre as pessoas. “A possibilidade de vestir os kimonos fez me sentir dentro do Japão”, comenta a estudante de Design de Moda, Juliana Veloso. Dentre as oficinas do primeiro dia de evento, a de Kokedama – planta decorativa cultivada dentro de uma bola de musgo – foi o principal destaque.</p><p>Acesse o vídeo sobre a oficina de Kokedama e saiba mais sobre a técnica:</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/unnamed-2.jpg?resize=512%2C341&amp;ssl=1' alt='Presentear alguém com uma boneca Kokeshi representa uma declaração de amizade na tradição japonesa' width='512' height='341'><figcaption>Presentear alguém com uma boneca Kokeshi representa uma declaração de amizade na tradição japonesa</figcaption></figure><p>.</p><p>A influência do Japão e a relação centenária com o Brasil fez os brasileiros abraçarem uma cultura tão distante, mas que hoje faz parte do cotidiano em atividades como esportes, gastronomia e cultura. A exposição e as atividades acontecem de segunda a sábado, de 10h30 às 22h, enquanto nos domingos e feriados, de 14h às 20h no Piso L1 do shopping.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/unnamed-4.jpg?resize=512%2C341&amp;ssl=1' alt='Orquídea cultivada dentro de uma kokedama' width='512' height='341'><figcaption>Orquídea cultivada dentro de uma kokedama</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img_0131.jpg?resize=1600%2C1067&amp;ssl=1' alt='Objetos trazidos de museus japoneses para a exposição' width='1600' height='1067'><figcaption>Objetos trazidos de museus japoneses para a exposição</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/unnamed-6.jpg?resize=512%2C341&amp;ssl=1' alt='Objetos trazidos de museus japoneses para a exposição' width='512' height='341'><figcaption>Objetos trazidos de museus japoneses para a exposição</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/unnamed-1.jpg?resize=512%2C341&amp;ssl=1' alt='Foto: Kaliane Trindade' width='512' height='341'><figcaption>Foto: Kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/unnamed-5.jpg?resize=512%2C341&amp;ssl=1' alt='Visitantes têm a oportunidade de se caracterizar com roupas tradicionais japonesas' width='512' height='341'><figcaption>Visitantes têm a oportunidade de se caracterizar com roupas tradicionais japonesas</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/unnamed-3.jpg?resize=512%2C341&amp;ssl=1' alt='Flor de cerejeira, também conhecida como flor de Sakura, é a flor nacional do Japão' width='512' height='341'><figcaption>Flor de cerejeira, também conhecida como flor de Sakura, é a flor nacional do Japão</figcaption></figure><p><strong>Kaliane Trindade – 6º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2019-08-18T18:45:30",
+  "date_gmt": "2019-08-18T21:45:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A exposição é aberta ao público e oferece diversas atividades sobre a cultura milenar japonesa . Para homenagear os 111 anos da chegada dos primeiros imigrantes japoneses ao Brasil, o Shopping VillageMall recebeu o Festival “Tesouros do Japão”, nesta última sexta-feira (16). O evento exibe cópias de objetos da cultura milenar vindos diretamente de museus [&hellip;]</p>\n"
+  },
+  "featured_media": 4633,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4631"
+  },
+  "id": 4631,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img_0054.jpg?fit=1600%2C1067&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1cH",
+  "link": "https://agenciauvabarra.com/2019/08/18/festival-tesouros-do-japao-chega-ao-shopping-villagemall/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-18T19:16:17",
+  "modified_gmt": "2019-08-18T22:16:17",
+  "ping_status": "open",
+  "slug": "festival-tesouros-do-japao-chega-ao-shopping-villagemall",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    176275,
+    685227935,
+    189005,
+    54222186
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Festival “Tesouros do Japão” chega ao Shopping VillageMall"
+  },
+  "type": "post"
+}

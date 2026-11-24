@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12535/revisions/12541",
+        "id": 12541
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12535"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12535",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12535/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12535"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12538"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12535",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12535",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    9838342,
+    7114
+  ],
+  "class_list": [
+    "post-12535",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-serie-documental",
+    "category-sociedade",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>De acordo com uma pesquisa feita pelo Instituto Patrícia Galvão em 2019, 97% das mulheres brasileiras com mais de 18 anos já sofreram assédio em transporte público ou privado e 38% foram mulheres da região sudeste do Brasil. Além disso foi apontado que 41% das mulheres já passaram por olhares insistentes em transportes públicos, 10% no transporte de aplicativo e 11% em táxis. Enquanto 33% já escutaram cantadas indesejadas em ônibus, metrô ou trem, e 9% em aplicativos e táxis, 71% das entrevistadas afirmam conhecer mulheres que sofreram algum tipo de assédio em espaço público.</p><p>Os dados revelam que as mulheres são alvo de assédio de diversas formas e em diferentes transportes públicos. No documentário “Assédio em Movimento”, duas mulheres contam os episódios de abuso que sofreram e especialistas ajudam a entender as implicações jurídicas envolvendo o crime.</p><p>A obra documental chega na Agência UVA Barra, através da disciplina de “Documentário Jornalístico” ministrado pelo professor Anderson Barreto na UVA campus Tijuca. O grupo composto por Gabriele Carneiro Lucian, Hudson Novais Lisboa, José Paulo Gonçalves Sobral Silva, Luis Felippe Gonçalves Ferreira, Rochelle da Silva Dantas e Rodrigo Nery Rego Barone, apresenta os riscos dos transportes públicos e privados, além dos impactos na saúde mental e vida social das mulheres.</p><p><strong>Confira!</strong></p><figure><img src='https://www.youtube.com/embed/TBkDv2TuMaI?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' alt='Vídeo do documentário Assédio em Movimento' width='640' height='360'><figcaption>Pedro Amorim – 7º período</figcaption></figure></main>"
+  },
+  "date": "2022-08-17T17:40:58",
+  "date_gmt": "2022-08-17T20:40:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De acordo com uma pesquisa feita pelo Instituto Patrícia Galvão em 2019, 97% das mulheres brasileiras com mais de 18 anos já sofreram assédio em transporte público ou privado e 38% foram mulheres da região sudeste do Brasil. Além disso foi apontado que 41% das mulheres já passaram por olhares insistentes em transportes públicos, 10% no transporte de aplicativo e 11% em táxis. Enquanto 33% já escutaram cantadas indesejadas em ônibus, metrô ou trem, e 9% em aplicativos e táxis, 71% das entrevistadas afirmam conhecer mulheres que sofreram algum tipo de assédio em espaço público.  </p>\n"
+  },
+  "featured_media": 12538,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12535"
+  },
+  "id": 12535,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/image-2-e1660768480604.png?fit=825%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3gb",
+  "link": "https://agenciauvabarra.com/2022/08/17/assedio-em-movimento/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-17T17:41:18",
+  "modified_gmt": "2022-08-17T20:41:18",
+  "ping_status": "open",
+  "slug": "assedio-em-movimento",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Assédio em Movimento"
+  },
+  "type": "post"
+}

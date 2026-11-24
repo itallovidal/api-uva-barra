@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15628/revisions/15637",
+        "id": 15637
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15628"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15628",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15628/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15628"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15632"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15628",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15628",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    2367,
+    23208,
+    14603,
+    2432
+  ],
+  "class_list": [
+    "post-15628",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-cultura",
+    "category-entretenimento",
+    "category-jornalismo",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-cinema"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Poucas salas e a não renovação da lei de cota de tela escancaram uma longa questão</em></p><p>Toda quinta-feira nos cinemas brasileiros surgem novas estreias, vários tipos de filmes chegam ao espectador, mas uma situação tem se tornado cada vez mais comum no país: a maioria das salas disponíveis está lotada de produções internacionais e nenhuma brasileira conseguiu chegar no top 10 de melhores bilheterias até agora. O mais perto desse ranking foi \"Os Aventureiros – A Origem\", dirigido por André Pellenz e interpretado por Luccas Neto, que faturou cerca de R 380 mil de bilheteria, valor que representa hoje menos de 6% em relação à décima maior bilheteria deste ano, com a obra \"Oppenheimer\", que alcançou R 60.280 milhões</p><p>O desempenho comercial e a baixa adesão do público acompanham a distribuição escassa que muitos filmes recebem em território nacional, mais restrito aos cinemas de arte em zonas mais nobres de cidades metropolitanas e horários limitados, o acesso dificultado coloca em pauta uma questão política importante que é a criação da nova regulamentação da cota de tela prevista no projeto de lei 3.696/2023</p><p>\"A cota de tela procura proteger o produto nacional e preservar que as obras nacionais tenham um mínimo de salas em exibição, então é obrigatório que toda sala de cinema tenha uma porcentagem de cinema nacional sendo exibido, o que acontece é que existe um fator burocrático que o governo precisa de um decreto presidencial para a renovação de cota de tela e isso não ocorreu desde o governo Temer\", diz a professora e pesquisadora Thalita Bastos</p><p>As cotas de tela foram criadas por uma lei promulgada no governo Getúlio Vargas, em 1936, que defendia o patrimônio artístico e cultural brasileiro, e, em especial, a difusão de livros e filmes. Hoje a interrupção das cotas de tela faz com que a porcentagem dos filmes brasileiros seja progressivamente inferior ao longo dos anos.</p><p>Um caso recente foi o filme \"Tempos de Barbárie – Ato I: Terapia da Vingança\" de Marcos Bernstein, que teve estreia no dia 16 de agosto e foi exibido em pelo menos dez salas. Dez dias depois já não existem sessões do filme para a próxima janela de exibição.</p><p>A educação audiovisual brasileira ainda é ameaçada por uma questão. A pesquisadora Thalita Bastos analisa que as pessoas associam o conteúdo nacional às telenovelas e ao conteúdo de séries, mas que existe um processo de educação audiovisual que permite a valorização do cinema brasileiro capaz de apresentar obras de qualidade. Isso esbarra no ponto de vista dos exibidores, uma vez que o mercado precisa se autogerir e opta por Blockbusters.</p><p>Segundo o Ministério da Cultura, a parcela de filmes brasileiros caiu de 13% para 1,8% em 2021. Já em 2022, a presença foi de cerca de 4,2%. No segmento da televisão, impulsionados pela regulamentação da Lei 12.485/11, de 2010, que prevê a Cota de Tela para conteúdo televisivo, o percentual da programação brasileira era 1,5% e em 2021, passou para 14,7%</p><p>A tramitação do projeto da nova regulamentação para a cota de tela, com o intuito de prorrogar as cotas do cinema para 2043, tem gerado preocupação pela possibilidade do atraso, e articuladores políticos como os senadores Randolfe Rodrigues (Rede-AP) e Humberto Costa (PT-PE) se manifestaram para que o projeto saia com a devida urgência.</p><p>Enquanto a renovação não acontece, espectadores sentem na pele a desigualdade do circuito de exibição brasileiro. A estudante de cinema e audiovisual da FACHA (Faculdade Integrada Hélio Alonso), Ana Beatriz Haikal, revelou que já ficou muito desapontada com algumas estreias e a dificuldade de conciliar uma agenda cinematográfica como espectadora, por muitos filmes brasileiros saírem de catálogo.</p><p>\"É desestimulante, visto que algo que tem sido quase que a norma (prioridade do conteúdo internacional e não parece que vá mudar tão cedo\", disse a estudante.</p><p>A pesquisa Thalita Bastos acrescenta que existe sim uma procura do público por filmes nacionais e associa que o fato do filme Besouro Azul, mesmo sendo um filme de super-herói, mobilizou os espectadores por ter uma estrela brasileira, Bruna Marquezine. Ela afirma ainda que a distribuição e a visibilidade de festivais de cinema, como Gramado, são importantes para gerar repercussão nas produções brasileiras. Mas reforça que é preciso fazer com que o cinema brasileiro tenha mais janelas de exibição para se ter uma verdadeira educação audiovisual.</p><p><em>Márcio Weber – 3° período</em></p><p><em>*Produto produzido para a disciplina de Jornalismo online, sob a supervisão da professora Michele Vieira.</em></p></main>"
+  },
+  "date": "2023-08-30T17:31:18",
+  "date_gmt": "2023-08-30T20:31:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A lei de cota de tela, medida protetiva que prevê o equilíbrio entre as exibições nacionais e internacionais no cinema brasileiro, não foi renovada pelo sexto ano consecutivo. Isso faz com que os filmes internacionais invadem as telas brasileiras, trazendo uma crise de representatividade do cinema nacional.</p>\n"
+  },
+  "featured_media": 15632,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15628"
+  },
+  "id": 15628,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/imagem-1.jpg?fit=938%2C881&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-444",
+  "link": "https://agenciauvabarra.com/2023/08/30/producoes-internacionais-aquecem-o-mercado-cinematografico-do-brasil-e-nenhum-filme-brasileiro-chega-perto-do-top-10-de-maiores-estreias-do-ano/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-30T17:31:19",
+  "modified_gmt": "2023-08-30T20:31:19",
+  "ping_status": "open",
+  "slug": "producoes-internacionais-aquecem-o-mercado-cinematografico-do-brasil-e-nenhum-filme-brasileiro-chega-perto-do-top-10-de-maiores-estreias-do-ano",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Produções internacionais aquecem o mercado cinematográfico do Brasil e nenhum filme brasileiro chega perto do top 10 de maiores estreias do ano"
+  },
+  "type": "post"
+}

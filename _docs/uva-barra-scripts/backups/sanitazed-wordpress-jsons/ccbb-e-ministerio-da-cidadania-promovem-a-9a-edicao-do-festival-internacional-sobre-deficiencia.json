@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5763/revisions/5784",
+        "id": 5784
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5763"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5763",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5763/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5763"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5782"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5763",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5763",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-5763",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-9a-edicao-do-festival-internacional-sobre-deficiencia",
+    "tag-agencia-uva-barra",
+    "tag-ccbb"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Exibição de filmes, debates e oficinas fazem parte da programação</em></p><p>A desconstrução dos estereótipos das pessoas com deficiência é o ponto central da 9ª edição do Assim Vivemos – Festival Internacional de Filmes sobre a Deficiência, que estreou no Centro Cultural Banco do Brasil (CCBB), na última quarta-feira (23), em parceria com o Ministério da Cidadania. Com curadoria da Lara Pozzobon e Gustavo Acioli, o evento acontece a cada dois anos desde 2003 – em quase duas décadas de festival, o volume de inscrições das produções audiovisuais crescem a cada edição – Das 1064 inscrições, 38 filmes foram selecionados para exibição, entre curtas, médias e longas-metragens, ao longo dos doze dias de evento. As produções escolhidas são de vinte países, entre eles, Brasil, Itália, Nova Zelândia, Estados Unidos, Rússia e Portugal.</p><p>O tema da mostra este ano envolve o poder da autoconfiança e da alegria de viver independentemente da condição física, intelectual, social, etc. Os assuntos apresentam uma pluralidade de questões pertinentes para pessoas com deficiência de diferentes partes do mundo. A diretora geral do evento Graciela Pozzobon explica os critérios necessários para que um filme possa participar da seleção, confira no vídeo abaixo:</p><figure><img src=\"https://www.youtube.com/embed/yHzkQ1YMcPI?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent\" alt=\"Vídeo\" width=\"640\" height=\"360\" /><figcaption>Assista ao vídeo explicativo sobre os critérios de seleção do festival.</figcaption></figure><p class=\"has-text-color has-white-color\">.</p><p>Um dos destaques da programação é o documentário “Meu nome é Daniel”, do cineasta Daniel Gonçalves que na edição anterior fez parte do júri e agora participa concorrendo às premiações do Festival. Sobre a obra cinematográfica, o diretor conta que a produção tem o objetivo de fazer o espectador pensar e tirar o portador de deficiência do estereótipo de vítima ou super-herói em que ele é comumente retratado, quando representado. “Minha intenção é mostrar que a deficiência é uma das minhas características e não algo que me defina”, ressalta Daniel. A produção, que retrata a sua vida, já recebeu vários prêmios, entre eles de melhor filme na Mostra de Cinema de Tiradentes 2019.</p><p>O cineasta Daniel Gonçalves divulga o primeiro longa-metragem, “Meu Nome é Daniel” – Foto: Divulgação – Agência Febre</p><p>Além das exibições, quatro debates fazem parte da programação, e as oficinas são a novidade da 9ª edição: A primeira “O Que você vê?”, com a bailarina Moira Braga; e a segunda “Sentidos”, com o ator e dançarino cadeirante Matheus Trindade. Ambas atividades e discussões promovem uma interação entre o público presente, os realizadores e os personagens retratados nas histórias. Frequentador de todas as edições, o aposentado Roberto Soares, 75 anos, assistiu o longa alemão “Menina de Areia”, de Mark Michel. “Eu adoro este evento. Eu fico com a minha mente meio turva porque a gente não sabe como funciona o dia a dia para essas pessoas, muitas se comunicam apenas por sinais e a vida tem que ser normal de alguma maneira, mesmo com dificuldades”, comenta.</p><p>“Assim Vivemos” é o primeiro festival de cinema no Brasil a oferecer acessibilidade para pessoas com deficiência visual (audiodescrição em todas as sessões e catálogos em Braille) e para pessoas com deficiência auditiva (legendas inclusivas nos filmes e interpretação em LIBRAS nos debates). A mostra é gratuita e vai até o dia 04 de novembro no CCBB, depois segue para as unidades dos estados de Brasília e São Paulo.</p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-28T20:37:26",
+  "date_gmt": "2019-10-28T23:37:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Exibição de filmes, debates e oficinas fazem parte da programação A desconstrução dos estereótipos das pessoas com deficiência é o ponto central da 9ª edição do Assim Vivemos &#8211; Festival Internacional de Filmes sobre a Deficiência, que estreou no Centro Cultural Banco do Brasil (CCBB), na última quarta-feira (23), em parceria com o Ministério da [&hellip;]</p>\n"
+  },
+  "featured_media": 5782,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5763"
+  },
+  "id": 5763,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/unnamed-1.jpg?fit=1920%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1uX",
+  "link": "https://agenciauvabarra.com/2019/10/28/ccbb-e-ministerio-da-cidadania-promovem-a-9a-edicao-do-festival-internacional-sobre-deficiencia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-28T20:38:47",
+  "modified_gmt": "2019-10-28T23:38:47",
+  "ping_status": "open",
+  "slug": "ccbb-e-ministerio-da-cidadania-promovem-a-9a-edicao-do-festival-internacional-sobre-deficiencia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    688980462,
+    648221465,
+    489719
+  ],
+  "template": "",
+  "title": {
+    "rendered": "CCBB promove a 9ª edição do Festival Internacional sobre Deficiência"
+  },
+  "type": "post"
+}

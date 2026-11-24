@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1826/revisions/3203",
+        "id": 3203
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1826"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1826",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1826/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1826"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1826",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1826",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    774
+  ],
+  "class_list": [
+    "post-1826",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-musica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Parceria entre Som Livre e a UVA resulta em oportunidades para universitários produzirem imagens do novo clipe da banda “Laila Garin e a Roda”</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/whatsapp-image-2018-03-28-at-18-49-34-1.jpeg?resize=1161%2C774&amp;ssl=1\" alt=\"WhatsApp Image 2018-03-28 at 18.49.34 (1)\" width=\"1161\" height=\"774\" /><figcaption>Créditos: Brenda Martins</figcaption></figure><p>Com o sotaque francês, pés descalços e ao lado do músico Marcelo Müller, Laila Garin faz interpretação teatral ao traduzir a música “L’accordeoniste” para o português. O amor, entre a prostituta francesa e um baixo e engraçado acordeonista, envolve a plateia composta de alunos dos cursos de Comunicação Social, Design Gráfico, Moda e Audiovisual. Com a atenção e entusiasmo dos aproximadamente 50 universitários presentes, Laila canta e desperta as primeiras impressões e sentimentos do desafio musical da jovem banda “Laila Garin e a Roda” para a criação do novo clipe de “L’accordeoniste”.</p><p>A criação deste projeto musical será por meio de um vídeo lyrics com a letra da canção que, assim como o perfil do grupo, deverá conter imagens, fotos ou ilustrações irreverentes e criativas. A busca da criação foi o maior incentivador para a realização dessa parceria. “Quando a gente trabalha com artistas que fogem do tradicional, a estratégia de Marketing de Comunicação também é fugir do lugar comum. Nada melhor que procurar isso entre os jovens que estão em desenvolvimento criativo dentro da faculdade”, explica Marcio Moreira, profissional de Marketing em MPB da Som Livre. Ele também acredita ser uma via de mão dupla, beneficiando também os alunos da UVA. “É importante, nesse momento de formação, grandes empresas servirem como vitrine para alavancar o início de carreira desses estudantes”.</p><p>Não é a primeira vez que a universidade traz essas vitrines para o alcance dos alunos. “A cobertura jornalística do evento Geek e Games e da Bienal do Livro são exemplos do propósito da UVA de colocar os estudantes com a ‘mão na massa’ para vivenciarem o mercado de trabalho”, explica Cecília Seabra, Gerente de Comunicação Institucional. A estudante de Moda Valdete de Carvalho aceitou o desafio, e o vê como uma oportunidade de trabalhar para um setor que é pouco explorado. “A Moda e a Música são artes que não tive oportunidade de trabalhar, de criar e me experimentar. Vai ser, de verdade, um desafio, mas que estou super animada para começar”.</p><p>O que já começou e está em aberto é o canal de recebimento das ilustrações, fotos ou imagens que darão vida ao clipe de “L’accordeoniste”. O prazo para entrega do material é até o dia 13 de abril com a previsão de lançamento do vídeo para o dia 20 do mesmo mês. “Eu espero que fique lindo, que os alunos realmente se engajem no projeto. A intenção também é chegar nessa nova geração para que a gente possa conversar e ter uma troca”, declara a cantora e atriz Laila Garin. Laila, em novembro de 2017, lançou seu primeiro álbum “Laila Garin e a Roda” com releituras de grandes compositores da MPB clássica e atual, como Chico Buarque, Roberto Carlos, Dani Black e Renato Luciano. No próximo dia 10 de maio o grupo se apresenta no Teatro Bradesco, no Rio de Janeiro.</p><p>Yhara Linka, 6º período de Jornalismo.</p></main>"
+  },
+  "date": "2018-03-28T21:04:10",
+  "date_gmt": "2018-03-29T00:04:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Parceria entre Som Livre e a UVA resulta em oportunidades para universitários produzirem imagens do novo clipe da banda “Laila Garin e a Roda”</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1826"
+  },
+  "id": 1826,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-ts",
+  "link": "https://agenciauvabarra.com/2018/03/28/musica-irreverencia-e-criatividade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:14:57",
+  "modified_gmt": "2019-02-26T00:14:57",
+  "ping_status": "open",
+  "slug": "musica-irreverencia-e-criatividade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Música, irreverência e criatividade"
+  },
+  "type": "post"
+}

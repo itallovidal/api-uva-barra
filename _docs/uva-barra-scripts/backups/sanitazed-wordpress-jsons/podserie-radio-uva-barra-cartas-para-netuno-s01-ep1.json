@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11112/revisions/11116",
+        "id": 11116
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11112"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11112",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11112/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11112"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11114"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11112",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11112",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-11112",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "tag-agencia-uva-barra",
+    "tag-podserie",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Cartas Para Netuno - Temporada 1 - Episódio 1 by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1207921120&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\"></iframe></div></figure><p>Um conflito entre o carteiro Victor Simões e uma empresa que ameaça o ecossistema local de Rio Grande do Sul estabelece a trama de suspense e fantasia de \"Cartas Para Netuno\". Após o encontro de Victor com a sereia Eva, o carteiro se desperta para a realidade social e ambiental ao redor.</p><p>A podsérie foi produzida por: Augusto Ferreira, Bruno Rocha, Elenara Souza, Felipe Bernardes, Gabriel Silva, Isabella Souza, João Pedro Magalhães, Luiz Guilherme Couto, Pedro Augusto Santos e Robert Silva.</p><p>Pedro Amorim – 6º período</p></main>"
+  },
+  "date": "2022-02-01T14:41:19",
+  "date_gmt": "2022-02-01T17:41:19",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um conflito entre o carteiro Victor Simões e uma empresa que ameaça o ecossistema local de Rio Grande do Sul estabelece a trama de suspense e fantasia de &#8220;Cartas Para Netuno&#8221;. Após Victor se encontrar com a sereia Eva, o carteiro se desperta para a realidade social e ambiental ao redor. </p>\n"
+  },
+  "featured_media": 11114,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11112"
+  },
+  "id": 11112,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/img_1768.jpg?fit=744%2C747&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Te",
+  "link": "https://agenciauvabarra.com/2022/02/01/podserie-radio-uva-barra-cartas-para-netuno-s01-ep1/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-02-01T16:30:09",
+  "modified_gmt": "2022-02-01T19:30:09",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-cartas-para-netuno-s01-ep1",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    712276378,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra &#8211; Cartas Para Netuno &#8211; S01 &#8211; EP1"
+  },
+  "type": "post"
+}

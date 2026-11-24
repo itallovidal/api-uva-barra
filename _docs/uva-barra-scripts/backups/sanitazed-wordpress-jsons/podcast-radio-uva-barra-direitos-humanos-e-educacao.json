@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11772/revisions/11823",
+        "id": 11823
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11772"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11772",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11772/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11772"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11774"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11772",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11772",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    187874,
+    17964,
+    701438832
+  ],
+  "class_list": [
+    "post-11772",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direitos-humanos",
+    "category-educacao",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Direitos Humanos e Educação\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/4GMBw565yeHcG5V1ngLOJf?si=1be19fd501264ab1&#038;utm_source=oembed\"></iframe></figure><p>“Todos os seres humanos têm direito à educação. A educação será gratuita, pelo menos nos graus elementares e fundamentais. A educação elementar será obrigatória.” Este é o 26º artigo da Declaração Universal dos Direitos Humanos.</p><p>Trata-se de um dos 30 artigos criados pela Organização das Nações Unidas, a ONU, na Assembleia Geral de 1948, e tem como objetivo proteger e resguardar toda e qualquer vida humana.</p><p>Neste primeiro episódio da série de podcast de Direitos Humanos, da Rádio UVA Barra, contamos com a participação da Cristina Riche, professora e pesquisadora do Núcleo de Estudos de Políticas Públicas dos Direitos Humanos, Libânia Xavier, docente da Faculdade de Educação da Universidade Federal do Rio de Janeiro, e Marinalva Honório, professora de Educação básica da rede pública.</p><p><em>Maria Clara Lisboa — 7º período<br>Vinícius Alves — 7º período</em></p></main>"
+  },
+  "date": "2022-05-16T17:18:20",
+  "date_gmt": "2022-05-16T20:18:20",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Todos os seres humanos têm direito à educação. A educação será gratuita, pelo menos nos graus elementares e fundamentais. A educação elementar será obrigatória.&#8221; Este é o 26º artigo da Declaração Universal dos Direitos Humanos.</p>\n"
+  },
+  "featured_media": 11774,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11772"
+  },
+  "id": 11772,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/para-o-site-5.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-33S",
+  "link": "https://agenciauvabarra.com/2022/05/16/podcast-radio-uva-barra-direitos-humanos-e-educacao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-05-19T17:22:19",
+  "modified_gmt": "2022-05-19T20:22:19",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-direitos-humanos-e-educacao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Direitos Humanos e Educação"
+  },
+  "type": "post"
+}

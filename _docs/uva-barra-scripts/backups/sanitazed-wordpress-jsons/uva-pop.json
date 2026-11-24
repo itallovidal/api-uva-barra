@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14195/revisions/14199",
+        "id": 14199
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14195"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14195",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14195/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14195"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14198"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14195",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14195",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    2367,
+    632602,
+    23208,
+    3719,
+    74499
+  ],
+  "class_list": [
+    "post-14195",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-cultura",
+    "category-diversidade",
+    "category-entretenimento",
+    "category-literatura",
+    "category-mercado-de-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-arte",
+    "tag-comunidades",
+    "tag-entretenimento",
+    "tag-entrevista",
+    "tag-oportunidades"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O programa UVA POP traz o criador de conteúdo e desenhista Leonardo César para debater sobre a cultura POP periférica e os desdobramentos no mercado do entretenimento.</p><p>A produção dos alunos Livia Oliveira, Raphaela Sanfins, Maria Eduarda Magalhães, Fernanda Doné, Giulia da Silva e Gabriel Mattos debate temas como: Representatividade de pessoas pretas da indústria das animações, oportunidades para artistas dentro das comunidades e projetos pessoais da carreira do entrevistado.</p><p><strong>Confira o programa completo!</strong></p><figure><iframe src='https://www.youtube.com/embed/7btuFL1QVvA?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>*Programa produzido para a disciplina de Conexões e Narrativas Sociais, sob a supervisão da professora Renata Feital</p></main>"
+  },
+  "date": "2023-03-03T17:33:51",
+  "date_gmt": "2023-03-03T20:33:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O programa UVA POP traz o criador de conteúdo e desenhista Leonardo César para debater sobre a cultura POP periférica e os desdobramentos no mercado do entretenimento. </p>\n"
+  },
+  "featured_media": 14198,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14195"
+  },
+  "id": 14195,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/whatsapp-image-2023-03-03-at-17.33.12.jpeg?fit=711%2C642&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3GX",
+  "link": "https://agenciauvabarra.com/2023/03/03/uva-pop/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-03T17:33:51",
+  "modified_gmt": "2023-03-03T20:33:51",
+  "ping_status": "open",
+  "slug": "uva-pop",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    3468,
+    73731,
+    767056615,
+    52342,
+    189414
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA POP"
+  },
+  "type": "post"
+}

@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3753/revisions/3979",
+        "id": 3979
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3753"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3753",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3753/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3753"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3753",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3753",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3753",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-netflix",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Palestra colocou em perspectiva os planos da maior rede de streaming para o Brasil</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-25-at-18.27.47-3.jpeg?resize=1280%2C899&#038;ssl=1' alt='Chefe de conteúdo da Netflix fala do futuro da relação com o Brasil' width='1280' height='899' /><figcaption>Chefe de conteúdo da Netflix fala do futuro da relação com o Brasil – Foto: Julia Morais</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-25-at-18.27.47-2.jpeg?resize=1280%2C536&#038;ssl=1' alt='Wagner Moura e Ted Sarandos apontaram fatores que tornam o Brasil um bom investimento para Netflix' width='1280' height='536' /><figcaption>Wagner Moura e Ted Sarandos apontaram fatores que tornam o Brasil um bom investimento para Netflix – Foto: Julia Morais</figcaption></figure><p>Quem nunca ouviu falar em Netflix? Atualmente, ela é uma das principais e mais importantes plataformas de streaming global, trabalhando com o mundo e para o mundo. Pensando nessa globalização e o que ela significa para a indústria de produção brasileira, o RIO2C promoveu uma conversa entre Wagner Moura, ator de Narcos – série premiada da plataforma – com o chefe de conteúdos da Netflix, Ted Sarandos.</p><p>O bate-papo teve início com Wagner comentando sobre o atual momento da produção cinematográfica no Brasil e falando da importância dessa conexão para o país. “É um momento interessante para se ter essa conversa, porque nossa indústria aqui no Brasil está passando por uma fase muito complicada. Então, o fato de que a Netflix está investindo tanto aqui é incrível”, comentou o ator.</p><p>Sarandos comentou sobre o início dos laços que a empresa vem construindo com o país, sua história e seus talentos. “Nossa jornada no Brasil começou há um tempo, em 2011 – quando chegamos aqui. Em 2013 abrimos nosso primeiro escritório aqui e em 2017 produzimos nossa primeira série original local: ‘3%’”, disse o executivo. “Eu aprendi sobre a indústria daqui com um amigo – antes de a gente começar uma longa conversa sobre as dificuldades de se produzir no Brasil, mas também sobre essa comunidade criativa incrível, com pessoas e histórias lindas”, explicou.</p><p>Com o atual interesse por conteúdos brasileiros e esse link existente entre a plataforma e o país, a relação entre a Netflix e o Brasil foi definida por Sarandos como amorosa e duradoura. “Eu acho que devemos pensar que é só o começo”, afirmou. Quando questionado por Wagner Moura ‘por que o Brasil?’, Ted explicou que que a conexão emocional do público com a plataforma de streaming é a razão. “Nossa conexão emocional é muito forte”, afirmou Sarandos. “O Brasil é um dos maiores mercados do mundo para a Netflix, e a ideia de ser capaz de contar para o mundo histórias que são únicas e brasileiras é maravilhosa”, finalizou.</p><p>O futuro dessa relação é promissor. Já existem projetos voltados exclusivamente para o Brasil, com produção, cenário, elenco e histórias inteiramente com a essência do país. Para Sarandos, há muito a ser mostrado para o mundo – narrativas que vão além do entretenimento e passam conhecimento – e o Brasil é um lugar que tem muito para oferecer.</p><blockquote>“O Brasil é um dos maiores mercados do mundo para a Netflix” – Ted Sarandos</blockquote><p><strong>Julia Morais – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-25T22:51:08",
+  "date_gmt": "2019-04-26T01:51:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestra colocou em perspectiva os planos da maior rede de streaming para o Brasil Quem nunca ouviu falar em Netflix? Atualmente, ela é uma das principais e mais importantes plataformas de streaming global, trabalhando com o mundo e para o mundo. Pensando nessa globalização e o que ela significa para a indústria de produção brasileira, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3753"
+  },
+  "id": 3753,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Yx",
+  "link": "https://agenciauvabarra.com/2019/04/25/o-brasil-na-netflix-conexao-parceria-e-oportunidades/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-01T17:46:36",
+  "modified_gmt": "2019-05-01T20:46:36",
+  "ping_status": "open",
+  "slug": "o-brasil-na-netflix-conexao-parceria-e-oportunidades",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    1182,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Brasil na Netflix: conexão, parceria e oportunidades"
+  },
+  "type": "post"
+}

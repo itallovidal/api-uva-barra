@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16779/revisions/16790",
+        "id": 16790
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16779"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16779",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16779/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16779"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16789"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16779",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16779",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16779",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Jovens do país se espelham nos esportistas como figuras de representatividade</em></p><p>A expressão <em>role model</em> destaca os indivíduos que, por meio de suas atitudes, são vistos como modelos de comportamento e inspiração perante a outra pessoa, ou a sociedade como um todo. O conceito pode ser aplicado a diversos tipos de pessoas, como pais, professores, ou personalidades presentes na mídia. No Brasil, país em que o esporte é extremamente popular, os atletas são vistos como as principais referências neste aspecto, principalmente pelos jovens.</p><p>Com uma trajetória exemplar no esporte, contemplada com cinco Copas do Mundo no futebol masculino, 150 medalhas olímpicas, sendo dessas 37 de ouro, e diversas outras glórias, o Brasil conta com diversos atletas consagrados em sua história. Muito além das medalhas e troféus conquistados pelos esportistas, o legado, deixado através de atitudes, vivências e até mesmo a maneira de encarar o esporte, é o que ultrapassa as arquibancadas e televisões para impactar os fãs.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/img-20240515-wa0065.jpg?resize=2121%2C2674&amp;ssl=1\" alt=\"\" width=\"2121\" height=\"2674\"><figcaption>A estudante universitária Júlia da Mata descreve sua relação com o esporte: “Gosto de pensar que amar o esporte é celebrar o que há de melhor no ser humano, as melhores qualidades, os melhores exemplos e as melhores histórias” (Reprodução: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/img-20240515-wa0054.jpg?resize=1182%2C1406&amp;ssl=1\" alt=\"\" width=\"1182\" height=\"1406\"><figcaption>O jovem João Paulo de Moura de Moura se vê representado por Vinícius Júnior: “Ele me faz acreditar que posso estar em lugares que nunca sonhei, que dizem que não são pra pessoas como eu” (Reprodução: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/img-20240515-wa0035.jpg?resize=2895%2C2645&amp;ssl=1\" alt=\"\" width=\"2895\" height=\"2645\"><figcaption>O professor de futebol juvenil Guilherme Sodré enfatiza a influência dos atletas em seus alunos: “Eles querem ser como os jogadores, copiar seus visuais, seus apelidos, sua forma de se comportar, em campo e na vida” (Reprodução: Arquivo Pessoal)</figcaption></figure><p>Com uma trajetória exemplar no esporte, contemplada com cinco Copas do Mundo no futebol masculino, 150 medalhas olímpicas, sendo dessas 37 de ouro, e diversas outras glórias, o Brasil conta com diversos atletas consagrados em sua história. Muito além das medalhas e troféus conquistados pelos esportistas, o legado, deixado através de atitudes, vivências e até mesmo a maneira de encarar o esporte, é o que ultrapassa as arquibancadas e televisões para impactar os fãs.</p><p>A estudante universitária Júlia da Mata, 21, conta que mesmo não sendo esportista, sente que grande parte do seu caráter e estilo de vida foi moldado pelo esporte olímpico e seus atletas. “Quando somos crianças, é difícil ver o esporte como algo além de diversão, mas, em algum momento da minha adolescência, percebi que podia ser muito mais. A conquista do tricampeonato olímpico de vôlei masculino em 2016 é uma das minhas memórias favoritas, pois a trajetória deles me traz muita alegria, vontade e confiança. Me inspiro também na ginástica. Acompanhar a história de mulheres como Daiane dos Santos, Dani Hypólito, Flávia Saraiva, Jade Barbosa e Rebeca Andrade me traz uma sensação de sororidade imensa, de que é só o começo, de que veremos cada vez mais mulheres no topo”, disse ela.</p><p>Nos campos de futebol, Vinícius Júnior, jogador do Real Madrid e da Seleção Brasileira, é visto atualmente como o principal espelho para os jovens. Além do trabalho social realizado por meio do Instituto Vini Jr, em que busca conciliar esporte e educação para mudar a vida de crianças do país, o esportista desempenha na Espanha o papel de protagonista frente a uma árdua batalha antirracista. A partir de seus projetos sociais, Vinícius Júnior foi nomeado Embaixador da Boa Vontade pela Organização das Nações Unidas para Educação, Ciência e Cultura (UNESCO), certificado que só havia sido entregue a um brasileiro, o Rei Pelé.</p><p>João Paulo de Moura, 18, técnico em telecomunicações, enfatiza a importância da representatividade protagonizada por Vinícius Júnior em sua vida. Por meio do espelho no atleta, o jovem acredita que alcançará todos os seus sonhos. “Eu me vejo no Vinícius Júnior, por ter nascido no Rio de Janeiro, por ser um moleque preto, da periferia. Ele quebra muitos tabus da sociedade, só por estar onde ele está. Saber onde ele está agora, que é um lugar onde eu nunca consegui me imaginar, me faz acreditar que eu posso estar lá. Seja como atleta, ou na área que eu escolhi trabalhar, independente do que a sociedade diga. Nós, garotos como eu e ele, podemos ocupar esses espaços”, concluiu.</p><p>Guilherme Sodré, 21, professor de futebol juvenil, destaca a partir da sua vivência diária com os jovens a importância de que atletas como Vinícius Júnior sirvam como bons espelhos. “O bom exemplo vindo de atletas, por meio do caráter e da determinação é muito importante para esses jovens. No futebol, os meus alunos se inspiram muito no Vinícius Júnior. Eles se comparam com ele, querem ser igual a ele, porque ele não para em nenhum momento de jogar, de arriscar, de buscar vencer. Ele não desiste. A batalha antirracista que ele protagoniza também é acompanhada diariamente. Em vários jogos em que o Vinicius sequer marca um gol, mas publica fotos de gestos antirracistas, todos os meus alunos compartilham”, finaliza.</p><p>O ato de inspirar gerações acaba sendo um dos grandes legados deixados pelos atletas ao fim de suas carreiras. Na história do Brasil, aqueles que são considerados os maiores esportistas, foram além de grandes campeões, inspirações para suas gerações e para as que vieram a seguir. O esporte, por meio de sua popularidade e da sua forma de incluir e conectar pessoas, é uma poderosa ferramenta social, que tem como principal característica, o poder de impactar e transformar vidas ao redor do mundo.</p><p><em>João Pedro Magalhães – 6° Período</em></p></main>"
+  },
+  "date": "2024-05-22T14:17:09",
+  "date_gmt": "2024-05-22T17:17:09",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Jovens do país se espelham nos esportistas como figuras de representatividade  A expressão role model destaca os indivíduos que, por meio de suas atitudes, são vistos como modelos de comportamento e inspiração perante a outra pessoa, ou a sociedade como um todo. O conceito pode ser aplicado a diversos tipos de pessoas, como pais, professores, [&hellip;]</p>\n"
+  },
+  "featured_media": 16789,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16779"
+  },
+  "id": 16779,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/img-20240515-wa0052.jpg?fit=956%2C1105&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4mD",
+  "link": "https://agenciauvabarra.com/2024/05/22/atitudes-e-vivencias-de-atletas-sao-vistas-como-referencia-por-jovens-brasileiros/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-05-22T14:17:09",
+  "modified_gmt": "2024-05-22T17:17:09",
+  "ping_status": "open",
+  "slug": "atitudes-e-vivencias-de-atletas-sao-vistas-como-referencia-por-jovens-brasileiros",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Atitudes e vivências de atletas são vistas como referência por jovens brasileiros"
+  },
+  "type": "post"
+}

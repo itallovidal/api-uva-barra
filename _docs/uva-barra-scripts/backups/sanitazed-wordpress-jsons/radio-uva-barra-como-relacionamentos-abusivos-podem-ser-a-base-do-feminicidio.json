@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13920/revisions/13929",
+        "id": 13929
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13920"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13920",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13920/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13920"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13925"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13920",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13920",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    701438832,
+    21243,
+    7114,
+    33026
+  ],
+  "class_list": [
+    "post-13920",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-radio-uva-barra",
+    "category-seguranca",
+    "category-sociedade",
+    "category-violencia",
+    "tag-abusivo",
+    "tag-agencia-uva-barra",
+    "tag-feminicidio",
+    "tag-mulheres",
+    "tag-relacionamento"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A repórter Isabella Costa discute feminicídio nesta matéria da Rádio UVA Barra. No Brasil, uma mulher é morta a cada sete horas, e essas mortes estão ligadas diretamente aos relacionamentos abusivos enfrentados por elas. A maioria dos crimes acontecem em cenários de violência doméstica.</p><p>Para desenvolver esse tema, uma entrevista com a advogada Ana Carolina. A reportagem traz também os problemas de relacionamentos abusivos e entender como identificar atitudes suspeitas dos parceiros.</p><figure><blockquote class=\"wp-embedded-content\" data-embed-type=\"soundcloud\"><iframe loading=\"lazy\" title=\"Como relacionamentos abusivos podem ser a base do feminicídio by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1407594964&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\"></iframe></blockquote><p class=\"wp-embedded-content__source\">Fonte: <a href=\"https://soundcloud.com/agenciauva-barra\" target=\"_blank\" rel=\"noopener\">Como relacionamentos abusivos podem ser a base do feminicídio by Agência UVA Barra</a></p></figure><p>Isabella Pereira – 4° período</p><p>*matéria produzida para a disciplina de Audiojornalismo, sob a supervisão do professor Anderson Barreto.</p></main>"
+  },
+  "date": "2022-12-21T18:00:00",
+  "date_gmt": "2022-12-21T21:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A repórter Isabella Costa discute feminicídio nesta matéria da Rádio UVA Barra. No Brasil, uma mulher é morta a cada sete horas, e essas mortes estão ligadas diretamente aos relacionamentos abusivos enfrentados por elas. A maioria dos crimes acontecem em cenários de violência doméstica. </p>\n"
+  },
+  "featured_media": 13925,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13920"
+  },
+  "id": 13920,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/violence-4207549_1920.jpg?fit=1920%2C1056&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Cw",
+  "link": "https://agenciauvabarra.com/2022/12/21/radio-uva-barra-como-relacionamentos-abusivos-podem-ser-a-base-do-feminicidio/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-21T17:02:42",
+  "modified_gmt": "2022-12-21T20:02:42",
+  "ping_status": "open",
+  "slug": "radio-uva-barra-como-relacionamentos-abusivos-podem-ser-a-base-do-feminicidio",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    2438670,
+    648221465,
+    560451,
+    15254,
+    182218
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rádio UVA Barra: Como relacionamentos abusivos podem ser a base do feminicídio"
+  },
+  "type": "post"
+}

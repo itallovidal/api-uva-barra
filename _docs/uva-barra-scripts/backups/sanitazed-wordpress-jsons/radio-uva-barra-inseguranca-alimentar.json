@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13847/revisions/13851",
+        "id": 13851
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13847"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13847",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13847/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13847"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13850"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13847",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13847",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    187874,
+    11716206,
+    701438832,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-13847",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direitos-humanos",
+    "category-economia-2",
+    "category-radio-uva-barra",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-alimentacao",
+    "tag-economia",
+    "tag-fome",
+    "tag-inseguranca"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O Brasil voltou ao mapa da fome e o número de brasileiros que não sabem quando irão fazer a próxima refeição aumentou. Segundo a ONU, as famílias estão enfrentando cada vez mais dificuldades na compra de alimentos devido a queda de faturamento mensal e também ao aumento dos preços no mercado. </p><p>Especialistas apontam que uma possível solução para este problema é a retomada de políticas sociais que ficaram estagnadas nos últimos anos. A repórter da Rádio UVA Barra, Bianca Betim, conversou com o economista Emerson Oliveira, para entender a diminuição do poder de compra do brasileiro. Confiram a matéria no áudio abaixo: </p><figure><img src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1402769179&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' alt='Insegurança alimentar by Agência UVA Barra' width='500' height='400'><figcaption>Insegurança alimentar by Agência UVA Barra</figcaption></figure><p>Bianca Betim – 5° período </p><p>*matéria produzida para a disciplina de Audiojornalismo, sob a supervisão do professor Anderson Barreto.</p></main>"
+  },
+  "date": "2022-12-14T17:58:10",
+  "date_gmt": "2022-12-14T20:58:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Brasil voltou ao mapa da fome e o número de brasileiros que não sabem quando irão fazer a próxima refeição aumentou. Segundo a ONU, as famílias estão enfrentando cada vez mais dificuldades na compra de alimentos devido a queda de faturamento mensal e também ao aumento dos preços no mercado</p>\n"
+  },
+  "featured_media": 13850,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13847"
+  },
+  "id": 13847,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/grocery-1232944_1920.jpg?fit=1920%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Bl",
+  "link": "https://agenciauvabarra.com/2022/12/14/radio-uva-barra-inseguranca-alimentar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-14T17:58:10",
+  "modified_gmt": "2022-12-14T20:58:10",
+  "ping_status": "open",
+  "slug": "radio-uva-barra-inseguranca-alimentar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    152500,
+    2372,
+    253306,
+    541001
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rádio UVA Barra: Insegurança alimentar"
+  },
+  "type": "post"
+}

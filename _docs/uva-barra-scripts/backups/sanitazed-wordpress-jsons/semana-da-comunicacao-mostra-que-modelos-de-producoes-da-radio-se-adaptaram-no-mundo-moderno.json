@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16983/revisions/16992",
+        "id": 16992
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16983"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16983",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16983/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16983"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16991"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16983",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16983",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16983",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>No segundo dia da secom, alunos aprendem as etapas de pré e pós produção de um podcast</p><p>O Campus UVA Barra recebeu mais uma edição da SECOM (Semana da Comunicação) nos dias 12 e 13 de junho. Contando com diversas palestras e oficinas, o intuito foi trazer conhecimento e aprendizado para a carreira profissional dos estudantes. Na quinta-feira(13) os alunos Arthur Cabral, Lucas Torres e Vitor Luiz ministraram uma oficina com o objetivo de auxiliar na produção de um podcast e abordaram temas como montagem de roteiros, escolha de equipamentos e como é feita a divulgação do produto final.</p><p>Na produção de um podcast é necessário entender que o mais importante está na transmissão da mensagem por meio da voz. Os ouvintes precisam compreender o que o interlocutor fala e o conteúdo precisa estar claro e objetivo. Vitor Luiz, aluno de Cinema, aconselhou as pessoas que gostariam de iniciar seu primeiro projeto. “Ter uma pauta bem definida, um roteiro bem organizado, testar tudo que pode dar certo e errado em todas as etapas de produção e ter noções de edição são a base para que você possa lançar o seu programa”</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/06/1000169116.jpg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\" /><figcaption>Desde o primeiro período, eu tenho experiências como essa de hoje através da agência da faculdade que nos ajudam muito em como fazer o podcast sozinho”, disse Juliana Dias( Reprodução: Agência Uva Barra)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/06/1000169121.jpg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\" /><figcaption>“Me interessei porque a professora do meu curso comentou que precisamos realizar um trabalho nesse modelo. Eu achei interessante aprender não só para matéria pois podcasts são maneiras de comunicação muito comuns hoje em dia e eu não sabia nada sobre a parte produção”, disse Maxuel Nogueira, estudante de Psicologia (Reprodução: Arquivo Agência Uva Barra)</figcaption></figure><p>O aluno Artur Cabral de jornalismo comentou que sempre gostou do audiovisual e tudo que está relacionado a ele.“A maior dificuldade é você saber por onde começar, depois disso, basta ter criatividade”. Em seu momento da palestra, Artur explicou como alguns equipamentos funcionavam e deu dicas sobre captação de áudio. Quem estava presente pode ter uma noção maior sobre os bastidores e que a gravação não acaba no momento que a entrevista termina, ela continua sendo moldada no processo de edição. Juliana Dias, aluna do 3°de jornalismo, comenta que a oficina contribuiu com sua carreira. “Achei interessante porque ajuda a gente ter essa prática mais ampla do podcast, de como podemos aprender a usar os equipamentos. Me ajudou também na experiência geral para a vida pois pretendo no meu futuro trabalhar com a câmera, televisão e audiovisual no geral”.</p><p>A oficina finalizou com Lucas Torres, estagiário de publicidade. Ele comentou sobre os aspectos referentes à divulgação nas mídias e sobre identidade visual do podcast, bem como onde é possível realizar esse trabalho. Lucas também falou sobre como a IA ajuda nesse processo. “Com certeza, a inteligência artificial ajuda na minha profissão, eu uso um pouco. Eu acredito que as pessoas vilanizam demais a ferramenta e ela não vai tomar o lugar das pessoas”, relatou.</p><p>Larissa Moraes e Eduarda Vila Nova- 1°</p></main>"
+  },
+  "date": "2024-06-16T17:20:58",
+  "date_gmt": "2024-06-16T20:20:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No segundo dia da secom, alunos aprendem as etapas de pré e pós produção de um podcast O Campus UVA Barra recebeu mais uma edição da SECOM (Semana da Comunicação) nos dias 12 e 13 de junho. Contando com diversas palestras e oficinas, o intuito foi trazer conhecimento e aprendizado para a carreira profissional dos [&hellip;]</p>\n"
+  },
+  "featured_media": 16991,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16983"
+  },
+  "id": 16983,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/06/screenshot_20240616_172024_photos.jpg?fit=1080%2C728&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4pV",
+  "link": "https://agenciauvabarra.com/2024/06/16/semana-da-comunicacao-mostra-que-modelos-de-producoes-da-radio-se-adaptaram-no-mundo-moderno/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-06-16T17:20:58",
+  "modified_gmt": "2024-06-16T20:20:58",
+  "ping_status": "open",
+  "slug": "semana-da-comunicacao-mostra-que-modelos-de-producoes-da-radio-se-adaptaram-no-mundo-moderno",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Semana da comunicação mostra que modelos de produções da rádio se adaptaram no mundo moderno"
+  },
+  "type": "post"
+}

@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2516/revisions/3030",
+        "id": 3030
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2516"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2516",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2516/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2516"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2525"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2516",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2516",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    7114
+  ],
+  "class_list": [
+    "post-2516",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-catete",
+    "tag-faca-amor-nao-faca-guerra",
+    "tag-literatura",
+    "tag-museu-da-republica",
+    "tag-primavera-literaria-2018"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Assuntos considerados proibidos na literatura foram discutidos no terceiro dia de Primavera Literária</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-21-at-17-52-371.jpeg?resize=1040%2C780&amp;ssl=1' alt='WhatsApp Image 2018-10-21 at 17.52.37' width='1040' height='780' /><figcaption>Os autores Alessandro Thomé e Andrea Taubman falam sobre os desafios de escrever sobre abuso – Foto: Ana Beatriz Bernardo</figcaption></figure><p>Abuso, homossexualidade, câncer e morte estão entre os diversos tabus na literatura. Não só no Brasil, mas em todo o mundo, esses e outros assuntos são considerados delicados e, muitas vezes, ficam de lado nas histórias. No terceiro dia de Primavera Literária, no último sábado (20), esse foi um dos assuntos tratados na tenda “Faça amor, não faça guerra”. O evento acontece no Museu da República e conta com stands de editoras, bate-papos, lançamentos de livros e espaço para as crianças.</p><p>De fato, essas restrições também servem para compor a vida em sociedade, mas os discursos que as legitimam ou destituem estão longe de dar conta da complexidade do assunto. O autor e palestrante Alessandro Thomé acredita que para quebrar esses tabus, alguém precisa começar a falar sobre eles. “Enquanto ninguém cria coragem de dizer algo sobre esse assunto, fica a impressão de que está tudo bem, mas não está”, expõe.</p><p>E escrever sobre isso não é fácil, principalmente para crianças. A autora do livro “Não me toca, seu boboca”, Andrea Taubman, diz que precisou fazer pesquisas de campo para montar a história. “É muita responsabilidade escrever para um ser humano que ainda está em formação”, conta. E a literatura infantil carece de ilustrações, logo, o cuidado é redobrado para que não haja identificação. “Um abusador não tem rosto, uma criança abusada também não. Eu fiz animais humanizados justamente por isso, para que a criança não identifique pessoas próximas por conta de uma descrição”, explica.</p><p>O preconceito é presente, mas as pessoas estão começando a aceitar ouvir e ler sobre isso. Existem leitores que se negam a comprar livros que tratem de temas como abuso sexual, mas há aqueles que já estão abertos a isso. Como a ilustradora Sônia Elizabeth, que acredita na necessidade de discussão desse assunto. “Eu não deixo o livro de lado, pelo contrário, procuro outros que tratem da mesma temática. É bom nós estarmos informados sobre tudo”, conta. E como o tema do evento mesmo diz: “escrever é resistir”, quanto mais autores falarem sobre, mais mostram resistência à esses tabus.</p><p><strong>Ana Beatriz Bernardo – 6º período</strong></p></main>"
+  },
+  "date": "2018-10-22T17:40:57",
+  "date_gmt": "2018-10-22T20:40:57",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Assuntos considerados proibidos na literatura foram discutidos no terceiro dia de Primavera Literária Abuso, homossexualidade, câncer e morte estão entre os diversos tabus na literatura. Não só no Brasil, mas em todo o mundo, esses e outros assuntos são considerados delicados e, muitas vezes, ficam de lado nas histórias. No terceiro dia de Primavera Literária, [&hellip;]</p>\n"
+  },
+  "featured_media": 2525,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2516"
+  },
+  "id": 2516,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-21-at-17-52-371.jpeg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-EA",
+  "link": "https://agenciauvabarra.com/2018/10/22/escrever-ou-nao-eis-a-questao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:26:31",
+  "modified_gmt": "2019-01-31T13:26:31",
+  "ping_status": "open",
+  "slug": "escrever-ou-nao-eis-a-questao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    446807,
+    25131732,
+    767056603,
+    446863,
+    652642776
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Escrever ou não? Eis a questão"
+  },
+  "type": "post"
+}

@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4293/revisions/4302",
+        "id": 4302
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4293"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4293",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4293/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4293"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4297"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4293",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4293",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4293",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento reuniu alunos de diversos cursos no campus Barra</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/alunos-com-a-professora-carla-moura-apc3b3s-desenvolvimento-da-horta-comunitc3a1ria-dentro-da-uva-e1559162191167.jpeg?resize=1280%2C1018&#038;ssl=1\" alt=\"\" width=\"1280\" height=\"1018\" /><figcaption>Alunos com a professora Carla Moura após desenvolvimento da horta comunitária dentro da UVA – Foto: Thalyta Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/desenvolvimento-da-horta-comunitc3a1ria.jpeg?resize=1280%2C1280&#038;ssl=1\" alt=\"\" width=\"1280\" height=\"1280\" /><figcaption>Os alunos aprendem na prática como plantar – Foto: Thalyta Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/desenvolvimento-da-horta-comunitc3a1ria-dentro-da-universidade-os-alunos-aprendendo-na-prc3a1tica-como-plantar.-e1559159882974.jpeg?resize=960%2C840&#038;ssl=1\" alt=\"\" width=\"960\" height=\"840\" /><figcaption>Desenvolvimento da horta comunitária – Foto: Thalyta Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/horta-feito-por-alunos-da-uva-barra-dentro-da-universidade-e1559162292410.jpeg?resize=720%2C1279&#038;ssl=1\" alt=\"\" width=\"720\" height=\"1279\" /><figcaption>Horta feito por alunos da UVA Barra – Foto: Thalyta Souza</figcaption></figure><p>Durante a semana do dia 20 a 25 de maio, aconteceu a Semana Sustentável no campus Barra com atividades para conscientizar alunos e professores de práticas que ajudem o meio ambiente.</p><p>Promovida pelo NUPPS, Núcleo de Pesquisa e Práticas Sustentáveis, a semana contou com mini palestras, a colagem de cartazes de conscientização ambiental, a implementação de caixas testes para coleta seletiva, a melhoria na horta comunitária UVA Barra e a criação de um eco lounge feito com material reciclado e objetos encontrados no lixo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/eco-lounge-dentro-da-universidade-feito-pelo-nc3bacleo.jpeg?resize=458%2C343&#038;ssl=1\" alt=\"\" width=\"458\" height=\"343\" /><figcaption>Eco lounge feito pelo NUPPS – Foto: Thalyta Souza</figcaption></figure><p>A coordenadora do projeto, professora Carla Moura, ressalta a importância de aproximar alunos de diversos cursos para as práticas sustentáveis, tema relevante na contemporaneidade. “Estas ações sempre possuem um cunho social além do ambiental”, afirma a professora.</p><p>Dentro dos projetos do NUPPS para o ano de 2019 estão:</p><ul><li>a implementação definitivamente na Universidade da coleta seletiva</li><li>oficinas de reciclagem</li><li>capacitação de pessoas que não possuem nenhum tipo de renda e que poderão viver desse trabalho.</li></ul><p>No campo de pesquisa, o núcleo elaborou um artigo científico que será publicado em breve sobre a sustentabilidade no mundo e principalmente no meio acadêmico. A aluna Giovanna Oliveira, do quinto período do curso de direito, diz que esse trabalho é ótimo para o currículo e para a aprendizagem. “Nosso objetivo é ensinar as pessoas da comunidade a reciclar e plantar, para que isso se transforme em uma fonte de renda para elas”, disse a aluna. Giovanna contou também que o grupo cresceu bastante e que estão buscando conscientizar o máximo de alunos da própria faculdade, sobre como é importante diminuir os grandes impactos no meio ambiente, como o uso do copo de plástico e do canudo, e também, a importância da coleta seletiva.</p><p>A semana sustentável foi concluída com solidariedade. No sábado, um grupo de alunos, criou uma horta com os idosos da Unidade de Reinserção Maria Vieira Bazani, no Terreirão, no bairro do Recreio.</p><p><strong>Thalyta Souza – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-05-29T17:46:43",
+  "date_gmt": "2019-05-29T20:46:43",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento reuniu alunos de diversos cursos no campus Barra Durante a semana do dia 20 a 25 de maio, aconteceu a Semana Sustentável no campus Barra com atividades para conscientizar alunos e professores de práticas que ajudem o meio ambiente. Promovida pelo NUPPS, Núcleo de Pesquisa e Práticas Sustentáveis, a semana contou com mini palestras, [&hellip;]</p>\n"
+  },
+  "featured_media": 4297,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4293"
+  },
+  "id": 4293,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/alunos-com-a-professora-carla-moura-apc3b3s-desenvolvimento-da-horta-comunitc3a1ria-dentro-da-uva-e1559162191167.jpeg?fit=1280%2C1018&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-17f",
+  "link": "https://agenciauvabarra.com/2019/05/29/uma-semana-para-discutir-a-sustentabilidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-29T17:46:43",
+  "modified_gmt": "2019-05-29T20:46:43",
+  "ping_status": "open",
+  "slug": "uma-semana-para-discutir-a-sustentabilidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Uma semana para discutir a sustentabilidade"
+  },
+  "type": "post"
+}

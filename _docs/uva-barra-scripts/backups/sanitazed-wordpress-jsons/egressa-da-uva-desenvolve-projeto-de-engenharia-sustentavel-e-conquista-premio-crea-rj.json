@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10803/revisions/11145",
+        "id": 11145
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10803"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10803",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10803/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10803"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10816"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10803",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10803",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    15243,
+    7114
+  ],
+  "class_list": [
+    "post-10803",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-meio-ambiente",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Depois da premiação, as pesquisas continuam e existem órgãos na corrida para apoiar a iniciativa</em></p><p>Todos os universitários compartilham a mesma experiência na reta final de um curso de graduação: elaborar o trabalho de conclusão do curso (TCC). Com a egressa Nathalia Gil do curso de Engenharia Civil, da Universidade Veiga de Almeida, não foi diferente, mas, além da formação acadêmica, o projeto ganhou notoriedade e conquistou, no dia 11 de novembro, o IX Prêmio Crea-RJ de Trabalhos Científicos e Tecnológicos 2020/2021 na categoria de “Trabalhos da Graduação”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/nathalia-3.jpg?resize=576%2C1024&#038;ssl=1\" alt=\"\" width=\"576\" height=\"1024\" /><figcaption>Nathalia declara que a UVA sempre forneceu conhecimento sólido do que é a engenharia e a egressa valoriza o papel dos professores da faculdade na própria formação. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/projeto.jpg?resize=509%2C603&#038;ssl=1\" alt=\"\" width=\"509\" height=\"603\" /><figcaption>A estrutura da estaca e o funcionamento do sistema permitem uma contribuição significativa para o meio ambiente. (Foto: Nathalia Gil)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/prof-julio.jpg?resize=827%2C982&#038;ssl=1\" alt=\"\" width=\"827\" height=\"982\" /><figcaption>Para o professor e orientador Júlio César, a participação da UVA na premiação representa um feito importante para o meio acadêmico e científico. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/karl.jpg?resize=1200%2C1600&#038;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\" /><figcaption>De acordo com Karl, a premissa inicial do projeto foi simular modelos matemáticos sobre a influência das estacas para solos reais no Rio de Janeiro. (Foto: Arquivo Pessoal)</figcaption></figure><p>O projeto intitulado “Viabilidade técnica da utilização de estacas energéticas em solos tropicais do Estado do Rio de Janeiro: Um estudo numérico” tem como base promover um impacto sustentável na sociedade, por meio das estacas térmicas. O objetivo é usar a temperatura do solo para climatizar ambientes, como também, ajudar na economia de energia elétrica. “É como se transferisse calor na estrutura no inverno. Quando está muito frio, a estrutura aquece e consegue climatizar o ambiente. No verão, tira o calor e dissipa no solo”, explica Nathalia.</p><p><strong>Nathalia Gil fala sobre a motivação e o significado do trabalho.</strong></p><figure><div><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/6WVgyIF8dXk?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p><br>Júlio César da Silva, professor de Engenharia Civil da UVA e orientador do TCC, acompanhou de perto o trabalho pioneiro de Nathalia. De acordo com o professor, o trabalho das estacas térmicas foi testado nos solos do Rio de Janeiro e Caxias. Ao final da prática, foram obtidos bons resultados. As expectativas são altas para os próximos rumos do projeto, já que há planos de uma companhia de pesquisa mineral do Brasil apoiar e fazer um protótipo do estudo científico.&nbsp;“É um prêmio de um trabalho bem realizado, o CREA vem para coroar e a gente pretende investir nisso”, afirma o professor.</p><p><strong>Professor Júlio César comenta sobre a satisfação do prêmio para a egressa.</strong></p><figure><div><iframe loading=\"lazy\" title=\"Professor e orientador Júlio César comenta sobre a premiação by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1163387014&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\"></iframe></div></figure><p>Karl Martins é doutorando em Engenharia Civil e foi coorientador do projeto. O ex-aluno da Veiga destaca como é fundamental para todo pesquisador ter uma preocupação em obter iniciativas, que desenvolvam efeitos positivos na sociedade. “Esse projeto atende uma demanda por tecnologias sustentáveis. Esse tipo de tecnologia é capaz de diminuir o impacto ambiental de energia elétrica”, conta Karl.</p><p>Assim que Nathalia recebeu a informação da premiação, ela descreve a sensação: “Fiquei congelada por alguns minutos”. Todo o esforço foi recompensado, através do reconhecimento da comunidade universitária e científica.</p><p>Em um período de debates sobre as Conferências Mundiais do Meio Ambiente e o futuro do mundo, ter uma mulher engenheira à frente de projetos é ter representação feminina em um mercado majoritariamente masculino. A premiação retrata a relevância do apoio e a valorização da ciência no país. “É uma mulher, engenheira e cientista resistindo e ajudando a escrever um pouquinho do amanhã. O prêmio é a confirmação disso tudo”, conclui Nathalia.</p><p><em>Pedro Amorim – 5º período</em></p></main>"
+  },
+  "date": "2021-11-22T18:15:19",
+  "date_gmt": "2021-11-22T21:15:19",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Todos os universitários compartilham a mesma experiência na reta final de um curso de graduação: elaborar o trabalho de conclusão do curso (TCC). Com a egressa Nathalia Gil do curso de Engenharia Civil, da Universidade Veiga de Almeida, não foi diferente, mas, além da formação acadêmica, o projeto ganhou notoriedade e conquistou, no dia 11 de novembro, o IX Prêmio Crea-RJ de Trabalhos Científicos e Tecnológicos 2020/2021 na categoria de “Trabalhos da Graduação”.</p>\n"
+  },
+  "featured_media": 10816,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10803"
+  },
+  "id": 10803,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/img_9492.jpg?fit=755%2C761&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Of",
+  "link": "https://agenciauvabarra.com/2021/11/22/egressa-da-uva-desenvolve-projeto-de-engenharia-sustentavel-e-conquista-premio-crea-rj/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-02-11T15:06:25",
+  "modified_gmt": "2022-02-11T18:06:25",
+  "ping_status": "open",
+  "slug": "egressa-da-uva-desenvolve-projeto-de-engenharia-sustentavel-e-conquista-premio-crea-rj",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Egressa da UVA desenvolve projeto de engenharia sustentável e conquista prêmio CREA-RJ"
+  },
+  "type": "post"
+}

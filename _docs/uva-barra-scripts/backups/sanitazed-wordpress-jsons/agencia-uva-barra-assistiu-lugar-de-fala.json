@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6102/revisions/6267",
+        "id": 6267
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6102"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6102",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6102/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6102"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6104"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6102",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6102",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-6102",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-21o-festival-de-cinema-do-rio",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-felipe-nepomuceno",
+    "tag-lugar-de-fala",
+    "tag-mam",
+    "tag-unirio"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/lugar_de_fala_cartaz.jpg?resize=325%2C482&amp;ssl=1' alt='' width='325' height='482' /><figcaption>Foto: Divulgação</figcaption></figure><p>O documentário Lugar de Fala, dirigido por Felipe Nepomuceno, gravado inteiramente no celular, propõe a seguinte situação: vários alunos da universidade Unirio, sentados em uma sala do departamento de artes, para falar abertamente sobre suas vidas, pensamentos, sentimentos, memórias, conflitos, experiências, encenar performances e recitar grandes autores da literatura.</p><p>O que mais chama a atenção no filme é a montagem. Apesar de isolados, os depoimentos parecem não ter muita ligação, a forma como Felipe, que além da direção fez toda a pós produção do filme, consegue juntar essas histórias é o ponto alto do longa. A escolha de gravar na Unirio também é outro destaque, visto que a instituição passou recentemente por casos de preconceito e intolerância.</p><p>Felipe utiliza imagens de corredores, salas e pátios do campus como transições de algumas falas, dando um ar melancólico, através da fotografia que valoriza os tons mais escuros e o contraste entre o claro e o escuro. Em uma pegada mais intimista e minimalista o diretor consegue captar nos depoimentos, momentos singelos e verdadeiros. </p><p>Alguns relatos são pesados, mas contados de uma forma tão real que ganham um ar até poético. Parecem contos retirados de um livro e quando os participantes revelam que aquilo aconteceu com eles isso choca ao mesmo tempo que emociona. O longa também se utiliza do humor, algumas vezes involuntário, para quebrar toda essa emoção dando mais leveza. Outro destaque é o foco nas pessoas, o filme se preocupa em deixar todos livres para contar, do jeito que preferirem, o que eles sentiram e o que pensam sobre os mais diferentes assuntos.</p><p>Lugar de Fala é um documentário que procura ir além do que o título pode passar a primeira vista para o expectador. Ele fala sobre representatividade, homofobia, empoderamento feminino, preconceito e outros tantos assuntos, mas o longa consegue, principalmente, mostrar que apesar das diferenças somos todos iguais dentro dessas diferenças. Felipe Nepomuceno consegue fazer mesmo com poucos recursos um belo trabalho de direção, montagem, fotografia. Ele captura as emoções dos entrevistados e passa todo o sentimento necessário dentro do que o filme se propõe. O longa-metragem teve sua estreia na Mostra Geração do Festival do Rio 2019.</p><p><strong>Lucas Souza – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-12-17T19:10:00",
+  "date_gmt": "2019-12-17T22:10:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O documentário Lugar de Fala, dirigido por Felipe Nepomuceno, gravado inteiramente no celular, propõe a seguinte situação: vários alunos da universidade Unirio, sentados em uma sala do departamento de artes, para falar abertamente sobre suas vidas, pensamentos, sentimentos, memórias, conflitos, experiências, encenar performances e recitar grandes autores da literatura. O que mais chama a atenção [&hellip;]</p>\n"
+  },
+  "featured_media": 6104,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6102"
+  },
+  "id": 6102,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/lugar_de_fala_cartaz.jpg?fit=1758%2C2608&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Aq",
+  "link": "https://agenciauvabarra.com/2019/12/17/agencia-uva-barra-assistiu-lugar-de-fala/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-03-21T00:11:22",
+  "modified_gmt": "2020-03-21T03:11:22",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-lugar-de-fala",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    691603932,
+    654043850,
+    36634739,
+    222163614,
+    19183,
+    496183
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: &#8220;Lugar de Fala&#8221;"
+  },
+  "type": "post"
+}

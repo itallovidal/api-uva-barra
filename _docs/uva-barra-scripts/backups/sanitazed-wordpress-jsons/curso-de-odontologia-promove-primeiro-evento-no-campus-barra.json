@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16101/revisions/16112",
+        "id": 16112
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16101"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16101",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16101/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16101"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16111"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16101",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16101",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16101",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Ao todo foram 12 palestras com especialistas em diversos assuntos</p><p>Nos dias 4 e 5 de Outubro aconteceu a 1° Jornada Acadêmica de Odontologia da história do Campus Barra. Com programação nos turnos da manhã e tarde, os alunos puderam acompanhar vários profissionais palestrando sobre temas atuais e relevantes na profissão, como a radiologia, a odontologia no esporte e a hipnose como forma de ajudar os pacientes.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/whatsapp-image-2023-10-09-at-09.39.28.jpeg?resize=737%2C1024&#038;ssl=1' alt='A vice-coordenadora do curso de odontologia do Campus Barra, Alexandra Dias. (Foto: Arquivo Pessoal)' width='737' height='1024' /><figcaption>A vice-coordenadora do curso de odontologia do Campus Barra, Alexandra Dias. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/natan-oliveira.jpeg?resize=960%2C1280&#038;ssl=1' alt='Natan Oliveira está cursando o 2° período da graduação. (Foto: Igor Concolato)' width='960' height='1280' /><figcaption>Natan Oliveira está cursando o 2° período da graduação. (Foto: Igor Concolato)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/gabriel-froes.jpeg?resize=960%2C1280&#038;ssl=1' alt='Gabriel Fróes fez parte da comissão organizadora do evento. (Foto: Igor Concolato)' width='960' height='1280' /><figcaption>Gabriel Fróes fez parte da comissão organizadora do evento. (Foto: Igor Concolato)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/img_7078.jpg?resize=5472%2C3648&#038;ssl=1' alt='O cirurgião dentista Felipe Melo em sua palestra sobre o tema: Odontologia do Esporte, um novo mercado profissional. (Foto: Luani Mineiro e Juliana Cabral)' width='5472' height='3648' /><figcaption>O cirurgião dentista Felipe Melo em sua palestra sobre o tema: Odontologia do Esporte, um novo mercado profissional. (Foto: Luani Mineiro e Juliana Cabral)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/img_7039.jpg?resize=5472%2C3648&#038;ssl=1' alt='Os estudantes encheram o Auditório do Campus Barra para acompanhar a jornada. (Foto: Luani Mineiro e Juliana Cabral)' width='5472' height='3648' /><figcaption>Os estudantes encheram o Auditório do Campus Barra para acompanhar a jornada. (Foto: Luani Mineiro e Juliana Cabral)</figcaption></figure><p>A vice-coordenadora do curso, Alexandra Dias, comentou sobre a importância de eventos como este para a formação dos estudantes: “Isso aproxima e estimula os alunos, porque eles podem conhecer grandes nomes da odontologia e ver como funciona a profissão depois que se formam. Agrega valor para eles, para os professores e também para a universidade”, comentou a docente.</p><p>Um tema que chamou bastante atenção dos alunos foi quando a professora Mônica Israel trouxe para o evento a discussão do papel do dentista no diagnóstico de uma IST, mais especificamente sobre a sífilis: “A sífilis é uma infecção sexualmente transmissível, cujas manifestações sistêmicas muitas vezes são inespecíficas. As manifestações orais são contribuidoras no diagnóstico. Logo, é o cirurgião-dentista que pode alcançar o diagnóstico por meio das lesões orais”, afirmou a professora.</p><p>Natan Oliveira, estudante do 2° período, se mostrou muito empolgado com a palestra do cirurgião dentista, Felipe Melo sobre odontologia no esporte, pois o aluno conseguiu enxergar a odontologia de uma outra maneira: “Além de trabalhar a arcada dentária, nós trabalhamos muito a face, e ele mostrou como construir as máscaras de proteção para o nariz, testa, olhos. Além disso, existe uma máscara específica para cada esporte, um protetor bucal para cada esporte e isso foi o que mais me interessou”, disse Natan.</p><p>Gabriel Fróes está no 5° período e fez questão de destacar a palestra que abordou a hipnose no controle da ansiedade dentro da odontologia. Confira o que o estudante falou sobre o tema:</p><figure><iframe src='https://www.youtube.com/embed/jCaaa5vJaQM?feature=oembed' width='422' height='750' title='O estudante Gabriel Fróes fala sobre a hipnose no controle da ansiedade na odontologia' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe></figure><p>O evento foi organizado e idealizado pelos alunos do 5º e do 6° período, que foram as primeiras turmas do curso no Campus Barra. A professora Alexandra destacou a disposição e entrega dos estudantes: “Estou muito feliz e orgulhosa dos alunos, alguns professores ajudaram na organização, mas foram os alunos que montaram o cronograma, foram atrás dos patrocinadores, organizaram o auditório, providenciaram presentes para os palestrantes. O ponto principal foi essa dedicação e vontade deles para que tudo desse certo”, explicou Alexandra.</p><p>Gabriel Fróes fez parte da comissão organizadora da Jornada, e segundo ele, se sentiu muito feliz e honrado pelo feito: “Sensação boa em saber que fizemos história, porque é o primeiro evento, e um dia a gente vai olhar pra trás e lembrar que fizemos parte dessa comissão e que no final deu tudo certo”, afirmou Gabriel. Luciana Muguet, aluna do 6° período, também fez parte da comissão e falou sobre essa experiência: “Nós da comissão optamos por abordar temas contemporâneos na área de odontologia, selecionando 12 professores de destaque, incluindo 9 de outras instituições. Buscamos patrocínio de 17 empresas, que gentilmente forneceram brindes para palestrantes e estudantes, além de prêmios para sorteios. Essa experiência foi incrivelmente enriquecedora”, afirmou ela.</p><p>O evento ainda promoveu uma campanha beneficente para ajudar a Associação de Amigos – Crianças com Câncer- da Lions Clube. Foi solicitado que todos os inscritos na Jornada levassem duas latas de leite em pó para serem doados à instituição.</p><p>Igor Concolato – 4° período</p></main>"
+  },
+  "date": "2023-10-09T16:35:16",
+  "date_gmt": "2023-10-09T19:35:16",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Nos dias 4 e 5 de Outubro aconteceu a 1° Jornada Acadêmica de Odontologia da história do Campus Barra. Com programação nos turnos da manhã e tarde, os alunos puderam acompanhar vários profissionais palestrando sobre temas atuais e relevantes na profissão, como a radiologia, a odontologia no esporte e a hipnose como forma de ajudar os pacientes. </p>\n"
+  },
+  "featured_media": 16111,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16101"
+  },
+  "id": 16101,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/img_8537.jpg?fit=3024%2C4032&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4bH",
+  "link": "https://agenciauvabarra.com/2023/10/09/curso-de-odontologia-promove-primeiro-evento-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-10-16T18:08:09",
+  "modified_gmt": "2023-10-16T21:08:09",
+  "ping_status": "open",
+  "slug": "curso-de-odontologia-promove-primeiro-evento-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Curso de odontologia promove primeiro evento no Campus Barra "
+  },
+  "type": "post"
+}

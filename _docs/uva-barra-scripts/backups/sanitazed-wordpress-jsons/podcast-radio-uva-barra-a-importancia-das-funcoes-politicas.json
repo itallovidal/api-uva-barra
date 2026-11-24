@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12920/revisions/12926",
+        "id": 12926
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12920"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12920",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12920/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12920"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12922"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12920",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12920",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    228738,
+    798,
+    701438832
+  ],
+  "class_list": [
+    "post-12920",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eleicoes",
+    "category-politica",
+    "category-radio-uva-barra",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: As competências de cada cargo nas eleições 2022\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/7G26HiPMPAxKxYVUfxXBSU?si=4c16962a12d14e7d&#038;utm_source=oembed\"></iframe></figure><p>As eleições acontecem no próximo domingo, dia 02/10, e muitos brasileiros não sabem quais as competências de um deputado federal ou estadual, além de confundir o que cada cargo pode ou não fazer. Será mesmo que o governante máximo do país, o presidente da República, pode ter poderes absolutos?</p><p>Para entender sobre o processo democrático e a importância do voto, a Rádio Uva Barra preparou uma série especial de 5 episódios sobre as eleições e o primeiro episódio aborda a importância de saber o que cada cargo faz e o que podem fazer.</p><p>Para esclarecer essas questões, a equipe de Rádio UVA Barra convidou o cientista político Josué Medeiros para tirar todas as dúvidas desse tema.</p><p><em>Gabriel Pitella – 8º período<br>Vinícius Alves – 8º período</em></p></main>"
+  },
+  "date": "2022-09-26T19:24:12",
+  "date_gmt": "2022-09-26T22:24:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>As eleições acontecem no próximo domingo, dia 02/10, e muitos brasileiros não sabem quais as competências de um deputado federal ou estadual, além de confundir o que cada cargo pode ou não fazer. Será mesmo que o governante máximo do país, o presidente da República, pode ter poderes absolutos?</p>\n"
+  },
+  "featured_media": 12922,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12920"
+  },
+  "id": 12920,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-26-at-17.47.13.jpeg?fit=600%2C599&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3mo",
+  "link": "https://agenciauvabarra.com/2022/09/26/podcast-radio-uva-barra-a-importancia-das-funcoes-politicas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-09-26T19:42:34",
+  "modified_gmt": "2022-09-26T22:42:34",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-a-importancia-das-funcoes-politicas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: As competências de cada cargo nas eleições 2022"
+  },
+  "type": "post"
+}

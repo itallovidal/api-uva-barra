@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9996/revisions/10387",
+        "id": 10387
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9996"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9996",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9996/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9996"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9984"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9996",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9996",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    15243,
+    254332,
+    758
+  ],
+  "class_list": [
+    "post-9996",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-meio-ambiente",
+    "category-sustentabilidade",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-energialimpa",
+    "tag-energiasolar",
+    "tag-sustentabilidade",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Inovação científica beneficia 35 famílias do Morro da Babilônia e do Chapéu da Mangueira</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/foto-das-placas-solares-2.jpeg?resize=4000%2C2248&#038;ssl=1' alt='' width='4000' height='2248' /><figcaption>A associação sem fins lucrativos tornou-se a primeira cooperativa de energia solar em uma comunidade brasileira em 2021.\n(Foto: Arquivo Pessoal)\n</figcaption></figure><p>O painel solar é uma tecnologia capaz de captar a energia proveniente do sol. Além de ser um método limpo para o meio ambiente, traz resultados na economia de luz. Com o objetivo de garantir melhoria na vida de moradores de comunidades cariocas, a ONG Revolusolar instalou 60 placas solares no Morro da Babilônia, realiza o projeto no Chapéu da Mangueira e planeja expandir o feito para outros locais.</p><p>Segundo Eduardo Avila, diretor executivo da Revolusolar, a ONG surgiu em 2015 no Morro da Babilônia e a ideia era utilizar as placas como uma forma de solucionar o problema de energia na comunidade . “Resolvemos juntar a tecnologia e o potencial de sol nas favelas do Rio para resolver esse problema grave e recorrente de dificuldade de acesso à energia, tanto em relação ao preço quanto à qualidade do serviço”, disse Eduardo.</p><p>Uma pesquisa realizada pela ONG em 2018 revelou que 70% das famílias da Babilônia estavam regularizadas e consumiam energia de uma empresa privada de distribuição. De acordo com Eduardo, o levantamento apontou uma minoria de pessoas com acesso à tarifa social e uma grande insatisfação por parte da maioria, com relação ao atendimento.</p><p><strong>Eduardo Avila fala sobre a representação da primeira cooperativa de energia solar numa comunidade carioca</strong>:</p><figure><iframe src='https://www.youtube.com/embed/htSsuTlcpOM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><br>Através da atuação da ONG, Eduardo foi finalista do Prêmio Global “Jovens Campeões da Terra” em 2020. Inclusive, a Agenda 2030 da Organização das Nações Unidas (ONU) estabeleceu como um dos requisitos: assegurar energia sustentável, moderna e com preço acessível para todos. “O reconhecimento internacional da ONU foi super importante para nossa legitimidade e visibilidade do projeto no Brasil e no mundo”, contou o diretor executivo. </p><p><strong>O setor de energia solar aumenta no Brasil</strong></p><p>O ramo da energia solar cresce no país, justamente, pelas vantagens do sistema. Segundo a Associação Brasileira de Energia Solar Fotovoltaica (Absolar), o Brasil entrou no grupo de 14 países com maior potência de geração dessa energia, significando uma capacidade instalada de energia solar acima de 10 Gigawatts (GW).</p><p>Para Carlos Eduardo Canejo, coordenador do núcleo de sustentabilidade da pós-graduação da Universidade Veiga de Almeida, a maturidade pode explicar a busca pelo sistema de energia solar. “Temos um claro aumento da conscientização da sociedade e das empresas com a causa ambiental. Este trinômio propiciou um aumento da procura e da demanda, que potencializou a redução dos custos nos últimos anos”, argumentou Canejo.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/professor-eduardo-canejo.jpeg?fit=828%2C827&amp;ssl=1' alt='' width='590' height='589' /><figcaption>Para Carlos Eduardo Canejo, a confiança na tecnologia também pode ser um fator para a alta procura por painéis solares.&nbsp; <br>Foto: Arquivo Pessoal</figcaption></figure><p>De acordo com o coordenador, as placas solares são compostas por Silício ou outros materiais semicondutores, e funcionam através de uma relação entre fótons e elétrons, o que gera um sistema de condução que se transforma em energia elétrica por uma inversão de corrente. No entanto, o fornecimento da energia elétrica fotovoltaica das placas só é possível caso ocorra&nbsp; em um local com vasta insolação.</p><p><strong>Carlos Eduardo Canejo explica os benefícios do uso das placas solares no áudio seguinte</strong>:</p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1128578539&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Áudio incorporado' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>Para a Absolar, existem mais de 520 mil casas brasileiras com sistemas de geração solar e ter uma alternativa limpa ou econômica no escape da crise hidrelétrica pode ser um privilégio diante de toda a desigualdade social. “Precisamos ainda de um desenvolvimento mais expressivo da indústria nacional, bem como uma maior segurança política e legal quanto à taxação do recurso solar”, concluiu o professor.</p><p><em>Pedro Amorim – 5° período</em></p></main>"
+  },
+  "date": "2021-09-22T19:38:24",
+  "date_gmt": "2021-09-22T22:38:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O painel solar é uma tecnologia capaz de captar a energia proveniente do sol. Além de ser um método limpo para o meio ambiente, traz resultados na economia de luz. Com o objetivo de garantir melhoria na vida de moradores de comunidades cariocas, a ONG Revolusolar instalou 60 placas solares no Morro da Babilônia, realiza o projeto no Chapéu da Mangueira e planeja expandir o feito para outros locais.</p>\n"
+  },
+  "featured_media": 9984,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9996"
+  },
+  "id": 9996,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/foto-de-capa-para-site.jpeg?fit=758%2C758&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Be",
+  "link": "https://agenciauvabarra.com/2021/09/22/projeto-de-geracao-solar-promove-um-estilo-de-vida-sustentavel-nas-comunidades-cariocas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-19T19:17:29",
+  "modified_gmt": "2021-10-19T22:17:29",
+  "ping_status": "open",
+  "slug": "projeto-de-geracao-solar-promove-um-estilo-de-vida-sustentavel-nas-comunidades-cariocas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    254494671,
+    1526165,
+    767056627,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Projeto de geração solar promove um estilo de vida sustentável nas comunidades cariocas"
+  },
+  "type": "post"
+}

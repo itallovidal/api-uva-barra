@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17712/revisions/17717",
+        "id": 17717
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17712"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17712",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17712/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17712"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17716"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17712",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17712",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17712",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>No dia 14 de outubro, quando se celebra o Dia da Pecuária, o setor enfrenta um momento crítico em meio às mudanças climáticas. Entre 2020 e 2022, a falta de chuvas resultou em uma queda significativa na produção de milho, alimento essencial para o gado, gerando grandes prejuízos aos pecuaristas. Além disso, práticas de manejo não sustentáveis estão agravando as ondas de calor no Brasil. Diante desse cenário, especialistas vêm apontando para a \"pecuária verde\" como uma alternativa promissora para mitigar os danos ambientais e garantir a sustentabilidade do setor.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/pexels-matthiaszomer-325257.jpg?resize=5204%2C2927&amp;ssl=1\" alt=\"\" width=\"5204\" height=\"2927\"/><figcaption></figcaption></figure><p>Segundo Cezar Pires, Coordenador e Professor do curso de graduação a distância de Gestão Ambiental da Universidade Veiga de Almeida (UVA), A produção tradicional tem um impacto significativo nas condições climáticas do planeta: Emissão de Gases de Efeito Estufa (GEE): a pecuária é uma das principais fontes de GEE, como metano e óxido nitroso. Também, segundo o especialista o uso intensivo de Recursos hídricos, A Poluição do solo e da água causada pelo manejo inadequado de resíduos animais e a perda de biodiversidade causadas pela expansão da pecuária influenciam as alterações climáticas, modificando os padrões de temperatura e chuvas, afetando assim a própria agricultura, além de trazer insegurança alimentar e desequilíbrios nos ecossistemas, sendo assim, preciso implementar práticas mais sustentáveis.</p><p>Além disso, Cezar menciona que para reduzir o GEE, existem algumas estratégias eficazes, como por exemplo a melhoria da alimentação do rebanho com dietas mais balanceadas e ricas em nutrientes que podem reduzir a fermentação no rúmen, diminuindo assim a produção de metano. Alimentos como algas marinhas, que contêm compostos que inibem a produção de metano, têm mostrado ótimos resultados. O Perito no tema ainda menciona que, para uma produção de pecuária verde, requer a implementação de práticas ecológicas que evitem o impacto no meio ambiente e incentivem a preservação dos recursos naturais, como o Manejo sustentável de pastagens, a integração lavoura-pecuária-floresta (ILPF), o bem-estar animal e a gestão sustentável de pastos.</p><figure><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcD5BeWxzJrsoh-mAJIeMCbQB-u5jyG6ULGK6mBnZgmsuuD7up1CHl4SexdylK1Mv18lNRSviRcZMk_mE6jM0unyYqju_bzunTe2HdLG6EDjBe8AOnrk6rePnbUNXWDjGmWZRIriF7Ue463hup1Mmq24Rrg?key=jwSd-4NbryXUXmK7J9UhwA\" alt=\"\" /><figcaption><em>César Pires, Coordenador e Professor do curso de graduação a distância de Gestão Ambiental da Universidade Veiga de Almeida (UVA)</em></figcaption></figure><p>De acordo com Flávia Targa Martins, coordenadora dos cursos das engenharias da Universidade Veiga de Almeida (UVA) de Cabo Frio e professora do Curso de Graduação a distância de Agronegócio da UVA , uma pecuária verde é planejada em todo o seu ciclo para reduzir os impactos ambientais, inclusive evitando o desmatamento e o uso não sustentável dos recursos naturais, bem como a pegada de carbono. As estratégias que permitam aumentar a taxa de lotação, fertilidade do rebanho, o ganho médio diário, o peso da carcaça e o retorno financeiro por área, são hoje necessárias para acomodar o crescimento da pecuária sem novos desmatamentos. O uso de técnicas de manejo adequadas, a redução do consumo de recursos naturais, a preservação de áreas de mata nativa e o respeito aos direitos dos animais são outras táticas importantes para se ter uma pecuária verde.</p><p>Flávia também diz que a redução de metano na produção envolve a melhoria genética de pastagens para desenvolver alimentos mais digestíveis para o gado e o aprimoramento genético dos animais e que todas as ações que envolvem desmatamento e a degradação de pastagens irão interferir em uma pecuária menos eficiente ambientalmente e afetar as condições climáticas do planeta. Isso significa que reduzindo o desmatamento e a produção tendo uma relação mais amigável com o meio ambiente, a pecuária irá produzir muito melhor e os impactos climáticos, reduzidos.</p><figure><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcbgbnMsue50fuI_T_NEt6EGyO3PAj0AWgiP_EH6ogxH0SUNdA-Cgm93NVRmBdIaOrlB6DoIrLZHMXj14frY-SFeyIK3d6Zhr0dz3qNdtsY_evlp7RStt-LGRAkoTo1t0Fy2eAZiq0PNgnLvlVJg8A2w0U?key=jwSd-4NbryXUXmK7J9UhwA\" alt=\"\" /><figcaption><em>Flávia Targa Martins, coordenadora dos cursos das engenharias da Universidade Veiga de Almeida (UVA) de Cabo Frio e professora do Curso de Graduação a distância de Agronegócio da UVA</em><br></figcaption></figure><p>Beatriz Ferraz – 1° Período</p></main>"
+  },
+  "date": "2024-10-14T15:14:41",
+  "date_gmt": "2024-10-14T18:14:41",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No dia 14 de outubro, quando se celebra o Dia da Pecuária, o setor enfrenta um momento crítico em meio às mudanças climáticas. Entre 2020 e 2022, a falta de chuvas resultou em uma queda significativa na produção de milho, alimento essencial para o gado, gerando grandes prejuízos aos pecuaristas. Além disso, práticas de manejo [&hellip;]</p>\n"
+  },
+  "featured_media": 17716,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17712"
+  },
+  "id": 17712,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/pexels-matthiaszomer-325257.jpg?fit=5204%2C2927&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4BG",
+  "link": "https://agenciauvabarra.com/2024/10/14/dia-da-pecuaria-como-a-pecuaria-esta-causando-mudancas-climaticas-e-afeta-a-producao-de-alimentos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-10-23T15:19:02",
+  "modified_gmt": "2024-10-23T18:19:02",
+  "ping_status": "open",
+  "slug": "dia-da-pecuaria-como-a-pecuaria-esta-causando-mudancas-climaticas-e-afeta-a-producao-de-alimentos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Dia da Pecuária: Como a pecuária está causando mudanças climáticas e afeta a produção de alimentos"
+  },
+  "type": "post"
+}

@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5552/revisions/5568",
+        "id": 5568
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5552"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5552",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5552/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5552"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5560"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5552",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5552",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    407146,
+    15243,
+    254332
+  ],
+  "class_list": [
+    "post-5552",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-exposicao",
+    "category-meio-ambiente",
+    "category-sustentabilidade",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-exposicao-o-dia-seguinte"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Trata-se de experiências inovadoras, em que as pessoas sentem os efeitos do clima na humanidade</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_0880.jpeg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" width=\"3264\" height=\"2448\" /><figcaption>Palanque de abertura com os plásticos acumulados – Lucas Ribeiro</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_0857.jpeg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" width=\"3264\" height=\"2448\" /><figcaption>Área destinada à participação do público – Lucas Ribeiro</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_0853.jpeg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" width=\"3264\" height=\"2448\" /><figcaption>Painel de Led da experiência [R] EVOLUÇÃO – Lucas Ribeiro</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_0878.jpeg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" width=\"3264\" height=\"2448\" /><figcaption>Espaço de invenção com desenhos a serem coloridos – Lucas Ribeiro</figcaption></figure><p>Clima e cidades andam lado a lado. Entretanto, certas ações humanas prejudicam esse funcionamento. Dentro dessa lógica, a exposição “O Dia Seguinte”, inaugurada na última quinta-feira (10), na Cidade das Artes, Barra da Tijuca, analisa as consequências das mudanças climáticas de uma forma contemporânea. Dicas para um futuro melhor são dadas por meio de aparelhos tecnológicos.</p><p>O principal objetivo da exposição é conscientizar o público que as mudanças do clima são assuntos importantes do século XXI. Para Felipe Lobo, Diretor Geral do evento, o uso da tecnologia é fundamental para construir cidades sustentáveis, com uma economia de baixo carbono. “Sustentabilidade e o clima englobam todas as áreas de uma sociedade e definem qual tipo de meio social, cidade e mundo a gente quer para nós e nossos filhos. Mas não podemos pensar que ela vai resolver tudo”.</p><p>Com o intuito de atingir todos os níveis sociais, a direção da exibição se preocupou na simplificação do tema abordado. Tiza Lobo, responsável pela Concepção, relatou que as questões ligadas ao meio ambiente são muito complexas. “Nós tentamos colocar informações mais fáceis, objetivas para as pessoas entenderem e assim, mudarem de comportamento”, comenta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_0874.jpeg?resize=565%2C330&amp;ssl=1\" alt=\"\" width=\"565\" height=\"330\" /><figcaption>Tela grande da experiência [DES] HUMANIDADES – Lucas Ribeiro</figcaption></figure><p>A exposição contém cinco experiências imersivas: [DES] ORDEM, [DES] HUMANIDADES, [IN] FORMATIVO, [TRANS] FORMAÇÃO, [R] EVOLUÇÃO. Nelas, há um piso interativo que mostra a dualidade entre o bom e ruim nas cidades. Dentre estes espaços, Tiza Lobo classificou um como o mais impactante. “A experiência [DES] ORDEM é a mais bárbara porque as pessoas são imersas em um ambiente fechado, com muita fumaça e vento, sentindo o que alguns passam no dia a dia”, opina.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_0846.jpeg?resize=582%2C436&amp;ssl=1\" alt=\"\" width=\"582\" height=\"436\" /><figcaption>As experiências imersivas da exposição – Lucas Ribeiro</figcaption></figure><p>Diante do cenário reflexivo das mudanças climáticas, o público presente passou a sentir uma vontade de transformação e a querer conhecer as oportunidades, para um mundo com menos danos ambientais. A educadora especial da rede municipal do Rio de Janeiro Raquel de Carvalho acredita na conscientização da população como salvação para as futuras gerações. “Nós precisamos olhar mais para o verde e para as causas sustentáveis porque é possível reverter esse quadro”, disse. A mostra interativa está disponível até o dia 10 de novembro.</p><p><strong>Lucas Ribeiro – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-14T21:00:09",
+  "date_gmt": "2019-10-15T00:00:09",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Trata-se de experiências inovadoras, em que as pessoas sentem os efeitos do clima na humanidade Clima e cidades andam lado a lado. Entretanto, certas ações humanas prejudicam esse funcionamento. Dentro dessa lógica, a exposição &#8220;O Dia Seguinte&#8221;, inaugurada na última quinta-feira (10), na Cidade das Artes, Barra da Tijuca, analisa as consequências das mudanças climáticas [&hellip;]</p>\n"
+  },
+  "featured_media": 5560,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5552"
+  },
+  "id": 5552,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_0880.jpeg?fit=3264%2C2448&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1ry",
+  "link": "https://agenciauvabarra.com/2019/10/14/a-exposicao-o-dia-seguinte-promove-uma-imersao-nos-impactos-das-mudancas-climaticas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-14T19:55:29",
+  "modified_gmt": "2019-10-14T22:55:29",
+  "ping_status": "open",
+  "slug": "a-exposicao-o-dia-seguinte-promove-uma-imersao-nos-impactos-das-mudancas-climaticas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    688261157
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A exposição &#8220;O Dia Seguinte&#8221; promove uma imersão nos impactos das mudanças climáticas"
+  },
+  "type": "post"
+}

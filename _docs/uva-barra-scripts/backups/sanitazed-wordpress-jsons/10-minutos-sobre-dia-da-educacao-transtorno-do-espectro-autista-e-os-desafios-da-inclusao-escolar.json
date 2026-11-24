@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21369/revisions/21479",
+        "id": 21479
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21369"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21369",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21369/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21369"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21371"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21369",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21369",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-21369",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>No programa Dez Minutos Sobre, falamos sobre o Transtorno do espectro Autista na Educação e os desafios da inclusão escolar. Recebemos a pedagoga Mírian Nicolich para discutir a importância da educação inclusiva e da conscientização no ambiente escolar.</p><p>Quer saber mais sobre? Sintonize agora na Rádio UVA Barra!</p><figure><blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/reel/DXuuhe6iXa8/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:500px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/reel/DXuuhe6iXa8/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a></div></blockquote><script async src=\"//platform.instagram.com/en_US/embeds.js\"></script></div></figure><p>Créditos finais:</p><p>Esse episódio tem a produção de Malu Cordeiro,3º período de Jornalismo e Duda Nicolich, 3º período de Jornalismo.</p><p>Apresentação: Duda Nicolich, 3º período de Jornalismo.<br>Roteiro e Edição de áudio: Malu Cordeiro<br>Coordenação da Rádio UVA Barra: Professor Anderson Barreto<br>Coordenação do Curso de Jornalismo: Professora Renata Feital</p></main>"
+  },
+  "date": "2026-04-28T11:50:35",
+  "date_gmt": "2026-04-28T14:50:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No programa Dez Minutos Sobre, falamos sobre o Transtorno do espectro Autista na Educação e os desafios da inclusão escolar. Recebemos a pedagoga Mírian Nicolich para discutir a importância da educação inclusiva e da conscientização no ambiente escolar.  Quer saber mais sobre? Sintonize agora na Rádio UVA Barra! Créditos finais: Esse episódio tem a produção [&hellip;]</p>\n"
+  },
+  "featured_media": 21371,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21369"
+  },
+  "id": 21369,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-06-115219.png?fit=337%2C331&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5yF",
+  "link": "https://agenciauvabarra.com/2026/04/28/10-minutos-sobre-dia-da-educacao-transtorno-do-espectro-autista-e-os-desafios-da-inclusao-escolar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAB0hbPVuw3a7ZiBDBXFs9W7DQDa7ZiBDAPFs9W7DQya7ZiBDMWz1bsNAZrtmIEMxbPVuw0N2u2YgQwAxbPVuw0M2u2YgQwAxbPVuw0Mmu2YgQzFs9W7DQ6a7ZiBDMWz1bsNNdrtmIEMTMWz1bsNC9rtmIEMlAKSA6g3qhTyR0KgCCBCpAJYhAFYuh4cWD5CqgFCqgFC4CbUDK4uNHJI6CIBAQgCDwBeAQJIoiPmIwSoAQEBCAEDSNABDgySAQEBBAEFRAA6XAEBBAEDRAAERBwBAQgBA0gCBQBCSIAMAQEIAkIBAkjcDKINAQEIAQNIAghKOgEBCAJCAQJIALoDAQEIAkIBAkiYIAgGDLQBGgwqrAEECgUBDCoCBgwIBAIGAgYVAAYWDAYDAA4CBAIGGPApvA4BAQgBA0iqG8JMCgMEBQADARYBEG4EAwEEBgMBgAGyAgEBCAEDSAqWCALiCL4IAQEIAQNICkqMAgEBCAEDSAIEAgEFSCwBAQgBA0gCBAIBAu4PtCwDAZwBAgTuHgBIvh4BAQgBA0gCCEo8AQEIAkIBAkgAqAEBAQgCQgECSACoAQEBCAJCAQJI6jKuLAMBgArkCAIEAq4SBgIEAgoCBq4BGgIEBgIorAEDAAgDBgQGAigCBAIKAgYDAgQDAAQCEgIIBQICEgQIBQADAQwDAwYY0EumAQLmAVWqN+oq8Ay+L8gviC/KIw6WAiwBAGwBAJQyCAYMtAEaDCqsAQQKBQEMKgIGDAgEAgYCBhUABhYMBgMADgIEAgYY7DvgDwwEAwEEBgMAuCwDAQCcAQIE4wMoAMQAqAEoAMQAqAAoAKgAKACoACgAqAEoAKgAKACoACgAqAAoA8QAqAGEACgAxwAoAicBBACEASgEJwDEAIQAxwAoAicBKAQnAMQBxwAoACcBKAAnACgIxwAoACcBKAAnACgHxwAoAicBKAQnAKgBBAAoAMcAKAInAQQAKAQnAMcAKAInASgEJwCoAAQAxwAoAicBBAAoBCcAxwAoAicBBAAoBCcAxCbHACgCJwEoBCcAhAAhAicAAQCEAIEAhASBAIQDJwEoACEAKAQnACgSIQEnAEQAxAiEAAcAIQAoAScBKAQnAAQAgQCEAIcAIQAoAScBKAQnAAQAhwAhACgAIQAnACEFJwChAKgAJwAoBocAIQAoACEAJwAhBScAoQCoACcAKAMEAIQGIQAoAIcAIQAoAScBKAQnAKEABACHACEAKAEnAQQAKAQnAIcAIQAoAScBBAAoBCcAhwAhACgBJwEEACgEJwCoAMQHhACBAIQAgQCEAIEAhACBAIQCgQCEAIEAhAGBAIQAgQCEAIEAhACBAIQAgQCEAYEAhACBAIQBgQCEAIEAhACBAIQAgQCEAYEAhAGBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAoEAhAGBAIQEqAGhAKiMOPE0c3RhdGV2ZXJzaW9uYW1wO29yaWdpbmFsQ29udGVudCZuYnNwO29yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudGRvY3VtZW50c2x1Z3N0YXRlc2F2ZWRBdHN0YXRlc2F2ZWRCecKgQ3LDqWRpdG9zIGZpbmFpczo8YnI+PGJyPkVzc2UgZXBpc8OzZGlvIHRlbSBhIHByb2R1w6fDo28gZGUgTWFsdSBDb3JkZWlybywzwrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbyBlIER1ZGEgTmljb2xpY2gsIDPCuiBwZXLDrW9kbyBkZSBKb3JuYWxpc21vLjxicj48YnI+QXByZXNlbnRhw6fDo286IER1ZGEgTmljb2xpY2gsIDPCuiBwZXLDrW9kbyBkZSBKb3JuYWxpc21vLjxicj5Sb3RlaXJvIGUgRWRpw6fDo28gZGUgw6F1ZGlvOiBNYWx1IENvcmRlaXJvPGJyPkNvb3JkZW5hw6fDo28gZGEgUsOhZGlvIFVWQSBCYXJyYTogUHJvZmVzc29yIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mZXNzb3JhIFJlbmF0YSBGZWl0YWxsZXZlbGNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEVkaXRhZG8mbmJzcDvCtyZuYnNwOzYgZGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzPHN0cm9uZz48L3N0cm9uZz5jbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc8KgwqBpc1ZhbGlkYXR0cmlidXRlc2lubmVyQmxvY2tzbmFtZWNhcHRpb25wcm92aWRlck5hbWVTbHVnYWxsb3dSZXNwb25zaXZlcmVzcG9uc2l2ZXByZXZpZXdhYmxldXJsdHlwZWNsYXNzTmFtZWNsaWVudElkb3JpZ2luYWxDb250ZW50aXNWYWxpZGF0dHJpYnV0ZXNpbm5lckJsb2Nrc25hbWVjYXB0aW9ucHJvdmlkZXJOYW1lU2x1Z2FsbG93UmVzcG9uc2l2ZXJlc3BvbnNpdmVwcmV2aWV3YWJsZXR5cGVjbGllbnRJZG9yaWdpbmFsQ29udGVudHVybGNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzQ3LDqWRpdG9zIGZpbmFpczo8YnI+PGJyPkVzc2UgZXBpc8OzZGlvIHRlbSBhIHByb2R1w6fDo28gZGUgTWFsdSBDb3JkZWlybywzwrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbyBlIER1ZGEgTmljb2xpY2gsIDPCuiBwZXLDrW9kbyBkZSBKb3JuYWxpc21vLjxicj48YnI+QXByZXNlbnRhw6fDo286IER1ZGEgTmljb2xpY2gsIDPCuiBwZXLDrW9kbyBkZSBKb3JuYWxpc21vLjxicj5Sb3RlaXJvIGUgRWRpw6fDo28gZGUgw6F1ZGlvOiBNYWx1IENvcmRlaXJvPGJyPkNvb3JkZW5hw6fDo28gZGEgUsOhZGlvIFVWQSBCYXJyYTogUHJvZmVzc29yIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mZXNzb3JhIFJlbmF0YSBGZWl0YWxsZXZlbGNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEVkaXRhZG8mbmJzcDvCtyZuYnNwOzYgZGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NDcsOpZGl0b3MgZmluYWlzOmNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEVzc2UgZXBpc8OzZGlvIHRlbSBhIHByb2R1w6fDo28gZGUgTWFsdSBDb3JkZWlybywzwrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbyBlIER1ZGEgTmljb2xpY2gsIDPCuiBwZXLDrW9kbyBkZSBKb3JuYWxpc21vLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50QXByZXNlbnRhw6fDo286IER1ZGEgTmljb2xpY2gsIDPCuiBwZXLDrW9kbyBkZSBKb3JuYWxpc21vLjxicj5Sb3RlaXJvIGUgRWRpw6fDo28gZGUgw6F1ZGlvOiBNYWx1IENvcmRlaXJvPGJyPkNvb3JkZW5hw6fDo28gZGEgUsOhZGlvIFVWQSBCYXJyYTogUHJvZmVzc29yIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mZXNzb3JhIFJlbmF0YSBGZWl0YWxkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc0Nyw6lkdG9zZmluaXNFc3NlIGVwaXPDs2RpbyB0ZW0gYSBwcm9kdcOnw6NvIGRlIE1hbHUgQ29yZGVpcm8sM8K6IHBlcsOtb2RvIGRlIEpvcm5hbGlzbW8gZSAscC5BcHJlc2VudMOnw6M6IER1YSBOY2xpY2gscC5iclJvdGVpcm9lIEVkacOnw6NvIGRlIMOhdWRpbyBNbHUgQ29kZWlvPGJyPkNvb3JkZW7Dp8Ojb2RhUsOhZGlvIFVWQSBCOlBmZXNzb3JuZHJvbkJhcnJ0bzxiPkNvcmVuYcOnw6NvIEN1cnNvIGQ6IFByb2Zlc3NvcmEgUmVuYXRhIEZlaXRhbGNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzCgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+PC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+c3RhdGV2ZXJzaW9uZG9jdW1lbnRkYXRlZG9jdW1lbnRzdGF0dXNkb2N1bWVudHRpdGxlbm8gYXV0b3RpY29kb2N1bWVudGNvbnRlbnRkb2N1bWVudGV4Y2VycHRkb2N1bWVudGF1dGhvcmRvY3VtZW50ZmVhdHVyZWRfbWVkaWFkb2N1bWVudGNvbW1lbnRfc3RhdHVzZG9jdW1lbnRwaW5nX3N0YXR1c2RvY3VtZW50c3RpY2t5ZG9jdW1lbnR0ZW1wbGF0ZWRvY3VtZW50Zm9ybWF0ZG9jdW1lbnRtZXRhYWR2YW5jZWRfc2VvX2Rlc2NyaXB0aW9uamV0cGFja19zZW9faHRtbF90aXRsZWpldHBhY2tfc2VvX25vaW5kZXhfY29ibG9ja3NfYXR0cl9jb2Jsb2Nrc19kaW1lbnNpb25zX2NvYmxvY2tzX3Jlc3BvbnNpdmVfaGVpZ2h0X2NvYmxvY2tzX2FjY29yZGlvbl9pZV9zdXBwb3J0amV0cGFja19wb3N0X3dhc19ldmVyX3B1Ymxpc2hlZHJlYWRlcl9zdWdnZXN0ZWRfdGFnc19qZXRwYWNrX25ld3NsZXR0ZXJfYWNjZXNzX2pldHBhY2tfZG9udF9lbWFpbF9wb3N0X3RvX3N1YnNfamV0cGFja19uZXdzbGV0dGVyX3RpZXJfaWRfamV0cGFja19tZW1iZXJzaGlwc19jb250YWluc19wYXl3YWxsZWRfY29udGVudF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BhaWRfY29udGVudGZvb3Rub3Rlc2pldHBhY2tfcHVibGljaXplX21lc3NhZ2VqZXRwYWNrX3B1YmxpY2l6ZV9mZWF0dXJlX2VuYWJsZWRqZXRwYWNrX3NvY2lhbF9wb3N0X2FscmVhZHlfc2hhcmVkamV0cGFja19zb2NpYWxfb3B0aW9uc2RvY3VtZW50Y2F0ZWdvcmllc2RvY3VtZW50dGFnc2RvY3VtZW50YmxvY2tzMTAgbWl1dHNzb2JyZTogRGkgZGEgRWRjYcOnw6NvOiBUcmFuc3JubyBkbyBFc3BlY3JvIEF1dHN0YSBlIG9zIGRlc2FmaW9zIGRhIGlubHVzw6MgZXNjb2xhcmNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzTm8gcHJvZ3JhbWEgRGV6IE1pbnV0b3MgU29icmUsIGZhbGFtb3Mgc29icmUgbyBUcmFuc3Rvcm5vIGRvIGVzcGVjdHJvIEF1dGlzdGEgbmEgRWR1Y2HDp8OjbyBlIG9zIGRlc2FmaW9zIGRhIGluY2x1c8OjbyBlc2NvbGFyLiBSZWNlYmVtb3MgYSBwZWRhZ29nYSBNw61yaWFuIE5pY29saWNoIHBhcmEgZGlzY3V0aXIgYSBpbXBvcnTDom5jaWEgZGEgZWR1Y2HDp8OjbyBpbmNsdXNpdmEgZSBkYSBjb25zY2llbnRpemHDp8OjbyBubyBhbWJpZW50ZSBlc2NvbGFyLjxzdHJvbmc+PC9zdHJvbmc+PGJyPmNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzUXVlciBzYWJlciBtYWlzIHNvYnJlPyBTaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSFjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NhcHRpb25wcm92aWRlck5hbWVTbHVnYWxsb3dSZXNwb25zaXZlcmVzcG9uc2l2ZXByZXZpZXdhYmxldXJsdHlwZWNsYXNzTmFtZWNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2FwdGlvbnByb3ZpZGVyTmFtZVNsdWdhbGxvd1Jlc3BvbnNpdmVyZXNwb25zaXZlcHJldmlld2FibGU8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+Tm8gcHJvZ3JhbWEgRGV6IE1pbnV0b3MgU29icmUsIGZhbGFtb3Mgc29icmUgbyBUcmFuc3Rvcm5vIGRvIGVzcGVjdHJvIEF1dGlzdGEgbmEgRWR1Y2HDp8OjbyBlIG9zIGRlc2FmaW9zIGRhIGluY2x1c8OjbyBlc2NvbGFyLiBSZWNlYmVtb3MgYSBwZWRhZ29nYSBNw61yaWFuIE5pY29saWNoIHBhcmEgZGlzY3V0aXIgYSBpbXBvcnTDom5jaWEgZGEgZWR1Y2HDp8OjbyBpbmNsdXNpdmEgZSBkYSBjb25zY2llbnRpemHDp8OjbyBubyBhbWJpZW50ZSBlc2NvbGFyLjxzdHJvbmc+wqA8L3N0cm9uZz48YnI+PC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+UXVlciBzYWJlciBtYWlzIHNvYnJlPyBTaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSE8L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6ZW1iZWQgeyJ1cmwiOiJodHRwczovL29wZW4uc3BvdGlmeS5jb20vZXBpc29kZS8zeTJzTFhDdW1SOERLZk95UWJJWGhrIiwidHlwZSI6InZpZGVvIiwicHJvdmlkZXJOYW1lU2x1ZyI6InNwb3RpZnkiLCJyZXNwb25zaXZlIjp0cnVlLCJjbGFzc05hbWUiOiJ3cC1lbWJlZC1hc3BlY3QtMTYtOSB3cC1oYXMtYXNwZWN0LXJhdGlvIn0gLS0+CjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWVtYmVkIGlzLXR5cGUtdmlkZW8gaXMtcHJvdmlkZXItc3BvdGlmeSB3cC1ibG9jay1lbWJlZC1zcG90aWZ5IHdwLWVtYmVkLWFzcGVjdC0xNi05IHdwLWhhcy1hc3BlY3QtcmF0aW8iPjxkaXYgY2xhc3M9IndwLWJsb2NrLWVtYmVkX193cmFwcGVyIj4KaHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VwaXNvZGUvM3kyc0xYQ3VtUjhES2ZPeVFiSVhoawo8L2Rpdj48L2ZpZ3VyZT4KPCEtLSAvd3A6ZW1iZWQgLS0+Cgo8IS0tIHdwOmVtYmVkIHsicHJvdmlkZXJOYW1lU2x1ZyI6Imluc3RhZ3JhbSIsInJlc3BvbnNpdmUiOnRydWV9IC8tLT51cmx0eXBlY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NFcXVpcGUgVVZBIEJhcnJhOmNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudER1ZGEgTmljb2xpY2ggLSAzwrogUGVyw61vZG8gZGUgSm9ybmFsaXNtb2Ryb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50TWFsdSBDb3JkZWlybyAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRDYXJvbGluYSBBbHZlcyAtIDXCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5u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Znkgd3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpbyI+PGRpdiBjbGFzcz0id3AtYmxvY2stZW1iZWRfX3dyYXBwZXIiPgpodHRwczovL29wZW4uc3BvdGlmeS5jb20vZXBpc29kZS8zeTJzTFhDdW1SOERLZk95UWJJWGhrCjwvZGl2PjwvZmlndXJlPnckM2RkNWRkMmItMjg0Ni00NzhiLThiNzMtMjUxYjE4MDUxMmU5d/IBPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2stZW1iZWQgaXMtdHlwZS1yaWNoIGlzLXByb3ZpZGVyLWluc3RhZ3JhbSB3cC1ibG9jay1lbWJlZC1pbnN0YWdyYW0iPjxkaXYgY2xhc3M9IndwLWJsb2NrLWVtYmVkX193cmFwcGVyIj4KaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RYdXVoZTZpWGE4Lz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmYW1wO2lnc2g9TXpSbE9EQmlOV0ZsWkE9PQo8L2Rpdj48L2ZpZ3VyZT53YWh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EWHV1aGU2aVhhOC8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmFtcDtpZ3NoPU16UmxPREJpTldGbFpBPT13JGI3ZDcyMWY2LWYyOTEtNDc1ZS1hNTgyLTk5MzNiZTgwMzBjNncYPHA+RXF1aXBlIFVWQSBCYXJyYTo8L3A+dyRkZjU5YmUyNC1kODNmLTQ1NjQtYTUxNi0yMjRhNTNhNzE5M2V3MTxwPkR1ZGEgTmljb2xpY2ggLSAzwrogUGVyw61vZG8gZGUgSm9ybmFsaXNtbzwvcD53JDdhMTYyODdkLWI0ZWUtNDNjYy05NDYzLTJkYTUxOTBiYjg5OXcxPHA+TWFsdSBDb3JkZWlybyAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vPC9wPnckYzAwNzA4MGItODNjZS00YjY5LWJkYzAtM2Y1OTY5MzM4ZTM2dzI8cD5DYXJvbGluYSBBbHZlcyAtIDXCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vPC9wPndhMTAtbWludXRvcy1zb2JyZS1kaWEtZGEtZWR1Y2FjYW8tdHJhbnN0b3Juby1kby1lc3BlY3Ryby1hdXRpc3RhLWUtb3MtZGVzYWZpb3MtZGEtaW5jbHVzYW8tZXNjb2xhcntCed/hOQMAAH2Fs9W7DXckNGMwYmU3YWUtYTgyYi00NTFkLTkzY2MtZDg0NTZkNTE3YTRldwxjb3JlL2hlYWRpbmd9AXckZDhlZmRlOGQtYWMzMS00NTJhLTlkZDUtOTBmNGUwNzU4MjJkeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ4MDI4M2Q4NS02ZWFjLTRlNWUtOGJhYi04M2JhNzUwNzE2Mjh4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl4dwpjb3JlL2VtYmVkdwdzcG90aWZ5eHh4dzdodHRwczovL29wZW4uc3BvdGlmeS5jb20vZXBpc29kZS8zeTJzTFhDdW1SOERLZk95UWJJWGhrdwV2aWRlb3cod3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpb3ckMzY2ZDY0MDktZmM2Ni00YWM3LWJiOTgtMDE0ZjIyYjhlMmZmd+4BPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2stZW1iZWQgaXMtdHlwZS12aWRlbyBpcy1wcm92aWRlci1zcG90aWZ5IHdwLWJsb2NrLWVtYmVkLXNwb3RpZnkgd3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpbyI+PGRpdiBjbGFzcz0id3AtYmxvY2stZW1iZWRfX3dyYXBwZXIiPgpodHRwczovL29wZW4uc3BvdGlmeS5jb20vZXBpc29kZS8zeTJzTFhDdW1SOERLZk95UWJJWGhrCjwvZGl2PjwvZmlndXJlPnh3CmNvcmUvZW1iZWR3CWluc3RhZ3JhbXh4eHcEcmljaHckM2RkNWRkMmItMjg0Ni00NzhiLThiNzMtMjUxYjE4MDUxMmU5d/IBPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2stZW1iZWQgaXMtdHlwZS1yaWNoIGlzLXByb3ZpZGVyLWluc3RhZ3JhbSB3cC1ibG9jay1lbWJlZC1pbnN0YWdyYW0iPjxkaXYgY2xhc3M9IndwLWJsb2NrLWVtYmVkX193cmFwcGVyIj4KaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RYdXVoZTZpWGE4Lz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmYW1wO2lnc2g9TXpSbE9EQmlOV0ZsWkE9PQo8L2Rpdj48L2ZpZ3VyZT53YWh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EWHV1aGU2aVhhOC8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmFtcDtpZ3NoPU16UmxPREJpTldGbFpBPT13JGMxODE5NTYwLWZjM2ItNGRlMC04OTk0LWE0YTYyOWI2OTY4Y3h3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckZTQwMTJmZjYtY2Q2Yy00MWI1LTgzMjEtNTMwNGU1ZWJjODE4dwxjb3JlL2hlYWRpbmd9AXckNWRiZDY0NDgtMmFmOC00MzZlLWJmMmQtMWQzMzliY2U5NDQ5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQwMzMyMDhhOS00YTg2LTRlNWYtOThhZi1hN2ZjZjU5ZjkxZTZ4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JGU1YjhjMzRiLTI5ZmUtNDJkNy1iN2JiLWNkNGMwNGJjNTdhZnckMjA4OTIxOWUtZjIxNS00NDIyLTk5ZGYtM2U5NjZhYTVlNWQ0eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ0NmM0ZWQ2Mi0zMjRjLTQwNDktOWFhZi01ZDVhYzU2YTA4YjV4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDBkZTg0YTYxLWRmNzMtNDg4Yy05NTVjLTM5MjlmMWI4ODgzYnh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eZQCAH2a4K5ydwRvcGVudwRvcGVueXcAdwhzdGFuZGFyZHcAdwB5dwB3AHcAdwB5dwB3AHl9AHl5dwB3AHh5dgIYaW1hZ2VfZ2VuZXJhdG9yX3NldHRpbmdzdgQIdGVtcGxhdGV3B2hpZ2h3YXkQZGVmYXVsdF9pbWFnZV9pZH0ABGZvbnR3AAdlbmFibGVkeQd2ZXJzaW9ufQJ4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl4dwpjb3JlL2VtYmVkdwdzcG90aWZ5eHh4dzdodHRwczovL29wZW4uc3BvdGlmeS5jb20vZXBpc29kZS8zeTJzTFhDdW1SOERLZk95UWJJWGhrdwV2aWRlb3cod3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpb3h3CmNvcmUvZW1iZWR3CWluc3RhZ3JhbXh4eHcEcmljaHh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eX27zQJ3EzIwMjYtMDQtMjhUMTE6NTA6MzV1AX2w7ficBXcHcHVibGlzaALF2erdBgUIBQIMBLUDHaIDAQDatsyABigAAgEEAQAGAQcAGQFaAI8CAA4ARCjKB7wBmgMCAQEBBAECRQEDAEoAAQMBAAEAAQACAQMAFQEBBAECAQACAQIBAQgBAwIBAgEBCAIDAgEDBQIALgI=\",\"updateId\":137277629}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-06T13:17:30",
+  "modified_gmt": "2026-05-06T16:17:30",
+  "ping_status": "open",
+  "slug": "10-minutos-sobre-dia-da-educacao-transtorno-do-espectro-autista-e-os-desafios-da-inclusao-escolar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "10 minutos sobre: Dia da Educação: Transtorno do Espectro Autista e os desafios da inclusão escolar"
+  },
+  "type": "post"
+}

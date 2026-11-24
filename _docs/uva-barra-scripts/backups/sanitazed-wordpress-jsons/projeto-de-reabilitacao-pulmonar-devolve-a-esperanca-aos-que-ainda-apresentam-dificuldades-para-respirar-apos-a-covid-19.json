@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9065/revisions/9080",
+        "id": 9080
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9065"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9065",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9065/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9065"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9075"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9065",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9065",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315
+  ],
+  "class_list": [
+    "post-9065",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "tag-covid-19",
+    "tag-fisioterapia",
+    "tag-reabilitacao-pulmonar"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O laboratório universitário com consulta gratuita e por videoconferência já atendeu cerca de 500 pessoas</em></p><p>Sete em cada dez pacientes hospitalizados devido ao novo coronavírus não se recuperam totalmente, mesmo cinco meses depois de receberem alta. É o que aponta o estudo realizado pela National Institute for Health Research, da universidade britânica Leicester. Uma das sequelas apresentadas é a falta de ar, levando ao cansaço repentino. Para ajudar essas pessoas, o Laboratório de Pesquisa em Reabilitação Pulmonar da UVA (LAPERP-UVA) criou um projeto focado no tratamento respiratório pós-covid.</p><p>O LAPERP surgiu há cinco anos e foi idealizado por Yves de Souza, atual líder do laboratório e coordenador do curso de Fisioterapia, campus Barra, da Universidade Veiga de Almeida. “O objetivo era mostrar aos alunos que é possível, ainda na graduação, gerar estudos científicos que podem impactar positivamente a vida das pessoas”, explica.</p><p>O coordenador destaca que, com a pandemia do coronavírus, se fez necessário um projeto focado em verificar se os pacientes que contraíram a COVID-19, numa forma menos grave, ainda se queixavam de fadiga e fraqueza mesmo após a fase aguda da doença. O LAPERP, então, começou a oferecer, em abril de 2020, o tratamento de reabilitação pulmonar gratuita e online, para tentar ajudar na recuperação dessas pessoas.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/foto-1-atendimento-dos-pacientes.jpeg?resize=640%2C978&amp;ssl=1\" alt=\"\" width=\"640\" height=\"978\" /><figcaption>O projeto de reabilitação pulmonar pós-covid foi apresentado e premiado no Congresso da American Thoracic Society em abril de 2021 (Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/foto-2-paciente-carolina.jpeg?resize=778%2C619&amp;ssl=1\" alt=\"\" width=\"778\" height=\"619\" /><figcaption>Carolina de Santos Borges procurou o tratamento do LAPERP por sentir falta de ar mesmo após receber alta do coronavírus (Arquivo Pessoal)</figcaption></figure><p>Carolina dos Santos Borges foi uma das primeiras pacientes do projeto pós-covid. Ela conta que percebeu os resultados dos exercícios respiratórios e aeróbicos progredirem a cada semana. “Na época, eu não tinha condições de fazer uma fisioterapia presencial, além do forte preconceito com quem tinha sido contaminado”, desabafa. Com mais de 14 familiares infectados, a pedagoga, de 40 anos, viu no LAPERP uma saída para a complicada situação financeira provocada pela pandemia.</p><p><strong>Ouça o áudio abaixo sobre a experiência da paciente Carolina dos Santos Borges com o projeto:</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1029633835&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe><p>Em um ano de existência, o tratamento de reabilitação pulmonar impactou a vida de cerca de 500 pessoas, com o apoio de Rayana Nascimento e outros 200 alunos voluntários do curso Fisioterapia na UVA. Rayana participou do projeto durante cinco meses e relata ter sido uma experiência única e gratificante. “Sinto que fizemos parte da história”, comenta.</p><blockquote><p><em>“Muitos pacientes tinham dificuldade para varrer a casa ou subir escadas, algo que para nós parece simples. E poder ver, no final do tratamento, eles agradecendo, mandando mensagem, não tem preço. Nem todo o dinheiro do mundo conseguiria pagar o reconhecimento de ter ajudado essas pessoas” </em></p><cite><em>Rayana Nascimento</em></cite></blockquote><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/foto-3-aluna-rayana-com-yves.jpeg?resize=624%2C733&amp;ssl=1\" alt=\"\" width=\"624\" height=\"733\" /><figcaption>Rayana Nascimento afirma que trabalhar no projeto transformou o seu olhar sobre a profissão (Arquivo Pessoal)</figcaption></figure><p><strong>Ouça o áudio da Rayna Nascimento sobre o significado acadêmico e profissional em participar do LAPERP:</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1029639991&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe><p>O trabalho transformador do Laboratório de Pesquisa em Reabilitação Pulmonar da UVA permanece ativo. Pessoas que necessitam do auxílio respiratório devem entrar em contato com o e-mail comunicacaoinstitucional@uva.br . Elas passarão por uma triagem e serão encaminhadas aos profissionais especialistas.</p><p><em>Ana Fernandes – 7º período</em></p></main>"
+  },
+  "date": "2021-04-15T17:18:23",
+  "date_gmt": "2021-04-15T20:18:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Sete em cada dez pacientes hospitalizados devido ao novo coronavírus não se recuperam totalmente, mesmo cinco meses depois de receberem alta. É o que aponta o estudo realizado pela National Institute for Health Research, da universidade britânica Leicester. Uma das sequelas apresentadas é a falta de ar, levando ao cansaço repentino. Para ajudar essas pessoas, o Laboratório de Pesquisa em Reabilitação Pulmonar da UVA (LAPERP-UVA) criou um projeto focado no tratamento respiratório pós-covid.</p>\n"
+  },
+  "featured_media": 9075,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9065"
+  },
+  "id": 9065,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/foto-de-capa-da-materia-reabilitacao-pulmonar-pos-covid.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2md",
+  "link": "https://agenciauvabarra.com/2021/04/15/projeto-de-reabilitacao-pulmonar-devolve-a-esperanca-aos-que-ainda-apresentam-dificuldades-para-respirar-apos-a-covid-19/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-04-15T19:28:51",
+  "modified_gmt": "2021-04-15T22:28:51",
+  "ping_status": "open",
+  "slug": "projeto-de-reabilitacao-pulmonar-devolve-a-esperanca-aos-que-ainda-apresentam-dificuldades-para-respirar-apos-a-covid-19",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    694479852,
+    250831,
+    57269381
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Projeto de reabilitação pulmonar devolve a esperança aos que ainda apresentam dificuldades para respirar após a Covid-19"
+  },
+  "type": "post"
+}

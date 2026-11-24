@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12976/revisions/12982",
+        "id": 12982
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12976"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12976",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12976/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12976"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12979"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12976",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12976",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    228738,
+    798
+  ],
+  "class_list": [
+    "post-12976",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eleicoes",
+    "category-politica",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Daqui há 2 dias acontecem o primeiro turno das eleições presidenciais e governamentais. É necessário tomar muito cuidado com as informações à respeito dos candidatos.</p><p>Neste episódio, a Rádio Uva Barra fala sobre Fake News: A divulgação proposital de informações falsas. Para esclarecer essas questões, a equipe da Rádio Uva Barra convidou Marcos Cesar, professor de Direito da Universidade Veiga de Almeida.</p><p>Confira o podcast: <a href='https://open.spotify.com/episode/0pQOAnPkMlaiSWEPvCKcpb?si=3e3e057425aa4163'>https://open.spotify.com/episode/0pQOAnPkMlaiSWEPvCKcpb?si=3e3e057425aa4163</a></p><p>Breno Monteiro – 8° período<br>Gabriel Pitella – 8° período</p></main>"
+  },
+  "date": "2022-09-30T18:06:50",
+  "date_gmt": "2022-09-30T21:06:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Daqui há 2 dias acontecem o primeiro turno das eleições presidenciais e governamentais. É necessário tomar muito cuidado com as informações à respeito dos candidatos.</p>\n"
+  },
+  "featured_media": 12979,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12976"
+  },
+  "id": 12976,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-30-at-15.41.45.jpeg?fit=640%2C640&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3ni",
+  "link": "https://agenciauvabarra.com/2022/09/30/podcast-radio-uva-barra-fake-news-e-eleicoes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-09-30T18:07:54",
+  "modified_gmt": "2022-09-30T21:07:54",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-fake-news-e-eleicoes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Fake News e Eleições"
+  },
+  "type": "post"
+}

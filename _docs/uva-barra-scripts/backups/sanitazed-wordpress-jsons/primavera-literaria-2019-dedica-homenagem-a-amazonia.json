@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5443/revisions/5471",
+        "id": 5471
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5443"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5443",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5443/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5443"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5447"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5443",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5443",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    3719
+  ],
+  "class_list": [
+    "post-5443",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-libre",
+    "tag-primavera-literaria-2019"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento Literário chega a 19º edição com o lema Equidade, Sustentabilidade e Bibliodiversidade</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_3400.jpg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" /><figcaption>Museu da República recebe a 19° edição da Primavera Literária – Foto: Anna Clara Motta</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_3409.jpg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" /><figcaption>Curadora da Primavera Literária, Renata Costa. – Foto: Anna Clara Motta</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_3448.jpg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" /><figcaption>Rua do Desenho, oficina de ilustração para o publico infantil – Foto: Anna Clara Motta</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/dvmy9841.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"\" /><figcaption>Auditório Dia do Editor. Foto: Mariana Kolomitzeff</figcaption></figure><p>A tradicional feira de autores e editoras independentes do país aconteceu durante os dias 3 a 6 de outubro, no Museu da República. Com o tema “Belém-Pará/Amazônia”, a programação foi marcada pela pluralidade de atividades culturais, educativa e infantil. A Rua do Desenho é a novidade desta edição, uma oficina de ilustração no meio do jardim do museu e um espaço onde o público infantil usou sua criatividade.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_3411.jpg?resize=606%2C454&amp;ssl=1\" alt=\"\" /><figcaption>Feira de Livros – Foto: Anna Clara Motta</figcaption></figure><p>A Feira de Livros contou com 70 editoras de pequeno e médio porte, dando oportunidade às que não entram no mercado livreiro, com muitos livros infantis e técnicos. A Curadora da Programação da Primavera Literária Rio 2019, Renata Costa, explicou a importância de falar da literatura contemporânea amazônica e debater o que está acontecendo no momento atual, saindo do estereótipo das lendas e dos índios. “Estamos tendo reverberação e publicidade sobre a Amazônia globalmente, então, nós entendemos que é fundamental trazer à tona, principalmente em uma festa literária. Precisamos muito discutir sobre isso.”</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_3422.jpg?resize=598%2C448&amp;ssl=1\" alt=\"\" /><figcaption> Exposição em homenagem a Amazônia – Foto: Anna Clara Motta</figcaption></figure><p>As atividades para todos os públicos alvos possibilitou a presença de crianças e adultos. A visitante Maria das Graças Moreira, comentou como o tema escolhido ajuda na educação. “O Brasil está muito carente de educação, é uma forma de trazer o público, uma oportunidade de conhecer a literatura, porque é pela leitura e pela educação que nós vamos mudar o nosso país.”, afirmou.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/okuo8178.jpg?resize=595%2C396&amp;ssl=1\" alt=\"\" /><figcaption>Atividade na Tenda Cumurim – Foto: Mariana Kolomitzeff</figcaption></figure><p>Luzia de Seta, que já esteve no evento em outras edições, definiu a Primavera Literária como uma oportunidade de conhecer mais livros e a literatura. Um evento que ajuda o país, acabando com a violência e aumentando a admiração pela leitura.</p><p>Confira o depoimento exclusivo da curadora Renata Costa: </p><figure><iframe src=\"https://www.youtube.com/embed/xZdUhfYyXjE?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Anna Clara Motta – 1° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-08T10:00:00",
+  "date_gmt": "2019-10-08T13:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento Literário chega a 19º edição com o lema Equidade, Sustentabilidade e Bibliodiversidade A tradicional feira de autores e editoras independentes do país aconteceu durante os dias 3 a 6 de outubro, no Museu da República. Com o tema “Belém-Pará/Amazônia”, a programação foi marcada pela pluralidade de atividades culturais, educativa e infantil. A Rua do [&hellip;]</p>\n"
+  },
+  "featured_media": 5447,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5443"
+  },
+  "id": 5443,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_3400.jpg?fit=3264%2C2448&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1pN",
+  "link": "https://agenciauvabarra.com/2019/10/08/primavera-literaria-2019-dedica-homenagem-a-amazonia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-08T14:13:48",
+  "modified_gmt": "2019-10-08T17:13:48",
+  "ping_status": "open",
+  "slug": "primavera-literaria-2019-dedica-homenagem-a-amazonia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    59967,
+    687825602
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Primavera Literária 2019 dedica homenagem a Amazônia"
+  },
+  "type": "post"
+}

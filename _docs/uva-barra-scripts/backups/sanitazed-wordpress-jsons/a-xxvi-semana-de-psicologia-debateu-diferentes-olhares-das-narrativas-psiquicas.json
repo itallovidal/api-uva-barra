@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12781/revisions/12809",
+        "id": 12809
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12781"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12781",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 17,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12781/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12781"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12795"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12781",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12781",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    10567
+  ],
+  "class_list": [
+    "post-12781",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-psicologia",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento refletiu a atuação da profissão na atualidade</em></p><p>Entre os dias 05 e 09/09, o campus Barra sediou a XXVI Semana da Psicologia da UVA. Durante quatro dias a comunidade acadêmica participou de conferências sobre variados temas com a finalidade de gerar discussão e conhecimento aos estudantes de graduação e pós em psicologia e psicanálise. </p><p>Barbara Carissimi, professora e coordenadora do curso, descreve a Semana como um evento plural. O acolhimento e a escuta foram duas palavras que resumiram os encontros. “Nos mobilizou a pensar o papel do psicólogo na contemporaneidade”, relatou. </p><p><strong>Barbara Carissimi reflete a necessidade da Semana</strong>.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_8944-e1663109108704.jpg?resize=3530%2C2920&amp;ssl=1\" alt=\"\" width=\"3530\" height=\"2920\"><figcaption>Clarice Medeiros detalhou quatro tipos de dores: espiritual, psicológica, física e social. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-13-at-16.36.26.jpeg?resize=1600%2C1338&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1338\"><figcaption>Segundo Danielle, hoje em dia toma-se muito remédio em situações que não necessariamente são requisitadas desse tipo de tratamento. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-13-at-16.19.11.jpeg?resize=643%2C1280&amp;ssl=1\" alt=\"\" width=\"643\" height=\"1280\"><figcaption>Vanda confessou estar muito feliz em participar de um evento como a Semana da Psicologia pela primeira vez. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_9031.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Segundo Neibi Ribeiro, não se pode entender o sintoma sem pensar na cultura vigente. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-13-at-19.12.07-e1663108206730.jpeg?resize=733%2C466&amp;ssl=1\" alt=\"\" width=\"733\" height=\"466\"><figcaption>Barbara Carissimi procurou criar um ambiente colaborativo no evento. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-13-at-16.24.05.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Para a psicóloga Carolina Pereira Motta, a escola é um reduto de tudo: socialização, proteção, etc. (Foto: Déborah Gama)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-13-at-19.24.11.jpeg?resize=1600%2C1200&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1200\"><figcaption>Yone relaciona assuntos como alquimia à psicologia analítica durante a conferência. (Foto: Bruno Barros)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-13-at-19.11.44-e1663108257629.jpeg?resize=838%2C451&amp;ssl=1\" alt=\"\" width=\"838\" height=\"451\"><figcaption>A psicóloga do esporte Adriana Lacerda afirma que a mídia pode assumir um papel cruel sobre os atletas. (Foto: Pedro Amorim)</figcaption></figure><blockquote><p>“Eu possibilito a oportunidade dos alunos se identificarem e já se direcionarem de uma forma profissional para a formação e atuação nesta área do esporte”.</p><cite>Adriana Lacerda</cite></blockquote><p>A rodada de palestras teve início com a psicóloga Carolina Pereira Motta, que apresentou “Pandemia: impactos e desafios com o distanciamento do ambiente escolar”. A conferência abordou assuntos como a transição para o ensino remoto durante a crise sanitária e a não democratização no acesso à internet. “A escola é um lugar de cuidado, um protetor psicossocial”, declarou Carolina.</p><p>A área da psicologia analítica e a do esporte marcaram os primeiros dias. Yone Nasser explicou alguns conceitos mais complexos sobre a abordagem de Jung para a psicologia, já Adriana Lacerda destacou como o acompanhamento psicológico é essencial para o desenvolvimento de atletas de alto rendimento.</p><p>Os tipos de fenômenos clínicos, dores e o excesso no hábito de medicação para tratamento foram explicados em “A Loucura Feminina”, com a mediadora Danielle Lamarca e psicóloga Jéssica Belchior, e “ Dor e Angústia: Afetos disruptivos na clínica psicanalítica”, comandada por Clarice Medeiros. As palestrantes mostraram a rejeição da dor na atualidade e o que o sofrimento pode contar sobre a história do indivíduo.</p><p>Para a aluna Vanda Cristina, do primeiro período de Psicologia, as reuniões permitiram conhecer mais sobre as pesquisas e como ela deseja colocar em prática toda a informação recebida. “A psicologia é muito rica, tem várias coisas que me interessam muito. Pretendo aplicar isso em trabalho voluntário e trabalhar com crianças e jovens, ou qualquer pessoa que precisa ser ouvida”, disse.</p><p><strong>Dentre as palestras assistidas, a estudante Vanda Cristina destaca a psicologia analítica.</strong></p><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"A estudante Vanda Cristina fala da percepção sobre a palestra da psicologia analítica. by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1343289142&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></figure><p>O último dia foi marcado pelo “XIX Encontro do Mestrado e o XII Encontro do Doutorado em Psicanálise, Saúde e Sociedade”, pela manhã da sexta, 09/09, e de noite o primeiro seminário de “Prevenção do Suicídio e a Clínica do Sofrimento Extremo”. Os estagiários da equipe de Urgências Subjetivas do Serviço de Psicologia Aplicada da unidade Barra comandaram as últimas palestras a partir de pesquisas feitas sobre saúde mental.</p><p>Em “Depressão: sua expressão na contemporaneidade”, foi debatido a causa dos dados relacionados com a depressão. Neibi Ribeiro, 8º período de psicologia, pesquisou que esses números estão relacionados à cultura do consumo, imagem e da internet. A aluna reforçou a importância da psicologia para o tratamento. “Procure uma ajuda especializada”, recomendou Neibi.</p><p>Déborah Duarte – 2º período<br>Bruno Barros – 2º período<br>Juliana Vilete – 3º período<br>Pedro Amorim – 7º período</p></main>"
+  },
+  "date": "2022-09-13T19:41:39",
+  "date_gmt": "2022-09-13T22:41:39",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Entre os dias 05 e 09/09, o campus Barra sediou a XXVI Semana da Psicologia da UVA. Durante quatro dias a comunidade acadêmica participou de conferências sobre variados temas com a finalidade de gerar discussão  e conhecimento aos estudantes de graduação e pós em psicologia e psicanálise. </p>\n"
+  },
+  "featured_media": 12795,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12781"
+  },
+  "id": 12781,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_8944-e1663109108704.jpg?fit=3530%2C2920&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3k9",
+  "link": "https://agenciauvabarra.com/2022/09/13/a-xxvi-semana-de-psicologia-debateu-diferentes-olhares-das-narrativas-psiquicas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-09-13T20:28:56",
+  "modified_gmt": "2022-09-13T23:28:56",
+  "ping_status": "open",
+  "slug": "a-xxvi-semana-de-psicologia-debateu-diferentes-olhares-das-narrativas-psiquicas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A XXVI Semana de Psicologia debateu diferentes olhares das narrativas psíquicas"
+  },
+  "type": "post"
+}

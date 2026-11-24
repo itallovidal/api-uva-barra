@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19475/revisions/19478",
+        "id": 19478
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19475"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19475",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19475/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19475"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19423"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19475",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19475",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    591294689,
+    2366,
+    14603
+  ],
+  "class_list": [
+    "post-19475",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-projetodiversidade",
+    "category-eventos",
+    "category-jornalismo",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O primeiro dia do Rio Ocean Week 2025, realizado nesta quarta-feira (22), no Museu do Amanhã, foi uma verdadeira imersão no universo oceânico. Com uma programação que reuniu debates, experiências interativas, literatura, cinema, ciência e música, o evento mostrou como o oceano está no centro das transformações sociais, ambientais e econômicas. Promovida pela Prefeitura do Rio de Janeiro e parceiros institucionais, a Rio Ocean Week segue, com o objetivo de ampliar o diálogo entre pesquisadores, gestores públicos, artistas, estudantes e a sociedade sobre o futuro sustentável do mar.</p><p>No palco Ideias Azuis, uma das principais zonas de debate do evento, especialistas e ativistas discutiram o papel do mar na geração de empregos, no turismo responsável e na inovação tecnológica. Entre as discussões do dia, o painel \" Economia da Praia: desenvolvimento e preservação da paisagem.\", teve grande destaque, mediado pela jornalista Beatriz Santomauro, reuniu Leana Bernardi, Coordenadora nacional do Programa Bandeira Azul, Manoela Peres, Secretária de Governança e Sustentabilidade de Saquarema e Evanildo Nascimento, Secretário do Clima e Sustentabilidade da cidade de Búzios.</p><p>O debate destacou a importância do Programa Bandeira Azul, uma premiação internacional que reconhece praias e marinas com excelência em gestão ambiental, segurança, qualidade da água e educação ambiental. Mais do que um selo de conquista, ele representa um compromisso permanente com a preservação.O Brasil aderiu ao Programa Bandeira Azul em 2005, tornando-se um dos países da América Latina com maior número de praias certificadas, tendo 50 praias e 10 marinas com bandeiras azuis.</p><p>\"Mais do que conquistar a bandeira, é preciso mantê-la.\", disse Leana Bernardi. Existem critérios que precisam ser seguidos para conquistar a bandeira e mantidos para os lugares que já conquistaram. Sendo eles, segurança, as praias precisam garantir condições adequadas para os banhistas, presença de salva vidas e acessibilidade, a educação ambiental, às praias certificadas devem desenvolver ações contínuas com escola, turistas e moradores para estimular o respeito ao ambiente marinho, gestão ambiental, o critério exige práticas exemplares como limpeza constante, coleta seletiva, ordenamento de atividade costeira e controle sobre construções e empreendimentos que possam impactar a região e por fim, a qualidade da água, que é avaliada com base em análises técnicas rigorosas, seguindo padrões internacionais e as amostras são coletadas regularmente.</p><p>Esses pilares estão diretamente ligados à atuação cotidiana das pessoas que vivem e trabalham nas praias. São ambulantes, quiosqueiros, pescadores, artesãos e prestadores de serviço que, além de impulsionarem a economia local, são agentes fundamentais na preservação do ambiente costeiro.Em praias certificadas, esses trabalhadores são credenciados e orientados pelas prefeituras a seguir normas que garantem a boa manutenção do espaço público. Isso inclui o uso de materiais biodegradáveis, o respeito ao ordenamento das barracas e quiosques, o descarte correto do lixo e a colaboração para manter a segurança e a limpeza da área.</p><p>Em muitos casos, os próprios moradores ajudam a fiscalizar e manter o padrão exigido pelo programa, reconhecendo que o cuidado com o espaço é também uma forma de valorizar o turismo e garantir o sustento de suas famílias. Para os trabalhadores locais, a certificação traz ganhos diretos. As praias com Bandeira Azul costumam atrair mais visitantes, o que impulsiona o comércio e os serviços. Além disso, o reconhecimento aumenta a valorização do território e do trabalho de quem depende da praia para viver. \"Quando a praia é boa para o morador, ela é ótima para o turista\", afirmou Evanildo Nascimento, que apresenta um resumo da ideia de que o turismo sustentável só existe quando há qualidade de vida e pertencimento das comunidades locais.</p><p>O debate também reforçou que a integração entre secretarias de Turismo, Meio Ambiente, Educação e Ordem Pública é fundamental para garantir uma gestão costeira contínua. Cidades como Saquarema e Búzios foram citadas como exemplos de cooperação bem-sucedida entre poder público e moradores locais.</p><p>Enquanto as palestras aconteciam, o Cais do Porto, instalado no salão do Museu do Amanhã, se consolidava como um dos espaços mais movimentados do evento. O espaço reúne cerca de 30 instituições, entre ONGs, universidades, centros de pesquisa e projetos ambientais, que apresentam suas iniciativas voltadas à conservação oceânica, sustentabilidade e educação ambiental.</p><p>O Cais do Porto foi um dos primeiros ambientes a receber visitantes no dia de abertura do evento. Logo nas primeiras horas, o local já estava movimentado, com o público explorando os estandes e participando de oficinas interativas. O espaço propõe uma imersão no universo marinho por meio de atividades práticas, demonstrações científicas e ações educativas que envolvem desde crianças até especialistas.</p><p>Entre os destaques estão as participações do Sea Shepherd Brasil, Projeto Baleia Jubarte, e laboratórios de universidades como UFRJ e UERJ, que expõem trabalhos sobre biotecnologia marinha, monitoramento de espécies e impacto da poluição nos oceanos. Os estandes oferecem experiências sensoriais e educativas, como testes de qualidade da água, oficinas sobre resíduos plásticos e apresentações artísticas inspiradas no mar. Mais do que uma mostra científica, o Cais do Porto é um espaço de diálogo e engajamento social, onde o público é convidado a compreender a importância da conservação dos oceanos e a pensar em práticas cotidianas mais sustentáveis</p><p>Outro ponto alto do dia foi a abertura das visitas guiadas aos navios oceanográficos Cruzeiro do Sul, da Marinha do Brasil, e Professor Luiz Carlos, da Universidade do Estado do Rio de Janeiro (UERJ), atracados no píer do Museu do Amanhã. A iniciativa, aberta ao público de forma gratuita, proporciona uma experiência única de aproximação com a ciência marítima, permitindo que visitantes de todas as idades conheçam de perto os laboratórios de bordo e os equipamentos utilizados em expedições oceanográficas. Durante o passeio, pesquisadores explicam como são realizadas as coletas e análises que contribuem para o estudo do comportamento dos oceanos.</p><p>A atividade tem atraído estudantes de escolas, universidades, pesquisadores e famílias, tornando-se um dos grandes sucessos do Rio Ocean Week 2025. Além de proporcionar entretenimento e contato direto com a ciência, as visitas também funcionam como um estímulo à educação científica e à conscientização sobre a importância de proteger os oceanos.</p><p>No Cinema Comentado, o público teve a oportunidade de mergulhar em produções audiovisuais que exploram a vida marinha e os desafios da conservação ambiental. Entre os documentários exibidos estavam Mar Brasileiro, Litoral Brasileiro, Um Golfinho Oceânico e Sinfonia dos Cavalos-Marinhos, obras que combinam imagens deslumbrantes da natureza com informações científicas sobre ecossistemas marinhos e espécies ameaçadas.</p><p>Após cada exibição, cineastas e pesquisadores participaram de bate-papos com a plateia, promovendo debates ricos sobre temas como poluição nos oceanos, preservação da biodiversidade, impactos das mudanças climáticas e a importância da educação ambiental. As conversas permitiram ao público compreender melhor o papel da ciência e do cinema na conscientização ambiental, estimulando reflexões sobre como pequenas ações podem contribuir para a proteção dos mares.</p><p>A literatura também teve lugar garantido na programação. O espaço Mar de Livros dedicou o dia a atividades voltadas à leitura e à arte com foco na temática oceânica. A manhã começou com a exibição da animação Mar Azul à Vista, conduzida pela escritora Meg Antunes, do Museu Naval, seguida pelo workshop \" Ilustração Científica\", ministrado por Alexandre Huber , que apresentou técnicas de observação e desenho da vida marinha. O lançamento do livro Aventura no Monte Cigarra, da escritora Elaine Alves dos Santos, completou a programação, estimulando o público infantil a refletir sobre a relação entre literatura, natureza e sustentabilidade.</p><p>O encerramento do dia foi marcado por emoção e música. O Talk Show de Abertura, comandado pelo cantor e compositor Lenine, reuniu no palco personalidades e artistas ligados ao mar em um espetáculo de 90 minutos que misturou entrevistas, reflexões e apresentações musicais. Entre uma canção e outra, Lenine falou sobre sua relação com o oceano e a influência da natureza em sua trajetória artística. O público acompanhou de perto um momento de pura inspiração, em que arte e consciência ambiental se encontraram.</p><p>O primeiro dia da Rio Ocean Week 2025 deixou claro, que a preservação dos oceanos não é apenas uma preocupação local, mas um tema de relevância global, capaz de atravessar fronteiras e de conectar diferentes áreas do conhecimento humano. Durante a jornada inaugural, o público pôde acompanhar uma programação rica e diversificada, que incluiu debates sobre sustentabilidade e economia do mar, exibições de filmes e documentários que retratam a vida marinha, apresentações musicais inspiradas no oceano, além de lançamentos literários e atividades científicas interativas.</p><p>O evento reafirmou o papel do Rio de Janeiro como um importante centro de diálogo e reflexão sobre o futuro dos oceanos, reunindo especialistas, artistas, pesquisadores e ativistas em torno de uma causa comum, a conservação do planeta que nos sustenta. Mais do que uma série de palestras e apresentações, a Rio Ocean Week 2025 se consolidou como uma verdadeira celebração da vida marinha e da urgente necessidade de proteger nossos mares, incentivando a troca de ideias, a conscientização ambiental e a construção de soluções para garantir a sustentabilidade do oceano para as próximas gerações.</p><p>Maria Luiza Alves – 2º período.</p></main>"
+  },
+  "date": "2025-11-06T10:32:06",
+  "date_gmt": "2025-11-06T13:32:06",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento reafirmou o papel do Rio de Janeiro como um importante centro de diálogo e reflexão sobre o futuro dos oceanos, reunindo especialistas, artistas, pesquisadores e ativistas em torno de uma causa comum, a conservação do planeta que nos sustenta.</p>\n"
+  },
+  "featured_media": 19423,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19475"
+  },
+  "id": 19475,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/whatsapp-image-2025-10-31-at-12.54.52.jpeg?fit=1600%2C900&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-547",
+  "link": "https://agenciauvabarra.com/2025/11/06/rio-ocean-week-2025-um-encontro-em-defesa-do-oceano/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-11-06T10:32:06",
+  "modified_gmt": "2025-11-06T13:32:06",
+  "ping_status": "open",
+  "slug": "rio-ocean-week-2025-um-encontro-em-defesa-do-oceano",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rio Ocean Week 2025: Um Encontro em Defesa do Oceano. "
+  },
+  "type": "post"
+}

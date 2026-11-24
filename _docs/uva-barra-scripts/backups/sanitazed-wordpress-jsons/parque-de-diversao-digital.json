@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2234/revisions/3062",
+        "id": 3062
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2234"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2234",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2234/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2234"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2235"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2234",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2234",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    758
+  ],
+  "class_list": [
+    "post-2234",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-game-park",
+    "tag-game-xp-2018",
+    "tag-jogos-eletronicos",
+    "tag-parque-olimpico",
+    "tag-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Evento de jogos eletrônicos ganha versão independente</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_20180905_162344620_ll.jpg?resize=4160%2C3120&#038;ssl=1' alt='IMG_20180905_162344620_LL' width='4160' height='3120' /><figcaption>O telão da Game Arena vai manter todos atentos às batalhas. Foto: Lucas Motta</figcaption></figure><p>O Rock in Rio 2017 criou um “sub-evento” que nada tem a ver com música, mas ainda assim tem fã clube cativo. Trata-se da Game XP, que agora conta com uma edição própria em 2018. Com pelo menos dois dias com ingressos já esgotados, a promessa é de voltar a reunir fãs de tecnologia e jogos eletrônicos até o próximo domingo (9).</p><p>Autointitulado “o primeiro game park do mundo”, a Game XP pretende oferecer um vasto portfólio de entretenimento. Três arenas usadas nas Olimpíadas de 2016 se transformaram em Inova Arena, Game Zone e Game Arena. Além disso, os visitantes podem se divertir em outros espaços, como uma pista de kart inspirada pelo jogo “Crash Bandicoot” e uma que simula um campo de paintball, baseado em “Rainbow Six Siege”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_20180905_151801628.jpg?ssl=1' alt='IMG_20180905_151801628' /><figcaption>Símbolo do PlayStation 1, Crash Bandicoot dá sua imagem para pista de kart. Foto: Lucas Motta</figcaption></figure><p>Dentro dos estádios, a experiência é mais imersiva. A Inova Arena vai contar com vários conteúdos focados em tecnologia e inovação. O público pode testar os óculos de realidade virtual, o “mentorama” (um autorama que é controlado pela mente) e outras técnicas que utilizam realidade virtual. No mesmo espaço, a NBA (liga de basquete americano) promove jogatinas tanto reais quanto nas telas.</p><p>A maior parte dos videogames, claro, ficam para as outras duas arenas. A Game Zone conta com vários lançamentos recentes conhecidos pelos jogadores e que podem ser utilizados, como “God of War” e “Mario Kart”. Uma das novidades deste ano, o local tem um labirinto real de “Pac-Man”, clássico dos anos 80. Já na vizinha Game Arena, o foco será nas disputas online, com campeonatos de “CS:GO” e “League of Legends”, além de outros títulos.</p><p>Tanto conteúdo faz os envolvidos no evento acreditarem na repetição do sucesso visto no ano passado. Breno Nascimento, assistente de produção, acha que isso é um reflexo desta geração, que está muito ligada aos jogos eletrônicos. Apesar disso, ele vê que tem espaço para todos. “Temos aqui ‘Pac-Man’, que é das antigas, e ‘Clash Royale’, que é recente e do mercado mobile. Nossa vontade aqui é abranger todas as idades”, destaca. Baseado na procura por ingressos, a Game XP caminha para ter grade fixa na programação da cidade.</p><p><strong>Lucas Motta – 7º período</strong></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_20180905_151557098.jpg?resize=4160%2C3120&#038;ssl=1' alt='IMG_20180905_151557098' width='4160' height='3120' /><figcaption>Sucesso nos celulares, Clash Royale também marca presença. Foto: Lucas Motta</figcaption></figure></main>"
+  },
+  "date": "2018-09-07T19:09:00",
+  "date_gmt": "2018-09-07T22:09:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento de jogos eletrônicos ganha versão independente&nbsp; O Rock in Rio 2017 criou um “sub-evento” que nada tem a ver com música, mas ainda assim tem fã clube cativo. Trata-se da Game XP, que agora conta com uma edição própria em 2018. Com pelo menos dois dias com ingressos já esgotados, a promessa é de [&hellip;]</p>\n"
+  },
+  "featured_media": 2235,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2234"
+  },
+  "id": 2234,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_20180905_162344620_ll.jpg?fit=4160%2C3120&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-A2",
+  "link": "https://agenciauvabarra.com/2018/09/07/parque-de-diversao-digital/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:17:37",
+  "modified_gmt": "2019-01-31T14:17:37",
+  "ping_status": "open",
+  "slug": "parque-de-diversao-digital",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5110812,
+    607820843,
+    571828,
+    9014243,
+    767056593
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Parque de Diversão Digital"
+  },
+  "type": "post"
+}

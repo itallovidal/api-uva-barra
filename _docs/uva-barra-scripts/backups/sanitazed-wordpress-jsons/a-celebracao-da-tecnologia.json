@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5807/revisions/5815",
+        "id": 5815
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5807"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5807",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5807/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5807"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5809"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5807",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5807",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    758
+  ],
+  "class_list": [
+    "post-5807",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-hacktudo-2019",
+    "tag-oficina-de-drones",
+    "tag-robos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A quinta edição do Festival de Cultura Digital – Hacktudo reúne amantes da tecnologia no Rio de Janeiro</em></p><p>A Cidade das Artes recebeu, nos dias 26 e 27 de Outubro, a 5ª edição do HACKTUDO – Festival de Cultura Digital, o evento é uma grande celebração da tecnologia. Com entrada gratuita e atrações para todas as idades, cerca de 14 mil pessoas passaram pela feira tecnológica. Na programação, três arenas de robôs ocupando mais de 100 metros quadrados, Arenas de Drones com pilotos profissionais e armadores, prática de pilotagem para o público, futebol e luta de robô, além da Arena de Oficinas com atividades práticas e a exposição do artista Jota Azevedo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_3221_original.jpg?resize=516%2C386&amp;ssl=1\" alt=\"\" width=\"516\" height=\"386\" /><figcaption>Oficinas de Drones – Foto: Beatrice Laeber</figcaption></figure><p>A Hack Conference – espaço destinado para os debates- reuniu as principais referências de produto e tecnologia do brasil para os amantes da cultura digital como, programadores, designers, estudantes e profissionais. Entre os assuntos abordados, temas como: <a href=\"https://agenciauvabarra.com/2019/10/29/festival-de-cultura-digital-debate-sobre-a-representatividade-feminina-na-tecnologia/\">Representatividade feminina na tecnologia</a> e <a href=\"https://agenciauvabarra.com/2019/10/28/a-entrega-de-comida-por-aplicativos-o-que-esta-por-tras-disso/\">A entrega de comida por aplicativos</a>. O coordenador de produção do Hacktudo, Irwin Fiuza destaca que o festival transmite a mensagem que tecnologia é um assunto para todos. “Colocamos na nossa pauta que o futuro é agora, e a gente propõe uma sociedade ainda mais tecnológica”, ressalta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_4738-e1572359287163.jpeg?resize=519%2C306&amp;ssl=1\" alt=\"\" width=\"519\" height=\"306\" /><figcaption>Arena Maker é uma atração que dá oportunidade de destaque aos novos integrantes do mercado tecnológico – Foto: Isabella Lutz</figcaption></figure><p>Na <a href=\"https://agenciauvabarra.com/2019/10/29/arena-maker-e-uma-das-atracoes-do-hacktudo/\">Arena Maker</a>, os projetos exploravam várias vertentes, como robótica e design, além de permitir uma interação com o público. O estudante de informática Silas Nonato, 16 anos, conta que é sua segunda vez no festival. “O mundo da tecnologia sempre foi uma coisa que eu gostei bastante e o Hacktudo é uma oportunidade de aprender sobre as coisas, isso acaba inspirando as pessoas”, comenta. O evento encerrou no último domingo (27) e já tem data marcada para edição de 2020.</p><p><strong>Beatrice Laeber- 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-30T14:47:11",
+  "date_gmt": "2019-10-30T17:47:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A quinta edição do Festival de Cultura Digital &#8211; Hacktudo reúne amantes da tecnologia no Rio de Janeiro A Cidade das Artes recebeu, nos dias 26 e 27 de Outubro, a 5ª edição do HACKTUDO &#8211; Festival de Cultura Digital, o evento é uma grande celebração da tecnologia. Com entrada gratuita e atrações para todas [&hellip;]</p>\n"
+  },
+  "featured_media": 5809,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5807"
+  },
+  "id": 5807,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_3219_original-scaled-2560.jpg?fit=2560%2C1920&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1vF",
+  "link": "https://agenciauvabarra.com/2019/10/30/a-celebracao-da-tecnologia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-30T14:47:46",
+  "modified_gmt": "2019-10-30T17:47:46",
+  "ping_status": "open",
+  "slug": "a-celebracao-da-tecnologia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    688980907,
+    399304477,
+    182133
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A Celebração da Tecnologia"
+  },
+  "type": "post"
+}

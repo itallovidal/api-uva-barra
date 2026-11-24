@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5767/revisions/5776",
+        "id": 5776
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5767"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5767",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5767/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5767"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5771"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5767",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5767",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    758
+  ],
+  "class_list": [
+    "post-5767",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-festival-de-cultura-digital",
+    "tag-hacktudo-2019",
+    "tag-ifood"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Gustavo Tiengo, especialista em desenvolvimento de produtos, detalhou os processos de construção da mercadoria até o consumidor final</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_1042.jpeg?resize=3264%2C2448&#038;ssl=1' alt='Hack Conference foi o local onde ocorreram as apresentações' width='3264' height='2448' /><figcaption>Hack Conference foi o local onde ocorreram as apresentações</figcaption></figure><p>Para que o cliente tenha acesso à compra de maneira rápida e eficiente, há toda uma dinâmica de entrega a partir de pesquisas e dados com profissionais especializados. O coordenador de tecnologia do iFood Gustavo Tiengo palestrou, no último sábado (26), sobre a evolução no processo da entrega, durante o Hacktudo &#8211; Festival de Cultura Digital, na Cidade das Artes, Barra da Tijuca.</p><p>O palestrante ressaltou que existem três áreas do aplicativo que são primordiais para o bom funcionamento final: restaurante, consumidor e logística. Além disso, destaca o método de trabalho da sua equipe para obter resultados. “O nosso time olha assuntos de ponta a ponta, comparando n produtos, n sistemas para que a experiência de entrega seja resolvida”. Ele acrescenta ainda que o gerenciamento da área de entrega é feito pelo CEP, bairro, polígono ou raio, apesar de apresentar falhas por não haver  uma exatidão.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_1054-e1572290674764.jpeg?resize=609%2C411&#038;ssl=1' alt='Gustavo Tiengo, coordenador de tecnologia do iFood' width='609' height='411' /><figcaption>Gustavo Tiengo, coordenador de tecnologia do iFood</figcaption></figure><p>Por meio de setores de inteligência, Gustavo Tiengo absorveu soluções para diminuir problemas frequentes, como a localização do atendimento e a cobertura de entrega. “Nós começamos a fazer recortes dentro das cidades, cruzamos dados de renda e morfologia urbana, respeitamos mais as barreiras geográficas. Agora, todo restaurante consegue selecionar uma área com raio de até 15 km”, conta.</p><p>A apresentação aconteceu no Hack Conference — espaço destinado às palestras e o meio de acesso para o público era via ingresso. O analista de inovação digital Luis Gabriel Martins elogiou o tema e como cliente, se sentiu privilegiado. “O que achei mais interessante é como essa palestra mostra de fato o que a empresa está fazendo, sendo muito aberto sobre a inovação. Do lado do comprador, temos a experiência de entrar nessas empresas de certa forma e olhar a visão do lojista”, opina.</p><p><strong>Lucas Ribeiro &#8211; 2ºPeríodo | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2019-10-28T16:28:19",
+  "date_gmt": "2019-10-28T19:28:19",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Gustavo Tiengo, especialista em desenvolvimento de produtos, detalhou os processos de construção da mercadoria até o consumidor final Para que o cliente tenha acesso à compra de maneira rápida e eficiente, há toda uma dinâmica de entrega a partir de pesquisas e dados com profissionais especializados. O coordenador de tecnologia do iFood Gustavo Tiengo palestrou, [&hellip;]</p>\n"
+  },
+  "featured_media": 5771,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5767"
+  },
+  "id": 5767,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_1042.jpeg?fit=3264%2C2448&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1v1",
+  "link": "https://agenciauvabarra.com/2019/10/28/a-entrega-de-comida-por-aplicativos-o-que-esta-por-tras-disso/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-29T11:39:41",
+  "modified_gmt": "2019-10-29T14:39:41",
+  "ping_status": "open",
+  "slug": "a-entrega-de-comida-por-aplicativos-o-que-esta-por-tras-disso",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    4135922,
+    688980907,
+    7232585
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A entrega de comida por aplicativos: o que está por trás disso?"
+  },
+  "type": "post"
+}

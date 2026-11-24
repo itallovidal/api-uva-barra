@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14556/revisions/14571",
+        "id": 14571
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14556"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14556",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14556/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14556"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14566"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14556",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14556",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    72064
+  ],
+  "class_list": [
+    "post-14556",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-cuidados",
+    "tag-exame",
+    "tag-oftalmologista",
+    "tag-visao"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Uso de colírio e visitas médicas são chaves para boa saúde ocular</em></p><p>É comemorado no Brasil, no dia 7 de maio, o Dia Nacional do Oftalmologista. Segundo o IBGE, mais de 35 milhões de habitantes possuem algum tipo de problema de visão, entre eles astigmatismo, hipermetropia, catarata e glaucoma, sendo miopia a campeã.</p><p>Quem tem miopia tem dificuldade para enxergar de longe. Esse diagnóstico teve um salto no número de casos após a pandemia de 2020, como explica o oftalmologista Marcelo Martins Ferreira Júnior. “A incidência de miopia durante a pandemia aumentou muito, em função do uso de telas”, acrescenta o especialista.</p><p>Estar com os olhos vidrados no celular e computador é um hábito ao qual se deve ficar atento para não causar cansaço visual. Para o oftalmologista, o tempo de exposição é relativo, por isso é preciso criar uma rotina de pausas. “O que se recomenda é que a cada uma hora, tentar descansar dez minutos, quando o médico fala isso as pessoas riem”, afirma Marcelo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/foto-oftalmo-marcelo.jpeg?resize=720%2C1280&amp;ssl=1\" alt=\"Marcelo alerta sobre como prevenir doenças oculares. (Foto: Pedro Lima)\" width=\"720\" height=\"1280\" /><figcaption>Marcelo alerta sobre como prevenir doenças oculares. (Foto: Pedro Lima)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/foto-estudante-julia-3.jpeg?resize=720%2C1280&amp;ssl=1\" alt=\"Júlia está sempre atenta às precauções médicas. (Foto: Arquivo pessoal)\" width=\"720\" height=\"1280\" /><figcaption>Júlia está sempre atenta às precauções médicas. (Foto: Arquivo pessoal)</figcaption></figure><p>Com a rotina de trabalho e tempo apertado, nem sempre é possível fazer esses intervalos no uso de eletrônicos. Nesses casos, é importante evitar o ressecamento dos olhos, utilizando um colírio (receitado por um oftalmologista). Esse cuidado vale para qualquer pessoa, independentemente de ter problemas visuais ou não. Marcelo chega a dizer que usar colírio deveria ser “igual beber água: todo mundo deve lubrificar o olho”.</p><p>O cuidado com a saúde dos olhos não deve ser subestimado. Fazer exames para troca de óculos e conferir pressão ocular são algumas maneiras de prevenir doenças como o Glaucoma, que afeta a visão de forma degenerativa, e sem o devido tratamento pode levar à cegueira irreversível. Ou a Catarata, que pode ser resolvida com processo cirúrgico.</p><p>Os cuidados com a visão fazem parte, por exemplo, da rotina da estudante universitária Júlia Costa do Nascimento. Júlia usa óculos desde os quatro anos de idade e, com 2 graus de astigmatismo e 12 de miopia, afirma que não conseguiria viver sem eles. “Não tem como, meu grau é muito alto. Afetaria a minha rotina e não poderia fazer certas coisas”, completa a jovem.</p><p>Júlia também conta que toma precauções específicas, como não coçar os olhos e evitar esportes com risco de queda. “Por causa do grau, eu corro risco de deslocamento de retina, então tenho que evitar atividades que me deixem vulnerável”, acrescenta a estudante.</p><p>O médico finaliza dizendo que as pessoas que apenas usam óculos ou não têm algum problema de visão, é bom que façam uma consulta, uma vez por ano.</p><p><em>Pedro Lima – 4° Período</em></p></main>"
+  },
+  "date": "2023-05-05T18:23:45",
+  "date_gmt": "2023-05-05T21:23:45",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>É comemorado no Brasil, no dia 7 de maio, o Dia Nacional do Oftalmologista. Segundo o IBGE, mais de 35 milhões de habitantes possuem algum tipo de problema de visão, entre eles astigmatismo, hipermetropia, catarata e glaucoma, sendo miopia a campeã.</p>\n"
+  },
+  "featured_media": 14566,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14556"
+  },
+  "id": 14556,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-05-at-18.50.00.jpeg?fit=1036%2C750&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3MM",
+  "link": "https://agenciauvabarra.com/2023/05/05/dia-nacional-do-oftalmologista-relembra-cuidados-com-a-visao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-08T15:17:19",
+  "modified_gmt": "2023-05-08T18:17:19",
+  "ping_status": "open",
+  "slug": "dia-nacional-do-oftalmologista-relembra-cuidados-com-a-visao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    392970,
+    560248,
+    712803,
+    656484
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dia Nacional do Oftalmologista relembra cuidados com a visão"
+  },
+  "type": "post"
+}

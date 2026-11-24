@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8412/revisions/8426",
+        "id": 8426
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8412"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8412",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8412/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8412"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8418"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8412",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8412",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330,
+    701438832
+  ],
+  "class_list": [
+    "post-8412",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "category-radio-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os produtores dos programas mais acessados contam como foi a experiência de fazer parte do primeiro ano da Rádio UVA Barra</em></p><p>O ano de 2020 foi marcado pelas mudanças na rotina em decorrência da pandemia de Covid-19. O Home Office se tornou uma forma de trabalho mais segura e a Agência UVA Barra aderiu à modalidade. Em meio a isso, a Rádio UVA Barra inaugurou em 2020 a série de podcasts jornalísticos. Até o momento, são duas temporadas com assuntos diversos feitos por alunos que colocam em prática os ensinamentos de sala de aula.</p><p><strong>Conheça os rostos por trás dos podcasts mais ouvidos de 2020</strong></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/whatsapp-image-2020-12-17-at-10.16.36.jpeg?resize=861%2C1280&amp;ssl=1\" alt=\"\" width=\"861\" height=\"1280\" /><figcaption>&#8220;É a sensação de ver o seu trabalho sendo recompensado&#8221;, diz Khaio Lopes que produziu o podcast mais ouvido de 2020. Foto: arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/whatsapp-image-2020-12-17-at-10.10.58-e1608241697888.jpeg?resize=864%2C954&amp;ssl=1\" alt=\"\" width=\"864\" height=\"954\" /><figcaption>&#8220;Enquanto jornalistas, nós temos que levar a informação para o maior número de pessoas possível&#8221;, diz Gustavo, produtor do segundo podcast mais ouvido de 2020. Foto: arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/whatsapp-image-2020-12-17-at-10.45.34.jpeg?resize=1280%2C847&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"847\" /><figcaption>&#8220;Minha trajetória na Rádio vai ser útil na minha vida profissional&#8221;, diz Fernando que teve o terceiro podcast mais ouvido de 2020. Foto: arquivo pessoal</figcaption></figure><p>Três podcasts se destacaram para o público: <a href=\"https://agenciauvabarra.com/2020/11/03/podcast-radio-uva-barra-reabertura-dos-cinemas-e-teatros-s02-ep08/\" target=\"_blank\" rel=\"noreferrer noopener\">\"Reabertura Dos Cinemas E Teatros\",</a> de Khaio Lopes, seguido de<a href=\"https://agenciauvabarra.com/2020/10/27/eleitores-precisam-ter-cuidados-redobrados-na-votacao-desse-ano/\" target=\"_blank\" rel=\"noreferrer noopener\"> \"Eleitores precisam ter cuidados redobrados na votação deste ano\"</a>, de Gustavo Teixeira, e por fim <a href=\"https://agenciauvabarra.com/2020/10/15/podcast-radio-uva-barra-desafios-da-educacao-no-cenario-da-pandemia-s02-ep03/\" target=\"_blank\" rel=\"noreferrer noopener\">\"Desafios da educação no cenário da pandemia\",</a> de Fernando Pieroni, respectivamente. O público se envolveu com essa e com outras histórias.</p><p>O podcast mais ouvido de 2020 aborda os desafios da reabertura dos cinemas e teatros no Rio de Janeiro. Estima-se que só a indústria do cinema pode ter perdido cerca de 160 milhões de reais. Talvez por isso, o debate com especialistas teve grande repercussão no site. Ao longo do programa, é possível ouvir opiniões diversas do público, possibilitando uma visão crítica do assunto.</p><p>Para Khaio Lopes, produtor do podcast \"Reabertura Dos Cinemas e Teatros\", as medidas de isolamento social foram um grande desafio a ser enfrentado. &#8220;Produzir os podcasts de dentro de casa foi de longe o maior desafio\", conta Khaio.</p><p><strong>Ouça o áudio de Khaio Lopes sobre os desafios que enfrentou</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F949675123&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Khaio Lopes fala sobre os desafios que enfrentou\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>O podcast \"Eleitores precisam ter cuidados redobrados na votação desse ano\" foi o segundo mais clicado de 2020. O programa foi ao ar antes das eleições do primeiro turno e trouxe informações sobre os cuidados na hora de ir às urnas. Com a pandemia de Covid-19, além do voto consciente, o eleitor teve que se preocupar com as medidas de ouro como distanciamento, higiene e o uso de máscaras. O resultado nas urnas foi um número recorde de abstenções: cerca de 29,5%.</p><p>Para Gustavo Teixeira, produtor do segundo podcast mais ouvido, o desenvolvimento pessoal foi o ponto alto da trajetória dele até o momento. Ter a possibilidade de aplicar na prática o que ele aprendeu nas aulas de jornalismo mudou a forma de Gustavo encarar a profissão</p><p><strong>Ouça o áudio de Gustavo Teixeira sobre o desenvolvimento pessoal</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F949675969&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Gustavo Teixeira fala sobre o desenvolvimento pessoal\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>A educação também teve que se adaptar. Salas de aula vazias, videoconferências, educação à distância. Com a possibilidade de volta, o podcast \"Desafios da educação no cenário da pandemia\" foi o terceiro mais ouvido e trouxe informações sobre como os professores se reinventaram para não deixar os estudantes sem aulas. Especialistas foram ouvidos puderam mostrar para o público o cenário da educação em meio à pandemia.</p><p>Para Fernando, produtor do terceiro podcast mais ouvido do ano, além dos desafios da produção durante o isolamento, sair da obviedade foi um contratempo difícil de lidar. Por isso, para ele, ter uma divisão de tarefas organizada e uma equipe unida tornou o processo mais agradável.</p><p><strong>Ouça o áudio de Fernando Pieroni sobre a importância da equipe</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F949677313&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Fernando Pieroni fala sobre a importância da equipe\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Ao longo de 2020, a Rádio UVA Barra contou com duas temporadas e mais de 20 episódios que abordam temas de saúde, política, sociedade e cultura, sempre com o objetivo de possibilitar ao ouvinte um olhar jornalístico feito por alunos que pretendem se desenvolver nesta profissão. Gustavo Teixeira resume bem a sensação que fica para toda a equipe: \"dever cumprido\".</p><p><em>Rafaela Barbosa – 8º período</em></p></main>"
+  },
+  "date": "2020-12-17T18:53:05",
+  "date_gmt": "2020-12-17T21:53:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os produtores dos programas mais acessados contam como foi a experiência de fazer parte do primeiro ano da Rádio UVA Barra O ano de 2020 foi marcado pelas mudanças na rotina em decorrência da pandemia de Covid-19. O Home Office se tornou uma forma de trabalho mais segura e a Agência UVA Barra aderiu à [&hellip;]</p>\n"
+  },
+  "featured_media": 8418,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8412"
+  },
+  "id": 8412,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/whatsapp-image-2020-12-17-at-10.16.36.jpeg?fit=861%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2bG",
+  "link": "https://agenciauvabarra.com/2020/12/17/os-podcasts-mais-ouvidos-em-2020/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-12-17T19:07:02",
+  "modified_gmt": "2020-12-17T22:07:02",
+  "ping_status": "open",
+  "slug": "os-podcasts-mais-ouvidos-em-2020",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Os podcasts mais ouvidos em 2020"
+  },
+  "type": "post"
+}

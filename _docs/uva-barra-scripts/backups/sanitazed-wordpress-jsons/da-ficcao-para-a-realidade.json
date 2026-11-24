@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1782/revisions/3215",
+        "id": 3215
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1782"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1782",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1782/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1782"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1782",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1782",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366
+  ],
+  "class_list": [
+    "post-1782",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cultura",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Admiradores de animes, mangas e heróis apreciam evento nesse domingo</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/whatsapp-image-2018-03-14-at-09-28-36.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-03-14 at 09.28.36' width='1280' height='960' /><figcaption>Foto: Ana Carolina Marinho</figcaption></figure><p>O Brasil tem a maior comunidade japonesa fora do Japão. Por isso, o RioCentro promoveu o Japan Festival Rio &#8211; Matsuri, foram três dias de festa no pavilhão 4. Os visitantes tiveram a oportunidade de experimentar as comidas típicas, apreciar as danças folclóricas e workshops de origami. O último dia de evento foi marcado pela presença de cosplayers, hobby em que os participantes se fantasiam de personagens fictícios da cultura pop<em>.</em></p><p>A vilã do Batman Arlequina marcou presença com a ajuda de Paula Erthal, cosplayer desde 2014, e conta o porquê da escolha dessa protagonista. “Acho ela uma pessoa muito interessante ela consegue ser divertida, mas agressiva ao mesmo tempo”. Caracterizada como o herói Inuyasha, a jovem Ana Clara começou por admiração aos protagonistas favoritos dela. “É gratificante vir aqui e exaltar quem eu gosto, fica ainda melhor porque posso trazer meus amigos e minha família”.</p><figure class=\"alignright\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/whatsapp-image-2018-03-14-at-09-29-07.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-03-14 at 09.29.07' width='1280' height='960' /><figcaption>Foto: Ana Carolina Marinho</figcaption></figure><p>Para acompanhar o passatempo dos filhos Lúcia Castro, vestida de Comandante Organa, foi pela primeira vez para complementar a fantasia da filha mais velha. “Ela me pediu e não tive como dizer não, isso é o que ela mais ama fazer e quero saber toda a trajetória disso”. Pela segunda vez fantasiada como Rey de Star Wars, Beatriz Castro admira a ideia de se reinventar e ser outra pessoa por um dia, além de se sentir importante quando conhecida pelos fãs desse entretenimento.</p><p>Amantes da cultura japonesa, as amigas Luciene Narayama e Maria Fernanda Souza são apaixonadas pela cultura japonesa. “Ocasiões como essa me deixa mais fascinada com o Japão e o que ele pode passar para o mundo”, explica Maria Fernanda, de 17 anos. Ao falar sobre os cosplayers, Luciene destaca o esforço de quem se dedica a esse hobby. “Fico encantada com a dedicação deles. Eles não só se vestem como o papel, eles são os próprios personagens”.</p><p><strong>Ana Carolina Marinho 5º período</strong></p></main>"
+  },
+  "date": "2018-03-14T12:42:56",
+  "date_gmt": "2018-03-14T15:42:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Admiradores de animes, mangas e heróis apreciam evento nesse domingo</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1782"
+  },
+  "id": 1782,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-sK",
+  "link": "https://agenciauvabarra.com/2018/03/14/da-ficcao-para-a-realidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:27:40",
+  "modified_gmt": "2019-02-26T00:27:40",
+  "ping_status": "open",
+  "slug": "da-ficcao-para-a-realidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Da ficção para a realidade"
+  },
+  "type": "post"
+}

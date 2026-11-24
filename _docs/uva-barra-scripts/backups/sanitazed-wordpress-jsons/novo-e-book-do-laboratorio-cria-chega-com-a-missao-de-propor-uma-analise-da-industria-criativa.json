@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11690/revisions/11708",
+        "id": 11708
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11690"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11690",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 14,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11690/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11690"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11703"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11690",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11690",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    5557381,
+    17964,
+    7114
+  ],
+  "class_list": [
+    "post-11690",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-economia-criativa",
+    "category-educacao",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Publicação destaca pesquisa de estudantes do curso de Publicidade</em></p><p>O CRIA, laboratório de pesquisa do campus Barra, lança o segundo e-book com o título: “Territórios Criativos: Cidade, Criatividade & Cultura”. A obra aproxima os estudantes de Publicidade da Universidade Veiga de Almeida à Indústria Criativa.</p><p>O professor Leonardo Amato foi o responsável por organizar a coletânea de artigos acadêmicos do Laboratório de Estudos Integrados em Criatividade e Economia Criativa. A ideia começou a ser desenvolvida em 2020, em meio às dificuldades impostas pelo período pandêmico. “Os estudantes-pesquisadores buscaram analisar os territórios criativos, a relação das novas profissões virtuais e o impacto da pandemia através do olhar da Economia Criativa, das transformações de trabalho e o papel da cultura nos espaços e como signo criativo”, comenta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-09-at-17.26.22-1.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\" /><figcaption>Através dos pesquisadores-estudantes, o novo exemplar abraça a teoria e a prática. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-05-at-12.59.16.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\" /><figcaption>A partir da leitura da seção, o autor deseja criar um espaço de entendimento sobre o consumo das mídias digitais. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-03-18-at-14.47.31.jpeg?resize=1200%2C1599&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1599\" /><figcaption>Renata Feital ressalta a atuação positiva das Agências e Laboratórios da UVA. (Foto: Arquivo Pessoal)</figcaption></figure><p>São cinco capítulos divididos em 68 páginas. Alunos e pesquisadores ajudaram a tornar realidade a pesquisa documentada durante o período de virtualização, esse método de ensino virtual possibilitou a colaboração dos discentes dos três campi. “Foi muito importante documentar o resultado da primeira turma de Economia Criativa. Os alunos de Publicidade puderam pensar soluções para territórios através da criatividade”, fala o organizador</p><p><strong>Leonardo Amato destaca a ação do CRIA.</strong></p><figure><div class=\"wp-block-embed__wrapper\"><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/sRoHdV-IptI?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><br>Quem integra o time de autores é Lucas Matias. O egresso de Publicidade e Propaganda é autor do capítulo dois: “O Youtube e a Construção da Identidade Infantil”. Para construir o artigo, foi levado em conta uma análise de dados por meio de pesquisas encaminhadas para pais, além de considerar, também, o que os filhos assistem na plataforma. Segundo Lucas, a oportunidade de participar do projeto é uma chance de ser reconhecido por expoentes da comunicação.</p><blockquote><p>“A experiência me abriu os olhos e transformou a forma como eu entendo o poder da mídia digital, e dos influenciadores em cima da construção identitária das crianças”</p><cite>Lucas Matias</cite></blockquote><p><strong>Lucas Matias explica a proposta do capítulo dois.</strong></p><figure><div class=\"wp-block-embed__wrapper\"><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Lucas Matias explica a proposta do capítulo by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1262911036&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></div></figure><p>Produções científicas na faculdade são diferenciais no currículo. Para Renata Feital, coordenadora dos cursos de Publicidade e Jornalismo, o e-book tem o mesmo peso relevante de um livro hoje, e ter no currículo um artigo publicado nesta configuração já é um diferencial para o recém chegado no mercado de trabalho. “Só ajuda na formação profissional, aliás o CRIA é um laboratório para incentivar a publicação dos alunos”, conclui Feital.</p><p>“Territórios Criativos: Cidade, Criatividade & Cultura” já está disponível na <a href=\"https://ojs.uva.br/index.php/revista-registro/catalog/category/ebook_cria_2022\">OJS</a>, uma plataforma de publicação da UVA, e no sistema de biblioteca da universidade.</p><p><em>Pedro Amorim – 6º período</em></p></main>"
+  },
+  "date": "2022-05-09T18:05:49",
+  "date_gmt": "2022-05-09T21:05:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O CRIA, laboratório de pesquisa do campus Barra, lança o segundo e-book com o título: “Territórios Criativos: Cidade, Criatividade &amp; Cultura”. A obra aproxima os estudantes de Publicidade da Universidade Veiga de Almeida à Indústria Criativa.</p>\n"
+  },
+  "featured_media": 11703,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11690"
+  },
+  "id": 11690,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/capa-site-agencia-2022-4.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-32y",
+  "link": "https://agenciauvabarra.com/2022/05/09/novo-e-book-do-laboratorio-cria-chega-com-a-missao-de-propor-uma-analise-da-industria-criativa/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-05-09T18:31:36",
+  "modified_gmt": "2022-05-09T21:31:36",
+  "ping_status": "open",
+  "slug": "novo-e-book-do-laboratorio-cria-chega-com-a-missao-de-propor-uma-analise-da-industria-criativa",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Novo e-book do Laboratório CRIA chega com a missão de propor uma análise da Indústria Criativa"
+  },
+  "type": "post"
+}

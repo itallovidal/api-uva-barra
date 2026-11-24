@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/856/revisions/3327",
+        "id": 3327
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=856"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/856",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/856/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=856"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=856",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=856",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-856",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/minorias.jpg?resize=1858%2C844&#038;ssl=1' alt='minorias' width='1858' height='844' /><figcaption>Dante Ribeiro, negro e bissexual e Lucca Alexandrino, mulher trânsgênero</figcaption></figure><p>Eles enfrentam todos os desafios típicos da juventude: puberdade, relacionamentos, escolha de profissão e primeiro emprego. Tudo isso, vulneráveis à falta de experiências e ao modo intenso de viver próprios dessa fase. No entanto, para eles, esses obstáculos ainda são somados e potencializados por outros, pois fazem parte das ditas minorias sociais do país. Transgêneros, mulheres, negros, pessoas com deficiência, homossexuais, trabalhadores do sexo, indígenas, imigrantes são algumas das coletividades que sofrem processos de estigmatização e discriminação, resultando em desigualdade e exclusão. Para esses jovens, essa fase da vida pode ser bem mais complexa e cruel apenas por não fazerem parte do padrão socialmente construído e aceito pela maioria.</p><p>De forma curiosa e até irônica, essa maioria, muitas vezes, é minoria em números – como indicam os dados do Instituto Brasileiro de Geografia e Estatística (IBGE) do último censo, em 2010, quanto aos cidadãos que se declaram brancos no Brasil – cerca de 47,33% da população. Nesse sentido, é possível constatar que o padrão historicamente construído – e aceito pela sociedade – que representa uma minoria é o mesmo que ofusca e oprime a liberdade e os direitos daqueles excluídos socialmente.</p><p>Essa realidade se reflete diretamente na vida de jovens como Dante Ribeiro, 20 anos, estudante de História, negro e bissexual. “A escola, por exemplo, é um centro de preconceito. Lá tudo é socializado em forma de brincadeiras e de discursos agressivos. Eu tinha sobre minhas costas racismo e homofobia – condições que jovens brancos, cisgêneros e héteros não têm”, ressalta Dante, que afirma ter tido sua negritude negada e amenizada pelos colegas de classe. “Eu era chamado de moreno claro e me via assim, pois era ofensivo ser preto. Até a minha autoaceitação como negro é uma resistência. Por isso, ser jovem negro no Brasil é resistir”.</p><p>No entanto, no Brasil, nem sempre todos conseguem resistir. Um jovem negro, entre 15 e 29 anos, a cada 23 minutos é assassinado no país. São 63 por dia e cerca de 23.100 anualmente, de acordo com o relatório final da Comissão Parlamentar de Inquérito do Senado (CPI) sobre Assassinato de Jovens de 2016. O livro “Rota 66”, do jornalista Caco Barcellos, foi resultado de sete anos de pesquisa e mostrou que parte desses números está relacionada à violência policial. O jornalista revela que o número de mortes – 7.500 a 8.000 – pela Polícia Militar, entre 1970 e 1992 na cidade de São Paulo, é maior que muitas guerras e batalhas brasileiras, como a Guerra dos Farrapos – 1000 – e os levantes da Sabinada e Cabanagem – 1300. O perfil das vítimas: homem jovem, 20 anos, negro ou pardo, pobre e trabalhador sem especialização.</p><p>Essa são as descrições de Victor Augusto, 19 anos, atendente em uma cafeteria, negro e vítima da violência policial. O ano é 2016 – 25 anos depois da pesquisa de Caco Barcellos, mas poderia ser um dos casos do “Rota 66” . Victor, ao sair do trabalho, foi parado por uma viatura policial próximo à estação de metrô do Estácio. Ele foi algemado e levado na parte de trás do carro, onde foi ameaçado com uma arma em sua direção a não olhar o caminho. “Fui levado para o que parecia ser um campo de futebol descuidado. Lá tinha um homem branco morto no chão. Me jogaram na frente dele e começaram a repetir que eu o tinha matado. Eu só conseguia chorar e negar”, relata Victor, que logo após foi liberado a pedido de um terceiro policial que o fez desmaiar e o largou próximo ao mesmo metrô.</p><p>Esse é um caso que escandaliza e causa revolta na maioria das pessoas. É a negligência corriqueira do Estado com os jovens brasileiros. No entanto, diariamente, à luz do dia e em todos os lugares, a dignidade e a liberdade das minorias sociais são atacadas em “pequenos” detalhes que causam grandes estragos. Mayleh Ribeiro, 19 anos, mulher, negra e bissexual carrega consigo vários casos de machismo, assédio, racismo e bifobia, que culminaram em um Transtorno de Ansiedade Generalizada (TAG), depressão e baixa autoestima. “Sempre estudei em escola particular pelo esforço que minha mãe fazia. Agora você imagina uma preta, classe média baixa, estudando com a elite da cidade? Não foi uma experiência boa (risos). Precisei fazer tratamento psicológico e psiquiátrico”, revela Mayleh, que hoje faz parte do “Projeto Empodera”, que propaga o empoderamento da mulher negra por meio de palestras e ação comunitária.</p><p>Muitos jovens que sofrem pela exclusão social, assim como Mayleh, veem na militância uma forma de ajudar a amenizar esses estragos no futuro. Fellipe Rangel, 27 anos, surdo oralizado é militante e ministra palestras para disseminar a cultura surda. Ele, como muitos, sofre do estigma da pessoa com deficiência que é vista como incapaz e com inferioridade. “Os ouvintes são muito preconceituosos. Tive muita dificuldade de relacionamento, mas aprendi a lidar com elas”, declara Fellipe, que lamenta que haja uma barreira entre surdos e ouvintes. “A maioria das pessoas com deficiência só tem amigos com deficiência e isso gera um pouco de tristeza, pois todos nós temos limitações”. Fellipe conclui que tenta mudar isso ensinando para os ouvintes o modo acessível para se comunicar com ele. “Por exemplo, quando você quiser falar comigo, me toque ou balance a mão para que eu te dar atenção. Mas muitas vezes as pessoas não têm paciência”.</p><p>Essa falta de inclusão comunicacional é um sério problema humanitário que separa esses dois mundos – surdos e ouvintes – que vivem em um mesmo país, mas são segregados também pela comunicação. O Brasil é bilíngue, mas poucos sabem. A Língua de Sinais Brasileira (Libras) é a segunda língua oficial do país, reconhecia pela lei Nº 10.436, em 24 de abril de 2002, no entanto pouco ensinada nas escolas. A intérprete e professora de Libras, Agne França, ouvinte e amante da causa, reconhece essa barreira mas ressalta que o maior desafio da pessoa surda hoje é não ser subestimada e por consequência, excluída. “A sociedade os vêm como coitados, como não capazes, pessoas que não vão se desenvolver: ditos ‘não-normais’. A cultura surda não é compreendida”, declara a professora que acredita que falta investimento em intérprete nas escolas e representatividade na mídia. “Quando as pessoas perceberem que os surdos são capazes, apesar das suas limitações – e quem não tem? – o mundo será melhor para os dois lados”. Segundo o IBGE cerca 9,7 milhões de brasileiros possuem deficiência auditiva – o que representa 5,1% da população brasileira.</p><p>Outros números que também são negligenciados são os de homicídio da população LGBT (Lésbicas, Gays, Bissexuais e Transexuais) no Brasil: 347 mortes, em 2016, de acordo com o relatório da Grupo Gay da Bahia (GGB), mais antiga associação de defesa dos homossexuais e transgêneros do país. Na pesquisa, 42% dessas vítimas eram transgêneros – pessoas que se identificam com o gênero diferente do que foi atribuído no nascimento baseado na genitália. A pesquisa da Rede Trans Brasil mostrou que o Brasil é líder no mundo em mortes por transfobia, tornando a juventude desse grupo mais que um desafio, um ato de resistência. Segundo o último censo do IBGE, de 2013, a expectativa de vida desse grupo social não passa dos 35 anos, menos da metade da média nacional, 74,9 anos.</p><p>Para eles, de uma simples ida ao banheiro à retirada da carteira de identidade com o gênero e nomes corretos, tudo pode virar um grande ato de opressão, agressão e até morte. A jovem Louise Silva, 24 anos, mulher transgênero e trabalhadora do sexo, relata que passou por um dos piores momentos da sua vida aos 21 anos, na casa de shows “Olimpo”, no bairro Penha, Rio de Janeiro, quando foi proibida de usar o banheiro feminino e teve que usar o masculino. “Estava cheio de homens bêbados que gritavam fazendo ‘piadas, porque esses homens nos veem como objeto sexual. Me tranquei no box e eles tentaram entrar por cima e abrir a porta. Fiquei em desespero”, relembra Louise que foi retirada do banheiro com segurança por um funcionário da casa. A jovem também conta que começou a transição de forma tardia, aos 18 anos, por falta de informação sobre o tema. Sem apoio familiar, saiu de casa e viu como única opção, para sobreviver com o gênero verdadeiro, a prostituição.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/18685402_1885576475092154_1357040673_n.jpg?resize=480%2C400&#038;ssl=1' alt='18685402_1885576475092154_1357040673_n' width='480' height='400' /><figcaption>Louise Silva, antes e depois da transição de gênero</figcaption></figure><p>Essa busca por reconhecimento do próprio gênero é a principal angústia desses jovens. A estudante de Moda Lucca Alexandrino, 24 anos, mulher transgênero, desde os 12 anos via nos jogos online um refúgio, uma forma de escapismo. “Sempre joguei com personagens femininos porque eu queria aquele cabelão, as roupas, era o que eu me identificava. Durante muito tempo foi o único lugar onde eu podia ser eu mesma”, revela. Lucca também chama atenção para os direitos e privilégios dos cisgêneros – pessoa que se identifica com o sexo que nasceu -, que os transgêneros não têm, como direito ao nome, a identificação e ao respeito da sociedade como cisgênero. “Você não vai ser expulso de casa por ser cis, não vai ser obrigado a ficar nos grupos sociais que são divididos por gêneros, entre outras coisas”. Ela também reconhece que faz parte da camada privilegiada, dentro da realidade trans, pois não aparenta fisicamente ter o gênero que nasceu, o que a deixa menos exposta à transfobia. No entanto, lamenta que ainda haja essa problemática.</p><p>Lucca, Mayleh, Dante, Louise, Fellipe e Victor são apenas alguns exemplos dos milhares de jovens que têm suas vozes, direitos e liberdade oprimidos. A doutoranda em Psicologia Social Jimena de Garay é uma entre – ainda – poucas que fizeram das minorias sociais jovens sua causa e carreira. “Meu objetivo é potencializar essas vozes e desestabilizar os discursos e práticas que sustentam ao sujeito universal, entendido como homem, branco, heterossexual, cis, burguês, dos países do norte global e adulto como detentor do poder e do conhecimento”, explica Jimena, que afirma que esses jovens são excluídos dos sistemas de educação, trabalho, saúde e, por isso, dificilmente chegam a lugares de produção de conhecimento ou de incidência política – emudecendo-os cada vez mais.</p><p>A responsabilidade é do Estado. A doutoranda reconhece os avanços no que tange aos Direitos Humanos a partir da Constituição de 1988, sendo o Estatuto da Criança e Adolescente (ECA) um grande exemplo. No entanto, observa que não há rigor na prática. “Dificilmente o que foi colocado em documentos oficiais é executado, pois as instituições são adultocêntricas”. O avanço recente do conservadorismo no Brasil também é uma das preocupações de Jimena. “É assustador ver o quanto isso tem obstaculizado a busca da igualdade feita há décadas aqui”. Ela também destaca a importância do acesso à educação crítica – que alerta estar também sendo freada pelos governantes – para que haja uma real mudança no futuro. “Precisamos falar sobre igualdade de gênero, diversidade sexual, igualdade racial, sobre tolerância religiosa. De outra forma, continuaremos marginalizando as juventudes das minorias sociais e produzindo cada vez mais violência”.</p><p><strong>Yhara Linka, 6º período.</strong></p></main>"
+  },
+  "date": "2017-06-07T13:49:41",
+  "date_gmt": "2017-06-07T16:49:41",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Eles enfrentam todos os desafios típicos da juventude: puberdade, relacionamentos, escolha de profissão e primeiro emprego. Tudo isso, vulneráveis à falta de experiências e ao modo intenso de viver próprios dessa fase. No entanto, para eles, esses obstáculos ainda são somados e potencializados por outros, pois fazem parte das ditas minorias sociais do país. Transgêneros, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=856"
+  },
+  "id": 856,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-dO",
+  "link": "https://agenciauvabarra.com/2017/06/07/resistir-para-existir-2/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:50:27",
+  "modified_gmt": "2019-02-28T19:50:27",
+  "ping_status": "open",
+  "slug": "resistir-para-existir-2",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Resistir para existir"
+  },
+  "type": "post"
+}

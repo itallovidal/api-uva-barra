@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4309/revisions/4320",
+        "id": 4320
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4309"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4309",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4309/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4309"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4312"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4309",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4309",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-4309",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-festival-de-cinema-da-era-nuclear",
+    "tag-international-uranium-film-festival",
+    "tag-museu-de-arte-moderna-do-rio",
+    "tag-os-tres-sobreviventes-de-hiroshima"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Festival de cinema da Era Nuclear relembra primeiro ataque atômico após 74 anos</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/thumbnail_img_1818.jpg?resize=1280%2C960&amp;ssl=1' alt='Os sobreviventes Takashi Morita e  Kunihiko Bonkohara ao lado do diretor Rogério Nagai e  da fundadora do evento Márcia Gomes' width='1280' height='960' /><figcaption>Os sobreviventes Takashi Morita e  Kunihiko Bonkohara ao lado do diretor Rogério Nagai e  da fundadora do evento Márcia Gomes – Foto: Luma Keily</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/thumbnail_img_1779-e1559225004978.jpg?resize=1191%2C713&amp;ssl=1' alt='Exposição de Fotos na entrada do evento' width='1191' height='713' /><figcaption>Exposição de Fotos na entrada do evento – Foto: Luma Keily</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/thumbnail_img_1877.png?resize=1136%2C640&amp;ssl=1' alt='Apresentação de dança contemporânea de alunos do Curso Técnico em Dança da Eteab/Faetec' width='1136' height='640' /><figcaption>Apresentação de dança contemporânea de alunos do Curso Técnico em Dança da Eteab/Faetec – Foto: Luma Keily</figcaption></figure><p>A nona edição do International Uranium Film Festival trouxe a discussão de um assunto sério: os perigos radioativos e nucleares pelo olhar da arte. O evento aconteceu no domingo (26/5), na cinemateca do Museu de Arte Moderna do Rio e deu voz aos sobreviventes da bomba de Hiroshima, Takashi Morita e Kunihiko Bonkohara, e ao diretor do espetáculo “Os três sobreviventes de Hiroshima”, Rogério Nagai.</p><p>O festival considera os filmes como um importante instrumento para levar informação ao grande público. Sendo assim, o documentário, “O Sr. Morita”, dirigido por Roberto Fernández, foi exibido e a história de Takashi Morita foi motivo de aplausos e lágrimas do público presente.</p><blockquote>“Vou continuar contando minha história e acreditando na paz. Espero que outras pessoas possam se juntar a mim, pois esse é um caminho longo, o qual não podemos trilhar sozinhos.” – Fragmento do livro “A última mensagem de Hiroshima”, por Takashi Morita.</blockquote><p>Para instaurar uma cultura de paz, Rogério Nagai, fundador do projeto “Sobreviventes pela Paz” e diretor do espetáculo “Os três sobreviventes de Hiroshima”, diz ser necessário revisitar o passado. Por isso, enxerga o fato de participarem do festival como algo importante. “Eu me sinto no dever, realmente, de conscientizar as pessoas mesmo, e de lutar contra isso”, relata Nagai.</p><p>Gabriela Werneck participou do festival e afirma que tanto o documentário, quanto a palestra e o bate-papo, permitiram que tivesse a impressão da vergonha e maldade do ser humano. ”Qual o limite que não afeta o outro?”, refletiu a atriz. Foi nesse contexto que a Márcia Gomes, fundadora e Diretora Executiva do evento, falou que o Uranium Film Festival é assunto para todos. “Não tem fronteiras”.</p><p>Confira um trecho da apresentação de dança contemporânea, de alunos do Curso Técnico em Dança da Eteab/Faetec, em homenagem aos sobreviventes da bomba de Hiroshima.</p><figure><iframe src='https://www.youtube.com/embed/hhJKL-3O6zE?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Luma Keily – 1º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-05-30T11:07:18",
+  "date_gmt": "2019-05-30T14:07:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Festival de cinema da Era Nuclear relembra primeiro ataque atômico após 74 anos A nona edição do International Uranium Film Festival trouxe a discussão de um assunto sério: os perigos radioativos e nucleares pelo olhar da arte. O evento aconteceu no domingo (26/5), na cinemateca do Museu de Arte Moderna do Rio e deu voz [&hellip;]</p>\n"
+  },
+  "featured_media": 4312,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4309"
+  },
+  "id": 4309,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/thumbnail_img_1818.jpg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-17v",
+  "link": "https://agenciauvabarra.com/2019/05/30/nunca-mais-hiroshima/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-30T11:07:18",
+  "modified_gmt": "2019-05-30T14:07:18",
+  "ping_status": "open",
+  "slug": "nunca-mais-hiroshima",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    680668223,
+    69274220,
+    10139805,
+    680668200
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Nunca mais Hiroshima"
+  },
+  "type": "post"
+}

@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9761/revisions/9775",
+        "id": 9775
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9761"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9761",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9761/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9761"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9767"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9761",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9761",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    18330,
+    7114
+  ],
+  "class_list": [
+    "post-9761",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-institucional",
+    "category-sociedade",
+    "tag-genero-fluido",
+    "tag-mes-do-orgulho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Gênero fluido, ou genderfluid em Inglês, está ganhando espaço e voz na sociedade</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/foto-bandeira-1.png?resize=2000%2C1200&amp;ssl=1\" alt=\"\" width=\"2000\" height=\"1200\" /><figcaption>De acordo com o Diversity BBbox, as cores da bandeira do gênero fluido representam a feminilidade (rosa), ausência de gênero (branco), combinação de masculinidade e feminilidade (roxa), todos as identidades de gênero distintas do homem ou mulher (preto) e masculinidade (azul). (Foto: Reprodução Internet)<br></figcaption></figure><p>Gênero: aquilo que diferencia socialmente as pessoas entre homem e mulher. Esse era o conceito dominante até pouco tempo atrás. Entretanto, a Comissão de Direitos Humanos de Nova York (EUA) reconheceu mais de 30 gêneros oficialmente, entre eles o gênero fluido. A ideia da fluidez é quase literal: gênero fluido é aquele que transita entre os gêneros.</p><p>A atriz Bárbara Paz e a cantora Demi Lovato se assumiram como gêneros fluidos. A Disney trouxe um personagem de gênero fluido, o Loki, da franquia Marvel, e fez história no mês do orgulho LGBTQIA+. Hoje, a manifestação é pelo respeito às pessoas do gênero fluido para que elus tenham a liberdade de ser quem são de direitos fundamentalmente humanos.</p><p>Eduardo Bianchi, professor de Comunicação Social da UVA, explica que o gênero fluído tem uma relação pessoal atemporal, não fixa. A pessoa flui entre os gêneros, assim como o nome “fluído” descreve, ou seja, é um processo em que elu pode se identificar como homem e mulher, como também fora do vínculo binário.</p><p>Noah Souto (sobrenome fictício) estuda psicologia e se declara como uma pessoa do gênero fluido. Elu recebe o apoio de amigos, mas informou que ainda não é assumide para a família. “Quando criança eu brincava de ser menino, de ser o pai, de ser sempre o homem da relação. Hoje em dia, eu entendo o motivo disso, porque me sinto tanto homem quanto me sinto mulher”, disse Noah.</p><p>Os amigos e a namorada de Noah têm preocupação e cuidado em utilizar corretamente os pronomes neutros, assim como, elu prefere que as pessoas se refiram com o último pronome de preferência delu. Ao encarar o preconceito, Noah tenta explicar de forma resumida para que as pessoas possam entender. “Acho que tudo é uma falta de informação, às vezes dói, não posso negar”, contou Noah.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/grazi.jpg?resize=1024%2C1024&amp;ssl=1\" alt=\"\" width=\"1024\" height=\"1024\" /><figcaption>Para a professora e coordenadora de Letras, a inclusão dos pronomes neutros da Língua Portuguesa na área da educação pode desenvolver o respeito ao próximo e às suas diferenças. (Foto: Arquivo Pessoal)\n</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/bianchi.jpg?resize=828%2C819&amp;ssl=1\" alt=\"\" width=\"828\" height=\"819\" /><figcaption>Eduardo Bianchi, professor de comunicação social da Universidade Veiga de Almeida e pesquisador sobre gênero e sexualidade, alerta as pessoas sobre a complexidade desse tema. (Foto: Arquivo Pessoal)\n</figcaption></figure><p>Segundo levantamento da revista científica Nature, cerca de 1,2% da população brasileira, ou 3 milhões de pessoas, rejeitam o modelo de gênero feminino e masculino. O gênero fluido traz outras questões como o gênero não binário, que podem ou não fazer parte desse grupo. “É um processo muito complexo de auto identificação da pessoa”, afirma Eduardo.</p><p>Além da auto identificação, o reconhecimento da própria identidade pelos outros também é importante. Os pronomes neutros atendem as pessoas de gênero fluido e utilizá-los corretamente é fundamental num diálogo ou conversa. A língua tem uma questão cultural e sempre deve-se perguntar sobre qual pronome a pessoa se identifica, e como elu quer ser chamade. “Deve se evitar o X e o @, pois eles são difíceis de pronunciar, difíceis de identificar, tem uma questão com pessoas com deficiência visual e a utilização da letra “e” é o ideal”, declarou o professor.</p><blockquote><p> “Uso dois nomes, um quando me sinto mulher e outro quando me sinto homem. Noah é significado de liberdade” </p><cite>Noah Souto</cite></blockquote><p>Graziela Mota é professora e coordenadora do curso de letras da Universidade Veiga de Almeida e ela tem a preocupação em usar uma linguagem plural e diversa, uma vez que empatia e respeito são a base nas aulas da Graziela. “Sempre tento usar os pronomes referentes ao gênero fluido, principalmente quando a comunicação é feita através de um texto – aviso aos alunos. O exemplo, quando oriundo do docente, tem um efeito importante: didático”, afirmou a professora.</p><p>A Língua é responsável pela interação comunicacional entre emissor e receptor da mensagem, escrita, ação da leitura e interpretação. O processo da linguagem se configura como uma importância pessoal e coletiva aos indivíduos diariamente, como também, é a base para a sociedade realizar a função da comunicação.</p><blockquote><p>“O uso dos pronomes referentes ao gênero fluido pode fazer com que haja uma maior aproximação entre os falantes do português, principalmente no contexto de ensino-aprendizagem” </p><cite>Graziela Mota</cite></blockquote><p><strong>Graziela Mota, professora de letras, fala sobre a importância do debate sobre a diversidade no vídeo abaixo.</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/7LpkG7YlLoI?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>De acordo com a professora, há possibilidade de modificar a Língua Portuguesa para incluir pessoas do gênero fluido e quem não se identifica com os gêneros masculino ou feminino, mesmo com as polêmicas que podem surgir sobre algo considerado como “correto”. “A partir de discussões bem fundamentadas e de muita pesquisa teórica para enfrentar aqueles que defendem a gramática normativa, torna-se possível modificar a Língua Portuguesa para uma língua mais inclusiva e respeitosa”, concluiu a doutoranda em Estudos de Linguagem.</p><p>A luta de Noah é mostrar que as pessoas do gênero fluido existem e fazer faculdade de psicologia significa ajudar pessoas como elu que estão se descobrindo. “Espero que em um futuro próximo as pessoas não tenham tanto preconceito com a questão do gênero fluido”, respondeu Noah.</p><p>Apesar da onda de conservadorismo do Governo Federal vigente, há uma resistência presente para a promoção da inclusão e o respeito para todes. São artistas LGBTQIA+ que usam a voz para levar a representatividade e pessoas que fazem a diferença diariamente num país marcado pela diversidade regional, cultural e social.</p><p><em>Noah Souto (sobrenome fictício) pediu para não ser identificade na matéria por meio de fotos. Elu escolheu</em> <em>não se expor, pois não falou sobre a particularidade pessoal com todos.</em></p><p><em>Pedro Amorim – 4° período</em></p><p><em>Pedro Araújo – 3° período</em></p></main>"
+  },
+  "date": "2021-07-03T17:48:15",
+  "date_gmt": "2021-07-03T20:48:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>ero: aquilo que diferencia socialmente as pessoas entre homem e mulher. Esse era o conceito dominante até pouco tempo atrás. Entretanto, a Comissão de Direitos Humanos de Nova York (EUA) reconheceu mais de 30 gêneros oficialmente, entre eles o gênero fluido. A ideia da fluidez é quase literal: gênero fluido é aquele que transita entre os gêneros. </p>\n"
+  },
+  "featured_media": 9767,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9761"
+  },
+  "id": 9761,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/foto-de-capa.jpeg?fit=761%2C759&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2xr",
+  "link": "https://agenciauvabarra.com/2021/07/03/o-genero-fluido-e-a-promocao-de-respeito-e-inclusao-para-todes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-03T18:07:27",
+  "modified_gmt": "2021-07-03T21:07:27",
+  "ping_status": "open",
+  "slug": "o-genero-fluido-e-a-promocao-de-respeito-e-inclusao-para-todes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    23666244,
+    27768454
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Gênero Fluido e a promoção de respeito e inclusão para todes"
+  },
+  "type": "post"
+}

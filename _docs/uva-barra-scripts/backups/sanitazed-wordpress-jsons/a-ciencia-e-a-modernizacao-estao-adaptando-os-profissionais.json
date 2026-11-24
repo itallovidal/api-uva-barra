@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2608/revisions/3022",
+        "id": 3022
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2608"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2608",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2608/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2608"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2609"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2608",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2608",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    758
+  ],
+  "class_list": [
+    "post-2608",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-hackthink",
+    "tag-hacktudo",
+    "tag-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><strong>Evento discute como se adequar ao novo modelo de mercado</strong></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-04-at-17-35-43-e1541423402245.jpeg?fit=1280%2C720&amp;ssl=1' alt='WhatsApp Image 2018-11-04 at 17.35.43' width='1280' height='720' /><figcaption>The future is now: reunião coloca em foco os novos aspectos do mercado de trabalho – Foto: Julia Morais</figcaption></figure><p>O HACKTUDO 2018 promoveu uma gama de atividades para um público interessado em tecnologia, mas os três dias de evento não foram só de entretenimento. A Cidade das Artes também foi palco para que especialistas pudessem discutir ideias, debater conceitos e refletir sobre as transformações que estão acontecendo por conta das tecnologias digitais, no <em>HACKTHINK.</em></p><p>Um dos debates apresentou como tema uma dúvida cada vez mais frequente – “Novos Empregos: como se preparar?”. O tópico tinha como principal objetivo elucidar questões referentes ao empreendedorismo no futuro – pós tecnologia – e dar dicas de como enfrentar as novas demandas do mercado. O debate contou com a fala da diretora nacional de mídia da agência Propeg, Fatima Rendeiro, e o diretor da Associação Brasileira dos Agentes Digitais (ABRADI), Gustavo Esteves, e foi mediado por Xavier Leclerc – sócio da MOX Digital.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-04-at-17-35-43-1.jpeg?fit=1280%2C795&amp;ssl=1' alt='WhatsApp Image 2018-11-04 at 17.35.43 (1)' width='1280' height='795' /><figcaption>Profissionais trocam opiniões e compartilham ideias durante debate – Foto: Julia Morais</figcaption></figure><p>Em contrapartida a esse receio e confiabilidade das novas plataformas no ramo dos negócios, foram apresentados exemplos que já fazem parte do nosso dia a dia, como o surgimento dos <em>influencers</em> (influenciadores) por meio do Youtube e o crescimento do aplicativo <em>WhatsApp </em>como ferramenta de empresas. “É por isso que faz todo sentido para a carreira profissional hoje estudar tendências e o que é o futuro. Não é exclusividade de futuristas”, pontua Fatima. “Eu preciso me atualizar o mais rápido possível ou eu vou ficar para trás. Isso é fato”.</p><p>A velocidade dessas mudanças pode ser um desafio, mas também é uma oportunidade para aqueles que buscam outros meios de ingressar no mercado de trabalho e alternativas para reformular sua empresa.</p><p><strong>Julia Morais – 6º período</strong></p></main>"
+  },
+  "date": "2018-11-04T21:31:46",
+  "date_gmt": "2018-11-04T23:31:46",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento discute como se adequar ao novo modelo de mercado&nbsp; O HACKTUDO 2018 promoveu uma gama de atividades para um público interessado em tecnologia, mas os três dias de evento não foram só de entretenimento. A Cidade das Artes também foi palco para que especialistas pudessem discutir ideias, debater conceitos e refletir sobre as transformações [&hellip;]</p>\n"
+  },
+  "featured_media": 2609,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2608"
+  },
+  "id": 2608,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-04-at-17-35-43-e1541423402245.jpeg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-G4",
+  "link": "https://agenciauvabarra.com/2018/11/04/a-ciencia-e-a-modernizacao-estao-adaptando-os-profissionais/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:18:27",
+  "modified_gmt": "2019-01-31T13:18:27",
+  "ping_status": "open",
+  "slug": "a-ciencia-e-a-modernizacao-estao-adaptando-os-profissionais",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    653472416,
+    652412568,
+    767056593
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A ciência e a modernização estão adaptando os profissionais"
+  },
+  "type": "post"
+}

@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15945/revisions/15951",
+        "id": 15951
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15945"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15945",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15945/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15945"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15947"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15945",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15945",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15945",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O Powerlifting é a modalidade mais completa do halterofilismo, e o Para-Powerlifting é a prática deste esporte adaptado para pessoas com deficiência, seja física ou não, fazendo a inclusão de Para-atletas. Mas apesar do grande crescimento, a modalidade ainda não faz parte do quadro Paralímpico, e os praticantes buscam chamar atenção para este esporte. Confira abaixo o podcast que fala tudo sobre este assunto!</p><figure><iframe title=\"Spotify Embed: Podcast Rádio UVA Barra: Para-Powerlifting\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/3QEfdhSVpWsCJAPW8L1r4p?si=5MWw1x8aTYqFA2istnLsVg&#038;utm_source=oembed\"></iframe></figure><p>Vinícius Zakhm – 8° período</p></main>"
+  },
+  "date": "2023-09-29T18:33:28",
+  "date_gmt": "2023-09-29T21:33:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Powerlifting é a modalidade mais completa do alterofilismo, e o Para-Powerlifting é a prática deste esporte adaptado para pessoas com deficiência, seja física ou não, fazendo a inclusão de pessoas com problemas auditivos, nanismo ou deficiência visual. Mas apesar do crescimento estar chamando a atenção de todos, a modalidade ainda não faz parte do quadro Paralímpico, e os atletas e treinadores buscam chamar atenção para este esporte que é muito importante na vida das pessoas com deficiência.</p>\n"
+  },
+  "featured_media": 15947,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15945"
+  },
+  "id": 15945,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/fitness-1882721_1280.jpg?fit=1280%2C853&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-49b",
+  "link": "https://agenciauvabarra.com/2023/09/29/podcast-radio-uva-barra-para-powerlifting/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-29T18:49:10",
+  "modified_gmt": "2023-09-29T21:49:10",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-para-powerlifting",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Para-Powerlifting"
+  },
+  "type": "post"
+}

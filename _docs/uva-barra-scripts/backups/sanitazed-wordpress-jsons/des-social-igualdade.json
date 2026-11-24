@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14060/revisions/14062",
+        "id": 14062
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14060"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14060",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14060/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14060"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14063"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14060",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14060",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    632602,
+    7114
+  ],
+  "class_list": [
+    "post-14060",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-diversidade",
+    "category-sociedade",
+    "tag-agenciauvabarra-2",
+    "tag-igualdade",
+    "tag-oportunidades",
+    "tag-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Abordando o ODS 10, que fala sobre a redução das desigualdades, e o tópico 10.3, que tem como objetivo garantir a igualdade de oportunidades e reduzir as desigualdades de resultados, o documentário “Des-Social Igualdade” traz a realidade da vida de estudantes da periferia do Rio de Janeiro, as dificuldades para ingressar no ensino superior e o esse impacto social brasileiro.</p><p>Através de entrevistas e as ações da ONG “Noiz”, localizada na Cidade de Deus, o objetivo do grupo foi fazer com que as pessoas reflitam e debatam sobre esse problema tão presente na cidade do Rio de Janeiro e mostrar a realidade que jovens periféricos.</p><p><strong>Assista!</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/V0pTo6MBtTw?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><em>Documentário produzido para a disciplina de Produção em rádio tv e cinema, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-02-10T17:00:01",
+  "date_gmt": "2023-02-10T20:00:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Abordando o ODS 10, que fala sobre a redução das desigualdades, e o tópico 10.3, que tem como objetivo garantir a igualdade de oportunidades e reduzir as desigualdades de resultados, o documentário “Des-Social Igualdade” traz a realidade da vida de estudantes da periferia do Rio de Janeiro, as dificuldades para ingressar no ensino superior e o esse impacto social brasileiro. </p>\n"
+  },
+  "featured_media": 14063,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14060"
+  },
+  "id": 14060,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/whatsapp-image-2023-02-10-at-17.03.13.jpeg?fit=1600%2C739&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3EM",
+  "link": "https://agenciauvabarra.com/2023/02/10/des-social-igualdade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-02-10T17:04:17",
+  "modified_gmt": "2023-02-10T20:04:17",
+  "ping_status": "open",
+  "slug": "des-social-igualdade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    759705887,
+    759177,
+    189414,
+    767056605
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Des-Social igualdade"
+  },
+  "type": "post"
+}

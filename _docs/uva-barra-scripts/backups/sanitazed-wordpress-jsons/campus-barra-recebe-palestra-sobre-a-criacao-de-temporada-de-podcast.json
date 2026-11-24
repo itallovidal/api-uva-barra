@@ -1,0 +1,189 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15289/revisions/15325",
+        "id": 15325
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15289"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15289",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15289/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15289"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15297"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15289",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15289",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    43377791,
+    18330,
+    22,
+    14603,
+    175,
+    74499,
+    713047979,
+    701438832,
+    758
+  ],
+  "class_list": [
+    "post-15289",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-encontro-com-profissionais",
+    "category-institucional",
+    "category-internet",
+    "category-jornalismo",
+    "category-marketing",
+    "category-mercado-de-trabalho",
+    "category-podseries",
+    "category-radio-uva-barra",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-comunicacao",
+    "tag-mercado",
+    "tag-palestra",
+    "tag-podcast",
+    "tag-trabalho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>André Lopes e Igor Monteiro apresentaram o case do podcast “Lugar da fala”</em></p><p>Na última sexta-feira (7) os alunos dos cursos de comunicação participaram de uma palestra que abordou todas as fases de criação de um podcast, desde como tirar a ideia do zero, produzir, roteirizar, gravar, até a divulgação do produto. O bate-papo contou com André Lopes e Igor Monteiro, ceo’s da plataforma “Expresso Duplo Café”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/andre-lopes.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\" /><figcaption>André Lopes tem 31 anos e nasceu no estado da Bahia. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/igor-monteiro-.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\" /><figcaption>Igor Monteiro é formado em engenharia química. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/julia-alves.jpeg?resize=1024%2C683&amp;ssl=1\" alt=\"\" width=\"1024\" height=\"683\" /><figcaption>Julia Alves afirma que costuma conusmir diversos tipos de podcasts. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/raphaela-sanfins.jpg?resize=1280%2C854&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"854\" /><figcaption>Raphaela Sanfins pensa em produzir um podcast voltado para o público feminino jovem. (Foto: Arquivo Pessoal)</figcaption></figure><p>Os palestrantes são engenheiros de formação, mas encontraram suas carreiras dentro da comunicação. Os dois acabam de estrear a primeira temporada do podcast “Lugar da Fala” com Pedro Salomão e trouxeram as experiências como produtores e consumidores de podcasts e dividiram dicas, além de tirarem dúvidas.</p><p>Um dos destaques da palestra foi o diagrama que mostrava 4 pontos importantes para tirar o podcast do papel e transformar uma ideia em realidade. Abaixo veja como pensar nessa criação:</p><ul><li>Sobre o que amo falar (Paixão)</li><li>Sobre o que as pessoas param pra te ouvir falar (Atenção)</li><li>Quem pararia pra te ouvir falar sobre isso (Nicho/Persona)</li><li>Sobre o que as pessoas precisam ouvir (Necessidade)</li></ul><p>Além da relação com o podcast, a turma conheceu um pouco mais sobre a importância dos processos comunicacionais através das histórias dos palestrantes. Igor Monteiro é engenheiro de formação, mas sempre foi apaixonado pela área da comunicação. Ele é host do podcast “Não linear”, em que recebe pessoas que tiveram uma formação acadêmica e decidiram não seguir à risca as carreiras da graduação. “Eu sempre fui aquele aluno que apresentava os trabalhos na escola e na faculdade. Comunicação sempre foi a ferramenta para que eu pudesse transmitir conteúdo”, afirmou Igor.</p><p>No vídeo abaixo, Igor Monteiro fala sobre a importância deste tipo de evento e contato com os estudantes:</p><figure><iframe src=\"https://www.youtube.com/embed/H7EfNBXQLCw?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>Raphaela Sanfins cursa o 2° período de Publicidade &amp; Propaganda e está pensando em produzir seu próprio podcast: “É sempre bom ouvir de quem já está no mercado o que devemos ou não fazer para começar. Achei isso importante para minha formação”, afirmou a estudante.</p><p>Julia Alves também assistiu a palestra e comentou que é uma grande consumidora de podcasts, principalmente no transporte público e enquanto realiza as tarefas de casa. Além disso, a aluna do 3° período falou sobre sua vontade de criar seu próprio produto: “Quero falar sobre teatro e entretenimento, e utilizar deste espaço para colocar em prática o que eu estudo no curso de jornalismo”, afirmou. Segundo Julia, o evento ajudou na construção da vida acadêmica, confira no áudio abaixo:</p><figure><iframe loading=\"lazy\" title=\"Julia fala sobre o impacto do evento na sua vida acadêmica. by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1562035294&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></figure><p>André Lopes também é graduado em Engenharia Civil, mas fez transição de carreira e atua como professor, consultor e mentor em comunicação. No vídeo abaixo ele explica como foi essa mudança:</p><figure><iframe src=\"https://www.youtube.com/embed/LJbGKRC1isI?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>A palestra serviu como encerramento da disciplina de Web Rádio e Podcast para as turmas trimestrais de Jornalismo e Publicidade &amp; Propaganda, que tiveram as aulas ministradas pelos professores Daniel Paes e Anderson Barreto. “É importante vermos profissionais do mercado em contato com os alunos. A faculdade tem quebrado esse muro entre a teoria, a prática e o mercado, e eu gosto muito disso. O podcast é o produto de comunicação que mais tem tido visibilidade, e é preciso entender que existe um processo necessário para ele acontecer. Não é só juntar todo mundo com um gravador e apertar o “REC”, é um produto sonoro que precisa ser pensado para quem vai ouvir”, comentou o professor Anderson Barreto, responsável pela produção do evento.</p><p><em>Igor Concolato – 3° período</em></p></main>"
+  },
+  "date": "2023-07-11T14:47:01",
+  "date_gmt": "2023-07-11T17:47:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Na última sexta-feira (7) os alunos dos cursos de comunicação participaram de uma palestra que abordou todas as fases de criação de um podcast, desde como tirar a ideia do zero, produzir, roteirizar, gravar, até a divulgação do produto. O bate-papo contou com André Lopes e Igor Monteiro, ceo’s da plataforma “Expresso Duplo Café”.</p>\n"
+  },
+  "featured_media": 15297,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15289"
+  },
+  "id": 15289,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/foto-de-capa.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3YB",
+  "link": "https://agenciauvabarra.com/2023/07/11/campus-barra-recebe-palestra-sobre-a-criacao-de-temporada-de-podcast/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-12T15:18:57",
+  "modified_gmt": "2023-07-12T18:18:57",
+  "ping_status": "open",
+  "slug": "campus-barra-recebe-palestra-sobre-a-criacao-de-temporada-de-podcast",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    46245,
+    85628,
+    410667,
+    1142,
+    767056610
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Campus Barra recebe palestra sobre a criação de temporada de podcast "
+  },
+  "type": "post"
+}

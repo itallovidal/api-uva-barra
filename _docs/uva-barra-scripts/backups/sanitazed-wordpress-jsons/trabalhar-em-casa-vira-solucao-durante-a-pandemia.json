@@ -1,0 +1,155 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7586/revisions/7589",
+        "id": 7589
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7586"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7586",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7586/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7586"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7586",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7586",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    703299214,
+    14591
+  ],
+  "class_list": [
+    "post-7586",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-sociedade",
+    "category-teoria-e-tecnica-da-noticia",
+    "category-trabalho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O mundo passa por um momento delicado e inesperado em 2020. Uma pandemia causada por um vírus letal e a recomendação é para permanecer em casa a qualquer custo. Se for para sair e realizar alguma tarefa de extrema importância, o uso de máscara é obrigatório. No meio dessa crise e da quarentena, as empresas tiveram que se adaptar e permitir o trabalho em home office, para a segurança de todos.</p><p>A gestora de expansão da Naturgy, Vanessa Alves da Silva, de 46 anos, afirma que teve dificuldades para se adaptar. “Foi estranho, por eu estar acostumada com o escritório, em visitar o cliente e consultar a verdade que eles falam. Além disso, houve a dificuldade que foi para passar as ferramentas do PC do trabalho para o particular. Meu PC pifou e eu tive que comprar outro”.</p><p>Vanessa também acredita que, após essa pandemia passar, o home office será mais frequente. “Acho que vai ter dia em que vou estar em casa, outros em que vou estar no campo. As empresas vão se adaptar após essa experiência”. Para ela, essa é a realidade atual, e é necessário se reinventar para não ficar para trás.</p><p>Em contraponto, existem pessoas que antes mesmo dessa pandemia acontecer, já haviam trocado o ambiente de trabalho externo para o interno. É o caso da advogada Cláudia Domingos de Souza. “Trabalhei em ambiente corporativo por 20 anos, num sistema bem tradicional, mas hoje estou bem adaptada ao home office”. Ela afirma com toda certeza que prefere o trabalho em casa. “Meu voto é 100% para home office. Acredito que a tranquilidade, a segurança e a flexibilidade de ação que o funcionário tem tornam o trabalhador mais produtivo”.</p><p>Breno Alves da Silva – 3º Período | Jornalismo</p></main>"
+  },
+  "date": "2020-09-01T14:00:00",
+  "date_gmt": "2020-09-01T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O mundo passa por um momento delicado e inesperado em 2020. Uma pandemia causada por um vírus letal e a recomendação é para permanecer em casa a qualquer custo. Se for para sair e realizar alguma tarefa de extrema importância, o uso de máscara é obrigatório. No meio dessa crise e da quarentena, as empresas [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7586"
+  },
+  "id": 7586,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Ym",
+  "link": "https://agenciauvabarra.com/2020/09/01/trabalhar-em-casa-vira-solucao-durante-a-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-13T14:00:51",
+  "modified_gmt": "2020-08-13T17:00:51",
+  "ping_status": "open",
+  "slug": "trabalhar-em-casa-vira-solucao-durante-a-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Trabalhar em casa vira solução durante a pandemia"
+  },
+  "type": "post"
+}

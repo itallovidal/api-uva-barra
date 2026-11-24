@@ -1,0 +1,191 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14997/revisions/15045",
+        "id": 15045
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14997"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14997",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14997/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14997"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15011"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14997",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14997",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    17964,
+    43377791,
+    72063,
+    54927,
+    858951,
+    74499,
+    6955,
+    72064
+  ],
+  "class_list": [
+    "post-14997",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-educacao",
+    "category-encontro-com-profissionais",
+    "category-enfermagem",
+    "category-engenharia",
+    "category-eventos-internos",
+    "category-mercado-de-trabalho",
+    "category-nutricao",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-comunidade",
+    "tag-cursos",
+    "tag-integracao",
+    "tag-projeto",
+    "tag-senac",
+    "tag-uva",
+    "tag-visita"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Atividade imersiva é a última etapa do programa \"Ser profissional\"</em></p><p>Cerca de 50 estudantes que integram o grupo das turmas do \"Portal do Futuro\" tiveram a oportunidade de visitar o Campus universitário da Veiga de Almeida e aprender mais sobre alguns cursos, além de participar de atividades práticas. O evento \"Workshop das profissões\" foi realizado em duas datas, no dia 31/05, os alunos tiveram contato com os cursos de Enfermagem e Nutrição, já no dia 07/06, Engenharias e Arquitetura e Urbanismo foram tema de debate.</p><p>O projeto \"Portal do Futuro\" do SENAC-RJ tem o objetivo de preparar os jovens para a vida profissional e pessoal. O programa é dividido em três etapas, sendo elas: \"Ser Pessoa\", que trabalha o autoconhecimento do indivíduo, o \"Ser Cidadão\", momento que se discute sobre a cidadania do estudante na comunidade em que vive, e o \"Ser Profissional\", etapa que foi concluída na última semana, e aborda os planos de carreira para o futuro dos alunos. Nesta última parte, os jovens participam de dinâmicas como Workshops, simulações de processos seletivos e desfile das profissões.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/img_2410.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Alessandro Santana afirma que o evento é sensacional para UVA e para os alunos presentes na visita. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/whatsapp-image-2023-06-13-at-17.29.49.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>\"Os alunos estavam encantados\", afirma Rosali Gaal. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/img_2112.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Lidiane Reis passou conhecimentos de primeiros socorros para os alunos. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/img_2153.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>\"Não adianta o conhecimento ficar apenas dentro da universidade\", comentou Glaucia Justo sobre o evento. (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/img_2454.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Natalia Sanchez conversou com os alunos sobre \"o que é arquitetura?\". (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/whatsapp-image-2023-06-13-at-17.29.49-1-1482560256-e1686688387975.jpeg?resize=739%2C1298&amp;ssl=1\" alt=\"\" width=\"739\" height=\"1298\"><figcaption>Gabrielle Fernandez tem a intenção de cursar a graduação de Publicidade e Propaganda. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/whatsapp-image-2023-06-13-at-17.29.49-2.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Enzo Chamarelli é estudante do curso de Design de Games no SENAC. (Foto: Igor Concolato)</figcaption></figure><p>O coordenador do curso de Engenharia Civil, Alessandro Santana, comentou sobre a importância desta integração da Universidade com a comunidade que está em volta: \"O objetivo é oportunizar aos alunos do SENAC uma vivência no Campus universitário, e também apresentar os cursos que nós oferecemos para a sociedade\".</p><p>Rosali Gaal é a responsável pelo grupo da unidade Barra do \"Portal do Futuro\", e no vídeo abaixo ela fala sobre a importância desta visita para os alunos. <strong>Confira:</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/ekczh_Huoao?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><br>A coordenadora do curso de Enfermagem, Lidiane Reis utilizou da teoria e da prática para apresentar algumas noções de primeiros socorros para os estudantes. \"O objetivo é causar o primeiro engajamento dos jovens com a área da saúde, e ensinar os primeiros passos para que se tornem futuros enfermeiros\", afirmou a docente. Entre os conteúdos apresentados estavam: para quem ligar em caso de emergência, como preparar o ambiente e a forma correta de fazer as manobras de desengasgo e massagem cardíaca.</p><p>Já no curso de Nutrição, a coordenadora Glaucia Justo fez uma dinâmica de avaliação da composição corporal dos estudantes, e segundo ela, o objetivo era fazer os jovens entenderem que o resultado deste exame é reflexo da alimentação do indivíduo: \"São jovens entre 16 e 21 anos que muitas vezes não possuem uma alimentação saudável. Com a avaliação eles puderam ver quanto tem de massa muscular, quanto de gordura, e entender o funcionamento dos equipamentos também\", afirmou a docente.</p><p>Segundo a estudante Gabrielle Fernandez, foi muito interessante aprender sobre várias disciplinas, mas a dinâmica que mais chamou a atenção da aluna foram os ensinamentos sobre primeiros socorros: \"Tem muita coisa que fica no nosso imaginário e não são verdades, gostei muito de aprender as manobras\", afirmou a jovem. Já Enzo Chamarelli, nunca tinha entrado em uma universidade anteriormente, e ficou empolgado com o que viu: \"É algo diferente do que eu me acostumei e me faz querer voltar e ter essa experiência de frequentar o Campus\", afirmou Enzo.</p><p>No vídeo abaixo, o jovem fala sobre suas expectativas para o futuro acadêmico. <strong>Confira:</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/K0qwYL4PNX4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><br>Durante a apresentação do curso de Arquitetura e Urbanismo, a coordenadora Natália Sanchez falou sobre conceitos e campos de atuação da profissão no Brasil, além de trazer obras e arquitetos famosos para exemplificar aos alunos. Além disso, Natália comentou sobre a importância desta integração. \"É fundamental para criar essa aproximação entre a UVA e a comunidade, mostrar a possibilidade de ingresso na vida acadêmica e esclarecer esse universo dos cursos universitários\", comentou Natália.</p><p><strong>Confira algumas fotos do evento:</strong></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/enfermagem-1.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Lidiane explicando na prática para os alunos como realizar a manobra de desengasgo em crianças de forma correta. (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/enfermagem.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Alunos praticando a manobra de massagem cardíaca. (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/nutricao-2.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Alunos sendo avaliados durante a palestra do curso de nutrição. (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/hora-da-beca.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Dinâmica em que os alunos do SENAC vestiram as becas da UVA. (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/laboratorio-.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\"><figcaption>Natália Sanchez com os visitantes no laboratório de prototipagem do Campus. (Foto: Igor Concolato) </figcaption></figure><p>O evento é uma possibilidade de compartilhar o conhecimento adquirido pelas áreas acadêmicas e científicas da universidade. Ao abrir as portas do campus, todos ganham.</p><p><em>Igor Concolato – 3° período</em></p></main>"
+  },
+  "date": "2023-06-13T18:10:43",
+  "date_gmt": "2023-06-13T21:10:43",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Cerca de 50 estudantes que integram o grupo das turmas do “Portal do Futuro” tiveram a oportunidade de visitar o Campus universitário da Veiga de Almeida e aprender mais sobre alguns cursos, além de participar de atividades práticas. O evento “Workshop das profissões” foi realizado em duas datas, no dia 31/06, os alunos tiveram contato com os cursos de Enfermagem e Nutrição, já no dia 01/07, Engenharias e Arquitetura e Urbanismo foram tema de debate. </p>\n"
+  },
+  "featured_media": 15011,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14997"
+  },
+  "id": 14997,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-de-capa-2.jpg?fit=5184%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3TT",
+  "link": "https://agenciauvabarra.com/2023/06/13/campus-uva-barra-recebe-visita-de-jovens-do-senac/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-06-15T12:51:21",
+  "modified_gmt": "2023-06-15T15:51:21",
+  "ping_status": "open",
+  "slug": "campus-uva-barra-recebe-visita-de-jovens-do-senac",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    16379,
+    10922,
+    65212,
+    70094,
+    995163,
+    17523,
+    181514
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Campus UVA Barra recebe visita de jovens do SENAC "
+  },
+  "type": "post"
+}

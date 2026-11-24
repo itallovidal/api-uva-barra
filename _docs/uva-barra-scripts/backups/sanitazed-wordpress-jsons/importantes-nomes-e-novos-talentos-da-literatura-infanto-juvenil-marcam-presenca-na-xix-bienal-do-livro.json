@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5030/revisions/5828",
+        "id": 5828
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5030"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5030",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5030/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5030"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5043"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5030",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5030",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    3719
+  ],
+  "class_list": [
+    "post-5030",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-ana-maria-machado",
+    "tag-bienal-do-livro-2019",
+    "tag-literatura-infantil",
+    "tag-pedro-bandeira",
+    "tag-riocentro",
+    "tag-ruth-rocha"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Passagem dos autores foi marcada por homenagens, lançamentos de livros e sessões de autógrafos</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/whatsapp-image-2019-08-31-at-16.11.17.jpeg?resize=1280%2C853&amp;ssl=1' alt='' width='1280' height='853' /><figcaption>O Café Literário recebeu a Escritora e Jornalista Ana Maria Machado. O bate papo foi mediado pelo Editor Marcos Pereira – Foto: kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/whatsapp-image-2019-08-31-at-16.11.17-1.jpeg?resize=1280%2C853&amp;ssl=1' alt='' width='1280' height='853' /><figcaption>A Jornalista e Escritora Ana Maria Machado é homenageada pelos 50 anos de carreira literária- foto: kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1358.jpg?resize=6000%2C4000&amp;ssl=1' alt='' width='6000' height='4000' /><figcaption>O Café Literário recebeu os escritores Pedro Bandeira e Marisa Lajolo para uma releitura da obra de Monteiro Lobato – Foto: kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1359.jpg?resize=6000%2C4000&amp;ssl=1' alt='' width='6000' height='4000' /><figcaption>Escritor Pedro Bandeira- Foto: kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1385.jpg?resize=6000%2C4000&amp;ssl=1' alt='' width='6000' height='4000' /><figcaption>Escritora Marisa Lajolo – Foto: kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1647.jpg?resize=6000%2C4000&amp;ssl=1' alt='' width='6000' height='4000' /><figcaption>O Café Literário homenageou os 50 anos de carreira da escritora Ruth Rocha com mediação de Luciana Sandroni e Ninfa Parreiras – Foto: kaliane Trindade</figcaption></figure><p>O público infantil é sempre presença garantida na bienal do livro, assim como grandes e novos autores da literatura infantojuvenil. Este ano, a tradicional feira literária carioca homenageou os 50 anos de carreira das escritoras Ana Maria Machado e Ruth Rocha e promoveu um encontro entre Pedro Bandeira e Marisa Lajolo para uma releitura da obra de Monteiro Lobato.</p><p>Mas o que esses autores têm em comum? São nomes da literatura infantil que encantaram gerações, tornaram-se referências e até hoje atraem leitores mais novos. Ana Maria Machado conta que no início da carreira não pensava em escrever para crianças. “Não sabia como fazer, aí me inspirei no cotidiano com meu filho, na época com dois anos de idade, criei uma história e deu certo”. Livros como O reizinho mandão, de Ruth Rocha – publicado em 1973 – ainda fazem sucesso. “São histórias muito atuais”, afirma Ruth.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1616.jpg?resize=566%2C400&amp;ssl=1' alt='' width='566' height='400' /><figcaption>Escritora Ruth Rocha recebe homenagem pelos 50 anos de carreira literária – Foto: kaliane Trindade</figcaption></figure><p>Com o primeiro livro lançado em 1983 – O Dinossauro Que Fazia Au-Au – Pedro Bandeira comenta que começou a escrever em uma época em que metade do Brasil não tinha o hábito da leitura por não saber ler e que hoje o cenário mudou e vê nas obras de Monteiro Lobato uma referência.</p><blockquote><p><strong>“Eu tive uma infância lobatiana”</strong></p><p>– Pedro Bandeira</p></blockquote><p>Confira trechos da entrevista realizada com Pedro Bandeira:</p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src='https://www.youtube.com/embed/1kyBTAWHHR0?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></span></div></figure><p>.</p><p>Apesar de hoje a era digital ser algo muito forte na vida de uma criança, a literatura ainda é muito presente entre os pequeninos, e eventos como a bienal despertam o interesse pela leitura. Para o publisher da Estrela Beto Junqueyra é preciso usar o lúdico para atrair cada vez mais o público infantil. “Para uma criança tão importante como andar é virar a página de um livro”, destaca.</p><p>E é nesse caminho que surgem pequenas editoras investindo cada vez mais em autores independentes como Bito Teles, escritor de histórias infantis há um ano. Pela primeira vez na Bienal para lançar o livro O menino que aprendeu (e ensinou) a olhar, para Bito a literatura infantil tem um papel fundamental no desenvolvimento da criatividade e da imaginação da criança. “Do ponto de vista da construção de mundo a partir do que elas imaginam, não existe diferença das histórias infantis para as dos adultos”, acredita.</p><p>Não é só com livros que a Bienal trabalha o imaginário das crianças. Os contadores de histórias e os intermediadores de leitura também desempenham um papel importante na hora de estimular a leitura nessa faixa etária, fazendo com que aumente a procura por livros. Nesta edição de 2019, a feira oferece no pavilhão laranja – área destinada aos pequenos leitores – uma espécie de floresta mágica que promove apresentações do grupo Lona na Lua, e encanta muitas pessoas que passam por ali. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190903_171636.jpg?resize=545%2C265&amp;ssl=1' alt='' width='545' height='265' /><figcaption>Grupo Lona na Lua – Foto: Graziela Andrade</figcaption></figure><p>Entre um pavilhão e outro, Milena Marques, mãe do Arthur de 9 anos, revela que o filho prefere os gibis e os quadrinhos e diz que procura sempre incentivá-lo a ler. “Além de estimular a criatividade dele, a leitura ajuda a escrever e elaborar redações na escola”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190905_164207.jpg?resize=576%2C279&amp;ssl=1' alt='' width='576' height='279' /><figcaption>Escritor Bito Teles com o jovem leitor Arthur e a mãe Milena – Foto: Graziela Andrade</figcaption></figure><p>A XIX Bienal Internacional do Livro encerra domingo (08), mas ainda dá tempo de garantir a visita e uma sacola cheia de leitura.</p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-07T21:00:07",
+  "date_gmt": "2019-09-08T00:00:07",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Passagem dos autores foi marcada por homenagens, lançamentos de livros e sessões de autógrafos O público infantil é sempre presença garantida na bienal do livro, assim como grandes e novos autores da literatura infantojuvenil. Este ano, a tradicional feira literária carioca homenageou os 50 anos de carreira das escritoras Ana Maria Machado e Ruth Rocha [&hellip;]</p>\n"
+  },
+  "featured_media": 5043,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5030"
+  },
+  "id": 5030,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1647.jpg?fit=6000%2C4000&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1j8",
+  "link": "https://agenciauvabarra.com/2019/09/07/importantes-nomes-e-novos-talentos-da-literatura-infanto-juvenil-marcam-presenca-na-xix-bienal-do-livro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-30T16:23:13",
+  "modified_gmt": "2019-10-30T19:23:13",
+  "ping_status": "open",
+  "slug": "importantes-nomes-e-novos-talentos-da-literatura-infanto-juvenil-marcam-presenca-na-xix-bienal-do-livro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    2709870,
+    683955564,
+    415004,
+    2327873,
+    10031061,
+    5383781
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Importantes nomes e novos talentos da literatura infantojuvenil marcam presença na XIX Bienal do Livro"
+  },
+  "type": "post"
+}

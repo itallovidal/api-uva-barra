@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4030/revisions/4052",
+        "id": 4052
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4030"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4030",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4030/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4030"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4031"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4030",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4030",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4030",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-1o-forum-mundial-pela-paz",
+    "tag-agencia-uva-barra",
+    "tag-ong-together-for-peace",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Evento destaca a importância da ação de cada indivíduo em prol de um mundo pacífico</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-09-at-20.31.00-2.jpeg?resize=1032%2C502&amp;ssl=1\" alt=\"\" width=\"1032\" height=\"502\" /><figcaption>Palestra promoveu reflexões sobre a compreensão do papel social do indivíduo na busca pela paz – Foto: Julia Morais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-09-at-20.31.00-1.jpeg?resize=1032%2C502&amp;ssl=1\" alt=\"\" width=\"1032\" height=\"502\" /><figcaption>Professora Maria de Lourdes Costa Domingos palestrou sobre a paz inserida no contexto da responsabilidade social – Foto: Julia Morais</figcaption></figure><p>Os passos para a busca de um futuro melhor e tranquilo podem ser dados por todos – essa foi a questão abordada em uma das palestras ministradas na Plenária do 1º Fórum Mundial pela Paz, que ocorreu no campus Barra da Universidade Veiga de Almeida, na última terça-feira (7), em parceria com a ONG Together For Peace.</p><p>Trabalhando o tema “Responsabilidade Social e Paz”, o debate contou com a presença da doutora em psicologia social e professora da UVA, Maria de Lourdes Costa Domingos, e do doutor em Ciências Políticas, José Luis Niemeyer. Os profissionais comentaram sobre o papel de cada indivíduo e dos grupos sociais na luta pela garantia da paz. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-09-at-20.31.00.jpeg?resize=485%2C236&amp;ssl=1\" alt=\"\" width=\"485\" height=\"236\" /><figcaption>José Niemeyer abordou a responsabilidade do âmbito político na estrada pela pacificação – Foto: Julia Morais\n</figcaption></figure><p>Refletindo sobre os conceitos de responsabilidade social enquanto uma obrigação, Maria de Lourdes falou sobre a importância dos atores sociais. “É uma questão que abrange cidadania e os princípios, ou seja, tem a ver com a construção da democracia”, explicou. “Quando a gente pensa na ideia de responsabilidade social, estamos falando da nossa conduta com relação aos outros”, concluiu a psicóloga.</p><p>Para Niemeyer, é fundamental destacar o poder da ação dos grupos – principalmente governamentais. “Se há alguma viabilidade em construir a paz, ela passa pela política. Ela (a política) é a ação humana que mais liberta – tanto o indivíduo quanto o coletivo”, comentou o doutor em ciências políticas. </p><p>A palestra finalizou com o público presente levando para casa duas indagações: “O que é paz para você? Como atingir essa paz sem prejudicar o outro?”. As reflexões colocaram em pauta a capacidade e a responsabilidade do ser humano de preocupar com o próximo, e como isso é parte da estrutura que leva a um futuro pacífico.</p><p><strong>Julia Morais – 7º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2019-05-10T17:00:05",
+  "date_gmt": "2019-05-10T20:00:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento destaca a importância da ação de cada indivíduo em prol de um mundo pacífico Os passos para a busca de um futuro melhor e tranquilo podem ser dados por todos &#8211; essa foi a questão abordada em uma das palestras ministradas na Plenária do 1º Fórum Mundial pela Paz, que ocorreu no campus Barra [&hellip;]</p>\n"
+  },
+  "featured_media": 4031,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4030"
+  },
+  "id": 4030,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-09-at-20.31.00-2.jpeg?fit=1032%2C502&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-130",
+  "link": "https://agenciauvabarra.com/2019/05/10/a-paz-como-dever-de-todos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-10T21:20:18",
+  "modified_gmt": "2019-05-11T00:20:18",
+  "ping_status": "open",
+  "slug": "a-paz-como-dever-de-todos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    679119188,
+    648221465,
+    679119246,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A paz como dever de todos"
+  },
+  "type": "post"
+}

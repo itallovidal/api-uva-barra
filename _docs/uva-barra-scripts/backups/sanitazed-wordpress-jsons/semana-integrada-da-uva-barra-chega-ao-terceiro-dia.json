@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4148/revisions/4156",
+        "id": 4156
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4148"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4148",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4148/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4148"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4153"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4148",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4148",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4148",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-semana-integrada-uva-barra",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Jogos, animações e desfile. Evento junta cursos para uma semana de aproximação na Universidade Veiga de Almeida</em></p><p>O campus Barra, da Universidade Veiga de Almeida, recebeu nesta quarta-feira, (15/05), o terceiro dia da Semana Integrada UVA Barra que contou com palestras, de variados cursos, e desfile do movimento Fashion Revolution. O evento propõe integração e diálogo entre alunos de diferentes áreas.</p><p>O circuito de palestras começou com uma conversa sobre a produção do jogo brasileiro Sword Legacy, da desenvolvedora carioca Firecast. Bruno Lazarotti, um dos criadores do game, falou sobre o processo de criação do RPG tático, que já foi traduzido para 5 idiomas. O projeto em sua narrativa, possui inspirações dos contos da Disney com um teor mais sombrio. \"É interessante pegar histórias que já estão abertas ao público, facilita você trabalhar no seu jogo, sua visão do que quer para o projeto\", comentou Bruno.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto1-e1558120146797.jpg?resize=507%2C356&amp;ssl=1\" alt=\"\" width=\"507\" height=\"356\" /><figcaption>Sword Legacy, game brasileiro, foi premiado mundialmente em 2018 – Foto: Bárbara Bastos</figcaption></figure><p>Em seguida, no pátio da universidade, aconteceu o desfile do movimento Fashion Revolution com o tema de Consumismo Infantil. Na passarela do evento, andaram 10 crianças com roupas customizada tanto por elas, quanto pelas mães. A proposta era conscientizar sobre a importância que as roupas no mundo e o impacto sob o meio-ambiente.</p><p>O dia seguiu com uma palestra sobre Inovação e desenvolvimento artístico, com Vitor Campos, ex-aluno da Veiga de Almeida e atual animador da Combo Estúdio. O profissional contou aos atuais estudantes da universidade, sobre sua jornada de pequenas animações amadoras, de trabalhar no desenho brasileiro Irmão do Jorel até a produção do Super Drags, série animada da Netfix. \"O mercado está crescendo, só que em animação é um pouco inconstante. Por muitas produtoras dependerem de edital, é aquilo, o mercado infla e diminui, fica nessa sequência. Eu acredito que tem oportunidade para todo mundo aqui\", afirma.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto6-e1558120934383.jpg?resize=511%2C288&amp;ssl=1\" alt=\"\" width=\"511\" height=\"288\" /><figcaption>Vitor Campus conta aos estudantes da Universidade, como é trabalhar no mercado de animações</figcaption></figure><p>Na parte da tarde, Rodrigo Baggio, da ONG Recode, comandou uma palestra sobre Empoderamento Digital: Tecnologia para empoderar vidas e o mundo. A temática apresentou questões da sociedade e a relação com a quarta revolução industrial e o crescimento exponencial de tecnologias como: inteligência artificial, realidade virtual e Internet das coisas, transformando a forma de viver, interagir e relacionar. Uma mudança em que o uso da tecnologia afeta o social. \"Tem um dado do IBGE que mostra que 70% dos lares tem acesso a internet e 94% desse acesso é feito por smartphones. Mas 95% do uso é para WhatsApp, vídeo e redes sociais. As pessoas não estão empoderadas digitalmente\", afirma Baggio.</p><p>O circuito de palestras do dia foi encerrado com Otavio Guerra que falou sobre o design como ferramenta de carreira. O ex-aluno da pós-graduação de cenografia na Universidade Veiga de Almeida, contou a importância participar de projetos ainda no ambiente acadêmico. Otavio disse que foi se empenhando ao máximo dentro da sala de aula e esta foi a porta de entrada para conseguir trabalhar na parte cenográfica das olimpíadas de 2016. Guerra também comentou sobre os projetos do Rock In Rio e o clipe Vai Malandra, da cantora Anitta.</p><p>A Semana da Comunicação (SECOM) começa nesta quinta-feira (16) e sexta-feira (17). O tema deste ano é \"Os 50 anos do plano piloto da Barra\". Palestras e workshops acontecerão durante o dia todo. Na sexta-feira, às 18h, acontece a festa de encerramento da Semana Integrada, com shows ao vivo, foodtruck, DJ e muito mais!</p><p><strong>Bárbara Moratório – 2º período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-05-17T16:29:31",
+  "date_gmt": "2019-05-17T19:29:31",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Jogos, animações e desfile. Evento junta cursos para uma semana de aproximação na Universidade Veiga de Almeida O campus Barra, da Universidade Veiga de Almeida, recebeu nesta quarta-feira, (15/05), o terceiro dia da Semana Integrada UVA Barra que contou com palestras, de variados cursos, e desfile do movimento Fashion Revolution. O evento propõe integração e [&hellip;]</p>\n"
+  },
+  "featured_media": 4153,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4148"
+  },
+  "id": 4148,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto3-e1558121161717.jpg?fit=3024%2C2626&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-14U",
+  "link": "https://agenciauvabarra.com/2019/05/17/semana-integrada-da-uva-barra-chega-ao-terceiro-dia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-17T16:29:31",
+  "modified_gmt": "2019-05-17T19:29:31",
+  "ping_status": "open",
+  "slug": "semana-integrada-da-uva-barra-chega-ao-terceiro-dia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    679748943,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Semana Integrada da UVA Barra chega ao terceiro dia"
+  },
+  "type": "post"
+}

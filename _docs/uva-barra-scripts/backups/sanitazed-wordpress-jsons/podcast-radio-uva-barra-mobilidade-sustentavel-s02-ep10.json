@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8179/revisions/8184",
+        "id": 8184
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8179"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8179",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8179/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8179"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8183"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8179",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8179",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    254332,
+    2368
+  ],
+  "class_list": [
+    "post-8179",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "category-sustentabilidade",
+    "category-transporte"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Uma importante mudança na mobilidade urbana</em></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F929184937&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Rádio UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Com as grandes cidades tendo problemas no trânsito e o mundo sofrendo com poluição, a mobilidade sustentável tem se tornado um projeto para muitos países. Esse tema aborda meios de se locomover de forma prática e sem afetar o meio ambiente, podendo também ter um custo menor.</p><p>Neste podcast, a urbanista e professora da Universidade Veiga de Almeida, Letícia Viana, explica o que é a mobilidade sustentável e o que ela pode proporcionar às pessoas e ao meio ambiente. O comerciante Claudio Ribeiro conta porque aderiu ao ciclismo como forma de deslocamento e os principais problemas que encontra para praticá-lo no Brasil.</p><p>O podcast da Rádio UVA Barra, em parceria com a Agência UVA Barra, traz nesse episódio uma reflexão sobre o que é a mobilidade sustentável, como já é usado e como vai beneficiar o planeta no futuro. Com apresentação de Gustavo Teixeira e Iago Bastos.</p><p>Gustavo Teixeira – 6º período Iago Bastos – 6º período Victor Hugo Serra – 6º período</p></main>"
+  },
+  "date": "2020-11-14T11:43:27",
+  "date_gmt": "2020-11-14T14:43:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Uma importante mudança na mobilidade urbana Rádio UVA Barra · Podcast Radio UVA Barra – Mobilidade sustentável – S02 EP10 Com as grandes cidades tendo problemas no trânsito e o mundo sofrendo com poluição, a mobilidade sustentável tem se tornado um projeto para muitos países. Esse tema aborda meios de se locomover de forma prática [&hellip;]</p>\n"
+  },
+  "featured_media": 8183,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8179"
+  },
+  "id": 8179,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/whatsapp-image-2020-11-14-at-11.17.49.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-27V",
+  "link": "https://agenciauvabarra.com/2020/11/14/podcast-radio-uva-barra-mobilidade-sustentavel-s02-ep10/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-11-14T11:43:27",
+  "modified_gmt": "2020-11-14T14:43:27",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-mobilidade-sustentavel-s02-ep10",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra – Mobilidade sustentável – S02 EP10"
+  },
+  "type": "post"
+}

@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16040/revisions/16424",
+        "id": 16424
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16040"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16040",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16040/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16040"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16046"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16040",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16040",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16040",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento distribui a programação em seções que abordam assuntos específicos</em></p><p>A maior conferência global de inovação e tecnologia tomou conta da região portuária da cidade carioca, dos dias 3 a 6 de outubro . CEOs, empreendedores, artistas, cientistas e autoridades públicas se reuniram para debater novas soluções para antigos problemas, aliando os avanços tecnológicos a pautas ambientais, culturais e de saúde. O evento contou com mais de 30 palcos diferentes, cada um focado em palestras dentro de uma determinada área. Foram mais de 1.330 horas de conteúdo, e mais de 2.500 palestrantes.</p><p>Um exemplo é o palco \"Open Innovation Lounge\", focado em projetos iniciantes, no qual Ana Aist, Subsecretária de Recursos Hídricos e Sustentabilidade da Secretaria de Estado do Ambiente e Sustentabilidade, participou de uma mesa com profissionais do setor de serviços hídricos para apresentar planos que alinham expansão e preservação ambiental — lógica conhecida como \"economia azul\".</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/ana-aist.jpg?resize=2725%2C3446&amp;ssl=1\" alt=\"\" width=\"2725\" height=\"3446\" /><figcaption>A subsecretária Ana Aist afirmou que o objetivo é dar vida às ideias do projeto \"Blue Rio\" até Dezembro. (Foto: Pedro Lima)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/kalyne-lima.jpg?resize=4608%2C3456&amp;ssl=1\" alt=\"\" width=\"4608\" height=\"3456\" /><figcaption>\"O preconceito contra a favela diminui a partir do momento que ela se posiciona de maneira mais contundente em relação aos seus valores\", afirmou a presidente Kalyne. (Foto: Pedro Lima)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/alex-osterwalder-no-riw-2023.jpg?resize=3000%2C2000&amp;ssl=1\" alt=\"\" width=\"3000\" height=\"2000\" /><figcaption>Alex Osterwalder deu dicas e ensinamentos de base para futuros empreendedores. (Foto: Agência Enquadrar)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/joao-lucas-caracas.jpg?resize=3456%2C4608&amp;ssl=1\" alt=\"\" width=\"3456\" height=\"4608\" /><figcaption>João Lucas acredita no potencial de conciliar a inteligência artificial com o trabalho musical. (Foto: Pedro Lima)</figcaption></figure><p>O programa \"Blue Rio\" foi tema central da palestra, e reúne startups (empresas em formação) de dezenas de países para moldar inovações nas áreas de portos, navegação, sustentabilidade, saneamento e energia. \"A gente buscou parceiros que tivessem interesse em produzir pilotos de desenvolvimento de tecnologia para o estado do Rio de Janeiro, que definiram seus desafios. A SEAS está voltada para o controle da qualidade da água. A Águas do Rio, tem relação com o saneamento, por exemplo\", completou.</p><p>A subsecretária pontuou que o objetivo é transformar as ideias em projetos reais ainda este ano, e que os bem-sucedidos podem ser incorporados a órgãos públicos para seguir atuando. \"O que a gente fez foi aproximar o ecossistema de inovação com a iniciativa pública e privada\", completou. Anunciou também que a sede do programa será na UERJ. \"A gente tá montando esse hub, esse centro, de 'tecnologia azul' para conectar o ambiente universitário a todo esse conhecimento que tá chegando no Rio. Muito da inovação nasce nas universidades\", concluiu.</p><p>Já o espaço \"Impact Hub\", que leva o nome de uma rede de comunidades empreendedoras, foi o ponto de encontro do público com a presidente nacional da Central Única das Favelas, Kalyne Lima. Jornalista, nordestina e integrante da CUFA há mais de uma década, Kalyne falou sobre o potencial do empreendedorismo das periferias, que segundo ela \"tem inovação, às vezes tem tecnologia, mas não tem oportunidade\".</p><p>A convidada pontuou que grande parte dos moradores favelados têm, já teve ou pretende ter algum empreendimento — os chamados \"corres\" ou \"bicos\" — por questões não apenas de vocação, mas de subsistência. \"A favela tem produzido e contribuído desde sempre, com seu serviço e sua força de trabalho, suas empresas e microempresas\", reforçou. A presidente comentou também sobre projetos nascidos a partir da CUFA que impactam a vida de brasileiros periféricos, como a Taça das Favelas e a Expo Favela Innovation.</p><p>Sobre a Expo Favela Innovation, Kalyne contou que a primeira edição foi feita em um centro nobre da cidade de São Paulo, propositalmente. \"Chegar nesses lugares que a favela não está é uma maneira de começar a ocupar esses espaços\", disse. Indo além, a presidente falou também sobre a importância da presença de inovadores das comunidades em eventos como o próprio Rio Innovation Week. Oua abaixo o comentário na íntegra:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1636875162&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Kalyne Lima comenta sobre importância da presença de inovadores das comunidades em eventos como esse by Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></figure><p>Uma das grandes sensações da conferência global foi a apresentação de Alex Osterwalder, autor, CEO e fundador do \"Business Model Canvas\", ferramenta de organização empresarial usada por marcas como Microsoft e Mastercard. O criativo esteve presente no salão \"Plenária RIW\", que recebeu as personalidades mais marcantes do evento, como a cantora Anitta e a apresentadora Xuxa. O espaço é o palco principal desta edição do Rio Innovation Week.</p><p>Osterwalder dissertou sobre os tópicos centrais na construção de um empreendimento, traçando as diferenças no processo de desenvolver ideias e no de gerenciar os negócios. Também interagiu com as centenas de pessoas na plateia por meio de questionário transmitido em telão, tornando a palestra mais similar a uma aula. Com exemplos didáticos e estudos de caso de empresas bem sucedidas, o CEO demonstrou os pontos para os quais novas startups devem estar atentas — como entendimento do consumidor e táticas para manter o público interessado em um produto.</p><p>\"Em empreendimentos, é preciso se perguntar: devo matar, alterar, ou seguir com o projeto?\", provocou o palestrante. Osterwalder ressaltou também que a maior parte dos negócios precisa de experimentação extensiva e muita pesquisa, e que a falha antes de encontrar ideias com potencial real de inovação é comum.</p><p>Outro assunto muito abordado durante a convenção foram as inteligências artificiais. O palco \"RIW IA &amp; Meta Mundo\" se propôs a discutir as relações dessa tecnologia com a ética, a produtividade, a indústria e a comunicação, entre outros temas. Uma das conversas foi sobre o impacto das IAs no universo da música, e reuniu especialistas tanto da área de tecnologia quanto da indústria musical.</p><p>O bate-papo incluiu também reflexões sobre direitos autorais e propriedade intelectual. Um caso de canções feitas artificialmente, com as vozes do rapper Drake e do cantor The Weeknd serviu de gatilho para as reflexões — e o consenso entre os palestrantes foi de que mesmo se tratando de produtos feitos por máquina, os cantores donos das vozes deveriam receber parte do retorno financeiro gerado por músicas de IA.</p><p>O DJ, produtor e CEO da gestora musical Adaggio, João Lucas Caracas disse ser a favor do uso das inteligências artificiais para acelerar processos do trabalho e elevar o nível de novas produções, de maneira ética e com respeito aos direitos dos artistas. \"O ponto principal é facilitar a vida. Deixar para a IA fazer tarefas muito repetitivas, otimizar isso, para assim você ter mais tempo de resolver coisas que sejam mais importantes\", explicou.</p><p>João Lucas Caracas também fez uma consideração sobre como o mercado musical encara atualmente o uso de IAs. Ouça abaixo o comentário:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1636876122&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"João Lucas Caracas falou sobre como o mercado musical encara atualmente o uso de IAs by Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></figure><p>Todos esses eventos trouxeram um público de cerca de 155 mil pessoas para este Rio Innovation Week, e a organização do evento já definiu data para a edição do ano que vem: 6 a 9 de agosto. \"Assumimos um compromisso no qual o Rio Innovation Week 2024 promoverá o debate e desenvolverá suas conferências com a participação de pessoas que se destacam globalmente nas mais diversas áreas, que pensam a Inovação e a Tecnologia como desenvolvimento plural\", afirmou Jerônimo Vargas, um dos idealizadores da conferência.</p><p><em>Pedro Lima — 5º Período</em></p></main>"
+  },
+  "date": "2023-10-10T15:39:41",
+  "date_gmt": "2023-10-10T18:39:41",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A maior conferência global de inovação e tecnologia tomou conta da região portuária da cidade carioca, dos dias 3 a 6 de outubro . CEOs, empreendedores, artistas, cientistas e autoridades públicas se reuniram para debater novas soluções para antigos problemas, aliando os avanços tecnológicos a pautas ambientais, culturais e de saúde. O evento contou com mais de 30 palcos diferentes, cada um focado em palestras dentro de uma determinada área. Foram mais de 1.330 horas de conteúdo, e mais de 2.500 palestrantes.</p>\n"
+  },
+  "featured_media": 16046,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16040"
+  },
+  "id": 16040,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/foto-de-capa-1.jpg?fit=3456%2C4608&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4aI",
+  "link": "https://agenciauvabarra.com/2023/10/10/rio-innovation-week-traz-diversidade-de-atracoes-em-espacos-tematicos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-01-31T00:50:08",
+  "modified_gmt": "2024-01-31T03:50:08",
+  "ping_status": "open",
+  "slug": "rio-innovation-week-traz-diversidade-de-atracoes-em-espacos-tematicos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Rio Innovation Week traz diversidade de atrações em espaços temáticos"
+  },
+  "type": "post"
+}

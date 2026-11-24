@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2207/revisions/2221",
+        "id": 2221
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2207"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2207",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2207/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2207"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2208"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2207",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2207",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-2207",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-marketing-digital",
+    "tag-palestra",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Universidade Veiga de Almeida apresenta palestra sobre marketing digital para empreendedores</em></h4><p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-05-at-14-04-15.jpeg?resize=1280%2C960&amp;ssl=1' alt='WhatsApp Image 2018-09-05 at 14.04.15' width='1280' height='960' /><figcaption>A palestrante Karla Passeri fala sobre as mudanças do empreendedorismo online. Foto: Catarina Casini</figcaption></figure></p><p>A presença online de uma marca, através de perfis em redes sociais, é importante no atual cenário mercadológico. Mas não são as quantidades de <em>likes</em> que vão gerar compras. É preciso entender como funciona. A jornalista Karla Passeri apresentou a temática na palestra “Marketing Digital para Empreendedores” que aconteceu na Universidade Veiga de Almeida, campus Barra, nesta segunda-feira, 3. Conversando com os alunos de comunicação social, a palestrante explicou como usar as ferramentas que a internet disponibiliza a favor do negócio: para chamar o público sem sair do orçamento.</p><p>Falar em marketing online, em tempos onde praticamente tudo é feito pela internet, é também mostrar o quanto o comportamento do consumidor mudou. “85% dos fluxos de conteúdos são vídeos, e 75% das pessoas consomem mais em mobile”, conta Karla. Para ela, a presença digital é algo que todos precisam ter, mas o empreendedor não deve focar apenas em uma plataforma. “Se você foca seu negócio no facebook, por exemplo, e ele quebra, o negócio também quebra. Nem sempre é bom investir da mesma forma em todas as partes”, explica. É preciso saber para que público se está falando, ou com quem está falando.</p><p>A internet é um mundo de oportunidades e o empreendedor deve entender as ferramentas digitais para alcançar visibilidade, criar engajamento e ter retorno financeiro. “Não é só inovar, mas gerir o negócio”, explica Karla. A estudante do segundo período de publicidade, Yasmin Costa, conta que a palestra serviu para abrir seus olhos em relação ao empreendedorismo. “Eu trabalho com mídias sociais, mas percebi que não é só isso. É importante estarmos sempre buscando para inovar”, conta.</p><p>A palestra ajudou a abrir o e pensamento dos alunos para oportunidades que muitas das vezes não são percebidas na universidade. O publicitário e coordenador da Agência Onze, laboratório experimental de Publicidade do campus Barra, Leonardo Amato, acredita que o profissional de comunicação precisa ter um conhecimento sobre métricas e conversões, um dos pontos apresentados na palestra. “Estamos caminhando cada vez mais para esse lado e a importância tende a aumentar”, diz.</p><p>A jornalista finalizou a apresentação com cases de ações de marketing na internet, uns com pouco ou quase nada de verba, e reiterou como a criatividade do brasileiro ajuda na hora de criar uma ação comercial on-line. Ainda reforçou a importância da constante atualização em cursos gratuitos, pela própria rede, e da constante leitura sobre o tema.</p><p><strong>Ana Beatriz Bernardo – 6º período</strong></p></main>"
+  },
+  "date": "2018-09-05T14:17:20",
+  "date_gmt": "2018-09-05T17:17:20",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Universidade Veiga de Almeida apresenta palestra sobre marketing digital para empreendedores A presença online de uma marca, através de perfis em redes sociais, é importante no atual cenário mercadológico. Mas não são as quantidades de likes que vão gerar compras. É preciso entender como funciona. A jornalista Karla Passeri apresentou a temática na palestra “Marketing [&hellip;]</p>\n"
+  },
+  "featured_media": 2208,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2207"
+  },
+  "id": 2207,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-05-at-14-04-15.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-zB",
+  "link": "https://agenciauvabarra.com/2018/09/05/inovacoes-e-crescimento-no-mundo-digital/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T20:47:05",
+  "modified_gmt": "2019-02-25T23:47:05",
+  "ping_status": "open",
+  "slug": "inovacoes-e-crescimento-no-mundo-digital",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    404597,
+    410667,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Inovações e crescimento no mundo digital"
+  },
+  "type": "post"
+}

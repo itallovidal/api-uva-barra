@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15760/revisions/15770",
+        "id": 15770
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15760"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15760",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15760/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15760"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15763"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15760",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15760",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2860759,
+    3719
+  ],
+  "class_list": [
+    "post-15760",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-bienal-do-livro",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-bienal",
+    "tag-literatura",
+    "tag-livro",
+    "tag-romance",
+    "tag-sentimento"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Livros de romance são preferências do público da bienal</em></p><p>Um estudo realizado pela Universidade Emory, nos Estados Unidos, descobriu que ler afeta o cérebro da mesma forma que realmente alguém tenha vivenciado os eventos sobre os quais está na leitura. Por mais que os poetas por vezes afirmem que não é fácil falar sobre sentimentos, ler sobre eles é bem comum. A literatura sempre teve espaço para falar de emoções e suas consequências: Genji Monogatari, o primeiro romance do mundo, por exemplo, foi escrito em princípios do século XI. Ou seja, antes de existir a Catedral de Notre Dame (século XII), já existiam livros falando sobre saudade, amor e dor.</p><p>Na Bienal do Livro, o que não faltam são exemplares de romances por toda parte. Em cada pavilhão pode-se encontrar capas com rostos apaixonados e o gênero tem público cativo: “Eu adoro fanficar (ato de criar histórias fictícias). Minha vida é uma fanfic. Eu gosto de ler para acompanhar e ficar sonhando com a vida deles” diz Jean Alves, de 23 anos. O jovem já levava três exemplares na mão para a fila do caixa. Uma grande parte do motivo é a identificação com os personagens e poder fantasiar sobre a vida deles, segundo o rapaz.</p><p>O universo das fanfics, por si só, atesta o poder de lidar com os sentimentos. As histórias feitas por fãs ganharam força ao ponto de terem seu próprio ambiente na Bienal: <em>A Pequena Livraria de Fanfics</em>. Lá, Marianna Leão, autora vencedora do prêmio “<em>P.S.: Escrevi, e agora?” </em>com o livro Hater n°1, contou os motivos que levam os sentimentos a serem tão consumidos pelo público.</p><p><strong>Ouça a opinião da escritora:</strong></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-10-at-19.24.27.jpeg?resize=883%2C681&#038;ssl=1\" alt=\"\" width=\"883\" height=\"681\"><figcaption>Mariana Leão é vencedora do prêmio Wattys. (Foto: Mariana Rangel) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-10-at-19.24.26-1.jpeg?resize=750%2C807&#038;ssl=1\" alt=\"\" width=\"750\" height=\"807\"><figcaption>Bruna Paiva vendeu mais de 100 cópias de seus livros durante a Bienal este ano. (Foto: Mariana Rangel) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-10-at-19.24.26.jpeg?resize=1600%2C1200&#038;ssl=1\" alt=\"\" width=\"1600\" height=\"1200\"><figcaption>Mariana e Jean estavam ansiosos para começarem as leituras. (Foto: Mariana Rangel) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-10-at-19.24.25.jpeg?resize=1600%2C1200&#038;ssl=1\" alt=\"\" width=\"1600\" height=\"1200\"><figcaption>Ester e sua amiga ficaram quase 1h na fila para comprarem os livros. (Foto: Mariana Rangel)</figcaption></figure><p><br>Bruna Paiva, autora de “Um diário para Alice” e “Enquanto o carnaval durar…” também apresentou razões para as obras sentimentalistas serem um sucesso para quase todos os públicos: “Acho que as pessoas gostam de saber que não estão sozinhas e que tem mais gente por aí sentindo e pensando como elas”, diz. A escritora completa ainda que os leitores frequentemente a procuram para dizer que se identificaram com a descrença no amor, com o gosto musical, e até com as diferentes inseguranças de seus personagens.</p><p>Os livros de poemas que falam sobre saudade, melancolia, dor e amores conturbados também fazem sucesso e geram filas nos estandes. Com vários livros na mão recém pagos, a jovem Ester Farias contou qual<em> </em>foi o livro que a fez se apaixonar pela leitura, <strong>confira:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1613652078&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\" width=\"500\" height=\"400\" title=\"Ester Farias comenta sobre sua paixão pela leitura by Agência UVA Barra\" allowfullscreen></iframe></figure><p>A diversidade marca presença na mesma Bienal que em 2019 sofreu censura nos exemplares com temática LGBTQIA+. Este ano havia estandes repletos de livros falando sobre amor para todos os públicos. Mariana Alves, de 23 anos, leitora apaixonada por narrativas românticas, sinalizou o quão feliz estava de poder ver as gerações mais novas terem contato com esses livros: “Eu sempre gostei muito de romance. Uma coisa que eu to vendo muito presente hoje aqui são romances entre garotas e eu tô achando isso genial porque nas últimas bienais esse tema não era tão presente assim. Tá completamente diferente dessa vez. E são aqueles livros adolescentes que eu quando era uma adolescente bissexual não tive pra ler. E agora poder ver romances entre garotas adolescentes é muito significativo<em>” </em>relata.<em>&nbsp;</em></p><p>Seja por identificação ou por apenas desejo de viver o que se passa dentro das histórias, o público segue fiel aos romances e às narrativas sentimentais. Às vezes clichês, às vezes revolucionários, mas nunca fora de moda.</p><p><em>Mariana Rangel &#8211; 2° Período</em></p></main>"
+  },
+  "date": "2023-09-10T11:16:11",
+  "date_gmt": "2023-09-10T14:16:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um estudo realizado pela Universidade Emory, nos Estados Unidos, descobriu que ler afeta o cérebro da mesma forma que realmente alguém tenha vivenciado os eventos sobre os quais está na leitura. Por mais que os poetas por vezes afirmem que não é fácil falar sobre sentimentos, ler sobre eles é bem comum. A literatura sempre teve espaço para falar de emoções e suas consequências: Genji Monogatari, o primeiro romance do mundo, por exemplo, foi escrito em princípios do século XI. Ou seja, antes de existir a Catedral de Notre Dame (século XII), já existiam livros falando sobre saudade, amor e dor.</p>\n"
+  },
+  "featured_media": 15763,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15760"
+  },
+  "id": 15760,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-10-at-19.24.26-1.jpeg?fit=750%2C807&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-46c",
+  "link": "https://agenciauvabarra.com/2023/09/10/os-sentimentos-vividos-nas-paginas-de-um-livro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-11T15:07:43",
+  "modified_gmt": "2023-09-11T18:07:43",
+  "ping_status": "open",
+  "slug": "os-sentimentos-vividos-nas-paginas-de-um-livro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1191769,
+    767056603,
+    162577,
+    8154,
+    266658
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Os sentimentos vividos nas páginas de um livro"
+  },
+  "type": "post"
+}

@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12764/revisions/12767",
+        "id": 12767
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12764"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12764",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12764/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12764"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12766"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12764",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12764",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-12764",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: O rádio que toca notícia \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/4HwiH9UfNzfF8yRUzHQBQe?si=62b4a7e3f0944833&#038;utm_source=oembed\"></iframe></div></figure><p>Um dos principais meios de comunicação do mundo completa 100 anos de existência no Brasil. O rádio é um meio ou recurso tecnológico de telecomunicações, um companheiro para quem está no trânsito, na correria do dia a dia.</p><p>O segundo episódio da série especial conta com a presença de Reni Ravanelli, repórter da Bandnews, Christiano Pinho, chefe de reportagem da Bandnews, Aldenne Lopes, chefe de reportagem da CBN de Goiânia, e Márcia Prado, diretora de jornalismo da TUPI.</p><p><em>Breno Monteiro – 8º período</em><br><em>Maria Clara Lisboa – 8º período</em></p></main>"
+  },
+  "date": "2022-09-08T14:57:22",
+  "date_gmt": "2022-09-08T17:57:22",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um dos principais meios de comunicação do mundo completa 100 anos de existência no Brasil. O rádio é um meio ou recurso tecnológico de telecomunicações, um companheiro para quem está no trânsito, na correria do dia a dia.</p>\n"
+  },
+  "featured_media": 12766,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12764"
+  },
+  "id": 12764,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-02-at-19.11.57.jpeg?fit=651%2C655&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3jS",
+  "link": "https://agenciauvabarra.com/2022/09/08/podcast-radio-uva-barra-o-radio-que-toca-noticia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-09-08T14:57:22",
+  "modified_gmt": "2022-09-08T17:57:22",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-o-radio-que-toca-noticia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: O rádio que toca notícia"
+  },
+  "type": "post"
+}

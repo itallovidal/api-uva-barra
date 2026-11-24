@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21296/revisions/21299",
+        "id": 21299
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21296"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21296",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21296/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21296"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21298"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21296",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21296",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-21296",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A cinebiografia \"Michael\" propõe mais do que recontar a história de Michael Jackson, o longa investiga as camadas que constroem o artista e o homem por trás do fenômeno global. Partindo da infância, período em que o talento já se destacava de maneira evidente, antes mesmo do Jackson 5, o filme estabelece as bases de uma carreira moldada por disciplina rigorosa, alta cobrança e uma ambição que ultrapassa os limites da indústria musical.</p><p>Ao percorrer diferentes fases da vida do cantor, a narrativa destaca não apenas a rápida projeção ao sucesso e os desafios da fama precoce, mas também os impactos dessa exposição na construção de sua identidade. Nesse sentido, o longa equilibra a dimensão espetacular, marcada pela recriação de performances icônicas, com momentos mais íntimos, evidenciando conflitos familiares e questões pessoais que ajudam a compreender a complexidade do artista.</p><p>Sob a direção de Antoine Fuqua, a obra adota uma abordagem que transita entre o drama e o espetáculo, sem perder de vista a proposta de refletir sobre o processo de reinvenção constante que caracterizou a carreira de Michael. No elenco, Jaafar Jackson, sobrinho do artista, assume a fase adulta após um processo intenso de preparação, que envolveu estudo de movimentos, voz e comportamento, além de treinos exaustivos de dança em busca de precisão nos gestos icônicos do tio. O ator, que faz sua estreia no cinema, mergulhou na construção do personagem ao ponto de reproduzir não apenas a estética, mas também a essência performática de Michael. Já Juliano Valdi representa os primeiros anos de formação do artista.</p><p>Mais do que uma celebração, \"Michael\" se constrói como uma análise da figura pública e de suas contradições, convidando o espectador a revisitar um dos maiores ícones da cultura pop sob uma perspectiva mais sensível e crítica. A estreia está marcada para o dia 23 de abril, nos cinemas.</p><p>Malu Cordeiro – 3º Período de Jornalismo</p></main>"
+  },
+  "date": "2026-04-24T10:41:19",
+  "date_gmt": "2026-04-24T13:41:19",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>&nbsp; A cinebiografia “Michael” propõe mais do que recontar a história de Michael Jackson, o longa investiga as camadas que constroem o artista e o homem por trás do fenômeno global. Partindo da infância , período em que o talento já se destacava de maneira evidente, antes mesmo do Jackson 5 , o filme estabelece [&hellip;]</p>\n"
+  },
+  "featured_media": 21298,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21296"
+  },
+  "id": 21296,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/04/img_9188.jpeg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5xu",
+  "link": "https://agenciauvabarra.com/2026/04/24/michael-revisita-a-trajetoria-do-rei-do-pop-para-alem-do-palco/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAHy5ODhwmSAXYHAAIEAwQGAwAYARBsBAIECAKEAbABAQEIAkIBAkgAmA4BAQgCQgECSACqDgEBCAIMtA4Exg8BAkgAvhYBAQgCQgECSO42tmAMtA4EzDmqTAEBCAEDSAoOBCgCQgjMAa4BAQEIAQNI0CSeIs6DATQCnIkBwosBDggOBAIECAKAILRjLuYjeygBIQAnAAQAhAsnASgGJwAoFCcARADEBQcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAhAIoBCcAhwAoAicBBAAoBCcABACBAIQAgQCEAEQAhwAoAicBKAQnAAQAhABEAIQCxACEAIcAKAInASgEJwDEAIQAqI4v6C1zdGF0ZXZlcnNpb25kb2N1bWVudGRhdGVkb2N1bWVudHN0YXR1c2RvY3VtZW50dGl0bGVSYXNjdW5obyBhdXRvbcOhdGljb2RvY3VtZW50Y29udGVudGRvY3VtZW50ZXhjZXJwdGRvY3VtZW50YXV0aG9yZG9jdW1lbnRmZWF0dXJlZF9tZWRpYWRvY3VtZW50Y29tbWVudF9zdGF0dXNkb2N1bWVudHBpbmdfc3RhdHVzZG9jdW1lbnRzdGlja3lkb2N1bWVudHRlbXBsYXRlZG9jdW1lbnRmb3JtYXRkb2N1bWVudG1ldGFhZHZhbmNlZF9zZW9fZGVzY3JpcHRpb25qZXRwYWNrX3Nlb19odG1sX3RpdGxlamV0cGFja19zZW9fbm9pbmRleF9jb2Jsb2Nrc19hdHRyX2NvYmxvY2tzX2RpbWVuc2lvbnNfY29ibG9ja3NfcmVzcG9uc2l2ZV9oZWlnaHRfY29ibG9ja3NfYWNjb3JkaW9uX2llX3N1cHBvcnRqZXRwYWNrX3Bvc3Rfd2FzX2V2ZXJfcHVibGlzaGVkcmVhZGVyX3N1Z2dlc3RlZF90YWdzX2pldHBhY2tfbmV3c2xldHRlcl9hY2Nlc3NfamV0cGFja19kb250X2VtYWlsX3Bvc3RfdG9fc3Vic19qZXRwYWNrX25ld3NsZXR0ZXJfdGllcl9pZF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BheXdhbGxlZF9jb250ZW50X2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGFpZF9jb250ZW50Zm9vdG5vdGVzamV0cGFja19wdWJsaWNpemVfbWVzc2FnZWpldHBhY2tfcHVibGljaXplX2ZlYXR1cmVfZW5hYmxlZGpldHBhY2tfc29jaWFsX3Bvc3RfYWxyZWFkeV9zaGFyZWRqZXRwYWNrX3NvY2lhbF9vcHRpb25zZG9jdW1lbnRjYXRlZ29yaWVzZG9jdW1lbnR0YWdzZG9jdW1lbnRibG9ja3PigJxNaWFlbOKAnXJldmlzaXQgYSByYWplw7NyYSBkbyBSZWkgZG8gUG9wIHBhcmEgYWzDqW0gZG8gcGFsY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50Jm5ic3A7IEEgY2luZWJpb2dyYWZpYSDigJxNaWNoYWVs4oCdIHByb3DDtWUgbWFpcyBkbyBxdWUgcmVjb250YXIgYSBoaXN0w7NyaWEgZGUgTWljaGFlbCBKYWNrc29uLCBvIGxvbmdhIGludmVzdGlnYSBhcyBjYW1hZGFzIHF1ZSBjb25zdHJvZW0gbyBhcnRpc3RhIGUgbyBob21lbSBwb3IgdHLDoXMgZG8gZmVuw7RtZW5vIGdsb2JhbC4gUGFydGluZG8gZGEgaW5mw6JuY2lhICwgcGVyw61vZG8gZW0gcXVlIG8gdGFsZW50byBqw6Egc2UgZGVzdGFjYXZhIGRlIG1hbmVpcmEgZXZpZGVudGUsIGFudGVzIG1lc21vIGRvIEphY2tzb24gNSAsIG8gZmlsbWUgZXN0YWJlbGVjZSBhcyBiYXNlcyBkZSB1bWEgY2FycmVpcmEgbW9sZGFkYSBwb3IgZGlzY2lwbGluYSByaWdvcm9zYSwgYWx0YSBjb2JyYW7Dp2EgZSB1bWEgYW1iacOnw6NvIHF1ZSB1bHRyYXBhc3NhIG9zIGxpbWl0ZXMgZGEgaW5kw7pzdHJpYSBtdXNpY2FsLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50Jm5ic3A7IEFvIHBlcmNvcnJlciBkaWZlcmVudGVzIGZhc2VzIGRhIHZpZGEgZG8gY2FudG9yLCBhIG5hcnJhdGl2YSBkZXN0YWNhIG7Do28gYXBlbmFzIGEgcsOhcGlkYSBwcm9qZcOnw6NvIGFvIHN1Y2Vzc28gZSBvcyBkZXNhZmlvcyBkYSBmYW1hIHByZWNvY2UsIG1hcyB0YW1iw6ltIG9zIGltcGFjdG9zIGRlc3NhIGV4cG9zacOnw6NvIG5hIGNvbnN0cnXDp8OjbyBkZSBzdWEgaWRlbnRpZGFkZS4gTmVzc2Ugc2VudGlkbywgbyBsb25nYSBlcXVpbGlicmEgYSBkaW1lbnPDo28gZXNwZXRhY3VsYXIsIG1hcmNhZGEgcGVsYSByZWNyaWHDp8OjbyBkZSBwZXJmb3JtYW5jZXMgaWPDtG5pY2FzLCBjb20gbW9tZW50b3MgbWFpcyDDrW50aW1vcywgZXZpZGVuY2lhbmRvIGNvbmZsaXRvcyBmYW1pbGlhcmVzIGUgcXVlc3TDtWVzIHBlc3NvYWlzIHF1ZSBhanVkYW0gYSBjb21wcmVlbmRlciBhIGNvbXBsZXhpZGFkZSBkbyBhcnRpc3RhLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50Jm5ic3A7IFNvYiBhIGRpcmXDp8OjbyBkZSBBbnRvaW5lIEZ1cXVhLCBhIG9icmEgYWRvdGEgdW1hIGFib3JkYWdlbSBxdWUgdHJhbnNpdGEgZW50cmUgbyBkcmFtYSBlIG8gZXNwZXTDoWN1bG8sIHNlbSBwZXJkZXIgZGUgdmlzdGEgYSBwcm9wb3N0YSBkZSByZWZsZXRpciBzb2JyZSBvIHByb2Nlc3NvIGRlIHJlaW52ZW7Dp8OjbyBjb25zdGFudGUgcXVlIGNhcmFjdGVyaXpvdSBhIGNhcnJlaXJhIGRlIE1pY2hhZWwuIE5vIGVsZW5jbywgSmFhZmFyIEphY2tzb24sc29icmluaG8gZG8gYXJ0aXN0YSwgYXNzdW1lIGEgZmFzZSBhZHVsdGEgYXDDs3MgdW0gcHJvY2Vzc28gaW50ZW5zbyBkZSBwcmVwYXJhw6fDo28sIHF1ZSBlbnZvbHZldSBlc3R1ZG8gZGUgbW92aW1lbnRvcywgdm96IGUgY29tcG9ydGFtZW50bywgYWzDqW0gZGUgdHJlaW5vcyBleGF1c3Rpdm9zIGRlIGRhbsOnYSBlbSBidXNjYSBkZSBwcmVjaXPDo28gbm9zIGdlc3RvcyBpY8O0bmljb3MgZG8gdGlvIO+/vS4gTyBhdG9yLCBxdWUgZmF6IHN1YSBlc3RyZWlhIG5vIGNpbmVtYSwgbWVyZ3VsaG91IG5hIGNvbnN0cnXDp8OjbyBkbyBwZXJzb25hZ2VtIGFvIHBvbnRvIGRlIHJlcHJvZHV6aXIgbsOjbyBhcGVuYXMgYSBlc3TDqXRpY2EsIG1hcyB0YW1iw6ltIGEgZXNzw6puY2lhIHBlcmZvcm3DoXRpY2EgZGUgTWljaGFlbC4gSsOhIEp1bGlhbm8gVmFsZGkgcmVwcmVzZW50YSBvcyBwcmltZWlyb3MgYW5vcyBkZSBmb3JtYcOnw6NvIGRvIGFydGlzdGEuZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnQmbmJzcDsgJm5ic3A7TWFpcyBkbyBxdWUgdW1hIGNlbGVicmHDp8Ojbywg4oCcTWljaGFlbOKAnSBzZSBjb25zdHLDs2kgY29tbyB1bWEgYW7DoWxpc2UgZGEgZmlndXJhIHDDumJsaWNhIGUgZGUgc3VhcyBjb250cmFkacOnw7VlcywgY29udmlkYW5kbyBvIGVzcGVjdGFkb3IgYSByZXZpc2l0YXIgdW0gZG9zIG1haW9yZXMgw61jb25lcyBkYSBjdWx0dXJhIHBvcCBzb2IgdW1hIHBlcnNwZWN0aXZhIG1haXMgc2Vuc8OtdmVsIGUgY3LDrXRpY2EuIEEgZXN0cmVpYSBlc3TDoSBtYXJjYWRhIHBhcmEgbyBkaWEgMjMgZGUgYWJyaWwsIG5vcyBjaW5lbWFzLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPiZuYnNwOyBBIGNpbmViaW9ncmFmaWEg4oCcTWljaGFlbOKAnSBwcm9ww7VlIG1haXMgZG8gcXVlIHJlY29udGFyIGEgaGlzdMOzcmlhIGRlIE1pY2hhZWwgSmFja3NvbiwgbyBsb25nYSBpbnZlc3RpZ2EgYXMgY2FtYWRhcyBxdWUgY29uc3Ryb2VtIG8gYXJ0aXN0YSBlIG8gaG9tZW0gcG9yIHRyw6FzIGRvIGZlbsO0bWVubyBnbG9iYWwuIFBhcnRpbmRvIGRhIGluZsOibmNpYSAsIHBlcsOtb2RvIGVtIHF1ZSBvIHRhbGVudG8gasOhIHNlIGRlc3RhY2F2YSBkZSBtYW5laXJhIGV2aWRlbnRlLCBhbnRlcyBtZXNtbyBkbyBKYWNrc29uIDUgLCBvIGZpbG1lIGVzdGFiZWxlY2UgYXMgYmFzZXMgZGUgdW1hIGNhcnJlaXJhIG1vbGRhZGEgcG9yIGRpc2NpcGxpbmEgcmlnb3Jvc2EsIGFsdGEgY29icmFuw6dhIGUgdW1hIGFtYmnDp8OjbyBxdWUgdWx0cmFwYXNzYSBvcyBsaW1pdGVzIGRhIGluZMO6c3RyaWEgbXVzaWNhbC48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD4mbmJzcDsgQW8gcGVyY29ycmVyIGRpZmVyZW50ZXMgZmFzZXMgZGEgdmlkYSBkbyBjYW50b3IsIGEgbmFycmF0aXZhIGRlc3RhY2EgbsOjbyBhcGVuYXMgYSByw6FwaWRhIHByb2plw6fDo28gYW8gc3VjZXNzbyBlIG9zIGRlc2FmaW9zIGRhIGZhbWEgcHJlY29jZSwgbWFzIHRhbWLDqW0gb3MgaW1wYWN0b3MgZGVzc2EgZXhwb3Npw6fDo28gbmEgY29uc3RydcOnw6NvIGRlIHN1YSBpZGVudGlkYWRlLiBOZXNzZSBzZW50aWRvLCBvIGxvbmdhIGVxdWlsaWJyYSBhIGRpbWVuc8OjbyBlc3BldGFjdWxhciwgbWFyY2FkYSBwZWxhIHJlY3JpYcOnw6NvIGRlIHBlcmZvcm1hbmNlcyBpY8O0bmljYXMsIGNvbSBtb21lbnRvcyBtYWlzIMOtbnRpbW9zLCBldmlkZW5jaWFuZG8gY29uZmxpdG9zIGZhbWlsaWFyZXMgZSBxdWVzdMO1ZXMgcGVzc29haXMgcXVlIGFqdWRhbSBhIGNvbXByZWVuZGVyIGEgY29tcGxleGlkYWRlIGRvIGFydGlzdGEuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+IFNvYiBhIGRpcmXDp8OjbyBkZSBBbnRvaW5lIEZ1cXVhLCBhIG9icmEgYWRvdGEgdW1hIGFib3JkYWdlbSBxdWUgdHJhbnNpdGEgZW50cmUgbyBkcmFtYSBlIG8gZXNwZXTDoWN1bG8sIHNlbSBwZXJkZXIgZGUgdmlzdGEgYSBwcm9wb3N0YSBkZSByZWZsZXRpciBzb2JyZSBvIHByb2Nlc3NvIGRlIHJlaW52ZW7Dp8OjbyBjb25zdGFudGUgcXVlIGNhcmFjdGVyaXpvdSBhIGNhcnJlaXJhIGRlIE1pY2hhZWwuIE5vIGVsZW5jbywgSmFhZmFyIEphY2tzb24sc29icmluaG8gZG8gYXJ0aXN0YSwgYXNzdW1lIGEgZmFzZSBhZHVsdGEgYXDDs3MgdW0gcHJvY2Vzc28gaW50ZW5zbyBkZSBwcmVwYXJhw6fDo28sIHF1ZSBlbnZvbHZldSBlc3R1ZG8gZGUgbW92aW1lbnRvcywgdm96IGUgY29tcG9ydGFtZW50bywgYWzDqW0gZGUgdHJlaW5vcyBleGF1c3Rpdm9zIGRlIGRhbsOnYSBlbSBidXNjYSBkZSBwcmVjaXPDo28gbm9zIGdlc3RvcyBpY8O0bmljb3MgZG8gdGlvLiBPIGF0b3IsIHF1ZSBmYXogc3VhIGVzdHJlaWEgbm8gY2luZW1hLCBtZXJndWxob3UgbmEgY29uc3RydcOnw6NvIGRvIHBlcnNvbmFnZW0gYW8gcG9udG8gZGUgcmVwcm9kdXppciBuw6NvIGFwZW5hcyBhIGVzdMOpdGljYSwgbWFzIHRhbWLDqW0gYSBlc3PDqm5jaWEgcGVyZm9ybcOhdGljYSBkZSBNaWNoYWVsLiBKw6EgSnVsaWFubyBWYWxkaSByZXByZXNlbnRhIG9zIHByaW1laXJvcyBhbm9zIGRlIGZvcm1hw6fDo28gZG8gYXJ0aXN0YS48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD4mbmJzcDsgJm5ic3A7TWFpcyBkbyBxdWUgdW1hIGNlbGVicmHDp8Ojbywg4oCcTWljaGFlbOKAnSBzZSBjb25zdHLDs2kgY29tbyB1bWEgYW7DoWxpc2UgZGEgZmlndXJhIHDDumJsaWNhIGUgZGUgc3VhcyBjb250cmFkacOnw7VlcywgY29udmlkYW5kbyBvIGVzcGVjdGFkb3IgYSByZXZpc2l0YXIgdW0gZG9zIG1haW9yZXMgw61jb25lcyBkYSBjdWx0dXJhIHBvcCBzb2IgdW1hIHBlcnNwZWN0aXZhIG1haXMgc2Vuc8OtdmVsIGUgY3LDrXRpY2EuIEEgZXN0cmVpYSBlc3TDoSBtYXJjYWRhIHBhcmEgbyBkaWEgMjMgZGUgYWJyaWwsIG5vcyBjaW5lbWFzLjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPsKgY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NtYWxNdSBDb3JkZWlybyAtIDPCuiBQZXJpb2Rvw60gZGUgSm9ybmFsaXNtbyBjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc8KgCgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+TWFsdSBDb3JkZWlybyAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vIDwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgUHCAQIBggFAwECQQQDQQACCAcIBwgGCA4IDggLCAZIAQYIBBgWEw4UGx4fFRogGy8qCRkhIhYICggECAYDBAcDBAIgCAcECgeABwcKDQ8MCwgHBAoHiQcHCg0PDAsIBwQKBwaaBwKxAwcKDQ8MCwgHBAoHqwQHCg0PDAuOEJoHrQkBCAcECkcACg0PDAsBAgETAQMBDwgHBApHAAoNDwwLAZUCCwEDAAABCQASAQIAHEIBAQBBAAIAQQACAEEAAgBBAAIAQQACAEEAAgAJQT0GAkEQBkEAAZwBAH0BdxMyMDI2LTA0LTI0VDEwOjM4OjAzfZrgrnJ9AHcEb3BlbncEb3Blbnl3AHcIc3RhbmRhcmR3AHcAeXcAdwB3AHcAeXcAdwB5fQB5eXcAdwB4eXYCGGltYWdlX2dlbmVyYXRvcl9zZXR0aW5nc3YECHRlbXBsYXRldwdoaWdod2F5EGRlZmF1bHRfaW1hZ2VfaWR9AARmb250dwAHZW5hYmxlZHkHdmVyc2lvbn0CdQB1AHckODFmN2MwNTAtZjIyMi00NmQ5LWIzMDYtZWIyNjA4ZmE2YjBmeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQxZjU5MWNkNy1jM2Q3LTQ5MGQtOTAzOS01NzFmMzE2YTY2NTJ4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JGIwZTg2OGQ4LWViMmMtNGYxZC05ODNiLWI3NTQ5YThiNzYwZHh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckMGIwM2E0NTAtY2Q2MS00Njk4LWFiY2YtNjNkMWYwNDU2OTAweHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyRhNTYzZDQ5OS0zYzUzLTRkNzEtYjNmMy1hMWUxMWJkOGNkMTh4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDliN2E2NjhiLTQ2MGEtNGIyZi04NDczLTcyODRkM2YxZmY0MHh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eX2yzAJ1AX2VCXUBfZnMmOoEdQJ9mcyY6gR9hvPpuAF1A32ZzJjqBH2G8+m4AX2svpcFdQR9mcyY6gR9hvPpuAF9rL6XBX2VCXUFfZnMmOoEfYbz6bgBfay+lwV9lQl9m5ICdQZ9mcyY6gR9hvPpuAF9rL6XBX2VCX2bkgJ9q4+pIXUHfZnMmOoEfYbz6bgBfay+lwV9lQl9m5ICfauPqSF9iqvf7wR3B3B1Ymxpc2gBy8nBwwQPAgABAgEBAQACAAECBwAZAd8HBdoDAbwMBdoDAfoEABYAtwEF\",\"updateId\":4735105}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-04-24T10:41:19",
+  "modified_gmt": "2026-04-24T13:41:19",
+  "ping_status": "open",
+  "slug": "michael-revisita-a-trajetoria-do-rei-do-pop-para-alem-do-palco",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    17563,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "“Michael” revisita a trajetória do Rei do Pop para além do palco"
+  },
+  "type": "post"
+}

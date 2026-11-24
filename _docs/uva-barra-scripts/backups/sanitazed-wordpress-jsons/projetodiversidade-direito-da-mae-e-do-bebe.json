@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1417/revisions/2994",
+        "id": 2994
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1417"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1417",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1417/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1417"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1417",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1417",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-1417",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-saude",
+    "category-sociedade",
+    "tag-projetodiversidade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Professores, colaboradores e visitantes participam da Feira de Sustentabilidade da UVA, que teve entre os temas o aleitamento materno</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/tyhrhrt.jpg?fit=644%2C364&amp;ssl=1' alt='tyhrhrt' width='644' height='364' /><figcaption>Foto: Campanha de Amamentação Ministério da Saúde 2017</figcaption></figure><p>Amamentar, doar, estabelecer relações de afeto e carinho, contribuir para a formação de uma geração mais saudável, física e emocionalmente: essas atitudes também são formas de promover um mundo melhor. Exatamente por acreditar nisso, a II Feira de Práticas Sustentáveis da UVA encampou, durante o evento, uma campanha entre a comunidade acadêmica e os visitantes para incentivar não apenas a amamentação, mas também a doação de leite materno, que registra estoques e número de doadoras abaixo da média ideal.</p><p>Em apoio à Semana Mundial de Aleitamento Materno (SMAM), que neste ano comemora o 25º aniversário, foi lançada pela Aliança Mundial para Ação em Amamentação (WABA). Estudantes do curso de Enfermagem da UVA, além de orientarem mulheres a exercer o direito de amamentar, promovem iniciativas em prol da saúde da criança. Para que os conhecimentos chegassem aos participantes, os orientadores da campanha utilizaram um jogo da memória, como uma forma de interação com o tema, e esclareceram dúvidas relacionadas à lactação.</p><p>Para a estudante de Enfermagem Natálha Figueiredo, 31 anos, o ato da amamentação, de mãe para filho, contribui para a saúde do bebê. ”Toda mulher produz leite, logo possui condições de amamentar”. Ela considera esse ato de extrema importância para o recém-nascido, pois auxilia o bom desenvolvimento e o crescimento saudável da criança. O aleitamento materno beneficia até mesmo o meio ambiente, pois evita o descarte de recipientes de vidro e plástico e colabora para a economia de água.</p><p>Durante a amamentação, o bebê recebe os anticorpos para a proteção contra diversas doenças e reduz os riscos de diabetes e obesidade no futuro, de acordo com dados do Ministério da Saúde. Os estudos também abordam os benefícios para a saúde da mulher, pois amamentar diminui o sangramento pós-parto e evita a depressão. Natálha ainda faz um apelo para campanha de doação. “Precisamos de leite materno para ajudar outras crianças”. Entre os postos de coleta, está a maternidade Leila Diniz, na Barra da Tijuca, que funciona diariamente.</p><p>Se de um lado há o incentivo ao aleitamento materno, por outro, existem alguns fatores que inibem as mães de amamentarem seus filhos em vias públicas. “O corpo é a da mulher e a criança precisa ser alimentada, independentemente do local”, declara. No estado de São Paulo, o Projeto de Lei nº 414/2015, prevê uma multa no valor de R$500,00 caso os estabelecimentos impeçam mulheres de amamentar. Por não haver uma lei federal que possa dar suporte a esses casos, cada estado busca a melhor maneira de lidar com as queixas, com o objetivo de diminuir o constrangimento das mães. Importante é estimular o ato de amor que envolve a amamentação.</p></main>"
+  },
+  "date": "2017-10-02T15:10:07",
+  "date_gmt": "2017-10-02T18:10:07",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Professores, colaboradores e visitantes participam da Feira de Sustentabilidade da UVA, que teve entre os temas o aleitamento materno Amamentar, doar, estabelecer relações de afeto e carinho, contribuir para a formação de uma geração mais saudável, física e emocionalmente: essas atitudes também são formas de promover um mundo melhor. Exatamente por acreditar nisso, a II [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1417"
+  },
+  "id": 1417,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-mR",
+  "link": "https://agenciauvabarra.com/2017/10/02/projetodiversidade-direito-da-mae-e-do-bebe/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T18:12:18",
+  "modified_gmt": "2019-01-26T20:12:18",
+  "ping_status": "open",
+  "slug": "projetodiversidade-direito-da-mae-e-do-bebe",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056637
+  ],
+  "template": "",
+  "title": {
+    "rendered": "#ProjetoDiversidade: Direito da mãe e do bebê"
+  },
+  "type": "post"
+}

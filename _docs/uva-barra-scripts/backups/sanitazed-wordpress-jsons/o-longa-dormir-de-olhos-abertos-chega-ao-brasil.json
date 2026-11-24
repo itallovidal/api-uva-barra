@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18999/revisions/19016",
+        "id": 19016
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18999"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18999",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18999/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18999"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19015"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18999",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18999",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    23208,
+    22,
+    14603
+  ],
+  "class_list": [
+    "post-18999",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-entretenimento",
+    "category-internet",
+    "category-jornalismo",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>&#8220;Dormir de Olhos Abertos&#8221; acompanha a trajetória de chineses que buscam construir uma vida no Brasil sem vistos legais. Em Recife, Kai, uma jovem taiwanesa, chega após ser abandonada pelo namorado no aeroporto e precisa enfrentar a barreira linguística e o estranhamento de uma cidade desconhecida. Um breve encontro com Fu Ang, vendedor de guarda-chuvas, desperta a possibilidade de amizade, mas seu desaparecimento, deixando apenas cartões-postais com histórias de outros chineses na cidade, leva a protagonista a uma jornada marcada por aventuras e pelo desejo de pertencimento.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/image-3.png?resize=1089%2C1600&amp;ssl=1\" alt=\"\" width=\"1089\" height=\"1600\" /><figcaption>(Cartaz do Filme)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/image-1.png?resize=1070%2C1600&amp;ssl=1\" alt=\"\" width=\"1070\" height=\"1600\" /><figcaption>(Imagem do filme- Wang Shin Hong)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/image-5.png?resize=1079%2C732&amp;ssl=1\" alt=\"\" width=\"1079\" height=\"732\" /><figcaption>(Imagem Do Filme- Victor Juca)</figcaption></figure><p>Dirigido por Nele Wohlatz, o longa se destaca pela riqueza linguística, sendo falado em mandarim, português, espanhol, inglês e alemão, refletindo a diversidade cultural de seus personagens. O cineasta, convidado para mais de 70 festivais internacionais, é reconhecido por explorar as conexões entre linguagem e cinema, assim como os limites entre ficção e documentário.</p><p>Eleito o melhor filme pela FIPRESCI no Festival de Cinema de Berlim em 2024, o longa percorreu importantes festivais internacionais, como IndieLisboa, até chegar ao Festival do Rio, onde teve sua estreia nacional em sessão apresentada por Kleber Mendonça Filho, um de seus produtores.</p><p>Kleber Mendonça Filho, elogia a produção: “O filme é lindo e apresenta um ponto de vista sobre o Recife e sobre o Brasil, a partir do estrangeiro, nunca antes visto. Poliglota, contém graça, estranheza e Gal Costa”. Para o cineasta, a obra se destaca por oferecer uma perspectiva inédita sobre a cidade e o país, combinando diversidade linguística, momentos de leveza, situações inesperadas e referências culturais brasileiras que enriquecem a experiência dos protagonistas.</p><p>O filme revela ainda como o trabalho informal e a constante mudança de cidade expõem os estrangeiros a condições precárias, enquanto as barreiras linguísticas e preconceito dificultam sua integração. Ao mesmo tempo, aborda o impacto emocional dessas experiências, a sensação de isolamento, a busca por pertencimento e o receio de retornar ao país de origem sem se sentir acolhido, sem deixar de registrar as práticas culturais que acompanham esses personagens em sua trajetória.</p><p>Malu Cordeiro -2° Período</p></main>"
+  },
+  "date": "2025-09-10T10:35:55",
+  "date_gmt": "2025-09-10T13:35:55",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Dormir de olhos abertos: o Brasil pelo olhar estrangeiro </p>\n"
+  },
+  "featured_media": 19015,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18999"
+  },
+  "id": 18999,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/81563ed81f1751af54f91bddb136db93.webp?fit=300%2C300&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Wr",
+  "link": "https://agenciauvabarra.com/2025/09/10/o-longa-dormir-de-olhos-abertos-chega-ao-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-10T10:35:55",
+  "modified_gmt": "2025-09-10T13:35:55",
+  "ping_status": "open",
+  "slug": "o-longa-dormir-de-olhos-abertos-chega-ao-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    17563,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O longa “Dormir de Olhos Abertos”  chega ao Brasil"
+  },
+  "type": "post"
+}

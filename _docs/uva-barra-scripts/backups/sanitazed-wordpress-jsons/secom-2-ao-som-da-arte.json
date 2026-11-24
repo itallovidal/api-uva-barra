@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1964/revisions/3107",
+        "id": 3107
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1964"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1964",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1964/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1964"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1964",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1964",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1964",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Em segundo dia de encontro, música e cultura unem os participantes</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/img_3344.jpg?resize=4352%2C3264&#038;ssl=1' alt='IMG_3344' width='4352' height='3264' /><figcaption>Foto: Karina Figueiredo</figcaption></figure><p>Voz, luta e ousadia. A censura também foi destaque da Semana de Comunicação (SECOM) do campus UVA Barra, na última quarta-feira (16/05). O tema “É proibido proibir” trouxe consigo forte carga histórica no meio da Comunicação Social e, por isso, os organizadores da SECOM prepararam uma viagem direto dos anos 60 até os dias atuais. Neste dia do evento, quem participou teve direito a palestras, música e até oficina.</p><p>A programação se iniciou às 8:30 da manhã com um Welcome Coffee preparado para os alunos. Após a recepção, o Coral da Câmara Comunitária da Barra (CCBT), composto em maioria por idosos, abriu o segundo dia da SECOM com grandes sucessos como “O barquinho” de Roberto Menescal e “Velha infância” do grupo Tribalistas. O maestro do coral, Luiz Lima, mostrou-se honrado com a participação no evento e conta que o principal objetivo é passar alegria para todos. “Sempre mostrar que não tem idade para ser alegre e viver”.</p><p>Além do exemplo de força de vontade dado pelo coral, a programação contou com a palestra de Carlos Briggs, jornalista da Band News com o tema foi “1968, o ano que mudou o mundo?”. O intuito dessa abordagem, de acordo com Carlos, foi trazer uma reflexão sobre o que a liberdade foi e é atualmente. “Temas como esse trazem visão de mercado e procurei dar um viés muito crítico”. A aluna do 4º período de Publicidade, Letícia Tonon, acredita ser fundamental a discussão sobre esse período histórico. “Foi interessante comparar o hoje com o passado e saber como devemos atuar”.</p><p>Nesta época , a liberdade de expressão crescia na sociedade. A arte literária, por exemplo, se destacou ainda mais após os relatos dos principais artistas da década de 60 e 70. Entre eles Gilberto Gil e o compositor Torquato Neto, participantes do tropicalismo, movimento que mudou o ambiente cultural do Brasil e que fazia fortes críticas ao conservadorismo. No entanto, ainda na mesma época, a obra do autor Hélio Oiticica “Seja marginal seja herói”, foi reprovada e o autor acusado de fazer apologia ao crime. “A situação se repete por censura, questões políticas e motivações pessoais”, declara a cantora Ana Patrícia Oliveira de Melo.</p><p>Esses fatores impulsionam o surgimento de outras manifestações culturais. “A música tem força, menos dura, mas com muito significado”, conclui a piauiense. Ela recebeu o apoio do amigo e convidado Christovam de Chevalier. “A canção brasileira tem que espelhar o momento atual. No passado eles eram reprimidos e espelharam a época”, explica o escritor e colunista do jornal O Globo ao se referir às diferenças entre os momentos históricos e relatar as dificuldades de exercer os próprios direitos. Para encerrar o segundo dia de palestras da SECOM, um workshop sobre empreendedorismo reuniu os estudantes.</p><p>Com um tema direcionado a Fotografia, o Digital Influencer Vinicius Tribian apresentou cases de sucesso no percurso de carreira e ofereceu dicas para alcançar um bom resultado no mercado de trabalho. “Eu não queria saber de nada, mas queria montar um negócio”, relata o empresário que considera as redes sociais uma importante ferramenta. A coordenadora do curso de Comunicação Social Renata Feital, elogia os organizadores do evento. “A dedicação, participação dos alunos, o tema… tudo isso me emocionou”, confessa entusiasmada com os resultados do projeto.</p><p>Karina de Figueiredo, 4º período e Nayara Simões, 4º período</p></main>"
+  },
+  "date": "2018-05-17T17:43:51",
+  "date_gmt": "2018-05-17T20:43:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>&nbsp;Em segundo dia de encontro, música&nbsp; e cultura unem os participantes Voz, luta e ousadia. A censura também foi destaque da Semana de Comunicação (SECOM) do campus UVA Barra, na última quarta-feira (16/05). O tema “É proibido proibir” trouxe consigo forte carga histórica no meio da Comunicação Social e, por isso, os organizadores da SECOM [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1964"
+  },
+  "id": 1964,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-vG",
+  "link": "https://agenciauvabarra.com/2018/05/17/secom-2-ao-som-da-arte/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:44:47",
+  "modified_gmt": "2019-01-31T14:44:47",
+  "ping_status": "open",
+  "slug": "secom-2-ao-som-da-arte",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "SECOM #2: Ao som da arte"
+  },
+  "type": "post"
+}

@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10562/revisions/10578",
+        "id": 10578
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10562"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10562",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10562/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10562"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10573"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10562",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10562",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-10562",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Apesar das evidências científicas sobre os exames de rotina, o toque retal encontra resistência em meio a estereótipos</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-edson-braune.jpg' alt='' width='719' height='953' /><figcaption>Edson Braune, urologista, reforçou que não tem como perceber o estágio do câncer de próstata sem a realização dos exames de rotina, à medida que os sintomas, normalmente, aparecem na fase avançada. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-pedro-1.jpg' alt='' width='782' height='1024' /><figcaption>O empresário Pedro Balestieri descobriu o câncer de próstata logo no início por meio do diagnóstico precoce e resolveu operar o quanto antes, já que o pai e o irmão passaram por complicações com a doença. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-ruth.jpg' alt='' width='372' height='615' /><figcaption>A psicóloga Ruth Santiago percebe uma desvalorização do autocuidado masculino na sociedade, principalmente no exame da próstata, que envolve o machismo e a homofobia por causa do toque retal. (Foto: Arquivo Pessoal) </figcaption></figure><p>De acordo com a Sociedade Brasileira de Urologia (SBU), a chance de cura do câncer de próstata — o segundo mais recorrente na população masculina — é de 90% se for identificado na fase inicial. Os especialistas recomendam que os homens com histórico familiar da doença façam a checagem médica a partir dos 40 anos e quem não possui antecedentes, desde os 45, ambos com intervalo de 1 ano. O diagnóstico se dá através do exame de sangue do PSA (antígeno prostático específico) e do toque retal. Ainda assim, há indivíduos que negam a ciência devido ao preconceito e à masculinidade frágil. </p><p>Com a pandemia, a SBU revelou que o número de consultas urológicas no Sistema Único de Saúde (SUS) caiu 33,5% de 2019 para 2020. Em consequência disso, houve queda de 27% dos exames de PSA e de 21% das biópsias de próstata no mesmo período. O urologista Edson Braune sentiu uma redução nos atendimentos em meio às medidas restritivas, o que propicia o alastramento da doença. “Sem os exames para o diagnóstico precoce, o médico não percebe a evolução da doença e, quando o paciente volta ao consultório, ela já pode estar no estágio avançado, dificultando o tratamento adequado”, alerta.</p><p>Mesmo com o avanço da vacinação e com o afrouxamento das medidas restritivas, a procura por médicos continua baixa, com 1,8 milhão até julho (2021), contra 2,8 milhões (2020) e 4,2 milhões (2019) — dados obtidos pela SBU . Edson Braune destaca que os tumores de próstata só produzem manifestações clínicas ou sintomas quando atingem a cápsula prostática, ou seja, em uma fase relativamente avançada, o que mostra a importância dos exames de rotina. Neste ano, a estimativa de novos casos é de aproximadamente 66 mil com base no Instituto Nacional do Câncer (Inca), sendo boa parte sem diagnóstico, tendo em vista a diminuição das consultas na pandemia.</p><p>Ciente da diferença do olhar clínico no tratamento do câncer de próstata, o empresário Pedro Balestieri é do grupo de risco — pai e irmão já tiveram — e se antecipou na descoberta do tumor. “Eu já fazia o exame da próstata desde os 40 anos. Inclusive ainda não tinha completado 1 ano de intervalo quando eu insisti em realizar novamente. A biópsia identificou dois tumores bem no início e operei logo para evitar complicações”, diz. Além disso, ele lembra da morte de amigos para a doença que menosprezaram os efeitos da detecção prévia.</p><p><strong>Pedro Balestieri, empresário, conta como foi a descoberta do câncer de próstata.</strong></p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1153374970&show_artwork=true&maxheight=750&maxwidth=500' width='500' height='400' title='Pedro Balestieri, empresário, conta como foi a descoberta do câncer de próstata by Agência UVA Barra' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe></figure><h2><em><strong>Preconceitos ao local do exame da próstata</strong></em> </h2><p>O machismo e a homofobia, presentes no cotidiano, se refletem no comportamento de negação ao toque retal. Para a psicóloga Ruth Santiago a idealização do sexo masculino está ligada a esse sentimento de rejeição. “A imagem que a sociedade passa é sempre de um homem forte, viril que não precisa de tantos cuidados quanto às mulheres. O local do exame pode levar a uma crença que afeta a masculinidade ao descobrir uma doença nessa área”, declara.</p><p><strong>A psicóloga Ruth Santiago analisa o comportamento de negação do homem ao toque retal</strong>. </p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1153372420&show_artwork=true&maxheight=750&maxwidth=500' width='500' height='400' title='A psicóloga Ruth Santiago analisa o comportamento de negação do homem ao toque retal by Agência UVA Barra' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe></figure><p>Mesmo ciente da gravidade de não realizar o exame da próstata anualmente, Cláudio, que optou por não se identificar com o nome de registro, jamais o fez e se garante apenas no resultado do PSA. Na visão de Edson Braune, é comum aparecer pacientes desse tipo, ao mesmo tempo que ficou mais fácil convencê-los com a maior repercussão do assunto ao longo dos anos. “Antigamente eram mais numerosos, mas, com a conscientização da população, eles diminuíram bastante, porque é só explicar o risco que correm quando não fazem o diagnóstico precoce e o tratamento adequado”, comenta.</p><p>Na tentativa de acabar com os estigmas acerca do câncer de próstata, o Novembro Azul busca conscientizar a população sobre os benefícios do diagnóstico precoce e os malefícios de deixar o preconceito ofuscar a própria saúde íntima. Para se ter noção do cenário recente, a taxa de mortalidade aumentou 10% de 2015 para 2019 segundo a SBU, já que ainda há homens que resistem aos procedimentos médicos por questões sociais.</p><p><em>Lucas Ribeiro – 6° período</em></p></main>"
+  },
+  "date": "2021-11-03T18:29:46",
+  "date_gmt": "2021-11-03T21:29:46",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De acordo com a Sociedade Brasileira de Urologia (SBU), a chance de cura do câncer de próstata — o segundo mais recorrente na população masculina — é de 90% se for identificado na fase inicial. Os especialistas recomendam que os homens com histórico familiar da doença façam a checagem médica a partir dos 40 anos e quem não possui antecedentes, desde os 45, ambos com intervalo de 1 ano. O diagnóstico se dá através do exame de sangue do PSA (antígeno prostático específico) e do toque retal. Ainda assim, há indivíduos que negam a ciência devido ao preconceito e à masculinidade frágil. </p>\n"
+  },
+  "featured_media": 10573,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10562"
+  },
+  "id": 10562,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/capa-novembro-azul.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Km",
+  "link": "https://agenciauvabarra.com/2021/11/03/novembro-azul-diagnostico-precoce-enfrenta-barreiras-sociais-no-combate-ao-cancer-de-prostata/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-03T18:35:26",
+  "modified_gmt": "2021-11-03T21:35:26",
+  "ping_status": "open",
+  "slug": "novembro-azul-diagnostico-precoce-enfrenta-barreiras-sociais-no-combate-ao-cancer-de-prostata",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Novembro Azul: diagnóstico precoce enfrenta barreiras sociais no combate ao câncer de próstata"
+  },
+  "type": "post"
+}

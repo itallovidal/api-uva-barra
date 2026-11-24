@@ -1,0 +1,164 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7702/revisions/7728",
+        "id": 7728
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7702"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7702",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7702/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7702"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7710"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7702",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7702",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    407146,
+    18330,
+    670411728
+  ],
+  "class_list": [
+    "post-7702",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-exposicao",
+    "category-institucional",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A 5ª edição do evento reúne diversos designers e artistas nacionais</em></p><p>Desde 2016 o evento “Novos Talentos Brasileiros – Design e Arte” celebra o futuro do design nacional e tem como objetivo ser uma vitrine para os novos profissionais impulsionando o mercado de design de produtos. A edição de 2020 conta com a participação de quatro alunas da Universidade Veiga de Almeida. Micaela Menezes, Mariana Montebello, Carolina Vitoria e Lara Portocarrero Campista estarão na exposição do CasaShopping de 30 de outubro a 15 de novembro com projetos individuais.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto1.jpeg\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Para Caroline Vitoria, participar do “Novos Talentos Brasileiros – Design e Arte” a fez colocar em prática o conhecimento adquirido na universidade. “Eu vejo isso com um impacto muito grande na vida de um aluno que tá começando a ingressar no mercado de trabalho”, explica.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto2.jpeg\" alt=\"\" width=\"652\" height=\"920\"><figcaption>Lara Portocarrero Campista se planejou para participar da mostra e desenvolveu o projeto visando ser selecionada. “Eu já fiz um móvel que eu ficasse 100% satisfeita em me inscrever futuramente no concurso. Eu tive a grata surpresa de ser aprovada”, conta.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/mariana.jpeg\" alt=\"\" width=\"480\" height=\"640\"><figcaption>Para Mariana Montebello, o processo até a aprovação do projeto no “Novos Talentos Brasileiros – Design e Arte” foi “Uma mistura de ansiedade e expectativa”.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto.jpeg\" alt=\"\" width=\"646\" height=\"1020\"><figcaption>Micaela Menezes conheceu o “Novos Talentos Brasileiros – Design e Arte” logo nos períodos iniciais da graduação. A partir da seleção do projeto, Micaela faz planos para o futuro profissional. “Eu pretendo me especializar e buscar cada vez mais conhecimento, me aperfeiçoar, produzir cada vez mais e ter meu trabalho reconhecido”.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/20190713_210819.jpg\" alt=\"\" width=\"2448\" height=\"3264\"><figcaption>Silvana Rocha, professora que orientou as alunas até a seleção, afirma que encoraja todos os alunos a participar. “Considero que uma amostra deste tipo dá boa visibilidade aos novos profissionais que ainda não são conhecidos, é uma ótima oportunidade de praticarem o que aprenderam, tirar do papel e produzir algo criado por eles, adoro isso”.</figcaption></figure><p>Essa jornada começou dentro de sala de aula. A professora Silvana Rocha orientou os alunos desde a idealização do projeto até as inscrições para a mostra. “Eu procuro sempre estimular meus orientandos e ajudo em tudo que é possível para que eles consigam ir mais adiante”, diz Silvana.</p><p>A participação no evento é um ponto de virada na vida profissional das alunas. Lara Portocarrero Campista está na segunda graduação e se redescobriu em Design de Interiores. “Quando a gente vê essa aprovação acontecendo e eu gostar tanto da graduação que eu tô fazendo, a gente sente que tá no caminho certo”, afirma.</p><p>Já Mariana Montebello acredita que a exposição no “Novos Talentos Brasileiros” pode abrir portas e dar visibilidade. A estudante sabe da importância de se manter atualizada e planeja os próximos passos da carreira. “Pretendo investir em cursos dando ênfase ao Design Mobiliário no qual me apaixonei”, declara.</p><p>Paixão, entretanto, não foi o único sentimento presente durante todo o processo. Micaela Menezes teve que tomar todas as decisões sozinha: cor, material, forma. Fazer todas as escolhas e confiar no próprio trabalho se tornaram um desafio a ser ultrapassado. “Isso foi muito difícil porque traz algumas angústias, inseguranças”, conta. Já selecionada, Micaela celebra, “foi como receber uma injeção pra continuar”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/mariana-2.jpeg\" alt=\"\" width=\"1280\" height=\"960\"><figcaption>Banco, design de Mariana Montebello</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto5.jpeg\" alt=\"\" width=\"1024\" height=\"769\"><figcaption>Aparador, design de Micaela Menezes</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto3.jpeg\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Mesa árvore, design de Lara Portocarrero Campista</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/caroline.jpeg\" alt=\"\" width=\"1280\" height=\"1024\"><figcaption>Mesa, design de Caroline Vitoria</figcaption></figure><p>Professora desde 2003 na Universidade Veiga de Almeida, Silvana Rocha entende que ter eventos como este no currículo é um grande passo na vida profissional. Essa não é a primeira vez que alunos orientados por ela fazem parte do evento, em 2019, Ramon Freire concorreu com o <em>Banco Flexae</em>.</p><p><em>“Considero que uma amostra deste tipo dá boa visibilidade aos novos profissionais que ainda não são conhecidos, é uma ótima oportunidade de praticarem o que aprenderam, tirar do papel e produzir algo criado por eles”, Silvana Rocha</em></p><p>Caroline Vitória concorda que ser selecionada traz melhores expectativas para o futuro profissional. Ela acrescenta ainda que além da visibilidade, o evento também possibilita “entrar em contato com outros arquitetos, outros designers e a e experiência de ter que lidar com fornecedores, resolver coisas, ver os materiais”, explica. As futuras profissionais do design se preparam para o mercado de trabalho com a experiência de ser um novo talento brasileiro no currículo.</p><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2020-09-23T10:38:44",
+  "date_gmt": "2020-09-23T13:38:44",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A 5ª edição do evento reúne diversos designers e artistas nacionais  Desde 2016 o evento “Novos Talentos Brasileiros – Design e Arte” celebra o futuro do design nacional e tem como objetivo ser uma vitrine para os novos profissionais impulsionando o mercado de design de produtos. A edição de 2020 conta com a participação de [&hellip;]</p>\n"
+  },
+  "featured_media": 7710,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7702"
+  },
+  "id": 7702,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/mariana-2.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-20e",
+  "link": "https://agenciauvabarra.com/2020/09/23/alunas-do-campus-barra-sao-selecionadas-para-mostra-novos-talentos-brasileiros-design-e-arte/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-09-23T11:40:08",
+  "modified_gmt": "2020-09-23T14:40:08",
+  "ping_status": "open",
+  "slug": "alunas-do-campus-barra-sao-selecionadas-para-mostra-novos-talentos-brasileiros-design-e-arte",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Alunas da Veiga de Almeida são selecionadas para mostra “Novos Talentos Brasileiros – Design e Arte”"
+  },
+  "type": "post"
+}

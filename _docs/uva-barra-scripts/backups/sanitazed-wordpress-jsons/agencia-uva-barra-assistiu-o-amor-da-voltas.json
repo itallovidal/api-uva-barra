@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13930/revisions/13937",
+        "id": 13937
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13930"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13930",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13930/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13930"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13936"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13930",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13930",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    23208
+  ],
+  "class_list": [
+    "post-13930",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-entretenimento",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-irmas",
+    "tag-o-amor-da-voltas",
+    "tag-romance"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Após uma passagem abreviada na 43ª Mostra Internacional de Cinema de São Paulo em 2019 e ter tido a estreia postergada por conta da pandemia da Covid-19. “O Amor Dá Voltas”, o novo longa-metragem de Marcos Bernstein (O Outro Lado do Rio, Meu Pé de Laranja Lima), chega ao circuito comercial das salas de cinema brasileiras.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/cred-rachel-tanugi.jpg?resize=1710%2C1140&amp;ssl=1\" alt=\"\" width=\"1710\" height=\"1140\" /><figcaption>Foto: Divulgação</figcaption></figure><p>André (Igor Angelkorte) é um médico que faz parte do programa de médico sem fronteiras e atua na África, ao longo da estadia no continente imaginava estar trocando cartas amorosas com a então parceira Beta (Juliana Didone), porém as cartas estavam sendo respondidas pela irmã da namorada, Dani (Cleo). Fato que impulsiona confusão na vida dos envolvidos.</p><p>A busca para ter um esclarecimento dos fatos e das vidas da tríade de protagonistas, a partir de uma situação que aflora dúvidas, realça sentimentos antes reprimidos e certezas que agora passam a ser questionadas.O filme mescla elementos da comédia, de convenções de produções de romance e de drama. Apesar de uma busca em enfatizar através da forma com os diálogos e situações e a forma de brincar e reiterar o humor a partir de momentos corriqueiros ou embaraçosos.</p><p>A produção não consegue fugir de clichês e repertórios gastos utilizados para compor a narrativa, o que compromete tanto a força do humor junto ao espectador.&nbsp; A dificuldade entre criar conflitos e situações convincentes para poder articular a trama estão presentes em toda duração do filme e criam situações forçadas e banais em demasia para a trama.</p><p>A trilha sonora é utilizada em excesso com o intuito de estabelecer uma atmosfera. Uma interpretação da música de Between the Bars, de Elliott Smith é utilizada de forma repetida, entretanto a gravação e uso indiscriminado provocam certo desgaste. A ambição da música é marcar o desencontro romântico entre André e Dani.</p><p>As atuações não fogem de caricaturas e apresentam dificuldades em transitar entre os momentos cômicos e dramáticos, sobretudo pela atuação do protagonista interpretado por Igor Angelkorte.</p><p>“O Amor Dá Voltas”, é um projeto que não se furta na aposta de fórmulas de sucesso e apresenta uma premissa chamativa e tem na co-protagonista um dos principais chamarizes. Cabe ao espectador determinar o sucesso do projeto. </p><p>O filme estreia dia 22 de Dezembro, assista ao trailler! </p><figure><iframe src=\"https://www.youtube.com/embed/pGffEe96PHY?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><br><em>Márcio Weber – 1° período </em></p></main>"
+  },
+  "date": "2022-12-22T18:00:00",
+  "date_gmt": "2022-12-22T21:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Após uma passagem abreviada na  43ª Mostra Internacional de Cinema de São Paulo em 2019 e ter tido a estreia postergada por conta da pandemia da Covid-19. “O Amor Dá Voltas”, o novo longa-metragem de Marcos Bernstein (O Outro Lado do Rio, Meu Pé de Laranja Lima), chega ao circuito comercial das salas de cinema brasileiras.</p>\n"
+  },
+  "featured_media": 13936,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13930"
+  },
+  "id": 13930,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-de-capa-1.jpg?fit=5760%2C3840&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3CG",
+  "link": "https://agenciauvabarra.com/2022/12/22/agencia-uva-barra-assistiu-o-amor-da-voltas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-22T12:48:19",
+  "modified_gmt": "2022-12-22T15:48:19",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-o-amor-da-voltas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    34939883,
+    17563,
+    266414,
+    758285458,
+    8154
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: O Amor Dá Voltas"
+  },
+  "type": "post"
+}

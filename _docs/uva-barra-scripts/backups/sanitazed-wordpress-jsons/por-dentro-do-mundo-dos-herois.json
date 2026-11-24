@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1241/revisions/3138",
+        "id": 3138
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1241"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1241",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1241/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1241"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1241",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1241",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    257
+  ],
+  "class_list": [
+    "post-1241",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-geek"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Bate-papo bem-humorado conta com a presença de personalidades famosas da cultura nerd</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/picsart_09-09-12-57-08.jpg?resize=1820%2C1749&#038;ssl=1' alt='PicsArt_09-09-12.57.08' width='1820' height='1749' /><figcaption>Fotografia: Tayane Fernandes</figcaption></figure><p>Neste feriado (07/09), o Geek e Quadrinhos, espaço voltado para o público jovem e para cultura geek na Bienal do Livro, apostou no bom humor. A entrevista, que começou às 18h, teve como assunto principal as duas maiores companhias ligadas ao ramo de super-heróis da atualidade: DC Comics e Marvel. E para garantir animação, a plateia contou com a presença do ator e humorista Fernando Caruso, o integrante do Canal Parafernalha, Tiago Rex, o editor do site Omelete, Thiago Romariz, o cocriador do site Matando Robôs Gigantes, Diogo Braga e, como mediador, o colunista do site Omelete e também cocriador do Matando Robôs Gigantes, Affonso Solano.</p><p>Os humoristas realizaram debates descontraídos sobre filmes e séries do mundo dos super-heróis. O primeiro foi sobre o filme <em>Mulher Maravilha</em>, produzido pela DC Comins, que estreou no dia primeiro de junho de 2017 e, logo, se consolidou como a maior bilheteria de lançamento de um filme dirigido por uma mulher – em sua primeira semana arrecadou US$ 100.5 milhões nos EUA. Fernando Caruso aproveitou para comentar sobre os estereótipos que se enraizaram em torno dos filmes protagonizados por mulheres. “O filme <em>Mulher Maravilha </em>veio para quebrar o paradigma de que filme com protagonista feminino não dá lucro”. O longa superou outras estreias de super-heróis, como <em>Homem de Ferro</em> e <em>Thor</em>, ambos produzidos pela Marvel.</p><p>A disputa entre DC e Marvel também foi outro tópico durante a conversa entre os visitantes. O debate incluiu comparações entre séries e filmes dos estúdios. As opiniões foram diversificadas, porém, um argumento foi unanime: os filmes da DC são mais depressivos, suas séries mais focadas no público novo, já os filmes da Marvel são para o universo jovem, enquanto os programas de TV com um conteúdo mais adulto. “Nos filmes da DC, os heróis fogem do seu destino, já nas séries, os heróis vão atrás do seu dever. Na Marvel, os filmes têm um clima mais descontraído e divertido, ao contrário dos programas de tv, que têm como destaque assuntos mais sérios”, esclareceu Affonso Solano.</p><p>Os convidados esclareceram sobre as expectativas para o próximo filme da DC “<em>A Liga da Justiça</em>”, e algumas opiniões se dividiram. “A DC é conhecida por fazer trailers incríveis que fazem criar grandes expectativas, mas quando o filme é lançado, o público se decepciona. Isso aconteceu com <em>Esquadrão Suicida</em>”, disse Tiago Rex. Ao final da palestra, foram sorteadas revistas para os fãs de quadrinhos, por meio de quiz sobre o mundo da DC Comics.</p><p><strong>Tayane Fernandes, 6° período e Carolina Marinho, 4° período</strong></p></main>"
+  },
+  "date": "2017-09-09T18:17:30",
+  "date_gmt": "2017-09-09T21:17:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Bate-papo bem-humorado conta com a presença de personalidades famosas da cultura nerd Neste feriado (07/09), o Geek e Quadrinhos, espaço voltado para o público jovem e para cultura geek na Bienal do Livro, apostou no bom humor. A entrevista, que começou às 18h, teve como assunto principal as duas maiores companhias ligadas ao ramo de [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1241"
+  },
+  "id": 1241,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-k1",
+  "link": "https://agenciauvabarra.com/2017/09/09/por-dentro-do-mundo-dos-herois/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:10:27",
+  "modified_gmt": "2019-01-31T15:10:27",
+  "ping_status": "open",
+  "slug": "por-dentro-do-mundo-dos-herois",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Por dentro do mundo dos heróis"
+  },
+  "type": "post"
+}

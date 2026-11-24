@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1939/revisions/3113",
+        "id": 3113
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1939"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1939",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1939/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1939"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1939",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1939",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1939",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>A Atlética Admaníaccos UVA Barra realiza palestra para comemorar o dia do profissional de Marketing</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/whatsapp-image-2018-05-08-at-10-46-07.jpeg?resize=1280%2C959&#038;ssl=1' alt='WhatsApp Image 2018-05-08 at 10.46.07' width='1280' height='959' /><figcaption>Foto: Nayara Simões</figcaption></figure><p>No dia do profissional de Marketing, o assunto não poderia ser outro. A Atlética Admaníaccos UVA Barra realizou, nesta terça-feira (08/05), uma palestra com José Augusto Godinho, pós-graduado em Marketing Estratégico e atual professor da Universidade Veiga de Almeida. O objetivo foi trazer aos alunos de diferentes cursos uma reflexão sobre passado, presente, futuro e analisar as mudanças ocorridas no decorrer do tempo.</p><p>Com a evolução dessa área e, consequentemente, a necessidade de entender o comportamento do consumidor, ela ganhou importância. O professor José Augusto Godinho falou sobre esse processo e diz estar muito feliz com a oportunidade de conviver com alunos de diversos cursos, pois o Marketing não está focado apenas em um setor. “Ele não olha para o ambiente e sim para o consumo e mercado de forma geral. A empresa toda está envolvida”.</p><figure class=\"alignleft\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/whatsapp-image-2018-05-09-at-14-10-32.jpeg?resize=720%2C1280&#038;ssl=1' alt='WhatsApp Image 2018-05-09 at 14.10.32' width='720' height='1280' /><figcaption>Foto: divulgação Atlética Admaníacos</figcaption></figure><p>Um exemplo de que o Marketing atravessa diversos espaços é a aluna de administração, Myllena Rocha, que estava na palestra e revela o interesse pela área. “É algo muito importante para se aprender e ter diferentes visões sobre o consumo”. Outra estudante, que comprova a quebra de requisitos para se aprofundar nesse tema é Karolina Seixas, que cursa publicidade. Para ela, essa é uma zona interdisciplinar que cobra uma observação do cotidiano e dos influenciadores no planejamento das estratégias mercadológicas. “A evolução do comportamento do consumidor e como os hábitos mudaram, é uma área que tem me gerado muito interesse”.</p><p>Esse desejo de aprender e ensinar um pouco mais sobre a história do Marketing esteve muito presente na palestra. Quem destacou isso foi o organizador Fábio Silva, estudante de Administração e integrante da Atlética Admaníaccos UVA Barra, que relembra as aulas que teve com o professor José Augusto Godinho e a vontade de mostrar para os alunos a importância do assunto para a formação. Para ele, a Atlética vai muito além de diversão. “Nós também temos a preocupação de gerar palestras como essas para uma melhor experiência acadêmica”, constata.</p><p><strong>Nayara Simões, 4º período</strong></p></main>"
+  },
+  "date": "2018-05-09T14:53:59",
+  "date_gmt": "2018-05-09T17:53:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Atlética Admaníaccos UVA Barra realiza palestra para comemorar o dia do profissional de Marketing No dia do profissional de Marketing, o assunto não poderia ser outro. A Atlética Admaníaccos UVA Barra realizou, nesta terça-feira (08/05), uma palestra com José Augusto Godinho, pós-graduado em Marketing Estratégico e atual professor da Universidade Veiga de Almeida. O [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1939"
+  },
+  "id": 1939,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-vh",
+  "link": "https://agenciauvabarra.com/2018/05/09/o-marketing-em-destaque/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:49:54",
+  "modified_gmt": "2019-01-31T14:49:54",
+  "ping_status": "open",
+  "slug": "o-marketing-em-destaque",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "O Marketing em destaque"
+  },
+  "type": "post"
+}

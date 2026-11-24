@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5020/revisions/5845",
+        "id": 5845
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5020"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5020",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5020/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5020"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5025"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5020",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5020",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366
+  ],
+  "class_list": [
+    "post-5020",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-bienal-do-livro-2019",
+    "tag-lona-na-lua",
+    "tag-riocentro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Atração faz parte da programação do espaço infantil</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190903_171520.jpg?resize=4608%2C2240&amp;ssl=1' alt='Grupo Lona na Lua durante apresentação na XIX Bienal Internacional do Livro' width='4608' height='2240' /><figcaption>Grupo Lona na Lua durante apresentação na XIX Bienal Internacional do Livro – Foto: Graziela Andrade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190903_171633.jpg?resize=4608%2C2240&amp;ssl=1' alt='O grupo é composto por acrobatas, bailarinos, malabaristas, músicos, atores e atrizes' width='4608' height='2240' /><figcaption>O grupo é composto por acrobatas, bailarinos, malabaristas, músicos, atores e atrizes – Foto: Graziela Andrade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190903_160503.jpg?resize=4608%2C2240&amp;ssl=1' alt='Grupo Lona na Lua com o público após apresentação' width='4608' height='2240' /><figcaption>Grupo Lona na Lua com o público após apresentação – Foto: Graziela Andrade</figcaption></figure><p>O pavilhão laranja, pela primeira vez com programação destinada somente ao público infantil, tem como atração principal uma floresta mágica chamada: Pela Estrada A Fora. Entre lançamentos de livros e contação de histórias, a floresta oferece apresentações do grupo Lona na Lua.</p><p>O grupo criado há dez anos, atua em Casemiro de Abreu e Rio Bonito, interior do estado do Rio de Janeiro e oferece arte e inclusão social para mais de 400 jovens e pela primeira vez participa da Bienal do Livro, a convite da Curadoria do evento. O idealizador e diretor geral do projeto sociocultural fala um pouco sobre a apresentação, que desvenda os “Mistérios da Floresta”. Confira o vídeo:</p><figure><iframe src='https://www.youtube.com/embed/ENQOJcXASBU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p>O grupo Lona na Lua se apresenta diversas vezes ao longo do dia. Confira os horários na programação do evento: https://www.bienaldolivro.com.br/programacao/</p><p>Graziela Andrade – 7º Período | Jornalismo</p></main>"
+  },
+  "date": "2019-09-07T20:09:53",
+  "date_gmt": "2019-09-07T23:09:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Atração faz parte da programação do espaço infantil O pavilhão laranja, pela primeira vez com programação destinada somente ao público infantil, tem como atração principal uma floresta mágica chamada: Pela Estrada A Fora. Entre lançamentos de livros e contação de histórias, a floresta oferece apresentações do grupo Lona na Lua. O grupo criado há dez [&hellip;]</p>\n"
+  },
+  "featured_media": 5025,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5020"
+  },
+  "id": 5020,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190903_171520.jpg?fit=4608%2C2240&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1iY",
+  "link": "https://agenciauvabarra.com/2019/09/07/xix-bienal-do-livro-promove-espetaculo-cheio-de-cores-e-poesia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-11-04T14:50:47",
+  "modified_gmt": "2019-11-04T17:50:47",
+  "ping_status": "open",
+  "slug": "xix-bienal-do-livro-promove-espetaculo-cheio-de-cores-e-poesia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    683955564,
+    686181206,
+    10031061
+  ],
+  "template": "",
+  "title": {
+    "rendered": "XIX Bienal do Livro promove espetáculo cheio de cores e poesia"
+  },
+  "type": "post"
+}

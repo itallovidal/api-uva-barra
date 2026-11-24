@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15340/revisions/15344",
+        "id": 15344
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15340"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15340",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15340/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15340"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15343"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15340",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15340",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    23208,
+    18330,
+    3719,
+    866752
+  ],
+  "class_list": [
+    "post-15340",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-entretenimento",
+    "category-institucional",
+    "category-literatura",
+    "category-saude-mental",
+    "tag-agencia-uva-barra",
+    "tag-combate",
+    "tag-drogas",
+    "tag-ods",
+    "tag-paginas",
+    "tag-webserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>\"Páginas Perdidas\" conta a história de Sérgio, um professor de literatura que tem o sonho de publicar um livro que vem escrevendo há anos. Em mais um dia comum em sua rotina de trabalho, Sérgio descobre que é odiado por seus alunos e fica arrasado com a informação, mas tudo muda quando chega em casa e é convidado para uma reunião com uma editora. Com altas expectativas e um banho de água fria, Sérgio se rende ao mundo das drogas, causando problemas familiares.</p><p>O grupo formado por Gabrielle Pinheiro, Jean Carlos Saraiva, Lorrane Yasmim, Priscilla Mendonça, Rafaela Eyer e Rodrigo Becker escolheu falar sobre o ODS 3 da ONU: Sáude e Bem-estar, mas especificamente do tópico 3.5, que diz: Reforçar a prevenção e o tratamento do abuso de substâncias, incluindo o abuso de drogas entorpecentes e uso nocivo do álcool. <strong>Assista ao episódio completo! </strong></p><figure><img src='https://www.youtube.com/embed/Zrz3O3FnSHs?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' alt='Vídeo incorporado' width='640' height='360'><figcaption>Assista ao episódio completo!</figcaption></figure><p><br><em>Produto produzido para a disciplina de Escrita Criativa e Storytelling, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-07-13T18:18:46",
+  "date_gmt": "2023-07-13T21:18:46",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Páginas Perdidas” conta a história de Sérgio, um professor de literatura que tem o sonho de publicar um livro que vem escrevendo há anos. Em mais um dia comum em sua rotina de trabalho, Sérgio descobre que é odiado por seus alunos e fica arrasado com a informação, mas tudo muda quando chega em casa e é convidado para uma reunião com uma editora. Com altas expectativas e um banho de água fria, Sérgio se rende ao mundo das drogas, causando problemas familiares. </p>\n"
+  },
+  "featured_media": 15343,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15340"
+  },
+  "id": 15340,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/whatsapp-image-2023-07-13-at-18.16.47.jpeg?fit=1366%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Zq",
+  "link": "https://agenciauvabarra.com/2023/07/13/paginas-perdidas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-14T13:07:36",
+  "modified_gmt": "2023-07-14T16:07:36",
+  "ping_status": "open",
+  "slug": "paginas-perdidas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    419885,
+    4018,
+    1182397,
+    94904,
+    1438351
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Páginas Perdidas"
+  },
+  "type": "post"
+}

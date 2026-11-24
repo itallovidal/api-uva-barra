@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16391/revisions/16395",
+        "id": 16395
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16391"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16391",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16391/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16391"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16394"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16391",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16391",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    22,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-16391",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-internet",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-asmr",
+    "tag-podcast",
+    "tag-radio-uva-barra",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O ASMR é um gênero de produções audivisuais que vem crescendo aos poucos na internet e que promete ajudar pessoas a relaxarem, terem mais foco e pegarem no sono com mais facilidade.</p><p>Neste podcast, mergulharemos no universo dos sons que acalmam, estimulam e trazem uma experiência sensorial única, contando com depoimento de quem consome esses produtos quase diariamente.</p><figure><blockquote class=\"wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\"><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Podcast Rádio UVA Barra: Popularização do ASMR \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/7JOHXx093H5rzCmWEdkcVj?si=o8opRBXVQXiurfiMTyB9uA&#038;utm_source=oembed\"></iframe></div></div></blockquote></figure><p><br><em>Mariana Moura — 6° Período</em></p></main>"
+  },
+  "date": "2023-12-04T15:36:04",
+  "date_gmt": "2023-12-04T18:36:04",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O ASMR é um gênero de produções audivisuais que vem crescendo aos poucos na internet e que promete ajudar pessoas a relaxarem, terem mais foco e pegarem no sono com mais facilidade. Neste podcast, mergulharemos no universo dos sons que acalmam, estimulam e trazem uma experiência sensorial única, contando com depoimento de quem consome esses [&hellip;]</p>\n"
+  },
+  "featured_media": 16394,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16391"
+  },
+  "id": 16391,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/12/videos-asmr-o-que-sao-como-funcionam-e-beneficios-orig-1.jpg?fit=2000%2C1333&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4gn",
+  "link": "https://agenciauvabarra.com/2023/12/04/podcast-radio-uva-barra-popularizacao-do-asmr/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-12-04T15:36:04",
+  "modified_gmt": "2023-12-04T18:36:04",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-popularizacao-do-asmr",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    7314764,
+    1142,
+    767056638,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Popularização do ASMR"
+  },
+  "type": "post"
+}

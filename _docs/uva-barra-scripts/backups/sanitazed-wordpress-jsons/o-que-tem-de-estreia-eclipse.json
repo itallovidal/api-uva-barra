@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21659/revisions/21664",
+        "id": 21664
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21659"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21659",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21659/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21659"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21662"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21659",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21659",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-21659",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>\"Eclipse\" chega aos cinemas e não é apenas um filme, é um mergulho intenso em temas urgentes. Através da história de Cleo, interpretada por Djin Sganzerla, uma astrônoma grávida cuja rotina é virada do avesso pela chegada de sua meia-irmã, Nalu, a obra explora camadas profundas da violência contra a mulher.</p><p>Djin Sganzerla entrega uma obra que mistura drama e mistério para nos fazer refletir sobre o que muitas vezes tentamos manter oculto. Suspense psicológico, simbologia e realismo são algumas das coisas que se pode esperar do longa! O filme estreia dia 7 de maio nos cinemas.</p><p>Quer saber mais sobre? Sintonize agora na Rádio UVA Barra!</p><figure><img src='https://open.spotify.com/embed/episode/7vkPPWOECByqCX1KwNbew5/video?si=5WjDRlwnT360o_8Mj7SEkQ' alt='Embed Spotify' width='624' height='351'><figcaption>Spotify Embed: O que tem de estreia?- \"Eclipse\"</figcaption></figure><p>CRÉDITOS:<br>Roteiro: Juliana Knauer – 7° período de Jornalismo<br>Edição: Malu Cordeiro – 3° período de Jornalismo<br>Coordenação Rádio UVA Barra: Prof. Anderson Barreto<br>Coordenação do Curso de Jornalismo: Prof. Renata Feital</p></main>"
+  },
+  "date": "2026-05-07T11:18:50",
+  "date_gmt": "2026-05-07T14:18:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>&#8220;Eclipse&#8221; chega aos cinemas e não é apenas um filme, é um mergulho intenso em temas urgentes. Através da história de Cleo, interpretada por Djin Sganzerla, uma astrônoma grávida cuja rotina é virada do avesso pela chegada de sua meia-irmã, Nalu, a obra explora camadas profundas da violência contra a mulher. Djin Sganzerla entrega uma [&hellip;]</p>\n"
+  },
+  "featured_media": 21662,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21659"
+  },
+  "id": 21659,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-13-112048.png?fit=585%2C586&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5Dl",
+  "link": "https://agenciauvabarra.com/2026/05/07/o-que-tem-de-estreia-eclipse/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAH44CzghH2Aa0BBjoBEVSuAQRwgAEBAQgBA0gCCLYJwAqsEgEBCAJCAQJIQuoSmCQBAQgCQgECSACCCQEBCAEDSApKjAIBAQgBA0jmMZZLAwcMAgQDARQDAwQDAQTEGwQCAQVInhsBAQgBA0gCBAIBAvYBAgQDBAwCBAMBFAKkEOAQpBDiEAIEAgQkAEiSEQEBCAEDSNBetFziEAKkENYQqBHkEQKyHgLObKgBAqhrzg4Iyl+KbAIrCJIVAQGsNgIEAwQMAgQDARQCAAQAAwAEAgT+N5BI4hCkEAKQAeYRBLQeApcBKAEhACcABAAnASgGJwAoFScARACEAgcAKAInASgEJwCoAAQAhACHACgCJwEEACgEJwCEAMcAKAInAQQAKAQnAMcAKAInASgEJwAEAMcAKAInASgEJwAEAIQAgQCEDoEAhASBAIQCqAEnACgGxwAoAicBKAQnAKgBJwAoA8QYKAHHACgCJwEoBCcAqADEBoQCqAQEAKgAxPQskitzdGF0ZXZlcnNpb25kb2N1bWVudGRhdGVkb2N1bWVudHN0YXR1c2RvY3VtZW50dGl0bGVSYXNjdW5obyBhdXRvbcOhdGljb2RvY3VtZW50Y29udGVudGRvY3VtZW50ZXhjZXJwdGRvY3VtZW50YXV0aG9yZG9jdW1lbnRmZWF0dXJlZF9tZWRpYWRvY3VtZW50Y29tbWVudF9zdGF0dXNkb2N1bWVudHBpbmdfc3RhdHVzZG9jdW1lbnRzdGlja3lkb2N1bWVudHRlbXBsYXRlZG9jdW1lbnRmb3JtYXRkb2N1bWVudG1ldGFhZHZhbmNlZF9zZW9fZGVzY3JpcHRpb25qZXRwYWNrX3Nlb19odG1sX3RpdGxlamV0cGFja19zZW9fbm9pbmRleF9jb2Jsb2Nrc19hdHRyX2NvYmxvY2tzX2RpbWVuc2lvbnNfY29ibG9ja3NfcmVzcG9uc2l2ZV9oZWlnaHRfY29ibG9ja3NfYWNjb3JkaW9uX2llX3N1cHBvcnRqZXRwYWNrX3Bvc3Rfd2FzX2V2ZXJfcHVibGlzaGVkcmVhZGVyX3N1Z2dlc3RlZF90YWdzX2pldHBhY2tfbmV3c2xldHRlcl9hY2Nlc3NfamV0cGFja19kb250X2VtYWlsX3Bvc3RfdG9fc3Vic19qZXRwYWNrX25ld3NsZXR0ZXJfdGllcl9pZF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BheXdhbGxlZF9jb250ZW50X2pldHBhY2tfZmVhdHVyZV9jbGlwX2lkX2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGFpZF9jb250ZW50Zm9vdG5vdGVzamV0cGFja19wdWJsaWNpemVfbWVzc2FnZWpldHBhY2tfcHVibGljaXplX2ZlYXR1cmVfZW5hYmxlZGpldHBhY2tfc29jaWFsX3Bvc3RfYWxyZWFkeV9zaGFyZWRqZXRwYWNrX3NvY2lhbF9vcHRpb25zZG9jdW1lbnRjYXRlZ29yaWVzZG9jdW1lbnR0YWdzZG9jdW1lbnRibG9ja3NPIHF1ZSB0ZW0gZGUgZXN0cmVpYTogZWNFY2xpcHNlY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3MiRWNsaXBzZSIgY2hlZ2EgYW9zIGNpbmVtYXMgZSBuw6NvIMOpIGFwZW5hcyB1bSBmaWxtZSwgw6kgdW0gbWVyZ3VsaG8gaW50ZW5zbyBlbSB0ZW1hcyB1cmdlbnRlcy4gQXRyYXbDqXMgZGEgaGlzdMOzcmlhIGRlIENsZW8sIGludGVycHJldGFkYSBwb3IgRGppbiBTZ2FuemVybGEsIHVtYSBhc3Ryw7Rub21hIGdyw6F2aWRhIGN1amEgcm90aW5hIMOpIHZpcmFkYSBkbyBhdmVzc28gcGVsYSBjaGVnYWRhIGRlIHN1YSBtZWlhLWlybcOjLCBOYWx1LCBhIG9icmEgZXhwbG9yYSBjYW1hZGFzIHByb2Z1bmRhcyBkYSB2aW9sw6puY2lhIGNvbnRyYSBhIG11bGhlci48YnI+RGppbiBTZ2FuemVybGEgZW50cmVnYSB1bWEgb2JyYSBxdWUgbWlzdHVyYSBkcmFtYSBlIG1pc3TDqXJpbyBwYXJhIG5vcyBmYXplciByZWZsZXRpciBzb2JyZSBvIHF1ZSBtdWl0YXMgdmV6ZXMgdGVudGFtb3MgbWFudGVyIG9jdWx0by4gU3VzcGVuc2UgcHNpY29sw7NnaWNvLCBzaW1ib2xvZ2lhIGUgcmVhbGlzbW8gc8OjbyBhbGd1bWFzIGRhcyBjb2lzYXMgcXVlIHNlIHBvZGUgZXNwZXJhciBkbyBsb25nYSEgTyBmaWxtZSBlc3RyZWlhIGRpYSA3IGRlIG1haW8gbm9zIGNpbmVtYXMuY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50PGJyPkRqaW4gU2dhbnplcmxhIGVudHJlZ2EgdW1hIG9icmEgcXVlIG1pc3R1cmEgZHJhbWEgZSBtaXN0w6lyaW8gcGFyYSBub3MgZmF6ZXIgcmVmbGV0aXIgc29icmUgbyBxdWUgbXVpdGFzIHZlemVzIHRlbnRhbW9zIG1hbnRlciBvY3VsdG8uIFN1c3BlbnNlIHBzaWNvbMOzZ2ljbywgc2ltYm9sb2dpYSBlIHJlYWxpc21vIHPDo28gYWxndW1hcyBkYXMgY29pc2FzIHF1ZSBzZSBwb2RlIGVzcGVyYXIgZG8gbG9uZ2EhIE8gZmlsbWUgZXN0cmVpYSBkaWEgNyBkZSBtYWlvIG5vcyBjaW5lbWFzLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzPGJyPkRqaW4gU2dhbnplcmxhIGVudHJlZ2EgdW1hIG9icmEgcXVlIG1pc3R1cmEgZHJhbWEgZSBtaXN0w6lyaW8gcGFyYSBub3MgZmF6ZXIgcmVmbGV0aXIgc29icmUgbyBxdWUgbXVpdGFzIHZlemVzIHRlbnRhbW9zIG1hbnRlciBvY3VsdG8uIFN1c3BlbnNlIHBzaWNvbMOzZ2ljbywgc2ltYm9sb2dpYSBlIHJlYWxpc21vIHPDo28gYWxndW1hcyBkYXMgY29pc2FzIHF1ZSBzZSBwb2RlIGVzcGVyYXIgZG8gbG9uZ2EhIE8gZmlsbWUgZXN0cmVpYSBkaWEgNyBkZSBtYWlvIG5vcyBjaW5lbWFzLmNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudDxicj5EamluIFNnYW56ZXJsYSBlbnRyZWdhIHVtYSBvYnJhIHF1ZSBtaXN0dXJhIGRyYW1hIGUgbWlzdMOpcmlvIHBhcmEgbm9zIGZhemVyIHJlZmxldGlyIHNvYnJlIG8gcXVlIG11aXRhcyB2ZXplcyB0ZW50YW1vcyBtYW50ZXIgb2N1bHRvLiBTdXNwZW5zZSBwc2ljb2zDs2dpY28sIHNpbWJvbG9naWEgZSByZWFsaXNtbyBzw6NvIGFsZ3VtYXMgZGFzIGNvaXNhcyBxdWUgc2UgcG9kZSBlc3BlcmFyIGRvIGxvbmdhISBPIGZpbG1lIGVzdHJlaWEgZGlhIDcgZGUgbWFpbyBub3MgY2luZW1hcy5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzUXVlciBzYWJlciBtYWlzIHNvYnJlPyBTaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSFjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2NrczwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD4iRWNsaXBzZSIgY2hlZ2EgYW9zIGNpbmVtYXMgZSBuw6NvIMOpIGFwZW5hcyB1bSBmaWxtZSwgw6kgdW0gbWVyZ3VsaG8gaW50ZW5zbyBlbSB0ZW1hcyB1cmdlbnRlcy4gQXRyYXbDqXMgZGEgaGlzdMOzcmlhIGRlIENsZW8sIGludGVycHJldGFkYSBwb3IgRGppbiBTZ2FuemVybGEsIHVtYSBhc3Ryw7Rub21hIGdyw6F2aWRhIGN1amEgcm90aW5hIMOpIHZpcmFkYSBkbyBhdmVzc28gcGVsYSBjaGVnYWRhIGRlIHN1YSBtZWlhLWlybcOjLCBOYWx1LCBhIG9icmEgZXhwbG9yYSBjYW1hZGFzIHByb2Z1bmRhcyBkYSB2aW9sw6puY2lhIGNvbnRyYSBhIG11bGhlci48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD48YnI+RGppbiBTZ2FuemVybGEgZW50cmVnYSB1bWEgb2JyYSBxdWUgbWlzdHVyYSBkcmFtYSBlIG1pc3TDqXJpbyBwYXJhIG5vcyBmYXplciByZWZsZXRpciBzb2JyZSBvIHF1ZSBtdWl0YXMgdmV6ZXMgdGVudGFtb3MgbWFudGVyIG9jdWx0by4gU3VzcGVuc2UgcHNpY29sw7NnaWNvLCBzaW1ib2xvZ2lhIGUgcmVhbGlzbW8gc8OjbyBhbGd1bWFzIGRhcyBjb2lzYXMgcXVlIHNlIHBvZGUgZXNwZXJhciBkbyBsb25nYSEgTyBmaWxtZSBlc3RyZWlhIGRpYSA3IGRlIG1haW8gbm9zIGNpbmVtYXMuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+UXVlciBzYWJlciBtYWlzIHNvYnJlPyBTaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSE8L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cHJhZ3JhcGggLS0+CjxwPjwvcD4KPCEtLSAvd3A6cHJhZ3JhcCAtLT5jYXB0aW9ucHJvdmlkZXJOYW1lU2x1Z2FsbG93UmVzcG9uc2l2ZXJlc3BvbnNpdmVwcmV2aWV3YWJsZXVybHR5cGVjbGFzc05hbWVjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NhcHRpb25wcm92aWRlck5hbWVTbHVnYWxsb3dSZXNwb25zaXZlcmVzcG9uc2l2ZXByZXZpZXdhYmxlZW1iZWQgeyJ1cmwiOiJodHRzOi8vb3Blbi5zcG90aWZ5LmNvbS9lcGlzb2RlLzd2a1BQV09FQ0J5cUNYMUt3TmJldzU/c2k9NVdqRFJsd25UMzYwb184TWo3U0VrUSIsInR5cGUiOiJ2aWRlbyIsInBvdmlkZXJObWVTbHUiOiJzcG90aWZ5IiwiZXNwb25zaXZlIjp0cnVlLCJjbHNzTmFtZSI6InctZW1iZWQtYXNwZWN0LTE2LTkgd3AtYXMtYXNwZWN0LXJhdGlvIn1maWd1cmUgY2xhc3M9InctYmxvY2stZW1iZWQgaXMtdHlwZS12aWRlbyBpcy1wcm92aWRlci1zcG90aWZ5IHdwLWJsb2NrLWVtYmVkLXNwb3RpZnkgd3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpbyJkaXYgY2xhc3M9IndwLWJsb2NrLWVtYmVkX193cmFwcGVyIj4KaHR0cHM6L29lbi5zcG90aWZ5LmNvbS9lcGlzb2RlLzd2a1BQV09FQ0J5cUNYMUt3TmJldzU/c2k9NVdqRFJsd25UMzYwb184TWo3U0VrUQo8L2RpdjwvZmlndXJlPmVtYmVkIC0tPgoKPCEtLSB3OmVtYmVkIHsicG92aWRlck5tZVNsdSI6Imluc3RhZ20iLCJyZXNvbnNpdmUiOnRydWV9L3VybHR5cGVjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc3VybCI6Imh0dHM6Ly93d3cuaW5zdGFnYW0uY20vcmVlbC9EWUFtcFE1SjhycC8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rXHUwMDI2aWdzaD1NelJsT0RCaU5XRmxaQT09IiwidHlwZSI6InJpY2giLCJwcm8tLT4KPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2stZW1iZWQgaXMtdHlwZS1yaWNoIGlzLXByb3ZpZGVyLWluc3RhZ3JhbSB3cC1ibG9jay1lbWJlZC1pbnN0YWdyYW0iPjxkaXYgY2xhc3M9IndwLWJsb2NrLWVtYmVkX193cmFwcGVyIj4KaHR0cHM6L3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRFlBbXBRNUo4cnAvP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGluayZhbXA7aWdzaD1NelJsT0RCaU5XRmxaQT09CjwvZGl2PjwvZmlndXJlPgo8ISAvd3A6ZW1iZWQgLS0KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT5DUsOJRElUT1M6PGJyPlJvdGVpcm86IEp1bGlhbmEgS25hdWVyIC0gN8KwIHBlcsOtb2RvIGRlIEpvcm5hbGlzbW88YnI+RWRpw6fDo286IE1hbHUgQ29yZGVpcm8gLSAzwrAgcGVyw61vZG8gZGUgSm9ybmFsaXNtbzxicj5Db29yZGVuYcOnw6NvIFLDoWRpbyBVVkEgQmFycmE6IFByb2YuIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mLiBSZW5hdGEgRmVpdGFsQ1LDiURJVE9TOmJyPlJvdGVpcm86IEp1bGlhbmEgS25hdWVyIC0gN8KwIHBlcsOtb2RvIGRlIEpvcm5hbGlzbW88YnI+RWRpw6fDo286IE1hbHUgQ29yZGVpcm8gLSAzwrAgcGVyw61vZG8gZGUgSm9ybmFsaXNtbzxicj5Db29yZGVuYcOnw6NvIFLDoWRpbyBVVkEgQmFycmE6IFByb2YuIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mLiBSZW5hdGEgRmVpdGFsPAUHCAQIBggFEwgHCAcIBggOCA4ICwgGSAEGCAQYFhMOFBseHxUaIBsvGCoJGSEiFggKCAQIBgEVAgcIBwQKRwAKDQ8MC7QElQQIBwQKB5UEBwoNDwwLlQQIBwQKB5UEBwoNDwwLCAcECkcACg0PDAs6CAcECkcACg0PDAutDEEGBgECQQEKQQICQQACAQcQDwoLAwQJCAcECkcACg0PDAsHEA8KCxGgAQcFDRMKFhEPrwErAo0BCREJQQAGBQkHDQEDBAgHBApHAAoNDwwLCQ4EngGLAq0BDRsBGqUDCZwDCwEDAAABCQATAQIAIkIBAQBBAAIAQQACAEEAAgBBAAIAQQACAAJBAAIAAkEAAgAFQW4GQQEB4QEAfQF3EzIwMjYtMDUtMTNUMTE6MTg6NTB9muCucn0AdwRvcGVudwRvcGVueXcAdwhzdGFuZGFyZHcAdwB5dwB3AHcAdwB5dwB3AHl9AHl9AHl3AHcAeHl2AhhpbWFnZV9nZW5lcmF0b3Jfc2V0dGluZ3N2BAh0ZW1wbGF0ZXcHaGlnaHdheRBkZWZhdWx0X2ltYWdlX2lkfQAEZm9udHcAB2VuYWJsZWR5B3ZlcnNpb259AnUAdQB3JGJjM2IwZWI5LTBkM2YtNDlhNS04YmNkLTk4NWNkY2MzODI5MHh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckZTI5YmIwNWItNGY3My00ZmM4LWJjNmEtYjExY2FmNmE5NjA3dyQ4ODVkZTZhZC1lZDM4LTQ5NDQtYmQ4NC0yY2FkYmM2Yjg4Zjd4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDUwNWFkZmI2LTY1OTUtNGVmZi04ZmFjLTkxNWU5YWExNjRhYXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckZWFjNWNmMWMtNWMwOS00NDc3LTk1ODYtNGE3NjAzMDdmOTg5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ3NWNhMTI1ZC1lYzZhLTRjODktYmYxMy00NzgwMDg1YzYyMzF4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDRhNmRlZTdkLTBhM2MtNDY4MS05ODM3LWMxYzgzYzAzNmM5M3cKY29yZS9lbWJlZHcHc3BvdGlmeXh4eHdRaHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2VwaXNvZGUvN3ZrUFBXT0VDQnlxQ1gxS3dOYmV3NT9zaT01V2pEUmx3blQzNjBvXzhNajdTRWtRdwV2aWRlb3cod3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpb3ckZDZlMjNjODItNmVjYS00ZDVmLWFjZGItYTQyMWIzNTZiYzAweHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ4YjljZGQ0Ni03ODhhLTQ5ZmYtOTViNS04Y2IyNzY5MGM5NDN3CmNvcmUvZW1iZWR3CWluc3RhZ3JhbXh4eHddaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RZQW1wUTVKOHJwLz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmaWdzaD1NelJsT0RCaU5XRmxaQT09dwRyaWNodyRmMmFjMWQ2Mi1mODJjLTQ3ODEtOWNhZC02NTFiMjE1MTY0ZjV4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl9ntICdxMyMDI2LTA1LTA3VDExOjE4OjUwdQF9lQl1AX2Kq9/vBHUCfYqr3+8EfZuSAnUDfYqr3+8EfZuSAn2rj6khdQR9iqvf7wR9m5ICfauPqSF9lQl1BX2Kq9/vBH2bkgJ9q4+pIX2VCX2svpcFdQZ9iqvf7wR9m5ICfauPqSF9lQl9rL6XBX2G8+m4AXUHfYqr3+8EfZuSAn2rj6khfZUJfay+lwV9hvPpuAF9mcyY6gR3JDdlNDRiMTgxLTE1YjItNDQ2Yi1hZTFkLWQwNTNkYWI0MDE1Y3cHcHVibGlzaAGjwJnBCBIBAQESAwAaARcBCAC/AsoG6AIAAQABBa8GAB4ABgAPAAEAAQWfBADBAwU=\",\"updateId\":623336194}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-13T11:22:41",
+  "modified_gmt": "2026-05-13T14:22:41",
+  "ping_status": "open",
+  "slug": "o-que-tem-de-estreia-eclipse",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    17563,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O que tem de estreia: Eclipse"
+  },
+  "type": "post"
+}

@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8143/revisions/8150",
+        "id": 8150
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8143"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8143",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8143/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8143"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8147"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8143",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8143",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    72064
+  ],
+  "class_list": [
+    "post-8143",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-saude"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Procedimentos técnicos em baixa prejudicaram enfrentamento às doenças cardíacas durante a emergência sanitária</em></p><p>O confinamento social fez com que muitas pessoas não realizassem consultas de rotina pela insegurança de contrair a Covid-19. A redução do tratamento médico já era esperada em certas áreas por se tratar de uma crise sanitária, mas, na Cardiologia, há sérias consequências à saúde do indivíduo, como as doenças cardiovasculares, responsáveis por 18 milhões de vítimas anualmente segundo a Organização Mundial da Saúde (OMS).</p><p>O cardiologista Artur Pezzi sofreu diretamente essa queda na carga de pacientes logo no início. “Tive uma diminuição muito grande ao redor de 90%, tanto nos procedimentos feitos no hospital quanto no consultório, porque mesmo os pacientes com dor no peito e possível infarto não procuravam a emergência ou a clínica”, lembra.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/foto-artur.jpeg?resize=750%2C742&amp;ssl=1\" alt=\"\" width=\"750\" height=\"742\"><figcaption>Artur Pezzi é especializado em Cardiologia Intervencionista e teve uma queda brusca da carga de pacientes, até mesmo aqueles considerados graves, nos primeiros meses da pandemia – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/foto-max.jpg?resize=750%2C745&amp;ssl=1\" alt=\"\" width=\"750\" height=\"745\"><figcaption>Max Douglas Rangel realizou o exame de cateterismo e desde então, vai ao cardiologista regularmente. Porém, com a pandemia, ele deixou de lado o tratamento cardiológico por ter medo da exposição à Covid-19 – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/foto-regina.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Regina Carvalho tem hipertensão e entende que a ida ao cardiologista é prioridade mesmo na crise sanitária e por isso, manteve as consultas e exames – Foto: Arquivo Pessoal</figcaption></figure><p>O receio de sair de casa com o vírus em circulação afetou as consultas e exames cardiológicos. É o caso do administrador de empresas Max Douglas Rangel, de 49 anos, que já fez exame de cateterismo e abdicou da checagem médica. “Era para estar indo ao cardiologista, porém, com a pandemia, não me sinto seguro estar em ambientes clínicos ou hospitalares por ter um risco imenso de contrair o coronavírus”, diz. Quem pensa diferente é Regina Carvalho, dentista, de 51 anos, que é hipertensa e não vê problema em ir ao consultório, já que está tomando todos os cuidados e o local onde é atendida segue as normas sanitárias.</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F925982917&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe><p>Segundo Artur, a negligência dos pacientes corrobora para uma piora do quadro clínico, sendo fatal dependendo do nível da doença. “As doenças agudas são o maior problema. Tiveram muitas pessoas que infartaram ou morreram em casa, outras que chegaram no hospital tardiamente e poderiam ser atendidas em um período mais curto da doença”, garante. Não é por acaso que a Associação dos Registradores de Pessoas Naturais do Brasil (Arpen-Brasil) em parceria com a Sociedade Brasileira de Cardiologia (SBC) registraram um aumento de 31,82% no número de óbitos em domicílio por doenças cardiovasculares desde 16 de março — primeira morte confirmada de Covid-19 — até o final de junho de 2020.</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F925983766&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe><p>Entre os idosos, a atenção deve ser redobrada. Para o cardiologista, o tratamento dessa faixa etária é um desafio, o que evidencia a necessidade do olhar técnico por perto. Ele ainda acrescenta que o perigo existe independentemente da idade e que deve prevalecer a saúde dos indivíduos. Embora haja preocupação com todos os cidadãos, são os idosos que mais padecem na pandemia. De acordo com a pesquisa da Fiocruz, 3 em cada 4 mortos por Covid-19 no estado e no município do Rio de Janeiro têm idades acima de 60 anos.</p><p>Assim como nas doenças cardíacas, o novo coronavírus apresenta sintomas como falta de ar, dor no peito, trombose e, até mesmo, infarto. Ainda que a pessoa possa confundir tais doenças pela similaridade de reações, Artur deixa claro que há pouca conexão entre elas. “Apesar de alguns sintomas também serem da Covid-19, não é comum confundir com doenças cardíacas pelo fato de grande parte dos efeitos do vírus não estarem relacionados à Cardiologia. Como é uma doença nova, é sempre bom ficar atento”, destaca.</p><p><em>Lucas Ribeiro – 4° período</em></p></main>"
+  },
+  "date": "2020-11-09T14:54:18",
+  "date_gmt": "2020-11-09T17:54:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Procedimentos técnicos em baixa prejudicaram enfrentamento às doenças cardíacas durante a emergência sanitária O confinamento social fez com que muitas pessoas não realizassem consultas de rotina pela insegurança de contrair a Covid-19. A redução do tratamento médico já era esperada em certas áreas por se tratar de uma crise sanitária, mas, na Cardiologia, há sérias [&hellip;]</p>\n"
+  },
+  "featured_media": 8147,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8143"
+  },
+  "id": 8143,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/foto-artur.jpeg?fit=750%2C742&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-27l",
+  "link": "https://agenciauvabarra.com/2020/11/09/atendimentos-cardiologicos-diminuem-na-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-11-09T14:54:18",
+  "modified_gmt": "2020-11-09T17:54:18",
+  "ping_status": "open",
+  "slug": "atendimentos-cardiologicos-diminuem-na-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Atendimentos cardiológicos diminuem na pandemia"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21543/revisions/21547",
+        "id": 21547
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21543"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21543",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21543/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21543"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21546"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21543",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21543",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-21543",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Você sabe por que os idosos são a faixa etária mais difícil de acessar quando falamos em cuidado e acolhimento?</p><p>Para falar sobre essa realidade, o programa Dez Minutos Sobre entrevistou a psicóloga Aline Moraes de Castro, que compartilhou relatos de idosos em situação de rua e explicou como o acolhimento psicológico e social pode resgatar dignidade, escuta e pertencimento.</p><p>Quer saber se a sociedade está preparada para acolher e cuidar da população idosa? Então sintonize agora na Rádio UVA Barra!</p><figure><img src='https://www.instagram.com/reel/DT3LziYiZT1/' alt='Post do Instagram' width='500' height='500'><figcaption>View this post on Instagram</figcaption></figure><p>Créditos:<br>Produção: Ana Luísa Duarte, Ana Clara Mery Lima e Isabel Menezes<br>Coordenação da Rádio UVA Barra: Professor Anderson Barreto<br>Coordenação do Curso de Jornalismo: Professora Renata Feital</p></main>"
+  },
+  "date": "2026-01-23T14:56:25",
+  "date_gmt": "2026-01-23T17:56:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Você sabe por que os idosos são a faixa etária mais difícil de acessar quando falamos em cuidado e acolhimento? Para falar sobre essa realidade, o programa Dez Minutos Sobre entrevistou a psicóloga Aline Moraes de Castro, que compartilhou relatos de idosos em situação de rua e explicou como o acolhimento psicológico e social pode [&hellip;]</p>\n"
+  },
+  "featured_media": 21546,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21543"
+  },
+  "id": 21543,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-07-145951.png?fit=584%2C583&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5Bt",
+  "link": "https://agenciauvabarra.com/2026/01/23/dez-minutos-sobre-preconceito-qualidade-e-oportunidades-de-vida-referentes-ao-envelhecimento/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAH1eWcqhuIAWwGOgEQLAIBAQgBA0gCCEq4AwEBCAJCAQJIAKYIAQEIAkIBAkjgDagSAwDqEqwStBUGyBu8GwEBCAEDSAIEAgECSCYBAQgBA0jwAqoDAwGcAQIEOALSA2gAziqmAQK2M/gJAwGcAQIEOALWLXALCKIrAwGcAQIEOAJlKAEhACcABAAnASgGJwAoFCcABwAoAicBKAQnAKgABACHACgCJwEEACgEJwCHACgCJwEEACgEJwBEAIQDBACEAocAKAInASgEJwCoAScAKAOHACgCJwEoBCcAhAkEACgBqAPECKiaHf4bc3RhdGV2ZXJzaW9uZG9jdW1lbnRkYXRlZG9jdW1lbnRzdGF0dXNkb2N1bWVudHRpdGxlUmFzY3VuaG8gYXV0b23DoXRpY29kb2N1bWVudGNvbnRlbnRkb2N1bWVudGV4Y2VycHRkb2N1bWVudGF1dGhvcmRvY3VtZW50ZmVhdHVyZWRfbWVkaWFkb2N1bWVudGNvbW1lbnRfc3RhdHVzZG9jdW1lbnRwaW5nX3N0YXR1c2RvY3VtZW50c3RpY2t5ZG9jdW1lbnR0ZW1wbGF0ZWRvY3VtZW50Zm9ybWF0ZG9jdW1lbnRtZXRhYWR2YW5jZWRfc2VvX2Rlc2NyaXB0aW9uamV0cGFja19zZW9faHRtbF90aXRsZWpldHBhY2tfc2VvX25vaW5kZXhfY29ibG9ja3NfYXR0cl9jb2Jsb2Nrc19kaW1lbnNpb25zX2NvYmxvY2tzX3Jlc3BvbnNpdmVfaGVpZ2h0X2NvYmxvY2tzX2FjY29yZGlvbl9pZV9zdXBwb3J0amV0cGFja19wb3N0X3dhc19ldmVyX3B1Ymxpc2hlZHJlYWRlcl9zdWdnZXN0ZWRfdGFnc19qZXRwYWNrX25ld3NsZXR0ZXJfYWNjZXNzX2pldHBhY2tfZG9udF9lbWFpbF9wb3N0X3RvX3N1YnNfamV0cGFja19uZXdzbGV0dGVyX3RpZXJfaWRfamV0cGFja19tZW1iZXJzaGlwc19jb250YWluc19wYXl3YWxsZWRfY29udGVudF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BhaWRfY29udGVudGZvb3Rub3Rlc2pldHBhY2tfcHVibGljaXplX21lc3NhZ2VqZXRwYWNrX3B1YmxpY2l6ZV9mZWF0dXJlX2VuYWJsZWRqZXRwYWNrX3NvY2lhbF9wb3N0X2FscmVhZHlfc2hhcmVkamV0cGFja19zb2NpYWxfb3B0aW9uc2RvY3VtZW50Y2F0ZWdvcmllc2RvY3VtZW50dGFnc2RvY3VtZW50YmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NWb2PDqiBzYWJlIHBvciBxdWUgb3MgaWRvc29zIHPDo28gYSBmYWl4YSBldMOhcmlhIG1haXMgZGlmw61jaWwgZGUgYWNlc3NhciBxdWFuZG8gZmFsYW1vcyBlbSBjdWlkYWRvIGUgYWNvbGhpbWVudG8/Y2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50UGFyYSBmYWxhciBzb2JyZSBlc3NhIHJlYWxpZGFkZSwgbyBwcm9ncmFtYSBEZXogTWludXRvcyBTb2JyZSBlbnRyZXZpc3RvdSBhIHBzaWPDs2xvZ2EgQWxpbmUgTW9yYWVzIGRlIENhc3RybywgcXVlIGNvbXBhcnRpbGhvdSByZWxhdG9zIGRlIGlkb3NvcyBlbSBzaXR1YcOnw6NvIGRlIHJ1YSBlIGV4cGxpY291IGNvbW8gbyBhY29saGltZW50byBwc2ljb2zDs2dpY28gZSBzb2NpYWwgcG9kZSByZXNnYXRhciBkaWduaWRhZGUsIGVzY3V0YSBlIHBlcnRlbmNpbWVudG8uZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRRdWVyIHNhYmVyIHNlIGEgc29jaWVkYWRlIGVzdMOhIHByZXBhcmFkYSBwYXJhIGFjb2xoZXIgZSBjdWlkYXIgZGEgcG9wdWxhw6fDo28gaWRvc2E/IEVudMOjbyBzaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSFkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc0RleiBNaW51dG9zIHNvYnJlOiBQcmVjb25jZWl0cG8gPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPlZvY8OqIHNhYmUgcG9yIHF1ZSBvcyBpZG9zb3Mgc8OjbyBhIGZhaXhhIGV0w6FyaWEgbWFpcyBkaWbDrWNpbCBkZSBhY2Vzc2FyIHF1YW5kbyBmYWxhbW9zIGVtIGN1aWRhZG8gZSBhY29saGltZW50bz88L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5QYXJhIGZhbGFyIHNvYnJlIGVzc2EgcmVhbGlkYWRlLCBvIHByb2dyYW1hIERleiBNaW51dG9zIFNvYnJlIGVudHJldmlzdG91IGEgcHNpY8OzbG9nYSBBbGluZSBNb3JhZXMgZGUgQ2FzdHJvLCBxdWUgY29tcGFydGlsaG91IHJlbGF0b3MgZGUgaWRvc29zIGVtIHNpdHVhw6fDo28gZGUgcnVhIGUgZXhwbGljb3UgY29tbyBvIGFjb2xoaW1lbnRvIHBzaWNvbMOzZ2ljbyBlIHNvY2lhbCBwb2RlIHJlc2dhdGFyIGRpZ25pZGFkZSwgZXNjdXRhIGUgcGVydGVuY2ltZW50by48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5RdWVyIHNhYmVyIHNlIGEgc29jaWVkYWRlIGVzdMOhIHByZXBhcmFkYSBwYXJhIGFjb2xoZXIgZSBjdWlkYXIgZGEgcG9wdWxhw6fDo28gaWRvc2E/IEVudMOjbyBzaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSE8L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4sIHF1YWxpZGFkZSBlIG9wb3J0dW5pZGFkZXMgZGUgdmlkYSByZWZldHJycmVudGVzIGFvIGVudmVsaGVjaW1lbnRvIGNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2FwdGlvbnByb3ZpZGVyTmFtZVNsdWdhbGxvd1Jlc3BvbnNpdmVyZXNwb25zaXZlcHJldmlld2FibGVjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2NrcwoKPCEtLSB3cDplbWJlZCB7InByb3ZpZGVyTmFtZVNsdWciOiJpbnN0YWdyYW0iLCJyZXNwb25zaXZlIjp0cnVlfSAvLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+PC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Q3LDqWRpdG9zOjxicj5Qcm9kdcOnw6NvOiBBbmEgTHXDrXNhIER1YXJ0ZSwgQW5hIENsYXJhIE1lcnkgTGltYSBlIElzYWJlbCBNZW5lemVzPGJyPkNvb3JkZW5hw6fDo28gZGEgUsOhZGlvIFVWQSBCYXJyYTogUHJvZmVzc29yIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mZXNzb3JhIFJlbmF0YSBGZWl0YWx1cmx0eXBldXJsIjoiaHR0czovL3d3dy5pbnN0YWdhbS5jbS9yZWVsL0RUM0x6aVlpWlQxLz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmtcdTAwMjZpZ3NoPU16UmxPREJpTldGbFpBPT0iLCJ0eXBlIjoicmljaCIsInByby0tPgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1lbWJlZCBpcy10eXBlLXJpY2ggaXMtcHJvdmlkZXItaW5zdGFncmFtIHdwLWJsb2NrLWVtYmVkLWluc3RhZ3JhbSI+PGRpdiBjbGFzcz0id3AtYmxvY2stZW1iZWRfX3dyYXBwZXIiPgpodHRwczovd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EVDNMemlZaVpUMS8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmFtcDtpZ3NoPU16UmxPREJpTldGbFpBPT0KPC9kaXY+PC9maWd1cmU+CjwhIC93cDplbWJlZCAtLUNyw6lkaXRvczpicj5Qcm9kdcOnw6NvOiBBbmEgTHXDrXNhIER1YXJ0ZSwgQW5hIENsYXJhIE1lcnkgTGltYSBlIElzYWJlbCBNZW5lemVzPGJyPkNvb3JkZW5hw6fDo28gZGEgUsOhZGlvIFVWQSBCYXJyYTogUHJvZmVzc29yIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mZXNzb3JhIFJlbmF0YSBGZWl0YWw8BQcIBAgGCAUTCAcIBwgGCA4IDggLCAZIAQYIBBgWEw4UGx4fFRogGy8qCRkhIhYICggECAYIBwQKRwAKDQ8MC68BCAcECgeHBAcKDQ8MCwgHBAoHvAEHCg0PDAsBHEEBkgooAxkIBwQKRwAKDQ8MCwcQDwoLCAcECkcACg0PDAsSQQEuAQIcARqLAwMECQ4EngGLAq0BDQmCAwsBAwAAAQkAEgECABlCAQEAQQACAEEAAgBBAAIAQQACAAJBAAIABUFQAkEBAZEBAH0BdxMyMDI2LTA1LTA3VDE0OjU2OjI1fZrgrnJ9AHcEb3BlbncEb3Blbnl3AHcIc3RhbmRhcmR3AHcAeXcAdwB3AHcAeXcAdwB5fQB5eXcAdwB4eXYCGGltYWdlX2dlbmVyYXRvcl9zZXR0aW5nc3YECHRlbXBsYXRldwdoaWdod2F5EGRlZmF1bHRfaW1hZ2VfaWR9AARmb250dwAHZW5hYmxlZHkHdmVyc2lvbn0CdQB1AHckY2JmMWRjYTEtNDUxOS00Njk4LWJjODYtYTdkOTJhMjE5NDUxeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ2MGI0NWJkMy01ZmQ5LTQ4MzYtYWViYS02ZWQwYjFiYmE5OTZ3JDM3MzBjOTQyLTJmNjYtNGU5Ny04ZDQ5LTEyNGVhYWM4Y2NjOXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckMTkwM2M5NWEtMjBmZi00NmU0LWFiM2QtM2QwYWVlMjYwOTIyeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyRhOTAzZWJlYy0yMzVkLTRlOTctODM4Yy1jY2MwNDA0M2Q3NmR4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JGE0ZWU3N2ZiLWFhNTYtNDY1ZC1hYTIyLTY3NTAzZjZmZjVmMHcKY29yZS9lbWJlZHcJaW5zdGFncmFteHh4dyRiMTJhZjc4Ni00MGYwLTQ2ZWUtYjIzYS00YjIzN2ZjYjdjMDh4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3XWh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EVDNMemlZaVpUMS8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmlnc2g9TXpSbE9EQmlOV0ZsWkE9PXcEcmljaHcTMjAyNi0wMS0yM1QxNDo1NjoyNXUBfbDt+JwFdQF9mcyY6gR1An2ZzJjqBH2G8+m4AXUDfZnMmOoEfYbz6bgBfay+lwV9qtACdwdwdWJsaXNoAdWyjtUNDAEBARIDABkBAgCyBAABALoFAhoAAQABBeACAQ==\",\"updateId\":150161262}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-07T15:00:48",
+  "modified_gmt": "2026-05-07T18:00:48",
+  "ping_status": "open",
+  "slug": "dez-minutos-sobre-preconceito-qualidade-e-oportunidades-de-vida-referentes-ao-envelhecimento",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dez Minutos sobre: Preconceito, qualidade e oportunidades de vida referentes ao envelhecimento"
+  },
+  "type": "post"
+}

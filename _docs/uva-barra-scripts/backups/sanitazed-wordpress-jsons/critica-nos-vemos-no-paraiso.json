@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2002/revisions/3102",
+        "id": 3102
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2002"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2002",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2002/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2002"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2002",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2002",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2002",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/nos-vemos-no-paraiso-foto-trailer-1040x550.jpg?resize=1040%2C550&amp;ssl=1' alt='nos-vemos-no-paraiso-foto-trailer-1040x550' width='1040' height='550' /><figcaption>Foto: Divulgação</figcaption></figure><p>Terra e corpos voando. Bombas e tiros ecoando. O fim I Guerra Mundial marca o início da trama \"Nos vemos no paraíso\", dirigido por Albert Dupontel, uma adaptação do romance de Pierre Lemaître, premiado pelo Prix Goncourt em 2013. Dois companheiros com passados distintos, um artista e outro ex-contador, se apoiam em meio ao caos. Em novembro de 1918, poucos dias antes do Armistício, Édouard Péricourt salva a vida de Albert Maillard, mas esse ato não termina bem para o herói, e os dois são obrigados a se unirem para conseguirem sobreviver no pós guerra.</p><p>Entretanto, o decorrer do filme se contrasta com o transtorno inicial. Com delicadeza e humor, a estória retrata amizade, família e arte. No tempo em que Albert arrumava trabalhos para sustentar os remédios para Édouard, que também passava por uma crise artística, devido a condição médica. Quem o inspira a sair desse problema é a pequena Louise, que além de ajudá-lo nos projetos de pinturas, colagens e esculturas, também traduzia a \"nova\" fala. </p><figure class=\"alignleft\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/027429-r_1280_720-f_jpg-q_x-xxyxx.jpg?resize=480%2C720&amp;ssl=1' alt='027429.jpg-r_1280_720-f_jpg-q_x-xxyxx' width='480' height='720' /><figcaption>Foto: Albert Dupontel</figcaption></figure><p>A trama ainda opera dois desafios ao longo do filme. Albert e Édouard planejam uma fraude para um concurso do governo sobre um monumento aos mortos da guerra, no qual visavam conseguir o dinheiro e sair de Paris. Além disso, também decidem desvendar a farsa do Tenente Pradelle, que tenta fazer fortuna com os corpos das vítimas e seguir impune com a filha do presidente. </p><p>O fim leva um toque de poesia, que é acompanhada de belos figurinos e um cenário impecável. Dupontel cumpriu o dever de trazer um filme marcado por sentimentalismo e bom humor, um equilíbrio que deixa o espectador vidrado o tempo inteiro. Nos vemos no paraíso ainda foi vencedor de 5 Prêmios César 2018, por Melhor Figurino, Melhor Fotografia, Melhor Adaptação, Melhor Cenário e Melhor Realização. </p><p>Giovanna Faria – 6º período. </p></main>"
+  },
+  "date": "2018-07-02T16:47:02",
+  "date_gmt": "2018-07-02T19:47:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Terra e corpos voando. Bombas e tiros ecoando. O fim I Guerra Mundial marca o início da trama “Nos vemos no paraíso”, dirigido por Albert Dupontel, uma adaptação do romance de Pierre Lemaître, premiado pelo Prix Goncourt em 2013. Dois companheiros com passados distintos, um artista e outro ex-contador, se apoiam em meio ao caos. [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2002"
+  },
+  "id": 2002,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-wi",
+  "link": "https://agenciauvabarra.com/2018/07/02/critica-nos-vemos-no-paraiso/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:39:52",
+  "modified_gmt": "2019-01-31T14:39:52",
+  "ping_status": "open",
+  "slug": "critica-nos-vemos-no-paraiso",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: &#8220;Nos vemos no paraíso&#8221;"
+  },
+  "type": "post"
+}

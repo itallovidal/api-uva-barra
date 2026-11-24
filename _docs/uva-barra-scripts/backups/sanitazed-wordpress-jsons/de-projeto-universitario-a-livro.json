@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1797/revisions/3212",
+        "id": 3212
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1797"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1797",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1797/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1797"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1797",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1797",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1797",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Ex-aluno traz relação entre Política e Liberdade Religiosa e instiga o pensamento crítico de alunos do curso Direito</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/img_0103.jpg?resize=5184%2C3456&#038;ssl=1' alt='IMG_0103' width='5184' height='3456' /><figcaption>Créditos: Beatriz Guarany</figcaption></figure><p>Igualdade para todas as crenças pode ser possível. Essa foi a reflexão deixada na palestra “Direito, Política e Liberdade Religiosa”, promovida pela Universidade Veiga de Almeida (UVA) na última quinta-feira (15/04). Os alunos e professores da graduação debateram sobre as questões relativas a autonomia das diversas doutrinas religiosas brasileiras. A conversa foi mediada por Soniarlei Vieira, coordenador do curso de Direito, que recebeu o convidado Stênio de Freitas Barreto, autor do livro “Liberdade religiosa em educação, vestibulares e concursos públicos”.</p><p>O advogado e ex-aluno volta à casa para incentivar. Com a presença de dezenas de estudantes no auditório, Stênio revela a importância da profissão e os motivos para a escolha do curso. “Eu acreditava que tinha algo para acrescentar e desde a infância queria ser advogado”, revela o mineiro que passou no exame da OAB no 8º período. Durante a fase acadêmica ele também participou do projeto de Iniciação Científica (PIC UVA), em 2010, com o mesmo tema do próprio livro.</p><p>O tópico abordado no PIC UVA deu frutos. “Para falar de religião é preciso ter cautela e encontrar um meio termo”, explica o autor do livro “Liberdade religiosa em educação, vestibulares e concursos públicos”, que tem como objetivo de mostrar a realidade de representantes das culturas e crenças. Na análise da pesquisa ele divulgou o Comportamento Parlamentar diante da necessidade de espaço dos movimentos evangélicos.</p><p>Ao finalizar os estudos, ele acredita que o respeito às religiões é indispensável. “O livre arbítrio é de cada ser humano, seja ele ateu, católico ou protestante. Isso é um direito individual”, conclui o escritor. Quem concorda com esse discurso é a aluna do 3º período Ana Clara. “Esse conteúdo não está disponível em qualquer lugar e aqui eu pude refletir sobre as leis aplicadas”. Grande parte do público presente está no início do curso e pôde explorar mais a temática e ouvir os esclarecimentos.</p><p>Esse foi o caso da participante Hesthefani Rodrigues, também do 3º período. “Agora eu consigo compreender a necessidade de um relacionamento saudável entre a política e a religião”. Com o objetivo de ampliar os pensamentos sobre as indagações apresentadas, o coordenador Soniarlei pretende realizar mais diálogos como esse e convidar outros membros da ordem dos advogados. “É importante trazer para a universidade um exemplo de um profissional consolidado no mercado de trabalho para inspirar os graduandos”.</p><p>Karina de Figueiredo Lino, 4º período.</p></main>"
+  },
+  "date": "2018-03-19T11:15:35",
+  "date_gmt": "2018-03-19T14:15:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ex-aluno traz relação entre Política e Liberdade Religiosa e instiga o pensamento crítico de alunos do curso Direito</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1797"
+  },
+  "id": 1797,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-sZ",
+  "link": "https://agenciauvabarra.com/2018/03/19/de-projeto-universitario-a-livro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:23:57",
+  "modified_gmt": "2019-02-26T00:23:57",
+  "ping_status": "open",
+  "slug": "de-projeto-universitario-a-livro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "De projeto universitário a livro"
+  },
+  "type": "post"
+}

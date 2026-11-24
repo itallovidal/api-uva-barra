@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13230/revisions/13234",
+        "id": 13234
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13230"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13230",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13230/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13230"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13233"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13230",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13230",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    33026
+  ],
+  "class_list": [
+    "post-13230",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-esporte",
+    "category-violencia",
+    "tag-esporte",
+    "tag-futebol",
+    "tag-podcast",
+    "tag-radio-uva-barra",
+    "tag-violencia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: A violência no futebol brasileiro\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/7EFZlArGD3Whp7R3p6J3ky?utm_source=oembed\"></iframe></figure><p>O Brasil tem um caso de violência no futebol a cada quatro dias neste ano de 2022.</p><p>Diversas pesquisas foram realizadas ao redor do tema e muito se debate para encontrar a melhor maneira de trazer a paz no esporte. Por isso, a Rádio Uva Barra preparou 1 episódio especial para abordar, na visão da socióloga Raquel Oliveira e do Advogado esportivo Fábio Peragene as opções viáveis para garantir isso no menor espaço de tempo possível.</p><p>Se aprofunde com os jornalistas Mateus Vandesteen e Gabriel Pitella nesse tema.</p><p>Mateus Vandesteen – 6° Período</p><p>Gabriel Pitella – 8° Período</p></main>"
+  },
+  "date": "2022-10-20T12:29:59",
+  "date_gmt": "2022-10-20T15:29:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Diversas pesquisas foram realizadas ao redor do tema e muito se debate para encontrar a melhor maneira de trazer a paz no esporte. Por isso, a Rádio Uva Barra preparou 1 episódio especial para abordar, na visão da socióloga Raquel Oliveira e do Advogado esportivo Fábio Peragene as opções viáveis para garantir isso no menor espaço de tempo possível.</p>\n"
+  },
+  "featured_media": 13233,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13230"
+  },
+  "id": 13230,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/screenshot_20221017-153341_whatsapp.jpg?fit=1080%2C1079&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3ro",
+  "link": "https://agenciauvabarra.com/2022/10/20/podcast-radio-uva-barra-a-violencia-no-futebol-brasileiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-20T12:29:59",
+  "modified_gmt": "2022-10-20T15:29:59",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-a-violencia-no-futebol-brasileiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056609,
+    53870,
+    1142,
+    767056638,
+    767056617
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: A violência no futebol brasileiro"
+  },
+  "type": "post"
+}

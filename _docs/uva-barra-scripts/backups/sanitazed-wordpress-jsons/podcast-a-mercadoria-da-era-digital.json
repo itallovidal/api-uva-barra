@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9868/revisions/9872",
+        "id": 9872
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9868"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9868",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9868/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9868"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9870"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9868",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9868",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    758
+  ],
+  "class_list": [
+    "post-9868",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-digital",
+    "tag-era-digital",
+    "tag-internet",
+    "tag-podcast",
+    "tag-redes-sociais",
+    "tag-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: A mercadoria da Era Digital\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6qns86YfeOQJePBfou2PGP?si=cvU8DrhUQVOBxq8sI4rIAg&#038;dl_branch=1&#038;utm_source=oembed\"></iframe></figure><p>O mundo enfrenta hoje, o maior nível de vazamentos de senhas e ataques cibernéticos das últimas décadas, sendo divulgadas informações pessoais e jurídicas, de pessoas comuns e de grandes monopólios empresariais. O que categoriza um intenso meio mercadológico de informações no mundo virtual.</p><p>Com esse intenso fluxo e geração de informação, os dados se tornaram a mercadoria da era digital, emergindo o questionamento, do quanto expostas estão as pessoas no uso frequente da internet?</p><p>Os repórteres Luana Paes e Vinicius Alves, conversaram com os engenheiros de segurança Rafael Santos e Daniel Carlier, os dois com passagens de atuação profissional pelas empresas Globo e Quinto Andar, que responderam como enxergam a atual revolução digital e o intenso uso de dados nas redes.<br><br><em>Luana Paes – 5º período</em></p><p><em>Vinicius Alves – 5º período</em></p></main>"
+  },
+  "date": "2021-07-26T15:39:35",
+  "date_gmt": "2021-07-26T18:39:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O mundo enfrenta hoje, o maior nível de vazamentos de senhas e ataques cibernéticos das últimas décadas, sendo divulgadas informações pessoais e jurídicas, de pessoas comuns e de grandes monopólios empresariais. O que categoriza um intenso meio mercadológico de informações no mundo virtual.</p>\n"
+  },
+  "featured_media": 9870,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9868"
+  },
+  "id": 9868,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/capa-site-agencia-1-2.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2za",
+  "link": "https://agenciauvabarra.com/2021/07/26/podcast-a-mercadoria-da-era-digital/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-26T15:39:35",
+  "modified_gmt": "2021-07-26T18:39:35",
+  "ping_status": "open",
+  "slug": "podcast-a-mercadoria-da-era-digital",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    24932,
+    608138,
+    767056590,
+    1142,
+    116317,
+    767056593
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: A mercadoria da Era Digital"
+  },
+  "type": "post"
+}

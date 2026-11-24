@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1950/revisions/3112",
+        "id": 3112
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1950"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1950",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1950/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1950"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1950",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1950",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1950",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Alunos de design da UVA levam projetos finais de curso para desfile na Cidade das Artes</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/whatsapp-image-2018-05-14-at-14-46-29.jpeg?resize=1280%2C853&#038;ssl=1' alt='WhatsApp Image 2018-05-14 at 14.46.29' width='1280' height='853' /><figcaption>Foto: Brenda Martins</figcaption></figure><p>O portfólio é parte da vida de qualquer profissional. Por isso, a Universidade Veiga de Almeida (UVA) realizou, nesta última quinta-feira (10/05), a 7ª edição do concurso “Novos Talentos”, na Cidade das Artes. Junto com a Escola de Design dos Campi Barra, Tijuca e Cabo Frio, os alunos recém-formados apresentam os projetos de conclusão de curso, com o objetivo de premiar os primeiros colocados. A atividade ajuda a colocar jovens profissionais em contato com a realidade do mercado de trabalho.</p><p>Quem não quis perder essa oportunidade foi a Jéssica Cruz, estudante de moda e uma das competidoras. Ela afirma que eventos como esse permitem que os participantes dividam os pontos de vista de cada um e conheçam outros. “Estou me sentindo lisonjeada de poder trazer meu projeto e não ficar somente entre quatro paredes”, conta. Um dos destaques foi a diversidade e aceitação na passarela e nos projetos.</p><figure class=\"alignright\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/whatsapp-image-2018-05-14-at-14-46-26.jpeg?resize=1280%2C853&#038;ssl=1' alt='WhatsApp Image 2018-05-14 at 14.46.26' width='1280' height='853' /><figcaption>Foto: Brenda Martins</figcaption></figure><p>Esse movimento ficou marcado pela estudante de Letras Maya Rocha, que foi chamada por uma das participantes para representar as modelos <em>plus-sizes</em> na coleção. “Eu estou muito animada por estar aqui e estou me sentindo no São Paulo Fashion Week”, comenta. Desde jovem já trabalha nesse ramo, e a artista comenta sobre a representatividade na moda. “Com o meu tipo de corpo é difícil ter uma oportunidade dessas então estou muito feliz de estar aqui”, explica. E o evento desse ano superou as expectativas dos organizadores.</p><p>A última edição aconteceu em 2016, e só voltou em 2018. O organizador Diego Soares conta que foi feito de tudo para a 7ª edição ficar marcada na história. “Achamos importante manter a tradição de algo que acontece há tanto tempo na instituição e serve também para inserir os alunos no mercado de trabalho”, explica. Deixando a competição de lado, os designers têm a oportunidade de criar e de se descobrirem e ainda levam todo o acontecimento como experiência para a vida profissional.</p><p><strong>Ana Carolina Marinho, 5º período e Ana Beatriz Bernardo, 5º período.</strong></p></main>"
+  },
+  "date": "2018-05-14T15:49:05",
+  "date_gmt": "2018-05-14T18:49:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alunos de design da UVA levam projetos finais de curso para desfile na Cidade das Artes O portfólio é parte da vida de qualquer profissional. Por isso, a Universidade Veiga de Almeida (UVA) realizou, nesta última quinta-feira (10/05), a 7ª edição do concurso “Novos Talentos”, na Cidade das Artes. Junto com a Escola de Design [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1950"
+  },
+  "id": 1950,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-vs",
+  "link": "https://agenciauvabarra.com/2018/05/14/uva-fashion-day/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:46:47",
+  "modified_gmt": "2019-01-31T14:46:47",
+  "ping_status": "open",
+  "slug": "uva-fashion-day",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "UVA Fashion Day"
+  },
+  "type": "post"
+}

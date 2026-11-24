@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2537/revisions/3159",
+        "id": 3159
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2537"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2537",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2537/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2537"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2538"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2537",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2537",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-2537",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-3o-edicao-da-mostra-de-publicidade",
+    "tag-agencia-uva-barra",
+    "tag-midia-digital",
+    "tag-midia-offline",
+    "tag-publicidade-e-propaganda",
+    "tag-publicidade-social-em-midia-outdoor",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra",
+    "tag-uva-tijuca"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Mostra de publicidade da Universidade Veiga de Almeida coroa projetos de alunos do campus Barra</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/img-20181022-wa0004-e1540389392250.jpg?resize=1280%2C720&#038;ssl=1' alt='IMG-20181022-WA0004' width='1280' height='720' /><figcaption>Vinícius Martins e Vanessa Cassidy ganhadores em Mídia Offline – Foto: Léo Amato</figcaption></figure><p>Para muitos, uma primeira experiência profissional ainda na graduação. Nos dias 17 e 18/10 aconteceu a terceira edição da Mostra de Publicidade, que reuniu profissionais e estudantes no campus Tijuca, da Universidade Veiga de Almeida (UVA). Além de palestras e demonstração de campanhas, o evento premiou diversos trabalhos de alunos, com destaque para a produção realizada no campus Barra.</p><p>Pelo menos três prêmios foram dedicados a essa unidade. Entre os ganhadores estão a dupla Vanessa Cassidy e Vinícius Martins (Mídia Offline), a dupla David Werneck e Lucas Matias (Mídia Digital) e Raquel Sampaio (Publicidade Social em mídia outdoor), que também garantiu o segundo lugar em Mídia Offline.</p><p>O coordenador da Agência Onze, laboratório do curso de Publicidade, o professor Léo Amato, auxiliou na orientação dos alunos. “Começamos a maioria dos projetos em agosto, quando entrei na Agência. Outros iniciaram ainda durante as aulas e prosseguiram conosco”, explica.</p><p>O campus Barra conseguiu uma quantidade considerável de prêmios, mesmo com um número menor de inscrições, comparadas à Tijuca. Entre os envolvidos, o sentimento é de orgulho. “Isso mostra que o curso de publicidade cumpre o seu papel de apresentar as ferramentas para o ensino, como também o conteúdo para desenvolver trabalhos práticos”, afirma Renata Feital, coordenadora de Comunicação Social da Barra. Além disso, Renata realça a vontade de, no futuro próximo, realizar a Mostra no próprio campus. “Vai nos trazer mais visibilidade”, frisa.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/img-20181022-wa0002.jpg?resize=1280%2C960&#038;ssl=1' alt='IMG-20181022-WA0002' width='1280' height='960' /><figcaption>Foto: Léo Amato</figcaption></figure><p>Já entre os vencedores o clima é de dever cumprido. É o caso de Vanessa Cassidy e Vinícius Martins, ganhadores em Mídia Offline. Eles desenvolveram uma peça sobre o uso de preservativos fora do período do carnaval. “Nos dedicamos para fazer algo visualmente apelativo e de bom gosto, e esse prêmio é a certeza de que estamos no caminho certo”, explica Vanessa, que pretende voltar a participar, mas em outras categorias.</p><p>Raquel Sampaio, por outro lado, foi lembrada duas vezes. Ela conquistou o primeiro lugar em Publicidade Social e o segundo em Mídia Offline, com campanhas sobre “fake news” e contra a violência aos idosos, respectivamente. “É o meu primeiro prêmio de publicidade e é algo que me fez acreditar mais em mim, além de confirmar que a área de criação é a que eu pretendo seguir”, afirma. Assim como Vanessa, fica a expectativa para as próximas Mostras. “É uma ótima forma de aprendizado e crescimento”.</p><p>Lucas Motta – 7º período</p></main>"
+  },
+  "date": "2018-10-23T21:00:13",
+  "date_gmt": "2018-10-24T00:00:13",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mostra de publicidade da Universidade Veiga de Almeida coroa projetos de alunos do campus Barra Para muitos, uma primeira experiência profissional ainda na graduação. Nos dias 17 e 18/10 aconteceu a terceira edição da Mostra de Publicidade, que reuniu profissionais e estudantes no campus Tijuca, da Universidade Veiga de Almeida (UVA). Além de palestras e [&hellip;]</p>\n"
+  },
+  "featured_media": 2538,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2537"
+  },
+  "id": 2537,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/img-20181022-wa0004-e1540389392250.jpg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-EV",
+  "link": "https://agenciauvabarra.com/2018/10/23/o-caminho-da-criatividade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-01T14:04:43",
+  "modified_gmt": "2019-02-01T16:04:43",
+  "ping_status": "open",
+  "slug": "o-caminho-da-criatividade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    652764099,
+    648221465,
+    195470,
+    1802372,
+    111680,
+    652764100,
+    5435308,
+    193805510,
+    234610809
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O caminho da criatividade"
+  },
+  "type": "post"
+}

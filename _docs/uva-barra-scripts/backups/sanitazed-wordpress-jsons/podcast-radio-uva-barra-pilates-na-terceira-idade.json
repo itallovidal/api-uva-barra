@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16223/revisions/16227",
+        "id": 16227
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16223"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16223",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16223/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16223"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16226"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16223",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16223",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330,
+    701438832
+  ],
+  "class_list": [
+    "post-16223",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-radio-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O pilates é uma atividade que traz diversos benefícios para o corpo e para a mente. Particularmente popular entre os idosos, esse exercício ajuda na mobilidade e na melhoria da qualidade de vida dos praticantes.</p><p>O programa apresenta quais são esses benefícios e traz depoimentos tanto de quem pratica quanto de quem ensina o pilates.</p><p><strong>Confira o podcast completo:</strong></p><figure><iframe title=\"Spotify Embed: Podcast Rádio UVA Barra: Pilates na terceira idade\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6DhXVkGlVmyW2kdonvip1E?si=rybp6-y0TyeTAlfcRyY8Dg&#038;utm_source=oembed\"></iframe></figure><p><br><em>Vinícius Zakhm – 8° período</em></p></main>"
+  },
+  "date": "2023-11-07T21:39:45",
+  "date_gmt": "2023-11-08T00:39:45",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O pilates é uma atividade que traz diversos benefícios para o corpo e para a mente. Particularmente popular entre os idosos, esse exercício ajuda na mobilidade e na melhoria da qualidade de vida dos praticantes. O programa apresenta quais são esses benefícios e traz depoimentos tanto de quem pratica quanto de quem ensina o pilates. [&hellip;]</p>\n"
+  },
+  "featured_media": 16226,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16223"
+  },
+  "id": 16223,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/11/podcast-1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4dF",
+  "link": "https://agenciauvabarra.com/2023/11/07/podcast-radio-uva-barra-pilates-na-terceira-idade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-11-07T21:39:45",
+  "modified_gmt": "2023-11-08T00:39:45",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-pilates-na-terceira-idade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    767056638
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Pilates na terceira idade"
+  },
+  "type": "post"
+}

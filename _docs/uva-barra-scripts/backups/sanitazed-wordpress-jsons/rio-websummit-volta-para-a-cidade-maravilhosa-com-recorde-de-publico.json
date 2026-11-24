@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16519/revisions/16527",
+        "id": 16527
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16519"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16519",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16519/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16519"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16519",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16519",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16519",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O maior evento de tecnologia do mundo teve ingressos esgotados uma semana antes do primeiro dia de feira</em></p><p>A segunda edição do Rio WebSummit recebeu 34,397 pessoas no primeiro dia do evento, que fica localizado no Riocentro. Com uma programação estendida por três dias e mais de 500 palestrantes, como a influencer Bianca Andrade, o prefeito do Rio de Janeiro, Eduardo Paes e o chefe de tecnologia do Nubank, Vitor Oliveira.</p><p>O WebSummit deste ano tem como principais temas inteligência artificial, fintech e ativismo. 60% das startups que participam do evento são <em>impact </em>startups, que estão alinhadas com o projeto de sustentabilidade das Nações Unidas, que trabalham com mudanças climáticas, direitos humanos, educação e mais.</p><p>A abertura do evento foi acompanhada pelo Prefeito do Rio de Janeiro, Eduardo Paes. A parceria do WebSummit com a cidade deve gerar mais quatro edições, até 2028 e com um lucro de 1,5 bilhão na economia carioca. A cidade também está com um stand da Invest.Rio, uma agência que tem como objetivo atrair investimentos para a área, além de divulgar o G20.</p><p>Em coletiva de imprensa, o chefe do evento Craig Becker respondeu sobre a possibilidade do evento ser sediado em outra cidade do país, como Brasília, que marca presença no WebSummit com o Banco de Brasília (BRB) como stand no Pavilhão 3. “Eu não diria que isso é algo imediato [a ser pensado]. Nós estamos felizes em estar no Rio, temos pessoas de todos os países e regiões e isso é exatamente o que nós esperávamos, mas quem sabe no futuro nós teremos energia para fazer um segundo evento em algum outro lugar”, comenta.</p><p>Ao todo, 1,066 startups de mais de 40 países estão presentes exibindo as ideias na feira de tecnologia. Entre elas, é a by the culture, empresa focada na educação que está no evento com o projeto Waypoint, voltado para a capacitação em qualidade de software. “[O wayward] é voltado tanto para o público em geral, que queira ou entrar no mercado de trabalho de tecnologia ou que já atue com tecnologia, mas queira evoluir na carreira profissional”, relata Rodolpho Dutra, que está no evento divulgando a by the culture.</p><p>A importância de educar um funcionário em montar softwares de qualidade também influencia diretamente na lealdade de um possível cliente. Rodolpho comenta que a startup oferece serviço de imersão para empresas de tecnologia, apoiando na transformação de softwares de qualidade, ajudando profissionalmente e financeiramente.</p><p>A empresária Bianca Andrade, conhecida como Boca Rosa, esteve no evento para dar uma palestra para o público presente. A ex-BBB falou sobre o lançamento da nova marca de maquiagem, o investimento necessário para essa nova trajetória na carreira e sobre a expectativa de faturar R$1 bilhão até 2030. “A grande revolução que eu queria fazer dentro do mercado brasileiro de maquiagem, que é muito potente. Eu queria trazer uma nova consciência em relação à diversidade dentro da maquiagem. É fazer com que cada pessoa, cada mulher, consiga achar a sua base e ficar feliz com isso. A gente criou a maior cartela de maquiagem desse país e isso requer muito investimento, muita ousadia da nossa parte”, comenta a influencer digital.</p><p>Craig Becker também comemorou a presença feminina no evento. 47.5% das participantes e 45% de fundadoras de empresas são mulheres. “Nós estamos bem orgulhosos com as nossas iniciativas para destacar as comunidades não representadas, mas especialmente mulheres. Começamos o programa <em>Women in Tech</em> em 2015 e estamos ativamente engajados com as participantes mulheres. Quando o evento teve início nós tínhamos 20% de mulheres no nosso evento. Agora estamos entre 44 e 47% ”, comemora o diretor.</p><p>Rio WebSummit finaliza a temporada de 2024 na quinta-feira, dia 18. Já é possível comprar os ingressos para o evento do ano que vem.</p><p><em>Mayara Rocha – 5º Período</em></p></main>"
+  },
+  "date": "2024-04-17T15:39:22",
+  "date_gmt": "2024-04-17T18:39:22",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O maior evento de tecnologia do mundo teve ingressos esgotados uma semana antes do primeiro dia de feira A segunda edição do Rio WebSummit recebeu 34,397 pessoas no primeiro dia do evento, que fica localizado no Riocentro. Com uma programação estendida por três dias e mais de 500 palestrantes, como a influencer Bianca Andrade, o [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16519"
+  },
+  "id": 16519,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4ir",
+  "link": "https://agenciauvabarra.com/2024/04/17/rio-websummit-volta-para-a-cidade-maravilhosa-com-recorde-de-publico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-04-18T15:44:11",
+  "modified_gmt": "2024-04-18T18:44:11",
+  "ping_status": "open",
+  "slug": "rio-websummit-volta-para-a-cidade-maravilhosa-com-recorde-de-publico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "RIO WEBSUMMIT VOLTA PARA A CIDADE MARAVILHOSA COM RECORDE DE PÚBLICO"
+  },
+  "type": "post"
+}

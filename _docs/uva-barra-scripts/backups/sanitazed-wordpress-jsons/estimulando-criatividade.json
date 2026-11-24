@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1550/revisions/3276",
+        "id": 3276
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1550"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1550",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1550/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1550"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1550",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1550",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1550",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Oficina de Design de Moda busca melhorar técnicas aprendidas no curso</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/img_20171024_123748826-1.jpg?resize=4160%2C3120&#038;ssl=1' alt='IMG_20171024_123748826 (1)' width='4160' height='3120' /><figcaption>Foto: Lucas Motta</figcaption></figure><p>Uma das salas da Universidade Veiga de Almeida, na Barra, foi tomada por desenhos coloridos e papeis cortados. Esse foi o resultado do workshop “Quadrado do quadrado”, que abriu a Semana de Design e Arquitetura, na terça-feira, dia 24, ministrada pela professora Liana D’Urso, a oficina teve como intenção trabalhar técnicas de estamparia e favorecer o contato entre os alunos – especialmente entre os que cursam Design de Moda, o público-alvo do evento.<br>O método “Quadrado do Quadrado” foi criado pela própria professora Liana e é usado pela sua firma, Durso Design e T.I. O procedimento tem como intenção desenvolver a noção do padrão de estamparia, por meio da sensação de continuidade que a técnica possui. “Eu imaginei essa metodologia para os alunos do curso de moda. A ideia é formar vários módulos, um do lado do outro, para ver como se forma a imagem do padrão repetido”, explica Liana, que ainda incentivou o melhor dos estudantes, mediante um concurso que seleciona os melhores desenhos.</p><div><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/img_20171024_122434439_hdr.jpg?resize=4160%2C3120&#038;ssl=1' alt='IMG_20171024_122434439_HDR' width='4160' height='3120' /></figure></div><p>Evelyn Alves, que estuda Gestão de RH na Universidade Celso Lisboa, nutre sua paixão por moda e levou o primeiro lugar. “Meu lema é sempre pensar fora da caixa. Daqui eu levo o conhecimento que a professora passou, além de conhecer pessoas novas”, afirma. Evelyn desenhou vários pedaços de pizza, postos de forma contínua – exatamente como foi ensinado.</p><p>Ao final foram premiados apenas três trabalhos. Mesmo assim, a professora Liana elogiou todos os desenhos. Passou de mesa em mesa auxiliando nas tarefas, com a colaboração de suas monitoras. Apesar de ser uma oficina rápida, ela saiu de lá com a sensação de dever cumprido. “Acho que foi proveitoso. Principalmente depois de todo esse estímulo que tentei proporcionar, com o concurso. Ensinar com motivação e alegria faz parte do ofício”.</p><p><strong>Lucas Motta, 5º período.</strong></p></main>"
+  },
+  "date": "2017-10-26T19:26:59",
+  "date_gmt": "2017-10-26T21:26:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Oficina de Design de Moda busca melhorar técnicas aprendidas no curso</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1550"
+  },
+  "id": 1550,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-p0",
+  "link": "https://agenciauvabarra.com/2017/10/26/estimulando-criatividade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:15:55",
+  "modified_gmt": "2019-02-28T19:15:55",
+  "ping_status": "open",
+  "slug": "estimulando-criatividade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Estimulando Criatividade"
+  },
+  "type": "post"
+}

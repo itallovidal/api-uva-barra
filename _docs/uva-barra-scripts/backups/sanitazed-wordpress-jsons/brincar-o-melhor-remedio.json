@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7393/revisions/7431",
+        "id": 7431
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7393"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7393",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7393/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7393"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7396"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7393",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7393",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    703299214
+  ],
+  "class_list": [
+    "post-7393",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Comunidade se une para desenvolver atividades para as crianças durante a quarentena</em></p><p>No dia 31 de dezembro de 2019, o mundo presenciou o primeiro caso de contagio pelo SARS-CoV2, em Wuhan, na China. Três meses depois, a Organização Mundial da Saúde (OMS) definiu o surto da doença como <a href='https://pebmed.com.br/oms-declara-doenca-pelo-novo-coronavirus-como-pandemia/' target='_blank' rel='noreferrer noopener'>pandemia</a>. A experiência de isolamento social afetou inúmeros brasileiros e estrangeiros, que buscaram alternativas para as suas rotinas do dia a dia. Foi nesse contexto que os olhares foram direcionados àqueles que não compreendem o estresse e preocupação de um cenário turbulento: as crianças – e o desafio de entretê-las sem sair de casa.</p><p>Adaptar a curiosidade delas à realidade é o que defende a psicóloga Ana Mendonça, que afirma que para contornar o medo gerado pela situação atual, os recursos lúdicos são fortes aliados. “É importante manter a saúde mental dos pequenos, pois é na infância que o indivíduo está formando sua personalidade”, destaca. “É um momento para reavaliação e reflexão sobre nossos atos”, pontua.</p><p>Brincadeiras para conter a tensão e o tédio são boas estratégias. Expor desenhos e pinturas nas janelas, realizar uma caça aos ursinhos de pelúcia e desenhar nas calçadas foram algumas das ideias que surgiram em grupos no Facebook administrados por mães, nos Estados Unidos (Texas). “O propósito é distrair as crianças para dar um pouquinho de um senso de normalidade para elas”, explicou Nathália Wilke, uma das administradoras do grupo. Ela acrescenta ainda que as ações buscam valorizar a noção de comunidade entre as pessoas de seu bairro.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-16.20.22.jpeg?resize=1280%2C960&amp;ssl=1' alt='' width='1280' height='960' /><figcaption>Jackson Cruise e Lucy Helena, filhos da Nathalia Wilke, mostrando desenho feito na calçada – Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-16.20.23-1.jpeg?resize=1280%2C960&amp;ssl=1' alt='' width='1280' height='960' /><figcaption>Caça ao bichinho de pelúcia- brinquedos ficam escondidos em algum ponto da casa para crianças procurarem ao passear pelo bairro – Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-16.20.23.jpeg?resize=1280%2C960&amp;ssl=1' alt='' width='1280' height='960' /><figcaption>Desenhos e pinturas feitos pelos filhos da Nathalia Wilke, expostos na janela de sua casa – Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-16.21.19.jpeg?resize=970%2C1024&amp;ssl=1' alt='' width='970' height='1024' /><figcaption>Psicóloga Ana Mendonça – Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-16.24.45.jpeg?resize=640%2C626&amp;ssl=1' alt='' width='640' height='626' /><figcaption>Alessandra Cunha e a filha Lenira Cunha – Foto: Arquivo Pessoal</figcaption></figure><p>Para os mais jovens, estar em casa com os pais é especial, pois normalmente eles estão tão ocupados trabalhando que não têm muito tempo disponível para aproveitar a companhia dos filhos. Nesse cenário, é preciso se reinventar para atender às necessidades dos pequenos, relata Nathália Wilke, mãe do Jackson Cruise (5) e a da Lucy Helena (2). “É muito diferente quando a gente coloca a prioridade nas crianças em vez de pensar no que a gente precisa como adultos”, afirma.</p><p>No Brasil não é diferente. Lembrar de respirar para manter corpo e mente saudáveis é o lema da Alessandra Cunha, que buscou criar um cronograma para aproveitar o tempo com a filha de 9 anos, Lenira. “No início foi um baque muito grande e eu não sabia como lidar com a situação”, conta a mãe. Foi então que ela decidiu que era preciso tentar voltar à vida normal. Desde então, a criatividade tem sido o fator chave para suas tardes de entretenimento. Dentre tantas atividades, como pintar e acampar na sala, o cine pipoca acontece todos os sábados, e é especial para as duas: “Ele é sagrado”, brinca Alessandra. “Deu muito trabalho, mas fiz tudo com muito amor e carinho”, diz. </p><p>Partir do princípio de que para criar crianças saudáveis é preciso olhar para elas, estar com elas e ajuda-las é o básico proposto pela psicóloga Ana Mendonça, que certifica que a proximidade fará a diferença no desenvolvimento das crianças. “Vamos nos reinventar, reviver a nossa própria infância, criar novas situações para tornar mais leve o momento para nossos pequenos e assim colhermos frutos saudáveis no futuro”, aposta.</p><p><strong>Luma Keily – 3º Período | Jornalismo</strong></p><p><em>*Texto produzido na disciplina Teoria e Técnica da Notícia em parceria com a Agência UVA Barra.</em></p></main>"
+  },
+  "date": "2020-08-04T14:00:00",
+  "date_gmt": "2020-08-04T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Comunidade se une para desenvolver atividades para as crianças durante a quarentena No dia 31 de dezembro de 2019, o mundo presenciou o primeiro caso de contagio pelo SARS-CoV2, em Wuhan, na China. Três meses depois, a Organização Mundial da Saúde (OMS) definiu o surto da doença como&nbsp;pandemia. A experiência de isolamento social afetou inúmeros [&hellip;]</p>\n"
+  },
+  "featured_media": 7396,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7393"
+  },
+  "id": 7393,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-16.20.22.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Vf",
+  "link": "https://agenciauvabarra.com/2020/08/04/brincar-o-melhor-remedio/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-03T19:05:46",
+  "modified_gmt": "2020-08-03T22:05:46",
+  "ping_status": "open",
+  "slug": "brincar-o-melhor-remedio",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Brincar: o melhor remédio"
+  },
+  "type": "post"
+}

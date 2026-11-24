@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15869/revisions/15875",
+        "id": 15875
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15869"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15869",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15869/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15869"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15876"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15869",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15869",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15869",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Bienal do Livro 2023 celebra literatura infantil \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/42IXd5UUiAeqODmDleQZPV?si=mLdipK47RW26pZrtADqWGg&#038;utm_source=oembed\"></iframe></div></figure><p>A literatura infantil é transformadora e merece ser incentivada e celebrada, como foi na vigésima primeira edição da Bienal do Livro. Comemorando seus 40 anos, a Bienal inaugurou uma área exclusiva dedicada às crianças.</p><p>Com um espaço de 600 metros quadrados, o Espaço Infantil contou com uma programação extensa para as 200 mil crianças que passaram por lá. A Rádio UVA Barra esteve presente no evento e conferiu as novidades na programação infantil.</p><p>Nesta edição especial de podcasts jornalísticos, apresentamos entrevistas com os autores Renato Noguera e Lucimar Cunha, que lançaram novos livros infantis, “O Aniversário do João” e “Jongando”, respectivamente, durante a Bienal. Também conservamos com crianças e familiares presentes no Espaço Infantil para entender melhor o que as levaram até ali.</p><p><em>Lia Van Boekel – 8° período</em></p></main>"
+  },
+  "date": "2023-09-08T11:17:36",
+  "date_gmt": "2023-09-08T14:17:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A literatura infantil é transformadora e merece ser incentivada e celebrada, como foi na vigésima primeira edição da Bienal do Livro. Comemorando seus 40 anos, a Bienal inaugurou uma área exclusiva dedicada às crianças. </p>\n"
+  },
+  "featured_media": 15876,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15869"
+  },
+  "id": 15869,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-22-at-14.03.11.jpeg?fit=1200%2C1600&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-47X",
+  "link": "https://agenciauvabarra.com/2023/09/08/podcast-radio-uva-barra-bienal-do-livro-2023-celebra-literatura-infantil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-22T15:12:57",
+  "modified_gmt": "2023-09-22T18:12:57",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-bienal-do-livro-2023-celebra-literatura-infantil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Bienal do Livro 2023 celebra literatura infantil"
+  },
+  "type": "post"
+}

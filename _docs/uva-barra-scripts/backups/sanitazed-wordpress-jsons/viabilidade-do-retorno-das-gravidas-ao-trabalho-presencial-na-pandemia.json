@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10753/revisions/10770",
+        "id": 10770
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10753"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10753",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10753/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10753"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10768"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10753",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10753",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    81389,
+    798,
+    72064,
+    7114,
+    14591
+  ],
+  "class_list": [
+    "post-10753",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direito",
+    "category-politica",
+    "category-saude",
+    "category-sociedade",
+    "category-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Segurança jurídica e sanitária apontam para a permanência deste grupo de risco no virtual</em></p><p>A Câmara dos Deputados aprovou, no dia 6 de outubro, o Projeto de Lei 2.058/21, que prevê o retorno ao trabalho presencial das grávidas totalmente imunizadas. Caso tenha o aval do Senado, a proposta modificaria a Lei 14.151/21 que garantiu o home office sem a redução salarial para o grupo prioritário. Até a última atualização do Ministério da Saúde, aproximadamente 600 mil gestantes tomaram as duas doses da vacina. Entretanto, o índice de mortalidade por Covid-19 desta classe triplicou em relação ao ano passado, de acordo com o Observatório Obstétrico Brasileiro.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/veronica.jpg?resize=899%2C899&#038;ssl=1' alt='' width='899' height='899' /><figcaption>A fonoaudióloga Verônica Possamai, grávida de quase 7 meses, precisou trabalhar presencialmente na maior parte da pandemia, o que a deixou preocupada. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/alessandra.jpg?resize=1200%2C1600&#038;ssl=1' alt='' width='1200' height='1600' /><figcaption>A gerente comercial Alessandra Lima está grávida de 5 meses e vai redobrar os cuidados sanitários no trabalho após o término da licença maternidade do filho adotivo Felipe. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/alessandra-e-felipe.jpg?resize=853%2C1280&#038;ssl=1' alt='' width='853' height='1280' /><figcaption>Alessandra Lima, grávida de 5 meses, esperou 6 anos para adotar o filho Felipe, que estava no primeiro mês quando ela descobriu com surpresa a gestação. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/nathalia.jpg?resize=750%2C741&#038;ssl=1' alt='' width='750' height='741' /><figcaption>Além da gestação de nove meses, a arquiteta Nathália Ribeiro teve que melhorar o rendimento da própria empresa em meio às dificuldades da pandemia. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/valeria.jpg?resize=512%2C512&#038;ssl=1' alt='' width='512' height='512' /><figcaption>A advogada trabalhista Valéria Amaral se baseia na Constituição e na Consolidação das Leis do Trabalho (CLT) em relação à garantia do home office às grávidas. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/sergio-e1637270065166.jpg?resize=385%2C437&#038;ssl=1' alt='' width='385' height='437' /><figcaption>Sérgio Medrado, obstetra, considera precoce o retorno das gestantes ao trabalho presencial no atual momento, já que pouco se sabe sobre os efeitos da Covid-19 nesse grupo de risco. (Foto: Arquivo Pessoal)</figcaption></figure><p>A licença maternidade (120 dias ou mais), a garantia do emprego, o acesso a consultas, exames e repouso estão entre os principais direitos trabalhistas da gestante. Para Valéria Amaral, advogada trabalhista, o trabalho home office é assegurado judicialmente para as grávidas no período de pandemia. “A Consolidação das Leis do Trabalho (CLT) determina o afastamento das gestantes e lactantes do trabalho em ambientes insalubres. Por iminente o risco de contaminação do coronavírus, essa norma ampara a diferenciação no tratamento”, destaca.</p><p><strong>A advogada Valéria Amaral comenta acerca dos principais direitos trabalhistas da gestante.</strong></p><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"A advogada Valéria Amaral comenta acerca dos principais direitos trabalhistas da gestante by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1162579984&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500'></iframe></div></figure><p>Apesar da garantia do trabalho remoto, há profissões que necessitam da presença física dos empregados para a manutenção do rendimento. É o caso da gerente comercial Alessandra Lima, que ficou surpresa com a descoberta da gravidez, hoje de 5 meses, durante o primeiro mês do filho adotivo Felipe. Ela sempre trabalhou nesse modelo no segmento de material de construção e acredita que renderia menos se fosse ao contrário. Além disso, os protocolos sanitários da empresa a deixam segura, já que a chance de pegar o vírus diminui.</p><p>Quem pensa diferente é a fonoaudióloga, Verônica Possamai, que está à espera de um bebê há quase 7 meses. Por achar insuficiente o estágio da vacinação para a volta presencial das grávidas ao trabalho, tornou-se adepta do trabalho virtual. “Só quando tiver uma maior cobertura vacinal, uma grande redução dos casos que dá para pensar em retornar. A gente não sabe qual efeito pode causar no bebê se a mãe pegar a Covid-19, podendo levar ao óbito dos dois”, diz.</p><p>Segundo o obstetra Sérgio Medrado, os impactos da doença nas gestantes ainda não são consenso no meio científico, mas se sabe que o quadro inflamatório nessa fase facilita a gravidade dela. “O perfil da imunidade é modificado para que se adaptem à chegada do bebê e, consequentemente, ficam com maior risco para a Covid-19. As alterações na coagulação sanguínea são capazes de provocar trombose, derrame e infartos depois do vírus”, ressalta.</p><p>Embora tenha havido um controle parcial dos casos e óbitos com o avanço da vacinação, o médico alerta para a falta de tratamento específico para o coronavírus, visto que as grávidas só podem tomar determinados remédios em menor quantidade, como os anti inflamatórios e o corticoide.</p><p>Fora a preocupação com a pandemia, outro fator que engloba um possível retorno físico ao trabalho é o estado emocional durante a gravidez. Sérgio declara que é natural ter um desarranjo emocional nesse período, principalmente no momento vigente de crise sanitária, o que mostra a importância do amparo familiar. “O desequilíbrio é provocado, em parte, por alterações hormonais no organismo, como o aumento expressivo da placenta. Muitas grávidas se sentem incapazes de fazer um parto normal e ficam frustradas que a amamentação demora”.</p><p><strong>Sérgio</strong> <strong>Medrado, obstetra, alerta sobre os riscos do desequilíbrio emocional na gravidez.</strong></p><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Sérgio Medrado, obstetra, alerta sobre os riscos do desequilíbrio emocional na gravidez by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1162580935&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500'></iframe></div></figure><p>Foi justamente o estresse provocado pela rotina do trabalho híbrido que fez a arquiteta e empresária Nathália Ribeiro, grávida de 9 meses, priorizar a saúde mental. “Estava estressada por conta da baixa de clientes. A situação financeira melhorou ao longo da gravidez, mas acontecem alguns conflitos normais no trabalho e, geralmente, tento relaxar e respirar melhor para não me dar falta de ar por causa da ansiedade misturada com o final da gravidez”, conta. Quem também se abalou emocionalmente foi Verônica, que buscou a terapia no início da gestação.</p><p>Como o Projeto de Lei 2.058/21 ainda não passou pelo Senado, Valéria comenta que as normas de saúde, higiene e segurança do Artigo 7° da Constituição Federal asseguram os direitos das gestantes trabalharem virtualmente por serem do grupo de risco, tendo em vista que a Lei 14.151/21 se mantém. Nesse sentido, Sérgio reforça a cautela para o retorno físico. “A orientação para as gestantes é não voltar ao trabalho presencial, independentemente do tempo de gestação, já que ainda estamos aprendendo a lidar com a Covid-19”, afirma.</p><p><em>Lucas Ribeiro &#8211; 6° período</em></p></main>"
+  },
+  "date": "2021-11-18T18:27:16",
+  "date_gmt": "2021-11-18T21:27:16",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Câmara dos Deputados aprovou, no dia 6 de outubro, o Projeto de Lei 2.058/21, que prevê o retorno ao trabalho presencial das grávidas totalmente imunizadas. Caso tenha o aval do Senado, a proposta modificaria a Lei 14.151/21 que garantiu o home office sem a redução salarial para o grupo prioritário. Até a última atualização do Ministério da Saúde, aproximadamente 600 mil gestantes tomaram as duas doses da vacina. Entretanto, o índice de mortalidade por Covid-19 deste grupo triplicou em relação ao ano passado, de acordo com o Observatório Obstétrico Brasileiro.</p>\n"
+  },
+  "featured_media": 10768,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10753"
+  },
+  "id": 10753,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/capa-gravidas-trabalho.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Nr",
+  "link": "https://agenciauvabarra.com/2021/11/18/viabilidade-do-retorno-das-gravidas-ao-trabalho-presencial-na-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-18T18:49:09",
+  "modified_gmt": "2021-11-18T21:49:09",
+  "ping_status": "open",
+  "slug": "viabilidade-do-retorno-das-gravidas-ao-trabalho-presencial-na-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Viabilidade do retorno das grávidas ao trabalho presencial na pandemia"
+  },
+  "type": "post"
+}

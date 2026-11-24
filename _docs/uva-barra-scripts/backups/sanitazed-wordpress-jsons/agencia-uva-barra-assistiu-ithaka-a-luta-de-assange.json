@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15638/revisions/15646",
+        "id": 15646
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15638"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15638",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15638/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15638"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15641"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15638",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15638",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15638",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Com direção e roteiro assinados por Ben Lawrence, “Ithaka: A Luta de Assange” acompanha a luta de John Shipton para tentar salvar o filho, Julian Assange, o ativista australiano que, quatro anos após fundar o Wikileaks (em 2006), divulgou diversos documentos secretos, entre eles alguns do Exército Americano sobre a Guerra do Afeganistão. O ativista foi preso em 2019, após pedir asilo político no Equador (país onde estava na época), e no momento se encontra na prisão de segurança máxima de Belmarsh, na Inglaterra, enquanto os EUA continuam em busca da extradição.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/ithaka-e28093-a-luta-de-assange_03-1.jpg?resize=1024%2C576&amp;ssl=1\" alt=\"\" width=\"1024\" height=\"576\" /><figcaption>Foto: Divulgação</figcaption></figure><p>O documentário vai muito além do que apenas mostrar a batalha de um pai por seu filho, ele coloca em cheque e faz os espectadores refletirem sobre o papel do jornalista na sociedade atual e o impacto que a condenação de Julian nos Estados Unidos tem na liberdade de imprensa. Outras temáticas exploradas no filme são a impunidade de criminosos de guerra enquanto quem revela os crimes é perseguido, as condições desumanas que Julian enfrenta na prisão e, apesar de várias pessoas terem participado da divulgação das informações sigilosas, ele foi o único a ser atacado.</p><p>Ademais, apesar de John ser colocado como o “protagonista”, ele não é o único familiar que luta e torce pela liberdade do ativista. Entre os parentes que aparecem no longa, há um destaque para Stella Assange (durante as gravações ela estava noiva de Julian, mas eles se casaram na prisão em março de 2022) que é tão ativa nessa batalha quanto John. E, além de humanizar Julian e sua família, o documentário retrata o australiano não só como apenas uma pessoa. Ele é colocado na posição de representante do jornalismo, o que fica explícito em diversas falas ditas no documentário, entre elas: “Se Julian cair, o jornalismo também cai” e “Nós nunca vamos aceitar que jornalismo é crime”.</p><p>Em relação a parte técnica, o enredo faz uso de muitos arquivos (como fotos, trechos de matérias jornalísticas e câmeras de segurança) para comprovar a veracidade das informações ditas e apesar de ter grande quantidade de conteúdo, todos foram bem apresentados e seguiram uma ordem cronológica, facilitando a compreensão dos espectadores. Sobre o enquadramento, há várias cenas acompanhando um personagem (normalmente o pai) indo para algum lugar que foram gravadas em plano geral com a câmera em movimento. Isso passa a ideia de movimento e do quanto a pessoa percorreu para tentar libertar Julian. Um ponto a se destacar é que a legenda se move algumas vezes e isso atrapalha um pouco a compreensão.</p><p>“Ithaka: A Luta de Assange” é um documentário que perpassa a tela e faz os espectadores refletirem sobre diversas temáticas de importante cunho social. Com distribuição da Pandora Filmes, a estreia nos cinemas brasileiros está marcada para o dia 31 de agosto. Assista ao trailler!</p><figure><iframe src=\"https://www.youtube.com/embed/biCQUwpDxA8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Juliana Vilete – 5° período</p></main>"
+  },
+  "date": "2023-08-31T17:42:29",
+  "date_gmt": "2023-08-31T20:42:29",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Com direção e roteiro assinados por Ben Lawrence, “Ithaka: A Luta de Assange” acompanha a luta de John Shipton para tentar salvar o filho, Julian Assange, o ativista australiano que, quatro anos após fundar o Wikileaks (em 2006), divulgou diversos documentos secretos, entre eles alguns do Exército Americano sobre a Guerra do Afeganistão. O ativista foi preso em 2019, após pedir asilo político no Equador (país onde estava na época), e no momento se encontra na prisão de segurança máxima de Belmarsh, na Inglaterra, enquanto os EUA continuam em busca da extradição.</p>\n"
+  },
+  "featured_media": 15641,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15638"
+  },
+  "id": 15638,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/ithaka-e28093-a-luta-de-assange_02.jpg?fit=1024%2C460&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-44e",
+  "link": "https://agenciauvabarra.com/2023/08/31/agencia-uva-barra-assistiu-ithaka-a-luta-de-assange/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-31T17:42:29",
+  "modified_gmt": "2023-08-31T20:42:29",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-ithaka-a-luta-de-assange",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu; Ithaka: A Luta de Assange"
+  },
+  "type": "post"
+}

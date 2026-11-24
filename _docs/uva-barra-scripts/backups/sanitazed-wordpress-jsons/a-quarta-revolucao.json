@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1691/revisions/3237",
+        "id": 3237
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1691"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1691",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1691/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1691"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1691",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1691",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1691",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Universidade Veiga de Almeida promove competição de robôs entre graduandos</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/12/whatsapp-image-2017-12-08-at-01-51-10.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2017-12-08 at 01.51.10' width='1280' height='960' /><figcaption>Foto: João Victor Barros</figcaption></figure><p>A tecnologia está cada vez mais presente no cotidiano da sociedade. A robótica é um exemplo vivo desse desenvolvimento, uma área que engloba tecnologia mecânica, eletrônica e computação. Ciente disso e em dia com o que há de mais moderno, a Universidade Veiga de Almeida (UVA) promoveu no campus Barra, na última quinta-feira (07/12), uma competição de robôs, com o intuito de estimular a participação dos alunos envolvidos no Projeto Robótica, coordenado pelo Coordenador Antônio Carlindo. O evento foi prestigiado por alunos, professores e crianças, que aplaudiram de pé a batalha dos robôs criados pelos próprios estudantes.</p><p>Os chamados robôs de linha consistem em projetos criados por alunos, cuja função é, a partir da leitura de sensores, detectar uma trila e segui-la.&nbsp; É um torneio de habilidades, em que a máquina é guiada até a arena principal, na qual são realizadas as lutas de sumô, que tem como objetivo empurrar o adversário no mínimo duas vezes para fora do Dohiõ, um ringue em forma de círculo, no qual os desafiantes se enfrentam. As equipes foram compostas por Gabryel Gouveia e Daiane de Souza; Thiago da Cunha e Ian Costa; Marcos Vinicius Rezende e Igor Ribeiro; Bruno Cobucci e Igor Freitas. Cada equipe escolheu um nome para seu robô: Bruxa, Darth Vader, Humanoide e Ciborgue.</p><figure class=\"alignright\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/12/whatsapp-image-2017-12-08-at-01-50-40.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2017-12-08 at 01.50.40' width='1280' height='960' /><figcaption>Foto: Lucas Menezes</figcaption></figure><p>Entre os quatro participantes, o prêmio da roda de ouro ficou com o aluno Gabryel Gouveia, do 2º período de Engenharia de Produção, com o robô denominado “Bruxa”, ao ganhar todas as partidas da competição. Cada máquina tinha um diferencial, e, para o vencedor, as pequenas alterações fizeram toda a diferença. “Distribuí o peso das pilhas para o robô não tombar. Além da rampa na parte posterior, coloquei duas estacas de papelão na parte de cima para empurrar o adversário com mais força”, explica. O estudante destaca ainda a ideia de colocar um elástico nas rodas, para dar mais aderência na hora de fazer as curvas e batalhar.</p><p>As provas foram lideradas pelo Professor e Coordenador do projeto, Antônio Carlindo, que diz como foi a organização do espetáculo. “Foi uma proposta em que muitas pessoas se envolveram, entre professores, alunos, coordenadores, até chegar ao resultado final, que foi esse evento maravilhoso”. Entender essa tecnologia e saber como ela funciona, segundo Carlindo, é muito importante. “Hoje, a robótica está vindo com toda a força e estamos vivendo a quarta revolução. Saber o que ela é e como funciona é fundamental”.</p><p>O evento chamou a atenção dos alunos de todos os cursos da Universidade. Comunicação e Design foram alguns dos que estavam presentes, e uma das alunas foi Tayane Fernandes, do 6º período de Jornalismo. “O que eu achei mais impressionante é que mostrou como qualquer um pode fazer um robô com um pouco de auxílio”. Um evento assim comprova um grande crescimento acadêmico e evidencia que a criação de robôs não é uma realidade tão distante. Caixas de papelão e algumas pilhas já são suficientes para poder inovar e surpreender.</p><p>E estimular a criatividade e a inovação pode ser fundamental para o estudante que está prestes a ingressar na vida profissional e no mercado de trabalho. ‘‘O evento foi uma consagração na qual houve um envolvimento não só da faculdade, mas também dos alunos do colégio Veiga de Almeida, que prestigiaram com grande entusiasmo’’, conclui a professora Carla Costa. A animação esteve presente durante todo o evento e os alunos mal podem esperar pela próxima edição.</p><p>A expectativa para o próximo ano é muito grande. O coordenador Antônio Carlindo pretende levar o projeto adiante e acrescentar melhorias nas próximas edições. ‘‘Para outra competição, é necessário que a gente foque no processo, e esse vai precisar de pessoas, recursos, ambiente e programações bem definidas até chegarmos aqui’’, avalia. Com o objetivo de criar uma cultura de experimentação, iniciativas como essa tornam possível a integração entre o mundo acadêmico e a ciência.</p><p><strong>Alunos:&nbsp;João Victor Barros, Juliana Marques, Leonardo Assis, Lucas Menezes e Rhuan Ramos</strong></p></main>"
+  },
+  "date": "2017-12-09T13:33:17",
+  "date_gmt": "2017-12-09T15:33:17",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Universidade Veiga de Almeida promove competição de robôs entre graduandos</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1691"
+  },
+  "id": 1691,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-rh",
+  "link": "https://agenciauvabarra.com/2017/12/09/a-quarta-revolucao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T18:04:30",
+  "modified_gmt": "2019-02-27T21:04:30",
+  "ping_status": "open",
+  "slug": "a-quarta-revolucao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A quarta revolução"
+  },
+  "type": "post"
+}

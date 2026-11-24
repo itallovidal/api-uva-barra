@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7117/revisions/7124",
+        "id": 7124
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7117"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7117",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7117/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7117"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7120"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7117",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7117",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1704,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-7117",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-gastronomia",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-alimentacao-saudavel",
+    "tag-gastronomia-social"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O papel da gastronomia social no combate a fome</em></p><p>O movimento pela gastronomia social vem crescendo a cada dia no Brasil. Utilizando técnicas de aproveitamento integral dos alimentos, esse novo conceito engloba o desafio de combater a fome e a pobreza, a falta de oportunidade para as pessoas com vulnerabilidade social e a desigualdade. Tendo como objetivo diminuir o desperdício de alimentos no planeta e promover a utilização total dos nutrientes.</p><p>Após se formar em gastronomia, a Chef de cozinha Maristella Sodre conta que se especializou em gastronomia social ao conhecer a ONG Gastromotiva e diz que se apaixonou pela forma que o alimento era tratado e como eles utilizavam a alimentação como algo transformador na vida de um ser humano. “Hoje, eu respiro gastronomia social. E passo para as pessoas, de todas as idades, a importância do não desperdício de alimentos. É uma causa que irei defender para sempre em minha vida, como professora, como empresária, como cidadã”.</p><p>A nutricionista e professora da UVA, Cinara Oliveira destaca que a nutrição aliada a gastronomia social promove a interação e o trabalho em equipe, uni nutricionistas, docentes e chefs de cozinha para um maior benefício da sociedade. “A cozinha é um lugar que proporciona troca de saberes, conhecimentos e novas oportunidades de trabalho”, comenta.</p><p>Ouça o áudio com o depoimento da professora Cinara e a relação dela com a gastronomia social:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F843513277&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Nutricista Cinara Oliveira\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p><strong>Desperdício de alimentos</strong></p><p>De acordo com a FAO (agência das Nações Unidas preocupada em erradicar a fome), 1/3 dos alimentos produzidos no mundo são desperdiçados, o que daria para alimentar toda a população faminta do planeta. A gastronomia social surge como uma forma de conscientização da importância do não desperdício de alimentos.</p><p>A Chef de cozinha ressalta que as pessoas precisam ter empatia com o próximo e que é fundamental parar para pensar no futuro. “Será que em 2030 com mais de 10 bilhões de pessoas no planeta, teremos comida saudável e sustentável para alimentar toda essa população? Será que em apenas menos de 10 anos conseguiremos mudar nossos hábitos e conservar o nosso mundo para as gerações futuras?”, questiona Maristella.</p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-06-23T18:07:38",
+  "date_gmt": "2020-06-23T21:07:38",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O papel da gastronomia social no combate a fome O movimento pela gastronomia social vem crescendo a cada dia no Brasil. Utilizando técnicas de aproveitamento integral dos alimentos, esse novo conceito engloba o desafio de combater a fome e a pobreza, a falta de oportunidade para as pessoas com vulnerabilidade social e a desigualdade. Tendo [&hellip;]</p>\n"
+  },
+  "featured_media": 7120,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7117"
+  },
+  "id": 7117,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/0.jpeg?fit=598%2C415&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1QN",
+  "link": "https://agenciauvabarra.com/2020/06/23/cozinha-que-transforma/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-06-25T17:40:08",
+  "modified_gmt": "2020-06-25T20:40:08",
+  "ping_status": "open",
+  "slug": "cozinha-que-transforma",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    246866,
+    140374624
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Cozinha que transforma"
+  },
+  "type": "post"
+}

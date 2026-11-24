@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8343/revisions/8370",
+        "id": 8370
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8343"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8343",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8343/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8343"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8366"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8343",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8343",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330,
+    670411728,
+    798
+  ],
+  "class_list": [
+    "post-8343",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "category-institucional-uva",
+    "category-politica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O curso de Direito da UVA realizou o evento que uniu os campi e teve a presença de nomes do Direito nacional</em></p><p>A 1ª Semana Jurídica Intercampi reuniu temáticas diversas durante o evento. Do dia 30 de novembro ao dia 3 de dezembro, alunos e professores assistiram palestras sobre direito dos animais, das mulheres, de pessoas com deficiência e LGBTQIA+. Mestres e Juristas do Brasil palestraram ao longo dos quatro dias de debates com reflexões sobre a atual conjuntura nacional sob a perspectiva dessa ciência social aplicada que é o Direito.</p><p>A Semana Jurídica acontecia presencialmente nos campi, mas sofreu reajustes por conta das medidas de distanciamento social devido a pandemia de Covid-19. Segundo o coordenador do curso no campus Barra, Soniárlei Leite, a virtualização do evento possibilitou um encontro dos alunos com alunos de outros campi e com especialistas de fora da universidade. Assim, o diálogo entre mercado de trabalho e sala de aula pode se estender além dos limites geográficos.</p><p><strong>Ouça o áudio de Soniárlei Leite sobre a importância de promover debates entre profissionais e universitários</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F941491174&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Soniárlei Leite fala sobre a importância de promover debates entre profissionais e universitários\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>As atividades do dia 30 de novembro tiveram como fio condutor os direitos dos animais com palestras de Samylla Mól e Tagore Trajano de Almeida Silva, com os temas “Políticas Públicas para Animais Domésticos” e “Tutela Ecológica dos Direitos dos Animais”, respectivamente. Os desafios dos Direitos dos animais, a luta contra exploração e os avanços legais até o momento foram alguns dos temas abordados pelos pesquisadores.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-161202.png?resize=854%2C478&amp;ssl=1\" alt=\"\" width=\"854\" height=\"478\"><figcaption>“Como é que a gente faz uma lei só para cão e gato? Foi um avanço? Foi, mas a gente tem que ter esse espaço franco para dizer ‘a gente não vai parar em cão e gato não’‘’, afirma Dr. Tagore Trajano. Foto: Reprodução de Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-161533.png?resize=858%2C478&amp;ssl=1\" alt=\"\" width=\"858\" height=\"478\"><figcaption>“Enquanto a gente utilizar o animal, comer o animal, vestir o animal, a gente vai enfrentar esse desafio. A mudança não tem que ser só na forma de lidar com o bicho, a mudança tem que vir da sociedade”, diz Dra. Samylla Mól. Foto: Reprodução de Internet</figcaption></figure><p>Os oradores do segundo dia encarregaram-se por trazer uma temática voltada para as mulheres. Isabele Bandeira De Moraes DÁngelo abordou os efeitos da dupla jornada de trabalho para as mulheres na palestra “Covid-19 e a jornada da teletrabalhadora”.</p><p>Logo após, Giorge André Lando discutiu a influência do machismo nas leis com a palestra “Normalização da violência contra as mulheres na lei civil”. Alunos e docentes refletiram sobre as diversas leis do código civil de 1916 que atentavam contra a honra das mulheres.</p><p>Por fim, Laura Cecília Braz debateu acerca da representatividade negra no direito, trouxe a temática da solidão da mulher negra para o discurso e fez diversas proposições, estimulando a reflexão dos ouvintes na palestra “Sinuosidades do meu lugar de fala”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-161909.png?resize=854%2C476&amp;ssl=1\" alt=\"\" width=\"854\" height=\"476\"><figcaption>Isabele conta que a Covid-19 trouxe impactos variados nas vidas das mulheres e apresentou dados alarmantes sobre afazeres domésticos. “Os avanços em prol do direito das mulheres continuarão? sofrerão pausas?” Foto: Reprodução de Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-162013.png?resize=854%2C478&amp;ssl=1\" alt=\"\" width=\"854\" height=\"478\"><figcaption>Giorge afirma que a problemática da violência não deveria ser tratada de forma isolada. “Me parece evidente um avanço nas leis brasileiras em relação à proteção da mulher, mas mesmo com esses avanços não se percebe eficiência. Não se leva em consideração os fatores que deram início a violência, e acredita-se que dentro destes fatores está a cultura patriarcal, positivada pelo ordenamento jurídico.” Foto: Reprodução de Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-162145.png?resize=851%2C475&amp;ssl=1\" alt=\"\" width=\"851\" height=\"475\"><figcaption>Laura se posicionou favorável às políticas públicas de reparação histórica. “Se você é contra cotas, principalmente nos concursos públicos, eu sinto muito, mas você é racista.” Foto: Reprodução de Internet</figcaption></figure><p>A abertura do terceiro dia ficou por conta de Rodolfo Kronemberg Hartman com a palestra “Casos concretos criminais e liberdades constitucionais”. Ele é Juiz Federal e trouxe casos que fizeram parte da rotina dele a fim de aproximar o aluno da magistratura.</p><p>Em seguida, os direitos das pessoas com deficiência foram abordados pelos pesquisadores Allan Damasceno e Caio Souza com a palestra “Decreto nº 10.502/2020: política nacional de educação especial para quem?”. A discussão foi acerca do decreto que dificultaria a inclusão de PCDs em escolas. Para os palestrantes, a medida seria um sinal de retrocesso.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-162700.png?resize=417%2C415&amp;ssl=1\" alt=\"\" width=\"417\" height=\"415\"><figcaption>É necessário que se entenda que essa educação para todos, ela tem que ser para todos mesmo”, diz Caio Souza sobre a inclusão no ambiente escolar. Foto: Reprodução de Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-162828.png?resize=403%2C225&amp;ssl=1\" alt=\"\" width=\"403\" height=\"225\"><figcaption>“Nós estamos conquistando, avançando em aspectos que permitem pensar numa escola que acolha a nossa humanidade nas suas múltiplas possibilidades”, afirma Allan Damasceno a respeito do Decreto nº 10.502/2020. Foto: Reprodução de Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-162545.png?resize=674%2C372&amp;ssl=1\" alt=\"\" width=\"674\" height=\"372\"><figcaption>Segundo Rodolfo Kronemberg, receber ameaças é uma infeliz característica do seu trabalho. “Não é uma energia fácil ter que lidar com essas mazelas”. Foto: Reprodução de Internet</figcaption></figure><p>Para o encerramento da 1ª Semana Jurídica Intercampi, Marco Antonio Turatti Júnior palestrou acerca do “Reconhecimento jurídico social da identidade LGBTI+”. Foram apresentados dados da Transgeder Europe, uma ONG austríaca, que afirma que o Brasil é o país que mais assassina LGBTs em todo o mundo.</p><p>Em seguida, e por último, se deu uma discussão sobre Direito Constitucional com Jairo Lima em “Emendas Constitucionais em tempos de pandemia”. A palestra tratou de explicar o conceito de emenda, em quais situações elas são aprovadas e por que são tão numerosas, no caso da constituição brasileira.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-164306.png?resize=852%2C477&amp;ssl=1\" alt=\"\" width=\"852\" height=\"477\"><figcaption>O Marco Antonio terminou a palestra em tom esperançoso acerca do futuro. “Podemos pensar no futuro de maneira melhor através das produções acadêmicas, dos movimentos sociais e do reconhecimento de novas identidades”. Foto: Reprodução de Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-164408.png?resize=851%2C479&amp;ssl=1\" alt=\"\" width=\"851\" height=\"479\"><figcaption>Jairo revela o porquê do alto número de emendas. “Temos um alto número de emendas, pois, temos uma constituição extensa, então precisa de revisões.” e conta que somente neste ano houve 3 emendas em meio a pandemia. Foto: Reprodução de Internet</figcaption></figure><p>A pandemia modificou a forma de interação entre alunos e professores. 1ª Semana Jurídica Intercampi é o resultado de um esforço do corpo discente para promover debates relevantes respeitando as normas de distanciamento. Para o coordenador do curso de Direito do campus Barra, Soniárlei Leite, o saldo é positivo. “Foi um sucesso”, afirmou.</p><p><strong>Ouça o áudio de Soniárlei Leite sobre a 1ª Semana Jurídica Intercampi</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F941510872&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Soniárlei Leite fala sobre a 1ª Semana Jurídica Intercampi\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>O coordenador explica que o sucesso foi tamanho que já existe a possibilidade de um próximo evento virtualizado em paralelo ao presencial. Segundo ele, a possibilidade de trabalhar com palestrantes do país inteiro e a interação entre os campi foi o grande diferencial. “Isso foi muito positivo, coisa que no presencial é difícil”, diz o professor que já se prepara para o futuro.</p><p><em>Gabrielle Lopes - 6º período</em><br><em>Rafaela Barbosa - 8ª período</em></p></main>"
+  },
+  "date": "2020-12-04T16:50:19",
+  "date_gmt": "2020-12-04T19:50:19",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O curso de Direito da UVA realizou o evento que uniu os campi e teve a presença de nomes do Direito nacional A 1ª Semana Jurídica Intercampi reuniu temáticas diversas durante o evento. Do dia 30 de novembro ao dia 3 de dezembro, alunos e professores assistiram palestras sobre direito dos animais, das mulheres, de [&hellip;]</p>\n"
+  },
+  "featured_media": 8366,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8343"
+  },
+  "id": 8343,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-04-164408.png?fit=851%2C479&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2az",
+  "link": "https://agenciauvabarra.com/2020/12/04/semana-juridica-acontece-em-ambiente-virtual-pela-primeira-vez/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-12-04T16:50:19",
+  "modified_gmt": "2020-12-04T19:50:19",
+  "ping_status": "open",
+  "slug": "semana-juridica-acontece-em-ambiente-virtual-pela-primeira-vez",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Semana Jurídica acontece em ambiente virtual pela primeira vez"
+  },
+  "type": "post"
+}

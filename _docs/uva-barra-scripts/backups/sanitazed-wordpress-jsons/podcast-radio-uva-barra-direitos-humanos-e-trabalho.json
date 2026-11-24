@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11818/revisions/11822",
+        "id": 11822
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11818"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11818",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11818/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11818"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11819"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11818",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11818",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    187874,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-11818",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direitos-humanos",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://open.spotify.com/embed/episode/3fKdcEEvhu99z0zHSaatIP?si=cwQNX7RlQpC6eizzVluOcA&#038;utm_source=oembed' alt='Spotify Embed: Direitos Humanos e Trabalho ' width='100%' height='152' title='Spotify Embed: Direitos Humanos e Trabalho ' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen><figcaption>Spotify Embed: Direitos Humanos e Trabalho </figcaption></figure><p>“Todos os seres Humanos têm direito ao trabalho, à livre escolha de qualquer emprego, a condições justas e favoráveis de trabalho, proteção contra o desemprego e sem qualquer distinção, ter direito a igual remuneração, por igual trabalho”.</p><p>Este é o artigo 23 dos 30 presentes na Declaração Universal dos Direitos Humanos. Criada pela ONU em uma Assembleia Geral no ano de 1948. O objetivo é proteger e resguardar qualquer vida humana.</p><p>No último episódio da série de Direitos Humanos da Rádio UVA Barra, contamos com a presença de Ricardo Motta, professor de direito Universidade Veiga de Almeida, e Roseane Ramos, secretária de igualdade racial do sindicato dos trabalhadores em educação de Goiás e membra do Movimento Negro Unificado.</p><p><em>Maria Clara Lisboa – 7° período<br>Vinícius Alves – 7° período</em></p></main>"
+  },
+  "date": "2022-05-19T17:18:36",
+  "date_gmt": "2022-05-19T20:18:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Todos os seres Humanos têm direito ao trabalho, à livre escolha de qualquer emprego, a condições justas e favoráveis de trabalho, proteção contra o desemprego e sem qualquer distinção, ter direito a igual remuneração, por igual trabalho”.</p>\n"
+  },
+  "featured_media": 11819,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11818"
+  },
+  "id": 11818,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-19-at-14.32.27.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-34C",
+  "link": "https://agenciauvabarra.com/2022/05/19/podcast-radio-uva-barra-direitos-humanos-e-trabalho/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-05-19T17:19:15",
+  "modified_gmt": "2022-05-19T20:19:15",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-direitos-humanos-e-trabalho",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Direitos Humanos e Trabalho"
+  },
+  "type": "post"
+}

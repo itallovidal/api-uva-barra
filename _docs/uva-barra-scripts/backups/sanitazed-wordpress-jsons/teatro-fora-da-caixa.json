@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1917/revisions/3186",
+        "id": 3186
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1917"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1917",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1917/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1917"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1917",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1917",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1917",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Grupo VAZIO apresenta peça sobre o preconceito aos refugiados na UVA Barra</em></h4><p>O teatro é a arte de se expressar e também uma maneira de fazer denúncias. Por isso, a Universidade Veiga de Almeida (UVA), do campus Barra, junto com o aluno de pós-graduação Rafael Rodrigues ofereceram uma apresentação teatral, nesta última quinta-feira (26/04). A peça<em> À Deriva: O Processo </em>pertence ao grupo VAZIO e aborda sobre os problemas e situações que os refugiados enfrentam ao chegarem a países diferentes.</p><p>O objetivo desse grupo é fazer um teatro diferente, fora do palco, mas com plateia. Rafael que também é diretor do grupo explica as abordagens que o grupo utiliza na hora de dramatizar. Eles trabalham com menos texto e a partir de temáticas atuais. “A gente trabalha apresentações não convencionais, criando possibilidades criativas”, enfatiza. A ideia de trazer esse evento para a universidade surgiu da coordenação em parceria com ele e reúne alunos de vários cursos no pátio central.</p><p>Além de o evento ser na praça de alimentação da faculdade, chama a atenção do público por ser diferente. As interações entre os atores permitem que eles se utilizem de todo o espaço do pátio e ainda conta com a participação de quem assiste. “O meio que eles usaram para passar essa mensagem foi muito inteligente”, conta a aluna de publicidade Thamyris Sampaio.</p><p>A mensagem da peça, entretanto, vai além dos gestos dos artistas. O tema refugiados surgiu durante o processo inicial do grupo. Eles perceberam que nenhum deles era do Rio e não se encaixavam em alguma situação. Cada um precisou enfrentar os problemas longe de casa. Para a atriz Goretti Smarandescu é importante levar reflexão aos alunos para que possam pensar ‘fora da caixa’ “Pegamos o que tínhamos em comum e trabalhamos a questão dos refugiados”, conclui.</p><p>Ana Beatriz Bernardo, 5° período.</p></main>"
+  },
+  "date": "2018-04-27T19:09:04",
+  "date_gmt": "2018-04-27T22:09:04",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Grupo VAZIO apresenta peça sobre o preconceito aos refugiados na UVA Barra O teatro é a arte de se expressar e também uma maneira de fazer denúncias. Por isso, a Universidade Veiga de Almeida (UVA), do campus Barra, junto com o aluno de pós-graduação Rafael Rodrigues ofereceram uma apresentação teatral, nesta última quinta-feira (26/04). A [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1917"
+  },
+  "id": 1917,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-uV",
+  "link": "https://agenciauvabarra.com/2018/04/27/teatro-fora-da-caixa/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:03:35",
+  "modified_gmt": "2019-02-26T00:03:35",
+  "ping_status": "open",
+  "slug": "teatro-fora-da-caixa",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Teatro fora da caixa"
+  },
+  "type": "post"
+}

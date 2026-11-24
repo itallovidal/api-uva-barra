@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2605/revisions/3023",
+        "id": 3023
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2605"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2605",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2605/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2605"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2606"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2605",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2605",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    758
+  ],
+  "class_list": [
+    "post-2605",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-hacktudo",
+    "tag-mostra-maker",
+    "tag-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Hacktudo produz a feira “Mostra Maker” como oportunidade de divulgação de projetos tecnológicos</h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/foto-nayara-simc3b5es.jpeg?resize=1280%2C738&amp;ssl=1\" alt=\"Foto - (Nayara Simões)\" width=\"1280\" height=\"738\" /><figcaption>Mostra Maker conta com, aproximadamente, vinte estandes de projetos inovadores por dia – Foto: Nayara Simões</figcaption></figure><p>Visibilidade e patrocínio. Esses são os objetivos de muitos especialistas de engenharia, robótica, informática, entre outras áreas responsáveis pelo desenvolvimento de materiais tecnológicos. Com a “Mostra Maker” este cenário mudou. O espaço tem o intuito de expor criações que agregam à cultura digital, mas que não possuem oportunidades de divulgação. Os estandes fazem parte do Festival Hacktudo, que, no último fim de semana (2, 3 e 4 de novembro), esteve na Cidade das Artes.</p><p>Entre os itens expostos estavam o Tubo de Vento, a Bobina de Tesla Musical, o Robô Reciclado e alguns jogos desenvolvidos por estudantes. Além disso, diferentes equipes mostraram trabalhos interativos e inovadores, como a responsável pela “Arte Inclusiva Arduino”, que busca trazer uma oportunidade para que deficientes visuais possam ser incluídos na arte. Segundo Andrea Vargas, idealizadora do projeto, eventos como esse trazem a valorização da tecnologia. “As pessoas adoraram e foram muito receptivas. A experiência no Hacktudo foi positiva, foi uma oportunidade única”, afirma.</p><p>Outro ponto destacado por ela é a presença de quatro mulheres representando a área da robótica. “Fazemos a questão de incentivar as mulheres a entrarem nesse meio e se envolverem para sermos representadas”. Para o Coordenador de Comunicação do evento e um dos organizadores, Gabriel Wasserman, o Hacktudo abre espaço e incentiva os makers – criadores. “A Mostra Maker traz uma chance para trabalhos com pouca visibilidade. São, aproximadamente, vinte expositores por dia. É quase uma feira de ciências e nós queremos viabilizar o acesso”.</p><p>A equipe responsável pelo GreenBoat, do Ramo Estudantil IEEE CEFET/RJ, pôde explicar detalhes sobre o projeto a todos os visitantes. O responsável pela parte mecânica do barco, João Vitor Drummond, conta que, eles foram motivados pelo interesse de expor a ideia e que o projeto tem viabilidade de ser aplicado e trazer benefícios para o futuro. “Valoriza nosso esforço e mostra a energia renovável como uma possibilidade viável”.</p><p>Conhecer trabalhos como esse, de perto, é essencial para que haja um maior entendimento sobre a cultura digital. O Analista de Sistemas, que ensina programação e robótica para crianças, Robinson Pereira, de 47 anos, acredita que no geral, o evento foi muito criativo e com uma interação eficiente. “O pessoal dos estandes têm explicado tudo de maneira esclarecedora e eu gostaria de ter trazido meus alunos, pois está sendo uma experiência muito útil”, afirma o professor.</p><p>Nayara Simões – 5º período</p></main>"
+  },
+  "date": "2018-11-04T20:22:18",
+  "date_gmt": "2018-11-04T22:22:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Hacktudo produz a feira “Mostra Maker” como oportunidade de divulgação de projetos tecnológicos Visibilidade e patrocínio. Esses são os objetivos de muitos especialistas de engenharia, robótica, informática, entre outras áreas responsáveis pelo desenvolvimento de materiais tecnológicos. Com a “Mostra Maker” este cenário mudou. O espaço tem o intuito de expor criações que agregam à cultura [&hellip;]</p>\n"
+  },
+  "featured_media": 2606,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2605"
+  },
+  "id": 2605,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/foto-nayara-simc3b5es.jpeg?fit=1280%2C738&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-G1",
+  "link": "https://agenciauvabarra.com/2018/11/04/tecnologia-criatividade-e-inovacao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:20:24",
+  "modified_gmt": "2019-01-31T13:20:24",
+  "ping_status": "open",
+  "slug": "tecnologia-criatividade-e-inovacao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    652412568,
+    653472266,
+    767056593
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Tecnologia, criatividade e inovação"
+  },
+  "type": "post"
+}

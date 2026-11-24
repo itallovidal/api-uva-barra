@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9280/revisions/9295",
+        "id": 9295
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9280"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9280",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9280/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9280"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9293"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9280",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9280",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    62091,
+    2367,
+    4753134,
+    268277
+  ],
+  "class_list": [
+    "post-9280",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-ballet",
+    "category-cultura",
+    "category-quarentena",
+    "category-solidariedade",
+    "tag-danca",
+    "tag-doacoes"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>No Passo do Outro recebeu doações em escolas e pontos de dança espalhados pela cidade do Rio</p><p>O mundo artístico tem sido fortemente afetado pela pandemia do coronavírus. As medidas de restrição, necessárias para barrar o vírus, impossibilitaram os shows, as apresentações de teatro, os cinemas e os demais espaços em que os profissionais trabalhavam, gerando um impacto financeiro. Com o intuito de ajudar dançarinos, coreógrafos, auxiliares e funcionários que estão em situação de vulnerabilidade, o coreógrafo Carlinhos de Jesus tomou a frente da ação solidária No Passo do Outro.</p><p>O dançarino e coreógrafo explica que a ideia surgiu em Recife, criada pela dançarina e produtora Andrea Carvalho, que se sensibilizou ao ver a condição de colegas e profissionais da região durante a pandemia. Em seguida, Andrea pediu para Carlinhos de Jesus implementar a ação também no Rio de Janeiro. “Eu comecei a ligar para todos os sindicatos e academias de dança de todos os estados do Brasil e a arrecadação aconteceu em 10 capitais. Foi uma ação maravilhosa”, comenta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-1-doacoes-de-alimento-1.jpeg?resize=1266%2C1280&#038;ssl=1\" alt=\"\" width=\"1266\" height=\"1280\" /><figcaption>A ação solidária conseguiu arrecadar 200 cestas básicas entre os dias 26 de abril e 5 maio (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-2-doacoes-1-1.jpeg?resize=1280%2C958&#038;ssl=1\" alt=\"\" width=\"1280\" height=\"958\" /><figcaption>Carlinhos de Jesus explica que além dos dançarinos e coreógrafos, todas as pessoas que trabalham no universo da dança também receberam as cestas (Foto: Arquivo Pessoal)</figcaption></figure><p>Ouça o áudio abaixo, em que o dançarino e o coreógrafo Carlinhos de Jesus fala sobre a importância da ação e a situação dos profissionais da dança atualmente:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1046270977&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"O dançarino e coreógrafo Carlinhos de Jesus fala sobre a ação No Passo Do Outro\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>No Rio, a ação No Passo Do Outro aconteceu entre os dias 26 de abril e 5 de maio e teve o apoio do Sindicato dos Profissionais de Dança do Estado do Rio de Janeiro (SPDRJ), a Câmara Municipal do Rio de Janeiro, Prefeitura da Cidade do Rio de Janeiro, Secretaria de Governo e Integridade Pública, Secretaria Municipal de Cultura, CET – Rio, Guarda Municipal e Funarte. Toda essa parceria possibilitou que no dia 29 de abril, Dia Internacional da Dança, apresentações ocorressem nas ruas e sinais de trânsito da cidade.</p><p>Cerca de 90 espaços e escolas de dança arrecadaram alimentos, como informa a vice-presidente do SPDRJ, Marluce Medeiros. “Nós recolhemos as doações e fizemos as cestas básicas, que foram enviadas para o Centro Coreográfico da cidade”. A campanha mobilizou 67 voluntários e teve o apoio de diversas instituições que se sensibilizaram pela causa.</p><p>A Petite Danse foi uma das escolas convidadas para a ação e contou com os alunos para se apresentarem no Dia Internacional da Dança. “Ficamos muito felizes em representar a dança em um semáforo no bairro da Tijuca. Além disso, abrimos todas as nossas unidades para receber as doações durante o período da campanha”, relata Thaiany Alves, responsável pelo marketing da instituição. A coreografia apresentada foi elaborada por Carlinhos de Jesus e pela bailarina Ana Botafogo.</figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-3-apresentacao-de-danca-durante-a-acao-1.jpg?resize=4032%2C3024&#038;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Cerca de 67 voluntários participaram da ação No Passo Do Outro, de acordo com o PSDRJ (Foto: Petite Danse)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-4-apresentacao-de-danca-durante-a-pandemia-1.png?resize=4032%2C3024&#038;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Além de Carlinhos de Jesus e Andrea Carvalho, aproximadamente 120 profissionais da dança do Rio de Janeiro abraçaram a ação solidária (Foto: Petite Danse)</figcaption></figure><blockquote><p>“Estamos vivendo um momento muito difícil, de perdas, inseguranças e medo. A arte sempre foi uma aliada nessas situações mais complicadas, mas também é uma das atividades mais comprometidas com as restrições necessárias que estamos enfrentando. Companhias de dança, escolas e profissionais passaram por grandes dificuldades para manter suas rendas e, por isso, criar essa corrente de solidariedade foi tão importante.”</p><cite>Thaiany Alves</cite></blockquote><p>A campanha conseguiu arrecadar 200 cestas básicas, equivalente a 2 toneladas de alimentos não perecíveis. As doações foram distribuídas, neste sábado (08/05), aos profissionais da dança que necessitam dessa ajuda durante a pandemia. Além disso, de acordo com o SPDRJ, cerca de 350 kg de alimentos foram destinados ao Retiro dos Artistas.</p><p>Ana Fernandes – 7º Período</p></main>"
+  },
+  "date": "2021-05-10T17:45:23",
+  "date_gmt": "2021-05-10T20:45:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O mundo artístico tem sido fortemente afetado pela pandemia do coronavírus. As medidas de restrição, necessárias para barrar o vírus, impossibilitaram os shows, as apresentações de teatro, os cinemas e os demais espaços em que os profissionais trabalhavam, gerando um impacto financeiro. Com o intuito de ajudar dançarinos, coreógrafos, auxiliares e funcionários que estão em situação de vulnerabilidade, o coreógrafo Carlinhos de Jesus tomou a frente da ação solidária No Passo do Outro. </p>\n"
+  },
+  "featured_media": 9293,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9280"
+  },
+  "id": 9280,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/foto-de-capa-1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2pG",
+  "link": "https://agenciauvabarra.com/2021/05/10/acao-solidaria-arrecada-alimentos-para-profissionais-de-danca-em-situacao-de-vulnerabilidade-na-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-05-10T17:46:58",
+  "modified_gmt": "2021-05-10T20:46:58",
+  "ping_status": "open",
+  "slug": "acao-solidaria-arrecada-alimentos-para-profissionais-de-danca-em-situacao-de-vulnerabilidade-na-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    15244,
+    97683
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Ação solidária arrecada alimentos para profissionais de dança em situação de vulnerabilidade na pandemia"
+  },
+  "type": "post"
+}

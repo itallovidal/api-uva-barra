@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2087/revisions/3089",
+        "id": 3089
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2087"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2087",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2087/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2087"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2089"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2087",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2087",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2087",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-cinema",
+    "tag-documentario",
+    "tag-helio-jaguaribe"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/foto-tudo-e-irrelevante-helio-jaguaribe-e1533859339284.jpg?resize=700%2C390&amp;ssl=1' alt='foto-tudo-e-irrelevante-helio-jaguaribe' width='700' height='390'><figcaption>Foto: Divulgação</figcaption></figure><p>Tudo é irrelevante conta a trajetória de Hélio Jaguaribe. Dirigido pela filha, Izabel Jaguaribe, o filme conta a história de um dos maiores cientistas políticos do Brasil. O nome se dá pelo fato de Hélio, atualmente com 94 anos, ter se tornado ateu ao longo de sua vida. Para ele, diante do infinito do cosmos, as pessoas são apenas um sopro entre dois nades – o que sucede o nascimento e precede a morte.</p><p>Não só a vida humana como também a história do universo são pequenas e irrelevantes. E com pensamentos assim, somos envolvidos o tempo todo. Diferentemente do padrão em que os intelectuais falam em cenários com diversos livros, os fundos recebem estampas de planetas, estrelas e símbolos cósmicos.</p><p>No começo pode parecer estranho, mas é uma boa forma de prender o espectador. E além das palavras sobre o ateísmo e a irrelevância das coisas, com grandes personagens (como Fernanda Montenegro, Fernando Henrique Cardoso, Candido Mendes, entre outros) Hélio faz um balanço sobre a política mundial, o governo Vargas e o mercado.</p><p>O documentário permite avaliar toda a trajetória do cientista político e também do país que vive um momento difícil na economia. E apesar do tema, a narração de Fernanda Montenegro, os entrevistados intercalados e os cenários deixam o relato mais leve. Tudo muito criativo. A narrativa não se tratou apenas de momentos sérios, fomos apresentados a Jaguaribe e Jorge Hue, que é arquiteto e um de seus amigos, em um momento de descontração.</p><p>Ana Beatriz Bernardo, 6º período</p></main>"
+  },
+  "date": "2018-08-09T21:29:59",
+  "date_gmt": "2018-08-10T00:29:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Tudo é irrelevante conta a trajetória de Hélio Jaguaribe. Dirigido pela filha, Izabel Jaguaribe, o filme conta a história de um dos maiores cientistas políticos do Brasil. O nome se dá pelo fato de Hélio, atualmente com 94 anos, ter se tornado ateu ao longo de sua vida. Para ele, diante do infinito do cosmos, [&hellip;]</p>\n"
+  },
+  "featured_media": 2089,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2087"
+  },
+  "id": 2087,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/foto-tudo-e-irrelevante-helio-jaguaribe-e1533859339284.jpg?fit=700%2C390&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-xF",
+  "link": "https://agenciauvabarra.com/2018/08/09/agencia-uva-barra-assistiu-tudo-e-irrelevante/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:31:11",
+  "modified_gmt": "2019-01-31T14:31:11",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-tudo-e-irrelevante",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056592,
+    45958,
+    21677215
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: Tudo é Irrelevante"
+  },
+  "type": "post"
+}

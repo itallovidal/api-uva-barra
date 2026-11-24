@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/948/revisions/3141",
+        "id": 3141
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=948"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/948",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 25,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/948/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=948"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=948",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=948",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367
+  ],
+  "class_list": [
+    "post-948",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cultura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Em tempos de festa junina, a feira de São Cristóvão é o lugar preferido de nordestinos e cariocas para celebrar a época</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/foto-editada.jpg?ssl=1' alt='FOTO EDITADA.jpg' /><figcaption>Foto: Lizandra Rios</figcaption></figure><p>Localizado no bairro de São Cristóvão, no Rio de Janeiro, o Centro Municipal Luiz Gonzaga de Tradições Nordestinas – mais conhecido como Feira de São Cristóvão – é considerado referência quando se trata da cultura da região Nordeste. Nos meses de junho, julho e agosto – épocas de festa junina – o local fica repleto de nordestinos residentes no Rio de Janeiro e também de turistas de todo o país, que querem diversão e aproveitar mais o que essa rica cultura tem a oferecer.</p><p>Quando se trata de cultura brasileira, a feira tem muito a oferecer. Com dois grandes palcos tocando forró, ninguém fica desanimado. Além disso, as barracas vendendo comidas estão preparadas para agradar a todos os gostos. Por isso que a feira é um lugar tão democrático e querido por todos, sejam nascidos nesta região ou não. Entretanto, para os nordestinos, o lugar tem um significado especial: serve de refúgio para aqueles que não se sentem confortáveis no Rio de Janeiro ou sente saudades de casa, fazendo com que lá dentro eles consigam lembrar um pouco de suas origens e se sentir em casa.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/foto-09-06-17-14-56-12.jpg?ssl=1' alt='Foto 09-06-17 14 56 12' /><figcaption><strong>Foto: Lizandra Rios</strong></figcaption></figure><p>O estudante de jornalismo Nailson Ribeiro, de 18 anos, compartilha deste sentimento. Nascido e criado na cidade Lagoa de Dentro, no interior da Paraíba, o jovem – que atualmente mora no Rio de Janeiro – sente que na feira está mais perto de sua cultura e de casa. “Em um país tão preconceituoso, lá é um encontro de paz e respeito entre os nordestinos. Além de ser um lugar importante para nós, também é para quem quer conhecer novas culturas. Lá as pessoas podem sentir o quão arretado é o sangue nordestino”. Essa é a ideia principal da feira, fazer com que não só os nordestinos desfrutem da cultura.</p><p>Já o carioca Hélio de Santana dos Santos, de 46 anos, que trabalha perto e sempre está frequentando o local, discorda em partes com essa ideia de que a feira é interessante para todos. Ele acrescenta que, de uma certa maneira, a feira acaba sendo uma representação muito folclórica da cultura regional. “A feira é um lugar interessante sim, mas acaba sendo um espaço muito mais comercial do que um local que represente a cultura”. Mesmo sendo visto como um lugar comercial, é notório por todos os frequentadores que a feira teve o movimento reduzido.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/foto-09-06-17-18-01-31.jpg?ssl=1' alt='Foto 09-06-17 18 01 31.jpg' /><figcaption><strong>Heloísa Abertoldo em sua loja. / Foto: Lizandra Rios</strong></figcaption></figure><p>Com essa redução no movimento, os mais atingidos são os lojistas. Por mais que, normalmente, o número de visitantes aumente no mês de junho, esse ano houve uma grande queda. Segundo a vendedora Heloísa Abertoldo, o grande motivo é a crise. “Ano passado nessa mesma época duas pessoas não conseguiam dar conta da loja em dia de sexta feira. Hoje é difícil alguém parar para comprar algo aqui. A maioria das pessoas tenta conseguir desconto de alguma forma, mas é complicado.” Em consequência disso, Heloísa afirma que é necessário se reinventar para atrair os clientes. Por mais que esteja passando por momentos delicados, a Feira de São Cristóvão sempre será para todos um lugar de festa e celebração da cultura nordestina brasileira.</p><p><strong>Lizandra Rios, 5º período.</strong></p></main>"
+  },
+  "date": "2017-06-16T18:52:35",
+  "date_gmt": "2017-06-16T21:52:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Em tempos de festa junina, a feira de São Cristóvão é o lugar preferido de nordestinos e cariocas para celebrar a época Localizado no bairro de São Cristóvão, no Rio de Janeiro, o Centro Municipal Luiz Gonzaga de Tradições Nordestinas &#8211; mais conhecido como Feira de São Cristóvão &#8211; é considerado referência quando se trata [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=948"
+  },
+  "id": 948,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-fi",
+  "link": "https://agenciauvabarra.com/2017/06/16/um-lugar-de-celebracao-da-cultura/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:13:19",
+  "modified_gmt": "2019-01-31T15:13:19",
+  "ping_status": "open",
+  "slug": "um-lugar-de-celebracao-da-cultura",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Um lugar de celebração da cultura"
+  },
+  "type": "post"
+}

@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2256/revisions/2963",
+        "id": 2963
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2256"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2256",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2256/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2256"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2259"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2256",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2256",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    2366,
+    72064
+  ],
+  "class_list": [
+    "post-2256",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-esporte",
+    "category-eventos",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-congresso",
+    "tag-medicina-esportiva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>35º Congresso Mundial e 30º Congresso Brasileiro sobre a medicina do esporte são sediados no Rio de Janeiro</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-13-at-14-38-50-1.jpeg?fit=1049%2C865&amp;ssl=1' alt='WhatsApp Image 2018-09-13 at 14.38.50 (1)' width='1049' height='865' /><figcaption>Dr. João Alves Grangeiro comenta sobre a medicina regenerativa em lesões esportivas. Foto: Bárbara Faria</figcaption></figure><p>A medicina é universal e conecta pessoas no mundo todo. Órgãos e institutos médicos promovem encontros anualmente a fim de aproximar profissionais da área. Entre os dias 12 e 15 de setembro foi realizado o 35° Congresso Mundial e o 30º Congresso Brasileiro de Medicina do Exercício e do Esporte no Windsor Barra Hotel. Os dois eventos acontecem simultaneamente e reúnem médicos e estudantes de diferentes países para trocar experiência e compartilhar conhecimento.</p><p>Ao longo dos quatro dias foram palestras, exposições de trabalhos acadêmicos e competições universitárias. O presidente da Sociedade Brasileira de Medicina do Esporte (SBMEE), Marcelo Leitão, diz que foram cerca de 1.800 pessoas confirmadas no evento, desde congressistas a palestrantes nacionais e internacionais. “O campo da medicina esportiva é muito amplo. Trabalha-se desde atletas de alto rendimento até questões para promoção de saúde geral. Todos esses assuntos estão sendo discutidos aqui”, relata.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-13-at-14-38-50.jpeg?fit=1280%2C802&amp;ssl=1' alt='WhatsApp Image 2018-09-13 at 14.38.50' width='1280' height='802' /><figcaption>Estande da Sociedade Brasileira de Medicina do Exercício e do Esporte (SBMEE) no 35° Congresso Mundial de Medicina Esportiva. Foto: Bárbara Faria</figcaption></figure><p>Um campo ainda pouco explorado. O universitário, Walisson Fonseca, 25 anos, cursa o 6º período na Universidade Federal de Uberlândia, em Minas Gerais. Ele conta que pretende atuar nesta área e que desenvolveu um trabalho científico para expor durante o congresso porque acredita potencial do ramo. “Uma consulta com um médico especializado é muito cara e não há outra possibilidade de acesso a esse serviço. Deve-se pensar mais na combinação do esporte com dietas como uma forma de mudar a rotina de muitas pessoas”, comenta.</p><p>Médicos acreditam que esportes e atividades físicas podem abrir horizontes. O ortopedista e palestrante, Dr. João Grangeiro, diz que enxerga a medicina do exercício físico como a especialidade do futuro porque ela abrange níveis de conhecimento de diversas especialidades. “Hoje, é fundamental pensar em capacitar as pessoas para que elas possam fazer atividade física saudável. Dessa forma, torna-se possível prevenir uma série de doenças degenerativas”, afirma.</p><p>O evento com duração de quatro dias trouxe mais visibilidade para a medicina esportiva. “Um dos nossos objetivos é fazer com que essa especialidade seja cada vez mais conhecida para que as pessoas que precisam de um médico especializado saibam que ele está disponível e que pode ser procurado para diversas questões”, relata o presidente da SBMEE, Marcelo Leitão.</p><p>Bárbara Faria – 6º período.</p></main>"
+  },
+  "date": "2018-09-15T19:01:42",
+  "date_gmt": "2018-09-15T22:01:42",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>35º Congresso Mundial e 30º Congresso Brasileiro sobre a medicina do esporte são sediados no Rio de Janeiro A medicina é universal e conecta pessoas no mundo todo. Órgãos e institutos médicos promovem encontros anualmente a fim de aproximar profissionais da área. Entre os dias 12 e 15 de setembro foi realizado o 35° Congresso [&hellip;]</p>\n"
+  },
+  "featured_media": 2259,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2256"
+  },
+  "id": 2256,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-13-at-14-38-50-1.jpeg?fit=1049%2C865&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Ao",
+  "link": "https://agenciauvabarra.com/2018/09/15/medicina-integrada-ao-esporte/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T17:41:01",
+  "modified_gmt": "2019-01-26T19:41:01",
+  "ping_status": "open",
+  "slug": "medicina-integrada-ao-esporte",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    77923,
+    3062716
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Medicina integrada ao esporte"
+  },
+  "type": "post"
+}

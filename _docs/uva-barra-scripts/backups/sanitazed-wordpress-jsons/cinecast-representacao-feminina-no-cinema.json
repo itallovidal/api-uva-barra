@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15230/revisions/15238",
+        "id": 15238
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15230"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15230",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15230/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15230"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15235"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15230",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15230",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    2367,
+    632602,
+    18330,
+    74499,
+    701438832
+  ],
+  "class_list": [
+    "post-15230",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-cultura",
+    "category-diversidade",
+    "category-institucional",
+    "category-mercado-de-trabalho",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-feminino",
+    "tag-podcast",
+    "tag-radio"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O primeiro episódio do Cinecast foi produzido por Artur Lavinas, Bárbara Bastos, Guilherme Corrêa, Isabella Pereira, Julia Gabriela, Juliana Vilete, Juliane Barbosa e Pedro Lima, e debateu sobre a Representação Feminina no Cinema.</p><p>A convidada do podcast foi a diretora e roteirista Ana Johann, que comentou sobre forma com que escreve e dirige as histórias pelo olhar de mulheres, além do impacto que essas produções causam na sociedade.</p><p><strong>Confira o podcast completo clicando no link abaixo!</strong></p><figure><iframe title=\"Spotify Embed: Cinecast - Representação Feminina no Cinema. \" width=\"100%\" height=\"152\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6ocHIuvmIb39A9E5ho8N3w?si=PKoOg0oNQPe76h6O5kDHkA&amp;utm_source=oembed\"></iframe></figure><p><em>*Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto</em>.</p></main>"
+  },
+  "date": "2023-07-03T18:07:21",
+  "date_gmt": "2023-07-03T21:07:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O primeiro episódio do Cinecast foi produzido por Artur Lavinas, Bárbara Bastos, Guilherme Corrêa, Isabella Pereira, Julia Gabriela, Juliana Vilete, Juliane Barbosa e Pedro Lima, e debateu sobre a Representação Feminina no Cinema. </p>\n"
+  },
+  "featured_media": 15235,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15230"
+  },
+  "id": 15230,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/whatsapp-image-2023-07-03-at-18.08.58.jpeg?fit=498%2C495&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3XE",
+  "link": "https://agenciauvabarra.com/2023/07/03/cinecast-representacao-feminina-no-cinema/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-03T18:35:05",
+  "modified_gmt": "2023-07-03T21:35:05",
+  "ping_status": "open",
+  "slug": "cinecast-representacao-feminina-no-cinema",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    134966,
+    1142,
+    275
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Cinecast: Representação Feminina no Cinema"
+  },
+  "type": "post"
+}

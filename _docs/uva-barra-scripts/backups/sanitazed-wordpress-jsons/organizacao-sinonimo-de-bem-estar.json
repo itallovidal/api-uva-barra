@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2266/revisions/3060",
+        "id": 3060
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2266"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2266",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2266/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2266"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2267"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2266",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2266",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-2266",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-literatura",
+    "tag-a-arte-da-organizacao-do-concreto-ao-abstrato",
+    "tag-agencia-uva-barra",
+    "tag-eliana-marta-seraphim",
+    "tag-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Autora Eliana Marta Seraphim lança livro sobre como ser uma pessoa organizada e feliz, em meio a tantas atividades do dia a dia</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-14-at-18-19-52.jpeg?resize=1280%2C846&#038;ssl=1' alt='WhatsApp Image 2018-09-14 at 18.19.52' width='1280' height='846' /><figcaption>Escritora Eliana Marta Seraphim lança livro “A arte da organização: do concreto ao abstrato”, na livraria da Travessa, no Barra Shopping. Foto: Nayara Simões</figcaption></figure><p>Arrumação e alegria. Estas, são palavras que, para muitos, não fazem sentido quando juntas. Já para a professora e escritora, Eliana Marta Seraphim, é uma realidade possível. Ela lançou, na última sexta-feira (14/09), na Livraria da Travessa, do Barra Shopping, o livro “A arte da organização: do concreto ao abstrato”, em que busca transmitir experiências pessoais, para inspirar outras mulheres e homens que vivem em rotinas corridas.</p><p>A escolha do tema é um pouco inusitada para quem considera a arrumação uma prática ruim, mas para a autora, a ação é essencial para se ter qualidade de vida. “Organizar está diretamente ligado ao bem-estar, harmonia e equilíbrio, e pode proporcionar muitos benefícios”. Eliana conta que sempre ocupou funções administrativas e que ficava horas em seu trabalho, mas ainda tinha a dupla jornada, precisava cuidar das tarefas de casa, mesmo sem muito tempo. Ao escrever o livro, ela quis passar suas experiências e mostrar que o ato de organizar não é um dom, e sim, uma habilidade que pode ser treinada.</p><p>A afirmação de que a organização é fundamental, principalmente para o bem-estar, é o que motivou a mãe, professora e, agora, escritora a colocar no papel essas dicas.  Eliana acredita que a arrumação pode ser prazerosa e se os leitores seguirem os métodos ensinados, poderão ter uma vida melhor. “É uma atividade simples e saudável, que permite que tenhamos tempo para toda a nossa rotina”, conclui. </p><p>Para que isso ocorra, a obra mostra um conjunto de métodos. É o DLA (Destralhamento, Limpeza e Arrumação), que abrange práticas por meio do ensino didático. A professora Adelina Salerno estava presente no lançamento e acredita que o livro tem um tema com visão de futuro. “Muitos não gostam de organizar, mas é primordial para a vida”. Na sociedade da urgência e do ontem, aproveitar as dicas pode ajudar na correria que transformou homens e mulheres em seres multitarefas.</p></main>"
+  },
+  "date": "2018-09-16T17:00:52",
+  "date_gmt": "2018-09-16T20:00:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Autora Eliana Marta Seraphim lança livro sobre como ser uma pessoa organizada e feliz, em meio a tantas atividades do dia a dia Arrumação e alegria. Estas, são palavras que, para muitos, não fazem sentido quando juntas. Já para a professora e escritora, Eliana Marta Seraphim, é uma realidade possível. Ela lançou, na última sexta-feira [&hellip;]</p>\n"
+  },
+  "featured_media": 2267,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2266"
+  },
+  "id": 2266,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-14-at-18-19-52.jpeg?fit=1280%2C846&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Ay",
+  "link": "https://agenciauvabarra.com/2018/09/16/organizacao-sinonimo-de-bem-estar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:16:26",
+  "modified_gmt": "2019-01-31T14:16:26",
+  "ping_status": "open",
+  "slug": "organizacao-sinonimo-de-bem-estar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    649084134,
+    648221465,
+    649084133,
+    767056603
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Organização: sinônimo de bem-estar"
+  },
+  "type": "post"
+}

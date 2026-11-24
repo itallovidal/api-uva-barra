@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1751/revisions/3223",
+        "id": 3223
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1751"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1751",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1751/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1751"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1751",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1751",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    407146
+  ],
+  "class_list": [
+    "post-1751",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-exposicao"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Pintores, fotógrafos, desenhistas e artistas se reúnem no centro do Rio</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/a-cara-do-rio.jpg?resize=483%2C273&amp;ssl=1' alt='A CARA DO RIO' width='483' height='273' /><figcaption>Créditos: Karina Figueiredo</figcaption></figure><p>A diversidade está de portas abertas no Centro Cultural Correios, no Rio de Janeiro. A exposição “A Cara do Rio 2018”, do curador Marcelo Frazão, expõe as revelações sobre o descaso, a partir do olhar de ilustradores. Com início em 1° de março até o dia 22 de abril, a visitação ocorre de terça a domingo, de 12h às 19h, com entrada franca. O professor começou, em 2003, com apenas 25 artistas, e hoje, ele registra a passagem de 323 pessoas pela coletiva, e mais de 743 trabalhos realizados.</p><p>Esse longo período de elaboração artística tem um propósito maior. Com 15 anos de carreira, a produção conta com 90 criadores que expõem os traços estéticos, que dialogam direto com o público. E quem emite, aos visitantes, esse conteúdo, são artesões, fotógrafos de diversas idades. Entre eles, o veterano Paulo Villela, 81 anos, artista plástico com obras que realçam o contorno feminino. Já a estudante Clara Muller, 16 anos, primeira vez no evento, fez uma canoa feita com pedaços de madeira e cimento, matéria prima das construções urbanas. “É baseado na invasão dos portugueses nas tribos indígenas e nas mudanças que ocorreram”, explica.</p><p>Além das realizações socioculturais presentes na mostra, o tema ser humano foi uma aposta em algumas criações. A do expositor “Mussa” morador do bairro de Copacabana, por exemplo, que estudou o comportamento das pessoas em lugares públicos e nos pontos turísticos. “Antigamente os pintores faziam o autorretrato, hoje em dia, o autorretrato é a própria <em>selfie</em>”, constata o autor da obra <em>Yourself</em>. Ele também ressalta a influência digital na realidade e as mudanças no comportamento visual. A escultora Katia Politzer foi além e desenvolveu um trabalho de tom crítico. “Eu resolvi mostrar o ícone da nossa cidade em processo de decomposição”.</p><p>Quem também pegou carona na temática foi a convidada Flory Menezes ao esculpir, em madeira, os personagens da desordem. “Os nossos valores estão sendo roubados por corruptos, por isso, fiz essa denúncia dramática de forma leve para atingir várias pessoas”. Do outro lado, o desenhista Paulo Serpa, 76, dos quais 55 anos são dedicados ao mundo artístico, escolheu outro foco. “Quero mostrar o rio e as suas cores”, aponta o pintor que já atuou como professor na área acadêmica. “O desenho é essencial para alcançar o processo de criação”.</p><p>Todas essas peças não só fazem uma crítica ao momento atual da cidade, como também propõem novos caminhos. Para o empresário Stephan Weber, o evento é importante já que aborda outra face do Rio. “A exposição promove diversidade e isso gera reflexão no nosso cotidiano”. Assim como ele, o idealizador do projeto Marcelo Frazão compartilha do mesmo objetivo. “Quero elevar a autoestima do carioca porque, apesar das dificuldades e das crises, a cidade é bonita”, conclui.</p><p><strong>Karina de Figueiredo, 4º período.</strong></p></main>"
+  },
+  "date": "2018-03-03T22:36:09",
+  "date_gmt": "2018-03-04T01:36:09",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Pintores, fotógrafos, desenhistas e artistas se reúnem no centro do Rio</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1751"
+  },
+  "id": 1751,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-sf",
+  "link": "https://agenciauvabarra.com/2018/03/03/a-outra-face-do-rio/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T17:44:53",
+  "modified_gmt": "2019-02-27T20:44:53",
+  "ping_status": "open",
+  "slug": "a-outra-face-do-rio",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A outra face do Rio"
+  },
+  "type": "post"
+}

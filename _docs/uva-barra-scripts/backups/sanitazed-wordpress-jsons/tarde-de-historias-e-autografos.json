@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2125/revisions/3085",
+        "id": 3085
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2125"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2125",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2125/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2125"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2126"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2125",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2125",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-2125",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-literatura",
+    "tag-a-rainha-vermelha",
+    "tag-victoria-aveyard"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-20-at-13-58-49.jpeg?resize=1280%2C939&amp;ssl=1' alt='WhatsApp Image 2018-08-20 at 13.58.49' width='1280' height='939'><figcaption>Foto: Ana Beatriz Bernardo</figcaption></figure><h4><em>Victoria Aveyard vem ao Brasil para encontro com fãs em São Paulo, Curitiba e Rio de Janeiro</em></h4><p>A autora norte-americana Victoria Aveyard ficou conhecida pelo romance-fantasia “A Rainha Vermelha” que já foi traduzido para 37 idiomas e ganhou continuação com mais três livros. Pela primeira vez veio ao Brasil para um encontro com fãs e uma sessão de autógrafos e lançamento do último livro da série. A autora é uma das representações do novo caminho traçado pela fantasia, um estilo literário que sofria muito preconceito, mas vem ganhando cada vez mais espaço no Brasil. O evento aconteceu no sábado, dia 18 de agosto, na saraiva do Rio Sul, às 16 horas</p><p>As portas da livraria abriram, exatamente, às dez horas, mas a fila do lado de fora do shopping começou às seis da manhã. Raphaela Oliveira foi uma das primeiras e saiu cedo de casa para garantir o autógrafo da autora. “Eu moro longe, precisei pegar dois ônibus para chegar aqui. Sai de casa antes de cinco horas”, diz a estudante do 3º ano. Como as senhas eram numeradas, as pessoas que pegassem podiam sair da livraria sem medo de perder o lugar na fila. Mas nem tudo agradou aos leitores.</p><p>Assim que a autora chegou, uma grande mesa foi colocada e quem fosse pegar o autógrafo deveria ficar do lado oposto ao dela. A foto, tirada pelo fotógrafo oficial do evento, também era dessa forma. A estudante de produção cultural, Laura Lima, esperou alguns anos para ver Victoria e disse estar triste com o jeito que as coisas ocorreram. “Os funcionários foram ótimos e prestativos, mas esperava mais da Victoria. Sou fã dela desde 2015, queria um contato maior”, conta.</p><p>Victoria não acreditou no número de pessoas que estavam lá. “Nossa, não imaginei que tantos viriam!”, diz. Este gênero literário tem crescido principalmente porque os jovens estão lendo mais, mesmo em plena era digital, e procurando algo que esteja distante da realidade, que mostre novos universos. Histórias como Harry Potter, Jogos Vorazes, Senhor dos Anéis, entre outros, fizeram os adolescente mudarem o mundo editorial. E as editoras estão investindo cada vez mais nessas publicações.</p><p><strong>Ana Beatriz Bernardo – 6º período</strong></p></main>"
+  },
+  "date": "2018-08-21T16:18:39",
+  "date_gmt": "2018-08-21T19:18:39",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Victoria Aveyard vem ao Brasil para encontro com fãs em São Paulo, Curitiba e Rio de Janeiro &nbsp;A autora norte-americana Victoria Aveyard ficou conhecida pelo romance-fantasia “A Rainha Vermelha” que já foi traduzido para 37 idiomas e ganhou continuação com mais três livros. Pela primeira vez veio ao Brasil para um encontro com fãs e [&hellip;]</p>\n"
+  },
+  "featured_media": 2126,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2125"
+  },
+  "id": 2125,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-20-at-13-58-49.jpeg?fit=1280%2C939&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-yh",
+  "link": "https://agenciauvabarra.com/2018/08/21/tarde-de-historias-e-autografos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:30:27",
+  "modified_gmt": "2019-01-31T14:30:27",
+  "ping_status": "open",
+  "slug": "tarde-de-historias-e-autografos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    34492393,
+    168446243
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Tarde de histórias e autógrafos"
+  },
+  "type": "post"
+}

@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14313/revisions/14318",
+        "id": 14318
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14313"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14313",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14313/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14313"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14317"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14313",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14313",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    10889,
+    3503,
+    9838342,
+    14591
+  ],
+  "class_list": [
+    "post-14313",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-esporte",
+    "category-historia",
+    "category-serie-documental",
+    "category-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-critica-2",
+    "tag-documentario",
+    "tag-luta",
+    "tag-samurai",
+    "tag-saopaulo",
+    "tag-sobrevivencia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O documentário \"Um Samurai em São Paulo\" retrata a história de vida e o contexto histórico vivido por um professor de artes marciais sobrevivente da Segunda Guerra Mundial. A produção é dirigida por Débora Mamber Czeresnia e teve a estreia mundial na Mostra Internacional de Cinema de São Paulo e chega às salas de cinema com a distribuição da Elo Studios.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/samurai-texto.jpg?resize=5315%2C3566&amp;ssl=1\" alt=\"\" width=\"5315\" height=\"3566\" /><figcaption>Foto: Hilton Ribeiro </figcaption></figure><p>Taketo Okuda é japonês que teve a missão de difundir o karatê mundo afora, sendo o Brasil o destino deste trabalho. Instalado no país, ele vira professor de uma academia de artes marciais em São Paulo e uma de suas alunas, decide narrar a história de Okuda e traz como paralelo à trajetória dos avós que sobreviveram ao Holocausto. As virtudes do ato de lutar e a prática da autodefesa e resiliência revelam uma maneira de enxergar um mundo que a cada dia evidencia facetas alarmantes.</p><p>O documentário opta por trazer os pensamentos, reflexões e traços da biografia contadas e vivenciadas pelo mestre japonês com uma narração na qual a diretora traz as experiências da própria vida e da família dele e olhares para assuntos que vão desde as artes marciais para o antissemitismo e junta esses dois percursos de origens diferentes mas que juntos dialogam entre si..</p><p>Um dos principais recursos contidos no filme, é a utilização recorrente de imagens de arquivo, seja para ilustrar eventos históricos ou para expor registros do arquivo pessoal que perpassa a vida do sensei e permite uma imersão em relação aos tópicos listados pela obra. Já a trilha sonora traz momentos específicos em que uma música típica oriental é realçada e auxilia uma ambientação para acompanhar um momento de discurso do retratado.</p><p>\"Um Samurai Em São Paulo\" traz temas e lições sensíveis para a humanidade e podem impactar diversas parcelas do público, sejam eles interessados por artes marciais, cultura japonesa ou por temas sociais e políticos. O filme estreia nos cinemas nesta quinta (30/03). <strong>Assista ao trailler: </strong></p><figure><iframe src=\"https://www.youtube.com/embed/hP4biZE3YR0?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p><br><em>Márcio Weber – 2° período </em></p></main>"
+  },
+  "date": "2023-03-30T17:44:31",
+  "date_gmt": "2023-03-30T20:44:31",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O documentário &#8220;Um Samurai em São Paulo&#8221; retrata a história de vida e o contexto histórico vivido por um professor de artes marciais sobrevivente da Segunda Guerra Mundial. A produção é dirigida por Débora Mamber Czeresnia e teve a estreia mundial na Mostra Internacional de Cinema de São Paulo e chega às salas de cinema com a distribuição da Elo Studios.</p>\n"
+  },
+  "featured_media": 14317,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14313"
+  },
+  "id": 14313,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/samurai-capa.jpg?fit=1920%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3IR",
+  "link": "https://agenciauvabarra.com/2023/03/30/agencia-uva-barra-assistiu-um-samurai-em-sao-paulo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-30T17:44:31",
+  "modified_gmt": "2023-03-30T20:44:31",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-um-samurai-em-sao-paulo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    34939883,
+    45958,
+    577334,
+    11759,
+    1526064,
+    375251
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Um samurai em São Paulo"
+  },
+  "type": "post"
+}

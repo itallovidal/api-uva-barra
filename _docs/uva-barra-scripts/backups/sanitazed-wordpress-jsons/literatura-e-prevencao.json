@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2217/revisions/3065",
+        "id": 3065
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2217"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2217",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2217/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2217"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2219"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2217",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2217",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-2217",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Lucas Rocha estreia com livro que traz assunto considerado tabu</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-03-at-16-03-51-1.jpeg?resize=1280%2C853&#038;ssl=1' alt='WhatsApp Image 2018-09-03 at 16.03.51 (1)' width='1280' height='853' /><figcaption>Lucas Rocha em conversa com o público no início do evento. Foto: Ana Carolina Soares</figcaption></figure><p>O último domingo (02/09) celebrou mais um passo na estrada da literatura Young Adult. Lucas Rocha fez o lançamento do romance “Você tem a vida inteira”, na livraria Saraiva de Botafogo. Trazendo uma temática sensível e pouco discutida, a história – que aborda o amor pós diagnóstico de HIV – chegou a ficar em 6º lugar no estande da Galera Record durante a Bienal do Livro em São Paulo.</p><p>Segundo o autor, a principal motivação para o livro foi a falta de referências. “Eu senti a necessidade de escrever porque vi muita desinformação sobre o assunto”, explica Lucas. Ele conta ainda que, quando iniciou o livro, trabalhava na Fiocruz fazendo revisão de artigos científicos de saúde. “Caiu na minha mão um artigo sobre HIV e AIDS, mostrando as percepções que as pessoas tinham de cada um. Eu vi muita falta de conhecimento básico. A partir disso, comecei a escrever a história”, revela.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-03-at-16-03-49.jpeg?resize=1280%2C853&#038;ssl=1' alt='WhatsApp Image 2018-09-03 at 16.03.49' width='1280' height='853' /><figcaption>Autor durante sessão de autógrafos. Foto: Ana Carolina Soares</figcaption></figure><p>Durante a conversa com o público, Lucas contou sobre a preocupação com a abordagem na hora de escrever, a necessidade de não difundir informações equivocadas e sobre como o processo de pesquisa foi seu maior desafio. “Eu tive a responsabilidade de fazer uma pesquisa muito apurada. Conversei com médicos, com pessoas que convivem com HIV, fui em centros de tratamento. Eu queria que as pessoas fossem aprendendo junto com o personagem principal”, conta o escritor.</p><p>As pessoas que foram prestigiar o evento e garantir um exemplar autografado, comentaram como a obra é significativa. “Eu, por exemplo, tenho uma noção muito geral do assunto. Não conheço os pormenores de alguém que tenha contraído a doença ou de como é o tratamento”, diz a arquivista de 27 anos, Lorrane Sezinando. “Tenho certeza que o livro vai me ajudar a pensar de forma diferente e conhecer melhor o tema”, acrescenta.</p><p>Histórias com teor de tabu estão cada vez mais presentes no gênero Young Adult. Com tantos autores dando o primeiro passo para debater assuntos delicados entre os jovens, a expectativa é que a literatura continue auxiliando no fluxo de informações, favorecendo o conhecimento e a prevenção.</p><p><strong>Julia Morais – 6º período</strong></p></main>"
+  },
+  "date": "2018-09-06T09:00:15",
+  "date_gmt": "2018-09-06T12:00:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Lucas Rocha estreia com livro que traz assunto considerado tabu O último domingo (02/09) celebrou mais um passo na estrada da literatura Young Adult. Lucas Rocha fez o lançamento do romance “Você tem a vida inteira”, na livraria Saraiva de Botafogo. Trazendo uma temática sensível e pouco discutida, a história &#8211; que aborda o amor [&hellip;]</p>\n"
+  },
+  "featured_media": 2219,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2217"
+  },
+  "id": 2217,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-03-at-16-03-51-1.jpeg?fit=1280%2C853&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-zL",
+  "link": "https://agenciauvabarra.com/2018/09/06/literatura-e-prevencao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:21:10",
+  "modified_gmt": "2019-01-31T14:21:10",
+  "ping_status": "open",
+  "slug": "literatura-e-prevencao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056603
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Literatura e prevenção"
+  },
+  "type": "post"
+}

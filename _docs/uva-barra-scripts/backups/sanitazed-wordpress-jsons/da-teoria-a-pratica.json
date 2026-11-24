@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/541/revisions/2982",
+        "id": 2982
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=541"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/541",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 25,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/541/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=541"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=541",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=541",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-541",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Alunos de Administração e Engenharia da Universidade Veiga de Almeida (UVA) visitam a Cervejaria Itaipava em Petrópolis</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/03.jpg?resize=3264%2C2448&#038;ssl=1' alt='03' width='3264' height='2448' /><figcaption>Foto: Giovanna Faria</figcaption></figure><p>A fábrica Grupo Petrópolis, na última quinta-feira (04/05), serviu de exemplo prático de gestão e colocou alunos de primeiro período de frente com a rotina de uma grande empresa. A visita técnica reuniu 35 alunos, que acompanharam os processos de fabricação da cerveja Itaipava, liderado pela coordenadora e professora Lorena Bellora. A <em>Beer Tour</em> acontece de terça-feira à sábado e o agendamento pode ser feito pelo site com o máximo de 40 pessoas por horário.</p><p>Com o grupo de calouros ávidos por aprendizagem, a visitação ocorreu de forma animada e interativa. Foi apresentado a história da cervejaria e as fases de produção. “<em>É uma experiência única, eles têm a oportunidade de vivenciar o cotidiano da profissão</em>”, destaca Lorena – que reconhece a importância de ver na prática o conteúdo passado em sala de aula. A visita à Itaipava, que se tornou um Polo Turístico de Petrópolis, já é uma tradição da coordenadora com o apoio da UVA e suporte da equipe do Grupo Petrópolis.</p><p>Suporte esse, que foi importante para o todo o processo de compreensão do funcionamento da fábrica. “<em>Eles foram muito atenciosos e fizeram uma imersão do nosso grupo na empresa</em>”, elogia a estudante de administração, Carolina Ribeiro de 19 anos. Um dos responsáveis por isso foi o guia e comunicólogo, Rafael Battô, que garante que a troca entre público e empresa beneficia ambos os lados. “<em>Os visitantes podem ter o conhecimento do produto que eles consomem e isso também favorece o marketing da empresa</em>”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/02.jpg?resize=2448%2C2448&#038;ssl=1' alt='02' width='2448' height='2448' /><figcaption>Foto: Giovanna Faria</figcaption></figure><p>Dessa forma, foi possível aos alunos o reconhecimento de tarefas que antes estavam só na teoria. “<em>Foi o momento de ter a percepção mais clara do nosso futuro dentro da profissão</em>”, declara Higor Dantas, 20 anos, estudante de administração. A visita técnica é uma prática da UVA e acontece periodicamente em todos os cursos com a finalidade de oferecer vivência da rotina profissional – preparando os alunos para o mercado de trabalho.</p><p><em>Giovanna Faria, 4º período e Yhara Linka, 6º período.</em></p></main>"
+  },
+  "date": "2017-05-06T12:15:28",
+  "date_gmt": "2017-05-06T15:15:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alunos de Administração e Engenharia da Universidade Veiga de Almeida (UVA) visitam a Cervejaria Itaipava em Petrópolis A fábrica Grupo Petrópolis, na última quinta-feira (04/05), serviu de exemplo prático de gestão e colocou alunos de primeiro período de frente com a rotina de uma grande empresa. A visita técnica reuniu 35 alunos, que acompanharam os [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=541"
+  },
+  "id": 541,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-8J",
+  "link": "https://agenciauvabarra.com/2017/05/06/da-teoria-a-pratica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T17:59:50",
+  "modified_gmt": "2019-01-26T19:59:50",
+  "ping_status": "open",
+  "slug": "da-teoria-a-pratica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Da teoria à prática"
+  },
+  "type": "post"
+}

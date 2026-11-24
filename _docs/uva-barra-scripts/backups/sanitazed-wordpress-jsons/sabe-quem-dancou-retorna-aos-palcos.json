@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2243/revisions/3061",
+        "id": 3061
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2243"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2243",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2243/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2243"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2244"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2243",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2243",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2432
+  ],
+  "class_list": [
+    "post-2243",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-sabe-quem-dancou",
+    "tag-teatro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>A peça tem temporada simultânea e elenco reformulado</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/teatro-1.png?resize=1280%2C960&#038;ssl=1' alt='teatro 1' width='1280' height='960' /><figcaption>Foto: Ana Carolina Soares</figcaption></figure><p>Ambientado nos anos 80 a tragicomédia “Sabe quem dançou?”, dirigida por Hermes Carpes, traz narrativas fortes e personagens desprezados pela sociedade. E agora, volta com uma nova temporada simultânea no Rio e em São Paulo, a estreia carioca aconteceu no dia 4 de setembro, no Teatro Vanucci, no shopping da Gávea.</p><p>No palco são apresentadas situações que poderiam ser comparadas com as de hoje. Violência, preconceito, pobreza, relacionamento são alguns dos assuntos tratados em cena. O diretor e ator Hermes Carpes tenta trazer com esses temas uma reflexão ao público.</p><p>Para gerar essa atmosfera, Hermes fez uma grande preparação, ele não queria apenas contar uma história, mas sim mostrar uma realidade dura. “A dificuldade que tive é que tudo ali é muito real”, diz. Observando as adversidades vividas por jovens em todo o Brasil ele ainda completa “se preparem para o mundo!”.</p><p>A estreia contou com a presença de convidados, familiares e amigos, em meio a risadas e aplausos, o público saiu do teatro com outras percepções. Para Thiago Sardenberg de 34 anos, o que mais chamou atenção foi a construção dos personagens, “Acima de tudo, a humanização deles que vivenciaram sentimentos dos quais todos nós em algum momento da vida experimentamos: o ciúme, o desejo, a carência afetiva”, diz.</p><p>A peça fica em cartaz durante o mês de setembro, em temporada simultânea, no Rio de Janeiro (Todas as 3° feiras) no Teatro Vanucci, e em São Paulo (todas as 6° feiras). A peça tem 70 minutos de duração, com classificação de 18 anos.</p><p>Ana Carolina Soares – 6° período</p></main>"
+  },
+  "date": "2018-09-09T19:54:31",
+  "date_gmt": "2018-09-09T22:54:31",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A peça tem temporada simultânea e elenco reformulado Ambientado nos anos 80 a tragicomédia “Sabe quem dançou?”, dirigida por Hermes Carpes, traz narrativas fortes e personagens desprezados pela sociedade. E agora, volta com uma nova temporada simultânea no Rio e em São Paulo, a estreia carioca aconteceu no dia 4 de setembro, no Teatro Vanucci, [&hellip;]</p>\n"
+  },
+  "featured_media": 2244,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2243"
+  },
+  "id": 2243,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/teatro-1.png?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Ab",
+  "link": "https://agenciauvabarra.com/2018/09/09/sabe-quem-dancou-retorna-aos-palcos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:16:43",
+  "modified_gmt": "2019-01-31T14:16:43",
+  "ping_status": "open",
+  "slug": "sabe-quem-dancou-retorna-aos-palcos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    386304938,
+    767056600
+  ],
+  "template": "",
+  "title": {
+    "rendered": "“Sabe quem dançou?” retorna aos palcos"
+  },
+  "type": "post"
+}

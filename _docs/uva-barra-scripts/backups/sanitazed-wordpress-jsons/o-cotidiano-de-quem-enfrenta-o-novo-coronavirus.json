@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6335/revisions/6349",
+        "id": 6349
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6335"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6335",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6335/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6335"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6347"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6335",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6335",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-6335",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-saude",
+    "category-sociedade",
+    "tag-coronavirus",
+    "tag-covid-19",
+    "tag-fica-em-casa",
+    "tag-oms"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Profissionais da saúde expõem rotina e incertezas diante da pandemia</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/naom_5c87aae4bf2f8-1024x576-1.jpg?resize=570%2C320&amp;ssl=1\" alt=\"\" width=\"570\" height=\"320\" /><figcaption>Foto: Imagem retirada da internet</figcaption></figure><p>A vulnerabilidade causada pela exposição ao novo coronavírus, a escassez dos equipamentos de proteção individual (EPI) e a preocupação de contaminar os familiares no retorno para casa caminham lado a lado na rotina diária dos profissionais da área da saúde. Atuando em unidades básicas de pronto atendimento, hospitais, clínicas e serviços de emergência, esses profissionais descobrem a cada dia a potência de um vírus que pode ser fatal.</p><p>Lidar com a Covid-19 é altamente contagioso, complexo e traz um grande desafio para todos os profissionais da área da saúde, é assim que a Enfermeira Suellen Reis, do Hospital Municipal Albert Schweitzer, localizado na zona oeste do Rio de Janeiro, encara o momento. “Já tive que lidar com alguns vírus durante esses 11 anos de profissão, mas nada que fosse tão contagioso de pessoa para pessoa. Então, está sendo uma situação totalmente atípica, que exige um cuidado diferente, inclusive no contato entre nós”. Ela acrescenta ainda que ver colegas de trabalho se contaminando, traz tristeza e preocupação para toda equipe, uma vez que ficam tão expostos a cada plantão.</p><blockquote><p>“Não estudamos para perder vidas e ver isso acontecer na velocidade que tem acontecido, nos abala a cada dia, traz um sentimento de impotência”.</p><cite>Suellen Reis</cite></blockquote><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/whatsapp-image-2020-04-09-at-18.01.25-e1586518331693.jpeg?resize=388%2C517&amp;ssl=1\" alt=\"\" width=\"388\" height=\"517\" /><figcaption>Suellen Reis é enfermeira do Hospital Municipal Albert Schweitzer – Foto: Arquivo Pessoal</figcaption></figure><p>Como se sabe muito pouco sobre o COVID-19, Enriete Santos, Enfermeira da UPA Rocinha e do Hospital Estadual Carlos Chagas, ambos localizados na cidade do Rio de Janeiro, conta que nos dois locais de trabalho o uso de alguns EPI’s – que antes só eram utilizados para determinadas doenças como a tuberculose e o Acineto – agora são usados diariamente como forma de prevenção. “Estamos num ringue lutando contra um inimigo invisível, que mata sem nenhuma compaixão. Ficamos paramentados o tempo todo, a roupa é quente e a máscara sufoca. É muito complicado”, relata.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/whatsapp-image-2020-04-08-at-17.43.54.jpeg?resize=338%2C450&amp;ssl=1\" alt=\"\" width=\"338\" height=\"450\" /><figcaption>Enriete Santos atua na área hospitalar há 10 anos e trabalha no Hospital Estadual Carlos Chagas há 6 anos – Foto: Arquivo Pessoal</figcaption></figure><p>O médico cirurgião Bruno Sejas, do Hospital Municipal Albert Schweitzer, diz que confrontar a falta de material e ausência de informação é uma atividade quase que diária, e viu sua rotina ser totalmente modificada. “As cirurgias não emergenciais foram canceladas e agora temos que atender pacientes com suspeita ou contaminados com o COVID-19”.</p><p>Como o coronavírus possui um alto poder de contágio é importante o isolamento social, a fim de evitar um alcance maior da doença. Conforme as recomendações da Organização Mundial de Saúde (OMS), fique em casa!</p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-04-10T14:34:00",
+  "date_gmt": "2020-04-10T17:34:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Profissionais da saúde expõem rotina e incertezas diante da pandemia A vulnerabilidade causada pela exposição ao novo coronavírus, a escassez dos equipamentos de proteção individual (EPI) e a preocupação de contaminar os familiares no retorno para casa caminham lado a lado na rotina diária dos profissionais da área da saúde. Atuando em unidades básicas de [&hellip;]</p>\n"
+  },
+  "featured_media": 6347,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6335"
+  },
+  "id": 6335,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/naom_5c87aae4bf2f8-1024x576-1.jpg?fit=1024%2C576&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Eb",
+  "link": "https://agenciauvabarra.com/2020/04/10/o-cotidiano-de-quem-enfrenta-o-novo-coronavirus/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-04-10T14:46:11",
+  "modified_gmt": "2020-04-10T17:46:11",
+  "ping_status": "open",
+  "slug": "o-cotidiano-de-quem-enfrenta-o-novo-coronavirus",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056633,
+    694479852,
+    10138883,
+    320280
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O cotidiano de quem enfrenta o novo coronavírus"
+  },
+  "type": "post"
+}

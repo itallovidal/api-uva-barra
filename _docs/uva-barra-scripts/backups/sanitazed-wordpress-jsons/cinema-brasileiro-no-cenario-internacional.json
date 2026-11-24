@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19149/revisions/19338",
+        "id": 19338
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19149"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19149",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19149/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19149"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19337"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19149",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19149",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    22,
+    2432
+  ],
+  "class_list": [
+    "post-19149",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-internet",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O cinema brasileiro tem alcançado progressivamente destaque no cenário internacional, conquistando prêmios, elogios da crítica e espaço em plataformas de streaming em todo o mundo. Ao longo de décadas, a produção audiovisual nacional construiu uma trajetória marcada por desafios financeiros, censura e instabilidade política, superando adversidades por meio de resistência artística. Em a Retomada nos anos 90, o cinema brasileiro obteve reconhecimento internacional, renovando sua produção e explorando temas relacionados à cultura e à história do país, por meio de obras como O Quatrilho (1995), Central do Brasil (1998) e Carlota Joaquina, Princesa do Brasil (1995). Desde então, a presença do Brasil em festivais internacionais, como Cannes, Berlim e Sundance, consolidou uma identidade própria, reconhecida mundialmente.</p><p>A versatilidade do profissional brasileiro é vista como um diferencial no mercado internacional. Segundo Thalita Bastos, Pesquisadora e Professora em Cinema e Audiovisual, “o diferencial do profissional brasileiro no exterior é a nossa flexibilidade”, resultado de uma formação que permite atuar em diversas áreas do cinema, da produção à fotografia. Essa multiplicidade abre portas e fortalece a colaboração em equipe. Para além da formação, o reconhecimento em festivais internacionais é essencial, como destacou a pesquisadora, “esse conhecimento vai ser seu diferencial, não só no mercado internacional, no mercado brasileiro, em qualquer espaço que você se inserir”. O curta Volúpia, premiado no Mix Brasil e exibido em Sundance, é exemplo de como a circulação internacional amplia o alcance das obras e permite novos projetos, como ocorreu também com Kleber Mendonça Filho e o coletivo Filmes de Plástico.</p><p>O cinema brasileiro vive hoje um momento de grande destaque internacional, onde o cinema internacional busca inspirações em nossas histórias. Thalita afirma que “O olho do cenário internacional norte-americano está no cinema brasileiro, e isso significa muita coisa”, ressaltando que o Brasil ganhou mais destaque graças a obras que ganharam visibilidade em festivais, como Ainda Estou Aqui, premiado no Oscar, “abre espaço para a carreira dos cineastas brasileiros no Brasil e fora dele”, ressalta Bastos. Desde Aquarius, em 2016, que conquistou atenção internacional mesmo sem ter sido feito pensando nisso, o país vem construindo esse espaço de reconhecimento.A qualidade das produções nacionais é reconhecida internacionalmente, mas muitas vezes não encontra canais suficientes para chegar ao público. O problema não está na criatividade ou competência dos realizadores, mas na limitação de acesso a recursos, festivais, distribuidoras e janelas de exibição, “não é falta de mérito, muito pelo contrário, é falta de espaço”, ressalta Thalita.</p><p>No cenário contemporâneo, produções como Cidade de Deus, Tropa de Elite, Bacurau, A Vida Invisível, O Pagador de Promessas, Ainda Estou Aqui e o documentário Democracia em Vertigem, consolidaram o Brasil como referência estética e narrativa no cinema mundial. Estas obras demonstram a força de histórias autênticas, que retratam experiências e realidades locais, transformando o audiovisual em uma ferramenta poderosa de expressão cultural e crítica social.</p><p>Em 2023, o cinema brasileiro enfrentou uma queda drástica de 84,6% no número de espectadores em comparação a 2019, conforme dados da Ancine. Foram lançados 415 longa-metragem em 2023, sendo somente 161 filmes nacionais lançados no ano, apenas 3,7 milhões de ingressos foram vendidos, representando apenas 3,2% do público total nas salas de cinema. Esse desempenho foi amplamente ofuscado pelos grandes lançamentos internacionais, como “Barbie” e “Super Mario Bros – O Filme”, que atraíram milhões de espectadores. O cenário evidencia uma realidade preocupante, o público brasileiro segue preferindo produções estrangeiras, frequentemente associando a qualidade cinematográfica às superproduções internacionais, enquanto negligencia o valor das produções locais. Apesar da riqueza cultural e da qualidade das produções nacionais, a falta de incentivo à distribuição e a predominância de filmes estrangeiros nas redes de cinema contribuem para a desvalorização do cinema brasileiro.</p><p>A força do audiovisual brasileiro reside em sua identidade singular e na capacidade de contar histórias com sensibilidade. “O cinema brasileiro tem uma visão muito particular do mundo, onde a sensibilidade passada nas telas é diferente das outras produções do mundo”, disse Allan Pangaio, aluno do 3 período do Curso de Cinema. Allan destacou que, embora o cinema europeu tenha influenciado e marcado o Brasil, o país desenvolveu sua própria essência criativa, tornando suas produções únicas.</p><p>Além disso, ele ressaltou a importância do reconhecimento da sociedade brasileira. “O brasileiro tem a fama de não valorizar sua cultura, achando que o do estrangeiro é melhor. Cidade de Deus concorreu em várias categorias e não ganhou, mas ainda assim está na lista de melhores filmes de todos os tempos. Só com o reconhecimento internacional o brasileiro começa a valorizar mais a sua obra.” Segundo ele, é preciso fomentar a indústria nacional para que a produção cinematográfica continue crescendo e ganhando relevância tanto no país quanto fora dele.</p><p>De acordo com a Ancine, Agência Nacional do Cinema, entre 2023 e 2024, o cinema brasileiro passou a contar com uma série de medidas que visam alterar significativamente sua posição no mercado interno e internacional. O setor recebeu R$4,8 bilhões através do Fundo Setorial do Audiovisual e das leis de incentivo da Ancine, além de R$2,8 bilhões da Lei Paulo Gustavo, impulsionando a produção e distribuição de filmes nacionais e garantindo mais recursos para o cinema. Essa ajuda financeira vem acompanhada pela Lei da Cota de Tela, que entrou em vigor em 2024 e obriga as empresas exibidoras a reservar uma parte de suas programações para filmes brasileiros, criando uma oportunidade para que as produções nacionais ganhem mais visibilidade nas salas de cinema. Além disso, o lançamento da plataforma Tela Brasil, prevista para o segundo semestre de 2025, promete ampliar o acesso às produções nacionais, oferecendo um catálogo 100% brasileiro para o público. Para completar esse movimento de fortalecimento, a proposta de regulamentação do Vídeo sob Demanda (VoD) está sendo elaborada com o intuito de aumentar a participação e o alcance das produções independentes nas principais plataformas de streaming, promovendo uma maior competitividade frente aos conteúdos internacionais. Essas ações estão, de fato, reformulando o cenário do cinema brasileiro e destacando sua relevância tanto no Brasil quanto no mercado global.</p><p>O filme Cidade de Deus, de Fernando Meirelles, é amplamente reconhecido como um marco do cinema nacional, com indicações ao Oscar e aclamação em prestigiados festivais internacionais. A obra se destaca por sua estética inovadora e pela representação impactante da realidade urbana brasileira. Já Tropa de Elite, dirigido por José Padilha, abordou questões sociais profundas, como violência urbana e corrupção, gerando debates que ultrapassaram as fronteiras do Brasil. Mais recentemente, Ainda Estou Aqui, de Walter Salles, conquistou o Oscar de Melhor Filme Internacional, reforçando a posição do cinema brasileiro no cenário global e valorizando a produção nacional em escala internacional. Essas produções demonstram a diversidade de temas abordados e a capacidade do cinema brasileiro de envolver emocionalmente o público, unindo técnica e sensibilidade em narrativas que dialogam com audiências ao redor do mundo.</p><p>O ator Ronaldo Reis, que participou de Tropa de Elite 1 e 2, reforça a ideia de que o cinema brasileiro se destaca por sua capacidade de lidar com temas delicados de forma intensa e realista. Ronaldo lembra os desafios do período de gravação de Tropa De Elite, onde durante os ensaios, a preparadora de elenco, Fátima Toledo, buscava que os atores não interpretassem apenas, mas que sentissem a experiência dos personagens. “Não era fingir que éramos os personagens, mas sim sentir o que eles sentiam. As cenas eram trabalhadas em ensaios, em cima de improvisos”, relata. Segundo Ronaldo, a visibilidade internacional contribui para valorizar toda a equipe envolvida na produção audiovisual. “Acho maravilhoso os nossos longas que cada vez mais estejam chamando atenção no cenário internacional, pois isso valoriza os nossos profissionais, que são muitos em diversas áreas do cinema.” O impacto de Tropa de Elite sobre o público brasileiro permanece significativo após mais de uma década do seu lançamento, consolidando-se como uma obra de referência no cinema nacional. “É um filme ainda muito vivo no cotidiano dos brasileiros, sendo altamente necessário, já que revela questões importantes e passa informações que antes a sociedade não tinha por completo”, afirma Ronaldo Reis.</p><p>A presença da cultura latino-americana nas produções internacionais tem se consolidado cada vez mais, especialmente nas séries norte-americanas, onde Estados como Califórnia e Nova York, com grande fluxo de migração da América Latina, tornam-se o palco para a criação e desenvolvimento de narrativas influenciadas por essa realidade. “Cada vez mais vemos roteiristas, diretores e atores de origem latina, e é impossível que isso não influencie as histórias”, disse o cineasta Mark Benjamin.. Para ele, embora esses profissionais, muitas vezes sejam descendentes de latino-americanos e não necessariamente nascidos na região, sua presença tem um impacto significativo nas narrativas, que na maioria acabam reforçando estereótipos como o da criminalidade e do tráfico, visto em produções como Narcos ou Cidade de Deus.</p><p>O grande desafio do audiovisual brasileiro é criar narrativas autênticas que se afastem desses clichês e reflitam uma realidade mais diversa, como no caso de Ainda Estou Aqui, que ao ser fiel ao contexto brasileiro, conquistou o público nacional e internacional. “Ainda Estou Aqui” é um filme autêntico, onde não tentou imitar realidades americanas que não se aplicam em nosso país. O filme fez um grande sucesso, pois é autêntico”, disse Mark.No entanto, ele reconhece que o cinema brasileiro ainda enfrenta barreiras, como a resistência a filmes legendados nos Estados Unidos e os altos custos de distribuição e tradução, que dificultam a circulação das obras brasileiras, “Fortalecer as redes de contato e aumentar os investimentos no setor são essenciais para que o cinema brasileiro consiga se destacar no mercado global”, conta Mark Benjamin.</p><p>Enquanto o cinema brasileiro está conquistando cada vez mais espaço e reconhecimento internacional, o teatro nacional ainda enfrenta desafios significativos relacionados ao acesso e à valorização. A aluna de teatro Ana Luiza Prince destaca que, apesar do talento e da dedicação dos jovens artistas, as oportunidades nem sempre são equivalentes às de outras áreas culturais. “Na minha vivência, os alunos de teatro não têm o mesmo nível de acesso, e é pelo prazer e felicidade de levar arte para o mundo que a gente batalha por isso”, comenta. Ela ressalta que a arte cênica brasileira possui uma identidade singular e repleta de liberdade, mas precisa ser mais apreciada pelo público nacional. “O reconhecimento internacional é importante, mas devemos começar pelo nosso país. Quase 60% dos brasileiros nunca foram a um teatro, e precisamos estimular a população a conhecer essa potência cultural”, afirma, destacando espetáculos como Tom na Fazenda, que representaram o Brasil em eventos na Europa e no Canadá.</p><p>Em suma, o cinema brasileiro tem conquistado crescente reconhecimento internacional, mas ainda enfrenta desafios, como a concorrência com produções estrangeiras e as dificuldades de distribuição global. Medidas recentes, como a Lei da Cota de Tela e o lançamento da plataforma Tela Brasil, representam avanços importantes para ampliar a presença do país no mercado global. No entanto, a valorização da produção nacional depende de um esforço contínuo, tanto por parte das políticas públicas quanto do público brasileiro, que precisa se engajar mais com suas próprias histórias.</p><p>Malu Cordeiro- 2 período de Jornalismo.</p></main>"
+  },
+  "date": "2025-10-14T14:10:02",
+  "date_gmt": "2025-10-14T17:10:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p> O cinema brasileiro tem conquistado crescente reconhecimento internacional, mas ainda enfrenta desafios, como a concorrência com produções estrangeiras e as dificuldades de distribuição global</p>\n"
+  },
+  "featured_media": 19337,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19149"
+  },
+  "id": 19149,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/dicas-de-leitura-filmes.png?fit=848%2C539&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4YR",
+  "link": "https://agenciauvabarra.com/2025/10/14/cinema-brasileiro-no-cenario-internacional/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-10-14T14:10:02",
+  "modified_gmt": "2025-10-14T17:10:02",
+  "ping_status": "open",
+  "slug": "cinema-brasileiro-no-cenario-internacional",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": " Cinema brasileiro  no cenário internacional"
+  },
+  "type": "post"
+}

@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13975/revisions/13980",
+        "id": 13980
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13975"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13975",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13975/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13975"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13979"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13975",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13975",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    3213,
+    2367,
+    187874,
+    10567,
+    866752,
+    9838342
+  ],
+  "class_list": [
+    "post-13975",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-ciencia",
+    "category-cultura",
+    "category-direitos-humanos",
+    "category-psicologia",
+    "category-saude-mental",
+    "category-serie-documental",
+    "tag-agencia-uva-barra",
+    "tag-arte",
+    "tag-loucura",
+    "tag-museu"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Através de entrevistas e depoimentos pessoais, o documentário “A arte na loucura” mostra a realidade do museu Bispo do Rosário, local em que a questão da saúde mental é abordada com zelo. O que antes era considerado um hospício, hoje abriga arte e história. Em 2022 os últimos internos tiveram alta, pois a direção acredita que esse não seja mais o caminho ideal para o tratamento e ressocialização.<br><br>Ouvindo os relatos contados no documentário é possível entender a história de Arthur Bispo do Rosário e a importância dele para o cenário artístico brasileiro. A produção é de Mateus Vandesten, João Perissé, Letícia Pizanelli, Giulia Cortez e Cícera Gledys Ramos e traz depoimentos pessoais de como a arte apareceu e influencia a vida de cada uma daquelas pessoas.</p><p><strong>Assista!</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/8ADBhnd-MSY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><br><em>Documentário produzido para a disciplina de Videodocumentário, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-01-13T16:00:00",
+  "date_gmt": "2023-01-13T19:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Através de entrevistas e depoimentos pessoais, o documentário “A arte na loucura” mostra a realidade do museu Bispo do Rosário, local em que a questão da saúde mental é abordada com zelo. O que antes era considerado um hospício, hoje abriga arte e história. Em 2022 os últimos internos tiveram alta, pois a direção acredita que esse não seja mais o caminho ideal para o tratamento e ressocialização.</p>\n"
+  },
+  "featured_media": 13979,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13975"
+  },
+  "id": 13975,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/01/whatsapp-image-2023-01-13-at-16.05.20-2108070099-e1673636780386.jpeg?fit=696%2C511&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Dp",
+  "link": "https://agenciauvabarra.com/2023/01/13/a-arte-na-loucura/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-01-13T16:06:24",
+  "modified_gmt": "2023-01-13T19:06:24",
+  "ping_status": "open",
+  "slug": "a-arte-na-loucura",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    3468,
+    331405,
+    419864
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A arte na loucura"
+  },
+  "type": "post"
+}

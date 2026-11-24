@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8815/revisions/8818",
+        "id": 8818
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8815"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8815",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8815/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8815"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8444"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8815",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8815",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-8815",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Quando perguntam a um profissional: qual professor marcou sua história? Muitos vão trazer nomes de docentes que vão desde o ensino fundamental ao superior. É a missão do professor, transformar o mundo através da educação.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/whatsapp-image-2020-12-21-at-11.57.50.jpeg?resize=945%2C945&amp;ssl=1\" alt=\"Greicy Kelly Gomes\" width=\"945\" height=\"945\"><figcaption>Greicy Kelly Gomes</figcaption></figure><p>Essa missão eu levo para todas as minhas disciplinas, nos lugares onde leciono e para todos os meus alunos, dos pequenos do teatro, passando pelos cursos livres, pós-graduação, graduação e os idosos da Unati. Aquele desejo de mudar o mundo através da educação, eu tenho, eu sou fruto dele.</p><p>Recebi o recado do falecimento de uma aluna através do pedido de uma mãe. Eu liguei para ela, tentando confortá-la nesse momento de luto e dor e ela dizia, a Greicy Kelly gostava muito de você, da sua narrativa e das suas aulas.</p><p>Chorei… chorei longe do fone do celular. Eu quero todos os meus alunos no mercado de trabalho e queria ver aquele largo sorriso da Greicy estampado no vídeo, ou pelo áudio ou assinando uma matéria. Ela sabia que eu pego no pé, mas sempre fez questão de estar nas minhas disciplinas, ela nunca fugiu de mim. O seu último trabalho foi tão tão tão elogiado que eu postei na Agência UVA Barra.</p><p>O videojornalismo, com título “A Representatividade Negra nas artes” reuniu diversos atores sociais com posicionamento reflexivo sobre o tema. Greicy era negra e participou de uma LIVE do campus Barra sobre o tema. Era uma voz que queria ser ouvida. A temática fazia parte do cotidiano da aluna, mas a mesma, com todo o toque jornalístico, soube se distanciar para reportar. Foi a matéria mais lida de 2020 no site.</p><p>No lugar da dor, uma singela homenagem a você que souber apurar e reportar com dignidade. Deixa eu te chamar de jornalista Greicy Kelly.</p><h3><strong><a href=\"https://agenciauvabarra.com/2020/07/20/a-representatividade-negra-nas-artes/\" target=\"_blank\" rel=\"noreferrer noopener\">Reveja o vídeo: Representividade Negra nas artes.</a></strong></h3><p><em>Por: Anderson Barreto – docente do curso de Jornalismo, campus Barra, professor e coordenador da Agência UVA Barra.</em></p></main>"
+  },
+  "date": "2021-03-10T17:44:01",
+  "date_gmt": "2021-03-10T20:44:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Quando perguntam a um profissional: qual professor marcou sua história? Muitos vão trazer nomes de docentes que vão desde o ensino fundamental ao superior. É a missão do professor, transformar o mundo através da educação. Essa missão eu levo para todas as minhas disciplinas, nos lugares onde leciono e para todos os meus alunos, dos [&hellip;]</p>\n"
+  },
+  "featured_media": 8444,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=8815"
+  },
+  "id": 8815,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/whatsapp-image-2020-12-21-at-11.57.50.jpeg?fit=945%2C945&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2ib",
+  "link": "https://agenciauvabarra.com/2021/03/10/homenagem-da-agencia-uva-barra-ao-talento-da-aluna-greicy-kelly/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-03-10T17:44:01",
+  "modified_gmt": "2021-03-10T20:44:01",
+  "ping_status": "open",
+  "slug": "homenagem-da-agencia-uva-barra-ao-talento-da-aluna-greicy-kelly",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Homenagem da Agência UVA Barra ao talento da aluna Greicy Kelly"
+  },
+  "type": "post"
+}

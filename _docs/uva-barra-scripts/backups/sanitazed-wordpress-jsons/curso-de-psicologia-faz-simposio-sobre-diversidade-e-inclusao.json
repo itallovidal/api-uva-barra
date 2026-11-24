@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14625/revisions/14640",
+        "id": 14640
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14625"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14625",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14625/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14625"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14632"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14625",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14625",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    632602,
+    858951,
+    10567,
+    866752,
+    7114
+  ],
+  "class_list": [
+    "post-14625",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-diversidade",
+    "category-eventos-internos",
+    "category-psicologia",
+    "category-saude-mental",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-autismo",
+    "tag-diversidade",
+    "tag-inclusao",
+    "tag-psicologia",
+    "tag-simposio"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Palestras sobre o Transtorno do Espectro Autista marcam o abril azul</em></p><p>No último dia 17 de abril, aconteceu o segundo Simpósio sobre diversidade e inclusão, organizado pelo curso de psicologia, no auditório da Universidade Veiga de Almeida. O evento marca o mês azul, da conscientização do aspecto autista, e contou com diversas palestras sobre o tema.</p><p>A conscientização é importante para o debate. Por não se tratar de uma doença, mas um transtorno neurológico, cada pessoa é diferente. Em muitos casos, o diagnóstico já vem na infância, mas não é incomum receber na fase adulta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/mariana-palestrante-e-barbara.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Mariana Reis, Gabriela Rinaldi e Bárbara Carissimi após uma das apresentações do evento. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/sabrina-eduardo-e-barbara.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Sabrina, Bárbara e Eduardo posam para foto após palestra. (Foto: Arquivo Pessoal)</figcaption></figure><p>Sabrina Lasevitch descobriu na graduação de psicologia que tem TEA. A aluna, que está no 4º período, disse que o diagnóstico foi uma surpresa e que trouxe mudanças positivas para a vida. “Aprendi a entender meu corpo e respeitar meus limites como nunca havia feito antes. Ainda, o fato de estar em uma faculdade de psicologia facilitou bastante todo o processo, tanto na busca por profissionais capacitados, quanto nos meus próprios estudos sobre o autismo”.</p><p>Por isso, eventos como esse, é necessário para que a área da saúde possa buscar mais informações e conhecimento para melhor avaliação e atendimento. Mariana Reis, psicóloga, explica como o profissional deve trabalhar as habilidades do paciente de ter autonomia no dia-dia. “Trabalhar um paciente autista, de nível leve, ajuda a melhorar as habilidades, a compreensão da diferença e a melhorar ou organizar aquilo que já sabe, porque ele já sabe de alguma coisa”.</p><p><strong>Confira o áudio abaixo, da psicóloga Mariana, sobre a relação dos pais e a autonomia dos filhos autistas.</strong></p><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Mariana comenta sobre a relação dos pais e a autonomia dos filhos autistas. by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1514785792&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></figure><p>O evento contou também com o depoimento do aluno do 7º período, Eduardo, pai de um menino autista. Para ele, um diagnóstico estruturado e bem feito é importante e útil para esse sujeito, e, consequentemente, para sua família. “O diagnóstico do autismo, na verdade, é um desafio, principalmente para a esfera social e economicamente menos favorecida. É preciso observar o comportamento do paciente e analisar informações coletadas com as pessoas que convivem com ele, com o auxílio de questionários”,afirma.</p><p>Amanda Ribeiro, aluna de psicologia, do campus Tijuca, acompanhou as palestras, com o intuito de entender sobre o TEA e para clinicar no futuro. “Eu queria muito entender melhor sobre o transtorno do autista, porque eu tenho um primo de cinco anos que ele é autista, e eu queria conhecer melhor pra poder saber mais do assunto”, afirma.</p><p>Respeito, aceitação e acolhimento são palavras que devem ser colocadas em ação para pessoas do espectro autista e seus familiares.</p><p><em>Vinicius Zakhm – 7° período</em></p></main>"
+  },
+  "date": "2023-04-24T14:52:02",
+  "date_gmt": "2023-04-24T17:52:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No último dia 17 de abril, aconteceu o  segundo Simpósio sobre diversidade e inclusão, organizado pelo curso de psicologia,  no auditório da Universidade Veiga de Almeida . O evento marca o mês azul, da conscientização do aspecto autista, e contou com diversas palestras sobre o tema. </p>\n"
+  },
+  "featured_media": 14632,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14625"
+  },
+  "id": 14625,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/auditorio-simposio.jpeg?fit=1600%2C1200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3NT",
+  "link": "https://agenciauvabarra.com/2023/04/24/curso-de-psicologia-faz-simposio-sobre-diversidade-e-inclusao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-16T19:32:39",
+  "modified_gmt": "2023-05-16T22:32:39",
+  "ping_status": "open",
+  "slug": "curso-de-psicologia-faz-simposio-sobre-diversidade-e-inclusao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    765450,
+    767056631,
+    793295,
+    767056608,
+    800086
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Curso de Psicologia faz simpósio sobre diversidade e inclusão"
+  },
+  "type": "post"
+}

@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10989/revisions/11002",
+        "id": 11002
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10989"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10989",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10989/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10989"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11001"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10989",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10989",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    14603,
+    798,
+    7114
+  ],
+  "class_list": [
+    "post-10989",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-jornalismo",
+    "category-politica",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Pesquisa traça panorama da violência letal e sexual contra crianças e adolescentes</em></p><p>O Fundo das Nações Unidas para a Infância (UNICEF) em parceria com o Fórum Brasileiro de Segurança Pública, realizou uma pesquisa sobre a mortalidade de crianças e adolescentes no país, que constatou cerca de 35 mil mortes entre os jovens no período compreendido entre 2016 e 2020. O estudo foi elaborado, levando-se em conta a faixa etária, o gênero, a cor, e a causa das mortes, que variam de acordo com a tipificação da violência aplicada.</p><p>No relatório da investigação, foi divulgado que as mortes de crianças, aconteciam em maior número, em decorrência da violência doméstica e sexual, quase sempre empreendida no interior de suas residências. Já os adolescentes, tinham como motivo principal, óbitos por preconceito racial e violência urbana.</p><p>Os dados abordados pelos Órgãos especialistas revelaram que ao menos 1.070 crianças de até nove anos perderam a vida nesse intervalo, sendo a maior parte delas do sexo masculino, com predominância de negros. Outro aspecto importante é com relação aos vitimados na faixa de 15 a 19 anos, onde o fator da violência urbana atingiu índice superior aos 90%. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/foto-sofia.jpg?resize=683%2C1024&amp;ssl=1\" alt=\"\" width=\"683\" height=\"1024\"><figcaption>Sofia confia que medidas precisam ocorrer para amenizar números recentes. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/danilo-moura.jpg?resize=400%2C400&amp;ssl=1\" alt=\"\" width=\"400\" height=\"400\"><figcaption>Danilo Moura pede coragem para denunciar os acusados. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/foto-fabiana.jpg?resize=780%2C1040&amp;ssl=1\" alt=\"\" width=\"780\" height=\"1040\"><figcaption> Fabiana ainda não superou a traumática morte do irmão. (Foto: Arquivo Pessoal)</figcaption></figure><p><strong>Sofia Reinach, pesquisadora do Fórum Brasileiro de Segurança Pública, alega que os recentes números demonstrados são preocupantes, e conta que a infância está cada vez mais evidenciada pela violência. Ouça abaixo:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1165564768&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Sofia Reinach discorre a respeito de ações distintas para o enfrentamento da violência by Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe></figure><p><strong>Ela complementa dizendo acreditar que todas as ações para enfrentamento da violência necessitam olhar para a característica de cada uma, ou seja, letal e sexual, pois são fenômenos distintos que precisam ser tratados nas suas especificidades. Ouça abaixo:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1166093839&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Sofia Reinach discorre sobre as recomendações no combate à violência contra os jovens by Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe></figure><p>A especialista entende também, que a pesquisa revela recomendações que devem ser seguidas como base para a compreensão das medidas a serem efetivadas contra esses crimes. Entre as principais, a não banalização do tema e o entendimento sobre as formas de violência que atingem a juventude. </p><p><strong>Ouça abaixo:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1166088727&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Sofia Reinach fala sobre violência doméstica e urbana by Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe></figure><p>Apesar dos adolescentes serem as principais vítimas por mortes violentas, há um aumento nos últimos cinco anos, em homicídios cometidos com crianças, principalmente na faixa etária de até 04 anos, por se tratar da primeira infância, o dado foi de 27% a mais.</p><p>De acordo com Danilo Moura, oficial de Monitoramento e Avaliação da UNICEF no Brasil, o frequente número de mortes de adolescentes, desvia a atenção da violência contra crianças, identificando mais de 200 óbitos anuais de menores de 10 anos. “Essas mortes apresentam características em decorrência da violência doméstica, e acontecem majoritariamente na casa das crianças, onde os autores são conhecidos delas”, afirma.</p><p>O avaliador salienta que a elevada quantidade de assassinatos de crianças de até 4 anos, aponta para a importância de, analisando as especificidades das violências a que meninos e meninas estão expostos, identificar as respostas mais apropriadas é a única saída para prevenir qualquer tipo de violência na primeira infância. “É preciso desnaturalizar a violência, garantindo que toda pessoa que souber, testemunhar ou suspeitar, não tenha receio de oferecer denúncia, assim como é necessário que os profissionais dos serviços que trabalham com crianças estejam preparados para advertir, identificar e responder às violências”, conclui.</p><p>A pesquisa expõe uma predominância de mortes acometidas até os 09 anos de idade, contra jovens negros da classe masculina (80%), especialmente durante a pré-adolescência, em execuções originadas fora de suas residências, seja por autores desconhecidos, intervenção policial ou emprego de arma de fogo.</p><p>Considerando a violência uma clara consequência do racismo estrutural no Brasil, Danilo esclarece que os meninos negros, com frequência são percebidos com ameaças, tendo suas atitudes punidas com mais severidade pelo judiciário e possuindo maior probabilidade de seus encontros com autoridades escalarem para violência, em comparação a encontros similares envolvendo meninos brancos. “Existe uma correlação entre as chances de envolvimento com atividades ilícitas ou situações de vulnerabilidade para os mais pobres, os que estão fora da escola, os que estão trabalhando de forma informal na rua, os que vivem em territórios onde o Estado está ausente. Uma série de mecanismos sociais históricos fazem com que adolescentes pretos e pardos estejam desproporcionalmente representados entre os mais pobres, os que abandonam a escola, os que precisam trabalhar informalmente, os que vivem nas favelas e ocupações ilegais das grandes cidades”, admite.</p><p>A empregada doméstica Fabiana Figueira da Silva, moradora da comunidade do São Carlos, no bairro do Estácio, localizado no Rio de Janeiro, conta que sentiu na pele os impactos da violência urbana, quando presenciou de perto a morte covarde de seu irmão Alessandro, o caçula da família, uma perda irreparável. </p><p><strong>Ouça abaixo:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1164712237&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Fabiana discorre sobre a perda do irmão caçula após intervenção policial by Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe></figure><p>O caso envolvendo o irmão da doméstica é só mais um relato fatal entre tantos outros. O uso excessivo da força policial durante suas operações representa 15% das mortes violentas intencionais, indicando uma média de mais de dois obituários por dia no país. Com relação à violência sexual, que têm essência doméstica e comumente se sabe a identidade dos autores, o percentual de 80% das vítimas, está inserido na classe feminina, porém, os meninos compreendidos entre três e nove anos também sofrem.</p><p>Danilo Moura conta que os números identificados no panorama apontam para a necessidade de medidas preventivas e auxílio dos profissionais de serviços que atendem crianças, seja em creches, escolas, postos de saúde ou serviços de assistência social. “Todos esses prestadores devem ser capazes de descrever tais sinais e estarem preparados para intervir, conhecendo os mecanismos. As crianças e adolescentes também precisam ter acesso à informação e conhecimento sobre seus direitos, as diferentes formas de violência, e como pedir ajuda”, explica.</p><p>Para atenuar essa marca, houve diminuição nos registros de violência sexual, de 40 mil em 2017 para menos de 38 mil em 2020, justamente durante o pico da pandemia, em que as medidas de isolamento tornaram-se mais rígidas. Vale destacar também, que os dados da análise feita pela UNICEF em conjunto com o FBSP, foram obtidos através da Lei de Acesso à Informação (LAI), e todos os boletins de ocorrência dos últimos cinco anos, referentes às mortes violentas, intencionais e sexuais de cada estado brasileiro foram solicitados.</p><p><em>Bruno Sadock – 6º período</em></p></main>"
+  },
+  "date": "2021-12-14T17:30:24",
+  "date_gmt": "2021-12-14T20:30:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O  Fundo das Nações Unidas para a Infância (UNICEF) em parceria com o Fórum Brasileiro de Segurança Pública, realizou uma pesquisa sobre a mortalidade de crianças e adolescentes no país, que constatou cerca de 35 mil mortes entre os jovens no período compreendido entre 2016 e 2020. O estudo foi elaborado, levando-se em conta a faixa etária, o gênero, a cor, e a causa das mortes, que variam de acordo com a tipificação da violência aplicada.</p>\n"
+  },
+  "featured_media": 11001,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10989"
+  },
+  "id": 10989,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/agencia-amarelo.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Rf",
+  "link": "https://agenciauvabarra.com/2021/12/14/mortalidade-entre-jovens-atinge-marca-expressiva-nos-ultimos-cinco-anos-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-12-14T17:30:24",
+  "modified_gmt": "2021-12-14T20:30:24",
+  "ping_status": "open",
+  "slug": "mortalidade-entre-jovens-atinge-marca-expressiva-nos-ultimos-cinco-anos-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Mortalidade entre jovens atinge marca expressiva nos últimos cinco anos no Brasil"
+  },
+  "type": "post"
+}

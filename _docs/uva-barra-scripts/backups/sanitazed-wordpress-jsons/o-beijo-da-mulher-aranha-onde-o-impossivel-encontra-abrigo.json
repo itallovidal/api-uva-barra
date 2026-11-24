@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21241/revisions/21244",
+        "id": 21244
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21241"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21241",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21241/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21241"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21243"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21241",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21241",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-21241",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Existem relações que não pedem permissão para acontecer. Elas surgem em espaços improváveis, em tempos inadequados, entre pessoas que, à primeira vista, jamais dividiram o mesmo mundo. Ainda assim, acontecem, e quando acontecem, deixam marcas que nem o tempo, nem a violência, conseguem apagar.</p><p>Em \"O Beijo da Mulher Aranha\", o encontro entre Valentín e Molina nasce dentro de uma cela, mas não se limita a ela. O espaço é pequeno, opressor, quase sufocante. E talvez por isso mesmo tudo o que se constrói ali ganhe uma dimensão maior do que a realidade permitiria lá fora.</p><p>Valentín carrega a dureza de quem acredita em causas, em estruturas, em mudanças coletivas. Seu corpo está preso, mas sua mente insiste em permanecer no campo da luta. Molina, por outro lado, habita um território mais íntimo: o das emoções, da fantasia, da estética. Ele não escapa da realidade enfrentando-a, ele a reinventa. E é nessa reinvenção que algo começa a se mover entre os dois.</p><p>Quando Molina narra os filmes de sua diva favorita, ele não está apenas contando histórias. Ele está oferecendo um lugar. Um espaço onde a dor pode ser suspensa, onde o medo perde força, onde existir não exige defesa constante. Valentín, inicialmente resistente, passa a ocupar esse espaço não porque acredita nele, mas porque reconhece, ainda que silenciosamente, o cuidado que existe ali.</p><p>O vínculo que nasce entre eles não precisa de nome exato. Ele transita entre afeto, dependência, desejo e cumplicidade. É feito de pausas, de olhares, de pequenas concessões. É um tipo de proximidade que só se constrói quando tudo ao redor insiste em separar.</p><p>Há algo de profundamente humano na forma como os dois se transformam sem perceber. Valentín começa a ceder à sensibilidade que antes rejeitava. Molina encontra, na escuta do outro, uma validação que vai além da fantasia. Nenhum deles deixa de ser quem é, mas ambos passam a ser mais do que eram. E talvez seja isso que torna essa história tão persistente.</p><p>O longa não fala apenas de amor em condições extremas. Fala da capacidade de criar conexão onde só existe ruptura. Fala de como o afeto pode surgir não apesar das diferenças, mas através delas. Fala, sobretudo, daquilo que permanece mesmo quando tudo é feito para desaparecer. No fim, não é a cela que define essa história. Nem o regime, nem o medo, nem a violência. O que define é o que resiste. E, contra todas as probabilidades, o que resiste é o encontro.</p><p>Duda Nicolich – 3º Período</p></main>"
+  },
+  "date": "2026-01-05T11:15:00",
+  "date_gmt": "2026-01-05T14:15:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Existem relações que não pedem permissão para acontecer. Elas surgem em espaços improváveis, em tempos inadequados, entre pessoas que, à primeira vista, jamais dividiram o mesmo mundo. Ainda assim, acontecem, e quando acontecem, deixam marcas que nem o tempo, nem a violência, conseguem apagar. Em “O Beijo da Mulher Aranha”, o encontro entre Valentín e [&hellip;]</p>\n"
+  },
+  "featured_media": 21243,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21241"
+  },
+  "id": 21241,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/04/noticia-completa-2-1.jpg?fit=1920%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5wB",
+  "link": "https://agenciauvabarra.com/2026/01/05/o-beijo-da-mulher-aranha-onde-o-impossivel-encontra-abrigo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-04-01T11:53:44",
+  "modified_gmt": "2026-04-01T14:53:44",
+  "ping_status": "open",
+  "slug": "o-beijo-da-mulher-aranha-onde-o-impossivel-encontra-abrigo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    17563,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Beijo da Mulher Aranha onde o impossível encontra abrigo"
+  },
+  "type": "post"
+}

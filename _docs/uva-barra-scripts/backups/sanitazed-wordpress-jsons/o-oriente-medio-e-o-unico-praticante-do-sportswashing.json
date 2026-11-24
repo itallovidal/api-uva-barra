@@ -1,0 +1,164 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16343/revisions/16364",
+        "id": 16364
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16343"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16343",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 16,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16343/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16343"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16343",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16343",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    3503,
+    7114
+  ],
+  "class_list": [
+    "post-16343",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-esporte",
+    "category-historia",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-esporte",
+    "tag-jornalismo",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A estratégia de limpeza de imagem se popularizou devido ao alto investimento dos países orientais no esporte, mas não são os únicos a utilizá-la.</em></p><p>Nos períodos de outubro de 2021 e novembro de 2022 o termo <em>sportswashing </em>virou um assunto em comum para aqueles que veem o futebol além das quatro linhas do campo. O primeiro, ainda em 2021, durante a venda do clube inglês Newcastle e o segundo, durante a Copa do Mundo Masculina, no Catar.</p><p>Os Jogos Olímpicos de Berlim, em 1936, são reconhecidos como uma das primeiras tentativas de sportswashing. Antes do início da Segunda Guerra Mundial, os Jogos foram usados por Adolf Hitler para propagar seu ideal de superioridade ariana. </p><p>Além do termo em comum, também era possível pontuar no mapa mundi o causador para a popularização do assunto: o Oriente Médio. O Catar, uma nação de 11 mil m2, e a Arábia Saudita, país responsável por 80% da Península Árabe. </p><p>A aquisição do Newcastle pelo Fundo de Investimento Público (FIP), o principal fundo de riqueza da Arábia Saudita, deu início a uma discussão sobre o uso do futebol como arma ideológica política por países de regimes autoritários. A Copa do Catar reacendeu essa discussão, após denúncias de abuso contra trabalhadores migrantes que atuaram na construção de estádios. </p><p>De acordo com a mídia internacional, 6,5 mil trabalhadores morreram no Catar desde o início das obras para a Copa do Mundo. O oficial do governo responsável pelo evento, Hassan Al-Thawaid, estimou que o número de mortes fosse de 400 a 500 pessoas. </p><p>Com um custo estimado de US$ 220 bilhões para construir a estrutura para sediar o evento, a Human Rights Watch (HRW), organização não-governamental que realiza pesquisa sobre direitos humanos, alegou que a FIFA, entidade suprema do futebol mundial, falhou em proteger os trabalhadores migrantes. </p><p>Em Novembro de 2022, mês da Copa do Mundo, a HRW publicou um relatório para repórteres que iam ao país cobrir o evento. Neste documento, de 49 páginas, a organização abordou os problemas durante a preparação para o torneio e as problemáticas do país envolvendo direito das mulheres, restrições ao direito à educação e trabalho. </p><p>Já na Arábia Saudita, o país foi sede da Supercopa da Itália e a cidade de Jeddah irá receber o Mundial de Clubes. Pensando mais a frente, o país, localizado na maior parte do Deserto da Arábia, também será responsável pelos Jogos Asiáticos de Inverno em 2029.</p><p>Carlos Massari é podcaster no Copa Além da Copa, projeto que fala sobre esporte, política e sociedade. Para ele, o investimento da Arábia tem como base a ideia de transformar o país em um grande centro de convergência entre o Ocidente e o Oriente, além de fazer parte da Visão 2030.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/11/img-20231122-wa0011-1.jpg?resize=1296%2C864&#038;ssl=1\" alt=\"\" width=\"1296\" height=\"864\" /><figcaption>Carlos Massari cita as Olimpíadas de Berlim, em 1936 e a Copa do Mundo da Argentina, em 1978 como tentativas antigas de sportswashing. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/11/img-20231122-wa0012-1.jpg?resize=603%2C944&#038;ssl=1\" alt=\"\" width=\"603\" height=\"944\" /><figcaption>Alexandre Nicolino acredita que o olhar para contextos de países orientais com a ótica ocidental traz uma análise diferente para essas nações. (Foto: Arquivo pessoal)</figcaption></figure><p>Visão 2030 é a estratégia planejada pelo país árabe para acabar com a sua dependência com o petróleo com projetos voltados para o turismo, cultura, energia e urbanismo. Ao investir no esporte, especialmente o futebol, a Arábia atrai a atenção da mídia que traz possibilidade de negócios com outros países.</p><p>“Paixão mundial, o futebol cai como luva nesse plano. Colocar o nome saudita em evidência pelo futebol, e não pelas constantes violações de direitos humanos, também faz parte desse plano”, adiciona Carlos.</p><p>Outros países também ganham financeiramente com o investimento saudita no esporte. O país patrocina a Superliga Africana de Clubes e, para Carlos, o dinheiro despejado na competição pode ser usada como troca, através de votos dos países africanos para que a Arábia Saudita possa sediar a Copa do Mundo de 2034. </p><p>É comum que a mídia associe o <em>sportswashing</em> com os países do Oriente Médio devido às denúncias contra os direitos humanos por alguns países dessa região. Carlos destaca o orientalismo por trás desta associação, mas lembra que eles são os que mais utilizam da tática na tentativa de limpar as questões das violações de direitos humanos.</p><p>Alexandre Nicolino, historiador formado pela Universidade Federal Rural do Rio de Janeiro, acredita que a associação do <em>sportswashing </em>com o Oriente Médio está relacionada com a necessidade dos países de se inserirem num plano midiático valorizado dentro da conjuntura global. “Esses governos utilizam o esporte como uma forma de criar uma conjuntura de valorização dos seus regimes num plano ocidental. O apelo que o esporte tem, sobretudo o futebol, se insere muito bem nisso”, complementa o professor.</p><p>Para países fora do contexto ocidental, é comum que entidades esportivas apliquem sanções após denúncias de violação dos direitos humanos. A partir da invasão da Rússia na Ucrânia, a FIFA, COI (Comitê Olímpico Internacional) e as Associações de Tênis feminino e masculino suspenderam a participação de atletas russos e bielorrussos.</p><p>No tênis, os atletas voltaram a competir em bandeira branca. Ainda não existe um consenso sobre a participação dos atletas nas Olimpíadas de Paris, em 2024. </p><p>O historiador Alexandre Nicolino complementa sobre as análises práticas de países que não se encaixam na visão do olhar ocidentalizado e a forma como seus problemas através do modo globalizado pelo ocidente são tratados. “É muito sintomático a gente olhar as diversas sanções direcionadas a Rússia a partir da guerra, mas os Estados Unidos nunca sofreram nenhuma sanção”, analisa.</p><p>Os Estados Unidos, junto com México e Canadá, serão sede da próxima Copa do Mundo Masculina, em 2026. O país estadunidense  atacou o Afeganistão e o Iraque, além de ter financiado as ditaduras militares nos países latinoamericanos. </p><p>Na década de 70, Brasil, Argentina, Peru e Chile estavam sob controle dos militares. Durante esse período, as seleções do Brasil e Argentina conquistaram o principal título no futebol: o de Campeão Mundial. </p><p>Para o historiador, os campeonatos mundiais do Brasil e Argentina foram projetos bem sucedidos de sportswashing devido a conquista dos títulos. “O título é essencial no futebol, sobretudo no sulamericano onde se tem a ideia de que a vitória é o mais importante. Os títulos congraçam os investimentos que os militares fazem nesse processo”, comenta.</p><p>A Copa do Mundo de 1970 teve como sede o México, país da América do Norte. O Brasil, que venceu essa edição do campeonato, se transformava na primeira Seleção a conquistar o tricampeonato mundial. </p><p>O contexto da Copa do México se encaixa no que a historiografia chama de Milagre Econômico Brasileiro, um momento de expansão da economia em diversos sentidos. Porém, além de ter sido um momento ilusório na história, esse aumento financeiro visava apenas às classes mais altas, desenvolvendo o processo de desigualdade social nesse período. </p><p>Com objetivo de incentivar a Seleção e trazer um sentimento de patriotismo independente de partido político, a marchinha “Para Frente, Brasil” tornou-se o hino semioficial da equipe naquele mundial. Para Alexandre, os militares tinham uma necessidade de justificar e criar um consenso social interno para a manutenção do regime. </p><p>Não existe suspeita ou denúncia de envolvimento dos militares no processo de conquista do tricampeonato. A Seleção Brasileira estava associada aos militares devido a preparação física organizada pela Escola de Educação Física do Exército e também do uso da AERP, Agência de Relações Públicas do Governo Militar, que veiculava a imagem do presidente Médici com a equipe. </p><p>O Golpe Militar mais recente na Argentina acontece em 1976, um ano e meio antes do início da Copa do Mundo de 1978, com sede no país. Alexandre comenta que o evento, além de ser muito aguardado pelos argentinos, também era uma forma do regime militar contornar as denúncias de violações dos direitos humanos e estrangulamento das forças opositoras. </p><p>Estima-se que 30 mil pessoas morreram durante a ditadura militar argentina. O Estádio Monumental de Nuñez, do River Plate e local que consagrou a Argentina como campeã mundial em 78, fica há menos de 1km de distância da Escola de Mecânica da Armada (ESMA), principal centro de tortura dos militares. </p><p>Contrária a Copa conquistada pelo Brasil, a da Argentina possui uma série de denúncias de manipulações de resultados, especialmente no jogo da semifinal, contra o Peru. O país da casa dependia do resultado do jogo entre Brasil e Polônia. </p><p>As semifinais deveriam ocorrer no mesmo horário para que nenhuma seleção tivesse qualquer benefício, mas o jogo da Argentina só ocorreu duas horas após o jogo do Brasil. A seleção de Rivellino venceu a Polônia por 3&#215;1 e a Argentina, já com o resultado em mente, venceu o Peru por 6&#215;0 e deixou o Brasil para trás, avançando para a final. </p><p>Alexandre também destaca o uso da mídia pelos dois regimes militares. “Tanto na Argentina como no Brasil a gente tem um avanço sistemático gigantesco da transmissão de copa do mundo na TV naquele período. A transmissão no Brasil, em 70, é a primeira ao vivo e na Argentina você tinha um processo de criação de um novo espaço de transmissões”, adiciona o professor. </p><p>Termo usado para se falar sobre o uso das modalidades esportivas por corporações ou governos com o objetivo de melhorar a sua imagem externa, o <em>sportswashing </em>não é uma prática exclusiva de um só grupo. Com o esporte alcançando novos patamares, a diferença entre investimento e abuso governamental é determinada por quem possui o maior número de ouvintes.</p><p><em>Mayara Rocha — 4º Período</em></p><p><em>*Produto produzido para a disciplina de Jornalismo online, sob a supervisão da professora Michele Vieira</em>.</p></main>"
+  },
+  "date": "2023-11-22T18:26:44",
+  "date_gmt": "2023-11-22T21:26:44",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A estratégia de limpeza de imagem se popularizou devido ao alto investimento dos países orientais no esporte, mas não são os únicos a utilizá-la. Nos períodos de outubro de 2021 e novembro de 2022 o termo sportswashing virou um assunto em comum para aqueles que veem o futebol além das quatro linhas do campo. O [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16343"
+  },
+  "id": 16343,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4fB",
+  "link": "https://agenciauvabarra.com/2023/11/22/o-oriente-medio-e-o-unico-praticante-do-sportswashing/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": true,
+    "jetpack_publicize_feature_enabled": false,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-11-22T18:29:47",
+  "modified_gmt": "2023-11-22T21:29:47",
+  "ping_status": "open",
+  "slug": "o-oriente-medio-e-o-unico-praticante-do-sportswashing",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056609,
+    767056611,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Oriente Médio é o único praticante do &#8220;sportswashing&#8221;?"
+  },
+  "type": "post"
+}

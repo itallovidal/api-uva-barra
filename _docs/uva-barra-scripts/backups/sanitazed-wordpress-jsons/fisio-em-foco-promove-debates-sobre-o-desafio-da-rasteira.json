@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6555/revisions/6567",
+        "id": 6567
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6555"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6555",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6555/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6555"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6556"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6555",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6555",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6555",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Professores de Fisioterapia do campus Barra realizaram uma mesa-redonda virtual para discutir os perigos desse desafio que viralizou na internet</em></p><p>O curso de Fisioterapia, da Universidade Veiga de Almeida (UVA), promoveu o evento Fisio em Foco no dia 28 de abril com debates realizados virtualmente. A conferência aconteceu com o coordenador do curso Yves de Souza e os professores Marina Fortuna e Igor Brauns acerca de uma “brincadeira” que ficou conhecida na internet como Desafio da Rasteira.</p><p>Os vídeos desse jogo viralizaram este ano e foram amplamente compartilhados. Acontece da seguinte forma: três pessoas se posicionam lado a lado, a pessoa que se encontra no meio pula e as duas pessoas as extremidades golpeiam pelas pernas quem se encontra no meio a fim de derrubá-la. Além dos compartilhamentos, a ação também ganhou notoriedade por provocar lesões graves e óbitos.</p><p>O desafio é feito majoritariamente por pré-adolescentes que passam pelas transformações corporais e trouxe um alerta para pais, escolas e profissionais da área da saúde. A professora Marina Fortuna se preocupa com as consequências dessa atividade para a vida desses jovens. “Para que haja lesão tem que ser realmente um impacto de alta intensidade, como acontece no desafio da rasteira”, contou. Já o professor e coordenador do curso de fisioterapia, Yves de Souza, alerta para os perigos que o impacto pode causar no aparelho respiratório. “A queda pode provocar diversas lesões pulmonares graves”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-1-2.jpeg\" alt=\"\" width=\"1280\" height=\"853\" /><figcaption>Yves de Souza, coordenador do curso de Fisioterapia e mediador do debate Fisio em Foco do dia 28 de abril de 2020 – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-2-1.jpeg\" alt=\"\" width=\"1007\" height=\"1280\" /><figcaption>A mestre e professora de fisioterapia, Marina Fortuna, palestrou no evento Fisio em Foco dando ênfase na área de neurologia, sua especialidade – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-3.jpeg\" alt=\"\" width=\"243\" height=\"382\" /><figcaption>Igor Brauns, mestre e professor da Universidade Veiga de Almeida, deu início aos debates sobre o Desafio da Rasteira, tema central do evento Fisio e Foco – Foto: Arquivo Pessoal</figcaption></figure><p>A viralização de vídeos nas redes sociais expõe outros problemas que vão além da fisioterapia. Para o professor Igor Brauns, a internet é utilizada de maneira equivocada. “A gente encontra diversas vezes a necessidade de rir do outro e não rir com o outro. Isso é uma alteração de comportamento. Por que não criar uma brincadeira sem constranger o outro?”, disse Brauns.</p><p>O Fisio em Foco durou cerca de duas horas e contou com mais de 70 participantes. Segundo o coordenador Yves de Souza, o evento será mensal trazendo temas diversos e sem focar no coronavírus. “Por mais que esse seja o momento da fisioterapia se destacar na parte respiratória, a fisioterapia não se resume em tratar covid-19. Não é o momento”.</p><p><strong>Rafaela Barbosa – 7° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-01T14:16:35",
+  "date_gmt": "2020-05-01T17:16:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Professores de Fisioterapia do campus Barra realizaram uma mesa-redonda virtual para discutir os perigos desse desafio que viralizou na internet O curso de Fisioterapia, da Universidade Veiga de Almeida (UVA), promoveu o evento Fisio em Foco no dia 28 de abril com debates realizados virtualmente. A conferência aconteceu com o coordenador do curso Yves de [&hellip;]</p>\n"
+  },
+  "featured_media": 6556,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6555"
+  },
+  "id": 6555,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-1-2.jpeg?fit=1280%2C853&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1HJ",
+  "link": "https://agenciauvabarra.com/2020/05/01/fisio-em-foco-promove-debates-sobre-o-desafio-da-rasteira/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-01T16:23:56",
+  "modified_gmt": "2020-05-01T19:23:56",
+  "ping_status": "open",
+  "slug": "fisio-em-foco-promove-debates-sobre-o-desafio-da-rasteira",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Fisio em Foco promove debates sobre o desafio da rasteira"
+  },
+  "type": "post"
+}

@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8881/revisions/9991",
+        "id": 9991
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8881"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8881",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 18,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8881/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8881"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8896"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8881",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8881",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    1899315,
+    17964,
+    18330,
+    670411728,
+    14591
+  ],
+  "class_list": [
+    "post-8881",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-educacao",
+    "category-institucional",
+    "category-institucional-uva",
+    "category-trabalho",
+    "tag-informacao-que-transforma"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Histórias de como o ensino superior está além da sala de aula</p><p>O Jornal Nacional faz mais uma atualização do número de infectados pela Covid-19 que encerra no “boa noite” vazio do jornalista. Em seguida, a novela “Amor de Mãe” mostra a esperança infinita de uma mãe em busca de um filho perdido. O público do BBB já aguarda ansioso pelas novidades da casa mais vigiada do Brasil. Nos mercados, é possível ver ovos de páscoa reluzentes e caros. O mês de março de 2021 é o retrato de um futuro que repete o passado do ano que se foi. </p><p>O cenário descrito poderia ser sobre 2020 ou 2021 sem que causasse estranheza ao leitor. Apesar de separados por mais de 365 dias, o Brasil ainda enfrenta os desafios provocados pela Covid-19. Entretanto, muita coisa mudou de lá pra cá. O brasileiro aprendeu sobre N95, RT-PCR, cepas, distanciamento social e níveis de eficácia da vacina. </p><p>O país se prepara para os desafios que tem pela frente. Na educação não poderia ser diferente. Professores e alunos reúnem o que aprenderam ao longo do ano de 2020 para repensar o futuro. </p><h3>É tudo pra ontem </h3><p>A educação foi uma área bastante afetada pela pandemia. Milhares de alunos tiveram que se adaptar com a virtualização das aulas. Na Universidade Veiga de Almeida, funcionários se organizaram desde o início para manter as atividades e em quinze dias a sala de aula física abriu espaço para milhares de novas salas, cada um em sua casa, mas sem perder a empatia pelo momento. Beatriz Balena, reitora da UVA, foi uma das responsáveis por isso. </p><figure class=\"aligncenter size-large\"><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/balena.jpg?fit=805%2C536&amp;ssl=1\" alt=\"balena\" width=\"805\" height=\"536\" /><figcaption>Beatriz Balena acredita que a Universidade deve ser um local de formação profissional e pessoal. Foto: reprodução da internet </figcaption></figure><p>Beatriz se comprometeu em realizar reuniões com os alunos para ouvi-los, entender os problemas e buscar soluções. Uma das medidas adotadas é a assistência psicológica gratuita para funcionários e estudantes através da marcação na área de psicologia e do setor de recursos humanos. O objetivo é minimizar os efeitos negativos da pandemia na saúde mental de quem faz parte do time UVA. A ação beneficia quem precisa de tratamento e ajuda a formar o futuro profissional para o mercado.</p><p>Outra novidade é a parceria da Universidade com a plataforma Workalove. A iniciativa foi anunciada na live inaugural do período de 2021.1 com Fernanda Verdolin, CEO da Workalove. Para Beatriz Balena, essa parceria é um marco da sua administração. “É isso que a minha gestão como um todo e a política institucional está comprometida: com o sucesso do nosso estudante” </p><p><strong>Ouça o áudio de Beatriz Balena sobre a parceria da UVA + WorkaLove</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1010677216&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Beatriz Balena fala sobre a parceria da UVA + WorkaLove\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Entre as lições que ela leva para o futuro, o aprendizado que teve nesses mais de 365 de gerenciamento de crise foi o mais importante. Além de ter que manter a equipe alinhada, ela teve que repensar a forma de gerir, uma vez que planejamentos a longo prazo já não eram viáveis. </p><blockquote><p><em>“A gente aprendeu muita coisa. Principalmente, a gente aprendeu que planejamento e liderança se faz com pessoas e não para pessoas” </em></p><cite><em>Beatriz Balena</em></cite></blockquote><p>Beatriz teve que liderar a UVA durante a pandemia que ainda segue presente na rotina do brasileiro. Ela não fez isso sozinha, foi preciso manter outros membros da equipe engajados em manter todas as engrenagens funcionando. </p><h3><strong>Cale o cansaço, refaça o laço</strong></h3><p>Manter todos os professores e alunos unidos foi uma tarefa que a Diretora Acadêmica do campus Barra, Nara Iwata, teve que enfrentar, mas não foi o único desafio. Nara mantinha um relacionamento próximo com os alunos e o campus, mas teve que reinventar essa relação.</p><blockquote><p><em>“O campus Barra era praticamente minha primeira casa. Ter que sair de lá, ficar 6 meses sem voltar e agora voltar esporadicamente é muito estranho. É como se eu tivesse sido tirada de casa.” </em></p><cite><em>Nara Iwata</em></cite></blockquote><p>Nara foi testemunha do que as pessoas são capazes de fazer quando usam da empatia. Segundo ela, esse foi o grande ensinamento desse período. “Houve uma empatia entre alunos e professores que nunca se viram presencialmente. A gente se tornou mais próximo dos outros”, disse. </p><figure class=\"aligncenter size-large\"><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/nara.jpeg?fit=640%2C640&amp;ssl=1\" alt=\"nara\" width=\"640\" height=\"640\" /><figcaption>Nara sofreu com o distanciamento social, mas viu surgir durante a pandemia a união entre alunos e professores. Foto: arquivo pessoal</figcaption></figure><p><strong>Ouça o áudio de Nara sobre a aproximação que ocorreu na virtualização. </strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1010678614&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Nara fala sobre a aproximação que ocorreu na virtualização.\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Do sentimento de sair de casa, a Diretora Acadêmica do campus Barra se viu diante de um fenômeno que aconteceu diante das telas de computador e smartphones que pode ser resumido em uma palavra: ubuntu, vocábulo de origem Zulu que significa “sou o que sou pelo que nós somos”. </p><h3><strong>Partir, voltar e repartir</strong></h3><p>A pandemia trouxe a empatia e a solidariedade como pautas cotidianas. Alunos e professores utilizaram desses sentimentos aflorados para manter projetos em andamento e reformular a atuação. </p><p>A professora Carla Moura, do curso de Direito do Campus Barra, coordena um projeto que tinha como missão fazer valer a um dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU que visa o acesso à água limpa e saneamento. Além disso, ela lidera NUPPS – núcleo de pesquisas e práticas sustentáveis da UVA Barra e comanda uma ação coletiva chamada “Multiplicando Amor” que atua no amparo de vulneráveis</p><p>Nenhuma atividade foi paralisada. O projeto da ODS 6 virtualizou todas as ações e conseguiu manter a comunidade do Terreirão, onde atua, engajada. O “Multiplicando Amor” segue com ações pela cidade e já conseguiu enviar ajuda para outros lugares do Brasil. O NUPPS se atualizou e propôs eventos e debates multidisciplinares sobre sustentabilidade. Em cada projeto, havia a vontade de Carla e dos estudantes de manter as atividades, apesar de tudo. </p><blockquote><p><em>“Esse apoio grupal e as possibilidades que a tecnologia nos oferece foram fundamentais para que pudéssemos continuar fazendo tudo o que acreditamos que pode transformar o mundo através da empatia e da solidariedade” </em></p><cite><em>Carla Moura</em></cite></blockquote><p>Beatriz teve que liderar a UVA durante a pandemia que ainda segue presente na rotina do brasileiro. Ela não fez isso sozinha, foi preciso manter outros membros da equipe engajados em manter todas as engrenagens funcionando. </p><p>Paulo Marcio, é um desses alunos de Carla. Ele fez parte do NUPPS e ajudou na continuação do projeto virtualizado. Para Paulo, as lições que 2020 deixou serão colocadas em prática a partir de agora. </p><blockquote><p><em>“Fazer com que as coisas realmente valham a pena, é o que eu espero na minha vida como um todo. Poder pegar todas essas lições, tudo que eu aprendi com todos esses desafios que foram enfrentados em 2020 e poder colocar tudo isso em prática e fazer valer a pena” </em></p><cite><em>Paulo Marcio </em></cite></blockquote><p>Paulo faz parte de um grupo de alunos que comprou a ideia de tornar o mundo um lugar melhor. Juliana Severo Lopes Prado, aluna egressa do curso de psicologia, fez parte da Comissão Organizadora da V Feira de Práticas Sustentáveis. Durante a Feira, ela ainda era aluna e viveu na prática os desafios de ter que repensar um evento virtualmente. </p><blockquote><p><em>“Foi uma experiência muito boa! Tivemos que nos adaptar e nos reinventar, encontrar a força e a coragem na dor e seguir em frente. Essa lição ninguém ensina, além da vida” </em></p><cite><em>Juliana Severo.</em></cite></blockquote><p>A V Feira de Práticas Sustentáveis foi organizada pela professora Lurdes Domingos. A feira teve como tema “2020, o ano do distanciamento social: Lições, Reflexões e Ações”, trazendo o contexto pandêmico para o centro dos debates. Ela já planeja a próxima edição que vai trazer um debate sobre o futuro a partir de uma perspectiva de pandemia. </p><p><strong>Ouça o áudio de Lurdes Domingos sobre as expectativas para a próxima Feira de Práticas Sustentáveis</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1010678938&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Lurdes Domingos fala sobre as expectativas para a próxima Feira de Práticas Sustentáveis\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Olhar para o amanhã não é tarefa fácil. A reflexão sobre os dias e ensinamentos se faz necessária para que não se cometam os mesmos erros. De olho no futuro, alunos, professores, coordenadores e a reitoria se preparam para levar para os próximos anos tudo o que aprenderam nesse um ano de pandemia no Brasil. </p><h3><strong>Sujeito de sorte </strong></h3><p>A música de Belchior chamada “Sujeito de sorte” traz a narrativa de alguém que sofreu, mas é grato por seguir vivo. Um dos versos voltou a ser compartilhado por conta de uma releitura do rapper Emicida, a música diz “ano passado eu morri, mas esse ano eu não morro”. No ano de 2021, o verso de Belchior extrapola a licença poética para uma realidade brutal. O Brasil vive um momento crítico e talvez o pior momento na pandemia. Ainda assim, funcionários e estudantes seguem as atividades. A reitora Beatriz Balena acredita que o cenário atual faz com que a universidade seja também um local de formação de humanidade. </p><p><strong>Assista ao vídeo de Beatriz Balena sobre a Universidade como local de experiências</strong></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/carla-moura-4-atuacao-em-escolas-publicas-antes-da-pandemia.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\" /><figcaption>Atuação em escolas públicas antes da pandemia em projeto ministrado pela professora Carla Moura. Foto: arquivo pessoal.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/carla-moura-5-planejamento-nupps.jpeg?resize=1080%2C1080&amp;ssl=1\" alt=\"\" width=\"1080\" height=\"1080\" /><figcaption>Planejamento do NUPPS durante a pandemia. Foto: arquivo pessoal </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/carla.jpeg?resize=1280%2C934&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"934\" /><figcaption>A professora Carla Moura seguiu com os projetos mesmo durante a pandemia e teve que se reinventar junto dos alunos. Foto: arquivo pessoal </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/lurdes.png?resize=1366%2C768&amp;ssl=1\" alt=\"\" width=\"1366\" height=\"768\" /><figcaption>Lurdes Domingos trouxe o tema da pandemia com reflexões e debates para a Feira de Práticas Sustentáveis. Na edição 2021, o a feira deve pautar o futuro pós-pandemia. Foto: reprodução da internet. </figcaption></figure><figure><img src=\"https://www.youtube.com/embed/NKBa7O--Nl8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" alt=\"\" width=\"640\" height=\"360\" /><figcaption><em>“Às vezes a felicidade e a alegria estão em pequenos prazeres ao longo da nossa vida” Beatriz Balena </em></figcaption></figure><p>Dificilmente alguém poderia imaginar que de março de 2020 a março de 2021 o país enfrentasse tantos desafios. Os pequenos prazeres que Beatriz ressalta foram capazes de manter a vida possível para algumas pessoas. Desvendar que março de 2022 pode trazer é tarefa fadada ao fracasso. Enquanto isso não acontece, alunos e professores seguem as atividades na esperança de construir hoje as mudanças que querem para o futuro. </p><p></p><p><em>Rafaela Barbosa – 8º período </em></p></main>"
+  },
+  "date": "2021-03-18T18:52:32",
+  "date_gmt": "2021-03-18T21:52:32",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Jornal Nacional faz mais uma atualização do número de infectados pela Covid-19 que encerra no “boa noite” vazio do jornalista. Em seguida, a novela “Amor de Mãe” mostra a esperança infinita de uma mãe em busca de um filho perdido. O público do BBB já aguarda ansioso pelas novidades da casa mais vigiada do Brasil. Nos mercados, é possível ver ovos de páscoa reluzentes e caros. O mês de março de 2021 é o retrato de um futuro que repete o passado do ano que se foi. </p>\n"
+  },
+  "featured_media": 8896,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=8881"
+  },
+  "id": 8881,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/agencia-uva-barra_-laboratorio-reproduz-a-rotina-jornalistica-na-faculdade-3.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2jf",
+  "link": "https://agenciauvabarra.com/2021/03/18/qual-a-mudanca-hoje-voce-quer-para-o-futuro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-03-19T11:07:20",
+  "modified_gmt": "2021-03-19T14:07:20",
+  "ping_status": "open",
+  "slug": "qual-a-mudanca-hoje-voce-quer-para-o-futuro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    716365606
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Qual a mudança hoje você quer para o futuro?"
+  },
+  "type": "post"
+}

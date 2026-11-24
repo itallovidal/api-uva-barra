@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1126/revisions/3313",
+        "id": 3313
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1126"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1126",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1126/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1126"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1126",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1126",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1126",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Ex-aluna da UVA volta à faculdade para compartilhar sua experiência, na Semana de Psicologia</h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/foto-sorriso.jpg?resize=1920%2C1080&amp;ssl=1\" alt=\"foto sorriso\" width=\"1920\" height=\"1080\"><figcaption>Fotografia: Guilherme Honrado</figcaption></figure><p>A Mesa Redonda, que aconteceu no segundo dia da XXI Semana de Psicologia, na Universidade Veiga de Almeida (UVA) do Campus Barra, recebeu a autora do livro “Um Caso de Hemodiálise: a importância do atendimento no setting hospitalar”, Ana Paula Barreto, Pós-graduada em Psicologia Hospitalar pela UVA. O evento também teve a presença das professoras do curso de psicologia, Ana Carolina Feitosa e Lucia Helena Jorge, que possibilitou um bate papo com o público.</p><p>Essa troca de experiência com ex-alunos, que já estão inseridos no mercado de trabalho, é fundamental para que os universitários se sintam estimulados e representados para seguir com a carreira. Ana Paula publicou sua monografia como livro e isso inspirou os estudantes, como foi o caso do David Santos, do 6º período de Psicologia, que acompanhou a visão da pós-graduanda. “Foi algo mais próximo! Ela é jovem e já está publicando um livro, faz com que a gente perceba nosso valor”, enfatiza David.</p><p>Durante a palestra, a autora compartilhou algumas histórias que vivenciou dentro do setting hospitalar, local onde pôde exercer atendimento e apoio para as pessoas. Esse setor não recebe a atenção necessária, o que atrapalha a evolução do paciente que precisa de um acompanhamento psicológico para uma melhor qualidade de vida. A universitária, Mônica Ramos, do 6º período de Psicologia, não conhecia muito sobre a área e ficou entusiasmada. “Eu não cogitava essa área, achei um setor apaixonante! É incrível a leveza e propriedade que ela demonstrou sobre sua experiência”, reconhece.</p><p>Um fator conflitante, segundo a psicóloga, é a constante luta de quebrar paradigmas. “Saber se impor como psicóloga e mostrar que o nosso trabalho é fundamental para criar um ambiente harmonioso e assim diminuir a hostilidade, pois muitos não entendem nossa importância”. O livro busca chamar atenção para o setting de atendimento, que permite que o paciente elabore questões e coloque palavras em seu sofrimento, na expectativa de compreender e superar a situação física ou mental.</p><p>A professora, Ana Carolina, acompanhou o processo da monografia e da publicação do exemplar, também ajudou a organizar a mesa de debate e outros programas do evento. “É uma semana que podemos pensar no trabalho do psicólogo e em suas diferentes vertentes, mostrar como esse campo é rico e delicado”, declara. A XXI Semana de Psicologia termina neste sábado (02/09) com a psicanalista argentina Patricia Gherovici, que terá uma conversa sobre identidade de gênero.</p><p>Giovanna Faria, 5º período e Isabelle Amancio, 4º período.</p></main>"
+  },
+  "date": "2017-09-01T09:29:37",
+  "date_gmt": "2017-09-01T12:29:37",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ex-aluna da UVA volta à faculdade para compartilhar sua experiência, na Semana de Psicologia A Mesa Redonda, que aconteceu no segundo dia da XXI Semana de Psicologia, na Universidade Veiga de Almeida (UVA) do Campus Barra, recebeu a autora do livro “Um Caso de Hemodiálise: a importância do atendimento no setting hospitalar&#8221;, Ana Paula Barreto, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1126"
+  },
+  "id": 1126,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-ia",
+  "link": "https://agenciauvabarra.com/2017/09/01/de-ex-aluno-para-aluno/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:41:51",
+  "modified_gmt": "2019-02-28T19:41:51",
+  "ping_status": "open",
+  "slug": "de-ex-aluno-para-aluno",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "De ex-aluno para aluno"
+  },
+  "type": "post"
+}

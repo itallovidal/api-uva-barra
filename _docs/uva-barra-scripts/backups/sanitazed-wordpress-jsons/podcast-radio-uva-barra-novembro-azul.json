@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16373/revisions/16377",
+        "id": 16377
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16373"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16373",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16373/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16373"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16376"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16373",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16373",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    701438832,
+    72064
+  ],
+  "class_list": [
+    "post-16373",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-radio-uva-barra",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-jornalismo",
+    "tag-novembro-azul",
+    "tag-podcast",
+    "tag-radio-uva-barra",
+    "tag-saude",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O câncer de próstata é um dos tipos mais comuns da doença, e afeta principalmente homens mais velhos. Neste programa, os repórteres Mariana Moura e Viniciuz Zakhm abordam as formas de tratamento e prevenção desse câncer.</p><p>O podcast conta também com explicação especializada de urologista e depoimento de paciente que já teve câncer de próstata.</p><figure><iframe title=\"Spotify Embed: Podcast Rádio UVA Barra: Novembro Azul\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6dTNpFdgCBX7r7iLg5sgeh?utm_source=oembed\"></iframe></figure><p><em>Mariana Moura — 6° Período</em></p></main>"
+  },
+  "date": "2023-11-27T16:56:33",
+  "date_gmt": "2023-11-27T19:56:33",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O câncer de próstata é um dos tipos mais comuns da doença, e afeta principalmente homens mais velhos. Neste programa, os repórteres Mariana Moura e Viniciuz Zakhm abordam as formas de tratamento e prevenção desse câncer. O podcast conta também com explicação especializada de urologista e depoimento de paciente que já teve câncer de próstata. [&hellip;]</p>\n"
+  },
+  "featured_media": 16376,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16373"
+  },
+  "id": 16373,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/11/fita-nov-azul.jpg?fit=626%2C417&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4g5",
+  "link": "https://agenciauvabarra.com/2023/11/27/podcast-radio-uva-barra-novembro-azul/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-11-27T16:56:33",
+  "modified_gmt": "2023-11-27T19:56:33",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-novembro-azul",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056611,
+    121767804,
+    1142,
+    767056638,
+    767056622,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Novembro Azul"
+  },
+  "type": "post"
+}

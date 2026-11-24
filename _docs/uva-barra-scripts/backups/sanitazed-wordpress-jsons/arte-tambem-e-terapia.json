@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1224/revisions/3292",
+        "id": 3292
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1224"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1224",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1224/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1224"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1224",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1224",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1224",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Encontro com profissionais e alunos da área terapêutica abre um novo caminho por meio de técnicas artísticas</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/whatsapp-image-2017-09-04-at-15-01-08.jpeg?resize=1280%2C720&amp;ssl=1' alt='WhatsApp Image 2017-09-04 at 15.01.08' width='1280' height='720' /><figcaption>Foto: Ana Carolina Marinho</figcaption></figure><p>Os sentimentos e pensamentos podem ser expressados na arte. Na última sexta-feira (01/09), XXI Semana da Psicologia, na Universidade Veiga de Almeida (UVA), do Campus Barra, a convidada Danielle Bittencourt, compartilhou com alunos e alguns profissionais da área, sobre o uso de um processo terapêutico por meio da arte. Danielle é diretora e professora do curso de Formação Profissional em Arteterapia, que leva o seu nome. Graduada em Belas Artes pela Universidade Estadual de Santa Catarina (UDESC/SC), e em Psicologia pela UVA, a profissional retorna à universidade para uma palestra.</p><p>Com 20 anos de trabalho na Arteterapia, a psicóloga conta como é esse tratamento e a aplicação nas pessoas. Segundo ela, Arteterapia é um processo terapêutico que se distingue como método de tratamento psicológico, utilizando os recursos da arte. Do simbolismo e das metáforas em sua intervenção. “Eu procuro deixar alguns materiais, como folhas em branco, argila e outros itens para colagem ou pintura, com a intenção de ver o que o paciente tem a expressar”, declara.</p><p>Em contrapartida, a palestrante explica que a diferença entre a terapia convencional para Arteterapia está no uso da arte. “ É necessário primeiro acessar o conteúdo do inconsciente e trazê-lo para o consciente, para logo em seguida, entrar a parte escrita, no caso, minhas interpretações sobre esses desenhos”. Por conta dessa metodologia, a profissional decidiu ir em busca de algo a mais. “Um dia olhando o jornal eu vi a palavra Arteterapia, a hora que eu olhei bateu, é isso que eu quero”.</p><p>Com isso, ela começou a estudar e fez pós-graduação em Psicoterapia Junguiana, técnicas que fazem a análise e compreensão do ser humano. “Mas o meu foco é Arteterapia, acredito que ela tem o poder de transformação muito grande”. Não é à toa que o trabalho com o público infantil, está inovando o processo terapêutico, que antes só tinha espaço para os adultos. A psicóloga afirmou também que a participação dos pais em paralelo nesse processo é fundamental.</p><p>Quem também concorda com essa técnica é a estudante do curso de Psicologia, Larissa Furtado, do 10° período. “ A palestra me possibilitou conhecer essa nova área dentro do meu curso, apesar de nunca ter tido contado com esse tema antes. É algo que penso futuramente em seguir”. Já para Antônio Victor, aluno do 10º período, a experiência foi diferente. “ Como já tinha um conhecimento prévio, fui em busca de mais instruções, e saber a importância dos desenhos e das artes foi o diferencial”, conclui.</p><p>Karina de Figueiredo Lino, 3º período e Ana Carolina Marinho, 4º período.</p></main>"
+  },
+  "date": "2017-09-04T15:08:37",
+  "date_gmt": "2017-09-04T18:08:37",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Encontro com profissionais e alunos da área terapêutica abre um novo caminho por meio de técnicas artísticas Os sentimentos e pensamentos podem ser expressados na arte. Na última sexta-feira (01/09), XXI Semana da Psicologia, na Universidade Veiga de Almeida (UVA), do Campus Barra, a convidada Danielle Bittencourt, compartilhou com alunos e alguns profissionais da área, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1224"
+  },
+  "id": 1224,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-jK",
+  "link": "https://agenciauvabarra.com/2017/09/04/arte-tambem-e-terapia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:22:34",
+  "modified_gmt": "2019-02-28T19:22:34",
+  "ping_status": "open",
+  "slug": "arte-tambem-e-terapia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Arte também é terapia"
+  },
+  "type": "post"
+}

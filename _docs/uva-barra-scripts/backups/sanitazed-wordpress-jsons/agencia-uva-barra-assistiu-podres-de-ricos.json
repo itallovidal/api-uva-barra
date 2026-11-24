@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2547/revisions/2548",
+        "id": 2548
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2547"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2547",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2547/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2547"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2546"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2547",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2547",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2547",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-cinema",
+    "tag-podres-de-ricos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/images-1601885373.jpg?resize=247%2C333&amp;ssl=1' alt='Foto: Divulgação' width='247' height='333' /><figcaption>Foto: Divulgação</figcaption></figure><p>Imagina um romance de contos de fadas. Agora adiciona um grupo de asiáticos bilionários da alta sociedade de Singapura, muita fofoca, parentes esnobes, uma sogra preconceituosa e uma mocinha que cai de paraquedas em meio a isso, sem a menor ideia do que está acontecendo. Essa é a premissa por trás de “Podres de Ricos” – filme que traz na bagagem aquilo que todo amante de comédia romântica adora: amor, diversão e uma pitada de confusão.</p><p>Quando Rachel Chu (Constance Wu) – professora universitária – aceita viajar com seu namorado, Nick Young (Henry Golding), para celebrar um casamento e finalmente conhecer sua família, ela deixa a expectativa tomar conta. Nick só esqueceu de avisar que é parte da família mais importante de Singapura e herdeiro multimilionário – o que faz a origem simples de Rachel transformá-la em uma interesseira aos olhos de todos, inclusive da pessoa a quem ela mais queria agradar: Eleanor Young (Michelle Yeoh), mãe de Nick.<br />Adaptação do Best-Seller do autor Kevin Kwan, “Podres de Ricos” é um sopro de ar fresco na indústria Hollywoodiana. Com locação e elenco inteiramente asiáticos, a incorporação da língua chinesa durante o longa e uma trilha sonora com direito a uma versão chinesa de Yellow da banda britânica Coldplay, o filme foi capaz de acentuar a cultura oriental sem perder o foco da história e virar um “chama turista” – embora tenha dado uma vontade imensa de conhecer Singapura após assistir.<br>Os elementos clássicos do gênero ganham novos significados e a história é trabalhada de forma leve, porém buscando profundidade: existe a abordagem de questões como xenofobia, hierarquização de classes e até mesmo um cenário de empoderamento, onde a mulher detém o maior poder aquisitivo no relacionamento e como isso afeta o casal. Outro ponto positivo é o aproveitamento dos personagens secundários. Há ainda a beleza de cenas como a do casamento e a carga sentimental do acerto de contas entre Rachel e Eleanor. Para os fãs do gênero, é difícil não se emocionar.<br>Alguns elementos ganharam certa atenção, mas não foram explicados – como o jogo de tabuleiro. Algumas pessoas podem ficar um tanto perdidas nessa parte. Pontas soltas aqui e ali, e o aparecimento silencioso do ator Harry Shum Jr. na cena pós créditos provavelmente serão resolvidos na sequência que já foi confirmada!<br>“Podres de Ricos” chega ao Brasil nesta quinta-feira (25), mas já tem uma boa repercussão nas bilheterias americanas, já que o longa estreou em agosto por lá.</p><p><strong>Julia Morais – 6° período</strong></p></main>"
+  },
+  "date": "2018-10-24T16:03:54",
+  "date_gmt": "2018-10-24T19:03:54",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Imagina um romance de contos de fadas. Agora adiciona um grupo de asiáticos bilionários da alta sociedade de Singapura, muita fofoca, parentes esnobes, uma sogra preconceituosa e uma mocinha que cai de paraquedas em meio a isso, sem a menor ideia do que está acontecendo. Essa é a premissa por trás de “Podres de Ricos” [&hellip;]</p>\n"
+  },
+  "featured_media": 2546,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/2018/10/24/agencia-uva-barra-assistiu-podres-de-ricos/"
+  },
+  "id": 2547,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/images-1601885373.jpg?fit=215%2C290&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-F5",
+  "link": "https://agenciauvabarra.com/2018/10/24/agencia-uva-barra-assistiu-podres-de-ricos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-10-25T15:58:18",
+  "modified_gmt": "2018-10-25T18:58:18",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-podres-de-ricos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056592,
+    71425502
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: “Podres de Ricos”"
+  },
+  "type": "post"
+}

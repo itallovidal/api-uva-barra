@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5741/revisions/5759",
+        "id": 5759
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5741"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5741",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5741/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5741"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5752"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5741",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5741",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    407146
+  ],
+  "class_list": [
+    "post-5741",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-exposicao",
+    "tag-agencia-uva-barra",
+    "tag-palacio-rio-negro",
+    "tag-petropolis",
+    "tag-quero-meu-corpo-de-volta"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Exposição retrata as mudanças corporais do homem através da arte</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/imagem-6-2.jpg?resize=2048%2C1152&amp;ssl=1' alt='' width='2048' height='1152' /><figcaption>A instalação \"Padrão Líquido\", de Fernanda Medeiros, traz potes de vidro com partes de boneca – Foto: Paula Guaraldo </figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/imagem-7.jpg?resize=2048%2C1152&amp;ssl=1' alt='' width='2048' height='1152' /><figcaption>Duo escultório, de Isabela Frade, mostra detalhes do corpo humano – Foto: Paula Guaraldo </figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/imagem-2-2.jpg?resize=720%2C478&amp;ssl=1' alt='' width='720' height='478' /><figcaption>Alguns dos artistas que compõe a exposição no Palácio Rio Negro, em Petrópolis – Foto: Paula Guaraldo </figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/imagem-1-2.jpg?resize=720%2C478&amp;ssl=1' alt='' width='720' height='478' /><figcaption>A curadora Rosa Damasceno Paranhos – Foto: Paula Guaraldo </figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/imagem-3-2.jpg?resize=720%2C962&amp;ssl=1' alt='' width='720' height='962' /><figcaption>Alunos do colégio estadual Pedro ll acompanham visita guiada – Foto: Paula Guaraldo </figcaption></figure><p>Dezessete artistas estão com obras reunidas no Museu Palácio Rio Negro, em Petrópolis, para a exposição \"Quero meu corpo de volta\". Com curadoria da historiadora e artista plástica Rosa Damasceno Paranhos, a exposição  permite que o visitante reflita sobre o processo de transformação do corpo humano através de esculturas, imagens e gravuras.  </p><p>A curadora diz que a ideia é mostrar o corpo como uma construção social, além de estimular o pensamento para uma reflexão. \"Identificamos traços da personalidade de cada indivíduo e isso é o que chamamos de construção cultural, corporal. Este corpo que nos referimos, não só se constitui de um elemento físico,  mas também como um corpo ideológico\", explica Rosa. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/imagem-5-2.jpg?resize=611%2C343&amp;ssl=1' alt='' width='611' height='343' /><figcaption>Xilogravuras, de Rene Bessa, destacam partes do corpo humano para um olhar crítico e reflexivo – Foto: Paula Guaraldo </figcaption></figure><p>O professor Eduardo d’Andrea conta que a visita foi enriquecedora. \"Eu gostei de ver os jovens interessados e abertos para receber mais conhecimentos. Essa análise crítica é muito importante neste processo de formação pelo qual eles estão passando\", comenta. </p><p>Com entrada gratuita, a mostra fica em cartaz até o dia 23 de novembro, no Palácio Rio Negro. O horário de funcionamento é de terça-feira a domingo, das 10h às 18h.  Desde o lançamento, há menos de um mês, mais de mil pessoas já prestigiaram a exposição.  </p><p><strong>Paula Guaraldo – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-24T16:01:51",
+  "date_gmt": "2019-10-24T19:01:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Exposição retrata as mudanças corporais do homem através da arte Dezessete artistas estão com obras reunidas no Museu Palácio Rio Negro, em Petrópolis, para a exposição “Quero meu corpo de volta”. Com curadoria da historiadora e artista plástica Rosa Damasceno Paranhos, a exposição permite que o visitante reflita sobre o processo de transformação do corpo [&hellip;]</p>\n"
+  },
+  "featured_media": 5752,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5741"
+  },
+  "id": 5741,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/imagem-6-2.jpg?fit=2048%2C1152&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1uB",
+  "link": "https://agenciauvabarra.com/2019/10/24/o-corpo-como-construcao-da-identidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-24T16:23:38",
+  "modified_gmt": "2019-10-24T19:23:38",
+  "ping_status": "open",
+  "slug": "o-corpo-como-construcao-da-identidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    49497792,
+    1542906,
+    179125864
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O corpo como construção da identidade"
+  },
+  "type": "post"
+}

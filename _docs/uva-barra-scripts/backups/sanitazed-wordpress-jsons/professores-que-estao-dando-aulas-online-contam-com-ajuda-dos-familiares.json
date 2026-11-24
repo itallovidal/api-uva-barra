@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7451/revisions/7456",
+        "id": 7456
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7451"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7451",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7451/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7451"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7454"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7451",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7451",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    703299214
+  ],
+  "class_list": [
+    "post-7451",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Com a atual situação no país devido ao Covid-19, e com todas as instituições de ensino fundamental fechadas, pais e professores vêm tentando se adequar à nova forma de aprendizado: a virtual. Enquanto os responsáveis readaptam maneiras de ensinar e entreter seus filhos em casa, os docentes desenvolvem novos métodos incluindo cada vez mais a ajuda dos familiares nas atividades.</p><p>A história de Adriana Janaina de Moura Sabino, de 35 anos, ilustra esta realidade. A dona de casa conta que tem passado por dificuldades em relação à nova rotina de estudos de seu filho Pedro, de 7 anos, que está no 2º ano do Ensino Fundamental. Sobre o que tem feito para passar o tempo, ela conta que o filho gosta de jogar e assistir a filmes online. A mãe diz que também introduziu alguns dos jogos que costumava brincar quando criança, como forca e jogo da velha.</p><p>Adriana se dedica a manter seu filho distraído, tenta manter uma rotina de estudos com Pedro, já que ele tem tido dificuldades em se concentrar nas aulas virtuais. “Aa escola oferece aulas online, mas estou achando mais eficiente eu mesma fazer a explicação, pois mesmo assistindo às aulas preciso explicar novamente, o que estava se tornando cansativo e desanimando ainda mais”, acrescenta ela.</p><p>O mesmo pensa a designer junior Gabriela Cartaxo Sabino da Silva, de 34 anos. Pelo fato de seu filho Bernardo, de 7 anos, ter Transtorno de Déficit de Atenção e Hiperatividade (TDAH), relata que assistir às aulas virtuais só demandava tempo, pois, no fim, ela tinha que explicar tudo de novo. Gabriela preferiu readaptar as aulas usando somente o livro. “Faço isso no tempo dele e no meu, separando no mínimo uma hora por dia”, conta Gabriela. Com isso, Bernardo tem ajudado a mãe no crochê.</p><p>Tal situação é semelhante à que a professora de Ensino Fundamental, Patrícia Sabino da Silva, de 43 anos, descreve sobre a readaptação do ensino presencial para o virtual. Ela tem contando bastante com a ajuda dos responsáveis, deixando explícito que muitos não conseguem acessar as aulas. “Infelizmente, a tecnologia é excludente. Nem todos têm a mesma condições de acesso e ainda há a situação da disciplina e a concentração para o estudo virtual. Não é fácil. E toda ajuda dos pais é bem-vinda”, conclui.</p><p><strong>Mariana Sabino &#8211; 3º Período | Jornalismo</strong></p><p><em>*Texto produzido na disciplina Teoria e Técnica da Notícia em parceria com a Agência UVA Barra.</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-20.24.34.jpeg?resize=1004%2C1308&#038;ssl=1\" alt=\"\" width=\"1004\" height=\"1308\"><figcaption>Patrícia Sabino &#8211; Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-20.24.53.jpeg?resize=1600%2C1049&#038;ssl=1\" alt=\"\" width=\"1600\" height=\"1049\"><figcaption>Adriana Sabino e família &#8211; Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-20.25.17.jpeg?resize=1600%2C963&#038;ssl=1\" alt=\"\" width=\"1600\" height=\"963\"><figcaption>Flávio Berço Fernandes e família &#8211; Foto: Arquivo Pessoal</figcaption></figure></main>"
+  },
+  "date": "2020-08-12T14:00:00",
+  "date_gmt": "2020-08-12T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Com a atual situação no país devido ao Covid-19, e com todas as instituições de ensino fundamental fechadas, pais e professores vêm tentando se adequar à nova forma de aprendizado: a virtual. Enquanto os responsáveis readaptam maneiras de ensinar e entreter seus filhos em casa, os docentes desenvolvem novos métodos incluindo cada vez mais a [&hellip;]</p>\n"
+  },
+  "featured_media": 7454,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7451"
+  },
+  "id": 7451,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-20.24.53.jpeg?fit=1600%2C1049&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Wb",
+  "link": "https://agenciauvabarra.com/2020/08/12/professores-que-estao-dando-aulas-online-contam-com-ajuda-dos-familiares/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-10T14:42:34",
+  "modified_gmt": "2020-08-10T17:42:34",
+  "ping_status": "open",
+  "slug": "professores-que-estao-dando-aulas-online-contam-com-ajuda-dos-familiares",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Professores que estão dando aulas online contam com ajuda dos familiares"
+  },
+  "type": "post"
+}

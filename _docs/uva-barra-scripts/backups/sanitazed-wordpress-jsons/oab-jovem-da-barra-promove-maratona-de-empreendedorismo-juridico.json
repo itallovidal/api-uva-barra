@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6503/revisions/6523",
+        "id": 6523
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6503"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6503",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6503/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6503"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6506"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6503",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6503",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7442,
+    7114
+  ],
+  "class_list": [
+    "post-6503",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-empreendedorismo",
+    "category-sociedade",
+    "tag-advocacia",
+    "tag-direito",
+    "tag-empreendedorismo-juridico"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Ciclo de palestras é gratuito e realizado por live</em></p><p>Com o objetivo de levar conteúdos jurídicos e extrajurídicos para os jovens advogados, a Comissão OAB Jovem da Barra da Tijuca, Rio de Janeiro, deu início a Maratona de Empreendedorismo Jurídico no dia 20 de abril e está promovendo lives com importantes nomes do meio jurídico. As temáticas abordadas variam de acordo com a especialidade e experiência de cada profissional convidado. Até o momento, o site já conta com 150 inscrições e uma média de 20 a 60 acessos por live, totalizando uma faixa de 700 visualizações.</p><p>Temas como inovação e tecnologia, mindfulness, marketing, gestão, finanças, entre outros foram abordados na primeira semana do encontro virtual, sempre relacionando com o direito. O advogado e organizador do evento Leonardo Haicki considerou que o isolamento social era o momento oportuno para proporcionar o conhecimento de gestão empresarial para os jovens, mostrando ferramentas e estratégias que o advogado necessita e não aprende durante a graduação. “O escritório de advocacia é uma empresa e, como tal, precisa de técnicas de gestão, de conhecimento sobre finanças, gestão de pessoas, marketing, vendas, planejamento estratégico e, na maioria das vezes, o advogado não tem essa visão holística do negócio”, explica.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/whatsapp-image-2020-04-24-at-21.20.38.jpeg?resize=368%2C368&amp;ssl=1\" alt=\"Leonardo Haik\" width=\"368\" height=\"368\"><figcaption>Leonardo Haicki é advogado especializado em áreas tributárias, negócios imobiliários, admistração de empresas e negócios em geral – Foto: Arquivo Pessoal</figcaption></figure><p>O advogado que também é coordenador do GT de Empreendedorismo Jurídico da Comissão OAB Jovem da Barra destaca que essas estratégias apesar de não serem ligadas ao direito são essenciais na vida do empreendedor. “Percebo que o advogado sai da graduação muito bem preparado, com conhecimento técnico jurídico em ótimo nível, sabendo o entendimento jurisprudencial, dominando a legislação e a doutrina. Entretanto, não possui qualquer noção básica de gestão do escritório de advocacia”, afirma Leonardo.</p><p>Para a advogada e professora da Universidade Veiga de Almeida (UVA) Andrea Martelotta as palestras hoje ganharam um novo formato com a chegada das lives e isso possibilita uma interação maior com quem se interessa pelo assunto debatido. “É uma solução para o momento. O mundo acadêmico está se valendo muito da informatização, da possiblidade de atingir um número muito maior de pessoas e isso ajuda muito na discussão de qualquer tema”, ressalta.</p><p>Baseada no Artigo 47, da Lei de nº 11101/05 – Lei de Recuperação Judicial e Extrajudicial e de Falência, Martelotta abordará na terça-feira, 28/04, às 18h, o tema “Recuperação Judicial e a Crise do COVID-19”, que nada mais é do que um instituto jurídico que representa um poderoso mecanismo de fôlego para as empresas em crise.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/whatsapp-image-2020-04-25-at-22.43.13.jpeg?resize=580%2C326&amp;ssl=1\" alt=\"A advogada Andrea Martelotta é uma das convidadas para segunda semana de lives da Martona de Empreendedorismo Jurídico\" width=\"580\" height=\"326\"><figcaption>A advogada e professora da UVA Andrea Martelotta é uma das convidadas para segunda semana de lives da Maratona de Empreendedorismo Jurídico – Foto: Divulgação OAB JOVEM BARRA</figcaption></figure><p>Ouça o áudio no qual a advogada explica a relação da temática com o COVID-19:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F807713887&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Profª Andrea Martelotta\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Para a Comissão OAB Jovem da Barra o saldo dos encontros virtuais é positivo e Leonardo diz que pretende manter o formato mesmo após a quarentena. Acrescenta que a modalidade de “encontros virtuais” tem abrangência nacional, e consequentemente, possibilita ajudar o maior número de jovens advogados, além de auxiliar no desenvolvimento da carreira deles. “Neste momento de crise sanitária é importante procurar se aperfeiçoar para quando tudo isso passar você estar preparado para enfrentar os novos desafios e as oportunidades que vão surgindo”, destaca.</p><p>Confira abaixo a programação completa da segunda semana da Maratona de Empreendedorismo Jurídico:</p><p>· 27/04 – Artur Barros – Tema: Como salvar as finanças em tempos de crise;</p><p>· 28/04 – Andrea Martelotta – Tema: Recuperação Judicial e a Crise do COVID-19;</p><p>· 29/04 – Gabriela Barreto – Tema: Empreendedorismo as mulheres que estão reiventando o Direito no Brasil;</p><p>· 30/04 – Tássia Ruschel – Tema: Oportunidades no mercado imobiliário em tempos de COVID-19;</p><p>· 01/05 – Claudia Serpa – Tema: Instagram para advogados.</p><p>Para quem tem interesse em participar, basta acessar o site https://www.oabjovembarra.com.br/ e fazer a inscrição. O evento é gratuito e encerra no dia 01 de maio.</p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-04-26T17:09:03",
+  "date_gmt": "2020-04-26T20:09:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ciclo de palestras é gratuito e realizado por live Com o objetivo de levar conteúdos jurídicos e extrajurídicos para os jovens advogados, a Comissão OAB Jovem da Barra da Tijuca, Rio de Janeiro, deu início a Maratona de Empreendedorismo Jurídico no dia 20 de abril e está promovendo lives com importantes nomes do meio jurídico. [&hellip;]</p>\n"
+  },
+  "featured_media": 6506,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6503"
+  },
+  "id": 6503,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/whatsapp-image-2020-04-24-at-21.20.38.jpeg?fit=518%2C518&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1GT",
+  "link": "https://agenciauvabarra.com/2020/04/26/oab-jovem-da-barra-promove-maratona-de-empreendedorismo-juridico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-04-27T16:40:22",
+  "modified_gmt": "2020-04-27T19:40:22",
+  "ping_status": "open",
+  "slug": "oab-jovem-da-barra-promove-maratona-de-empreendedorismo-juridico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    592185,
+    767056624,
+    219441591
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Comissão OAB Jovem da Barra promove Maratona de Empreendedorismo Jurídico"
+  },
+  "type": "post"
+}

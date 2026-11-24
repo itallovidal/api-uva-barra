@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8785/revisions/8795",
+        "id": 8795
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8785"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8785",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8785/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8785"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8789"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8785",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8785",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8785",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os bastidores de Valentina, uma mulher que sofreu assédio e decidiu escrever um livro como forma de dividir a própria história para ajudar outras mulheres.</em></p><p>A sétima história a fazer parte da temporada 2021 de podcasts ficcionais da Rádio UVA Barra é “O diário de uma vítima”. A história narra a trajetória de Valentina, uma mulher que sofreu assédio e decidiu escrever um livro como forma de dividir a própria história para ajudar outras mulheres.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/gabriela.jpeg?resize=1013%2C1280&amp;ssl=1\" alt=\"\" width=\"1013\" height=\"1280\"><figcaption>Gabriela Machado, aluna do 3° período de Jornalismo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/ana-karolina-coutinho.jpeg?resize=913%2C1280&amp;ssl=1\" alt=\"\" width=\"913\" height=\"1280\"><figcaption>Ana Karolina Coutinho, aluna do 3° período de Jornalismo</figcaption></figure><p>Produzir um material sem a possibilidade de encontros pessoais com a equipe foi um desafio. Para Gabriela Machado, aluna do 3° período de Jornalismo, esse foi de longe o maior obstáculo enfrentado. “Foi uma experiência diferente, empolgante e desgastante” diz Gabriela que apesar de tudo vê a podserie como um ponto de virada na vida profissional. “Acredito que dizer que eu fui co-roteirista de uma podserie terá uma valor enorme daqui algum tempo”, destaca.</p><p>Ana Karolina Coutinho, aluna do 3° período de Jornalismo, também participou do processo de criação da série. Ela afirma que a experiência de pré-produção possibilitou um desenvolvimento pessoal e profissional.</p><blockquote><p><em>“As histórias que eu li e o processo criativo da podserie fez eu evoluir muito como pessoa e como estudante. Sou muito mais resiliente e aprendi que pautas como essas que foram discutidas na podserie não podem deixar de ser debatidas pois são mais comuns do que imaginamos”</em></p><cite><em>Ana Karolina Coutinho</em></cite></blockquote><p><strong>Assista ao vídeo de Ana Karolina Coutinho sobre a produção da podserie</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/1ObwIGKlvfU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>Valentina, a personagem principal de “O diário de uma vítima”, decide dividir a própria experiência com outras mulheres e, assim, ajudar quem também passou por alguma situação de assédio. Na vida real, essa história provoca muitos debates importantes para a sociedade e apresentar em forma de narrativa ficcional possibilita informar e dar noção de que o assédio precisa ser debatido em público.</p><h2>Ouça agora a temporada completa</h2><iframe loading=\"lazy\" width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1220981467&amp;auto_play=true&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\"></iframe><div style=\"font-size:10px;color:#cccccc;line-break:anywhere;word-break:normal;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-family:Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;font-weight:100;\"><a href=\"https://soundcloud.com/user-525438802\" title=\"Agência UVA Barra\" target=\"_blank\" style=\"color:#cccccc;text-decoration:none;\">Agência UVA Barra</a> · <a href=\"https://soundcloud.com/user-525438802/sets/o-diario-de-uma-vitima\" title=\"O diário de uma vítima\" target=\"_blank\" style=\"color:#cccccc;text-decoration:none;\">O diário de uma vítima</a></div><p></p><p><em>Rafaela Barbosa – 8º período</em></p></main>"
+  },
+  "date": "2021-03-05T17:48:33",
+  "date_gmt": "2021-03-05T20:48:33",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os bastidores de&nbsp;“O diário de uma vítima&#8221; A sétima história a fazer parte da temporada 2021 de podcasts ficcionais da Rádio UVA Barra é “O diário de uma vítima&#8221;. A história narra a trajetória de Valentina, uma mulher que sofreu assédio e decidiu escrever um livro como forma de dividir a própria história para ajudar [&hellip;]</p>\n"
+  },
+  "featured_media": 8789,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=8785"
+  },
+  "id": 8785,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/03/podserie-6.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2hH",
+  "link": "https://agenciauvabarra.com/2021/03/05/a-criacao-de-narrativa-ficcional-7/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-03-05T17:50:53",
+  "modified_gmt": "2021-03-05T20:50:53",
+  "ping_status": "open",
+  "slug": "a-criacao-de-narrativa-ficcional-7",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A criação de narrativa ficcional"
+  },
+  "type": "post"
+}

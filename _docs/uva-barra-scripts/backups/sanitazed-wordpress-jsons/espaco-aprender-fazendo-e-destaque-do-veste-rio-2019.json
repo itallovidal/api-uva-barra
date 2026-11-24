@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5589/revisions/5613",
+        "id": 5613
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5589"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5589",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5589/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5589"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5593"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5589",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5589",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    8086
+  ],
+  "class_list": [
+    "post-5589",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-moda",
+    "tag-agencia-uva-barra",
+    "tag-pier-maua",
+    "tag-senac-rj",
+    "tag-veste-rio-2019"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em> O evento desenvolveu a área de produção de moda para o público </em></p><p> Um espaço reservado para ensinar e produzir moda. Assim é destinado o estande do SENAC RJ na 8ª edição do Veste Rio, que aconteceu entre os dias 9 a 12 de Outubro, no Pier Mauá, região portuária do Rio de Janeiro. O estande recebeu uma média de 500 pessoas por dia e promoveu palestras e oficinas com técnicas variadas de costura, modelagem, estilo, entre outros. </p><p> Além dos conteúdos, a gerente de moda do SENAC RJ e responsável pelo local, Leana Braga ressalta que o estande recebeu o nome de “Aprender Fazendo” porque a proposta é ensinar ao público enquanto produzem o próprio material. “A ideia é colocar a mão na massa. Aqui a gente consegue atingir não só aquelas pessoas que já trabalham com moda, mas principalmente os simpatizantes”, destaca. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20191011_164223.jpg?resize=592%2C288&amp;ssl=1\" alt=\"\" width=\"592\" height=\"288\" /><figcaption>Durante as oficinas, o público produz o próprio conteúdo – Foto: Graziela Andrade</figcaption></figure><p> A programação das oficinas é variada. O instrutor de dois workshops, entre eles o de “Customização de camisetas com carimbos” e Designer de Moda, Rafael Almeida conta que a maioria do público que assiste as mini aulas são pessoas que não atuam no mercado e querem ter um primeiro contato com a moda. “Eles sempre ficam muito felizes com o resultado, principalmente nessas oficinas que a gente oferece um produto para eles produzirem e levarem pronto para casa”, comenta. </p><p>Confira um trecho da oficina Consultoria de Imagem – Estilos e Biotipos com Renata Bitencourt:</p><figure><iframe src=\"https://www.youtube.com/embed/DurLPMzeWmU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p> Animada com a oportunidade de criar algo utilizando as técnicas da moda, a nutricionista Julia Macedo diz que, apesar de atuar na área da saúde, sempre teve uma forte relação com a moda “Aqui no Veste Rio conheço as novas tendências e com as oficinas consigo praticar um pouco das atividades que fazem parte desse universo, mas que estão presentes na minha rotina de trabalho”, afirma. O público carioca se despediu do Veste Rio, no último sábado (12), e a próxima edição está prevista para Abril de 2020. </p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2019-10-15T19:30:05",
+  "date_gmt": "2019-10-15T22:30:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento desenvolveu a área de produção de moda para o público Um espaço reservado para ensinar e produzir moda. Assim é destinado o estande do SENAC RJ na 8ª edição do Veste Rio, que aconteceu entre os dias 9 a 12 de Outubro, no Pier Mauá, região portuária do Rio de Janeiro. O estande [&hellip;]</p>\n"
+  },
+  "featured_media": 5593,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5589"
+  },
+  "id": 5589,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20191011_164205.jpg?fit=4608%2C2240&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1s9",
+  "link": "https://agenciauvabarra.com/2019/10/15/espaco-aprender-fazendo-e-destaque-do-veste-rio-2019/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-16T11:00:14",
+  "modified_gmt": "2019-10-16T14:00:14",
+  "ping_status": "open",
+  "slug": "espaco-aprender-fazendo-e-destaque-do-veste-rio-2019",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    16124770,
+    5568694,
+    688325897
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Espaço “Aprender Fazendo” é destaque do Veste Rio 2019"
+  },
+  "type": "post"
+}

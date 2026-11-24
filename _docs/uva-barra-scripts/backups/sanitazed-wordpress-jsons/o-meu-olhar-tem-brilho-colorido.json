@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12542/revisions/12547",
+        "id": 12547
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12542"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12542",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12542/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12542"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12544"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12542",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12542",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    9838342
+  ],
+  "class_list": [
+    "post-12542",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-serie-documental",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Um estudo da UNESP (2021) apontou que 2% da população brasileira é formada por pessoas trans e não binárias, sendo uma estimativa de 3 milhões de indivíduos. Ao traçar um recorte na área da educação, pessoas transexuais representam menos de 0,3% dos universitários em instituições públicas federais no Brasil. O dado foi elaborado em 2018 pelo Grupo de Estudos Multidisciplinares da Ação Afirmativa (Gemaa).</p><p>“Meu olhar tem brilho colorido” aborda como a educação pode gerar oportunidades para a comunidade transexual e traz o depoimento de pessoas que estudaram ou estudam no projeto “PreparaNem”, um pré-vestibular, que ajuda travestis, transexuais e transgêneres, a conquistarem o diploma universitário e um espaço no mercado de trabalho. O programa é proveniente da CasaNem, um centro de acolhimento da cidade do Rio de Janeiro que abriga pessoas LGBTIA+ em situação de vulnerabilidade social.</p><p>“Meu olhar tem brilho colorido” chega na Agência UVA Barra, através da disciplina de “Documentário Jornalístico” ministrado pelo professor Anderson Barreto na UVA campus Tijuca. O aluno Gabriel Orion Moura Lima Rosa vai expressar a importância do investimento na educação e o impacto social ao grupo LGBT+.</p><p><strong>Confira!</strong></p><figure><img src=\"https://www.youtube.com/embed/pNWawl0CYKQ?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent\" alt=\"Vídeo incorporado\" width=\"640\" height=\"360\"><figcaption></figcaption></figure><p><em>Pedro Amorim – 7º período</em></p></main>"
+  },
+  "date": "2022-08-18T17:41:52",
+  "date_gmt": "2022-08-18T20:41:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um estudo da UNESP (2021) apontou que 2% da população brasileira é formada por pessoas trans e não binárias, sendo uma estimativa de 3 milhões de indivíduos. Ao traçar um recorte na área da educação, pessoas transexuais representam menos de 0,3% dos universitários em instituições públicas federais no Brasil. O dado foi elaborado em 2018 pelo Grupo de Estudos Multidisciplinares da Ação Afirmativa (Gemaa). </p>\n"
+  },
+  "featured_media": 12544,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12542"
+  },
+  "id": 12542,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-18-at-17.27.21-e1660857131366.jpeg?fit=534%2C460&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3gi",
+  "link": "https://agenciauvabarra.com/2022/08/18/o-meu-olhar-tem-brilho-colorido/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-18T18:12:24",
+  "modified_gmt": "2022-08-18T21:12:24",
+  "ping_status": "open",
+  "slug": "o-meu-olhar-tem-brilho-colorido",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O meu olhar tem brilho colorido"
+  },
+  "type": "post"
+}

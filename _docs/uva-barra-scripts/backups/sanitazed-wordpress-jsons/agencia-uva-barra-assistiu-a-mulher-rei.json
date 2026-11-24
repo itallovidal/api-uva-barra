@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12893/revisions/12902",
+        "id": 12902
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12893"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12893",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12893/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12893"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12900"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12893",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12893",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597
+  ],
+  "class_list": [
+    "post-12893",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Quando se trata de Viola Davis, pode-se esperar uma atuação de excelência. Porém, ‘A Mulher Rei’, o mais novo longa protagonizado pela atriz, traz muito mais do que isso. O filme dirigido por Gina Prince-Bythewood surpreende em vários aspectos, desde a forma como a narrativa se desenvolve, à construção histórica, evolução dos personagens e tudo mais.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/df-00445_r_thumbnail_xlarge.jpg?resize=2000%2C1303&amp;ssl=1\" alt=\"\" width=\"2000\" height=\"1303\"><figcaption>Foto: Divulgação</figcaption></figure><p>A obra se passa na África do século XIX e conta a história da guerreira Nanisca, interpretada por Viola Davis (vencedora do Oscar). Comandante das Agogies, o exército do Reino de Daomé, formado exclusivamente por mulheres, Nanisca possui uma personalidade valente e determinada, o que faz dela uma figura de respeito em todo o reino, e alguém de confiança para o rei Guezo (John Boyega).</p><p>A trama se desenvolve a partir da chegada de Nawi (Thuso Mbedu) ao treinamento da unidade militar. Mostrando ser uma garota feroz e que não tem medo de defender o que acredita, a jovem ganha rapidamente a atenção de todos e traz uma reviravolta à vida da comandante. Ao lado de Izogie (Lashana Lynch) e Amenza (Sheila Atim), as duas guerreiras, juntamente com todo o exército das Agogie, vão lutar para dar fim à comercialização do povo de Daomé, que é vendido ao Império rival e à colonizadores franceses como escravos.</p><p>A roteirista Dana Stevens entrega um roteiro estruturado, dando o destaque merecido à trama principal e conseguindo encaixar as subtramas sem que essas fiquem deslocadas. A narrativa leva o público a diferentes emoções, uma vez que o longa conecta um drama bem construído, à apreensão de guerras violentas e ainda um subplot que traz um leve romance.</p><p>Para trazer ainda mais realismo e representatividade, o filme foi gravado na África do Sul e promove mulheres negras como protagonistas. Além disso, a obra valoriza a cultura africana em todos os aspectos.</p><p>‘A Mulher Rei’ proporciona ao público uma nova experiência de produção hollywoodiana. Faz também jus à toda repercussão positiva que recebeu antes e após sua estreia nos Estados Unidos. É o tipo de longa que vale a pena ser visto na proporção de uma sala de cinema. A estreia acontece hoje, 22 de setembro, nos cinemas do Brasil.</p><p><strong>Assista ao trailer:</strong></p><figure><iframe src=\"https://www.youtube.com/embed/IK1sEiHodZg?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><br><em>Gabriela Mota – 2º período</em></p></main>"
+  },
+  "date": "2022-09-22T17:18:17",
+  "date_gmt": "2022-09-22T20:18:17",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Quando se trata de Viola Davis, pode-se esperar uma atuação de excelência. Porém, ‘A Mulher Rei’, o mais novo longa protagonizado pela atriz, traz muito mais do que isso. O filme dirigido por Gina Prince-Bythewood surpreende em vários aspectos, desde a forma como a narrativa se desenvolve, à construção histórica, evolução dos personagens e tudo mais.</p>\n"
+  },
+  "featured_media": 12900,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12893"
+  },
+  "id": 12893,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/twk-fp-0005r_thumbnail_xlarge.jpg?fit=2000%2C838&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3lX",
+  "link": "https://agenciauvabarra.com/2022/09/22/agencia-uva-barra-assistiu-a-mulher-rei/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-09-22T17:18:54",
+  "modified_gmt": "2022-09-22T20:18:54",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-a-mulher-rei",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: A Mulher Rei"
+  },
+  "type": "post"
+}

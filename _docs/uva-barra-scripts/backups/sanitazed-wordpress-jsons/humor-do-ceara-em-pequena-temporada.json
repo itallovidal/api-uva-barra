@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2601/revisions/3021",
+        "id": 3021
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2601"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2601",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2601/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2601"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2602"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2601",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2601",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2432
+  ],
+  "class_list": [
+    "post-2601",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-augusto-bonequeiro",
+    "tag-ciro-santos",
+    "tag-comedia",
+    "tag-humor-do-ceara",
+    "tag-lailtinho",
+    "tag-luana-do-crato",
+    "tag-teatro",
+    "tag-teatro-oi-casa-grande"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Espetáculo reúne humoristas cearenses no Rio de Janeiro</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-04-at-16-45-25.jpeg?resize=1280%2C1280&amp;ssl=1\" alt=\"WhatsApp Image 2018-11-04 at 16.45.25\" width=\"1280\" height=\"1280\"><figcaption>Os quatro humoristas durante o espetáculo – Foto: Beatrice Laber</figcaption></figure><p>Quatro humoristas cearenses e 90 minutos de risadas. Luana do Crato, Ciro Santos, Lailtinho e Augusto Bonequeiro são nomes do humor que ultrapassaram o Nordeste e são conhecidos em todo o Brasil. O quarteto estreou na última quarta-feira (30) no Teatro OI Casa Grande, no Leblon, o espetáculo Humor do Ceará.</p><p>A produção traz aos palcos diversão, piadas, e muita interação com a plateia, o que deixa todos envolvidos com as brincadeiras. Lailtinho, com mais de 30 anos de carreira, afirma que o humor é universal “Humor é o que faz rir. Não importa se é o carioca, paulista ou cearense, tem que ter graça. Eu produzo humor há 12 anos todo dia” conta.</p><p>Quem esteve na estreia, aprovou o que viu (e o que riu). Para a aposentada Tania Santos o show superou as expectativas “Era uma quarta-feira calma, eu vim com as minhas amigas ao teatro para nos distrairmos e foi bom demais, humoristas maravilhosos, que trazem piadas cômicas sem ofender ninguém” diz.</p><p>A peça segue em cartaz até o dia 21 de novembro e abre um espaço no meio da semana para fazer rir da vida agitada que os cariocas andam levando. Por isso, vale lembrar que as apresentações acontecem sempre às quartas-feiras, às 20 horas.</p><p><strong>Beatrice Laeber – 2º período</strong></p></main>"
+  },
+  "date": "2018-11-05T09:00:27",
+  "date_gmt": "2018-11-05T11:00:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Espetáculo reúne humoristas cearenses no Rio de Janeiro Quatro humoristas cearenses e 90 minutos de risadas. Luana do Crato, Ciro Santos, Lailtinho e Augusto Bonequeiro são nomes do humor que ultrapassaram o Nordeste e são conhecidos em todo o Brasil. O quarteto estreou na última quarta-feira (30) no Teatro OI Casa Grande, no Leblon, o [&hellip;]</p>\n"
+  },
+  "featured_media": 2602,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2601"
+  },
+  "id": 2601,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-04-at-16-45-25.jpeg?fit=1280%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-FX",
+  "link": "https://agenciauvabarra.com/2018/11/05/humor-do-ceara-em-pequena-temporada/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:18:09",
+  "modified_gmt": "2019-01-31T13:18:09",
+  "ping_status": "open",
+  "slug": "humor-do-ceara-em-pequena-temporada",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    310811913,
+    9210720,
+    19639,
+    28318429,
+    5040548,
+    381566239,
+    767056600,
+    16490765
+  ],
+  "template": "",
+  "title": {
+    "rendered": "“Humor do Ceará” em pequena temporada"
+  },
+  "type": "post"
+}

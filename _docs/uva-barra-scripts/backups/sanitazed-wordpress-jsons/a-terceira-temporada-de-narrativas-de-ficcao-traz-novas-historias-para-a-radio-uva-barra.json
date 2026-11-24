@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12548/revisions/12555",
+        "id": 12555
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12548"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12548",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12548/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12548"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12550"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12548",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12548",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    713047979
+  ],
+  "class_list": [
+    "post-12548",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-podseries",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Na semana de 22 a 26 de agosto, a Rádio UVA Barra estreia a terceira temporada de podcasts de Narrativas de Ficção, as chamadas podséries. Os alunos de Cinema, Jornalismo e Publicidade e Propaganda, realizaram a produção na disciplina de “Escrita Narrativa”, ministrada pelo professor Anderson Barreto, campus Barra.</p><p><a href=\"https://agenciauvabarra.com/2022/05/04/festival-de-podseries-apresenta-o-trabalho-dos-calouros-da-economia-criativa-do-campus-barra/\">Cinco podséries</a> foram inspiradas nos 17 Objetivos de Desenvolvimento Sustentável (ODS) da ONU 2030, agenda responsável por transformações globais para erradicar a pobreza, promoção de qualidade sustentável, igualdade de gênero, entre outros. “21.44”, “A Bella Cidade”, “Veias Abertas”, “Primeiro Ato” e “Início do Fim”, vão apresentar histórias envolvendo ficção científica, crimes, cidade sustentáveis, saúde pública e desigualdade social.</p><p>Os podcasts são produtos sonoros que podem ser consumidos em qualquer hora e qualquer lugar. Nestas narrativas o som é o condutor de histórias. Durante cinco dias, a Rádio UVA Barra convida os ouvintes para conhecer esses novos enredos e aproveitar o tempo no ônibus, BRT ou metrô para conhecer estas narrativas.</p><p><em>Pedro Amorim – 7º período</em></p></main>"
+  },
+  "date": "2022-08-19T15:59:25",
+  "date_gmt": "2022-08-19T18:59:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Na semana de 22 a 26 de agosto, a Rádio UVA Barra estreia a terceira temporada de podcasts de Narrativas de Ficção, as chamadas podséries. Os alunos de Cinema, Jornalismo e Publicidade e Propaganda, realizaram a produção na disciplina de “Escrita Narrativa”, ministrada pelo professor Anderson Barreto, campus Barra. </p>\n"
+  },
+  "featured_media": 12550,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12548"
+  },
+  "id": 12548,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-19-at-15.58.32-e1660935550157.jpeg?fit=675%2C626&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3go",
+  "link": "https://agenciauvabarra.com/2022/08/19/a-terceira-temporada-de-narrativas-de-ficcao-traz-novas-historias-para-a-radio-uva-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-19T16:07:33",
+  "modified_gmt": "2022-08-19T19:07:33",
+  "ping_status": "open",
+  "slug": "a-terceira-temporada-de-narrativas-de-ficcao-traz-novas-historias-para-a-radio-uva-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A terceira temporada de Narrativas de Ficção traz novas histórias para a Rádio UVA Barra&nbsp;"
+  },
+  "type": "post"
+}

@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1267/revisions/3130",
+        "id": 3130
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1267"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1267",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1267/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1267"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1267",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1267",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    3719
+  ],
+  "class_list": [
+    "post-1267",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Raony Phillips, criador da série Girls in the house, lança seu primeiro livro inspirado em sua criação</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/58d1c410-8047-493d-802f-ae48a2903c0d.jpg?resize=1280%2C1280&amp;ssl=1' alt='58d1c410-8047-493d-802f-ae48a2903c0d' width='1280' height='1280' /><figcaption>Fotografia: Lizandra Rios</figcaption></figure><p>No penúltimo dia da 18º edição da Bienal Internacional do Livro Rio, a Arena #SemFiltro recebeu o roteirista e escritor Raony Phillips, em um bate-papo mediado por Ana Paula Lisboa. Durante a conversa, o autor falou sobre seu livro, interagiu com os fãs, imitou as vozes de suas personagens e também contou como surgiu a ideia de “Girls in the house” – série produzida totalmente por ele, em seu canal no youtube.</p><p>Essa série é feita a partir do jogo The Sims – simulador de vida, onde os jogadores podem desempenhar atividades normais do cotidiano através dos personagens, como constituir famílias, ir ao trabalho e cozinhar – e é roteirizada, editada e dublada apenas por Raony. Quando questionado do porquê de fazer tudo sozinho, ele explica que sente a necessidade de estar no comando de tudo. “Preciso fazer parte de todo o processo. Sou perfeccionista”, enfatiza.</p><p>Todo esse empenho fez o jovem atingir patamares cada vez mais altos. Com mais de um milhão de inscritos, o canal RaoTV começou a ganhar fama na internet em 2016, mas já trabalha nele desde 2014. A ideia de fazer uma série própria surgiu de vídeos na internet, onde outros youtubers também faziam histórias com personagens de jogos. Além disso, ele também acrescenta que sempre gostou de criar roteiros. “Escrevo histórias desde a quarta série. Uma vez uma professora me disse que eu não chegaria a lugar algum com isso, mas olha onde estou agora! ”.</p><p>Hoje, consegue ter um alcance maior de público, por causa de seu livro lançado, que conta a origem e algumas curiosidades dos personagens. Segundo ele, isso agrada os leitores. “Sempre me perguntaram qual o passado da Duny e agora tive a chance de contar um pouco”. A estudante Joyce Amaral, de 17 anos, esteve presente na palestra e conta que está achando o livro incrível. “Estou lendo ainda, mas estou amando. Minha personagem preferida é a Duny, então poder conhecer mais sobre o passado dela é bem interessante”.</p><p><strong>Lizandra Rios, 6º período.</strong></p></main>"
+  },
+  "date": "2017-09-14T14:23:01",
+  "date_gmt": "2017-09-14T17:23:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Raony Phillips, criador da série Girls in the house, lança seu primeiro livro inspirado em sua criação No penúltimo dia da 18º edição da Bienal Internacional do Livro Rio, a Arena #SemFiltro recebeu o roteirista e escritor Raony Phillips, em um bate-papo mediado por Ana Paula Lisboa. Durante a conversa, o autor falou sobre seu [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1267"
+  },
+  "id": 1267,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-kr",
+  "link": "https://agenciauvabarra.com/2017/09/14/do-youtube-para-os-livros/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:04:06",
+  "modified_gmt": "2019-01-31T15:04:06",
+  "ping_status": "open",
+  "slug": "do-youtube-para-os-livros",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Do youtube para os livros"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19292/revisions/21211",
+        "id": 21211
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19292"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19292",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19292/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19292"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19307"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19292",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19292",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-19292",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O Exame Nacional de Desempenho dos Estudantes (Enade) é uma das principais ferramentas de avaliação do ensino superior no Brasil. Criado em 2004 pelo Ministério da Educação (MEC), o exame faz parte do Sistema Nacional de Avaliação da Educação Superior (Sinaes) e tem como objetivo medir o desempenho dos alunos concluintes dos cursos de graduação em relação aos conteúdos previstos nas diretrizes curriculares, além de suas competências e habilidades necessárias para o exercício da profissão.</p><p>A cada edição, diferentes áreas de conhecimento são avaliadas de forma cíclica, garantindo que todos os cursos de graduação sejam contemplados ao longo dos anos. Em 2025, a expectativa é de que o exame mantenha a mesma estrutura, combinando questões de formação geral e de componente específico da área de estudo. A primeira parte da prova aborda conteúdos de Formação Geral, comuns a todos os cursos. Já a segunda parte é específica para cada área de formação. Além de medir o desempenho individual dos estudantes, os resultados do Enade são fundamentais para calcular indicadores de qualidade das instituições de ensino, como o Conceito Enade e o Índice Geral de Cursos (IGC). Esses números são utilizados pelo MEC para orientar políticas públicas e até mesmo para credenciamento e reconhecimento de cursos. </p><p>Outro ponto importante é que a participação no exame é obrigatória para todos os estudantes selecionados. A ausência injustificada pode trazer consequências sérias, como a impossibilidade de colar grau e, consequentemente, de obter o diploma. Por isso, entender o funcionamento da prova e se preparar com antecedência é fundamental.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/39d062f6-9e4d-4aa1-abda-664c16eeceba.jpg?resize=120%2C120&amp;ssl=1' alt='' width='120' height='120' /><figcaption></figcaption></figure><figure><blockquote><p>“O ENADE contribui em muito com o avanço da educação no Brasil, pois tem sido utilizado não somente como prova que testa o conhecimento do aluno, mas sim um conjunto de ações e processos que analisam todo o sistema superior do País”  – Alexandre Motta, Gestor do ENADE da UVA</p></blockquote></figure><p>“O ENADE tem sua importância por ser uma ação regulatória que visa analisar o grau de competência dos cursos de graduação do Brasil em diversos aspectos”, relatou o Gestor do Enade da Universidade Veiga de Almeida (UVA), Alexandre Motta. Para ele, essa prova contribui em muitos aspectos para o avanço da educação no Brasil, uma vez que não tem sido utilizada apenas como prova que testa o conhecimento do aluno, mas também com um conjunto de ações e processos que analisam todo o sistema de educação do País. “A prova  é um dos elementos que compõem a nota final das Instituições. Por isso, acreditamos que as Universidades bem avaliadas como a nossa, se fortalecem no mercado educacional, promovendo a atratividade e o reconhecimento das universidades”, disse Alexandre</p><p>Na Universidade Veiga de Almeida (UVA), Alexandre Motta, procura desenvolver estratégias para integrar os alunos na dinâmica da prova e acompanhar de perto a preparação dos alunos. “Temos desenvolvido algumas ações importantes dentro de um projeto institucional grandioso. A primeira grande ação começa no diálogo e na informação. Estamos sempre informando através de Campanhas, tentando explicar tanto o valor desta ação, como a sua  importância para o mercado de trabalho. Talvez o  grande desafio seja esse, mobilizar os alunos e fazer com que os mesmos entendam que a avaliação é importante tanto para a Instituição, pois aponta os caminhos que devemos seguir através dos resultados alcançados, bem como para o aluno avaliar o seu próprio desempenho. Sem esquecer de mencionar que a nota do aluno já tem sido utilizada pelo mercado de trabalho, tanto como desempate em concurso público, ou como nota na própria Prova Nacional Docente (PND) que será  utilizada como critério classificatório para concurso público no magistério”, comentou Alexandre Motta.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/whatsapp-image-2025-10-06-at-14.42.36.jpeg?resize=1280%2C1268&amp;ssl=1' alt='' width='1280' height='1268' /></figure><figure><blockquote><p>“Eu não preparo os alunos para o Enade. Eu preparo os alunos para o mercado de trabalho. O Enade é uma consequência disso. Tento sensibilizá-los sobre os conteúdos que estão aprendendo, porque é o investimento deles na própria formação” – Renata Feital, coordenadora de Jornalismo e Publicidade e Propaganda</p></blockquote></figure><p>Para a coordenadora de Jornalismo e Publicidade e Propaganda, Renata Feital, o Enade exerce um papel fundamental no aprimoramento do ensino e na manutenção da credibilidade das universidades. “O Enade tem um papel central na avaliação da qualidade do ensino superior no Brasil. Ele vai medir não apenas o desempenho individual dos alunos que estão terminando a faculdade, mas também avalia o projeto pedagógico dos cursos e, de certa forma, a atuação institucional das universidades”, explicou.</p><p>Renata destaca que os resultados do Enade influenciam diretamente os indicadores de qualidade do ensino superior, como o Conceito Preliminar de Curso (CPC) e o Índice Geral de Cursos (IGC). “Tirar uma nota ruim no Enade, significa que a instituição vai ter indicadores de qualidade ruins. São todos indicadores que ajudam no processo de renovação de conhecimento, de acreditação de recursos e de bolsas que as universidades ganham”, afirmou a coordenadora. Além de citar sobre os impactos institucionais, a professora ressalta que o exame também contribui para o aperfeiçoamento do processo pedagógico. “O Enade permite que nós, coordenadores e professores, possamos identificar fragilidades no processo formativo dos alunos. Se a nota não for boa, é um tempo que a gestão acadêmica tem para organizar a casa, a fim de melhorar”, comentou Renata Feital. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/whatsapp-image-2025-10-06-at-14.27.22.jpeg?resize=828%2C1354&amp;ssl=1' alt='' width='828' height='1354' /></figure><blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\"><figure><blockquote><p>“O ENADE é essencial para medir se os cursos atendem às Diretrizes Curriculares Nacionais e verificar a qualidade da formação oferecida” – Fernanda Vuono, coordenadora de Design Gráfico, Design de Animação, Jogos Digitais, Cinema e Audiovisual</p></blockquote></figure></blockquote><p>A coordenadora de Design Gráfico, Design de Animação, Jogos Digitais, Cinema e Audiovisual da Universidade Veiga de Almeida (UVA) campus Barra, Fernanda Vuono, destacou que o Enade é essencial para avaliar as instituições, melhorando, assim, as metodologias oferecidas em cada espaço. “O ENADE é essencial para medir se os cursos atendem às Diretrizes Curriculares Nacionais e verificar a qualidade da formação oferecida, funcionando como instrumento de diagnóstico e transparência do ensino superior. Os resultados geram indicadores usados pelo MEC para avaliar e credenciar cursos e instituições, apontando pontos fortes e fragilidades que orientam melhorias pedagógicas, estruturais e de gestão”, citou Fernanda. </p><p>Além disso, ela destacou que sempre mostra para os seus alunos a importância de fazer essa prova, por meio de dinâmicas e simulados. “Eu mostro a importância do ENADE para a valorização do diploma, esclareço os benefícios pessoais e institucionais e promovo atividades preparatórias como, por exemplo, os simulados”, disse a coordenadora. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/whatsapp-image-2025-10-06-at-14.38.27.jpeg?resize=828%2C465&amp;ssl=1' alt='' width='828' height='465' /></figure><figure><blockquote><p>“Os dados coletados pelo Enade ajudam a orientar políticas públicas e ações voltadas para a melhoria da educação superior no Brasil” – Lidiane Dias Reis, coordenadora de Enfermagem</p></blockquote></figure><p>Lidiane Dias Reis, coordenadora de Enfermagem da UVA Barra, relatou que esse sistema promove uma melhoria contínua na educação superior no Brasil. “Os resultados do Enade ajudam as instituições a identificar áreas de melhoria e implementar mudanças para melhorar a qualidade do ensino. Promovendo, assim, uma maior atratividade para as instituições, e um instrumento importante para a gestão educacional, auxiliando a tomar decisões informadas sobre currículos, métodos de ensino e recursos”, disse Lidiane. </p><p>E completou ressaltando que a prova é obrigatória, por isso, é necessário que os docentes realizem estratégias em aula para preparar os estudantes. “Eu sugiro aos professores algumas estratégias para incentivar os alunos a se prepararem para provas como o ENADE, como simulados e práticas, para realizar testes e atividades que podem ajudar os alunos a se familiarizar com o formato da prova e a avaliar seu conhecimento, revisão de conteúdo, com o intuito de rever o conteúdo programático com os alunos podendo ajudar a reforçar seu conhecimento e a identificar áreas que precisam de mais estudo, motivação e apoio em todo o processo, para oferecer um sentimento de confiança nos alunos e feedback construtivo, para identificar áreas de melhoria e a desenvolver estratégias para melhorar”, disse a coordenadora de Enfermagem. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/72f779b8-0ba5-4d22-9c3e-6ad614b9e73e.jpeg?resize=720%2C1600&amp;ssl=1' alt='' width='720' height='1600' /></figure><figure><blockquote><p>“Universidades bem avaliadas no Enade passam credibilidade e aumentam a chance de empregabilidade dos seus alunos” – Álvaro Alves, coordenador de Educação Física</p></blockquote></figure><p>“Explico sempre que uma boa nota no Enade fortalece a instituição e reflete no currículo do estudante. O mercado leva em conta a qualidade da formação, e isso pode ser um diferencial competitivo na hora da contratação. O mercado vai procurar profissionais que tenham currículos de universidades com notas 4 e 5. Menos que isso geralmente não interessa. Então eu tento incentivá-los, de forma que eles façam uma boa prova, com o intuito de crescer as chances de ser contratado quando eles se formarem. E também vale ressaltar que grandes empresas observam a nota do Enade das instituições. Universidades bem avaliadas passam credibilidade e aumentam a chance de empregabilidade dos seus alunos”, destacou Álvaro Alves, coordenador de Educação Física. Para ele, é essencial que os alunos se dediquem para ter uma recompensa no final.</p><p>Alvaro Alves, ainda comentou que sempre faz questão de trazer atividades que estimulem a realização da prova na etapa final, através de simulados, revisão de matéria e algumas estratégias de ensino. “ Faço simulados com as turmas de concluintes, mas quando faço isso, eu preciso motivá-los para fazer, já que é uma prova grande e cansativa. Eu sempre peço para eles não se preocuparem em colar nos simulados, porque ali ninguém vai estar avaliando eles para passar, é apenas uma ajuda para a avaliação”, disse o coordenador. </p><p>O Enade 2025, portanto, vai além de medir o conhecimento dos alunos concluintes. Ele funciona como espelho da qualidade do ensino superior brasileiro, apontando caminhos para melhorias e estabelecendo parâmetros de confiança para a sociedade. Seja para estudantes, instituições ou gestores públicos, o exame se consolida como peça-chave na engrenagem da educação superior no país.</p><p>Duda Nicolich – 3º Período </p></main>"
+  },
+  "date": "2025-10-06T14:50:13",
+  "date_gmt": "2025-10-06T17:50:13",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Enade, vai além de medir o conhecimento dos alunos concluintes. Ele funciona como espelho da qualidade do ensino superior brasileiro.</p>\n"
+  },
+  "featured_media": 19307,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19292"
+  },
+  "id": 19292,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/resized-image-promo-2025-07-08t133656.309.jpeg?fit=800%2C533&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-51a",
+  "link": "https://agenciauvabarra.com/2025/10/06/exame-nacional-de-desempenho-dos-estudantes-como-avaliacao-do-ensino-superior-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-02-21T10:33:47",
+  "modified_gmt": "2026-02-21T13:33:47",
+  "ping_status": "open",
+  "slug": "exame-nacional-de-desempenho-dos-estudantes-como-avaliacao-do-ensino-superior-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Exame Nacional de Desempenho dos Estudantes como avaliação do ensino superior no Brasil "
+  },
+  "type": "post"
+}

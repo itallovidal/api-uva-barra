@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17551/revisions/17554",
+        "id": 17554
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17551"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17551",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17551/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17551"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17553"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17551",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17551",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17551",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Após cinco anos desde a grandiosidade que foi \"Coringa\", a tão aguardada sequência chega às telonas, \"Coringa: Delírio a Dois\" revisita a complexa psique do personagem, trazendo uma nova trama e retomando exatamente de onde o primeiro filme parou, facilitando a imersão até mesmo para aqueles que não se recordam dos detalhes da obra anterior.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/f230e8db0c9d1ccb4ee8f243fcde7705.webp?resize=541%2C795&amp;ssl=1\" alt=\"\" width=\"541\" height=\"795\" /><figcaption></figcaption></figure><p>Entretanto, uma decisão ousada dividiu opiniões: transformar \"Coringa: Folie à Deux\" em um musical, visto que não se imaginava que tal opção era viável, então desde o anúncio, essa escolha criou dúvidas sobre o resultado do filme, e ao longo da projeção, essa preocupação se confirmou. As sequências musicais, que poderiam até ser algo inovador mas acabaram por tornar a experiência monótona, onde diversas vezes a expectativa nas cenas era quebrada por um \"momento musical\", tornando a história redundante.</p><p>Apesar das divisões que a abordagem musical trouxe, preciso comentar pontos positivos. Todd Phillips, diretor da obra, demonstra que não perdeu a estética do primeiro filme. A direção de arte e os enquadramentos continuam bonitos, mantendo a qualidade visual que surpreendeu em \"Coringa\". Mas aqui, mesmo com a estética obscura, temos um tom de esperança, onde no final tudo vai dar certo, diferente do primeiro filme.</p><p>Um dos destaques indiscutíveis da continuação é a interpretação de Lady Gaga como Arlequina. Embora muitos tenham expressado tristeza com a ausência de Margot Robbie, Gaga surpreende e entra no novo universo de \"Coringa\" de forma interessante. Mesmo não tendo sido aproveitada o suficiente, sua atuação, embora seja sólida e cativante, traz um novo olhar para a personagem. Mas da maneira que a história é construída, Lady Gaga não tem chances de desenvolver o personagem da melhor forma.</p><p>Joaquin Phoenix, mais uma vez, vive completamente o personagem. O vencedor de melhor ator de 2020 transmite a angústia e a fragilidade de Arthur Fleck, investindo nos detalhes físicos de uma mente totalmente angustiada. Para isso se tornar possível, Phoenix passou por uma perda de peso impressionante antes das gravações começarem. Joaquin consegue equilibrar momentos de vulnerabilidade com explosões de intensidade, sendo perturbador e cativante. Mesmo em meio a uma nova abordagem narrativa, sua presença mantém o espectador totalmente envolvido, ele é o melhor Coringa que poderíamos ter.</p><p>É importante ressaltar que tanto o primeiro, como a sequência, não pertencem ao mesmo universo da DC criado por James Gunn, ou seja, \"Coringa: Folie à Deux\" é um novo olhar sobre a história do personagem, oferecendo uma nova perspectiva sobre os icônicos personagens dos quadrinhos e permitindo uma exploração bem mais única da psicologia do Coringa e da Arlequina.</p><p>\"Coringa: Folie à Deux\" não se destaca com o melhor filme do ano, mesmo com toda a expectativa alta que rondava a trama.. A sequência decepciona em comparação com o excelente primeiro filme. A decisão de transformá-lo em um musical, apesar de ousada, resulta em um ritmo cansativo que prejudica a narrativa. Embora a direção de Todd Phillips mantenha a qualidade visual e Lady Gaga ofereça uma interpretação cativante como Arlequina, a nova abordagem acaba por não funcionar, o que era para ser um método muito mais interessante de explorar o potencial emocional e narrativo, tem um resultado completamente oposto.</p><p>Gabriel Soares – 2° Período</p></main>"
+  },
+  "date": "2024-10-03T13:00:00",
+  "date_gmt": "2024-10-03T16:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Após cinco anos desde a grandiosidade que foi &#8220;Coringa&#8221;, a tão aguardada sequência chega às telonas, &#8220;Coringa: Delírio a Dois&#8221; revisita a complexa psique do personagem, trazendo uma nova trama e retomando exatamente de onde o primeiro filme parou, facilitando a imersão até mesmo para aqueles que não se recordam dos detalhes da obra anterior. [&hellip;]</p>\n"
+  },
+  "featured_media": 17553,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17551"
+  },
+  "id": 17551,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/f230e8db0c9d1ccb4ee8f243fcde7705.webp?fit=541%2C795&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4z5",
+  "link": "https://agenciauvabarra.com/2024/10/03/agencia-uva-barra-assistiu-coringa-delirio-a-dois/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-10-08T13:47:33",
+  "modified_gmt": "2024-10-08T16:47:33",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-coringa-delirio-a-dois",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: Coringa: Delírio a Dois"
+  },
+  "type": "post"
+}

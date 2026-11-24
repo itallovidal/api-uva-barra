@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15540/revisions/15546",
+        "id": 15546
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15540"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15540",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15540/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15540"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15542"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15540",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15540",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15540",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Sneakerheads é o termo usado para denominar colecionadores de tênis e interessados nos diferentes conceitos, designs e coleções. Esse é o tema debatido no podcast de Storytelling produzido por Bruna Caldas, Clara Galdino, Danilo Alves, Eros Seba, Isabella Ruth, Joyce Fernandes, Laila Sbardeloto e Marvin Luiz.</p><p>A produção conta a história de Luga, que após se deparar com a oportunidade de comprar um modelo raro pela metade do preço, vendeu alguns bens materiais para realizar esse sonho. <strong>Ouça o podcast completo!</strong></p><figure><iframe title=\"Spotify Embed: Podcast narrativo: Sneakerhead\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6Bm0nubMRaYSItaiTZX8Rb?si=RURACRrhTFiFGXBXelQ_TA&#038;utm_source=oembed\"></iframe></figure><p>*Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto.</p></main>"
+  },
+  "date": "2023-08-18T18:15:27",
+  "date_gmt": "2023-08-18T21:15:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Sneakerheads é o termo usado para denominar colecionadores de tênis e interessados nos diferentes conceitos, designs e coleções. A produção conta a história de Luga, que após se deparar com a oportunidade de comprar um modelo raro pela metade do preço, vendeu alguns bens materiais para realizar esse sonho</p>\n"
+  },
+  "featured_media": 15542,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15540"
+  },
+  "id": 15540,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/puma-3706914_1280.jpg?fit=1280%2C850&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-42E",
+  "link": "https://agenciauvabarra.com/2023/08/18/podcast-narrativo-sneakerhead/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-21T15:00:19",
+  "modified_gmt": "2023-08-21T18:00:19",
+  "ping_status": "open",
+  "slug": "podcast-narrativo-sneakerhead",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast de Storytelling: Sneakerhead"
+  },
+  "type": "post"
+}

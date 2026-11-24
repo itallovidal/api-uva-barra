@@ -1,0 +1,155 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7591/revisions/7595",
+        "id": 7595
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7591"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7591",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7591/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7591"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7591",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7591",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    703299214,
+    14591
+  ],
+  "class_list": [
+    "post-7591",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-sociedade",
+    "category-teoria-e-tecnica-da-noticia",
+    "category-trabalho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Peticionamento eletrônico, sustentação por vídeo e julgamento virtual são algumas das vantagens apontadas por quem atua no meio</em></p><p>O home office é uma tendência adotada por empresas de diversos segmentos. Com o confinamento devido ao coronavírus, a modalidade de trabalhar em casa vem ganhando força entre os escritórios de advocacia do país. Muitos acreditam que o rendimento em casa – devido a distrações – seja menor do que em seus escritórios ou gabinetes, mas há quem veja que isso pode ser passageiro.</p><p>\"Sabemos que o trabalho remoto, na minha profissão, não é visto com bons olhos e, no contexto atual da pandemia, esteja causando essa sensação de que não estamos rendendo como antes, mas não acredito que o motivo sejam as distrações em casa. O escritório é cercado de distrações, como a hora do cafezinho ou até mesmo o tempo de deslocamento. Para mim, o maior motivo dessa sensação é não ter existido um treinamento e um período de adaptação, não é questão de trabalhar em casa só… É uma mudança de vida\", alerta Daniel de Souza Ribeiro, sócio do Daudt, Castro & Gallotti Olinto Advogados.</p><p>Para quem não mora sozinho, o trabalho feito em casa pode encontrar diversos obstáculos: barulhos externos, interações com filhos, a falta de fiscalização., entre outros. Diversos são os motivos para a preferência ser o conservador escritório. Mas diversas também são as razões que fazem enxergar o home office como uma opção viável e tentadora para o mundo do Direito.</p><p>\"Hoje, trabalhando de casa, enxergo as diversas vantagens dessa opção para o mundo do Direito. Não passo horas indo e voltando do centro, passo mais tempo em casa e economizamos com as contas do escritório. Não sabemos quando a pandemia irá passar, mas posso afirmar que o home office será muito mais frequente nos escritórios\", diz Alberto Oliveira Daudt, sócio-fundador do Daudt Castro & Gallotti Olinto advogados.</p><p>A modalidade de trabalho já vinha sendo implementada tanto no Supremo Tribunal Federal (STF) e no Superior Tribunal de Justiça (STJ), segundo o portal de informações da Suprema Corte, e tem agilizado os julgamentos nas duas cortes. Esse melhor aproveitamento de tempo é possível devido às tecnologias de julgamentos virtuais, feitos por videoconferências, e à digitalização dos autos dos processos, sendo agora possível peticionar pelo computador.</p><p>Nas cortes, é adotado por alguns funcionários o trabalho remoto, no qual, algumas vezes na semana, eles não precisam ir até o gabinete cumprir suas tarefas. No trabalho remoto, deixa-se de lado a cultura do horário e o foco é o objetivo final, é entregar a demanda no prazo. O home office no meio jurídico hoje, ao que parece, não é só um facilitador, uma medida frente ao novo coronavírus, mas um modo de trabalho que está tendo a chance de mostrar sua viabilidade no universo jurídico e que deve continuar mesmo com o fim da pandemia. A grande questão é saber se o lado conservador desse meio estará disposto a aceitar essa mudança.</p><p><strong>Jane Tavares – 3º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-08-18T14:00:00",
+  "date_gmt": "2020-08-18T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Peticionamento eletrônico, sustentação por vídeo e julgamento virtual são algumas das vantagens apontadas por quem atua no meio O home office é uma tendência adotada por empresas de diversos segmentos. Com o confinamento devido ao coronavírus, a modalidade de trabalhar em casa vem ganhando força entre os escritórios de advocacia do país. Muitos acreditam que [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7591"
+  },
+  "id": 7591,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Yr",
+  "link": "https://agenciauvabarra.com/2020/08/18/home-office-recurso-frente-a-pandemia-ou-tendencia-no-universo-juridico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-13T13:42:57",
+  "modified_gmt": "2020-08-13T16:42:57",
+  "ping_status": "open",
+  "slug": "home-office-recurso-frente-a-pandemia-ou-tendencia-no-universo-juridico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Home office: recurso frente à pandemia ou tendência no universo jurídico?"
+  },
+  "type": "post"
+}

@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15820/revisions/15825",
+        "id": 15825
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15820"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15820",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15820/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15820"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15776"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15820",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15820",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15820",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Aproveitando que hoje é quinta-feira, o TBT da Agência e Rádio UVA Barra traz duas reportagens para relembrar a nossa cobertura especial da Bienal do Livro 2023.</p><p>Para os ouvidos, a Rádio UVA Barra apresente o podcast \"Bienal do Livro 2023 cria espaço exclusivo para os autores independentes\". O Repórter Vinicius Zakhm mostra o universo dos escritores que não possuem grandes editoras para publicarem suas obras e como fazem para sobreviver no mercado literário. </p><blockquote class=\"wp-embedded-content\" data-secret=\"DnqDIuOP02\"><a href=\"http://agenciauvabarra.com/2023/09/10/bienal-do-livro-2023-cria-espaco-exclusivo-para-os-autores-independentes/\">Podcast Rádio UVA Barra: Bienal do Livro 2023 cria espaço exclusivo para os autores independentes</a></blockquote><iframe loading=\"lazy\" class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; visibility: hidden;\" title=\"&ldquo;Podcast Rádio UVA Barra: Bienal do Livro 2023 cria espaço exclusivo para os autores independentes&rdquo; &mdash; Agência UVA Barra\" src=\"http://agenciauvabarra.com/2023/09/10/bienal-do-livro-2023-cria-espaco-exclusivo-para-os-autores-independentes/embed/#?secret=QgHvXunG9W#?secret=DnqDIuOP02\" data-secret=\"DnqDIuOP02\" width=\"500\" height=\"282\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe><p>Já no site da Agência UVA Barra, \"A Literatura negra e a sua importância na Bienal do Livro 2023\" é o assunto abordado pelo repórter Kaio Fernandes. Ele traz as perspectivas de diversos profissionais negros do mercado literário, a importância desta representatividade para a luta antirracista e o espaço que a Bienal do Livro deu para que os autores negros pudessem ser ouvidos.</p><blockquote class=\"wp-embedded-content\" data-secret=\"36HkEzCaBI\"><a href=\"http://agenciauvabarra.com/2023/09/09/a-literatura-negra-e-a-sua-importancia-na-bienal-do-livro-2023/\">A Literatura negra e a sua importância na Bienal do Livro 2023</a></blockquote><iframe loading=\"lazy\" class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; visibility: hidden;\" title=\"&ldquo;A Literatura negra e a sua importância na Bienal do Livro 2023&rdquo; &mdash; Agência UVA Barra\" src=\"http://agenciauvabarra.com/2023/09/09/a-literatura-negra-e-a-sua-importancia-na-bienal-do-livro-2023/embed/#?secret=Bs5YiomrMA#?secret=36HkEzCaBI\" data-secret=\"36HkEzCaBI\" width=\"500\" height=\"282\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe></main>"
+  },
+  "date": "2023-09-14T18:37:51",
+  "date_gmt": "2023-09-14T21:37:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Aproveitando que hoje é quinta-feira, o TBT da Agência e Rádio UVA Barra traz duas reportagens para relembrar a nossa cobertura especial da Bienal do Livro 2023.</p>\n"
+  },
+  "featured_media": 15776,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15820"
+  },
+  "id": 15820,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/galera-comprando.jpg?fit=5760%2C3840&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-47a",
+  "link": "https://agenciauvabarra.com/2023/09/14/tbt-bienal-do-livro-2023/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-14T18:41:32",
+  "modified_gmt": "2023-09-14T21:41:32",
+  "ping_status": "open",
+  "slug": "tbt-bienal-do-livro-2023",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "TBT Bienal do Livro 2023"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3864/revisions/3869",
+        "id": 3869
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3864"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3864",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3864/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3864"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3867"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3864",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3864",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3864",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>RIO2C trouxe diretoras e executivas para discutir sobre o olhar feminino para a criatividade</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-27-at-11.16.35.jpeg?resize=1040%2C780&amp;ssl=1\" alt=\"\" width=\"1040\" height=\"780\" /><figcaption>Campanha contra músicas que falam sobre violência contra a mulher – Foto: Ana Beatriz Bernardo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-27-at-11.17.17.jpeg?resize=1040%2C780&amp;ssl=1\" alt=\"\" width=\"1040\" height=\"780\" /><figcaption>As empresárias falam da criatividade como consequência da diversidade – Foto: Ana Beatriz Bernardo</figcaption></figure><p>No quarto dia de RIO2C – Rio Creative Conference, o público pôde assistir a palestra “Criatividade: palavra do gênero feminino”, com Joanna Monteiro, Viviane Pepe e Mariana Sá, executivas da área, falando sobre a importância da diversidade no ato de criação e na construção da estratégia de comunicação e a abertura das portas para mulheres, como o olhar sobre elas mudou. Hoje, podemos perceber a mudança no mercado e que há grande influência do gênero feminino nele.</p><p>Ainda que pouco, ao longo dos anos a publicidade vem deixando de ser um ambiente totalmente masculino. A mudança ocorre com um passo de cada vez, mas as mulheres vêm arrumando um espaço para mostrarem sua competência. Para uma das palestrantes, Joana Monteiro, CCO da FCB Brasil é preciso de um conjunto diferenciado de profissionais para conquistar o mercado. “Diversidade é o que gera a criatividade, e a criatividade é uma característica humana, não só do homem, nem só da mulher, mas de todos nós”, explica.</p><p>Esse debate demonstra como o poder feminino vem derrubando as barreiras do machismo e sexismo. A publicitária Cristina Matos diz que é importante ter uma discussão ampla, em eventos grandes como esse. “Nós temos dados e fatos muito práticos, precisamos ter mais atenção e trazer cada vez mais esse assunto à tona”, expõe. É preciso dar voz e, principalmente, escutar o que se tem a dizer. “Tem muita relevância, principalmente sendo um fórum dentro de algo grande”, completa.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-27-at-11.15.19.jpeg?resize=609%2C456&amp;ssl=1\" alt=\"\" width=\"609\" height=\"456\" /><figcaption>A publicitária Cristina Matos diz que é de extrema relevância ter esse assunto discutido em um grande evento – Foto: Ana Beatriz Bernardo</figcaption></figure><p>A Diretora Global de Criação e Conteúdo, Identidade Corporativa, Gifting e Empoderamento da Avon, Viviane Pepe, explica que é mais do que empoderar. “Nós não queremos ser maiores do que ninguém, só queremos mostrar que também conseguimos fazer. Não é sobre ser melhor, mas sobre dar visibilidade e protagonismo”. A criatividade, apesar de ser do gênero feminino, é algo que abrange qualquer ser humano e deve estar livre de preconceitos e amarras para criar. As mulheres também querem ser protagonistas dessas histórias. </p><figure><iframe src=\"https://www.youtube.com/embed/X7GTcprfJ_E?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Ana Beatriz Bernardo – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-27T18:44:50",
+  "date_gmt": "2019-04-27T21:44:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>RIO2C trouxe diretoras e executivas para discutir sobre o olhar feminino para a criatividade No quarto dia de RIO2C &#8211; Rio Creative Conference, o público pôde assistir a palestra “Criatividade: palavra do gênero feminino”, com Joanna Monteiro, Viviane Pepe e Mariana Sá, executivas da área, falando sobre a importância da diversidade no ato de criação [&hellip;]</p>\n"
+  },
+  "featured_media": 3867,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3864"
+  },
+  "id": 3864,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-27-at-11.17.17.jpeg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-10k",
+  "link": "https://agenciauvabarra.com/2019/04/27/grandes-marcas-debatem-sobre-o-olhar-da-mulher-na-publicidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-27T18:44:50",
+  "modified_gmt": "2019-04-27T21:44:50",
+  "ping_status": "open",
+  "slug": "grandes-marcas-debatem-sobre-o-olhar-da-mulher-na-publicidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Grandes marcas debatem sobre o olhar da mulher na publicidade"
+  },
+  "type": "post"
+}

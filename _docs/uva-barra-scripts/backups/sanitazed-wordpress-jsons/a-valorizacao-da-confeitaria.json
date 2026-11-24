@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2477/revisions/4533",
+        "id": 4533
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2477"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2477",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2477/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2477"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2478"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2477",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2477",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2477",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-centro-de-convencoes-sulamerica",
+    "tag-confeitaria",
+    "tag-expo-cakes-brasil-2018"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Expocakes 2018 apresenta tendências e o mercado confeiteiro no Brasil</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-19-at-10-29-43-e1539992491436.jpeg?resize=1280%2C719&amp;ssl=1' alt='WhatsApp Image 2018-10-19 at 10.29.43' width='1280' height='719' /><figcaption>Primeiro dia de Expo Cakes Brasil 2018 recebe visitantes de vários estados do Brasil – Foto: Nayara Simões</figcaption></figure><p>Bolos, brownies, bem-casados, docinhos, chocolates, decorações e muito mais. Esses são alguns dos doces que aguardam os visitantes da Expo Cakes Brasil 2018. O evento começou na última quinta-feira (18/10), no Centro de Convenções SulAmérica, no Rio de Janeiro, e vai até domingo (21/10). A feira conta com a presença de profissionais reconhecidos na área, como Mariana Brito Cakes, que ministra cursos pelo Brasil inteiro, Mara Cakes, com mais de cem mil inscritos em seu canal no Youtube, e Samira Nunes, vencedora de diversos prêmios de Confeitaria.</p><p>Além de grandes nomes deste meio, estão presentes representantes de marcas e profissionais de diversos ramos da produção de doces. A programação conta com uma jornada de aulas sobre diferentes tipos de decoração de bolos, palestras, workshops, competições e possui participantes de todo o mundo. A previsão para os quatro dias de evento é de cinco mil e setecentos alunos, oitenta expositores e mais de quinze mil visitantes.</p><p>Quem faz parte dessa estimativa e participou da aula “Bolo Chapeuzinho Vermelho” ministrada por Jéssica e Henrique, é Leilane Lorelai. A confeiteira, de 28 anos, diz ter sido motivada pela vontade de se aprimorar e, para ela, o primeiro dia de evento superou expectativas. “Temos que entregar o melhor para nossos clientes e estar aqui valoriza nosso trabalho, por isso é fundamental fazer este investimento”.</p><p>Essa valorização ao mercado da Confeitaria é essencial para o crescimento e respeito de profissionais da área. Mara Cakes conta que a iniciativa representa muito para as confeiteiras do Rio de Janeiro. “As feiras contribuem com tendências, os professores estão antenados e para quem está começando, isso aqui é um presente”. Ela também aproveitou a oportunidade para lançar o livro “Simplesmente Mara” e expor sua linha de produtos para venda.</p><p>Outro estande disponível é o de Samira Nunes, uma das embaixadoras da Expo Cakes Brasil 2018. “A primeira experiência aqui está sendo incrível e quero carregá-la para o resto da vida”. Ela acrescenta que ficou lisonjeada pelo convite e que, sem dúvidas, a feira será um sucesso.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-19-at-10-28-54.jpeg?resize=405%2C540&amp;ssl=1' alt='WhatsApp Image 2018-10-19 at 10.28.54' width='405' height='540' /><figcaption>Bolo elaborado pela equipe “Esquadrão Cake” – Foto: Nayara Simões</figcaption></figure><p><strong>Nayara Simões – 5º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2018-10-19T20:39:47",
+  "date_gmt": "2018-10-19T23:39:47",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Expocakes 2018 apresenta tendências e o mercado confeiteiro no Brasil Bolos, brownies, bem-casados, docinhos, chocolates, decorações e muito mais. Esses são alguns dos doces que aguardam os visitantes da Expo Cakes Brasil 2018. O evento começou na última quinta-feira (18/10), no Centro de Convenções SulAmérica, no Rio de Janeiro, e vai até domingo (21/10). A [&hellip;]</p>\n"
+  },
+  "featured_media": 2478,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2477"
+  },
+  "id": 2477,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-19-at-10-29-43-e1539992491436.jpeg?fit=1280%2C719&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-DX",
+  "link": "https://agenciauvabarra.com/2018/10/19/a-valorizacao-da-confeitaria/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-07-23T11:27:28",
+  "modified_gmt": "2019-07-23T14:27:28",
+  "ping_status": "open",
+  "slug": "a-valorizacao-da-confeitaria",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    58447114,
+    1260148,
+    652530213
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A valorização da Confeitaria"
+  },
+  "type": "post"
+}

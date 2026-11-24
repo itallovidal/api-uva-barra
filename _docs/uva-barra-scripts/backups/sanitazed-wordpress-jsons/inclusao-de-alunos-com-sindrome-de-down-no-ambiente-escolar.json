@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10392/revisions/10411",
+        "id": 10411
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10392"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10392",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10392/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10392"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10404"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10392",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10392",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964
+  ],
+  "class_list": [
+    "post-10392",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Redes de ensino podem ajudar na integração de alunos portadores de deficiência para obter um bom resultado de aprendizado</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/pedro-e-ana-lucia.jpeg?resize=966%2C1288&#038;ssl=1' alt='' width='966' height='1288' /><figcaption>A mãe Ana Lúcia conta que seu filho Pedro fazia as atividades da escola na  fonoaudiologia para ajudar na aprendizagem. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/hospital-universitario-pedro-ernesto.jpeg?resize=519%2C379&#038;ssl=1' alt='' width='519' height='379' /><figcaption>A médica Anna Paula assegura que a criança com Síndrome de Down é capaz de aprender e se inserir no grupo, oportunizando uma compreensão sobre a diversidade humana por parte de todos. (Foto: Hospital Universitário Pedro Ernesto)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/hospita-universitario-pedro-ernestol.jpeg?resize=634%2C345&#038;ssl=1' alt='' width='634' height='345' /><figcaption>Anna Paula afirma que a experiência escolar do convívio das crianças com Síndrome de Down com as demais crianças contribui para o seu desenvolvimento motor, cognitivo, afetivo e psicossocial. (Foto: Hospital Universitário Pedro Ernesto)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/claudia-araujo.jpeg?resize=1104%2C1472&#038;ssl=1' alt='' width='1104' height='1472' /><figcaption>Cláudia Araújo ressalta que o professor é o elo de interação neste processo de ensino aprendizagem e terá maior facilidade em atuar com as peculiaridades apresentadas pelos alunos com e sem deficiência em sala de aula. (Foto: Arquivo Pessoal)</figcaption></figure><p>De acordo com último censo do Ministério da Educação (MEC), desde 1998, houve crescimento significativo de alunos com Síndrome de Down matriculados na rede regular de ensino, de 200 mil à época, o número saltou para mais de 1,18 milhão. Além do Pessoas Com Necessidades Especiais (PNE), a Lei Brasileira de Inclusão (LBI) também assegura que pessoas com síndromes tenham garantido o direito à educação. “Alcançar o máximo desenvolvimento possível de seus talentos e habilidades físicas, sensoriais, intelectuais e sociais, segundo suas características, interesses e necessidades de aprendizagem.”</p><p>A inclusão de crianças com necessidades especiais, como lei e prática no Brasil e no mundo, pretende proporcionar uma educação acessível a todos. Essa experiência do convívio com as demais crianças contribui para o seu desenvolvimento motor, cognitivo, afetivo e psicossocial. Elas são capazes de se inserir no grupo, oportunizando uma compreensão sobre a diversidade humana por parte de todos.  Na sala de aula, a consciência e a empatia frente à pessoa com deficiência favorece o aprendizado de todos.</p><p>Segundo a médica pediatra do Ambulatório Multidisciplinar de Síndrome de Down do Hospital Universitário Pedro Ernesto (HUPE-UERJ), Anna Paula Baumblatt, os alunos devem ser tratados de forma igualitária, respeitando a individualidade de cada um. “Independente da Síndrome de Down, cada estudante vai apresentar facilidades e dificuldades de acordo com o conteúdo oferecido”, conta.</p><p>Com base na Lei Brasileira de Inclusão nº 13.146/2015,  a criança com deficiência tem assegurado no sistema educacional o máximo de desenvolvimento possível de seus talentos e habilidades físicas, sensoriais, intelectuais e sociais, dentro de suas características, interesses e necessidades de aprendizagem. “O exercício dos direitos e das liberdades fundamentais por pessoa com deficiência, visando à sua inclusão social e cidadania.”</p><p>Muitas crianças apontam perfis de aprendizagem que demandam certo grau de atenção, pode ser que algumas precisem de uma supervisão especializada, mas isto não é uma regra. Portanto, cabe à instituição educacional, aos pedagogos e psicólogos que prestam o apoio desenvolver atividades que estimulem a troca em grupo, favorecendo assim a  inserção.</p><p>Para a membro da Comissão de Direitos da Pessoa com Deficiência da OAB/RJ (CDPD), Cláudia Araújo, as atividades devem ser realizadas com base no perfil do discente portador de deficiência, explorando preferencialmente a convivência com os demais alunos no ambiente escolar. “As provas devem ser realizadas em ambiente coletivo, observando os recursos, serviços de acessibilidade e tecnologia assistiva como o apoio, sempre que necessário”, declara.</p><p><strong>Cláudia Araújo, da Comissão de Direitos da Pessoa com Deficiência, esclarece a importância da inclusão de crianças com Síndrome de Down nas áreas cognitivas e emocionais.</strong></p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1145138866&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Ouça agora amembro da Comissão de Direitos da Pessoa com Deficiência by Agência UVA Barra' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe></figure><p>Ela também reforça que é preciso ressaltar a importância da capacitação do orientador para o atendimento educacional especializado. “O professor é o elo de interação neste processo de ensino aprendizagem e terá maior facilidade em atuar com as peculiaridades apresentadas pelos alunos com e sem deficiência em sala de aula”, explica Cláudia. </p><p>A criança com Síndrome de Down têm necessidades especiais, mas como todas  as crianças. A inclusão na escola tem a importância de considerar cada aluno, nas suas habilidades e dificuldades. No entanto, compreendo as características da Síndrome de Down, pode ajudar a receber o aluno na escola, assim como adaptar as estratégias de ensino.</p><p>Pedro Monteiro Detomaz de 34 anos, tem síndrome de Down e sua mãe Ana Lúcia Monteiro de 61 anos, conta que após o ensino fundamental, ele foi para uma escola de jovens adultos na qual oferece um tratamento diferenciado para crianças portadoras de deficiência. “Pedro já passou por várias escolas, mas para ser incluído com os outros alunos, ele gostava de jogar futebol na educação física e fazer teatro também”, diz Ana Lúcia.</p><p>O mais importante no processo de aprendizagem é fazer com que o aluno portador de deficiência se sinta capaz de superar as dificuldades, potencializando as habilidades. O trabalho com as diferenças é um desafio para todos, mas também um aprendizado valioso. A verdadeira inclusão que se aprende é que não só elas, mas todas as crianças, têm necessidades especiais.</p><p><em>Ana Júlia Queiroz – 6º período</em></p></main>"
+  },
+  "date": "2021-10-20T18:22:53",
+  "date_gmt": "2021-10-20T21:22:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De acordo com último censo do Ministério da Educação (MEC), desde 1998, houve crescimento significativo de alunos com Síndrome de Down matriculados na rede regular de ensino, de 200 mil à época, o número saltou para mais de 1,18 milhão. Além do Pessoas Com Necessidades Especiais (PNE), a Lei Brasileira de Inclusão (LBI) também assegura que pessoas com síndromes tenham garantido o direito à educação. &#8220;Alcançar o máximo desenvolvimento possível de seus talentos e habilidades físicas, sensoriais, intelectuais e sociais, segundo suas características, interesses e necessidades de aprendizagem.”</p>\n"
+  },
+  "featured_media": 10404,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10392"
+  },
+  "id": 10392,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/capa-2.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2HC",
+  "link": "https://agenciauvabarra.com/2021/10/20/inclusao-de-alunos-com-sindrome-de-down-no-ambiente-escolar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-20T19:45:48",
+  "modified_gmt": "2021-10-20T22:45:48",
+  "ping_status": "open",
+  "slug": "inclusao-de-alunos-com-sindrome-de-down-no-ambiente-escolar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Inclusão de alunos com Síndrome de Down no ambiente escolar"
+  },
+  "type": "post"
+}

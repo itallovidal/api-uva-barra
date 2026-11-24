@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18989/revisions/18998",
+        "id": 18998
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18989"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18989",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18989/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18989"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18992"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18989",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18989",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-18989",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Escrever um livro é muitas vezes um ato íntimo, um refúgio pessoal, uma forma mágica de dar voz a sentimentos difíceis de expressar. A jornada de escrever um livro vai muito além do texto, é um trabalho que demanda tempo, principalmente, quando o autor é independente. Desde 2020, os números das vendas tanto de ebooks quanto de audiobooks estão crescendo de maneira significativa, em apenas 5 anos a o faturamento aumentou 158% com o conteúdo digital das editoras, segundo a Editoria Viseu.</p><p>Ainda que o sucesso financeiro seja incerto, a escrita permanece sendo uma válvula de escape para muitos autores independentes. Ao publicar um livro eles ficam sujeitos a opinião pública, pode ser que só 100 pessoas leiam o seu livro ou que milhares comprem e indiquem o seu trabalho. Ser um autor solo, demanda esforço, a autora Jéssica Anitelli, ressaltou durante o episódio que começou a escrever muito nova, ela sempre fez tudo sozinha, por isso precisou aprender com os seus próprios erros e acertos.</p><p>Nesse episódio, o público irá entender as narrativas escondidas das vidas dos autores independentes, como Gabriela Paiva, Eleanor e Jéssica Anitelli. Todas elas destacaram que o processo de escrever um livro começa nas ideias que surgem e vão até o pós publicação, é um trabalho que demanda tempo e esforço. É possível entender, após esse podcast que a escrita pode dar voz, eternizar uma história e fazer as pessoas se identificarem no mundo.</p><figure><img src='https://open.spotify.com/episode/2fiDFf3GFxIySsZORidGQ5?si=6GJiyZeARMuo9lhr4Fk_mg' alt='Embed Spotify' width='560' height='315' title='Embed Spotify' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></figure><p>Equipe Lugar de Fala:</p><p>Larissa Moraes</p><p>Luis Guilherme</p><p>Eduarda Vilanova</p><p>Equipe Agência UVA Barra:</p><p>Duda Nicolich – 2º Período</p><p>Carolina Alves – 2º Período</p></main>"
+  },
+  "date": "2025-09-09T15:32:54",
+  "date_gmt": "2025-09-09T18:32:54",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A escrita pode dar voz, eternizar uma história e fazer as pessoas se identificarem no mundo</p>\n"
+  },
+  "featured_media": 18992,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18989"
+  },
+  "id": 18989,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-09-at-15.25.19.jpeg?fit=940%2C788&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Wh",
+  "link": "https://agenciauvabarra.com/2025/09/09/podcast-radio-uva-barra-lugar-de-fala-o-mundo-real-de-autoras-independentes-e-suas-narrativas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-09T15:36:31",
+  "modified_gmt": "2025-09-09T18:36:31",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-lugar-de-fala-o-mundo-real-de-autoras-independentes-e-suas-narrativas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "PodCast Rádio UVA Barra: Lugar de Fala:  O mundo real de autoras independentes e suas narrativas"
+  },
+  "type": "post"
+}

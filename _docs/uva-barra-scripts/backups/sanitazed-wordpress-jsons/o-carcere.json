@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15284/revisions/15306",
+        "id": 15306
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15284"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15284",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15284/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15284"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15287"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15284",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15284",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    187874,
+    18330,
+    14591
+  ],
+  "class_list": [
+    "post-15284",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-direitos-humanos",
+    "category-institucional",
+    "category-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-carcere-2",
+    "tag-escravidao",
+    "tag-exploracao",
+    "tag-ods",
+    "tag-trabalho",
+    "tag-webserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A Websérie “O Cárcere” aborda o Objetivo de Desenvolvimento Sustentável (ODS) 8 da agenda 2030 da ONU, mais especificamente, o tópico 8.7, que trata da importância de fiscalizar as práticas análogas à escravidão, o comprimento das políticas sobre segurança no trabalho, geração de renda e emprego e a política salarial atribuída pelo Ministério Público e outros órgãos/programas responsáveis por assegurar tal cumprimento das leis.</p><p>A trama conta a história de Rosângela, uma costureira que após receber uma proposta de emprego, se muda para a cidade de São Paulo em busca de ajudar financeiramente a família. Mas o que ela não sabia, é que o seu patrão, André, submetia os funcionários ao trabalho em condições precárias análogas à escravidão. Ele fazia parte de um esquema sujo e perigoso, que é descoberto quando Ana, namorada de André, pega mensagens suspeitas no celular de seu companheiro.</p><p>A produção é de Alex Hoyte, David Padilla, Fernanda Portugal, Gabriel Milesi, Rachel Nascimento, Sarah Martins e Thalyta Neme. <strong>Assista ao episódio! </strong></p><figure><iframe src='https://www.youtube.com/embed/P17jN6_Kwzo' width='640' height='360' title='Vídeo incorporado' allowfullscreen></iframe></figure><p><br><em>Produto produzido para a disciplina de Escrita Criativa e Storytelling, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-07-10T18:57:18",
+  "date_gmt": "2023-07-10T21:57:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A trama conta a história de Rosângela, uma costureira que após receber uma proposta de emprego, se muda para a cidade de São Paulo em busca de ajudar financeiramente a família. Mas o que ela não sabia, é que o seu patrão, André, submetia os funcionários ao trabalho em condições precárias análogas à escravidão. Ele fazia parte de um esquema sujo e perigoso, que é descoberto quando Ana, namorada de André, pega mensagens suspeitas no celular de seu companheiro. </p>\n"
+  },
+  "featured_media": 15287,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15284"
+  },
+  "id": 15284,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/whatsapp-image-2023-07-10-at-18.49.44.jpeg?fit=840%2C609&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Yw",
+  "link": "https://agenciauvabarra.com/2023/07/10/o-carcere/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-11T17:31:29",
+  "modified_gmt": "2023-07-11T20:31:29",
+  "ping_status": "open",
+  "slug": "o-carcere",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    46540246,
+    736680,
+    1462644,
+    1182397,
+    767056610,
+    1438351
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Cárcere"
+  },
+  "type": "post"
+}

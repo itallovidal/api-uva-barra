@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7903/revisions/7917",
+        "id": 7917
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7903"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7903",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 14,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7903/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7903"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7915"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7903",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7903",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    1899315,
+    4753134,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-7903",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-quarentena",
+    "category-saude",
+    "category-sociedade",
+    "tag-autoestima",
+    "tag-disturbios-de-imagem"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Mudanças na rotina e o estresse causado pela pandemia de Covid-19 causam impacto na autoestima de mulheres</em></p><p>A mudança na rotina e aumento dos níveis de estresse provocados pela atual crise sanitária podem desencadear distúrbios de imagem e autoestima. Gordofobia, anorexia e derivados da pressão estética são situações que não escolhem o gênero. Porém, mulheres são frequentemente acometidas por tais situações que prejudicam a vida de centenas de pessoas.</p><p>“Vinha uma ansiedade maluca, um buraco sem fundo e eu saia comendo tudo. Durante a pandemia, principalmente nos primeiros meses, isso aconteceu”, conta Mariana Soares, psicóloga de 25 anos que teve a vida alterada pelas medidas de prevenção da Covid-19. Ela mantinha uma rotina de exercícios físicos por conta de problemas de coluna e teve que pausar o tratamento.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/mariana.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\" /><figcaption><em>Mariana Soares fez as pazes com o corpo durante a quarentena. Foto: arquivo pessoal</em></figcaption></figure><p>Para Joana Novaes, psicanalista e professora da pós-graduação da Universidade Veiga de Almeida, as mulheres são mais suscetíveis a esse tipo de comportamento por conta de uma construção social, ou seja, algo que é forjado em conjunto e acaba se tornando um costume, algo normatizado. “A ideia seria encerrar, limitar, restringir a imagem da mulher, a representação social da mulher a um universo doméstico, a um universo dos cuidados, da prole, do corpo.”, explica Joana Novaes.</p><p><strong>Ouça a psicanalista Joana Novaes falar sobre pressão estética </strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F913570396&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · A psicanalista Joana Novaes fala sobre pressão estética\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Para Naomi Wolf, autora de “O mito da beleza”, a regulação dos corpos femininos é uma forma de controle sutil através da perseguição pela perfeição estética que aprisiona e silencia mulheres. “Quando se atrai a atenção para as características físicas das mulheres, essas líderes podem ser repudiadas por serem bonitas demais ou feias demais”, escreve.</p><p>Viver numa sociedade que cerceia o ideal de mulher não abrevia as múltiplas narrativas existentes. Mariana Soares é um exemplo de que o momento pode ser propício ao reconhecimento pessoal. Para ela, descontar a ansiedade na comida deu lugar para a aceitação. “A relação com o corpo melhorou muito porque eu estava em casa, eu estava em contato comigo”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/joana-novaes.jpg?resize=960%2C1200&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1200\" /><figcaption>Joana Novaes, pós-doutora em Psicologia Médica e Social, acredita que a virtualização as atividades possibilitou um relaxamento positivo na relação com o corpo. Foto: arquivo pessoal  </figcaption></figure><p>Joana Novaes esclarece que assim como Mariana, outras mulheres também tiveram essa mesma experiência. Houve um afrouxamento em relação a autoimagem durante o isolamento, uma vez que a casa foi ressignificada como espaço de trabalho, lazer, entre outras atividades que puderam ser virtualizadas.&nbsp; Segundo a psicanalista, a atual conjuntura fez com que as demandas também mudassem. “As mulheres num geral estão consumindo menos o corpo quanto mercadoria, o consumo permanece, mas não o consumo do culto ao corpo”, explica.</p><p>A aceitação não é uma jornada linear. Mariana e outras mulheres vivem o processo de fazer as pazes com o próprio corpo. As redes sociais podem ser aliadas nessa trajetória. A hashtag “corpo livre”, com 300 mil publicações, e “amor-próprio”, com 7,9 milhões, possibilitam a troca de experiências de pessoas que estão em busca não da perfeição, mas de acolhimento. “Espero estar caminhando para isso”, conta Mariana.</p><h2><strong>Atento aos sinais</strong></h2><p>Transtornos de imagem ainda são comuns e podem desencadear distúrbios alimentares. Segundo a Organização das Nações Unidas, 4,7% dos brasileiros convivem com esse problema, entre os jovens, o número é de 10%. Por isso, para a psicanalista Joana Novaes, é preciso se manter atento a mudanças comportamentais e buscar ajuda profissional.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/perda-de-peso-acelerada-3.png?resize=1920%2C1080&amp;ssl=1\" alt=\"\" width=\"1920\" height=\"1080\" /></figure><p>Ter uma rede de apoio que incentive o acompanhamento profissional é crucial. Pessoas com distúrbios alimentares apresentam certa resistência em manter o tratamento, apenas 5% seguem o acompanhamento, segundo a psicanalista. Esse panorama se agrava, pois, a maior parte dos pacientes que continua o tratamento já se encontra num estágio avançado e com consequências consolidadas. “Esses sujeitos veem no psicólogo, no psiquiatra, no nutricionista, um inimigo. O que acontece nesses casos é que a família ou alguém próximo busca ajuda, mas que o sujeito tem muita resistência”, explica.</p><p>Desse modo, é importante saber quais os sinais e em quais lugares procurar amparo. Além dos profissionais já citados, portais como o centro de valorização a vida podem ser ferramentas úteis para minimizar os efeitos dos problemas de imagem e distúrbios alimentares.&nbsp;</p><p></p><p><em>Rafaela Barbosa – 8º período </em></p></main>"
+  },
+  "date": "2020-10-19T16:10:29",
+  "date_gmt": "2020-10-19T19:10:29",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mudanças na rotina e o estresse causado pela pandemia de Covid-19 causam impacto na autoestima de mulheres A mudança na rotina e aumento dos níveis de estresse provocados pela atual crise sanitária podem desencadear distúrbios de imagem e autoestima. Gordofobia, anorexia e derivados da pressão estética são situações que não escolhem o gênero. Porém, mulheres [&hellip;]</p>\n"
+  },
+  "featured_media": 7915,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7903"
+  },
+  "id": 7903,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/perda-de-peso-acelerada-4.png?fit=1920%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-23t",
+  "link": "https://agenciauvabarra.com/2020/10/19/os-efeitos-do-isolamento-social-na-autoimagem-feminina/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-19T17:55:52",
+  "modified_gmt": "2020-10-19T20:55:52",
+  "ping_status": "open",
+  "slug": "os-efeitos-do-isolamento-social-na-autoimagem-feminina",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    102609,
+    706411023
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Os efeitos do isolamento social na autoimagem feminina"
+  },
+  "type": "post"
+}

@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12810/revisions/12824",
+        "id": 12824
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12810"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12810",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12810/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12810"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12821"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12810",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12810",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    10567
+  ],
+  "class_list": [
+    "post-12810",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-psicologia",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os conceitos de Freud, os desafios enfrentados pelos psicólogos e a ligação com o renascentismo, foram temas abordados nas palestras</em></p><p>Na sexta-feira, 09/09, ocorreu o último dia da Semana da Psicologia no campus UVA Barra com o encontro do Mestrado e Doutorado em Psicanálise. A conferência contou com a presença de diversos profissionais da área.</p><p>A primeira mesa do dia teve a coordenação da doutoranda Ana Paula Cavalcanti com a presença de Christiane Couri, José Maurício Loures e Richard Couto. O docente José Maurício Loures trouxe para o debate a fotógrafa Francesca Woodman e a relação com o auto retrato e o período renascentista. “Eu mostrei como no renascimento havia essa preocupação com a perfeição do quadro como se a tela fosse uma janela para o mundo”, diz José.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_2883.jpg?resize=4032%2C3024&#038;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>De acordo com José, Francesca fez uma ruptura com a tendência que se encontrava no renascimento. (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_2874.jpg?resize=4032%2C3024&#038;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Para Richard, é necessário o avanço da inclusão de pessoas com sofrimentos psíquicos. (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_2880.jpg?resize=4032%2C3024&#038;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Christiane trouxe dicas para quem deseja ingressar no meio profissional. (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_2878.jpg?resize=4032%2C3024&#038;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Ana Paula retratou como é o “CAF”, Centro de Apoio Familiar. (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_2868.jpg?resize=4032%2C3024&#038;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>As palestras ajudaram a estudante do 5º período a entender a trajetória que deseja seguir. (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_2885.jpg?resize=4032%2C3024&#038;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Barbara destaca a importância do encontro do mestrado e doutorado dentro da Semana de Psicologia. (Foto: Leonardo Pereira)</figcaption></figure><p>Citações aos conceitos de Freud dentro da psicologia e da psicanálise, entre eles sobre preconceito e a disputa por espaço com a medicina, movimentaram o debate pela manhã. Richard Couto procurou ressaltar a invisibilidade de pessoas com sofrimentos psíquicos. “Por mais que a gente tenha avançado em muitos pontos da política de saúde mental, ainda temos muito preconceito com pessoas que são portadoras de sofrimento psíquico graves, principalmente. Existem muitos termos pejorativos como ‘doido’ ou ‘louco’ de rua”, afirma.</p><p>Além das pesquisas acadêmicas, o Encontro também trouxe orientações profissionais. A doutoranda Christiane Couri falou sobre as projeções de carreira e também deu uma dica para quem está ingressando nesse meio. “Primeira coisa é ter desejo naquilo que faz”, ressalta Christiane</p><p><strong>Christiane Couri cita recomendações no vídeo abaixo.</strong></p><figure><iframe src=\"https://www.youtube.com/embed/TSVFfJ9SmTw?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>A doutoranda Ana Paula Cavalcanti foi a coordenadora de mesa e falou sobre o “CAF” – Centro de Atendimento Familiar, um núcleo de atendimento multidisciplinar. A ação ajuda diversas crianças no momento da internação e conta com a presença de diferentes profissionais.</p><p><strong>Ana Paula explica a atuação transformadora do CAF.</strong></p><figure><iframe title=\"Ana Paula explica mais sobre o &quot;Centro de Atendimento Familiar&quot; by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1343378890&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\"></iframe></figure><p>Quem acompanhou de perto o Encontro foi a aluna Zayra, do 5° período de psicologia. “Eu fiquei muito feliz de ter a oportunidade de ouvir tanta gente diferente. Me ajudaram a abranger e entender a linha que eu quero seguir”, disse a estudante.</p><p>Para a coordenadora do curso de psicologia, Barbara Carissimi, a conferência foi palco de ensinamentos. “É uma oportunidade para os alunos conhecerem profissionais e suas experiências de diversos campos e abordagens da psicologia”, conclui a coordenadora.</p><p><em>Igor Concolato – 2° período<br>Matheus Moraes – 2° período</em></p></main>"
+  },
+  "date": "2022-09-14T18:13:52",
+  "date_gmt": "2022-09-14T21:13:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Na sexta-feira, 09/09, ocorreu o último dia da Semana da Psicologia no campus UVA Barra com o encontro do Mestrado e Doutorado em Psicanálise. A conferência contou com a presença de diversos profissionais da área. </p>\n"
+  },
+  "featured_media": 12821,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12810"
+  },
+  "id": 12810,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/whatsapp-image-2022-09-13-at-11.25.32.jpeg?fit=1600%2C1200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3kC",
+  "link": "https://agenciauvabarra.com/2022/09/14/xix-encontro-do-mestrado-xii-encontro-do-doutorado-em-psicanalise-saude-e-sociedade-marcou-o-ultimo-dia-da-semana-da-psicologia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-09-14T18:14:59",
+  "modified_gmt": "2022-09-14T21:14:59",
+  "ping_status": "open",
+  "slug": "xix-encontro-do-mestrado-xii-encontro-do-doutorado-em-psicanalise-saude-e-sociedade-marcou-o-ultimo-dia-da-semana-da-psicologia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "XIX Encontro do Mestrado, XII Encontro do Doutorado em Psicanálise, Saúde e Sociedade, marcou o último dia da Semana da Psicologia"
+  },
+  "type": "post"
+}

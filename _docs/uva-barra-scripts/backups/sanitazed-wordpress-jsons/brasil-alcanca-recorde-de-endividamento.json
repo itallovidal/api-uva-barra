@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10580/revisions/10595",
+        "id": 10595
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10580"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10580",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10580/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10580"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10592"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10580",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10580",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    11716206,
+    7114,
+    14591
+  ],
+  "class_list": [
+    "post-10580",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-economia-2",
+    "category-sociedade",
+    "category-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Números que já eram ruins antes da pandemia, se elevam e deixam famílias brasileiras aflitas com o futuro</em></p><p>A administradora Virgínia Elizabeth Amorim, de 33 anos, detinha em sociedade com o tio, uma casa lotérica, pioneira na cidade do Rio de Janeiro, situada na Avenida Rio Branco, Centro da Cidade, e após o falecimento dele, em conjunto com as despesas oriundas do óbito, e na ausência de seu principal sócio administrador, não conseguiu custear sozinha com as despesas provenientes do estabelecimento, que após mais de quarenta anos de funcionamento, se viu na iminência de fechar as portas, deixando uma dívida em torno de duzentos mil reais. “Não sei o que fazer, estou desesperada. As dívidas se acumulam, os funcionários estão acionando o Judiciário e não consigo nem quitar minhas próprias contas”, conta.</p><p>Ela também relatou sobre as dificuldades enfrentadas após a perda de sua única fonte de renda e de como vem sendo o caminho em busca do reequilíbrio financeiro. Ouça abaixo:</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-virginia.jpg?resize=721%2C1600&amp;ssl=1\" alt=\"\" width=\"721\" height=\"1600\"><figcaption>Virgínia se encontra em situação financeira delicada após perda da loteria. (Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-diogo.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\"><figcaption>Diogo (o segundo da esquerda para direita) acredita que só vai conseguir se equilibrar com novo emprego. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-davi.jpg?resize=640%2C640&amp;ssl=1\" alt=\"\" width=\"640\" height=\"640\"><figcaption>Davi afirma que o país não estava preparado para enfrentar a crise. (Foto: Arquivo Pessoal)</figcaption></figure><p>O caso da administradora de empresas é mais um entre tantos outros de endividamento da população, que alcançou a expressiva marca de 74%, de acordo com a Pesquisa de Endividamento e Inadimplência do Consumidor (PEIC), apresentada em outubro pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). Em relação ao ano passado, o nível de endividamento aumentou em 6,8%.</p><p>A pesquisa elaborada pela PEIC, aborda diversos tipos de endividamento, e não somente o aumento dessas dívidas implicam apenas em contas atrasadas, valendo destacar cheque pré-datado, cartão de crédito, cheque especial (LIS), carnê de loja, crédito consignado, empréstimo pessoal, prestações de carro e casa própria. Com a alta de setembro, o indicador renovou o nível recorde, entretanto, ocorreu uma diminuição na taxa de inadimplência, sinalizando um panorama menos negativo.</p><p>De acordo com a CNC, a diminuição da inadimplência deve se estabelecer até o fim deste ano, apresentando todo empenho da população em honrar com a manutenção de seus compromissos regularmente, seja através de renegociação, maior controle dos gastos ou evitando consumir produtos dispensáveis.</p><p>Outro fator preponderante para o recorde de endividamento entre as famílias brasileiras é com relação a elevada taxa dos juros básicos conduzidos pelo Banco Central, que por outro lado, pode vir a ser um obstáculo para manter a queda da inadimplência, eis que o Imposto sobre Operações Financeiras (IOF), mesmo que não permanente, acirra ainda mais esse custo.</p><p>O comissário de bordo Diogo Vieira Pinguelli, de 34 anos, que trabalhou por quase uma década na Companhia Aérea LATAM, foi dispensado pela empresa em junho do ano passado, e teve a rotina alterada após a demissão ainda durante a pandemia, quando precisou arcar, além das despesas da casa, com os medicamentos de sua mãe, diabética e hipertensa e de seu tio, idoso e cadeirante. “Minha mãe e meu tio dependem exclusivamente de mim, e os custos com seus remédios e plano de saúde estão cada vez mais onerosos, e após meu desligamento, precisei pedir dinheiro emprestado a amigos próximos e familiares”, revela.</p><p>O assistente de voo conta também que necessitou recorrer ao banco em busca de empréstimos para auxiliar nas despesas do dia a dia, o que o deixou com dívidas que perduram até hoje. Ouça abaixo:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1150946830&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Diogo Vieira conta sobre a crise financeira que vive após demissão by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>A alta no valor dos combustíveis, também continua sendo um dos pontos que o Governo Federal tenta encontrar soluções para frear. Discute-se a criação de um fundo que estabilize os valores de comercialização, através de ações integradas em conjunto com investimentos do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e do Pré SAL Petróleo S.A. (PPSA), porém, existe a necessidade do governo conseguir produzir superávit para comprar reservas que ele já possui.</p><p>Conforme a Agência Nacional do Petróleo (ANP), os brasileiros consumiram 131,7 bilhões de litros de combustível em 2020, o menor desde 2012, contudo, com o retorno do trabalho e das atividades econômicas, o total deve ser muito maior em 2021, sendo apenas de gasolina quase 36 bilhões de litros (35,8 bilhões, segundo a ANP).</p><p>O economista Davi Gimenes, que trabalha no Sistema de Gestão Online para Empresários e Contadores (NIBO), admite que a crise hídrica impacta diretamente na inflação, que tende a se manter elevada, com maior incidência de juros e consumo e investimentos cada vez menores.</p><p>Ele assegura que com a alta da inflação, o poder de compra dos consumidores diminui drasticamente. “Se continuarmos mantendo o ritmo atual, a taxa de inflação até 2022 deve ficar entre 7,5% e 8%. O IPCA subiu em julho deste ano, e o mercado está precificando a taxa de juros para o ano que vem”, explica.</p><p>A pandemia possibilitou um maior agravamento da crise, mas a realidade mostra que o país não estava protegendo a economia. “É impossível descartar que a inflação atingiu setores vitais, portanto, pode-se concluir que medidas precisam ser tomadas em toda a cadeia”, afirma o economista.</p><p>Ouça o que Davi Gimenes fala sobre soluções viáveis para minimizar o endividamento:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1150947853&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Davi Gimenes fala sobre medidas que ele acredita serem importantes para minimizar a crise by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Vale ressaltar que segundo o Banco Central, o pico inflacionário atingiu sua máxima em setembro, e deve recuar para fechar o ano em 8,5%. Em encontro realizado no evento online promovido pelo jornal Valor Econômico, o presidente do Órgão confirmou que subirá os juros até onde for necessário no intuito de brecar essa alta, que em 2022 fechará próximo da meta de 3,5%.</p><p><em>Bruno Sadock – 6º período</em></p></main>"
+  },
+  "date": "2021-11-04T18:43:48",
+  "date_gmt": "2021-11-04T21:43:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A administradora Virgínia Elizabeth Amorim, de 33 anos, detinha em sociedade com um tio, uma casa lotérica, pioneira na cidade do Rio de Janeiro, situada na Avenida Rio Branco, Centro da Cidade, e após o falecimento dele, em conjunto com as despesas oriundas do óbito, e na ausência de seu principal sócio administrador, não conseguiu custear sozinha com as despesas provenientes do estabelecimento, que após mais de quarenta anos de funcionamento, se viu na iminência de fechar as portas, deixando uma dívida em torno de duzentos mil reais. “Não sei o que fazer, estou desesperada. As dívidas se acumulam, os funcionários estão acionando o Judiciário e não consigo nem quitar minhas próprias contas&#8221;, conta. </p>\n"
+  },
+  "featured_media": 10592,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10580"
+  },
+  "id": 10580,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/capa-site-agencia-amarelo.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2KE",
+  "link": "https://agenciauvabarra.com/2021/11/04/brasil-alcanca-recorde-de-endividamento/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-04T18:53:23",
+  "modified_gmt": "2021-11-04T21:53:23",
+  "ping_status": "open",
+  "slug": "brasil-alcanca-recorde-de-endividamento",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Brasil alcança recorde de endividamento"
+  },
+  "type": "post"
+}

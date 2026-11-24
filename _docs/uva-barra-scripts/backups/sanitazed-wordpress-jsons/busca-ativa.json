@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13961/revisions/13967",
+        "id": 13967
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13961"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13961",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13961/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13961"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13965"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13961",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13961",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    9838342,
+    7114
+  ],
+  "class_list": [
+    "post-13961",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-serie-documental",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-buscaativa",
+    "tag-documentario",
+    "tag-educacao",
+    "tag-resgate"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O documentário “Busca ativa” tem como objetivo mostrar a realidade de um projeto que busca resgatar crianças e adolescentes que abandonaram a escola e alertar para o problema da evasão escolar que acontece no Brasil.</p><p>O produto audiovisual mostra depoimentos de profissionais que trabalham no projeto, algumas mães que fazem o trabalho voluntário, além de relatos de pessoas que largaram a escola em algum momento da vida dizendo como se arrependem da decisão. O documentário foi produzido pelos alunos Letícia Victória, Beatriz Veloso, Fabiana Souza e Pedro Stanesco e traz como foco os motivos mais comuns pelos quais acontecem o abandono do ensino por parte de adolescentes e jovens. Assista!</p><figure><iframe src='https://www.youtube.com/embed/BbNoymBFFzM' width='640' height='360' title='Documentário Busca ativa' allowfullscreen></iframe></figure><p>Documentário produzido para a disciplina de Videodocumentário, sob a supervisão do professor Anderson Barreto.</p></main>"
+  },
+  "date": "2023-01-09T16:15:24",
+  "date_gmt": "2023-01-09T19:15:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O documentário “Busca ativa” tem como objetivo mostrar a realidade de um projeto que busca resgatar crianças e adolescentes que abandonaram a escola e alertar para o problema da evasão escolar que acontece no Brasil. </p>\n"
+  },
+  "featured_media": 13965,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13961"
+  },
+  "id": 13961,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/01/captura-de-tela-11-320018706-e1673303377130.png?fit=1357%2C703&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Db",
+  "link": "https://agenciauvabarra.com/2023/01/09/busca-ativa/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-01-09T19:38:47",
+  "modified_gmt": "2023-01-09T22:38:47",
+  "ping_status": "open",
+  "slug": "busca-ativa",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    758725066,
+    45958,
+    767056613,
+    1399496
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Busca Ativa: Um projeto de resgate"
+  },
+  "type": "post"
+}

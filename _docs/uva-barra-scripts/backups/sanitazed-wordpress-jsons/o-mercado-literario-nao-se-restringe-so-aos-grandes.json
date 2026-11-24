@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5115/revisions/5137",
+        "id": 5137
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5115"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5115",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5115/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5115"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5132"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5115",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5115",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    3719
+  ],
+  "class_list": [
+    "post-5115",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-bienal-do-livro-2019",
+    "tag-libre",
+    "tag-riocentro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>XIX Bienal abre espaço para editoras independentes</em></p><p>A Bienal Internacional é uma vitrine para muitos escritores. A XIX edição apresentou o trabalho de nomes já consagrados da literatura, mas também abriu espaço para editoras independentes e autores autônomos, uma forma de expor obras e alcançar novos públicos. Uma oportunidade de driblar a crise do cenário editorial brasileiro.</p><p>A Liga Brasileira de Editoras (LIBRE) também estava presente na Bienal. Com o objetivo de reunir editoras independentes para fortalecer o mercado literário, a LIBRE neste ano aumentou a inserção de seus associados em feiras, por meio de estande coletivo ou inscrição coletiva em condições especiais de participação. “Ser uma editora independente é constantemente lutar para ter sua marca reforçada. Temos a dificuldade da distribuição de livros como um grande inimigo” diz a presidente da Liga, Raquel Menezes.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/thumbnail_img_0739.jpg?resize=541%2C360&amp;ssl=1\" alt=\"\" width=\"541\" height=\"360\" /><figcaption>Atividades de pintura para as crianças – Foto: Kaliane Trindade</figcaption></figure><p>Grandes marcas possuem estruturas de divulgação e marketing e conseguem uma fatia do mercado face ao trabalho das pequenas editoras. Denise Rocha Mourthé, 47 anos, da Editora Mourthé, entende as dificuldades, entretanto não se rende a eles e busca soluções criativas para se manter. “É muito complexa a distribuição, você não consegue botar seus livros nas grandes livrarias, e as únicas opções de venda são feiras e sites” e também conta que conheceu a LIBRE na Primavera Literária e viu como juntos se tornam mais fortes.</p><p>Desde sua fundação, a LIBRE vem consolidando seu papel por meio da presença em debates públicos sobre a política do livro com as demais entidades representativas do mercado editorial e em eventos nacionais e internacionais.</p><p>Beatrice Laeber – 4° Período | Jornalismo</p></main>"
+  },
+  "date": "2019-09-05T22:35:00",
+  "date_gmt": "2019-09-06T01:35:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>XIX Bienal abre espaço para editoras independentes A Bienal Internacional é uma vitrine para muitos escritores. A XIX edição apresentou o trabalho de nomes já consagrados da literatura, mas também abriu espaço para editoras independentes e autores autônomos, uma forma de expor obras e alcançar novos públicos. Uma oportunidade de driblar a crise do cenário [&hellip;]</p>\n"
+  },
+  "featured_media": 5132,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5115"
+  },
+  "id": 5115,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/thumbnail_img_0736.jpg?fit=1280%2C853&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1kv",
+  "link": "https://agenciauvabarra.com/2019/09/05/o-mercado-literario-nao-se-restringe-so-aos-grandes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-11T00:03:14",
+  "modified_gmt": "2019-09-11T03:03:14",
+  "ping_status": "open",
+  "slug": "o-mercado-literario-nao-se-restringe-so-aos-grandes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    683955564,
+    59967,
+    10031061
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O mercado literário não se restringe só aos grandes"
+  },
+  "type": "post"
+}

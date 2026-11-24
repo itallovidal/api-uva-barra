@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5077/revisions/5112",
+        "id": 5112
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5077"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5077",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5077/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5077"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5100"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5077",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5077",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    3719
+  ],
+  "class_list": [
+    "post-5077",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-bienal-do-livro-2019",
+    "tag-feira-literaria",
+    "tag-riocentro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A Arena #SemFiltro recebeu mulheres para falar sobre o poder da escrita</em></p><p>Um dos termos mais discutidos nos últimos anos, o empoderamento feminino reuniu a atriz Lellê, a cantora Alenis Assumpção e a escritora Joice Berth para o bate papo “Escrever para empoderar, na Arena #SemFiltro. A mesa mediada pela jornalista Ana Paula Lisboa salientou a escrita feminina, que mostra a força da mulher leitora e escritora. Escrever, mesmo que em diferentes formas, também faz parte da luta pela igualdade de gênero.</p><p>As participantes da mesa contaram sobre como as mulheres que estiveram presentes na vida delas influenciaram na formação pessoal. “A maior parte da minha vida fui criada pela minha avó paterna Maria José, ela é minha deusa e me criou de uma forma muito corajosa, ousada. Ela já sabia que eu era um espírito livre”, relembra a atriz Lellê. Ela também fala que quando começou a pensar na carreira profissional, percebeu a influência da estética e que o autoconhecimento ajudou nesse processo de entendimento.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_0827-1.jpg?resize=6000%2C4000&#038;ssl=1\" alt=\"\" width=\"6000\" height=\"4000\" /><figcaption>A atriz e cantora Alessandra Aires Landim é mais conhecida como Lellê. Foto: Kaliane Trindade</figcaption></figure><p>Para sistematizar o termo empoderamento, a autora Joice Berth lançou o livro “O que é empoderamento?” da coleção “Feminismos plurais&#8221;. A obra traz para escrita o aprofundamento de conceitos discutidos nas redes sociais. “Eu fui toda feliz achando que iria arrasar e que sabia sobre tudo, mas quando comecei a pesquisar percebi que estava totalmente equivocada”, conta sobre o processo de criação do livro e as dificuldades.</p><p>A Arena #SemFiltro estava repleta de adultos e crianças que se viam representados e estavam presentes para ouvir e aprender mais sobre o tema. As booktubers Eduarda Ferreira e Helena Ferreira do canal no YouTube “Pretinhas Leitoras” &#8211; que promove a leitura e a educação antirracista &#8211; se interessaram pelo assunto. “Nós ficamos muito animadas com a essa roda de conversa e foi muito legal a fala delas pra gente entender um pouco mais”, explica Helena.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_0857-1.jpg?resize=5643%2C3870&#038;ssl=1\" alt=\"\" width=\"5643\" height=\"3870\" /><figcaption>O canal no Youtube &#8220;Pretinhas leitoras&#8221; tem mais de 1 mil inscritos. Foto: Kaliane Trindade</figcaption></figure><p>A XIX edição da maior feira literária do país evidenciou diversos temas importantes, entre eles o empoderamento feminino. A notoriedade e a oportunidade de falar sobre o assunto num espaço como a Bienal do Livro representa muito para quem participou da mesa.</p><p>Confira a entrevista exclusiva com a atriz Lellê e a cantora Anelis Assumpção:</p><figure><iframe src=\"https://www.youtube.com/embed/d8HTb_vToIU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Kaliane Trindade &#8211; 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-08T18:40:28",
+  "date_gmt": "2019-09-08T21:40:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Arena #SemFiltro recebeu mulheres para falar sobre o poder da escrita Um dos termos mais discutidos nos últimos anos, o empoderamento feminino reuniu a atriz Lellê, a cantora Alenis Assumpção e a escritora Joice Berth para o bate papo “Escrever para empoderar, na Arena #SemFiltro. A mesa mediada pela jornalista Ana Paula Lisboa salientou [&hellip;]</p>\n"
+  },
+  "featured_media": 5100,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5077"
+  },
+  "id": 5077,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_0827.jpg?fit=6000%2C4000&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1jT",
+  "link": "https://agenciauvabarra.com/2019/09/08/o-empoderamento-dentro-da-escrita-e-das-narrativas-pessoais/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-09T19:53:24",
+  "modified_gmt": "2019-09-09T22:53:24",
+  "ping_status": "open",
+  "slug": "o-empoderamento-dentro-da-escrita-e-das-narrativas-pessoais",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    683955564,
+    22416202,
+    10031061
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O empoderamento dentro da escrita e das narrativas pessoais"
+  },
+  "type": "post"
+}

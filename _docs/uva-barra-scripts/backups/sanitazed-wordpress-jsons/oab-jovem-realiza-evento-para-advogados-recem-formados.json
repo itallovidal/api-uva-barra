@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4605/revisions/4617",
+        "id": 4617
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4605"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4605",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4605/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4605"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4605",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4605",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4605",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-comissao-oab-jovem",
+    "tag-direito",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em> Palestras, trocas de informações e acompanhamento profissional fizeram parte do roteiro do I seminário da Jovem advocacia </em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/thumbnail_img_8921.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\" /><figcaption>Patrícia Pacheco, Presidente da Comissão OAB Jovem, e membros da comissão participaram do I seminário da Jovem advocacia- Foto: Beatrice Laeber</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/thumbnail_img_8923.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\" /><figcaption>Cristiano Sobral durante palestra sobre Marketing Jurídico – Foto: Beatrice Laeber</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/thumbnail_img_8933.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\" /><figcaption>Dr. Marcus Soares com membros da Comissão OAB Jovem – Foto: Beatrice Laeber</figcaption></figure><p>As comissões OAB Jovem da Barra da Tijuca e Campo Grande se uniram para o I seminário da Jovem advocacia, que aconteceu dia 09/08 no auditório da Universidade Veiga de Almeida, campus Barra. A proposta do evento foi trazer aos advogados mais novos uma conexão com a Ordem e apresentar mecanismos de inserção no mercado.</p><p>Durante o dia, profissionais que se destacam por sua atuação no meio jurídico foram palestrar sobre temas atuais e de importância ao advogado. Um deles, debateu sobre o Compliance como Novo Nicho de Mercado, e outro sobre a Inteligência Emocional. Os painéis foram abordados pelos juristas Cláudio Carneiro e Andrea Martelotta, respectivamente.</p><p>A formação dos novos advogados é uma preocupação da comissão OAB Jovem. A ideia do evento é ser um espaço para transmitir as próprias experiências e auxiliar os profissionais do Direito, que ainda estão em início de carreira, a vencer os obstáculos dos primeiros anos de atuação.</p><p>Esta edição teve a participação de 150 inscritos e não se restringiu somente aos bacharéis. Na plateia, a participação de quem ainda está na faculdade. Para a aluna do 9º período de Direito, Silvana Hosokawa é muito interessante ter eventos desse tipo dentro da Universidade e de graça. “Aqui adquirimos conhecimentos que não são dados em sala de aula, vem coisas novas que na teoria não são mostradas, que só se aprende com prática”, afirma a futura advogada.</p><p>A presidente da comissão OAB Jovem da Barra da Tijuca Patrícia Pacheco conta que o foco é trabalhar com o apoio ao advogado recém aprovado na prova da OAB “Fornecemos amparo da classe em prol das prerrogativas, valorização da classe, e capacitação profissional”. Nesta troca de experiências, um tema chamou a atenção, o Marketing Jurídico, afinal muitos advogados não sabem como atrair clientes e usar isso a seu favor. O Dr. Cristiano Sobral esclareceu algumas dúvidas, confira o vídeo abaixo:</p><figure><iframe src=\"https://www.youtube.com/embed/wKO30k5T6_Y?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Beatrice Laeber – 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-08-12T20:41:23",
+  "date_gmt": "2019-08-12T23:41:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestras, trocas de informações e acompanhamento profissional fizeram parte do roteiro do I seminário da Jovem advocacia As comissões OAB Jovem da Barra da Tijuca e Campo Grande se uniram para o I seminário da Jovem advocacia, que aconteceu dia 09/08 no auditório da Universidade Veiga de Almeida, campus Barra. A proposta do evento foi [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4605"
+  },
+  "id": 4605,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1ch",
+  "link": "https://agenciauvabarra.com/2019/08/12/oab-jovem-realiza-evento-para-advogados-recem-formados/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-12T20:41:23",
+  "modified_gmt": "2019-08-12T23:41:23",
+  "ping_status": "open",
+  "slug": "oab-jovem-realiza-evento-para-advogados-recem-formados",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    184444746,
+    767056624,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "OAB Jovem realiza evento para advogados recém-formados"
+  },
+  "type": "post"
+}

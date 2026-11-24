@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6934/revisions/6946",
+        "id": 6946
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6934"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6934",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6934/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6934"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6938"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6934",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6934",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6934",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-secom-2020"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Diversidade de temas une calouros e veteranos na primeira experiência online do evento</em></p><p>Além das palestras, a Semana de Comunicação 2020 (SECOM) ofereceu oficinas diversificadas. O público contou na quinta (28) e sexta-feira (29) com aula de Yoga, receitas saudáveis, dicas de maquiagens e como iniciar na carreira de <em>microinfluencer </em>na internet.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/2020-05-28-13.png?resize=452%2C611&#038;ssl=1\" alt=\"Professora de Yoga Patricia Varzakakos\" width=\"452\" height=\"611\"><figcaption>Professora de Yoga Patricia Varzakakos – Foto: Reprodução redes sociais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-30-at-13.34.36.jpeg?resize=750%2C742&#038;ssl=1\" alt=\"Cinara Oliveira ensina receitas fáceis e saudáveis\" width=\"750\" height=\"742\"><figcaption>Cinara Oliveira ensina receitas fáceis e saudáveis – Foto: Reprodução redes sociais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/2020-05-28-12.png?resize=1360%2C613&#038;ssl=1\" alt=\"Overnight Oats é uma das receitas que Cinara ensinou\" width=\"1360\" height=\"613\"><figcaption>Overnight Oats é uma das receitas que Cinara ensinou – Foto: Reprodução internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/2020-05-29-14.png?resize=450%2C613&#038;ssl=1\" alt=\"Thatiana Alves faz tutorial de maquiagem\" width=\"450\" height=\"613\"><figcaption>Thatiana Alves faz tutorial de maquiagem – Foto: Reprodução redes sociais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-30-at-13.03.25.jpeg?resize=962%2C1280&#038;ssl=1\" alt=\"A aluna Rafaella Amancio diz que aproveitou bastante as dicas das oficinas\" width=\"962\" height=\"1280\"><figcaption>A aluna Rafaella Amancio diz que aproveitou bastante as dicas das oficinas – Foto: Arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-30-at-13.34.36-1.jpeg?resize=750%2C929&#038;ssl=1\" alt=\"Isabella Lima conversa sobre microinfluencers\" width=\"750\" height=\"929\"><figcaption>Isabella Lima conversa sobre microinfluencers – Foto: Reprodução redes sociais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-29-at-22.16.05.jpeg?resize=959%2C1280&#038;ssl=1\" alt=\"A estudando Júlia Rodrigues apresentou a SECOM 2020\" width=\"959\" height=\"1280\"><figcaption>A estudando Júlia Rodrigues apresentou a SECOM 2020 – Foto: Arquivo pessoal</figcaption></figure><p>A maratona de oficinas teve início com a professora Patricia Varzakakos falando sobre Yoga. A profissional contou que começou a praticar os exercícios em 2007 e decidiu dar aulas a partir de 2013. Patrícia também ensinou sobre a teoria do Yoga e como os exercícios podem mudar a vida de alguém, incluindo o psicológico. “Aprender as técnicas é um manual de sobrevivência. Quando adquirimos esse conhecimento, nós vamos nos socorrer”, diz.</p><p>Logo após o bate-papo sobre Yoga, a SECOM levou o público para cozinha. A professora da Universidade Veiga de Almeida campus Barra e nutricionista Cinara Oliveira ensinou receitas fáceis e saudáveis, além de conversar sobre como e o que é ter uma alimentação adequada. “Quanto mais colorido o seu prato, mais nutritivo estará”, ressalta. A nutricionista também fala que é indispensável promover saúde dentro de casa durante a quarentena, seja mental ou nutritiva, para manter uma boa convivência em tempos difíceis.</p><p>No segundo dia do evento, a primeira oficina foi sobre dicas de maquiagem com a profissional Thatiana Alves. A maquiadora fez um tutorial de maquiagem e durante o processo, conversou com o público sobre dicas de marcas, como utilizar e truques para o dia a dia.</p><p>Confira uma parte da oficina de Make:</p><figure><iframe src=\"https://www.youtube.com/embed/6cYUr7JH1F8?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo da oficina de Make\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p>A aluna do 3º período de Publicidade e Propaganda, Rafaella Amancio, disse que foi a sua oficina preferida pela dinâmica que a Thatiana usou de dialogar enquanto ensinava como fazer a <em>make</em>. “Colocaram uma pessoa que é extremamente talentosa e eu pude aprender bastante truques. Agora já posso me virar sozinha! Ela também foi bastante leve e divertida”.</p><p>Para encerrar as oficinas deste ano, a última live foi com a influencer Isabella Lima e sua assessora Tayná Garcia que apresentaram o mundo de <em>microinfluencers </em>e como inserir-se nele. Isabella pontuou que o essencial é o indivíduo ser sempre transparente com o público e não deixar que os julgamentos interrompam o projeto. “Não posso deixar que as críticas me parem, senão eu nunca chegarei a lugar nenhum”.</p><p>Tayná conta que o primeiro passo nesse universo é criar a rede social pensando em si próprio. “Crie primeiro a sua marca pessoal. Vão ter pessoas que vão se identificar e assim você atrairá público”. A assessora terminou dizendo que é um trabalho que deve ser atualizado todos os dias, então a pessoa deve ter em mente que é uma profissão que tem quer ter foco e paciência.</p><p>Veja as dicas de Isabella e Tayná de como se tornar <em>influencer:</em></p><figure><iframe src=\"https://www.youtube.com/embed/cjWVfjbAddA?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo de dicas de Isabella e Tayná\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p>A SECOM virtualizada trouxe novidades para os idealizadores e os participantes. A estudante do 7º período de Jornalismo e apresentadora da SECOM, Júlia Rodrigues diz que apesar dos obstáculos de produzir um evento a distância, os comentários e o resultado foram positivos. “Para chegar até o produto final tiveram muitos desentendimentos, como em todo grupo, mas no fim deu tudo certo e fiquei muito feliz com o resultado”, conclui.</p><p><strong>Isabella Lutz – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-30T17:36:44",
+  "date_gmt": "2020-05-30T20:36:44",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Diversidade de temas une calouros e veteranos na primeira experiência online do evento Além das palestras, a Semana de Comunicação 2020 (SECOM) ofereceu oficinas diversificadas. O público contou na quinta (28) e sexta-feira (29) com aula de Yoga, receitas saudáveis, dicas de maquiagens e como iniciar na carreira de microinfluencer na internet. A maratona de [&hellip;]</p>\n"
+  },
+  "featured_media": 6938,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6934"
+  },
+  "id": 6934,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/2020-05-28-12.png?fit=1360%2C613&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1NQ",
+  "link": "https://agenciauvabarra.com/2020/05/30/oficinas-tomaram-conta-das-tardes-da-secom-2020/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-30T20:35:32",
+  "modified_gmt": "2020-05-30T23:35:32",
+  "ping_status": "open",
+  "slug": "oficinas-tomaram-conta-das-tardes-da-secom-2020",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    698484322
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Oficinas tomaram conta das tardes da Secom 2020"
+  },
+  "type": "post"
+}

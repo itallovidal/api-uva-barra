@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6427/revisions/6439",
+        "id": 6439
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6427"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6427",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6427/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6427"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6430"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6427",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6427",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    4753134,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-6427",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-quarentena",
+    "category-saude",
+    "category-sociedade",
+    "tag-coronavirus",
+    "tag-isolamento-social",
+    "tag-quarentena"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Pacientes e psicólogos estão se adaptando ao novo momento</em></p><p>Os consultórios estão vazios, mas a sessão de terapia ganhou um novo divã. Muitos psicólogos buscam auxiliar os pacientes através da tecnologia. A possibilidade do atendimento on line veio da Lei n°11, de 11 de maio de 2018, aprovada pelo Conselho Federal de Psicologia, que consta o dever do profissional em prestar serviços de qualidade em condições dignas e apropriadas. A lei reconhece os meios tecnológicos de informação e comunicação como forma de mediações que podem ser utilizadas para realização das consultas.</p><p>A psicóloga Elisa Rodrigues, professora do curso de Psicologia da Universidade Veiga de Almeida, afirma que toda essa situação diferente e inusitada que estamos vivendo, tem gerado grande ansiedade e desespero nas pessoas, aumentando a busca pelo serviço. Segundo ela, esses fatores e o aumento pela procura por sessões, gerou uma urgência para que os profissionais se adaptem ao momento que estamos vivendo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-elisa-2.jpg?resize=504%2C334&amp;ssl=1\" alt=\"\" width=\"504\" height=\"334\" /><figcaption>A psicóloga Elisa acredita que a qualidade e a ética da profissão devem vir sempre em primeiro lugar &#8211; Foto: Arquivo Pessoal</figcaption></figure><p>A estudante de direito, Ana Clara Fernandes, 21 anos, frequenta a terapia há dois anos. Conta que, pelo seu caso se tratar de uma situação emergencial e as consultas a ajudarem muito a conciliar suas questões, escolheu continuar com as sessões online, mesmo não sentindo o mesmo resultado que recebia com as presenciais.</p><p>Em um momento em que o atendimento no consultório não é permitido, a presença online do profissional, através da disponibilidade e da tentativa de amenizar o mal estar é essencial. Elisa Rodrigues acredita que o psicólogo deve atender o paciente em qualquer condição que seja ideal, mesmo não sendo perfeita e adequada para um trabalho completo. “Às vezes é necessário apenas um trabalho de apoio”, explica a professora.</p><p>Ana conta que sentiu dificuldades no começo, por causa da tecnologia. “Meu aparelho celular está com problemas no áudio e o computador possui um difícil manuseio”, explica. Em razão desses problemas, ela acredita que a sessão não tem a mesma qualidade, mas ainda a ajuda muito. “Sinto falta do olho no olho”.</p><p><strong>Um período para novas descobertas</strong></p><p>Letícia Alves Medici, 20 anos, estudante de publicidade, faz terapia há seis anos. Pensou em parar as sessões devido à pandemia, mas por estar vivendo um período de equilíbrio emocional, diz que não pode interromper o tratamento. Conta que sente falta dos métodos realizados no consultório, como as técnicas da acetona, onde o produto é aplicado na barriga para refrescar; do gelo, onde ela segura uma pedra de gelo para distrair sua ansiedade e a técnica onde ela fica ajoelhada, com uma venda nos olhos, ouvindo música ambiente, focando em sua respiração. “Todos esses procedimentos ajudam no controle das minhas crises de ansiedade”, explica.</p><p>Muitos jovens tiveram um aumento de ansiedade. Essa é a percepção da psicóloga clínica Thays Babo, a profissional percebe uma maior preocupação com o futuro, além de questões decorrentes do confinamento e da impossibilidade de ir e vir. No caso de idosos e de pessoas que estão afastadas da família, ela tem percebido sinais de depressão. Separados por uma tela, a psicóloga auxilia os seus pacientes. “Meu trabalho é tentar ajudar nas questões de ansiedade, regular as emoções e ajudar as pessoas a não sofrer por antecipação”, afirma.</p><p><strong>Erik Sequeira &#8211; 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-04-19T15:16:46",
+  "date_gmt": "2020-04-19T18:16:46",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Pacientes e psicólogos estão se adaptando ao novo momento Os consultórios estão vazios, mas a sessão de terapia ganhou um novo divã. Muitos psicólogos buscam auxiliar os pacientes através da tecnologia. A possibilidade do atendimento on line veio da Lei n°11, de 11 de maio de 2018, aprovada pelo Conselho Federal de Psicologia, que consta [&hellip;]</p>\n"
+  },
+  "featured_media": 6430,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6427"
+  },
+  "id": 6427,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-elisa-2.jpg?fit=666%2C441&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1FF",
+  "link": "https://agenciauvabarra.com/2020/04/19/coronavirus-aumenta-procura-por-consultas-online-com-terapeutas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-04-19T15:47:39",
+  "modified_gmt": "2020-04-19T18:47:39",
+  "ping_status": "open",
+  "slug": "coronavirus-aumenta-procura-por-consultas-online-com-terapeutas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056633,
+    8757533,
+    767056634
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Coronavírus aumenta procura por consultas online com terapeutas"
+  },
+  "type": "post"
+}

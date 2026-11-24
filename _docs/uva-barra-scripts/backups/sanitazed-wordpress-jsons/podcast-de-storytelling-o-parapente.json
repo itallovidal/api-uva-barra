@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15565/revisions/15575",
+        "id": 15575
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15565"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15565",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15565/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15565"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15571"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15565",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15565",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    23208,
+    10889,
+    14603,
+    701438832
+  ],
+  "class_list": [
+    "post-15565",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-entretenimento",
+    "category-esporte",
+    "category-jornalismo",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-parapente",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Quanto vale uma aventura? Vale a vida? É esse o tema apresentado no podcast que conta a história de Vitor, que escapou da morte enquanto curtia um fim de tarde em Saquarema.</p><p>Durante um voo de parapente em condições adversas, Vitor sofreu um acidente caindo de uma altura de 20 metros, que ocasionou uma fratura na coluna. Além de relatar a experiência da queda livre, o podcast produzido por Fernanda Done, Juliana Farias, Mel Gabrielli, Isaque Muniz e Mylena Betazzi mostra o sentimento de Ana Paula, esposa de Vitor, ao receber a notícia do acidente. Ouça o podcast completo!</p><figure><img src='https://open.spotify.com/embed/episode/1ERrI5wXKlBAkY67iJlwfM?si=qAo4Dkp9Sy61pZUKV40WKw&#038;utm_source=oembed' alt='Podcast de Storytelling: O Parapente' width='100%' height='152'><figcaption>Spotify Embed: Podcast de Storytelling: O Parapente</figcaption></figure><p>*Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto.</p></main>"
+  },
+  "date": "2023-08-23T17:03:00",
+  "date_gmt": "2023-08-23T20:03:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Quanto vale uma aventura? Vale a vida? É esse o tema apresentado no podcast que conta a história de Vitor, que escapou da morte enquanto curtia um fim de tarde em Saquarema.</p>\n"
+  },
+  "featured_media": 15571,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15565"
+  },
+  "id": 15565,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/paraglider-2293266_1280.jpg?fit=1280%2C852&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-433",
+  "link": "https://agenciauvabarra.com/2023/08/23/podcast-de-storytelling-o-parapente/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-24T17:33:31",
+  "modified_gmt": "2023-08-24T20:33:31",
+  "ping_status": "open",
+  "slug": "podcast-de-storytelling-o-parapente",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    69895,
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast de Storytelling: O parapente"
+  },
+  "type": "post"
+}

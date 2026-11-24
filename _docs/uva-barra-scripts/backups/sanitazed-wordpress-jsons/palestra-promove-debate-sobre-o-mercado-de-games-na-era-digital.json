@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2617/revisions/3020",
+        "id": 3020
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2617"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2617",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2617/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2617"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2618"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2617",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2617",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    758
+  ],
+  "class_list": [
+    "post-2617",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-era-digital",
+    "tag-hackthink",
+    "tag-hacktudo",
+    "tag-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Profissionais da área discutem sobre os desafios que a indústria vem sofrendo durante essa nova etapa</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-05-at-6-54-06-pm.jpeg?resize=1280%2C799&amp;ssl=1' alt='WhatsApp Image 2018-11-05 at 6.54.06 PM' width='1280' height='799' /><figcaption>Xavier Leclerc mediou bate papo entre Carol Scussel e Yuri Luz – Foto: Ana Carolina Soares</figcaption></figure><p>Além de oferecer atividades práticas, O Hacktudo – Festival de tecnologia, também incluiu em seu cronograma uma conferência de palestras e bate-papos para instruir e somar a todos os interessados neste mercado. No espaço Hackthink, Carolina Scussel e Yuri Luz – ambos da Gazeus Games – ministraram a palestra “Meu trabalho é jogar? Os testes na indústria de jogos mobile”.</p><p>Durante o bate-papo, a dupla apresentou alguns aspectos da empresa que é voltada para jogos clássicos como buraco e mahjong e também sobre a indústria de games. “É um desafio a cada momento. O jogo deixou de ser apenas um jogo e passou a ser uma espécie de rede social”, comenta Yuri Luz. Esse é um dos maiores desafios, tornar os jogadores também um ser social, “As pessoas gostam de estar no jogo por conta disso”, completa.</p><p>Desde os testes a criar novas regras, ainda foi colocado que não é apenas de diversão que sobrevive um especialista em verificar a qualidade de um produto, “Liderar uma área de qualidade tem todo um ensinamento por trás, sobre o porque a gente verifica aquilo ali. Estamos a fim de tornar aquela ‘conversa’ em uma colaboração”, explica Carolina Scussel.</p><p>Desde o fim do século XX o mundo tem passado por mudanças e boa parte vem da Era Digital. Para acompanhar isso, o homem passa a se envolver mais e mais com as novas tecnologias. A cultura digital está esgueirando todos os espaços de nossas vidas, não apenas em forma de entretenimento, e a tecnologia a partir deste momento passa a ser entendida como nova filosofia e um novo valor, que vai muito além daquilo visto. A discussão é boa para apresentar as novidades desta era para um público diverso.</p><p><strong>Ana Carolina Soares – 6º Período</strong></p></main>"
+  },
+  "date": "2018-11-06T22:17:53",
+  "date_gmt": "2018-11-07T00:17:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Profissionais da área discutem sobre os desafios que a indústria vem sofrendo durante essa nova etapa Além de oferecer atividades práticas, O Hacktudo &#8211; Festival de tecnologia, também incluiu em seu cronograma uma conferência de palestras e bate-papos para instruir e somar a todos os interessados neste mercado. No espaço Hackthink, Carolina Scussel e Yuri [&hellip;]</p>\n"
+  },
+  "featured_media": 2618,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2617"
+  },
+  "id": 2617,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-05-at-6-54-06-pm.jpeg?fit=1280%2C799&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Gd",
+  "link": "https://agenciauvabarra.com/2018/11/06/palestra-promove-debate-sobre-o-mercado-de-games-na-era-digital/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:17:52",
+  "modified_gmt": "2019-01-31T13:17:52",
+  "ping_status": "open",
+  "slug": "palestra-promove-debate-sobre-o-mercado-de-games-na-era-digital",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    608138,
+    653472416,
+    652412568,
+    767056593
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Palestra promove debate sobre o mercado de games na Era Digital"
+  },
+  "type": "post"
+}

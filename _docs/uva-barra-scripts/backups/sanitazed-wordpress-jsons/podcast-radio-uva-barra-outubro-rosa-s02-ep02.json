@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7852/revisions/7856",
+        "id": 7856
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7852"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7852",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7852/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7852"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7855"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7852",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7852",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832,
+    72064
+  ],
+  "class_list": [
+    "post-7852",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "category-saude",
+    "tag-cancer-de-mama",
+    "tag-outubro-rosa",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Prevenção e informação na luta contra o Câncer de Mama</em></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F908261935&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Rádio UVA Barra · Podcast Radio UVA Barra – Outubro Rosa – S02 EP02' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>Ao longo do mês de outubro a conscientização sobre prevenção e autoexame da mama ganham uma cor, rosa. A campanha do \"Outubro Rosa” comemora 30 anos da primeira ação contra a doença responsável pela maior parte dos diagnósticos de câncer nas mulheres no Brasil.</p><p>Nessas três décadas há uma série de campanhas e informações sobre o diagnóstico e tratamentos do Câncer de Mama. No ano passado, quase 60 mil novos casos foram diagnosticados. Uma incidência de 51 casos, para 100 mil mulheres.</p><p>A nova edição do podcast da Rádio UVA Barra vai receber Natália Strecht, auxiliar administrativa, que recebeu o diagnóstico de câncer aos 31 anos e, hoje, depois de mais de uma década curada, ela conta os desafios desde a descoberta, até o tratamento.</p><p>Participam do bate papo também, as médicas Fabiana Tonelloto, chefe da sessão de mastologia do Hospital do Câncer 3, e Aline Gonçalves, da Sociedade Brasileira de Oncologia Clínica. Elas debatem a importância do diagnóstico precoce da doença e comentam ainda a probabilidade da doença em homens.</p><p>Iago Bastos – 6° período</p><p>Victor Hugo – 6° período</p></main>"
+  },
+  "date": "2020-10-10T11:33:00",
+  "date_gmt": "2020-10-10T14:33:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Prevenção e informação na luta contra o Câncer de Mama Rádio UVA Barra · Podcast Radio UVA Barra – Outubro Rosa – S02 EP02 Ao longo do mês de outubro a conscientização sobre prevenção e autoexame da mama ganham uma cor, rosa. A campanha do &#8220;Outubro Rosa” comemora 30 anos da primeira ação contra a [&hellip;]</p>\n"
+  },
+  "featured_media": 7855,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7852"
+  },
+  "id": 7852,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/arte-agecc82ncia-uva-barra-.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-22E",
+  "link": "https://agenciauvabarra.com/2020/10/10/podcast-radio-uva-barra-outubro-rosa-s02-ep02/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-10T11:33:00",
+  "modified_gmt": "2020-10-10T14:33:00",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-outubro-rosa-s02-ep02",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    403231,
+    11731347,
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra – Outubro Rosa – S02 EP02"
+  },
+  "type": "post"
+}

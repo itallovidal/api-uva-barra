@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9834/revisions/9854",
+        "id": 9854
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9834"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9834",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 14,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9834/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9834"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9837"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9834",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9834",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    798,
+    7114,
+    268277
+  ],
+  "class_list": [
+    "post-9834",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-politica",
+    "category-sociedade",
+    "category-solidariedade",
+    "tag-doacoes",
+    "tag-inverno",
+    "tag-populacao-em-situacao-de-rua"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Grupo Só Vamos distribui agasalhos e outros itens para amenizar efeito das baixas temperaturas</em></p><p>No Brasil, o cenário atual conta com o registro de mais de 221 mil pessoas em situação de rua. O problema foi acentuado pela recessão econômica e as altas taxas de desemprego causadas pela pandemia de covid-19. Foi nesse contexto que uma rede de solidariedade surgiu: o projeto Só Vamos. Inicialmente, a organização promovia a distribuição de refeições, materiais básicos de higiene e água mineral para a população de rua. Hoje, o grupo conta com a arrecadação de cobertores para aquecer pessoas sem-teto.</p><p>Na estação mais fria do ano, a condição das pessoas em situação de rua se agrava e a dificuldade para se manterem aquecidos aumenta ainda mais. De acordo com o Movimento Estadual dos Moradores em Situação de Rua, sete pessoas morreram de frio na cidade de São Paulo na madrugada do dia 30 de junho após os termômetros marcarem 6°C e registrarem a madrugada mais fria dos últimos cinco anos. Segundo o Instituto de Pesquisa Econômica Aplicada (IPEA), o estado tem o maior número de pessoas na rua: ao todo 24.344 pessoas sofrem com a falta de moradia.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/foto-1-projeto.jpg?resize=714%2C475&amp;ssl=1\" alt=\"\" width=\"714\" height=\"475\"><figcaption>Em uma única noite, a organização entregou 25 cobertores nas ruas do Rio de Janeiro. Foto: Ton Valentim</figcaption></figure><p>A população de rua é um grupo heterogêneo, composto por pessoas de diferentes realidades e origens, mas que têm em comum a pobreza extrema. Para Michele Cristina de Lima da Conceição, coordenadora do projeto Só Vamos, a inserção social só pode ser concebida através do conhecimento das necessidades dessas pessoas: “Estar junto ao público nos faz reorganizar constantemente estratégias e, sem dúvidas, enxergar mais além nas questões sociais que precisamos dar voz’’, diz Michele.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/foto-2-michelle.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"853\"><figcaption> Michele usa as redes sociais para divulgar a arrecadação de produtos de higiene pessoal, alimentos e cobertores para o Projeto Só Vamos. Foto: Ton Valentim</figcaption></figure><p>Michele acredita que o problema da moradia só será enfrentado se houver amplo debate sobre o tema, a fim de quebrar noções problemáticas acerca do esforço individual: “Existe uma visão estereotipada da população em situação de rua, muitos resumem ao ‘Se esforça que dá’”, acrescentou a voluntária. Além do debate no âmbito social, é válido ressaltar a importância de cobrar do poder público soluções e políticas públicas que garantam o cumprimento da lei maior do país.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/foto-3-matheus.jpg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Todas as terças-feiras, Mateus entrega sopas e agasalhos para ajudar pessoas em situação de rua a se aquecer. Foto: Arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/foto-4-carlos-eduardo.jpg?resize=803%2C1024&amp;ssl=1\" alt=\"\" width=\"803\" height=\"1024\"><figcaption>“Para reverter a dificuldade do alto custo de manter uma moradia, é necessário planejamento urbano estratégico”. Foto Arquivo pessoal</figcaption></figure><p>Debater saídas para os problemas oriundos de uma profunda desigualdade social torna-se essencial para cumprir o que assegura a Constituição Federal Brasileira de 1988. Na atual conjuntura em que as taxas de desemprego batem recordes, o Doutor em Urbanismo e Arquitetura e professor da UVA, Carlos Eduardo Nunes-Ferreira, ressalta que é necessário que haja um combate à desigualdade: “A questão da população em situação de rua deve ser colocada como prioridade por motivos humanitários, do direito à cidade e à cidadania plena’’, explica o docente.</p><p>A desigualdade é também um problema do urbanismo. Desde a demolição dos cortiços, o problema urbanístico fomenta desigualdades e desafios socioeconômicos do Rio de Janeiro há mais de um século: “Estimular o uso residencial ou misto no centro da cidade, onde está a maior oferta de empregos, já ajudaria bastante. Na renda dos mais pobres, o transporte também entra na conta, podendo comprometer de 10% a 30% do salário apenas para chegar ao local de trabalho”, afirma o urbanista.</p><p>Segundo o Censo de 2010, há cerca de 6 milhões de imóveis vagos no país. Essas propriedades espalhadas pelo Brasil podem ser usadas para prover moradia social para os sem teto e evitar mortes durante o inverno, como as que aconteceram em São Paulo no dia 30 de junho. Para Carlos Eduardo, o cumprimento do Estatuto da Cidade para prover moradia social é a saída mais rápida e justa. “Este é o caminho mais rápido, justo e democrático porquanto está previsto tanto na Constituição de 1988 quanto no Estatuto da Cidade’’, diz o Doutor.<p>A política habitacional é parte da política urbana, no sentido de que não se restringe somente ao provimento da casa, mas implica ações mais amplas relacionadas ao planejamento, à construção e ao funcionamento da cidade como um todo. Iniciativas como o projeto Só Vamos colaboram com a atenuação de uma sociedade desigual nesse inverno e em todas as estações do ano.</p><p><em>Artur Lavinas – 3° período</em></p><p><em>Duda Bortoloto – 3° período</em></p></main>"
+  },
+  "date": "2021-07-21T18:39:26",
+  "date_gmt": "2021-07-21T21:39:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No Brasil, o cenário atual conta com o registro de mais de 221 mil pessoas em situação de rua. O problema foi acentuado pela recessão econômica e as altas taxas de desemprego causadas pela pandemia de covid-19. Foi nesse contexto que uma rede de solidariedade surgiu: o projeto Só Vamos. Inicialmente, a organização promovia a distribuição de refeições, materiais básicos de higiene e água mineral para a população de rua. Hoje, o grupo conta com a arrecadação de cobertores para aquecer pessoas sem-teto.</p>\n"
+  },
+  "featured_media": 9837,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9834"
+  },
+  "id": 9834,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/capa-site-agencia-1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2yC",
+  "link": "https://agenciauvabarra.com/2021/07/21/inverno-mais-aquecido-iniciativa-transforma-a-vida-de-pessoas-em-situacao-de-rua/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-21T19:03:25",
+  "modified_gmt": "2021-07-21T22:03:25",
+  "ping_status": "open",
+  "slug": "inverno-mais-aquecido-iniciativa-transforma-a-vida-de-pessoas-em-situacao-de-rua",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    97683,
+    400478,
+    28930341
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Inverno mais aquecido: iniciativa transforma a vida de pessoas em situação de rua"
+  },
+  "type": "post"
+}

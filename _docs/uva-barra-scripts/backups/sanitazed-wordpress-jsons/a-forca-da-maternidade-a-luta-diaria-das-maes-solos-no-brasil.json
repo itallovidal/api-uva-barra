@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16666/revisions/16691",
+        "id": 16691
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16666"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16666",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 18,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16666/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16666"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16670"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16666",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16666",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16666",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Segundo o Instituto Brasileiro de Economia da Fundação Getúlio Vargas há mais de 11 milhões de mães que estão cuidando de seus filhos sozinhas no Brasil. O número de mães solo aumentou em 17,8% na última década</em></p><p>Em meio ao cenário de desafios socioeconômicos crescentes no Brasil, mais de 11 milhões de mães solos enfrentam diariamente a árdua tarefa de criar seus filhos sem apoio do parceiro. Segundo dados recentes do Instituto Brasileiro de Economia da Fundação Getúlio Vargas, Uma pesquisa conduzida pelo Ibre-FGV <em>(Instituto Brasileiro de Economia da Fundação Getúlio Vargas)</em> em 2024, revelou também um aumento significativo de 1,7 milhão no número de mães que assumiram a criação dos filhos de forma independente no período entre 2012 e 2022, elevando o total de 9,6 milhões para 11,3 milhões. À medida que o Dia das Mães se aproxima, a realidade dessas mães solo evidencia uma luta contínua por reconhecimento e apoio em uma sociedade que ainda busca equilibrar responsabilidades familiares e oportunidades econômicas.</p><p>No Brasil, ser mãe solo é uma realidade desafiadora, de acordo com o <a href='http://www.mulheres.ba.gov.br/2023/05/3718/Brasil-tem-mais-de-11-milhoes-de-maes-que-criam-os-filhos-sozinhas.html#:~:text=Brasil%20tem%20mais%20de%2011%20milh%C3%B5es%20de%20m%C3%A3es%20que%20criam%20os%20filhos%20sozinhas,-Pesquisa%20feita%20pelo'>SPM</a> <em>(Secretaria de Políticas para as Mulheres)</em> publicada em 2023, milhões de mulheres enfrentam diariamente esse problema. Entretanto, as mulheres, muitas vezes, assumem múltiplos papéis dentro do núcleo familiar, equilibrando responsabilidades domésticas, financeiras e parentais sem o suporte de um parceiro. Com isso, a jornada das mães solo é marcada por uma mistura de força, resiliência e sacrifício ao criar os filhos, devido a falta de suporte financeiro que é uma das principais dificuldades enfrentadas pelas mães. Muitas vezes, as mulheres precisam trabalhar em múltiplos empregos para sustentar as famílias, com jornadas exaustivas e salários insuficientes. <a href='https://portal.fgv.br/artigos/diferencas-genero-mercado-trabalho'>A desigualdade de gênero no mercado de trabalho</a> também representa um obstáculo significativo, com limitações nas oportunidades de ascensão profissional para as mães.</p><p>Além dos desafios financeiros, as mães solo frequentemente lidam com o estigma social e a falta de apoio emocional, uma realidade com jornadas complexas. A pressão social sobre as mães é exacerbada por uma série de fatores, incluindo normas culturais e estereótipos de gênero persistentes. Em uma sociedade onde a maternidade é romantizada e idealizada como um papel compartilhado, as mães que enfrentam a jornada sozinhas são muitas vezes vistas como falhas ou incompletas. No entanto, pode gerar um ciclo de isolamento e solidão para as mães, que muitas vezes se encontram lutando não apenas contra as adversidades práticas da vida cotidiana, mas também contra a sensação de não pertencimento e falta de apoio emocional.</p><p>Para Karen Oliveira, uma técnica de enfermagem de 26 anos e mãe solo do primeiro filho, compartilha a realidade do preconceito que enfrentou durante os estudos logo após o nascimento do filho. “Quando o meu filho nasceu, eu fui estudar, não demorei para voltar, entretanto, meus seios estavam cheios de leite e ouvi comentários como: ‘não era para você está aqui, e sim em casa’ e aquilo acabou comigo, pois eu gosto de estudar e ter que ouvir essa frase me deixou triste”, relata a jovem Karen Oliveira.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/foto-da-psicologa-ondina-maria.jpg?resize=750%2C739&#038;ssl=1' alt='' width='750' height='739' /><figcaption><em><strong><em> </em></strong><em>Karen comenta sobre a determinação em continuar a estudar que foi abalada por comentários como &#8216;o seu lugar não é aqui&#8217;. Com destaque na história contra o preconceito e a busca pela realização profissional. (Reprodução: Júlia Gabriela)</em></em><br><br></figcaption></figure><p>A psicologia também desempenha um papel no entendimento e apoio às mães solo. Profissionais da área estão cientes dos desafios emocionais que as mulheres enfrentam, desde o estresse no abandono até o isolamento social. Por meio de abordagens terapêuticas como a terapia cognitivo-comportamental e o apoio psicossocial, psicólogos ajudam as mães solo a desenvolverem habilidades de enfrentamento, fortalecerem a autoestima e lidarem com a culpa associados à maternidade solitária.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/foto-da-psicologa-ondina-maria.jpg?resize=750%2C739&#038;ssl=1' alt='' width='750' height='739' /><figcaption><em><em>Funcionária pública Bárbara Sotinho, 41 anos. ‘Outra opinião da figura pai pode dar uma ajuda em relação às vezes reafirmar a educação que eu venho dando, e tendo uma companhia para a mulher não se sentir sozinha’ (Reprodução: Júlia Gabriela)</em></em><br><br></figcaption></figure><p>Segundo a psicóloga Ondina Maria, quando uma mulher não possui uma rede de apoio sólida, o desejo de ter um filho muitas vezes emerge como uma tentativa de preencher um vazio existencial. Nesse contexto, a maternidade pode ser vista como uma busca por significado e conexão emocional, uma forma de preencher lacunas e encontrar um propósito na vida. A ausência de suporte social pode impulsionar as mulheres a buscarem na maternidade uma fonte de realização pessoal e afetiva, que destaca a importância de abordagens na compreensão e no apoio às mães solo. “Ela não espera se casar ou que outra pessoa venha ao socorro dela, a mulher vai tentar preencher esse vazio e acabada tornando uma mãe solo, mesmo não tendo essa estrutura de apoio”<strong><em> ,</em></strong><em> comenta Ondina Maria. </em></p><p>Por outro lado, alguns pais ausentes, que não participaram da criação dos filhos, entram na vida das crianças durante a adolescência. A falta de presença paterna durante os primeiros anos de vida da criança pode criar um vácuo emocional que alguns pais tentam preencher mais tarde, aproveitando da vulnerabilidade e das questões típicas da adolescência para minar o relacionamento mãe-filho. A professora e funcionária pública Bárbara Sotinho compartilha a própria perspectiva sobre a dinâmica entre ela, o filho e o ex-marido. Em uma sociedade que muitas vezes idealiza padrões familiares tradicionais, ela enfrenta desafios ao equilibrar a vida como mãe solo e a interação com o pai de seu filho. “Quem faz o papel de ter outra voz de comando para auxiliar na educação do meu filho é a minha mãe, pois é muito difícil educar, já que eu falo uma coisa por eu ser separada, e o pai do meu filho para me confortar diz outra coisa, querendo me ferir e atingir usando a criança”, dizBárbara.</p><p>Nem sempre é uma escolha, ou nem sempre é uma escolha fácil, mas a maternidade solo pode ter suas vantagens. Vanice de Oliveira, autônoma, acredita que sim. Mesmo com a rotina antiga que era tomada pelo cuidado com a filha, se sente mais feliz hoje em dia em relação aos melhores momentos entre mãe e filha que tiveram no início do processo. &#8220;As emoções estavam sempre presentes no processo de desenvolvimento, pois mesmo diante das dificuldades, percebia que minha filha estava crescendo, e me sentia gratificada por conseguir criar e viver uma vida que, apesar dos obstáculos, eu estava conseguindo criar-lá,”<strong><em> </em></strong>finaliza Vanice.</p><p>Seja qual for o caminho que levou a mulher a exercer uma maternidade solo, é fundamental que a sociedade respeite o espaço e a trajetória. Em vez de julgar, é essencial oferecer apoio prático e reconhecer a coragem junto com a resiliência que as mães demonstram diariamente. Acolher uma mãe solo significa estar disposto a ajudar no que for preciso, seja com tarefas cotidianas, cuidados com os filhos ou simplesmente oferecendo um ombro amigo para desabafar. É importante compreender que essas mulheres enfrentam uma carga mental intensa ao lidar sozinhas com uma rotina exaustiva, e qualquer gesto de solidariedade pode fazer toda a diferença em sua jornada. Ao estender uma rede de apoio, promovem uma cultura de empatia e inclusão.</p><p><em>Júlia Gabriela – 6º Período</em></p></main>"
+  },
+  "date": "2024-05-10T13:01:53",
+  "date_gmt": "2024-05-10T16:01:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Segundo o Instituto Brasileiro de Economia da Fundação Getúlio Vargas há mais de 11 milhões de mães que estão cuidando de seus filhos sozinhas no Brasil. O número de mães solo aumentou em 17,8% na última década Em meio ao cenário de desafios socioeconômicos crescentes no Brasil, mais de 11 milhões de mães solos enfrentam [&hellip;]</p>\n"
+  },
+  "featured_media": 16670,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16666"
+  },
+  "id": 16666,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/05/whatsapp-image-2024-05-10-at-12.39.03.jpeg?fit=302%2C283&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4kO",
+  "link": "https://agenciauvabarra.com/2024/05/10/a-forca-da-maternidade-a-luta-diaria-das-maes-solos-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-05-10T13:12:44",
+  "modified_gmt": "2024-05-10T16:12:44",
+  "ping_status": "open",
+  "slug": "a-forca-da-maternidade-a-luta-diaria-das-maes-solos-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A Força da Maternidade: A luta diária das Mães Solos no Brasil"
+  },
+  "type": "post"
+}

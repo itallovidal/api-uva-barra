@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13803/revisions/13816",
+        "id": 13816
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13803"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13803",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13803/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13803"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13807"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13803",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13803",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    22,
+    701438832,
+    72064,
+    758
+  ],
+  "class_list": [
+    "post-13803",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-internet",
+    "category-radio-uva-barra",
+    "category-saude",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-celular",
+    "tag-podcast",
+    "tag-saude",
+    "tag-visao"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Ficar muito tempo na companhia do celular pode ser prejudicial para a saúde, e principalmente para a visão. Segundo estudos, o brasileiro fica, aproximadamente, um quinto do total do dia olhando para a tela do celular. De acordo com oftalmologistas, os principais problemas causados na visão são: ressecamento do olho e a miopia, principalmente em crianças e adolescentes. </p><p>A prevenção passa pela diminuição das horas em frente ao aparelho, segundo especialistas. A repórter da Rádio UVA Barra, Juliana Vilete conversou com o oftalmologista Paschoal Josias Oliveira, que explicou sobre os danos que o uso excessivo do aparelho pode causar á visão.</p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1401898420&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='O Prejuízo Que O Uso Prolongado Do Celular Causa À Visão by Agência UVA Barra' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe></figure><p><em>Juliana Vilete – 3° período </em></p><p><em>*matéria produzida para a disciplina de Audiojornalismo, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2022-12-12T12:23:23",
+  "date_gmt": "2022-12-12T15:23:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ficar muito tempo na companhia do celular pode ser extremamente prejudicial para nossa saúde, e principalmente para nossa visão. Segundo estudos, o brasileiro fica, aproximadamente, um quinto do total do seu dia olhando para a tela do celular. De acordo com oftalmologistas, os principais problemas causados na visão, é o ressecamento do olho e a miopia, principalmente em crianças e adolescentes. Para prevenir, devemos diminuir as horas que passamos frente a frente com o aparelho.</p>\n"
+  },
+  "featured_media": 13807,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13803"
+  },
+  "id": 13803,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/samsung-1283938_1920.jpg?fit=1920%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3AD",
+  "link": "https://agenciauvabarra.com/2022/12/12/podcast-radio-uva-barra-o-prejuizo-que-o-uso-prolongado-do-celular-causa-a-visao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-13T17:14:10",
+  "modified_gmt": "2022-12-13T20:14:10",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-o-prejuizo-que-o-uso-prolongado-do-celular-causa-a-visao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    14605,
+    1142,
+    767056622,
+    656484
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rádio UVA Barra: O prejuízo que o uso prolongado do celular causa à visão"
+  },
+  "type": "post"
+}

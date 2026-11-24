@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1560/revisions/3275",
+        "id": 3275
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1560"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1560",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1560/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1560"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1560",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1560",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1560",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Palestra reúne consultoras de moda para debate sobre a importância da profissão, na Semana de Design e Arquitetura</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/2763f5b8-d516-44f7-b668-96ae6c95e59e.jpg?resize=1280%2C960&#038;ssl=1' alt='2763f5b8-d516-44f7-b668-96ae6c95e59e' width='1280' height='960' /><figcaption>Foto: Giovanna Faria</figcaption></figure><p>A primeira impressão é a que fica. É comum as pessoas procurarem por um profissional que as ajudem a comunicar bem a partir do visual e aparência. Foi o que informou a palestra Consultoria de Imagem, evento organizado para a Semana de Design e Arquitetura, da Universidade Veiga de Almeida do Campus Barra. A professora do curso Cetiqt, Renata Cotarelli, participou da conversa ao lado das ex estudantes, Bruna Emanuele e Manuela Mader.</p><p>Essas alunas, que se formaram em 2012 em Design de Moda na UVA, já atuam no mercado de trabalho como consultoras e tiveram a oportunidade de compartilhar a experiência adquirida com os futuros profissionais da área. “Foi muito bom quando recebemos o convite para discutir sobre um tema que não é muito abordado nas aulas. Vai ser algo novo para toda a turma ”, enfatiza Manuela. Além de voltarem ao campus dessa vez como palestrantes, as ex alunas foram bem acolhidas pelo público participante.</p><div class=\"wp-block-image wp-image-1563 alignright\"><figure class=\"alignright\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"1280\" data-attachment-id=\"1563\" data-permalink=\"https://agenciauvabarra.com/2017/10/31/a-felicidade-veste-bem/705478c3-f472-4fdf-aaf8-4fc9ae4f0ebe/\" data-orig-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/705478c3-f472-4fdf-aaf8-4fc9ae4f0ebe.jpg?fit=960%2C1280&amp;ssl=1\" data-orig-size=\"960,1280\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"705478c3-f472-4fdf-aaf8-4fc9ae4f0ebe\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/705478c3-f472-4fdf-aaf8-4fc9ae4f0ebe.jpg?fit=768%2C1024&amp;ssl=1\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/705478c3-f472-4fdf-aaf8-4fc9ae4f0ebe.jpg?resize=960%2C1280&#038;ssl=1\" alt=\"705478c3-f472-4fdf-aaf8-4fc9ae4f0ebe\" class=\"wp-image-1563\" /><figcaption>Foto: Giovanna Faria</figcaption></figure></div><p>O interesse dos universitários também foi percebido pela professora Renata Cotarelli, que explicou ser essa profissão abrangente e necessária. “As pessoas estão percebendo que não precisam ser ricas para terem um consultor de imagem”, afirma. As cores, o formato, o tamanho tudo é pensado para passar uma determinada impressão do que o cliente gostaria. Ela ainda admite que não existe padrão de roupa ou de corpo certo, que é preciso analisar o tipo de cada pessoa para atender de uma forma correta e satisfatória.</p><p>Desse modo, saber que tipo de roupa favorece ou prejudica o visual está relacionado à autoestima, como o outro se apresenta ao mundo e às pessoas com quem convive. Por isso, o uso da paleta de cores, que é feita com a ajuda da profissional, é crucial na hora de se vestir. “A paleta ajuda a identificar se o cliente combina mais com cores frias ou cores quentes, mas não impede de tentar se arriscar em outros tons”, garante Renata. Os assessórios, ainda segundo ela, são a peça-chave do <em>look, </em>que devem ser usados com cautela para não sobrecarregar o visual.</p><p>Segundo a Professora Lucilia Tristão Ramos, palestras como essa são boas não só para o consultor, mas também para o meio ambiente, uma vez que podem auxiliar no consumo consciente. “Quando falamos sobre o que consumir, estamos falando também de sustentabilidade. Se sairmos comprando várias coisas de maneira aleatória, aquela peça será inutilizada mais cedo porque você a comprou somente por impulso”, explica Lucilia.</p><p>Além disso, ela explica ser a discussão de temas como esse ser mais do que necessária, uma vez que hoje é importante saber como usar o dinheiro na hora da compra. De acordo com a palestrante Bruna Emanuele, a profissão de consultoria de moda também pode encontrar campo de atuação nas empresas, ou seja, não há a necessidade de um atendimento apenas individualizado, pessoal ”. Ela ressalta que já trabalhou como dress code <em>– código de vestimenta específico &#8211;</em> pela Schutz e com outros grandes empreendedores. “Precisamos abrir a cabeça! Perceber que é um campo de trabalho relevante e começar a dar mais atenção com cursos e palestras dentro da UVA”, conclui.</p><p><strong>Giovanna Faria, 5º período, Nailson Ribeiro, 6º período.</strong></p></main>"
+  },
+  "date": "2017-10-31T14:48:20",
+  "date_gmt": "2017-10-31T16:48:20",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestra reúne consultoras de moda para debate sobre a importância da profissão, na Semana de Design e Arquitetura A primeira impressão é a que fica. É comum as pessoas procurarem por um profissional que as ajudem a comunicar bem a partir do visual e aparência. Foi o que informou a palestra Consultoria de Imagem, evento [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1560"
+  },
+  "id": 1560,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-pa",
+  "link": "https://agenciauvabarra.com/2017/10/31/a-felicidade-veste-bem/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:15:28",
+  "modified_gmt": "2019-02-28T19:15:28",
+  "ping_status": "open",
+  "slug": "a-felicidade-veste-bem",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A felicidade veste bem"
+  },
+  "type": "post"
+}

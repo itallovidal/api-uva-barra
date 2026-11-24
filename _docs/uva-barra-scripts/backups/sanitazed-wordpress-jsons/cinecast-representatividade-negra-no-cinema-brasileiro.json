@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15273/revisions/15278",
+        "id": 15278
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15273"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15273",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15273/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15273"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15275"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15273",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15273",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    632602,
+    43377791,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-15273",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-diversidade",
+    "category-encontro-com-profissionais",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-brasil",
+    "tag-cinema",
+    "tag-filme",
+    "tag-negra",
+    "tag-oscar",
+    "tag-representatividade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Pela primeira vez na história do cinema nacional, o Brasil teve um longa metragem dirigido por um homem negro concorrendo ao prêmio de melhor filme internacional na edição deste ano do Oscar. Este episódio do Cinecast chega para falar sobre a Representatividade Negra no Cinema Brasileiro.</p><p>O convidado para essa entrevista foi o próprio diretor do filme “Marte Um”, Gabriel Martins, que falou sobre a trajetória profissional, da transformação do mercado cinematográfico no Brasil, entre outros assuntos. O podcast foi produzido por Bernardo Curvello, Cícera Gledys, Gustavo Di Sali, João Pedro Magalhães, Juliana Líbano, Marcello Henrique e Pedro Sá.</p><p><strong>Confira o podcast completo clicando no link abaixo!</strong></p><figure><img src='https://open.spotify.com/embed/episode/5zXZBOO22YFPNBjdcsBZmZ?si=daoIDhGkS66BTEjsyFIHEw&#038;utm_source=oembed' alt='Embed do Spotify' width='100%' height='152'><figcaption>Spotify Embed: Cinecast: Representatividade Negra no Cinema Brasileiro</figcaption></figure><p><br><em>*Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-07-06T16:02:38",
+  "date_gmt": "2023-07-06T19:02:38",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Pela primeira vez na história do cinema nacional, o Brasil teve um longa metragem dirigido por um homem negro concorrendo ao prêmio de melhor filme internacional na edição deste ano do Oscar. Este episódio do Cinecast chega para falar sobre a Representatividade Negra no Cinema Brasileiro. </p>\n"
+  },
+  "featured_media": 15275,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15273"
+  },
+  "id": 15273,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/capa_cinecast_episodio-05.png?fit=500%2C500&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Yl",
+  "link": "https://agenciauvabarra.com/2023/07/06/cinecast-representatividade-negra-no-cinema-brasileiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-06T16:26:48",
+  "modified_gmt": "2023-07-06T19:26:48",
+  "ping_status": "open",
+  "slug": "cinecast-representatividade-negra-no-cinema-brasileiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    38185,
+    767056592,
+    17563,
+    239122,
+    5160,
+    2167156
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Cinecast: Representatividade Negra no Cinema Brasileiro"
+  },
+  "type": "post"
+}

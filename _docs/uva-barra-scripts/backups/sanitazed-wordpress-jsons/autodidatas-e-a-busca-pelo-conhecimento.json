@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12003/revisions/12024",
+        "id": 12024
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12003"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12003",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 16,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12003/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12003"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12018"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12003",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12003",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    7114
+  ],
+  "class_list": [
+    "post-12003",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Autonomia, curiosidade e disciplina, podem transformar a dinâmica de aprendizagem</em></p><p>Mentes curiosas, questionadoras e com uma intensa vontade de aprender algo novo. Assim são vistos os autodidatas, pessoas que se instruem por esforço próprio, sem a ajuda de mestres. Autodidatismo não se resume à genialidade, mas a intelectos criativos que buscam o conhecimento de forma autônoma e desejam aprimorar habilidades.</p><p>Segundo Camila Borges, que aprendeu a desenhar de forma autodidata, a presença de vídeos ensinando o processo de um desenho e pessoas que explicassem técnicas específicas foram extremamente importantes. Para a jovem, aprender a desenhar sozinha foi o que mais ajudou a desenvolver a criatividade, enxergar o mundo através de uma nova perspectiva e acreditar no próprio potencial. A estudante destaca o esforço que impôs durante o processo de aprendizagem, ao respeitar cada etapa e não comparar o desenvolvimento com aqueles que já tinham mais tempo de estudo. “Para aprender, tem que se esforçar. Nada vem muito fácil”, declara.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-30-at-14.44.01.jpeg?resize=748%2C1000&amp;ssl=1\" alt=\"\" width=\"748\" height=\"1000\"><figcaption>Camila Borges diz que aprender a desenhar ajudou a se expressar melhor para confiar nas etapas do desenvolvimento artístico. (Foto: Arquivo pessoal) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-30-at-14.44.00.jpeg?resize=720%2C469&amp;ssl=1\" alt=\"\" width=\"720\" height=\"469\"><figcaption>Rodrigo de Oliveira destaca que a dedicação e disciplina contínua são necessárias para a evolução. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-30-at-14.44.00-1.jpeg?resize=648%2C1280&amp;ssl=1\" alt=\"\" width=\"648\" height=\"1280\"><figcaption>Rafael dos Santos comenta que o aprendizado de idiomas colocou o cérebro em estado ativo. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-30-at-14.43.59.jpeg?resize=720%2C707&amp;ssl=1\" alt=\"\" width=\"720\" height=\"707\"><figcaption>Érica Fragoso concorda que o aprendizado por pesquisa autônoma é muito benéfico para o desenvolvimento pessoal. (Foto: Arquivo pessoal) </figcaption></figure><p>Na jornada incessante pelo conhecimento, ter uma figura de exemplo é muito importante. De acordo com Rodrigo de Oliveira, professor de canto e violão, o desejo de aprender a tocar um instrumento surgiu quando era mais novo. Ele participava de um quarteto vocal na igreja, mas nenhum dos integrantes sabia tocar, por isso, para ganhar mais autonomia musical, decidiu começar a estudar.</p><p>Com a ajuda do irmão, também músico, Rodrigo elaborou um plano de aprendizagem autodidata, para se basear nas informações que lhe passava sobre exercícios contínuos, já que não pular etapas é importante na jornada de aprendizado. “O segredo é exercitar até dominar, e quando dominar, nunca abandonar os exercícios”, destaca o instrumentista. </p><p>O autodidata é o responsável pela profundidade do aprendizado, ao assumir o papel de aluno e mestre dentro dessa dinâmica. O indivíduo vai atrás das fontes de informação necessárias, como o estudo de livros técnicos, acesso de conteúdos gratuitos disponibilizados na internet ou a observação de outras pessoas que sejam referência na área em que o estudante deseja se desenvolver.</p><p>O instrutor de idiomas e poliglota Rafael dos Santos revela que o interesse por idiomas surgiu do contato com o Taekwondo, arte marcial coreana. Ao se deparar com o ambiente cercado por uma língua diferente, o jovem curioso decidiu aprender o idioma. Rafael conta que começou pelos conceitos principais da língua, como o alfabeto, pronúncias básicas e expressões comuns, por meio de vídeos do YouTube. “Participei de lives sobre o idioma, busquei nativos que pudessem me ajudar a desenvolver, entrei em grupos do Facebook e busquei o máximo de informações possíveis”, disse.</p><p>A curiosidade por outras culturas foi despertada e o jovem deu início ao estudo da língua japonesa e chinesa, influenciado por um amigo, até chegar ao espanhol, quando alcançou fluência. Rafael também estudou o catalão, dialeto espanhol. Em seguida buscou aprender italiano, logo inglês e atualmente estuda sueco.</p><blockquote><p><em>“</em>Não tenho intenção de parar de estudar”</p><cite>Rafael dos Santos </cite></blockquote><p>A psicopedagoga Érica Fragoso acredita que a disciplina e a vontade de aprender são as chaves para entender o processo de aprendizagem autodidata. “Qualquer pessoa estimulada e incentivada pelo gosto do conhecimento poderá se tornar autodidata”, ressalta.</p><p><strong>Érica Fragoso comenta sobre o método de ensino.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1278037351&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Érica Fragoso comenta sobre o método de ensino by Agência UVA Barra\" allow=\"autoplay; fullscreen\" allowfullscreen></figure><p>Érica concorda que a pandemia encorajou o ensino autodidata. “Diante dos obstáculos e restrições sociais, o isolamento proporcionou a capacidade da pessoa administrar seu próprio processo de estudo, organizando seus recursos de aprendizagem”, complementa.</p><p>A busca pelo conhecimento de forma autônoma acrescenta muito na mente do estudante. A psicopedagoga destaca que, para obter sucesso no processo não-tradicional de aprendizagem é necessário desenvolver perseverança, proatividade, organização pessoal e controle de resultados. “Um pesquisador acaba desenvolvendo proatividade como característica, estimulando habilidades de atenção, disciplina, esforço e motivação”, afirma.</p><p><em>Déborah Gama – 1º período</em><br><em>Editado por Lucas Souza – 7º período</em></p></main>"
+  },
+  "date": "2022-05-31T16:34:43",
+  "date_gmt": "2022-05-31T19:34:43",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mentes curiosas, questionadoras e com uma intensa vontade de aprender algo novo. Assim são vistos os autodidatas, pessoas que se instruem por esforço próprio, sem a ajuda de mestres. Autodidatismo não se resume à genialidade, mas a intelectos criativos que buscam o conhecimento de forma autônoma e desejam aprimorar habilidades.</p>\n"
+  },
+  "featured_media": 12018,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12003"
+  },
+  "id": 12003,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/whatsapp-image-2022-05-31-at-16.10.01.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-37B",
+  "link": "https://agenciauvabarra.com/2022/05/31/autodidatas-e-a-busca-pelo-conhecimento/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-05-31T17:02:29",
+  "modified_gmt": "2022-05-31T20:02:29",
+  "ping_status": "open",
+  "slug": "autodidatas-e-a-busca-pelo-conhecimento",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Autodidatas e a busca pelo conhecimento"
+  },
+  "type": "post"
+}

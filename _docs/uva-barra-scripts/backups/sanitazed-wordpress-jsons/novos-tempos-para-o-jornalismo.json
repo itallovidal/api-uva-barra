@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1621/revisions/3264",
+        "id": 3264
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1621"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1621",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1621/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1621"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1621",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1621",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-1621",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Festival 3i de Jornalismo reúne palestras sobre o futuro da profissão</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/11/foto-dia-1-abertura-festival-3i-de-jornalismo.jpg?resize=849%2C436&amp;ssl=1' alt='Foto dia 1 abertura Festival 3i de jornalismo' width='849' height='436' /><figcaption>Foto: Youtube Canal &#8220;Festival 3i&#8221;</figcaption></figure><p>Inovador, inspirador e independente. Essas são as três definições que marcaram o Festival 3i de Jornalismo, que ocorreu no último fim de semana, dia 11 e 12 de novembro, no prédio do Instituto de Arquitetos do Brasil (IAB), no Flamengo. O objetivo do evento é compartilhar experiências do mercado por meio de palestras com temas atuais e debates de mesas sobre o futuro da profissão. Desde a abertura no sábado que contou com “ Modelo de Negócios + Gestão” até o encerramento no domingo sobre “ LightNing Talks Brasil”, a expectativa de 300 pessoas foi cumprida.</p><p>O interesse desse público foi gerado pelas discussões das mídias digitais na área de comunicação que tem uma demanda maior não só para quem já está financeiramente estável, mas para os que estão no começo da carreira, de acordo com o responsável pela assessoria de imprensa Gilberto Scofield Junior. Além disso, ele acredita que hoje as empresas estão em busca de profissionais multidisciplinares uma vez que os modelos de Comunicação Social (Jornalismo, Publicidade e Propaganda e Relações Públicas) estão integrados. “ Espera-se deles talentos além da escrita. Para melhorar sua empregabilidade, tem que ser um pouco empreendedor, saber um pouco de negócios, usar as ferramentas de tecnologia, enfim, ter multidisciplinariedade”.</p><p>Quem concorda com essa linha de pensamento é Pedro Capetti jornalista estagiário do Tribuna de Minas Gerais, que acompanhou a mesa “Engajamento 360°”. É interessante porque acabamos tendo um olhar de fora da academia, uma visão mais prática. O congresso está conseguindo suprir bem essa deficiência que a gente sente nas universidades”. Nesse mesmo momento, o mediador Breno Costa do jornal Brio conversou com os convidados Caio Vassão do Metadesign, Ivan Mizanzuk do Anticast e Letícia Bahia da Azmina sobre plataformas digitais, comunicação de massa e até questões de gênero.</p><p>A ideia de trazer palestrantes de diferentes áreas para discutir esses tópicos é fundamental para desmitificar conceitos que não são tradicionais perante a uma parcela da sociedade. Como no caso da psicóloga Letícia que aborda sobre o feminismo e todas as vertentes que o englobam na revista digital. “ Havia uma ânsia por um veículo que conversasse com a mulher do jeito que a gente conversa. Simplesmente preenchemos o buraco que estava lá por meio das nossas particularidades e do nosso jeito de chegar até elas”, enfatiza.</p><p>Por outro lado, não foram apenas veículos nacionais que estiveram presentes nos dois dias do festival. Mídias internacionais como o jornal latino-americano Ojo Público com a jornalista Elizabeth Salazar tem o enfoque no jornalismo investigativo. Para Flávia Campos, que trabalha na Agência Lupa voltada para reportagens, está sendo uma experiência única ver os painéis variados com os veículos novos e antigos. “É bom ouvir deles, quais são as apostas e como o jornalista independente pode se firmar no mercado”, conclui.</p><p>Isabelle Amancio, 4° período</p></main>"
+  },
+  "date": "2017-11-17T15:39:22",
+  "date_gmt": "2017-11-17T17:39:22",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Festival 3i de Jornalismo reúne palestras sobre o futuro da profissão</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1621"
+  },
+  "id": 1621,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-q9",
+  "link": "https://agenciauvabarra.com/2017/11/17/novos-tempos-para-o-jornalismo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T18:22:41",
+  "modified_gmt": "2019-02-27T21:22:41",
+  "ping_status": "open",
+  "slug": "novos-tempos-para-o-jornalismo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Novos tempos para o Jornalismo"
+  },
+  "type": "post"
+}

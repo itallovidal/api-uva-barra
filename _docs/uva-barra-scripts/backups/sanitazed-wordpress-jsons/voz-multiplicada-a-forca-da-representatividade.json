@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1789/revisions/3213",
+        "id": 3213
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1789"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1789",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1789/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1789"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1789",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1789",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-1789",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><i><span style=\"font-weight:400;\">2º Ato em protesto aos assassinatos da vereadora Marielle Franco e do motorista Anderson Gomes reúne centenas de manifestantes no centro do Rio</span></i></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/img_20180317_141831.jpg?resize=3504%2C2088&#038;ssl=1\" alt=\"IMG_20180317_141831.jpg\" width=\"3504\" height=\"2088\" /><figcaption></figcaption></figure><p><span style=\"font-weight:400;\">35º graus, ônibus, carros, buzinas e transeuntes. Parecia mais um dia comum aos arredores da Assembleia Legislativa do Rio de Janeiro (Alerj). No entanto, a partir das 17h, gradualmente cada degrau da escada da Assembleia&nbsp;</span><span style=\"font-weight:400;\">foi preenchida por rostos de luto, tristeza e indignação. O barulho usual do local se tornou um silêncio de dor visível, mas também de resistência e luta. O segundo dia de protesto pela vereadora do Partido Socialismo e Liberdade (PSOL), na última sexta-feira (16/03), mobilizou jovens e adultos de todas as camadas sociais, mas também negros, favelados, Lésbicas, Gays, Bissexuais e Transexuais (LGBT) – toda a diversidade social que Marielle representava.</span></p><p><span style=\"font-weight:400;\">A falta dessa representatividade foi o sentimento em comum aos jovens presentes, como a militante e universitária de Direito da Universidade Federal do Rio de Janeiro (UFRJ), Ana Luisa, 18 anos. “Quando uma de nós, alguém que milita pelas mesmas causas que a gente, morre, eu sinto parte de mim morrendo também”, lamenta Ana que admite estar se sentindo ameaçada. “Se eles são capazes de fazer isso com uma figura pública, o que eles não fariam com uma vida ‘comum’?”. De acordo com a perícia, a munição usada para assassinar Marielle, na noite da última quarta-feira (14/03), foi de lotes vendidos a Polícia Federal de Brasília, em 2016. Marielle era crítica assídua de abusos cometidos por policiais, em especial do 41º Batalhão de Acari.</span></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/img_20180317_142138.jpg?resize=3746%2C2232&#038;ssl=1\" alt=\"IMG_20180317_142138.jpg\" width=\"3746\" height=\"2232\" /><figcaption></figcaption></figure><p><span style=\"font-weight:400;\">Polícia sob pressão. “Não acabou, tem que acabar, eu quero o fim da Polícia Militar” foi um dos gritos de guerra cantados pela multidão durante a marcha em direção a Cinelândia. O fim da intervenção militar e do genocídio de negros e pobres da favela; os direitos das mulheres e do grupo LGBT; o fim dos mandatos de políticos como: Temer (PMDB), Pezão (PMDB) e Crivella (PRB) também foram reivindicados pelos militantes. O estudante de Direito e afiliado do PSOL, Ramon Rodrigues, 24 anos, acredita que o assassinato de Marielle foi uma tentativa do Estado de silenciar as vozes de quem, assim como a vereadora, luta por essas questões. “É um espaço que, historicamente, sempre foi negado às mulheres e aos movimentos periféricos. Eles querem nos calar, mas não irão”</span></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/img_20180317_142310.jpg?resize=2232%2C3745&#038;ssl=1\" alt=\"IMG_20180317_142310.jpg\" width=\"2232\" height=\"3745\" /><figcaption></figcaption></figure><p><span style=\"font-weight:400;\">Silêncio é o oposto do que se pôde ouvir nos dois dias após a morte de Marielle. A repercussão do caso ultrapassou as fronteiras nacionais não apenas por meios grandes jornais como The New York Times, The Gardian, El Mundo e Le Figaro mas também por meio de protestos em cidades do mundo inteiro. Hoje, a voz da mulher negra, lésbica, negra, favelada e ativista dos direitos humanos ecoa e se multiplica para todos. Vivi Pereira, trabalhadora em empresa de telefonia, declara em rede social que não concordava com muitas abordagens do partido da vereadora, mas que hoje acredita que que estava enganada. “Ela nos dava voz e eu não a ouvi. De um sorriso encantador e acolhedor. Sinto muito, Marielle, por não ter te conhecido antes”, lamenta internauta. Marielle que falava para uma parcela da população carioca, hoje fala para o mundo todo. </span></p><p><strong>Yhara Linka, 6° período de Jornalismo. </strong></p></main>"
+  },
+  "date": "2018-03-17T16:27:58",
+  "date_gmt": "2018-03-17T19:27:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>2º Ato em protesto aos assassinatos da vereadora Marielle Franco e do motorista Anderson Gomes reúne centenas de manifestantes no centro do Rio</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1789"
+  },
+  "id": 1789,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-sR",
+  "link": "https://agenciauvabarra.com/2018/03/17/voz-multiplicada-a-forca-da-representatividade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:25:38",
+  "modified_gmt": "2019-02-26T00:25:38",
+  "ping_status": "open",
+  "slug": "voz-multiplicada-a-forca-da-representatividade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Voz multiplicada: a força da representatividade"
+  },
+  "type": "post"
+}

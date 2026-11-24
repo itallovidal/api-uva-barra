@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4696/revisions/4706",
+        "id": 4706
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4696"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4696",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4696/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4696"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4700"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4696",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4696",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-4696",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-bunka-sai",
+    "tag-cultura-japonesa",
+    "tag-festival-da-cultura-japonesa",
+    "tag-japao",
+    "tag-palacio-de-cristal-de-petropolis"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento gratuito reuniu 50 atrações na programação e promoveu manifestações culturais e artísticas</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img-20190812-wa0018.jpg?resize=1032%2C581&amp;ssl=1\" alt=\"\" width=\"1032\" height=\"581\" /><figcaption>O evento acontece anualmente no Palácio de Cristal – Foto: Paula Guaraldo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img-20190812-wa0017.jpg?resize=1032%2C581&amp;ssl=1\" alt=\"\" width=\"1032\" height=\"581\" /><figcaption>Gueisha explicando em palestra os procedimentos da cerimônia do chá- Foto: Paula Guaraldo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img-20190812-wa0042.jpg?resize=1032%2C581&amp;ssl=1\" alt=\"\" width=\"1032\" height=\"581\" /><figcaption>A culinária típica atrai grande público – Foto: Paula Guaraldo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img-20190812-wa0032-e1566570150345.jpg?resize=563%2C316&amp;ssl=1\" alt=\"\" width=\"563\" height=\"316\" /><figcaption>Oficina de mangá (desenho) – Foto: Paula Guaraldo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img-20190812-wa0046-e1566570107981.jpg?resize=581%2C848&amp;ssl=1\" alt=\"\" width=\"581\" height=\"848\" /><figcaption>Diferentes espaços orientais foram montados como cenários para fotos – Foto: Paula Guaraldo</figcaption></figure><p>O vermelho e o branco tomaram conta do jardim do Palácio de Cristal de Petrópolis durante três dias da tradicional festa japonesa Bunka-Sai. O evento gratuito aconteceu de 8 a 11 de agosto e reuniu entre as atrações as principais comidas típicas do país além de diversas manifestações artísticas e culturais nipônicas.</p><p>A expressão Bunka-Sai significa “festival da cultura japonesa”. O evento, criado em 2008, é organizado pela Prefeitura em parceria com a Associação Nikkei de Petrópolis. A celebração começou para homenagear o centenário da imigração japonesa e, desde então, permanece no calendário anual de festividades da cidade ganhando a cada edição mais visibilidade e crescimento de público.</p><p>Neste ano a programação contou com 50 atividades. Teve torneio de karatê e judô, com destaque para o “2º Torneio Matheus Judoca Especial – Bunka-Sai 2019”, que leva o nome do jovem atleta petropolitano que tem síndrome de Down e reconhecido pela federação e confederação do esporte. Houve também a apresentação de Bon-Odori (a dança folclórica japonesa), coral de canarinhos, curiosidades sobre o Kimono, oficinas de bonecas japonesas de papel, de mangá (desenho), origami, de ábaco (calculadora japonesa), Aikido, cerimônia do chá, performance com Taiko (tradicional tambor japonês), Kendô Kage-ryu (combate com espadas), apresentação de Cosplay, Exposição ISHI DOORO – lanternas de pedra, competição de Pokémon GO, oficina de Ikebana Upcycle (arranjo de flores), espaço gastronômico com uma variedade de iguarias, barracas de artesanatos e peças decorativas. A cultura japonesa em diversos segmentos.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img-20190812-wa0026.jpg?resize=513%2C288&amp;ssl=1\" alt=\"\" width=\"513\" height=\"288\" /><figcaption>Oficina de Ikebana Upcycle (arranjo de flores) – Foto: Paula Guaraldo</figcaption></figure><p>A aluna do Instituto Cultural Brasil-Japão, Angela Maia todo ano é convidada para oferecer uma oficina. A voluntária oferece aulas de Ikebana e sempre se sente à vontade na cidade petropolitana. “É muito bom ver o interesse das pessoas. Todo ano tem mais alunos do que vagas”, destaca.</p><p>A próxima edição está prevista para agosto de 2020.</p><p><strong>Paula Guaraldo – 7º período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-08-12T11:14:00",
+  "date_gmt": "2019-08-12T14:14:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento gratuito reuniu 50 atrações na programação e promoveu manifestações culturais e artísticas O vermelho e o branco tomaram conta do jardim do Palácio de Cristal de Petrópolis durante três dias da tradicional festa japonesa Bunka-Sai. O evento gratuito aconteceu de 8 a 11 de agosto e reuniu entre as atrações as principais comidas típicas [&hellip;]</p>\n"
+  },
+  "featured_media": 4700,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4696"
+  },
+  "id": 4696,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img-20190812-wa0018.jpg?fit=1032%2C581&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1dK",
+  "link": "https://agenciauvabarra.com/2019/08/12/petropolis-promove-mais-uma-edicao-da-tradicional-festa-japonesa-bunka-sai/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-23T11:25:44",
+  "modified_gmt": "2019-08-23T14:25:44",
+  "ping_status": "open",
+  "slug": "petropolis-promove-mais-uma-edicao-da-tradicional-festa-japonesa-bunka-sai",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    24676362,
+    176275,
+    29479468,
+    189005,
+    685456455
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Petrópolis promove mais uma edição da tradicional festa japonesa Bunka-Sai"
+  },
+  "type": "post"
+}

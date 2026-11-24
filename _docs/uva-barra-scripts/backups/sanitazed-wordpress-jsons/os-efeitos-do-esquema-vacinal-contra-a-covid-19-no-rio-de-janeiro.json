@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10515/revisions/10530",
+        "id": 10530
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10515"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10515",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10515/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10515"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10525"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10515",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10515",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    1899315,
+    14603,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-10515",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-coronavirus",
+    "category-jornalismo",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Municípios como Miguel Pereira e São João da Barra não notificaram mortes pela doença no último mês</em></p><p>O primeiro caso do novo coronavírus foi confirmado pela Secretaria de Estado de Saúde (SES) na primeira quinta-feira de março (05/03) em 2020, no Estado do Rio de Janeiro. Praticamente, são dois anos em que a sociedade, cientistas e a comunidade médica enfrentam esta dura crise sanitária. Com o avanço da vacinação e quedas de mortes por Covid-19, os brasileiros voltaram a ter esperança sobre a possibilidade da retomada de uma vida normal.</p><p>De acordo com um levantamento do G1 com dados tabulados pelo físico e pesquisador de dados relacionados à evolução da pandemia no Brasil, Wesley Cota, exatamente 27 dos 92 municípios, do Rio de Janeiro, não registraram mortes por coronavírus no mês de setembro.</p><p>Assim como, 74% dos municípios apresentaram essa diminuição. “O diferencial da minha base é que também utilizo os dados oficiais do Ministério da Saúde, corrigindo alguns problemas nas séries históricas. Desde então a atualização é automática. A apuração dos números é imediata”, contou Wesley.</p><blockquote><p><em>É de fundamental importância divulgar abertamente os dados de doenças contagiosas. Temos toda a estrutura do SUS e pessoas capacitadas para unificar essas informações e apresentar de forma clara</em> </p><cite> Wesley Cota.</cite></blockquote><p>Desde 2013, o jovem pesquisador trabalha com modelagem de processos epidêmicos, e conta que a ideia de desenvolver a criação de um site com informações acerca da crise sanitária é fruto de produções já realizadas. “Comecei a construir uma base de dados a partir de notícias que detalhavam os casos por município. Foi ao ar em março de 2020 para compartilhar os dados com qualquer um que quisesse acesso”, revelou o doutorado em física.</p><p>Os dados refletem a redução de casos notificados, por Covid-19, atrelados com a data de atendimento no Hospital Universitário Clementino Fraga Filho, como por exemplo. Segundo a assessoria de imprensa e informações compartilhadas, por meio do gráfico da instituição, o número de casos confirmados demonstraram um índice de declínio entre os dois últimos meses. Ao comparar o mesmo período dessa semana atual com o do ano passado, nota-se que os casos caíram mais da metade no Hospital destacado.</p><p>O pesquisador, Herbert Guedes, que atua na área da saúde na Fiocruz, destaca a importância de permanecer com o uso de máscara, álcool em gel e o distanciamento social. “A imunização protege quanto às formas graves da doença, mas ela não protege contra a infecção. Então, apesar dos números que apontam uma melhora, a gente não pode se descuidar, porque é o uso dessas medidas de proteção associadas com a vacinação que vai nos permitir sair dessa situação”, explicou Herbert.</p><p><strong>Herbert Guedes fala sobre o significado da queda de mortes por Covid-19 para os cientistas</strong>.</p><figure><iframe loading='lazy' title='Herbert Guedes comenta sobre o que a queda de mortes por Covid-19 representa para os cientistas by Agência UVA Barra' width='500' height='400' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1149524137&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500'></iframe></figure><p>Atualmente, mais de 50% da população está completamente imunizada, isto é, mais de 109 milhões de brasileiros já concluíram o esquema vacinal contra a Covid-19, segundo dados do consórcio de veículos de imprensa do país. Para Herbert, a sociedade está experimentando o impacto da vacinação. “Nós precisamos continuar avançando com a vacinação e isso significa a vacinação completa, com as duas doses ou dose única, e a dose de reforço. Avançar com a vacinação vai melhorar nosso cenário no combate a Covid-19”, concluiu o pesquisador da Fiocruz.</p><p><em>Pedro Amorim &#8211; 5º período</em></p></main>"
+  },
+  "date": "2021-10-28T18:41:13",
+  "date_gmt": "2021-10-28T21:41:13",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O primeiro caso do novo coronavírus foi confirmado pela Secretaria de Estado de Saúde (SES) na primeira quinta-feira de março (05/03) em 2020, no Estado do Rio de Janeiro. Praticamente, são dois anos em que a sociedade, cientistas e a comunidade médica enfrentam esta dura crise sanitária. Com o avanço da vacinação e quedas de mortes por Covid-19, os brasileiros voltaram a ter esperança sobre a possibilidade da retomada de uma vida normal. </p>\n"
+  },
+  "featured_media": 10525,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10515"
+  },
+  "id": 10515,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/img_8639.jpg?fit=754%2C761&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2JB",
+  "link": "https://agenciauvabarra.com/2021/10/28/os-efeitos-do-esquema-vacinal-contra-a-covid-19-no-rio-de-janeiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-28T18:41:57",
+  "modified_gmt": "2021-10-28T21:41:57",
+  "ping_status": "open",
+  "slug": "os-efeitos-do-esquema-vacinal-contra-a-covid-19-no-rio-de-janeiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Os efeitos do esquema vacinal contra a Covid-19 no Rio de Janeiro"
+  },
+  "type": "post"
+}

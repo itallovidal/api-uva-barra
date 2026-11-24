@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11432/revisions/11441",
+        "id": 11441
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11432"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11432",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11432/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11432"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11440"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11432",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11432",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597
+  ],
+  "class_list": [
+    "post-11432",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/04/goffredobruno_piefrancescofavino_fabrizioferracane_mariafernandacandido_in_iltraditore_di_marcobellocchio_sc.3-202-190918_c2a9liapasqualino.jpg?fit=1024%2C683&amp;ssl=1' alt='' width='1024' height='683' /><figcaption>Foto: Divulgação</figcaption></figure><p>\"O Traidor\", novo filme do diretor italiano Marco Bellocchio, conta a história do maior delator da máfia. A trama ambientada na década de 80 acompanha Tommaso Buscetta (Pierfrancesco Favino) um importante membro do crime organizado da Sicília, que durante um período esteve escondido no Brasil. Depois de ter os filhos assinados pelos próprios aliados, Tommaso é preso e extraditado do país, onde deixa a mulher, Maria Cristina (Maria Fernanda Cândido) sozinho. Ao retornar à Itália e com desejo de se vingar, o mafioso decide entregar para a justiça os maiores chefes da \"Cosa Nostra\".</p><p>A obra dirigida por Marco Bellocchio tem referências muito claras a clássicos do gênero de máfia como \"O Poderoso Chefão\", \"Os Bons Companheiros\" e até a filmes mais recentes tal qual \"O Irlandes\". Desde elementos simples como uma laranja em cena, passando pela abertura com uma festa (que não passa de um disfarce para negócios da máfia) ou em cenas mais melancólicas no final do filme. Bellocchio tem uma direção muito precisa e consegue colocar esses pequenos detalhes de maneira sutil. Além de saber dosar as cenas de violência, com julgamentos e momentos mais calmos.</p><p>O longa, que é uma coprodução entre Itália, Brasil, França e Alemanha, apresenta diferentes cenários e explora toda a trajetória de Tommaso Buscetta. Para dar um ar mais real para a obra, o diretor utiliza em momentos pontuais imagens de telejornais da época, o que consegue passar até uma sensação de documentário para a obra. A direção de fotografia também aposta em takes de belas paisagens, tanto do Brasil quanto da Itália.</p><p>O roteiro do filme, apesar de desenvolver bem a trama e condensar bastante coisa da história do personagem principal, acaba ficando meio perdido. Às vezes parece que o longa não sabe se quer ser uma biografia do delator ou um resumo da queda da máfia italiana. No terço final da obra parece existir uma monotonia e um cansaço por parte da narrativa, talvez a história pudesse ser contada em menos tempo, às quase 2 horas e meia acabam pesado.</p><p>O elenco do filme conta com grandes nomes. Pierfrancesco Favino faz um Tommaso cheio de questões internas, medos e que ao longo do tempo vai se tornando cada vez mais paranóico. O destaque para o público do Brasil é pela participação da atriz Maria Fernanda Cândido, a personagem dela é esposa do mafioso e se mostra forte ao acompanhar o marido ao longo de todos esses anos tendo que lidar com o peso dele ter delatado o mais alto escalão do crime organizado da Itália. A produção também conta com Fabrizio Ferracane, Fausto Russo Alesi, Luigi Lo Cascio, Jonas Bloch, Nicola Siri, Rainer Cadete e Luciano Quirino.</p><p>\"O Traidor\" é um filme de máfia com a essência dos clássicos do gênero. Com muitos segredos revelados, traições e alianças perigosas, a obra mostra como um homem teve coragem de entregar uma das maiores organizações criminosas do mundo. O longa dirigido por Marco Bellocchio poderia ter uma duração um pouco menor, mas isso não é algo que chega a prejudicar a experiência final. A obra tem estreia prevista para o próximo dia 14 de abril nos cinemas.</p><p>Assista ao trailer.</p><figure><iframe src='https://www.youtube.com/embed/--EdE11UQgQ?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>Lucas Souza – 6º período</p></main>"
+  },
+  "date": "2022-04-12T18:15:53",
+  "date_gmt": "2022-04-12T21:15:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>&#8220;O Traidor&#8221;, novo filme do diretor italiano Marco Bellocchio, conta a história do maior  delator da máfia. A trama ambientada na década de 80 acompanha Tommaso Buscetta (Pierfrancesco Favino) um importante membro do crime organizado da Sicília, que durante um período esteve escondido no Brasil. Depois de ter os filhos assinados pelos próprios aliados, Tommaso é preso e extraditado do país, onde deixa a mulher, Maria Cristina (Maria Fernanda Cândido) sozinho. Ao retornar à Itália e com desejo de se vingar, o mafioso decide entregar para a justiça os maiores chefes da &#8220;Cosa Nostra&#8221;. </p>\n"
+  },
+  "featured_media": 11440,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11432"
+  },
+  "id": 11432,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/04/capa-site-agencia-2022-3.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Yo",
+  "link": "https://agenciauvabarra.com/2022/04/12/agencia-uva-barra-assistiu-o-traidor/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-04-12T18:15:53",
+  "modified_gmt": "2022-04-12T21:15:53",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-o-traidor",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: O traidor"
+  },
+  "type": "post"
+}

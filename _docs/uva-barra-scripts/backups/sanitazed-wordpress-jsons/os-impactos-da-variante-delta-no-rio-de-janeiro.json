@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9958/revisions/9982",
+        "id": 9982
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9958"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9958",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 17,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9958/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9958"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9977"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9958",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9958",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    72064
+  ],
+  "class_list": [
+    "post-9958",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Alta transmissibilidade e não cumprimento das regras sanitárias facilitam a disseminação do vírus</em></p><p>De acordo com o 36⁰ Boletim Epidemiológico da Secretaria Municipal de Saúde, a variante delta representou aproximadamente 96% dos casos de Covid-19 em agosto, colocando a capital fluminense como o epicentro. Paralelo a isso, ocorre a vacinação, que tende a resultar em um possível relaxamento dos cuidados sanitários. Desse modo, o avanço da cobertura vacinal e a manutenção das medidas restritivas têm participação direta nos rumos da variante no município.</p><p>Apesar da dominação da delta , a Prefeitura do Rio optou por flexibilizar certas medidas restritivas a partir de hoje (21), com destaque para a permissão de até 500 pessoas em eventos abertos e a volta de 50% do público com esquema vacinal completo em estádios e ginásios. Para o epidemiologista José Ueleres, a cidade apresenta condições favoráveis para a circulação do vírus, o que reforça a necessidade da vacina e dos protocolos sanitários. “O Rio é um dos principais destinos turísticos, tendo uma grande movimentação de pessoas que vêm da Europa e de outros países onde a variante delta já estava presente. Além disso, o nível de mobilidade populacional não reduziu”, destaca.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/jose-ueleres.jpg?resize=546%2C542&amp;ssl=1\" alt=\"José Ueleres\" width=\"546\" height=\"542\"><figcaption>José Ueleres, epidemiologista, falou que as características urbanísticas da capital fluminense contribuem para a disseminação da variante delta.<br>Foto: Arquivo Pessoal</figcaption></figure><p>A combinação entre a vacinação e a falta de respeito às medidas sanitárias não está dando conta. É justamente a esse ponto que José Ueleres atribui o fato de acontecerem mutações como a delta. Ele declara que a dependência exclusiva da cobertura vacinal é insuficiente, já que as aglomerações aumentam as chances de surgirem novas variantes. Por outro lado, o epidemiologista ressalta a importância da vacinação em massa para conter o avanço da delta. “Se nós aumentarmos a velocidade e a cobertura de vacinação, o vírus terá menos chances de sofrer mutações. Quanto maior o número de vacinados, menor a disseminação”.</p><p><strong>O epidemiologista José Ueleres ressalta a importância da vacina e dos cuidados sanitários:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1128659092&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"O epidemiologista José Ueleres ressalta a importância da vacina e dos cuidados sanitários by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Embora um estudo do Observatório Covid-19 da Fundação Oswaldo Cruz (Fiocruz) apontasse para uma tendência de subida de casos — sendo um dos motivos a Delta — , o município do Rio registrou uma diminuição de 26% no número de internações no sistema público de saúde entre a terceira semana de agosto e primeira semana de setembro.</p><p>O educador físico Bruno Castelo relata a experiência ao contrair o vírus em meio ao ápice da nova variante. “Eu peguei Covid no início de agosto, já com a delta aqui no Rio, mas não tive sintomas graves. Já tinha tomado a dose única há cerca de um mês e sempre busquei evitar aglomerações e ambientes fechados”, explica. Quem passou pela mesma situação foi a professora Cintia Oliveira, que contraiu a Covid-19 também em agosto após ter tomado a primeira dose da vacina e se recuperou sem complicações.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/bruno-castelo.jpeg?resize=1600%2C1202&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1202\"><figcaption>O educador físico Bruno Castelo contraiu Covid-19 no início de agosto, período em que a variante delta já circulava no Rio de Janeiro, após ter tomado a vacina de dose única.<br>Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/cintia-oliveira-2.jpeg?resize=738%2C1599&amp;ssl=1\" alt=\"\" width=\"738\" height=\"1599\"><figcaption>A professora Cintia Oliveira testou positivo no dia 13 de agosto e não teve complicações, pois já tinha se vacinado com a primeira dose.<br>Foto: Arquivo Pessoal</figcaption></figure><p>A população carioca vacinada com duas doses ou única está em torno de 50%, já com pelo menos uma dose ou única sobe para 82% segundo os dados da Secretaria Municipal de Saúde. A última quarta-feira (15) foi marcada pela realização do primeiro evento-teste no Maracanã para a retomada de atividades esportivas com a presença parcial do público. A Prefeitura do Rio pretende fazer mais ações desse tipo.</p><p><em>Lucas Ribeiro – 6° período</em></p></main>"
+  },
+  "date": "2021-09-21T19:09:24",
+  "date_gmt": "2021-09-21T22:09:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>em um possível relaxamento dos cuidados sanitários. Desse modo, o avanço da cobertura vacinal e a manutenção das medidas restritivas têm participação direta nos rumos da variante no município.</p>\n"
+  },
+  "featured_media": 9977,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9958"
+  },
+  "id": 9958,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/capa-site-agencia.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2AC",
+  "link": "https://agenciauvabarra.com/2021/09/21/os-impactos-da-variante-delta-no-rio-de-janeiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-09-21T19:40:52",
+  "modified_gmt": "2021-09-21T22:40:52",
+  "ping_status": "open",
+  "slug": "os-impactos-da-variante-delta-no-rio-de-janeiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Os impactos da variante delta no Rio de Janeiro"
+  },
+  "type": "post"
+}

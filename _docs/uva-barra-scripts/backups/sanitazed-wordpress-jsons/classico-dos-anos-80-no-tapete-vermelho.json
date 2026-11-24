@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1739/revisions/3224",
+        "id": 3224
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1739"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1739",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1739/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1739"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1739",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1739",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-1739",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Ficção científica e avanço tecnológico são atração em shopping carioca</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/02/4.jpg?resize=5184%2C3456&#038;ssl=1' alt='4' width='5184' height='3456' /><figcaption>Foto: Brenda Martins</figcaption></figure><p>Com o fim da temporada de premiações do cinema e televisão, no próximo domingo, dia 4 de março, acontece o Oscar 2018. O último filme exibido no Village MovieArt, no shopping Village Mall, foi o remake “Blade Runner – 2049”, indicado em cinco categorias, entre elas: direção de arte, efeitos especiais e melhor fotografia. O longa conta com cenas de ação, aventura, drama e grandes nomes da atuação de Hollywood para entreter o público nos cinemas de todo o mundo.</p><p>O ator Ryan Gosling entra em cena como o replicante “K”, um “blade runner” caçador de antigos modelos que estão à solta na sociedade. Após receber ordens, “K” visita a sede da empresa de Niander Wallace (Jared Leto), e descobre segredos que são revelados no decorrer da trama. O crossover – técnica literária de misturar personagens de núcleos diversos interagindo entre eles – com o filme original de 1982 acontece com o veterano Rick Deckard (Harrison Ford). Os efeitos visuais, dignos da indicação ao Oscar, impressionam qualquer amante da sétima arte.</p><p>Para a estudante de Cinema Leticia do Vall, o filme traz a questão de como o mundo seria com o avanço da tecnologia. “Imaginar pessoas que nunca tenham visto uma árvore, é uma sensação estranha e chocante que o enredo mostra”, comenta. Entretanto, a universitária conta que se decepcionou com a falta de organização e de informação para os clientes no local. “Fiquei horas em pé, para só final conseguir assistir o filme”.</p><p>Mesmo com esses problemas ocorridos, o telespectador Thallis Barreto afirma que se surpreendeu com estilo retrô dado ao evento. “Jovens da minha idade nunca tiveram a experiência de ir em drive – in igual nossos pais, e o local me deu esse clima de anos 70”. Além disso, a ideia de expor os filmes do Oscar, trouxe um público diferente, que gosta de assistir e admirar os longas. “Foi agradável reunir os amigos para assistir um filme assim, um outro tipo de experiência”</p><p>Ana Carolina Marinho, 5° período</p></main>"
+  },
+  "date": "2018-02-27T16:58:51",
+  "date_gmt": "2018-02-27T19:58:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ficção científica e avanço tecnológico são atração em shopping carioca</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1739"
+  },
+  "id": 1739,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-s3",
+  "link": "https://agenciauvabarra.com/2018/02/27/classico-dos-anos-80-no-tapete-vermelho/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T17:45:32",
+  "modified_gmt": "2019-02-27T20:45:32",
+  "ping_status": "open",
+  "slug": "classico-dos-anos-80-no-tapete-vermelho",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Clássico dos anos 80 no tapete vermelho"
+  },
+  "type": "post"
+}

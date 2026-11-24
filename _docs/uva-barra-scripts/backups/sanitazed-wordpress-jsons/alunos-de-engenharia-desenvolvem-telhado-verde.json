@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4388/revisions/4395",
+        "id": 4395
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4388"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4388",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4388/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4388"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4390"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4388",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4388",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4388",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-engenharia",
+    "tag-telhado-verde",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Projeto do campus Barra une alunos para trabalhar uma horta em containers</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/whatsapp-image-2019-05-30-at-20.33.44.jpeg?resize=572%2C394&#038;ssl=1' alt='Os alunos participantes do projeto – Foto: Rosângela Santos' width='572' height='394' /><figcaption>Alunos participantes do projeto – Foto: Rosângela Santos</figcaption></figure><p>Os alunos das Engenharias Civil e Produção estão desenvolvendo um projeto sustentável de telhado verde para o campus Barra sob a coordenação do professor Márcio Suzano. A atividade extracurricular faz parte das matérias de projeto I e II e na quinta-feira, (30/05,) foram apresentados os resultados do semestre de 2019.1.</p><p>O telhado verde é um potencial redutor de vazão do escoamento das águas pluviais, e chega a absorver até 90% do calor das lajes. Esse trabalho e a captação de água para a irrigação desse processo é uma continuação do que foi feito pela antiga turma de projeto I. “Os alunos trabalharam as fôrmas, os reparos em cima do container, colocaram forros (lonas), impermeabilizaram e cuidaram da parte da vegetação”, explica o Coordenador Márcio Suzano.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/whatsapp-image-2019-05-30-at-20.33.54-e1559756603382.jpeg?resize=525%2C353&#038;ssl=1' alt='Os containers foram disponibilizados pelos alunos de engenharia civil, para a criação da horta – Foto: Rosângela Santos' width='525' height='353' /><figcaption>Os containers foram disponibilizados pelos alunos de engenharia civil, para a criação da horta – Foto: Rosângela Santos</figcaption></figure><p>A prática pedagógica reforça as ações da Universidade Veiga de Almeida que vão além da sala. Esta atividade desenvolveu nos alunos diversas competências mercadológicas, entre elas, a do trabalho em grupo. “O telhado verde tem como objetivo minimizar as enchentes nas cidades e os efeitos das ilhas de calor. E apesar de cada um ter uma função, no fim todos se ajudaram para que desse certo”, afirma Rosângela Santos, aluna do 7° período de Engenharia de Produção.</p><p>A atividade extracurricular trabalhou questões de planejamento, pesquisa, avaliação de risco e oportunidade, métodos de tomadas de decisão e cooperação. Os interessados em trabalhar no projeto do Telhado Verde, no campus Barra, devem ficar de olho na disciplina de Projeto II, que será ofertada em 2019.2</p><p><strong>Ana Beatriz Bernardo – 7° período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-06-05T14:49:28",
+  "date_gmt": "2019-06-05T17:49:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Projeto do campus Barra une alunos para trabalhar uma horta em containers Os alunos das Engenharias Civil e Produção estão desenvolvendo um projeto sustentável de telhado verde para o campus Barra sob a coordenação do professor Márcio Suzano. A atividade extracurricular faz parte das matérias de projeto I e II e na quinta-feira, (30/05,) foram [&hellip;]</p>\n"
+  },
+  "featured_media": 4390,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4388"
+  },
+  "id": 4388,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/whatsapp-image-2019-05-30-at-20.33.54-e1559756603382.jpeg?fit=1280%2C862&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-18M",
+  "link": "https://agenciauvabarra.com/2019/06/05/alunos-de-engenharia-desenvolvem-telhado-verde/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-06-05T14:49:28",
+  "modified_gmt": "2019-06-05T17:49:28",
+  "ping_status": "open",
+  "slug": "alunos-de-engenharia-desenvolvem-telhado-verde",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056619,
+    16262085,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Alunos de Engenharia desenvolvem “telhado verde”"
+  },
+  "type": "post"
+}

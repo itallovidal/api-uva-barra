@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15695/revisions/15707",
+        "id": 15707
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15695"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15695",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15695/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15695"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15706"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15695",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15695",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2860759,
+    3719
+  ],
+  "class_list": [
+    "post-15695",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-bienal-do-livro",
+    "category-literatura",
+    "tag-agenciauvabarra",
+    "tag-editorial",
+    "tag-literario",
+    "tag-livro",
+    "tag-mercado"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Editoras chegaram a superar em 100% as vendas da última edição</em></p><p>A Bienal do Livro comemora 40 anos em 2023, e após se tornar Patrimônio Cultural do Rio de Janeiro, a edição carioca espera ser um ponto de retomada no mercado literário, deixando para trás os problemas de 2019 e 2021, quando a censura e pandemia do Covid-19, respectivamente, prejudicaram o principal evento literário do país. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-06-at-19.58.42.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Dante Cid acredita que a tecnologia pode ajudar no crescimento do mercado editorial. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-06-at-19.59.13.jpeg?resize=1600%2C1200&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1200\"><figcaption>Cristiane Reis é coordenadora comercial da editora Rocco. (Foto: Mariana Rangel) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-06-at-19.58.46.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Maria Brum diz estar presente em todas as edições da Bienal no Rio de Janeiro. (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-06-at-19.58.46-1.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>\"O evento está muito legal, com lojas bem legais, muita diversidade e promoções\", comentou Hugo Costa. (Foto: Igor Concolato) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-06-at-19.58.49.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>André Conti diz que as editoras souberam promover muito bem o encontro dos jovens leitores com escritores famosos. (Foto: Igor Concolato) </figcaption></figure><p>O festival começou na sexta-feira (01/09) e deve contar com cerca de 380 autores, mais de 300 editoras, 80 encontros entre leitores e escritores e 200 horas de programação. Para o presidente do Sindicato Nacional dos Editores de Livros (SNEL), Dante Cid, a edição de 2023 marca a volta de uma Bienal maior do que nunca: \"Sem riscos a liberdade de expressão e sem riscos a saúde, por isso esta felicidade, recorde de público, recorde de venda e tudo tem sido maravilhoso\", afirmou Dante. </p><p>Com diversos fatores favoráveis, o mercado editorial começou aquecido no primeiro fim de semana do evento, isso porque no sábado (02/09), a Rocco quebrou dois recordes de uma só vez, porque a editora teve o maior faturamento em apenas um dia da Bienal, e teve um número de vendas 70% maior do que na edição do ano passado, que aconteceu em São Paulo, considerando apenas este dia. Quando comparados os 3 primeiros dias com a última edição carioca em que participou, no ano de 2019, o aumento sobe para 85% a mais de faturamento. </p><p>A coordenadora comercial da empresa, Cristiane Reis, citou o fim da pandemia do Covid-19 como um dos fatores para este fato: \"A gente está muito surpreso com essa retomada. Durante a pandemia a galera comprou muito no online, mas cada vez mais essa movimentação influencia no físico, e as metas devem sempre ir aumentando\", afirmou ela. </p><p>O presidente do SNEL, Dante Cid, comentou sobre o atual momento do mercado editorial e a influência da Bienal do Livro na parte financeira: </p><figure><iframe src=\"https://www.youtube.com/embed/fwfRc8X0twY?feature=oembed\" width=\"500\" height=\"281\" title=\"Dante Cid comenta sobre o atual momento do mercado editorial.\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></figure><p><br>A editora Sextante e Arqueiro obteve um aumento em 100% no número de vendas, se comparado com a edição de 2021, última realizada no Rio de Janeiro. Apenas de sexta-feira até o último domingo, foram cerca de 16 mil livros vendidos. Neyde Côrtes é diretora comercial da editora e se mostrou surpresa com o tamanho do público no sábado. \"A gente imaginava que essa Bienal do Livro Rio teria um público maior, porque na anterior ainda estávamos na pandemia do Covid-19, então aumentamos o tamanho do nosso estande em 100m2 e colocamos mais caixas disponíveis, exatamente para atender a demanda\", afirmou. Neyde completou falando que o mercado editorial é sempre um momento de festa, alegria e esperança. </p><p>A estudante Maria Brum é uma fã dos gêneros terror e romances de época, e nesta edição da Bienal, comprou cerca de 18 livros de diferentes estilos, mas falou sobre suas preferências: \"Eu curti muito os livros dos estandes da Globo e da Record, mas um escritor que tem o meu coração é o Rapahel Montes, recomendo pra todo mundo\", comentou a jovem. Hugo Costa começou a paixão pela literatura influenciado pela mãe, que é professora e sempre o trouxe para a Bienal em todas as edições, e hoje se tornou um grande fã dos livros de ficção. \"De um tempo pra cá eu perdi o costume de ler, mas com os 9 livros que comprei hoje, pretendo voltar com este hábito\", comentou Hugo. </p><p>Apesar do número de vendas desta edição da Bienal, o Brasil ainda possui um déficit no mercado literário que pode ser explicado por dois fatores distintos: Uma demanda reprimida e uma restrição estrutural. \"Uma demanda reprimida representa pessoas que poderiam acessar os livros, mas por algum empecilho não conseguem, podendo ser devido a falta de renda ou a falta de hábito\", afirma Mariana Bueno, economista da Nielsen Book Data. \"Já a restrição estrutural corresponde a pessoas que não tem capacidade de leitura. Boa parte da população consegue ler artigos de jornal ou até mesmo livros mais simples, mas não tem capacidade de ler a grande massa dos livros, e isso não tem relação com classe e renda\", completou.</p><p>Durante a pandemia do covid-19, o preço do papel aumentou cerca de 80%, fazendo com que o custo para produzir um livro praticamente dobrasse de valor, chegando ao consumidor final com bem mais caro que o habitual. André Conti, editor da Todavia, comentou sobre o impacto midiático que a Bienal pode causar na população: <strong>Ouça no áudio abaixo: </strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1610191797&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"André Conti fala sobre o impacto midiático da Bienal by Agência UVA Barra\" allowfullscreen></iframe></figure><p>Além das editoras citadas na matéria, outras também tiveram recordes de venda no primeiro fim de semana da Bienal. Confira: </p><p>. Instrínseca: Aumento de 100% nas vendas comparada com a Bienal do Livro 2021</p><p>. HarperCollins: Teve um faturamento 50% maior do que nas duas últimas edições do evento</p><p>. Record vendeu 120% a mais quando comparado com o ano de 2021 </p><p>. Globo Livros cresceu 50% a mais do que na Bienal 2021 e 2022</p><p>O mercado editorial ainda deve ganhar novos números, afinal o evento acontece até o domingo, 10/09.</p><p><em>Igor Concolato – 4° período</em></p></main>"
+  },
+  "date": "2023-09-06T20:20:29",
+  "date_gmt": "2023-09-06T23:20:29",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Bienal do Livro comemora 40 anos em 2023, e após se tornar Patrimônio Cultural do Rio de Janeiro, a edição carioca espera ser um ponto de retomada no mercado literário, deixando para trás os problemas de 2019 e 2021, quando a censura e pandemia do Covid-19, respectivamente, prejudicaram o principal evento literário do país. </p>\n"
+  },
+  "featured_media": 15706,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15695"
+  },
+  "id": 15695,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-06-at-20.14.55.jpeg?fit=1152%2C864&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-459",
+  "link": "https://agenciauvabarra.com/2023/09/06/mercado-editorial-tem-recorde-de-faturamento-no-primeiro-fim-de-semana-da-bienal/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-06T20:20:29",
+  "modified_gmt": "2023-09-06T23:20:29",
+  "ping_status": "open",
+  "slug": "mercado-editorial-tem-recorde-de-faturamento-no-primeiro-fim-de-semana-da-bienal",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    705220696,
+    2697,
+    97998,
+    162577,
+    85628
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Mercado editorial tem recorde de faturamento no primeiro fim de semana da Bienal"
+  },
+  "type": "post"
+}

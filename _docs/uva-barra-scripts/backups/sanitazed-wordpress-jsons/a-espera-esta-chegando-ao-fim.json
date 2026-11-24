@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10489/revisions/10513",
+        "id": 10513
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10489"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10489",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 17,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10489/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10489"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10501"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10489",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10489",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    858951,
+    670411728,
+    14603,
+    175
+  ],
+  "class_list": [
+    "post-10489",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos-internos",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-marketing",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Nos preparativos para volta às aulas presenciais, calouros, veteranos e professores visitam o campus Barra</em></p><p>Realizar o trajeto de ida até a faculdade depois de 4 períodos sem o contato presencial desperta lembranças de uma época vivida entre os veteranos antes do começo da pandemia. Porém, a emoção maior foi para quem realizou a matrícula na UVA durante a crise sanitária e não teve a oportunidade de estar no campus ainda. Graças ao avanço da vacinação no país, os alunos do campus Barra puderam realizar uma visita técnica aos estúdios e laboratórios, na terça-feira (26/10).</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/img_8622.jpg?resize=640%2C480&#038;ssl=1' alt='' width='640' height='480' /><figcaption>O evento teve duração de duas horas, aproximadamente. (Foto: Pedro Amorim)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/julia.jpg?resize=512%2C640&#038;ssl=1' alt='' width='512' height='640' /><figcaption>Julia expressou como a UVA é preparada em fornecer um contato primordial com os estudos e a prática da profissão. (Foto: Pedro Amorim)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/davi.jpg?resize=512%2C640&#038;ssl=1' alt='' width='512' height='640' /><figcaption>Davi destaca como a vivência do presencial é fundamental para a formação dos universitários. (Foto: Pedro Amorim)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/leonardo.jpg?resize=512%2C640&#038;ssl=1' alt='' width='512' height='640' /><figcaption>Para Leonardo, quanto mais rápido o aluno participar dos laboratórios e projetos, haverá uma preparação maior para o âmbito profissional. (Foto: Pedro Amorim)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/renata-2.jpg?resize=512%2C640&#038;ssl=1' alt='' width='512' height='640' /><figcaption>Renata evidencia a fase da faculdade como uma fase de transição para pensar na própria carreira, futuro e independência. (Foto: Pedro Amorim)</figcaption></figure><p>Com a máscara no rosto, álcool em gel por todos os lados e o distanciamento social, os professores do curso de comunicação social fizeram um tour com os alunos pelas salas de aula, biblioteca, Agência ONZE, Agência UVA Barra, CRIA e TV UVA. O sentimento de felicidade foi notado nos gestos das pessoas. A satisfação de ver a segunda casa, lugar em que os estudantes passam a maior parte do dia, voltar à normalidade é uma sensação que fica difícil de descrever e fácil de sentir.</p><p>Julia Dias pôde, finalmente, conhecer a faculdade escolhida pela primeira vez. A estudante de jornalismo fez a matrícula no segundo semestre de 2021 e contou que começou de uma maneira que não esperava, o comum é ser recepcionada com o “trote”, conhecer a atlética, amigos, docentes, mas para a caloura foi diferente. “Optei começar esse ano porque não queria ficar parada, já fiquei seis meses sem fazer algo. Mesmo com o processo de ficar online, eu optei começar a faculdade já sabendo que eu perderia algumas experiências”, disse Julia.</p><p>Apesar de iniciar o período com uma forma incomum, Julia entendeu que não é o “fim do mundo”, assim descrito por ela. A Universidade Veiga de Almeida pretende voltar às aulas presenciais em 2022 e as expectativas são as melhores possíveis para a futura jornalista, ainda mais quando viu o campus. “Eu fiquei apaixonada pelas fotos do campus e acreditei que aqui eu conseguiria fazer a minha carreira”, revelou a discente.</p><p><strong>Julia Dias fala sobre a importância da faculdade para trilhar a profissão</strong> <strong>desejada</strong>.</p><figure><div class=\"embed-soundcloud\"><iframe loading='lazy' title='Julia Dias comenta sobre o valor da universidade para a carreira profissional by Agência UVA Barra' width='500' height='400' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1148966548&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500'></iframe></div></figure><p>Para Davi Werneck, estudante no 8º período de publicidade e propaganda, voltar para a universidade é reviver uma nostalgia e alegria. No ritmo de reta final do Trabalho de Conclusão do Curso (TCC), Davi vai comparecer no campus, no próximo semestre, para terminar a monografia e concluir a formação, trajetória compartilhada por todos os universitários.</p><p>Segundo Davi, a experiência do presencial é interpretada como necessária aos alunos, assim como o contato com os amigos e professores. Prestes a terminar o período, Davi destaca como os calouros podem aproveitar a faculdade. “Saber administrar seu tempo e aproveitar todas as oportunidades que a faculdade oferece, como por exemplo: as Agências, CRIA, os estúdios, os equipamentos. É chegar e tornar a prática ainda melhor”, comentou Davi Werneck.</p><p>A maior dificuldade enfrentada por Leonardo Amato, professor e coordenador da Agência Onze, no começo da pandemia foi adaptar algumas disciplinas práticas em virtuais. Aliás, entender o funcionamento das plataformas para disponibilizar a melhor forma de aprendizado ao aluno. Mas, a instituição cumpriu essa etapa e se encontra na corrida para a volta da normalidade. “É muito orgulho ver os alunos ocupando os espaços que são deles, é um sopro de esperança para que a gente retorne nossas atividades”, falou Leonardo.</p><p><strong>Leonardo comenta sobre a melhor forma dos alunos aproveitarem a faculdade.</strong></p><figure><div class=\"embed-youtube\" style='text-align:center; display: block;'><iframe loading='lazy' class='youtube-player' width='640' height='360' src='https://www.youtube.com/embed/FacdKEkkgjM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></div></figure><p>De acordo com Renata Feital, coordenadora dos cursos de Jornalismo, Publicidade e Marketing, o evento foi uma preparação ao retorno e um reconhecimento das instalações. “Tem aluno que nunca entrou aqui ou entrou e assistiu uma aula em uma semana. Resolvemos fazer uma convocação para todos e motivá-los”, explicou Renata.</p><p>Voltar para casa é retornar para um lugar acolhedor. E a faculdade é um espaço de diálogo com o mercado de trabalho, com o respeito, à diversidade e à reflexão. Durante a visita ao estúdio, Luiz Fernando da Silva Prado, diretor do campus Barra, conversou com os alunos e agradeceu pela confiança. “Essa unidade tem tudo para ser referência na Veiga”, concluiu Luiz.</p><p><em>Pedro Amorim – 5º período</em></p></main>"
+  },
+  "date": "2021-10-27T18:45:34",
+  "date_gmt": "2021-10-27T21:45:34",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Realizar o trajeto de ida até a faculdade depois de mais de 4 períodos sem o contato presencial desperta lembranças de uma época vivida entre os veteranos antes do começo da pandemia. Porém, a emoção maior foi para quem realizou a matrícula na UVA durante a crise sanitária e não teve a oportunidade de estar no campus ainda. Graças ao avanço da vacinação no país, os alunos do campus Barra puderam realizar uma visita técnica aos estúdios e laboratórios, na terça-feira (26/10).</p>\n"
+  },
+  "featured_media": 10501,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10489"
+  },
+  "id": 10489,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/img_8635.jpg?fit=753%2C756&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Jb",
+  "link": "https://agenciauvabarra.com/2021/10/27/a-espera-esta-chegando-ao-fim/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-28T10:58:13",
+  "modified_gmt": "2021-10-28T13:58:13",
+  "ping_status": "open",
+  "slug": "a-espera-esta-chegando-ao-fim",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A espera está chegando ao fim"
+  },
+  "type": "post"
+}

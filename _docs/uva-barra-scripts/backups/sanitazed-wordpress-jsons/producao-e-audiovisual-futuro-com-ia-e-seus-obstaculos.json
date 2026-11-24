@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19203/revisions/19236",
+        "id": 19236
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19203"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19203",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19203/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19203"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19210"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19203",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19203",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    858951,
+    670411728,
+    14603,
+    39479,
+    6669656,
+    758
+  ],
+  "class_list": [
+    "post-19203",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-eventos-internos",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-publicidade",
+    "category-secom",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Ocorreu nesta terça feira no estúdio de TV da Universidade Veiga de Almeida (UVA) uma oficina de como começar uma produção audiovisual, apresentada por Bryan Couto e João Victor dos Santos, ex alunos da universidade, Hoje ambos são sócios da assessoria Most, que atua no mercado de produção de produtos audiovisuais.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-25-at-11.14.56.jpeg?resize=1980%2C3520&#038;ssl=1' alt='Oficina PRODUÇÃO E AUDIOVISUAL: FUTURO COM IA E SEUS OBSTÁCULOS' width='1980' height='3520' /><figcaption>Oficina PRODUÇÃO E AUDIOVISUAL: FUTURO COM IA E SEUS OBSTÁCULOS</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-25-at-11.14.57.jpeg?resize=3840%2C2160&#038;ssl=1' alt='Secom 2025' width='3840' height='2160' /><figcaption>Secom 2025</figcaption></figure><p>A palestra se destaca pela ótima maneira que Bryan e João conduziram o tema, explicando de forma didática, trazendo suas experiências pessoais, não só no mercado como também ex alunos da universidade, destacando o quão gratificante é voltar aonde tudo começou podendo compartilhar o conhecimento que aprenderam na instituição quanto a vivência no mercado. “De fato está sendo muito novo para gente, porque antigamente a gente se via como aluno e as palestras que a gente via era mais para sugar o conhecimento e hoje a gente tá podendo dar esse conhecimento para os alunos ”, afirmou Bryan. “ E essa experiência de vir aqui palestrar mostra que a gente correu atrás e mostra que os resultados que tudo que estudamos e praticamos está trazendo resultado nesse momento ”, disse João. </p><p>Os palestrantes Bryan Couto e João Victor Santos, falaram sobre os obstáculos que enfrentam na produção de seus produtos, destacando a importância de ser criativo, a fim de se ter um item que seja autoral e de isso ser um diferencial, em um mercado onde a inteligência artificial se mostra cada vez mais presente. “Um dos maiores obstáculos que eu acredito e o Bryan também, é a parte da criatividade, essa parte de ficar mexendo o celular toda hora, pessoal vai achar, caraca ele só mexe no celular, mas não é sim montar ideias e ter referências para isso, e acho que esse seja o maior desafio”</p><p><strong>Veja um trecho da entrevista com Bryan e João:</strong></p><figure><iframe src='https://videopress.com/embed/1YXEcGB9?cover=1&amp;preloadContent=metadata&amp;useAverageColor=1&amp;hd=0' width='500' height='281' title='VideoPress Video Player' allowfullscreen allow='clipboard-write' /><figcaption>Bryan e João &#8211; palestrantes</figcaption></figure><p>Outro grande ponto da apresentação foi a dinâmica proposta pela dupla, que desafiou os alunos a criarem um vídeo onde iriam fazer uma propaganda, para vender uma mochila, em que na filmagem o acessório deveria apresentar um problema que ao longo do vídeo deveria ser solucionado, e que poderia se utilizar inteligência artificial na produção. A atividade foi divertida de ser feita e agradou os alunos, como podemos ver nesse trecho do aluno Erick Costa, que está no primeiro período de jornalismo. “ Foi um dia bastante produtivo, aprendemos a usar ia, que vai ser bastante importante futuramente, e tivemos um desafio que foi muito divertido de fazer em grupo”.</p><p>A dinâmica também trouxe uma questão importante que foi a utilização da inteligência artificial de forma positiva, sendo utilizada com uma aliada na otimização de tempo da produção do vídeo, sendo algo destacado pela aluna Manuela Machado do segundo período do curso de&nbsp; publicidade e propaganda. “Achei a oficina super legal e dinâmica, a gente aprendeu muito com a edição, achei a explicação deles muito boa, com as dicas que eles nos deram, e de como usar a IA de maneira positiva e de uma forma maneira”.</p><p>Murilo Marques &#8211; 2º Período</p><p>Eduarda Gomes&nbsp;&#8211; 2º Período</p></main>"
+  },
+  "date": "2025-09-25T11:33:51",
+  "date_gmt": "2025-09-25T14:33:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Oficina de Produção Audiovisual: Futuro com IA e seus obstáculos </p>\n"
+  },
+  "featured_media": 19210,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19203"
+  },
+  "id": 19203,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-25-at-11.14.57.jpeg?fit=3840%2C2160&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4ZJ",
+  "link": "https://agenciauvabarra.com/2025/09/25/producao-e-audiovisual-futuro-com-ia-e-seus-obstaculos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-25T14:51:49",
+  "modified_gmt": "2025-09-25T17:51:49",
+  "ping_status": "open",
+  "slug": "producao-e-audiovisual-futuro-com-ia-e-seus-obstaculos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "SECOM 2025: PRODUÇÃO E AUDIOVISUAL: FUTURO COM IA E SEUS OBSTÁCULOS "
+  },
+  "type": "post"
+}

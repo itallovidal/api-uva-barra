@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7463/revisions/7509",
+        "id": 7509
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7463"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7463",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7463/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7463"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7463",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7463",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    703299214
+  ],
+  "class_list": [
+    "post-7463",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-esporte",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Reprises esportivas se tornam solução para os fãs de esporte durante a pandemia</em></p><p>Em tempos de pandemia, em que todos os esportes foram paralisados e eventos esportivos adiados, recordar é viver para os fãs de esportes. As reprises substituíram os eventos ao vivo e dominaram as grades dos canais de esporte, dando a oportunidade de ver momentos históricos dos esportes. Com isso, 2020 se tornou o ano em que está sendo possível relembrar o passado pela televisão.</p><p>As reprises de corridas históricas da fórmula 1 agradaram o fã da categoria José Luiz Vaz Alves, de 59 anos. A atual temporada já teve quatro corridas canceladas e o inicio do campeonato adiado para o dia 5 de julho, mas José Luiz afirma que prefere assistir às corridas antigas por causa da oportunidade de ver o seu ídolo, Ayrton Senna, correndo novamente. “Assistir às reprises me faz sentir uma grande nostalgia, me faz lembrar os domingos em que acordei cedo só para ver o Senna na pista”. Para ele, as reprises são uma oportunidade para quem nunca viu ao vivo grandes nomes do esporte em ação.</p><p>É o caso do Lucas Emanuel, de 20 anos. O fã de futebol afirma que é incrível ver momentos únicos e jogadores marcantes da história do futebol. “O que me motivou foi poder relembrar jogos antigos do Botafogo, em que eu era muito novo e dos quais tinha pouca lembrança”. Lucas afirma que as reprises vêm ajudando a eliminar todo o estresse causado pela quarentena e ocupar a mente com boas lembranças do seu time de coração.</p><p>Boas lembranças motivaram Guilherme Archanjo, de 20 anos, a assistir às reprises. “Foi incrível, a sensação de angústia durante os 80 minutos de jogo, após a virada foi uma explosão de sentimentos”, diz o flamenguista após assistir à reprise da final da Libertadores de 2019. Guilherme afirma também que o sentimento foi parecido quando ele assistiu ao jogo ao vivo. Para ele, as reprises são importantes, pois não deixam o esporte cair no esquecimento durante a pandemia e ajudam a distrair a mente na quarentena.</p><p>Vinícius Domingos de Souza – 3º Período | Jornalismo</p></main>"
+  },
+  "date": "2020-08-27T14:02:00",
+  "date_gmt": "2020-08-27T17:02:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Reprises esportivas se tornam solução para os fãs de esporte durante a pandemia Em tempos de pandemia, em que todos os esportes foram paralisados e eventos esportivos adiados, recordar é viver para os fãs de esportes. As reprises substituíram os eventos ao vivo e dominaram as grades dos canais de esporte, dando a oportunidade de [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7463"
+  },
+  "id": 7463,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Wn",
+  "link": "https://agenciauvabarra.com/2020/08/27/o-passado-aliviando-o-presente/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-13T13:58:32",
+  "modified_gmt": "2020-08-13T16:58:32",
+  "ping_status": "open",
+  "slug": "o-passado-aliviando-o-presente",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "O passado aliviando o presente"
+  },
+  "type": "post"
+}

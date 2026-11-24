@@ -1,0 +1,185 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14707/revisions/14729",
+        "id": 14729
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14707"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14707",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14707/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14707"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14726"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14707",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14707",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    17964,
+    858951,
+    407146,
+    18330,
+    10567,
+    72064,
+    866752,
+    14591
+  ],
+  "class_list": [
+    "post-14707",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-educacao",
+    "category-eventos-internos",
+    "category-exposicao",
+    "category-institucional",
+    "category-psicologia",
+    "category-saude",
+    "category-saude-mental",
+    "category-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-evento",
+    "tag-jornada",
+    "tag-psicologia",
+    "tag-uvabarra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Curso de psicologia promoveu evento no Campus Barra</em></p><p>Nos dias 18 e 20 de Abril aconteceu a 8° edição da Jornada Sócio e Clínica Institucional da Psicologia. O espaço serve para apresentar as produções acadêmicas discentes do ano anterior, como relatórios de estágio básicos, monografias, entre outros produtos. Além disso, o evento também contou com a participação de profissionais do mercado formados pela Universidade Veiga de Almeida.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-04-20-at-12.32.08-1.jpeg?resize=900%2C1600&amp;ssl=1\" alt=\"\" width=\"900\" height=\"1600\" /><figcaption>Bárbara Carissimi afirma que a Jornada é um evento importante para a formação do aluno. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/kesia-imagem.jpeg?resize=710%2C917&amp;ssl=1\" alt=\"\" width=\"710\" height=\"917\" /><figcaption>Késia Silva está cursando pós-graduação em psicologia hospitalar. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/marcella-imagem.jpeg?resize=615%2C1024&amp;ssl=1\" alt=\"\" width=\"615\" height=\"1024\" /><figcaption>Marcella Coviello é professora e a está cursando psicologia como sua 2° graduação. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/katia-imagem.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\" /><figcaption>\"Gostei muito das apresentações das monografias sob o olhar da Psicanálise\", afirmou Kátia Assêncio. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/marcelo-imagem.jpeg?resize=1472%2C1104&amp;ssl=1\" alt=\"\" width=\"1472\" height=\"1104\" /><figcaption>\"Eventos como este servem de estímulo para que os alunos consigam ganhar uma força a mais para superar as dificuldades da graduação\", comentou Alexandre Teixeira. (Foto: Arquivo Pessoal)</figcaption></figure><p>A egressa Késia Silva apresentou a monografia \"A vida de quem morre: a fenomenologia como possibilidade na atuação da psicologia hospitalar nos processos de terminalidade\". Segundo ela, o principal objetivo foi se aprofundar na maneira que uma doença com pouca ou nenhuma possibilidade de cura vai impactar no paciente, nos familiares e na equipe médica que ali trabalha, sendo esses três o foco principal do psicólogo hospitalar. \"Me aprofundar nessa área me deu a certeza de que é esse caminho que eu gostaria de seguir. Mais do que um trabalho de conclusão, muitas vezes pode estar completamente relacionado com o que você vai fazer durante a carreira. É isso que eu sinto em relação ao meu trabalho\", afirmou Késia.</p><p>O tema escolhido pela estudante Marcella Coviello foi a emoção das mulheres que sofreram perdas gestacionais. O trabalho aborda a importância de preparar os profissionais da área da saúde para acolherem essas mulheres neste momento difícil. \"É um assunto que me atravessa pois eu passei por uma perda gestacional. Eu quero fazer com que esse assunto tenha um reconhecimento social, e foi uma grande oportunidade poder falar sobre isso nesse meio\", comentou Marcella.</p><p>A coordenadora do curso de Psicologia do Campus Barra, Bárbara Carissimi, fez questão de destacar a qualidade dos trabalhos apresentados pelos alunos durante a graduação, já pensando na apresentação durante a jornada.</p><p><strong>Confira no áudio abaixo o que a docente falou sobre o tema:</strong></p><figure><div class=\"embed-soundcloud\"><iframe title=\"Confira no áudio o que a docente Bárbara Carissimi falou sobre o tema: by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1520907550&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></figure><p>Outro destaque importante do evento é a interação entre profissionais e alunos de vários períodos. Uma das palestrantes do evento, Marcella Coviello, comentou sobre o tema: \"Eu acho muito importante essa interação, principalmente com os calouros. Eles estão chegando agora, é tudo muito novo e muito rico, é um mundo que está se abrindo e que antes você não fazia parte e não conhecia. Além disso, aprendemos com eles também, nas perguntas, nos olhares, é um lugar de troca\".</p><p>Késia Silva também falou dessa experiência de integração junto aos calouros, e compartilhou sua experiência. <strong>Confira no áudio abaixo:</strong></p><figure><div class=\"embed-soundcloud\"><iframe title=\"Késia Silva falou dessa experiência de integração junto aos calouros, e compartilhou sua experiência by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1520907109&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></figure><p>A Jornada é importante na formação do aluno, pois discute vários temas em áreas diferentes da psicologia. Kátia Assêncio, aluna do 9° período, achou o evento rico de informações em diversos assuntos que não podem ser tabu ao aluno de Psicologia. \"É uma excelente oportunidade de ouvir assuntos diversificados e importantes para qualquer aluno de qualquer período\", afirmou a estudante. Alexandre Teixeira também está cursando o 9° período e destacou a atualidade dos temas. \"Dentro do campo da psicologia, foram abordados assuntos que fazem parte da sociedade brasileira atualmente\", comentou Alexandre.</p><p>Eventos como este costumam abrir os horizontes dos alunos dentro da profissão e apresentam novos caminhos a serem seguidos. Alexandre Teixeira falou um pouco mais sobre o impacto que a Jornada pode ter na perspectiva de carreira. <strong>Confira no áudio abaixo:</strong></p><figure><div class=\"embed-soundcloud\"><iframe title=\"Alexandre falou um pouco mais sobre o impacto que a Jornada pode ter na perspectiva de carreira by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1520908288&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></figure><p>Foram 17 temas abordados, divididos em 8 mesas de debate e 25 palestrantes no total. Para quem apresentou seus trabalhos acadêmicos, foi o momento de observar o produto com um olhar menos crítico. Para quem foi assistir, a oportunidade de encontrar profissionais da área e aprender sobre diversas áreas da psicologia.</p><p><em>Igor Concolato – 3° período</em></p></main>"
+  },
+  "date": "2023-04-25T18:16:07",
+  "date_gmt": "2023-04-25T21:16:07",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Nos dias 18 e 20 de Abril aconteceu a 8° edição da Jornada Sócio e Clínica Institucional da Psicologia. O espaço serve para apresentar as produções acadêmicas discentes do ano anterior, como relatórios de estágio básicos, monografias, entre outros produtos. Além disso, o evento também contou com a participação de profissionais do mercado formados pela Universidade Veiga de Almeida. </p>\n"
+  },
+  "featured_media": 14726,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14707"
+  },
+  "id": 14707,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/whatsapp-image-2023-04-21-at-07.07.46-1.jpeg?fit=1600%2C1200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Pd",
+  "link": "https://agenciauvabarra.com/2023/04/25/jornada-socio-e-clinica-institucional-chega-a-8a-edicao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-24T09:10:00",
+  "modified_gmt": "2023-05-24T12:10:00",
+  "ping_status": "open",
+  "slug": "jornada-socio-e-clinica-institucional-chega-a-8a-edicao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    16596,
+    342675,
+    767056608,
+    762665963
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Jornada Sócio e Clínica Institucional chega a 8ª edição"
+  },
+  "type": "post"
+}

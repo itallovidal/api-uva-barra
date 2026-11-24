@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13226/revisions/13252",
+        "id": 13252
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13226"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13226",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13226/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13226"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13249"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13226",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13226",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    23208,
+    10889
+  ],
+  "class_list": [
+    "post-13226",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-entretenimento",
+    "category-esporte",
+    "tag-esporte",
+    "tag-futebol",
+    "tag-libertadores",
+    "tag-libertadores-da-america",
+    "tag-podcast",
+    "tag-radio-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: O Domínio dos times brasileiro na Libertadores\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/7KLGp598xOKHNg36iKmqmD?si=antfkqnPQj2WRwdCRbpG4g&#038;utm_source=oembed\"></iframe></figure><p>No dia 28 de Outubro em Guayaquil no Equador, Flamengo e Athlético Paranaense realizarão a final da Copa Libertadores da América, o principal torneio de clubes da América do Sul.</p><p>Pelo terceiro ano seguido, a final será disputado entre dois clubes brasileiros, representando um novo capítulo do recente domínio do Brasil na Libertadores.</p><p>No podcast de hoje da Rádio UVA Barra contamos com a presença do comentarista Da ESPN, Mario Marra, e do comentarista de futebol, Victor Canedo para nos explicar os motivos da atual boa fase dos clubes brasileiros na Libertadores.</p><p>Gabriel Pitella – 8º período<br>Vinicius Alves – 8° período</p></main>"
+  },
+  "date": "2022-10-21T13:54:10",
+  "date_gmt": "2022-10-21T16:54:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No dia 28 de Outubro em Guayaquil no Equador, Flamengo e Athlético Paranaense realizarão a final da Copa Libertadores da América, o principal torneio de clubes da América do Sul.</p>\n"
+  },
+  "featured_media": 13249,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13226"
+  },
+  "id": 13226,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/imagem-do-whatsapp-de-2022-10-21-as-12.26.54.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3rk",
+  "link": "https://agenciauvabarra.com/2022/10/21/podcast-radio-uva-barra-o-dominio-dos-times-brasileiro-na-libertadores/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-21T14:00:57",
+  "modified_gmt": "2022-10-21T17:00:57",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-o-dominio-dos-times-brasileiro-na-libertadores",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056609,
+    53870,
+    117496,
+    1505897,
+    1142,
+    767056638
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: O Domínio dos times brasileiro na Libertadores"
+  },
+  "type": "post"
+}

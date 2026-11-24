@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10877/revisions/10896",
+        "id": 10896
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10877"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10877",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10877/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10877"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10897"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10877",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10877",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2860759,
+    2367,
+    23208,
+    2366,
+    3719,
+    7114
+  ],
+  "class_list": [
+    "post-10877",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-bienal-do-livro",
+    "category-cultura",
+    "category-entretenimento",
+    "category-eventos",
+    "category-literatura",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-riocentro",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Durante 10 dias, a Bienal conta com a participação de um grande elenco de autores nacionais e internacionais, além uma programação diversa com celebridades e nomes consagrados do universo digital e jornalístico</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/img_6399-2.jpg?resize=750%2C745&#038;ssl=1' alt='XX Bienal Internacional do Livro, no Riocentro. (Foto: Pedro Amorim)' width='750' height='745' /><figcaption>XX Bienal Internacional do Livro, no Riocentro. (Foto: Pedro Amorim)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/img_6403-1.jpg?resize=750%2C742&#038;ssl=1' alt='Organizadores, políticos e prefeito Eduardo Paes vão à cerimônia de abertura e destacam a importância da Bienal deste ano. (Foto: Pedro Amorim)' width='750' height='742' /><figcaption>Organizadores, políticos e prefeito Eduardo Paes vão à cerimônia de abertura e destacam a importância da Bienal deste ano. (Foto: Pedro Amorim)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/307391d7-af86-4e1e-af72-0ffbcab8f5a7.jpg?resize=1280%2C852&#038;ssl=1' alt='Tatiana Zaccaro, diretora da GL Events, empresa responsável pela Bienal, afirma que o reencontro do público com o evento é de forma segura. (Foto: Divulgação) ' width='1280' height='852' /><figcaption>Tatiana Zaccaro, diretora da GL Events, empresa responsável pela Bienal, afirma que o reencontro do público com o evento é de forma segura. (Foto: Divulgação) </figcaption></figure><p>Começou na última sexta-feira (03), a XX Bienal Internacional do Livro, no Riocentro, Barra da Tijuca. Local que serviu como hospital de campanha contra a COVID-19 em 2020, este ano se adapta e abre novamente as portas para a tradicional feira literária da cidade carioca com o tema ''Que histórias queremos contar agora?'. Diferente das edições anteriores, o festival seguirá os protocolos sanitários e promete ser um lugar de narrativas plurais.</p><p>Com pautas importantes e uma programação para todas as idades, organizadores esperam promover o reencontro do público com um evento de grande porte e ainda preservar o bem-estar dos visitantes. ''Decidimos fazer um evento de forma organizada, usando as áreas externas e ampliando as ruas para que não tenha aglomeração. Queremos proporcionar esse momento de reencontro que é a grande expectativa do público'', afirmou Tatiana Zaccaro, diretora da GL Events, responsável pela Bienal.</p><p>A cerimônia de abertura teve a participação do prefeito da cidade, Eduardo Paes, que destacou a importância da leitura no país. 'Lembro que quando a gente conversou com o Marcos (presidente do Sindicato Nacional dos Editores de Livros), não se sentia tanta clareza que chegaríamos nesse momento nas circunstâncias que estamos vivendo. O Brasil precisa cada vez mais apostar na leitura e a cidade do Rio de Janeiro tem feito isso. Mas essa é uma tarefa de todos nós brasileiros, especialmente dos gestores públicos, no sentido de fazer desse país, um país de cada vez mais leitores'', ressaltou Paes.</p><p>A Bienal é uma grande festa do livro e muito marcante para aqueles que são apaixonados pela literatura. Ela é capaz de possibilitar a aproximação do real com o universo literário e expandir o horizonte da imaginação. Para Eliane Abreu, diretora de uma escola municipal que levou seus alunos à feira, ela é necessária para possibilitar o contato dos estudantes aos livros. ''Eu acho que a Bienal é super importante, principalmente para o aluno da rede pública, que não tem condições de ir e muitas vezes não tem acesso a esses livros. Enquanto professora, eu gosto muito'', destacou.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/197ff2cc-a246-4adc-afce-ba34c0950403.jpg?resize=958%2C1280&#038;ssl=1' alt='Diretora de escola pública, Eliane Abreu, leva alunos para a 20ª Bienal e fala sobre a relevância do contato deles com esses espaços. (Foto: Maria Clara Andrade)' width='958' height='1280' /><figcaption>Diretora de escola pública, Eliane Abreu, leva alunos para a 20ª Bienal e fala sobre a relevância do contato deles com esses espaços. (Foto: Maria Clara Andrade)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/0dd1ba82-378b-47bb-a932-89bd79717012.jpg?resize=914%2C1600&#038;ssl=1' alt='Simon Carvel, aluno do Ensino Médio, recomenda primeiro analisar os preços dos livros para depois comprar. (Foto: Pedro Amorim)' width='914' height='1600' /><figcaption>Simon Carvel, aluno do Ensino Médio, recomenda primeiro analisar os preços dos livros para depois comprar. (Foto: Pedro Amorim)</figcaption></figure><p>Simon Carvel, aluno do 3º ano do Ensino Médio na Rede Estadual e leitor de livros de ficção e investigação, teve a primeira experiência com o festival através da escola e deixou uma dica para quem pretende ir nos próximos dias. ''Dá uma olhada em tudo o que você gosta primeiro e veja o que está mais em conta'', indicou.</p><p>Além de livrarias, distribuidores e loja de e-commerce, cerca de 40 painéis, 85 editoras e 140 selos estão confirmados para os 10 dias de evento. A programação conta com debates sobre cultura, comunidade LGBTQIAP+, meio ambiente, política, feminismo, jornalismo, saúde mental, ancestralidade, entre outros. Por conta da pandemia, o evento está com a capacidade de visitantes reduzida e os ingressos estão sendo vendidos por turnos. O uso de máscaras e a apresentação do comprovante de vacinação contra a COVID-19 são obrigatórios para a entrada no festival.</p><p><strong>Assista ao momento da abertura do evento:</strong></p><figure><iframe src='https://www.youtube.com/embed/2RmMhfRQsYg?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><br></p><p><em>Lorhan Nascimento – 3º período</em></p></main>"
+  },
+  "date": "2021-12-07T17:47:18",
+  "date_gmt": "2021-12-07T20:47:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Começou na última sexta-feira (03), a XX Bienal Internacional do Livro, no Riocentro, Barra da Tijuca. Local que serviu como hospital de campanha contra a COVID-19 em 2020, este ano se adapta e abre novamente as portas para a tradicional feira literária da cidade carioca com o tema ‘’Que histórias queremos contar agora?’’. Diferente das edições anteriores, o festival seguirá os protocolos sanitários e promete ser um lugar de narrativas plurais.</p>\n"
+  },
+  "featured_media": 10897,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10877"
+  },
+  "id": 10877,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/photo-2021-12-07-18-45-17.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Pr",
+  "link": "https://agenciauvabarra.com/2021/12/07/20a-bienal-do-livro-capital-do-rio-recebe-o-maior-evento-literario-do-pais/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-12-08T11:52:20",
+  "modified_gmt": "2021-12-08T14:52:20",
+  "ping_status": "open",
+  "slug": "20a-bienal-do-livro-capital-do-rio-recebe-o-maior-evento-literario-do-pais",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    10031061,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "20ª Bienal do Livro: capital do Rio recebe o maior evento literário do país"
+  },
+  "type": "post"
+}

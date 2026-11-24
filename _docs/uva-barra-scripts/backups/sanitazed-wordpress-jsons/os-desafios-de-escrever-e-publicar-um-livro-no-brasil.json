@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2453/revisions/2977",
+        "id": 2977
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2453"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2453",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2453/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2453"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2455"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2453",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2453",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    3719
+  ],
+  "class_list": [
+    "post-2453",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-guia-essencial-de-autores-iniciantes",
+    "tag-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><i>UVA realiza evento para os amantes da literatura</i></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-11-at-15-18-30-e1539365975536.jpeg?resize=1220%2C686&amp;ssl=1' alt='WhatsApp Image 2018-10-11 at 15.18.30' width='1220' height='686' /><figcaption>Jornalista Inês Carreira representa editora Jaguatirica em Esquenta Primavera – Foto: Nayara Simões</figcaption></figure><p>Escrever, editar e publicar. Um processo que não é simples e requer a superação de muitos desafios. A Universidade Veiga de Almeida, do campus Barra, realizou, em parceria com a equipe da Primavera Literária e a Agência Onze, o “Esquenta Primavera”. O evento ocorreu na última terça-feira (09/10), às 10h, e contou com um workshop ministrado pela jornalista Inês Carreira, colaboradora das editoras Jaguatirica e Gato Bravo.</p><p>A manhã foi marcada com uma conversa sobre os obstáculos do mercado literário, experiências pessoais da jornalista e uma discussão e apresentação do livro “Guia essencial de autores iniciantes: 54 perguntas e repostas”, de Paula Cajaty. Nele, a autora, que é responsável pelas editoras nas quais Inês trabalha, dá dicas e fala sobre cada parte do processo de criação de livros para quem está no começo da carreira.</p><p>Além de esclarecer dúvidas, a jornalista falou um pouco sobre seu papel na área de comunicação e contou que o trabalho para pequenas editoras pode ser difícil, mas não impossível, assim como o lançamento de livros. “Não existe uma fórmula exata para o sucesso de uma obra. É muito difícil e desafiador, mas vale a pena”.</p><p>Essa troca de experiências foi muito interessante para alunos como Vinicius Dal Cere, estudante de Jornalismo. Ele conta ter sido muito bom entender sobre esse mercado independente. “Vimos aqui que qualquer um pode lançar um livro, tendo o apoio e a vontade necessária”.</p><p>O processo de realização não é do domínio de muitos iniciantes e a conversa trouxe conhecimentos sobre o mercado cultural e colocou a escrita como uma forma de resistência. Inês acredita que eventos como este possibilitam a interação de pessoas que buscam lançar seus livros, com editoras, autores e profissionais da área, em geral. Ela também deu dicas aos interessados e afirmou que desistir não é o melhor caminho, e sim arriscar. “O mercado está aberto para novas experiências e oportunidades”.</p><p><strong>Nayara Simões – 5º período</strong></p></main>"
+  },
+  "date": "2018-10-12T14:37:36",
+  "date_gmt": "2018-10-12T17:37:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>UVA realiza evento para os amantes da literatura Escrever, editar e publicar. Um processo que não é simples e requer a superação de muitos desafios. A Universidade Veiga de Almeida, do campus Barra, realizou, em parceria com a equipe da Primavera Literária e a Agência Onze, o “Esquenta Primavera”. O evento ocorreu na última terça-feira [&hellip;]</p>\n"
+  },
+  "featured_media": 2455,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2453"
+  },
+  "id": 2453,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-11-at-15-18-30-e1539365975536.jpeg?fit=1220%2C686&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Dz",
+  "link": "https://agenciauvabarra.com/2018/10/12/os-desafios-de-escrever-e-publicar-um-livro-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T17:55:12",
+  "modified_gmt": "2019-01-26T19:55:12",
+  "ping_status": "open",
+  "slug": "os-desafios-de-escrever-e-publicar-um-livro-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    651987190,
+    767056603
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Os desafios de escrever e publicar um livro no Brasil"
+  },
+  "type": "post"
+}

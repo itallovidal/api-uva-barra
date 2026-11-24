@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/768/revisions/3337",
+        "id": 3337
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=768"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/768",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/768/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=768"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=768",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=768",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-768",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Alunos de publicidade da UVA contaram suas experiências nas palestras “Rio 2016: como os mascotes mudaram minha vida” e “Coca – Cola, Pizza e muito #!&amp;$”</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/foto-palestrab.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"FOTO PALESTRab\" width=\"1280\" height=\"960\" /><figcaption>Foto: Gabriel Henrique</figcaption></figure><p>A Semana da Comunicação 2017 promoveu mais uma palestra nesta quarta feira, dia 17. Dessa vez, os palestrantes foram dois alunos de publicidade da UVA, Verônica Antunes, do sétimo período, e Lucas Vyskubenco, do quinto, com o tema “Mudanças que fizeram a diferença”. Em um bate-papo descontraído que contava com a apresentadora da TV UVA Carolina Simões como mediadora, eles explicaram melhor sobre a experiência no mercado de trabalho e também sobre os desafios durante a vida.</p><p>Com o tema “Rio 2016: como os mascotes mudaram minha vida”, a redatora da Agência Kindle, Veronica Antunes, de 21 anos, falou sobre os principais desafios de atender o público infantil numa conta mundial. “Trabalhava com a inocência das crianças. Era importante rever o que íamos passar para elas”. Assumir dois personagens mais importantes do país, Tom e Vinicius, foi a melhor experiência em sua vida. “Eu respirava 24 horas por dia os personagens, a cada minuto eu pensava no que fazer sobre eles”. Verônica terminou a apresentação dizendo para os alunos serem dedicados e não terem medo de assumir responsabilidades.</p><p>O publicitário, Lucas Vyskubenco, de 24 anos, aconselhou aos alunos a terem paciência na vida acadêmica. Comentou sobre o ano que passou na Europa, quando se mudou para a Alemanha. No país, participou de trabalhos voluntários com refugiados, ensinando inglês e português para crianças. Hoje Lucas trabalha como commerce na Coca-Cola. Também comentou como a marca produz e vende, os produtos personalizados. “A marca não vende um produto, mas sim um propósito”.</p><p>A aluna do curso de Jornalismo, Lizandra Rios, de 19 anos, comentou sobre a importância de palestras desse tema e como elas ajudam no esclarecimento de dúvidas referentes à profissão. “Os palestrantes são alunos, por isso nos identificamos com eles, e isso nos motiva a procurar vagas na aérea sabendo que, se eles conseguiram chegar lá, também conseguiremos”. As palestras serviram para ajudar os alunos a seguirem suas carreiras escolhidas. Os palestrantes contaram sobre suas experiências de trabalho e os desafios da vida profissional.</p><p>A SECOM acontece até o dia 18 de maio, na UVA do campus Barra. Algumas palestras com profissionais renomados no mercado já aconteceram no dia 16. Entre elas, a do diretor de jornalismo do grupo Bandeirantes no Rio de Janeiro, Rodolfo Schneider, e Ana Deccache, produtora do Rock in Rio. No último dia do evento, Paula Malamud, da Agência Imaginatto Design, irá se apresentar às 9 horas com o tema “A internacionalização de uma marca brasileira” e o colunista do Jornal O Globo, Christovam Chevalier, na palestra em seguida que discorre sobre “Colunismo em tempos de marcas globais e internet”.</p><p>Ana Carolina Marinho, 3º período e Gabriel Henrique, 2º período.</p></main>"
+  },
+  "date": "2017-05-17T18:43:58",
+  "date_gmt": "2017-05-17T21:43:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alunos de publicidade da UVA contaram suas experiências nas palestras “Rio 2016: como os mascotes mudaram minha vida” e “Coca – Cola, Pizza e muito #!&amp;$” A Semana da Comunicação 2017&nbsp;promoveu mais uma palestra nesta quarta feira, dia 17. Dessa vez, os palestrantes foram dois alunos de publicidade da UVA, Verônica Antunes, do sétimo período, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=768"
+  },
+  "id": 768,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-co",
+  "link": "https://agenciauvabarra.com/2017/05/17/secom-3-de-alunos-para-alunos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:56:24",
+  "modified_gmt": "2019-02-28T19:56:24",
+  "ping_status": "open",
+  "slug": "secom-3-de-alunos-para-alunos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "SECOM #2 De alunos para alunos"
+  },
+  "type": "post"
+}

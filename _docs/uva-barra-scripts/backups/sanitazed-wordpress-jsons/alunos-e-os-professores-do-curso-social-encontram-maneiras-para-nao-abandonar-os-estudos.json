@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6538/revisions/6553",
+        "id": 6553
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6538"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6538",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6538/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6538"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6543"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6538",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6538",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    4753134,
+    7114
+  ],
+  "class_list": [
+    "post-6538",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-quarentena",
+    "category-sociedade",
+    "tag-isolamento-social"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Em ano de pré-vestibular a adaptação é necessária para a preparação da prova do ENEM</em></p><p>Salas de aula vazias, incertezas sobre o futuro e adaptação são algumas das consequências que o coronavírus trouxe para os estudantes que farão o vestibular esse ano. Com auxílio de meios tecnológicos, vídeo-chamadas e troca de mensagens pela internet, alunos de projetos sociais estão se adaptando a uma nova realidade e rotina de estudos para conquistar uma vaga no ensino superior.</p><p>O pré-vestibular social Professor José Azevedo Tiúba atende alunos do 3°ano do ensino médio, da rede pública de ensino e moradores da comunidade de Rio das Pedras e adjacências e trouxe desafios para a equipe continuar os trabalhos. Kátia Macedo compõe o núcleo da coordenação e descobriu que grande parte dos alunos só conseguiria participar através dos próprios celulares. “Isso desmotivou muitos estudantes e representa hoje o maior desafio para nós, já que acabam não acompanhando o conteúdo que é disponibilizado, pois sentem dificuldades de conciliar as demandas de casa, manter a atenção ou, simplesmente, não conseguem encontrar um ambiente adequado para assimilar os estudos”, afirma a coordenadora.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/fotokc380tia.jpeg?resize=418%2C429&amp;ssl=1\" alt=\"\" width=\"418\" height=\"429\"><figcaption>Katia é a unica coordenadora que continua desde a fundação do pré-vestibular social Professor José Azevedo Tiúba – Foto: Arquivo Pessoal</figcaption></figure><p>O curso oferece ajuda e acompanhamento de psicólogos que estão sempre em contato para auxiliar os estudantes. Kátia diz que estão frequentemente atualizando a metodologia de ensino e unificando os meios pelos quais os professores disponibilizavam o conteúdo, para atender o maior número possível de alunos.</p><p>Com a mudança para o ensino online, o estudante Manoel Kleber de Oliveira sente que a motivação para continuar os estudos ficou abalada. “Quem não é acostumado vai demorar um pouco para começar a render”, declara. Ele planeja cursar jornalismo ou história e precisa driblar a angústia desse momento para ter uma boa preparação. “Não podemos esquecer que estudar em casa por muito tempo acaba se tornando massivo”, declara o estudante.</p><p>O professor André Luis Dubois explica que está reaprendendo a dar aula. Para se adaptar ele precisou conversar com amigos de profissão para trocar informações sobre plataformas, técnicas e outras ideias que possam melhorar a prática das aulas. André acredita que a maior diferença do ensino a distância seja a falta do contato humano e da prática do diálogo no processo de aprendizagem, que se tornam impossíveis de serem totalmente preenchidos. “Com esse novo cenário, o maior desafio se torna compreender as dificuldades dos discentes e saber os limites de atenção deles nessa nova proposta”, explica.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/fotoandre.jpeg?resize=491%2C368&amp;ssl=1\" alt=\"\" width=\"491\" height=\"368\"><figcaption>O professor André não vê a hora de poder se reunir com os alunos novamente – Foto: Arquivo Pessoal</figcaption></figure><p>Por ser dona de casa e estar sempre lidando com um turbilhão de informações, tarefas domésticas e ansiedade, a aluna Ingrid Santos sente falta das trocas em sala de aula. “Havia atingido um equilíbrio entre meus estudos em casa e o pré-vestibular. Estou tendo dificuldades em absorver todo o conteúdo das aulas online, o que me faz sentir falta das aulas presenciais e de um professor que me ajude nas matérias”. Além disso, ela acha difícil entender as explicações através de um computador, já que podem ocorrer várias distrações, como os barulhos dos vizinhos ou algum problema pela casa. Confira o vídeo com o depoimento da Ingrid:</p><figure><iframe src=\"https://www.youtube.com/embed/OE70bqRvwRQ?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Érik Sequeira – 4º Período| Jornalismo</strong></p></main>"
+  },
+  "date": "2020-04-30T09:45:02",
+  "date_gmt": "2020-04-30T12:45:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Em ano de pré-vestibular a adaptação é necessária para a preparação da prova do ENEM Salas de aula vazias, incertezas sobre o futuro e adaptação são algumas das consequências que o coronavírus trouxe para os estudantes que farão o vestibular esse ano. Com auxílio de meios tecnológicos, vídeo-chamadas e troca de mensagens pela internet, alunos [&hellip;]</p>\n"
+  },
+  "featured_media": 6543,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6538"
+  },
+  "id": 6538,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/fotoandre.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Hs",
+  "link": "https://agenciauvabarra.com/2020/04/30/alunos-e-os-professores-do-curso-social-encontram-maneiras-para-nao-abandonar-os-estudos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-04-30T10:35:06",
+  "modified_gmt": "2020-04-30T13:35:06",
+  "ping_status": "open",
+  "slug": "alunos-e-os-professores-do-curso-social-encontram-maneiras-para-nao-abandonar-os-estudos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    8757533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Alunos e os professores do curso social encontram maneiras para não abandonar os estudos"
+  },
+  "type": "post"
+}

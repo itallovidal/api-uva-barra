@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10085/revisions/10311",
+        "id": 10311
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10085"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10085",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 17,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10085/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10085"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10100"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10085",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10085",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    17964,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-10085",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-educacao",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Projetos pedagógicos colaboram para dar voz aos alunos que estão pedindo por ajuda</em></p><p>A adolescência é um período crucial para o desenvolvimento e manutenção de hábitos sociais e emocionais importantes para o bem-estar mental. Quanto mais expostos aos fatores escolares ou pessoais, maior o impacto na saúde mental de adolescentes. Atualmente a exclusão social, discriminação, dificuldades no aprendizados, são exemplos que podem influenciar a vida social e deixa vulnerável quem está nessa faixa etária.</p><p>Uma pesquisa realizada pelo Instituto Brasileiro de Geografia e Estatística (IBGE), aponta que os transtornos relacionados à saúde mental atingem majoritariamente meninas entre 13 e 17 anos. Os dados revelam que 29,6% das meninas acham que a vida não vale a pena, enquanto os meninos representam somente 13%. Em relação ao bullying, 57,8% das meninas afirmaram que já sofreram, enquanto os meninos somaram 20%.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/image0-5.jpeg?resize=553%2C720&amp;ssl=1\" alt=\"\" width=\"553\" height=\"720\"><figcaption>A estudante Priscila expõe que com a volta às aulas o medo de não se sentir incluída, devido a sua aparência, a deixava totalmente desconfortável. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/neiva-koppe.jpeg?resize=625%2C489&amp;ssl=1\" alt=\"\" width=\"625\" height=\"489\"><figcaption>Neiva Koppe esclarece que a pedagogia nas escolas vai trabalhar na criação de estratégias, para que cada aluno, em particular as meninas, sejam ouvidas e entendidas da melhor maneira possível. (Foto: Arquivo Pessoal)</figcaption></figure><p>A estudante de 16 anos, Priscila Mendonça, está no segundo ano do ensino médio e conta que foi perseguida durante a infância, por conta do sorriso e do peso. \"Não conseguia ficar sentada sem estar com a mão no rosto com medo de zombarem do meu perfil. Por conta disso gerou muitos questionamentos sobre mim e sobre a minha personalidade, causando uma confusão mental muito grande\", expõe.</p><p>Muitos adolescentes enfrentam conflitos internos que desencadeiam uma redução da expectativa quanto ao futuro. Diversos fatores podem estar relacionados também a isso, como por exemplo, a insatisfação com a aparência física, problemas familiares e baixo desempenho escolar. Quando tais indicativos não são tratados da forma como deveria, através de ajuda psicológica, a automutilação, uso de substâncias lícitas e ilícitas e até mesmo o suicídio passam a ser considerados.</p><p>De acordo com a Organização Mundial da Saúde (OMS), a prática de suicídio entre os jovens de 15 a 29 anos no Brasil correspondem à quarta maior causa de morte. Campanhas de valorização da vida e ações como a criação do \"Setembro Amarelo\" ajudam na conscientização e dá espaço para discussões acerca da problemática.</p><p>A psicopedagoga Neiva Koppe acredita que conteúdos pedagógicos que incentivam o apreço pela vida são importantes. Ela explica que quando o projeto é bem elaborado e adaptado à realidade do aluno, a probabilidade dele se abrir é maior. \"Que seja uma ação social sem julgamento, que não venha com nada pressionado para deixar o aluno totalmente confortável para que ele possa se abrir tranquilamente, que tenha muita empatia, algo que estimule mesmo esse diálogo, evitando discriminação relacionados a saúde mental\", explica.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/rebecca-edited-2.jpeg?resize=576%2C574&amp;ssl=1\" alt=\"\" width=\"576\" height=\"574\"><figcaption>Rebecca conta que se cobrava muito porque via todo mundo fazer algo produtivo e se martelava que precisava ser igual aos outros. (Foto: Arquivo Pessoal)</figcaption></figure><p>Dentre os transtornos que assolam o público feminino, a baixa autoestima é recorrente. A estudante de 17 anos, Rebecca Queiroz, está no seu último ano na escola e declara que com as aulas online a sua autoestima melhorou pois não havia mais a necessidade de encarar corpos completamente diferentes do dela. \"Na minha sala, a maioria das garotas são baixas, loiras e magras, enquanto eu sou totalmente o oposto disso. Por mais que eu ache que existem algumas coisas minhas que estão dentro do padrão, não acho que esteja no padrão da minha escola\", revela.</p><p>A aluna também relata que quando precisou voltar para escola, o medo do bullying e da não aceitação por parte dos colegas retomaram. \"Nas férias eu cortei meu cabelo curto e estava amando, quando precisei voltar para as aulas, comecei a me sentir muito mal com ele, porque todas as meninas tinham cabelos longos. Tudo isso foi devido a situações que eu criava na minha cabeça, é como eu me sinto, sem ninguém precisar falar nada em relação a isso\", manifesta Rebecca.</p><p>De acordo com a psicopedagoga, as escolas deveriam falar sobre inteligência emocional desde a educação infantil, com a finalidade de desenvolver mecanismos para lidar com os sentimentos desde cedo. \"Existem adultos que hoje em dia estão quebrados por conta de algo que aconteceu na instituição escolar, que não é esquecido nunca, vira um trauma. Eu acho que saúde mental nas escolas deveria ser prioridade\", alega Neiva.</p><p>Neiva Koppe também acredita que as escolas geram um aumento emocional extenso no momento em que os adolescentes, especialmente as meninas, exigem de si mesmas uma cobrança a fim de apresentarem resultados para serem aprovadas, não apenas em conteúdos, mas também em quem elas realmente são.</p><p>Neiva Koppe, psicopedagoga, fala o motivo da negatividade da saúde mental feminina atingir mais que a saúde masculina.</p><figure><iframe src=\"https://www.youtube.com/embed/j3-mnwyhi_M?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p></p><p>Ainda que os índices de transtornos mentais abranjam mais as mulheres, elas possuem mais facilidade em colocar suas dificuldades e problemas para fora do que os homens. Por isso, ao abrir um espaço para diálogo com empatia, os adolescentes conseguem mostrar o que realmente sentem.</p><p><em>Ana Júlia Queiroz – 6º período</em></p></main>"
+  },
+  "date": "2021-09-29T20:52:46",
+  "date_gmt": "2021-09-29T23:52:46",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A adolescência é um período crucial para o desenvolvimento e manutenção de hábitos sociais e emocionais importantes para o bem-estar mental. Quanto mais expostos aos fatores escolares ou pessoais, maior o impacto na saúde mental de adolescentes. Atualmente a exclusão social, discriminação, dificuldades no aprendizados, são exemplos que podem influenciar a vida social e deixa vulnerável quem está nessa faixa etária.</p>\n"
+  },
+  "featured_media": 10100,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10085"
+  },
+  "id": 10085,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/81f56f0b-b46b-46b3-ab26-e1654cd9a9ba.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2CF",
+  "link": "https://agenciauvabarra.com/2021/09/29/transtornos-psicossociais-afetam-mais-as-meninas-do-que-os-meninos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-14T18:49:19",
+  "modified_gmt": "2021-10-14T21:49:19",
+  "ping_status": "open",
+  "slug": "transtornos-psicossociais-afetam-mais-as-meninas-do-que-os-meninos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Transtornos psicossociais afetam mais as meninas do que os meninos"
+  },
+  "type": "post"
+}

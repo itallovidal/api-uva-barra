@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15801/revisions/15806",
+        "id": 15806
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15801"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15801",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15801/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15801"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15803"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15801",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15801",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2860759,
+    3719
+  ],
+  "class_list": [
+    "post-15801",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-bienal-do-livro",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-autores",
+    "tag-bienaldolivro",
+    "tag-independentes",
+    "tag-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Os autores independentes receberam um destaque na 40° edição da Bienal, mas ainda é um trabalho árduo para que os artistas consigam sobreviver no mercado literário sem o apoio financeiro e a falta de visibilidade fornecida pelas grandes editoras.</p><p>O repórter Vinicius Zakhm conversou com duas escritoras que apesar das dificuldades, continuam acreditando em seus sonhos e escrevendo por amor á literatura. Elas explicaram os desafios e os motivos que levam os autores independentes a não conseguirem alcançar um grande público com suas obras. <strong>Confira o podcast completo! </strong></p><figure><blockquote class=\"wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\"><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Bienal do Livro 2023 cria espaço exclusivo para os autores independentes\" width=\"100%\" height=\"152\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/1vnxVhTDWgpsNaldMvC8yh?si=WwKteesAR1esneCYVcgwBA&amp;utm_source=oembed\"></iframe></div></div></blockquote></figure><p><em>Vinícius Zakhm – 8° período </em></p></main>"
+  },
+  "date": "2023-09-10T17:53:47",
+  "date_gmt": "2023-09-10T20:53:47",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os autores independentes receberam um destaque na 40° edição da Bienal, mas ainda é um trabalho árduo para que os artistas consigam sobreviver no mercado literário sem o apoio financeiro e a falta de visibilidade fornecida pelas grandes editoras.</p>\n"
+  },
+  "featured_media": 15803,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15801"
+  },
+  "id": 15801,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/book-1283865_1280.jpg?fit=1280%2C851&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-46R",
+  "link": "https://agenciauvabarra.com/2023/09/10/bienal-do-livro-2023-cria-espaco-exclusivo-para-os-autores-independentes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-14T18:02:44",
+  "modified_gmt": "2023-09-14T21:02:44",
+  "ping_status": "open",
+  "slug": "bienal-do-livro-2023-cria-espaco-exclusivo-para-os-autores-independentes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    82707,
+    24675274,
+    1036590,
+    767056603
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Bienal do Livro 2023 cria espaço exclusivo para os autores independentes"
+  },
+  "type": "post"
+}

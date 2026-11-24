@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10919/revisions/10981",
+        "id": 10981
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10919"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10919",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 24,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10919/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10919"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10936"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10919",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10919",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2860759,
+    2367,
+    23208,
+    14603,
+    7114
+  ],
+  "class_list": [
+    "post-10919",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-bienal-do-livro",
+    "category-cultura",
+    "category-entretenimento",
+    "category-jornalismo",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-riocentro",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Na 20ª edição há o formato híbrido, uma oportunidade de acompanhar a programação presencial ou on-line com tradução simultânea em Libras</em></p><p>Muito além das estandes, acesso aos livros e lugares \"instagramáveis\" na Bienal do Livro no Rio de Janeiro, o Riocentro, na Barra da Tijuca, é palco de debates também. A \"Estação Plural\" localizada no pavilhão azul é um lugar de diálogo necessário para os tempos atuais. Sob o tema da 20ª edição \"Que histórias precisamos contar agora?\", o espaço recebe autores, artistas, influenciadores digitais e formadores de opinião, para a troca de relatos sobre literatura, jornalismo, política, religião, saúde, cultura, entre outros.</p><p>No primeiro final de semana, a \"Estação Plural\" recebeu as jornalistas Míriam Leitão, Patricia Campos Mello e Cecília Olliveira. \"Jornalismo e Democracia sob Ataque\", no dia 05/12, contou com a mediação de Paula Cesarino Costa e abordou sobre os desafios enfrentados pelos jornalistas no atual Governo Federal. As palestrantes falaram da resistência aos ataques, comentários machistas e misóginos, como também, sobre seguir em frente na cobertura de notícias e no papel que rege a profissão, a informação.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/painel-jornalismo.jpg?resize=640%2C480&amp;ssl=1\" alt=\"\" width=\"640\" height=\"480\" /><figcaption>De acordo com a jornalista Cecília Olliveira, há uma diferença entre ataques para homens e mulheres no jornalismo, e como as difamações são relativas a quem você é. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/julia.jpg?resize=480%2C640&amp;ssl=1\" alt=\"\" width=\"480\" height=\"640\" /><figcaption>Julia Noia destacou a importância de um debate sobre jornalismo na Bienal. (Foto: Pedro Amorim)</figcaption></figure><p>As integrantes da mesa debateram como a era da desinformação e fake news é uma ameaça a instituição da democracia brasileira. Para além da comunicação verbal e, sim, no universo literário, Míriam é autora de livros como \"A Democracia na Armadilha: Crônicas do Desgoverno\" e Patricia: \"A Máquina do Ódio\", ambos com um contexto da realidade do jornalismo. \"Hoje em dia você não precisa ter aquela censura da ditadura militar, você tem uma censura pelo barulho de inundar as redes sociais, acabar com a reputação de jornalistas que questionam a versão que o Governo quer que prevaleça\", explicou Patricia.</p><p><strong>Míriam Leitão fala com exclusividade com a Agência UVA Barra sobre \"Jornalismo e Democracia sob Ataque\".</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/65epl_0uLrI?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><br>Julia Noia é jornalista e esteve presente no painel destacado acima. Para a profissional, a mesa agregou bastante para a própria experiência. \"É um tema que sinto na obrigação de acompanhar, acho que a democracia brasileira passa por um momento complicado e o papel do jornalismo sempre é estar na linha de frente combatendo, e trazendo verdades que são distorcidas. Fazer jornalismo nunca foi tão importante desde a retomada democrática\", alegou Julia. </p><p>Já na terça-feira, 07/12, foi a vez de receber as autoras americanas Beverly Jenkins e Julia Quinn, e as brasileiras Babi A. Sette e Paola Aleksandra para \"Pop é Romance de Época\". Com a mediação de Frini Georgakopoulos, a mesa aproximou o gênero de romance de época com os contextos modernos do mundo. As autoras fazem uma viagem ao tempo através das histórias, mas, levam na bagagem questões identitárias do momento.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/bienal.png?resize=1366%2C768&amp;ssl=1\" alt=\"\" width=\"1366\" height=\"768\" /><figcaption>Para Paola Aleksandra, o ato de ler muda e transforma positivamente a vida dos seres humanos. (Foto: Reprodução)</figcaption></figure><p>Para isso, é preciso fazer uma pesquisa e todas as escritoras dividiram o mesmo sentimento de como é fundamental o estudo histórico para ambientar a trama. Beverly Jenkins, de \"Ventos de Mudança\" e aclamada por críticos, revelou como os leitores sempre estão abertos a uma história de amor. Já, a famosa autora de \"Bridgerton\", Julia Quinn, destacou a presença e influência dos jovens, e como esse público se integrou no gênero. \"Quase todo mundo quer achar alguém para amar e acho que isso é parte da condição humana. É por isso que o romance é contemporâneo e fala por tantas pessoas\", afirmou Julia.</p><p><strong>Babi A. Sette fala sobre as motivações dos livros de romance de época.</strong></p><figure><div><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Babi A. Sette fala sobre as motivações dos livros de romance de época. by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1174756603&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></div></figure><p>Na quarta-feira, 08/12, \"Fé e Juventude\" encerrou o dia na \"Estação Plural\". Com mediação de Pedro Alvarenga e participações de Pedro Siqueira, Pastor Henrique Vieira, Rabino Lucca Myara e Yalorixá Luana de Oyá, a temática centrou na diversidade religiosa e como o respeito é importante seja em qualquer propagação de fé. Luana é neta da atriz e Yalorixá Chica Xavier, e tudo que aprendeu sobre fé e religiosidade foi com a avó. \"Todas as vezes que falava sobre religião nas redes sociais, perdia seguidores\", revelou Luana.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/fe-e-juventude-e1639085483806.jpg?resize=640%2C388&amp;ssl=1\" alt=\"\" width=\"640\" height=\"388\" /><figcaption>A mesa \"Fé e Juventude\" uniu cada religião ao campo do amor e da luta contra a intolerância. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/desiree.jpg?resize=480%2C640&amp;ssl=1\" alt=\"\" width=\"480\" height=\"640\" /><figcaption>Para Desiree Lourenço, a sociedade está no caminho positivo quanto ao respeito a cada religião, porém ainda é necessário uma mudança maior. (Foto: Pedro Amorim)</figcaption></figure><p>Ao falar sobre o preconceito religioso, Pastor Henrique Vieira falou do racismo dentro da intolerância e como as pessoas utilizam o discurso da religião para ter atitudes violentas. Por outro lado, Pedro Siqueira e Rabino Lucca dividiram como houve uma trajetória de descobrimento até a vida adulta com a fé pessoal, por meio do dom da comunicação com o mundo espiritual e a tradição judaica. \"Respeito é a base da solidariedade\", disse Pastor Henrique.</p><p><strong>Confira o vídeo sobre a mesa \"Fé e Juventude\".</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/-eh5k-d5zIw?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><br>Quem participou da mesa foi Desiree Lourenço e o que a motivou foi o interesse para discutir sobre religião. \"Particularmente, eu não sigo nenhuma religião, mas acho cativante estudar e pesquisar. Acho interessante até questionar o papel da religião e dos líderes religiosos na sociedade de hoje, especialmente, quando se fala de juventude e internet\", declarou Desiree.</p><p>Até o dia 12/12, domingo, haverá debates que podem ser acompanhados de forma presencial, uma vez realizada a retirada de senhas uma hora antes do início de cada painel na Central de Distribuição de Senhas, ou, on-line com o cadastro no site oficial da Bienal do Livro no Rio de Janeiro.</p><p><em>Pedro Amorim – 5º período</em></p></main>"
+  },
+  "date": "2021-12-09T18:36:25",
+  "date_gmt": "2021-12-09T21:36:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Muito além das estandes, acesso aos livros e lugares &#8220;instagramáveis&#8221; na Bienal do Livro no Rio de Janeiro, o Riocentro, na Barra da Tijuca, é palco de debates também. A “Estação Plural” localizada no pavilhão azul é um lugar de diálogo necessário para os tempos atuais. Sob o tema da 20ª edição “Que histórias precisamos contar agora?”, o espaço recebe autores, artistas, influenciadores digitais e formadores de opinião, para a troca de relatos sobre literatura, jornalismo, política, religião, saúde, cultura, entre outros.</p>\n"
+  },
+  "featured_media": 10936,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10919"
+  },
+  "id": 10919,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/img_0269.jpg?fit=750%2C754&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Q7",
+  "link": "https://agenciauvabarra.com/2021/12/09/bienal-lanca-a-estacao-plural-e-promove-debate-sobre-narrativas-atuais/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-12-14T11:07:18",
+  "modified_gmt": "2021-12-14T14:07:18",
+  "ping_status": "open",
+  "slug": "bienal-lanca-a-estacao-plural-e-promove-debate-sobre-narrativas-atuais",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    10031061,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Bienal lança a “Estação Plural” e promove debates sobre narrativas atuais"
+  },
+  "type": "post"
+}

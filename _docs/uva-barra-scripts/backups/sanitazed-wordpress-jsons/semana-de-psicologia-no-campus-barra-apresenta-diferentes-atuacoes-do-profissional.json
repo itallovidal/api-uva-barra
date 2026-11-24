@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4869/revisions/4892",
+        "id": 4892
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4869"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4869",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4869/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4869"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4859"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4869",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4869",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4869",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento está integrado à Semana da Saúde e discute temas pertinentes da área</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/foto-2.jpg?resize=4608%2C3456&amp;ssl=1\" alt=\"\" width=\"4608\" height=\"3456\" /><figcaption>A psicóloga Laryssa Heckert debate sobre o diagnóstico de TEA e TOURETTE – Foto: Ana Carolina Fernandes</figcaption></figure><p>A Universidade Veiga de Almeida promoveu a XXIII Semana de Psicologia em homenagem ao dia do psicólogo (27/08). O evento teve início na última segunda-feira (26) com palestras para discutir temas diversos como o autismo e o suicídio.</p><p>As palestras da Semana de Psicologia são compostas por professores e convidados externos. O intuito é compartilhar experiências da vida profissional e debater assuntos relevantes com os estudantes. “É uma complementação acadêmica, são temas pertinentes para a formação do psicólogo da atualidade”, relata a organizadora do evento e coordenadora do curso Cristina Simões.</p><p>Na abertura do evento, a Psicóloga Laryssa Heckert falou sobre a Neuropsicologia e diagnóstico diferencial na infância: TEA (Transtorno do Espectro Autista) e Tourett, ao lado de Andreza Moraes. Laryssa comenta a importância de trazer esse assunto para o ensino superior. “Durante a minha formação não tive esse contato para conhecer as possibilidades de intervenção da doença, apenas na pós-graduação, então é importante expor aos estudantes da graduação”.</p><p>Confira o vídeo abaixo sobre as diferenças e dificuldades de diagnosticar TEA e Tourett:</p><figure><iframe src=\"https://www.youtube.com/embed/RHSnS5iKdPo?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p>A experiência de participar do evento acrescenta na construção do futuro psicólogo e mostra as diversas áreas de atuação dentro do próprio curso. A estudante de psicologia, Aléxya Gama (2º período) conta que teve a oportunidade de conhecer como alguns casos são conduzidos na prática. “Às vezes o professor não tem a chance de falar sobre suicídio, por exemplo, pois não é um assunto tão recorrente nas disciplinas e na palestra conseguimos debater”, comenta. A Semana de psicologia teve fim na sexta-feira (30/08).</p><p><strong>Kaliane Trindade – 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-02T12:00:00",
+  "date_gmt": "2019-09-02T15:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento está integrado à Semana da Saúde e discute temas pertinentes da área A Universidade Veiga de Almeida promoveu a XXIII Semana de Psicologia em homenagem ao dia do psicólogo (27/08). O evento teve início na última segunda-feira (26) com palestras para discutir temas diversos como o autismo e o suicídio. As palestras da [&hellip;]</p>\n"
+  },
+  "featured_media": 4859,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4869"
+  },
+  "id": 4869,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/foto-2.jpg?fit=4608%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1gx",
+  "link": "https://agenciauvabarra.com/2019/09/02/semana-de-psicologia-no-campus-barra-apresenta-diferentes-atuacoes-do-profissional/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-02T12:11:18",
+  "modified_gmt": "2019-09-02T15:11:18",
+  "ping_status": "open",
+  "slug": "semana-de-psicologia-no-campus-barra-apresenta-diferentes-atuacoes-do-profissional",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Semana de Psicologia no campus Barra apresenta diferentes atuações do profissional"
+  },
+  "type": "post"
+}

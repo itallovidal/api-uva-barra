@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13894/revisions/13916",
+        "id": 13916
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13894"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13894",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 17,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13894/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13894"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13898"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13894",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13894",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    72063,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-13894",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-enfermagem",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-ciencia",
+    "tag-imunizacao",
+    "tag-infantil",
+    "tag-saude",
+    "tag-vacinacao"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O contexto social contribui para a perda de credibilidade da imunização nacional</em></p><p>De referência a um dos piores países do mundo na vacinação infantil. O Brasil não vacinou 3 em cada 10 crianças contra doenças potencialmente fatais, no período de 2019 a 2021, de acordo com o Fundo das Nações Unidas para a Infância (Unicef). A Organização Mundial da Saúde (OMS) recomenda que 95% do público infantil seja vacinado anualmente. Apesar de quase meio século da criação do Programa Nacional de Imunizações (PNI), que oferece as vacinas gratuitamente para a população, a realidade aponta para um retrocesso na cobertura vacinal.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/doutora.jpeg?resize=530%2C529&#038;ssl=1' alt='' width='530' height='529' /><figcaption>A imunologista Marcia Toraiwa alerta que a baixa vacinação infantil pode resultar em complicações graves, ao facilitar a infecção de crianças mais vulneráveis. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/loira-de-braco-cruzado.jpeg?resize=3601%2C2401&#038;ssl=1' alt='' width='3601' height='2401' /><figcaption>Nadja Greffe, coordenadora do Programa de Imunizações da Secretaria Municipal de Saúde do Rio, ressalta a importância da comunicação, principalmente nas redes sociais, para o sucesso das campanhas de vacinação. (Foto: Arquivo Pessoal)</figcaption></figure><p>Com base no Ministério da Saúde, a média de vacinação geral caiu de 95% para 75% entre 2015 e 2020. Em consequência disso, o sarampo, por exemplo, voltou a ter mais de 10 mil casos confirmados em 2019, depois de ser considerado erradicado 3 anos antes, graças ao PNI. A imunologista Marcia Toraiwa alerta que a baixa imunização pode causar novos surtos ou, dependendo da proporção, epidemias de doenças imunopreveníveis.</p><p>As crianças são mais suscetíveis à infecção, o que reforça a importância do imunizante nessa fase da vida. “Elas têm o sistema imunológico imaturo, em desenvolvimento, já que ninguém nasce com células de memória, responsáveis pela resposta rápida contra o agente infeccioso. O papel da vacina é acelerar esse processo”, explica.</p><p><strong>Marcia Toraiwa, imunologista, destaca os benefícios da vacinação infantil.</strong></p><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Marcia Toraiwa by User 162635222\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1389576673&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500'></iframe></div></figure><p>Segundo Nadja Greffe, coordenadora do Programa de Imunizações da Secretaria Municipal de Saúde do Rio, um dos motivos da menor adesão do público infantil é, paradoxalmente, a própria vacina. Ela diz que há um esquecimento, por parte de pais e responsáveis, sobre a existência das doenças com o controle delas após a imunização, o que dá, aparentemente, uma falsa percepção de segurança.</p><p>Ambas especialistas citam a pandemia como fator preponderante para a baixa vacinação infantil. De acordo com a OMS e o Unicef, 18 milhões de crianças não receberam uma única vacina em 2021, sendo o maior retrocesso contínuo em 30 anos. As entidades esperavam que após 2020, primeiro ano da última crise sanitária, o cenário voltaria ao normal, mas as taxas continuaram caindo na maioria dos países, como foi o caso do Brasil. <em>A poliomielite, por exemplo, não atingiu 70% do público-alvo no ano passado, a ponto de especialistas em saúde temerem o retorno dessa doença.</em></p><p>Em relação à vacinação infantil da covid-19, a aplicação tem ficado mais lenta, conforme a faixa etária apta para receber o imunizante diminui. Segundo dados do Vacinômetro do Governo Federal, 70% das crianças de 5 a 11 anos receberam a primeira dose da vacina contra a covid-19, enquanto 50% receberam a segunda. O percentual é menor nas de 3 e 4 anos: menos de 18% receberam uma só dose e pouco mais de 6% completaram o esquema vacinal.</p><p>Por causa do isolamento social, o acesso às vacinas foi dificultado, o que causou, esperadamente, uma queda dos índices de vacinação no geral. Fora a questão logística, nunca houve tanto questionamento acerca dos efeitos da vacina. Para Marcia Toraiwa, o fato de não ter tido uma pandemia há mais de um século, sendo a última a Gripe Espanhola, gerou um estado de insegurança na população que contaminou até a credibilidade dos imunizantes tradicionais. Apesar disso, ela acredita que esse cenário seja passageiro. “Ninguém costumava perguntar a marca, a técnica da vacina que estava dando para o filho antes da pandemia”, lembra.</p><p>Para reverter esse quadro, a comunicação digital é utilizada para divulgar informações sobre as campanhas de vacinação infantil nos perfis dos órgãos oficiais de saúde. “É importante ter um discurso alinhado, principalmente nas mídias sociais, com os riscos das doenças e a segurança da vacinação, a partir de conteúdos que cheguem aos pais e responsáveis”, destaca.</p><p>Outra estratégia são as escolas como locais de vacinação e braço de apoio para a exigência da caderneta de vacinação. Além disso, o trabalho comunitário ajuda, internamente, a reverberar as campanhas educativas. “Há todo um esforço conjunto com líderes de comunidade, religiosos, professores de intensificar que a informação simples e correta seja compreendida pela família da criança”, fala Nadja Greffe.</p><p><strong>Nadja Greffe, coordenadora do Programa de Imunizações da Secretaria Municipal de Saúde do Rio, fala do trabalho de combate às fake news sobre a vacinação infantil.</strong></p><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Nadja Greffe by User 162635222\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1389578065&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500'></iframe></div></figure><p>Dados do Ministério da Saúde apontam que o orçamento para campanhas de vacinação caiu de R$ 77 milhões, em 2018, para R$ 45 milhões em 2020. A diminuição de investimento nessa área não afeta somente a produção das vacinas distribuídas gratuitamente pelo Sistema Único de Saúde (SUS), mas também o combate de notícias falsas sobre a vacinação.</p><p>Cultura do Negacionismo</p><p>O comportamento de negação nada mais é do que refutar e recusar uma realidade comprovada cientificamente. Essa cultura já existe desde a Idade Moderna, quando autoridades religiosas negavam os avanços científicos e as teorias dos filósofos humanistas. Durante a Segunda Guerra Mundial, houve os negacionistas do Holocausto que não acreditavam no genocídio de judeus pelo nazismo . Atualmente, o movimento anti-vacina ganhou força com a atenção voltada para a vacina da Covid-19 e está presente no mundo inteiro.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/homem.jpeg?resize=642%2C625&#038;ssl=1' alt='' width='642' height='625' /><figcaption>O sociólogo Marco Beltri enxerga um movimento político por trás do negacionismo (Foto: Arquivo Pessoal)</figcaption></figure><p>No Brasil, esses grupos vêm crescendo, majoritariamente, em partidos de extrema direita com visões altamente conservadoras e reacionárias. Para se ter noção do aumento do alcance desses ideais, o então Presidente da República, Jair Bolsonaro, defendeu o tratamento precoce com o uso de medicamentos sem eficácia comprovada, como a cloroquina, contra a covid-19. Inclusive, a vacinação das crianças contra essa doença também foi alvo de desinformação em uma declaração do chefe do Executivo.</p><p><em>“A molecada não sofre com o vírus… Tanto é que você viu um moleque morrer de vírus por aí? Alguém conhece algum filho de alguém que morreu de vírus? Não tem”</em></p><p><em>Jair Bolsonaro</em><br><em>Presidente da República</em></p><p>De acordo com a Fundação Oswaldo Cruz (Fiocruz), duas crianças menores de 5 anos de idade morreram por dia de covid-19 no Brasil, entre 2020 e 2021. Desde o início da crise sanitária, pelo menos 1860 pessoas de 0 a 12 anos faleceram em decorrência da Síndrome Respiratória Aguda Grave causada pelo coronavírus, segundo os dados da Rede Análise Covid.</p><p>Para o sociólogo Marco Beltri, o negacionismo é, antes de tudo, um movimento político. “A desinformação é uma arma política. Existe um desejo de muitos políticos, representantes das elites de controlar, por meio da negação, as classes populares, mais baixas”, diz.</p><p>Além disso, ele pensa que as redes sociais servem como manobra política, já que esses espaços de debate virtual colaboram para a construção, propositalmente, da irracionalidade, tendo em vista que o senso comum tem mais valor que o fato científico. “Há uma necessidade da regulação dos conteúdos, do que é disseminado nas redes sociais, o que passa por uma revisão de leis e uma postura mais lúcida dos governantes que devem debater isso, democraticamente, com a sociedade para que a desinformação não continue sendo um instrumento de poder”, ressalta.</p><p>Desse modo, a descredibilização dos órgãos oficiais de saúde por meio da desinformação e de teorias conspiratórias contra a vacina coloca a vida das pessoas em risco.</p><p><strong>Risco da volta da Poliomielite ao Brasil</strong><br><em>A possibilidade de retorno da doença passa pela baixa cobertura vacinal nos últimos anos</em></p><p>A poliomielite é uma doença infectocontagiosa via fecal-oral que pode causar a paralisia de um dos membros inferiores ou, em casos ainda mais graves, levar a óbito. Ela é erradicada desde 1994 no território nacional por causa da vacinação em massa pelo Programa Nacional de Imunizações (PNI). Em contrapartida, a última vez que o Brasil atingiu a meta de 95% ou mais em crianças menores de 5 anos, patamar recomendado pela Organização Mundial da Saúde (OMS), foi em 2015. Nesse sentido, a queda da cobertura vacinal preocupa os especialistas em saúde sobre a reintrodução da doença.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/entrevista.jpeg?resize=1334%2C750&#038;ssl=1' alt='' width='1334' height='750' /><figcaption>Lidiane Reis, coordenadora do curso de Enfermagem da Universidade Veiga de Almeida, destaca que não existe outro método mais seguro e eficaz que a vacina para conter a poliomielite. (Imagem: TV UVA)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/mulher-com-crianca.jpeg?resize=1334%2C750&#038;ssl=1' alt='' width='1334' height='750' /><figcaption>Renata Portugal é mãe do Luca, de 3 anos, que tomou a dose da gotinha durante a campanha de vacinação. (Imagem: TV UVA)</figcaption></figure><p>A poliomielite é uma doença infectocontagiosa via fecal-oral que pode causar a paralisia de um dos membros inferiores ou, em casos ainda mais graves, levar a óbito. Ela é erradicada desde 1994 no território nacional por causa da vacinação em massa pelo Programa Nacional de Imunizações (PNI). Em contrapartida, a última vez que o Brasil atingiu a meta de 95% ou mais em crianças menores de 5 anos, patamar recomendado pela Organização Mundial da Saúde (OMS), foi em 2015. Nesse sentido, a queda da cobertura vacinal preocupa os especialistas em saúde sobre a reintrodução da doença.</p><p>Para Lidiane Reis, coordenadora do curso de Enfermagem da Universidade Veiga de Almeida, os sintomas são parecidos com os da covid e, por ser uma doença altamente contagiosa, a transmissão pode acontecer devido à falta de cuidados sanitários no ambiente social em que a criança vive.</p><p>O esquema de vacinação contra a poliomielite é composto de cinco doses. As três primeiras, aos 2, 4 e 6 meses de idade, devem ser feitas obrigatoriamente com a vacina de vírus inativado (chamada de VIP), administrada com uma injeção. Já as duas últimas são feitas com a oral de vírus atenuado, a gotinha, aos 15 meses e aos 4 anos.</p><p>Tendo em vista que a imunização foi de apenas 67% no ano passado, governos e prefeituras estão realizando campanhas de multivacinação para o público infantil neste ano. Lidiane Reis, reforça a importância da vacinação contra a poliomielite. “Só a vacina tem o poder de controlar a doença e diminuir as sequelas e hospitalizações”, garante.</p><p>Além disso, ela fala que, se as taxas de vacinação continuarem em queda ao invés de aumentarem, a reintrodução será uma realidade, o que é injustificável no atual estágio de avanço da medicina.</p><p>Quem seguiu as orientações médicas foi Renata Portugal, que levou o filho Luca, de 3 anos, para tomar a vacina. “Só fiquei sabendo que já podia dar a vacina, depois que trouxe o meu filho mais velho”, diz. A exigência da caderneta de vacinação pela escola e a repercussão no grupo dos pais incentivaram essa decisão.</p><p>De acordo com o Sistema de Informações do Programa Nacional de Imunizações, a cobertura está em torno de 61%, o que significa que 39% ainda não estão completamente protegidos contra a pólio. Para que os casos não retornem, sendo que o último foi em 1989, na Paraíba, a vacina é a solução. Quem ainda não levou a sua criança, pode procurar o posto de vacinação mais próximo através dos sites dos órgãos oficiais de saúde.</p><p><em>Lucas Ribeiro – 8° período</em></p><p><em>*matéria produzida para a disciplina de Narrativas Multimídia, sob a supervisão do professor Anderson Barreto</em></p></main>"
+  },
+  "date": "2022-12-20T18:05:16",
+  "date_gmt": "2022-12-20T21:05:16",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De referência a um dos piores países do mundo na vacinação infantil. O Brasil não vacinou 3 em cada 10 crianças contra doenças potencialmente fatais, no período de 2019 a 2021, de acordo com o Fundo das Nações Unidas para a Infância (Unicef). A Organização Mundial da Saúde (OMS) recomenda que 95% do público infantil seja vacinado anualmente. Apesar de quase meio século da criação do Programa Nacional de Imunizações (PNI), que oferece as vacinas gratuitamente para a população, a realidade aponta para um retrocesso na cobertura vacinal.</p>\n"
+  },
+  "featured_media": 13898,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13894"
+  },
+  "id": 13894,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/doutora.jpeg?fit=530%2C529&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3C6",
+  "link": "https://agenciauvabarra.com/2022/12/20/vacinacao-infantil-em-queda-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-20T18:05:16",
+  "modified_gmt": "2022-12-20T21:05:16",
+  "ping_status": "open",
+  "slug": "vacinacao-infantil-em-queda-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056601,
+    4184526,
+    45969,
+    767056622,
+    712808
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Vacinação infantil em queda no Brasil"
+  },
+  "type": "post"
+}

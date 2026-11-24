@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2491/revisions/4536",
+        "id": 4536
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2491"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2491",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2491/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2491"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2492"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2491",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2491",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2491",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-centro-de-convencoes-sulamerica",
+    "tag-confeitaria",
+    "tag-expo-cakes-brasil-2018",
+    "tag-negocios"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Público recebe workshops e competições no segundo dia de Expo Cake</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-20-at-10-41-20.jpeg?resize=1040%2C780&amp;ssl=1\" alt=\"WhatsApp Image 2018-10-20 at 10.41.20\" width=\"1040\" height=\"780\" /><figcaption>Aula de decoração com glace, no stand da MAGO – Foto: Ana Beatriz Bernardo</figcaption></figure><p>A arte da confeitaria deixou de ser apenas um hobbie para se transformar em uma atividade econômica rentável. Pelo menos é o que mostra a Expo Cake, que começou na quinta-feira (18), no espaço de Convenções SulAmérica, e nesta sexta-feira (19), contou com aulas de decoração com pasta americana e glace, criação com diferentes ingredientes, competições e exposições de bolos temáticos.</p><p>Para a Chef Natália Kauffman, o amor pela cozinha veio desde criança. Ela conta que quando tinha 12 anos fez um curso de biscuit e o interesse surgiu. “Eu também via minha avó cozinhar muito, gostava de acompanhar. E quando vi, estava fazendo bolos para festas dos meus amigos”, conta. Ainda tem aquelas pessoas que sentem prazer em aprender a confeitar. É o caso da secretária Solange Bastos, que admite ter vontade de trabalhar com isso um dia. “Ainda é um sonho, nós botamos emoção e amor ali”, afirma.</p><p>E por ser algo que a maioria das pessoas não dispensa na hora de uma festa, o mercado confeiteiro tem estado cada vez mais atuante. A maior dificuldade, na opinião de Natália, é se manter com as mudanças. “Você se especializa e de repente tudo muda, os clientes já estão pedindo outra coisa. É muito difícil acompanhar”. A ampla concorrência e os valores também não são fáceis. A decoradora Luciana Lisbôa conta que os materiais estão muito mais caros. “Também tem cada vez mais pessoas entrando no ramo, as pessoas vêem esse trabalho como uma renda extra”, explica.</p><p>A busca por experiência na área é tanta que os cursos já não bastam. Feiras como a Expo cake oferecem aulas com profissionais renomados e contato com novos confeiteiros. As competições estimulam o aprimoramento das técnicas e o amor pela arte. Natália acredita que a confeitaria é um fôlego de vida. “É onde eu expresso minha arte e me encontro profissional e pessoalmente. Eu trabalho com isso em todas as áreas possíveis”. Os desenhos, a pasta americana, o chantilly, as forminhas e o chocolate fazem parte dos aniversários, comemorações e transformam momentos.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-20-at-10-40-39.jpeg?resize=454%2C340&amp;ssl=1\" alt=\"WhatsApp Image 2018-10-20 at 10.40.39\" width=\"454\" height=\"340\" /><figcaption>Confeiteiros com a mão na massa – Foto: Ana Beatriz Bernardo</figcaption></figure><p><strong>Ana Beatriz Bernardo – 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2018-10-20T16:00:03",
+  "date_gmt": "2018-10-20T19:00:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Público recebe workshops e competições no segundo dia de Expo Cake A arte da confeitaria deixou de ser apenas um hobbie para se transformar em uma atividade econômica rentável. Pelo menos é o que mostra a Expo Cake, que começou na quinta-feira (18), no espaço de Convenções SulAmérica, e nesta sexta-feira (19), contou com aulas [&hellip;]</p>\n"
+  },
+  "featured_media": 2492,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2491"
+  },
+  "id": 2491,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-20-at-10-41-20.jpeg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Eb",
+  "link": "https://agenciauvabarra.com/2018/10/20/cozinha-e-lugar-para-todo-mundo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-07-23T11:31:05",
+  "modified_gmt": "2019-07-23T14:31:05",
+  "ping_status": "open",
+  "slug": "cozinha-e-lugar-para-todo-mundo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    58447114,
+    1260148,
+    652530213,
+    8618
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Cozinha é lugar para todo mundo"
+  },
+  "type": "post"
+}

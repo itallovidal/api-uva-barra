@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15178/revisions/15183",
+        "id": 15183
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15178"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15178",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15178/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15178"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15181"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15178",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15178",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    187874,
+    632602,
+    13072696,
+    3719,
+    74499,
+    798,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-15178",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direitos-humanos",
+    "category-diversidade",
+    "category-lgbtqia",
+    "category-literatura",
+    "category-mercado-de-trabalho",
+    "category-politica",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-diversidade",
+    "tag-inclusao",
+    "tag-lgbtqiap",
+    "tag-orgulho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Relembre matérias que abordam a diversidade e a inclusão</em></p><p>Após a Rebelião de Stonewall, que ocorreu na cidade de Nova York, nos Estados Unidos, o dia 28 de Junho foi escolhido para celebrar as conquistas de direitos do povo LGBTQIAP+, e marcar as lutas pelo fim do preconceito e garantir um espaço digno como cidadãos.</p><p> Ao longo dos anos, a Agência UVA Barra produziu uma série de matérias que abordam o tema da comunidade LGBTQIAP+ em diversos âmbitos da sociedade, buscando sempre debater o espaço que essas pessoas devem ocupar em diferentes áreas. Com isso, veja um compilado especial de algumas reportagens que discutem temas importantes para a comunidade:</p><ul><li><a href=\"https://agenciauvabarra.com/2021/06/28/dia-do-orgulho-lgbtqia-acende-o-debate-sobre-preconceitos/\">Dia do Orgulho LGBTQIA+ acende o debate sobre preconceitos</a>:</li></ul><p>Esta matéria abriu uma série de 5 reportagens especiais que discutiu a conscientização e orgulho das pessoas da comunidade LGBTQIAP+. Entre os assuntos abordados nesta semana, estão: <a href=\"https://agenciauvabarra.com/2021/06/30/importancia-de-iniciativas-de-acolhimento-a-populacao-lgbtqia/\">Importância de iniciativas de acolhimento a população LGBTQIA+</a>, <a href=\"https://agenciauvabarra.com/2021/07/01/o-impacto-da-representatividade-lgbtqia-nos-meios-de-comunicacao/\">O impacto da representatividade LGBTQIA+ nos meios de comunicação</a>, <a href=\"https://agenciauvabarra.com/2021/07/02/doacao-de-sangue-por-pessoas-lgbtqia-salva-vidas-no-periodo-da-pandemia/\">Doação de sangue por pessoas LGBTQIA+ salva vidas no período da pandemia</a> e <a href=\"https://agenciauvabarra.com/2021/07/03/o-genero-fluido-e-a-promocao-de-respeito-e-inclusao-para-todes/\">O Gênero Fluido e a promoção de respeito e inclusão para todes</a>.</p><ul><li><a href=\"https://agenciauvabarra.com/2022/08/04/podcast-radio-uva-barra-a-promocao-de-diversidade-lgbt-nas-empresas/\">Podcast Rádio UVA Barra: A promoção de diversidade LGBT+ nas empresas</a></li></ul><p>A Rádio UVA Barra trouxe um podcast que aborda as dificuldades que as pessoas da comunidade LGBTQIAP+ encontram no mercado de trabalho, ocasionando uma escassez deste público em cargos de liderança nas empresas.</p><ul><li><a href=\"https://agenciauvabarra.com/2022/10/03/literatura-lgbtqia-incentiva-representatividade-e-combate-o-preconceito/\">Literatura LGBTQIA+ incentiva representatividade e combate o preconceito</a></li></ul><p>Para buscar uma representatividade no universo literário, esta matéria aborda a literatura realizada por pessoas da comunidade LGBTQIAP+, e os impactos que pode causar na vida de quem consome.</p><ul><li><a href=\"https://agenciauvabarra.com/2022/10/25/a-relacao-do-futebol-com-a-comunidade-lgbtqia/\">A relação do futebol com a comunidade LGBTQIA+</a></li></ul><p>A discriminação contra pessoas da comunidade LGBTQIAP+ ainda é muito frequente no mundo do futebol. A última Copa do Mundo do esporte ter sido realizada no Catar, onde ser homossexual é passível de pena de morte, chamou a atenção da população mundial para o tema. A reportagem traz a vivência e as consequências de atletas que enfrentam os preconceitos todos os dias.</p><p><em>Igor Concolato – 3° período</em></p></main>"
+  },
+  "date": "2023-06-28T18:11:59",
+  "date_gmt": "2023-06-28T21:11:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Após a Rebelião de Stonewall, que ocorreu na cidade de Nova York, nos Estados Unidos, o dia 28 de Junho foi escolhido para celebrar as conquistas de direitos do povo LGBTQIAP+, e marcar as lutas pelo fim do preconceito e garantir um espaço digno como cidadãos.</p>\n"
+  },
+  "featured_media": 15181,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15178"
+  },
+  "id": 15178,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/flag-g4d8de62ed_1280.jpg?fit=1280%2C853&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3WO",
+  "link": "https://agenciauvabarra.com/2023/06/28/agencia-uva-barra-celebra-dia-internacional-do-orgulho-lgbtqiap/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-06-28T18:13:09",
+  "modified_gmt": "2023-06-28T21:13:09",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-celebra-dia-internacional-do-orgulho-lgbtqiap",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056631,
+    793295,
+    67634827,
+    761531
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Celebra Dia Internacional do Orgulho LGBTQIAP+"
+  },
+  "type": "post"
+}

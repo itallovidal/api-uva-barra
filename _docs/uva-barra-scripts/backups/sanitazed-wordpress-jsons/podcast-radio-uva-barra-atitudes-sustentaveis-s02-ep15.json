@@ -1,0 +1,164 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8374/revisions/8377",
+        "id": 8377
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8374"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8374",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8374/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8374"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8376"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8374",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8374",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832,
+    72064,
+    7114,
+    268277
+  ],
+  "class_list": [
+    "post-8374",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "category-saude",
+    "category-sociedade",
+    "category-solidariedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Pequenos atos que fazem a diferença para o planeta</em></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F943216249&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Áudio incorporado\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen><a href=\"https://soundcloud.com/user-525438802\" title=\"Agência UVA Barra\" target=\"_blank\">Agência UVA Barra</a> · <a href=\"https://soundcloud.com/user-525438802/podcast-radio-uva-barra-atitudes-sustentaveis-s02-ep15\" title=\"Podcast Radio UVA Barra – Atitudes Sustentáveis – S02 EP15\" target=\"_blank\">Podcast Radio UVA Barra – Atitudes Sustentáveis – S02 EP15</a></a></iframe><p>Os problemas climáticos, o crescimento populacional, o consumo desenfreado. Essas ações moldam o planeta de hoje e que ficará para as futuras gerações. Mesmo parecedo um papo futurístico são pequenos gestos que vão fazer a diferença.</p><p>Neste episódio do podcast da Rádio UVA Barra, a nossa equipe ouviu os coordenadores do curso de Engenharia Ambiental, Cezar Pires, e a coordenadora do mestrado em Ciências do Meio Ambiente, Cecília Bueno, para contar sobre os atos que, se mudarmos na nossa rotina, o planeta sairá beneficiado.</p><p>A Rádio UVA Barra ainda ouviu João Bourroul, coordenador de comunicação da ONG Pimp My Carroça, sobre a importância de valorizarmos o trabalho dos catadores e o aplicativo Cataki, uma plataforma feita para solicitar coleta de recicláveis, junto aos catadores mais próximos.</p><p><em>Khaio Lopes – 6° Período</em><em>Fernando Pieroni – 6° Período</em></p></main>"
+  },
+  "date": "2020-12-07T18:23:04",
+  "date_gmt": "2020-12-07T21:23:04",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Pequenos atos que fazem a diferença para o planeta  Agência UVA Barra · Podcast Radio UVA Barra – Atitudes Sustentáveis – S02 EP15 Os problemas climáticos, o crescimento populacional, o consumo desenfreado. Essas ações moldam o planeta de hoje e que ficará para as futuras gerações. Mesmo parecedo um papo futurístico são pequenos gestos que [&hellip;]</p>\n"
+  },
+  "featured_media": 8376,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8374"
+  },
+  "id": 8374,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/23-aub.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2b4",
+  "link": "https://agenciauvabarra.com/2020/12/07/podcast-radio-uva-barra-atitudes-sustentaveis-s02-ep15/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-12-07T18:23:04",
+  "modified_gmt": "2020-12-07T21:23:04",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-atitudes-sustentaveis-s02-ep15",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra – Atitudes Sustentáveis – S02 EP15"
+  },
+  "type": "post"
+}

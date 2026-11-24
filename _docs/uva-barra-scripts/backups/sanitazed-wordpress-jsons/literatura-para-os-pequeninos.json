@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2509/revisions/3032",
+        "id": 3032
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2509"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2509",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2509/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2509"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2504"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2509",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2509",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2509",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-catete",
+    "tag-elise-carpentier",
+    "tag-literatura",
+    "tag-literatura-infantil",
+    "tag-museu-da-republica",
+    "tag-peixe-de-abril",
+    "tag-primavera-literaria-2018",
+    "tag-silvana-mota"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Oficina de leitura no espaço infantil da Primavera Literária reúne alunos do ensino fundamental</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/img_20181018_152803483_hdr.jpg?resize=4160%2C3120&#038;ssl=1' alt='IMG_20181018_152803483_HDR' width='4160' height='3120' /><figcaption>Foto: Junior Almeida</figcaption></figure><p>Após a edição de 2017 realizada na Casa França Brasil, no Centro, a Primavera Literária retornou ao Museu da República, no Catete. O evento chegou à 18ª edição reunindo cultura, informação e entretenimento. Na última quinta-feira, no espaço infantil, a autora Simone Mota fez a leitura do livro “Peixe de Abril”, lançado em 2016. A atividade foi feita com alunos da Escola Municipal Albert Schweitzer, de Laranjeiras.</p><p>Entre as páginas da obra, que possuem ilustrações de Elise Carpentier, Mota conduz o leitor pelas aventuras de um peixe que chega até Macaé, cidade litorânea do norte fluminense. Os diálogos acontecem entre um menino e um pescador, conversando em uma praia. A saga funciona como plano de fundo para falar sobre o Dia da Mentira, tradição presente na cultura brasileira e francesa.</p><p>Simone, que começou sua vida acadêmica cursando Estatística, falou da importância de incentivar a leitura ainda na infância. Ela ressalta que isso só poderá ser alcançado com mediadores de leitura. “Os professores precisam de salários dignos para que eles possam se dedicar a educação como ela merece”, enfatiza. E, por fim, afirma que muitas coisas devem ser repensadas na educação para que o Brasil seja um país de leitores.</p><p>Entre os alunos da escola Albert Schweitzer estavam Fábio Henrique, de 7 anos, aluno do segundo ano. Sua mãe, Flávia Gomes, acompanhou a turma e falou sobre a importância de aulas-passeio nas escolas. Para ela, o contato com livros e experiências reais, ajudam o ensino. “A parte lúdica ajuda a compreender melhor o que é passado em sala de aula”. E, segundo Flávia, seu filho gosta bastante de ler. “Ele gosta muito, mais do que eu, inclusive”, ela ri.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/img_20181018_160450614_hdr.jpg?resize=4160%2C3120&#038;ssl=1' alt='IMG_20181018_160450614_HDR' width='4160' height='3120' /><figcaption>Foto: Junior Almeida</figcaption></figure><p><strong>Junior Almeida – 3º período</strong></p></main>"
+  },
+  "date": "2018-10-21T22:00:15",
+  "date_gmt": "2018-10-22T01:00:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Oficina de leitura no espaço infantil da Primavera Literária reúne alunos do ensino fundamental Após a edição de 2017 realizada na Casa França Brasil, no Centro, a Primavera Literária retornou ao Museu da República, no Catete. O evento chegou à 18ª edição reunindo cultura, informação e entretenimento. Na última quinta-feira, no espaço infantil, a autora [&hellip;]</p>\n"
+  },
+  "featured_media": 2504,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2509"
+  },
+  "id": 2509,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/img_20181018_152803483_hdr.jpg?fit=4160%2C3120&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Et",
+  "link": "https://agenciauvabarra.com/2018/10/21/literatura-para-os-pequeninos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:27:27",
+  "modified_gmt": "2019-01-31T13:27:27",
+  "ping_status": "open",
+  "slug": "literatura-para-os-pequeninos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    446807,
+    263539776,
+    767056603,
+    415004,
+    446863,
+    33703963,
+    652642776,
+    652642777
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Literatura para os pequeninos"
+  },
+  "type": "post"
+}

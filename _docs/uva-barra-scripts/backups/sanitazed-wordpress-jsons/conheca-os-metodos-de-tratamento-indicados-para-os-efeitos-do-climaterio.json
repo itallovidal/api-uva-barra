@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9634/revisions/9655",
+        "id": 9655
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9634"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9634",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9634/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9634"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9636"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9634",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9634",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-9634",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-saude",
+    "category-sociedade",
+    "tag-climaterio"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A ginecologista Lilian Aragão fala sobre métodos alternativos</em></p><p>O climatério é uma <strong>fase biológica</strong> na qual todas as mulheres irão passar. Algumas não sentirão com tanta severidade os efeitos causados pelos sintomas, outras precisarão de tratamentos de reposição hormonal para conseguir lidar com as consequências, como os calores repentinos, alterações de humor constante, irritabilidade e até mesmo depressão.</p><p>A ginecologista Lilian Aragão explica quais são os métodos mais adequados para minimizar os efeitos deste período, proporcionando uma maior qualidade de vida para a mulher. De acordo com a especialista, a forma mais indicada é o tratamento de reposição hormonal. Porém, por se tratar de medicamentos não tão acessíveis em relação ao preço, a ginecologista dá algumas dicas de alternativas fitoterápicas ou simplesmente através da realização de uma reeducação alimentar.</p><p><strong>Entenda os sintomas do</strong> <strong>climatério</strong></p><figure><img src='https://www.youtube.com/embed/FCICWq1kZuQ' alt='Vídeo sobre climatério' width='640' height='360' /><figcaption>Vídeo incorporado</figcaption></figure><p><em>Karol Reis – 8º período</em></p><p><em>Matheus Sabino – 8º período</em></p><p><em>Thayná Titoneli – 8º período</em></p></main>"
+  },
+  "date": "2021-06-17T09:13:34",
+  "date_gmt": "2021-06-17T12:13:34",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O climatério é uma fase biológica na qual todas as mulheres irão passar. Algumas não sentirão com tanta severidade os efeitos causados pelos sintomas, outras precisarão de tratamentos de reposição hormonal para conseguir lidar com as consequências, como os calores repentinos, alterações de humor constante, irritabilidade e até mesmo depressão.</p>\n"
+  },
+  "featured_media": 9636,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9634"
+  },
+  "id": 9634,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/capa-site-agencia-3.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2vo",
+  "link": "https://agenciauvabarra.com/2021/06/17/conheca-os-metodos-de-tratamento-indicados-para-os-efeitos-do-climaterio/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-06-17T10:23:37",
+  "modified_gmt": "2021-06-17T13:23:37",
+  "ping_status": "open",
+  "slug": "conheca-os-metodos-de-tratamento-indicados-para-os-efeitos-do-climaterio",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    3082875
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Conheça os métodos de tratamento indicados para os efeitos do climatério"
+  },
+  "type": "post"
+}

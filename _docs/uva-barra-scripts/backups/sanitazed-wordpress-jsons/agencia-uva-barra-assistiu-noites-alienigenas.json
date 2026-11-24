@@ -1,0 +1,189 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14300/revisions/14306",
+        "id": 14306
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14300"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14300",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14300/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14300"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14305"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14300",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14300",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    2367,
+    23208,
+    3503,
+    21243,
+    7114,
+    33026
+  ],
+  "class_list": [
+    "post-14300",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-cultura",
+    "category-entretenimento",
+    "category-historia",
+    "category-seguranca",
+    "category-sociedade",
+    "category-violencia",
+    "tag-acre",
+    "tag-agencia-uva-barra",
+    "tag-alienigenas",
+    "tag-cinema",
+    "tag-crime",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-noites",
+    "tag-violencia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Noites Alienígenas é o primeiro longa ficcional do diretor e roteirista Sérgio de Carvalho. O filme é a primeira produção realizada no estado do Acre e traz a história de Rivelino Interpretado pelo novato ator Gabriel Knox, jovem do Amazonas que tem envolvimento com Alê Chico Diaz, um homem que possui relação com negócios ilegais. Após um desentendimento, Rivelino se aproxima de facções criminosas.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/noites-texto.jpg?resize=2039%2C854&#038;ssl=1' alt='noites-texto' width='2039' height='854' /><figcaption>Foto: Divulgação</figcaption></figure><p>A trajetória do protagonista vai representar a realidade das facções criminosas que se expandiram do Sudeste do Brasil à região Amazônica, mostrando com mais detalhes a tamanha violência que estas causam e o impacto na vida da população, despertando no público um sentimento de alerta.</p><p>Noites Alienígenas é um grito de uma parte do país chamando atenção do Brasil todo, O Acre e o cinema do Acre existem, mas a gente sente como se fosse um álbum de família: estamos sempre ali no canto, dizendo também estou aqui, disse a produtora Karla Martins depois de ser premiada no Festival de Gramado</p><p>Com a direção de fotografia sendo produzida por Pedro von Krüger, o longa possui imagens e ângulos que causam no público um sentimento de empatia, como se estivesse dentro da história, dando exatamente a conexão que o enredo pede.</p><p>Apesar dos personagens serem muito bem interpretados e suas ações se conectarem bem com o público, o filme possui uma falha na hora de criar laços entre eles. É pouco explicada a conexão de grupo que os mesmos possuem, dando muito mais ênfase a parte individual de cada um.</p><p>O filme Noites Alienígenas aborda questões e temas presentes não só no Acre, mas como no Brasil todo, detalhando uma cruel realidade do país. O longa estará disponível para todo o Brasil a partir desta quinta-feira 30/03. Assista o trailer!</p><figure><iframe src='https://www.youtube.com/embed/5fd8ka-pPs0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='YouTube video player' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>Matheus Moraes 3º Período</p></main>"
+  },
+  "date": "2023-03-29T18:53:18",
+  "date_gmt": "2023-03-29T21:53:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Noites Alienígenas” é o primeiro longa ficcional do diretor e roteirista Sérgio de Carvalho. O filme é a primeira produção realizada no estado do Acre e traz a história de Rivelino (Interpretado pelo novato ator Gabriel Knox), jovem do Amazonas que tem envolvimento com Alê (Chico Diaz), um homem que possui relação com negócios ilegais. Após um desentendimento, Rivelino se aproxima de facções criminosas. </p>\n"
+  },
+  "featured_media": 14305,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14300"
+  },
+  "id": 14300,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/noites-capa.jpg?fit=2048%2C858&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3IE",
+  "link": "https://agenciauvabarra.com/2023/03/29/agencia-uva-barra-assistiu-noites-alienigenas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-29T18:53:18",
+  "modified_gmt": "2023-03-29T21:53:18",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-noites-alienigenas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    253500,
+    648221465,
+    1290263,
+    767056592,
+    3898,
+    34939883,
+    17563,
+    1321437,
+    767056617
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Noites alienígenas"
+  },
+  "type": "post"
+}

@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21270/revisions/21273",
+        "id": 21273
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21270"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21270",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21270/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21270"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21272"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21270",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21270",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    632602
+  ],
+  "class_list": [
+    "post-21270",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-diversidade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Especialistas destacam diagnóstico cuidadoso, tratamento interdisciplinar e papel da escola na socialização de pessoas com TEA</em></p><p>Celebrado em 2 de abril, o Dia Mundial de Conscientização do Autismo chama atenção para a importância do diagnóstico responsável, do tratamento adequado e da inclusão de pessoas com Transtorno do Espectro Autista (TEA) na sociedade.</p><p>Apesar do consenso entre especialistas sobre os benefícios da intervenção precoce, o diagnóstico do autismo pode ser desafiador, especialmente em casos não típicos. Segundo profissionais da área, há situações em que a confirmação se torna mais evidente por volta dos seis anos de idade.</p><p>A psicanalista Sandra Altoori, com mais de 20 anos de atuação no Sistema Único de Saúde (SUS) e participação na implementação de Centros de Atenção Psicossocial Infantojuvenil (CAPSIs), ressalta que é preciso cautela. “A antecipação pode ajudar, mas a precipitação no diagnóstico também pode prejudicar o desenvolvimento da criança”, afirma.</p><p>Além do diagnóstico, especialistas destacam a importância de compreender o autismo para além de classificações. O transtorno apresenta diferentes níveis de suporte e manifestações individuais.</p><p>Entre os desafios mais recorrentes estão as dificuldades no laço social e o desconforto em ambientes com excesso de estímulos, como barulho intenso e luzes fortes. Ainda assim, há consenso de que a sociedade precisa avançar na forma de lidar com as diferenças.</p><p>O tratamento do TEA é, em geral, interdisciplinar, envolvendo áreas como psicologia, pedagogia e medicina. Diferentes abordagens podem ser utilizadas, desde linhas mais comportamentais, como a Terapia Cognitivo-Comportamental (TCC), até a psicanálise, que prioriza a escuta e a singularidade de cada indivíduo.</p><p>A pedagoga Mirian Nicolich destaca que o acompanhamento deve considerar as especificidades de cada criança. “O tratamento envolve diferentes áreas que dialogam entre si e constroem uma direção comum, respeitando as necessidades individuais”, explica.</p><p>No ambiente escolar, a inclusão é apontada como um dos principais pilares para o desenvolvimento social e cognitivo de crianças autistas. Especialistas reforçam que o processo vai além da matrícula e exige adaptação.</p><p>Entre as estratégias estão o uso de recursos visuais, metodologias estruturadas e adequação das atividades às capacidades de cada aluno. O objetivo é garantir um ambiente seguro e acolhedor.</p><p>A convivência entre os alunos também desempenha papel fundamental. No dia a dia escolar, a socialização acontece de forma gradual, promovendo aprendizado coletivo e desenvolvimento da empatia. “Atividades em grupo ajudam no sentimento de pertencimento e fortalecem os vínculos. Com o tempo, as crianças passam a compreender e respeitar as diferenças”, destaca a pedagoga.</p><p>O Dia Mundial de Conscientização do Autismo reforça, portanto, a necessidade de ampliar o debate sobre inclusão e acesso a tratamento adequado. Mais do que diagnóstico, especialistas apontam que o foco deve estar no desenvolvimento, na escuta e na garantia de direitos das pessoas com TEA.</p><p>Duda Nicolich – 3º Período de Jornalismo</p></main>"
+  },
+  "date": "2026-04-02T14:50:26",
+  "date_gmt": "2026-04-02T17:50:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Especialistas destacam diagnóstico cuidadoso, tratamento interdisciplinar e papel da escola na socialização de pessoas com TEA Celebrado em 2 de abril, o Dia Mundial de Conscientização do Autismo chama atenção para a importância do diagnóstico responsável, do tratamento adequado e da inclusão de pessoas com Transtorno do Espectro Autista (TEA) na sociedade. Apesar do consenso [&hellip;]</p>\n"
+  },
+  "featured_media": 21272,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21270"
+  },
+  "id": 21270,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/04/2-abril-concientizacao-autismo-site-02.jpg?fit=800%2C433&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5x4",
+  "link": "https://agenciauvabarra.com/2026/04/02/2-de-abril-reforca-importancia-da-conscientizacao-sobre-o-autismo-e-da-inclusao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-04-02T14:50:26",
+  "modified_gmt": "2026-04-02T17:50:26",
+  "ping_status": "open",
+  "slug": "2-de-abril-reforca-importancia-da-conscientizacao-sobre-o-autismo-e-da-inclusao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "2 de abril reforça importância da conscientização sobre o autismo e da inclusão"
+  },
+  "type": "post"
+}

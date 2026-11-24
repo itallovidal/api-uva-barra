@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5889/revisions/5908",
+        "id": 5908
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5889"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5889",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5889/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5889"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5891"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5889",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5889",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2432
+  ],
+  "class_list": [
+    "post-5889",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-chico-buarque",
+    "tag-cidade-das-artes",
+    "tag-roda-viva",
+    "tag-ze-celso"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Espetáculo apresenta uma nova montagem com roteiro que aborda temáticas atuais</em></p><p>A Cidade das Artes recebeu, na última quarta-feira (06), a sessão de imprensa da peça \"Roda Viva\" onde foram apresentados trechos da obra, que vai estar em cartaz no Rio de Janeiro com uma nova releitura, texto atualizado por Chico Buarque e direção de Zé Celso. O espetáculo pretende mexer com o público debatendo assuntos como o agronegócio, política, cultura e tecnologia.</p><p>A obra conta a história de Benedito Silva, interpretado por Roderick Himeros, que devido às manipulações do Anjo da Guarda (Gui Calzavara) e do Capeta (Joana Medeiros e Zé Ed) se torna um grande cantor de sucesso, mas tem sua genialidade fabricada e monitorada por eles e pelo coro. Durante a demonstração para a imprensa, os atores encenaram dois momentos do musical. O primeiro mostra uma versão da música roda viva, que dá nome ao espetáculo, e o segundo a coroação de Benedito.</p><p>Clique e veja os trechos dessas duas cenas:</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/20191106_181112.jpg?resize=4128%2C2322&amp;ssl=1\" alt=\"Apresentação da música Roda Viva\" width=\"4128\" height=\"2322\"><figcaption>Apresentação da música Roda Viva – Foto: Lucas Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/20191106_184903.jpg?resize=4128%2C2322&amp;ssl=1\" alt=\"Benedito é derrubado após a coroação\" width=\"4128\" height=\"2322\"><figcaption>Benedito é derrubado após a coroação – Foto: Lucas Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/20191106_192349.jpg?resize=4128%2C2322&amp;ssl=1\" alt=\"A atriz Mayara Baptista falou sobre as dificuldades em abordar temas tão delicados\" width=\"4128\" height=\"2322\"><figcaption>A atriz Mayara Baptista falou sobre as dificuldades em abordar temas tão delicados – Foto: Lucas Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/20191106_191248.jpg?resize=4128%2C2322&amp;ssl=1\" alt=\"O ator Kael Studart fala sobre a importância de apresentar o musical para um novo público\" width=\"4128\" height=\"2322\"><figcaption>O ator Kael Studart fala sobre a importância de apresentar o musical para um novo público – Foto: Lucas Souza</figcaption></figure><figure><div><iframe src=\"https://www.youtube.com/embed/Fvc5a-9reEs?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p>. </p><p>A importância de apresentar o musical para um novo público. Para o ator Kael Studart que faz parte do coro da peça, interpretando figuras atuais como o Procurador da República Deltan Dallagnol, agro negociantes e a internet é muito relevante renovar a peça. \"O teatro é muito ao vivo, aqui e agora. A gente atualizar o texto é a gente continuar se comunicando com outras gerações, isso é uma riqueza do teatro\", comentou. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/20191106_184830.jpg?resize=536%2C301&amp;ssl=1\" alt=\"Momento em que o personagem Benedito Silva (Roderick Himeros) é coroado\" width=\"536\" height=\"301\"><figcaption> Momento em que o personagem Benedito Silva (Roderick Himeros) é coroado – Foto: Lucas Souza</figcaption></figure><p>Outra integrante do coro que falou sobre as dificuldades em abordar temas tão delicados foi a atriz Mayara Baptista. Segundo ela, o espetáculo escrito por Chico Buarque, na década de 60 e atualizado para 2019, é sobre reviver uma realidade que é muito atual. \"A peça é um mix de perigo com uma coisa muito gostosa de se fazer, pensar em todo o contexto político social que a gente tá vivendo\", afirmou. </p><blockquote>\"A gente veio aqui na maior dificuldade\"– Zé Celso</blockquote><p>O Diretor e ator do musical Zé Celso, comentou o atual momento que arte está passando no Brasil. \"Nós resolvemos montar Roda Viva no dia 28 de outubro, que era o nosso aniversário, o Oficina fazia 60 anos e nesse dia também aconteceu no Brasil a eleição. As pessoas queriam chorar e eu dizia não, vamos cantar e vamos dançar\", disse. Ele ainda destacou as dificuldades em trazer a peça para o público carioca. \"Tivemos que fazer um empréstimo de 800 mil e estamos a perigo, estamos dependendo mesmo de lotar esse teatro\", afirmou. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/20191106_184706.jpg?resize=490%2C275&amp;ssl=1\" alt=\"O diretor e ator musical, Zé Celso, durante uma das cenas do espetáculo\" width=\"490\" height=\"275\"><figcaption> O diretor e ator musical, Zé Celso, durante uma das cenas do espetáculo – Foto: Lucas Souza</figcaption></figure><p>Ouça uma parte da entrevista com Zé Celso: </p><figure><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F709884652&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Áudio incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><strong>Lucas Souza – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-11-10T17:55:23",
+  "date_gmt": "2019-11-10T20:55:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Espetáculo apresenta uma nova montagem com roteiro que aborda temáticas atuais A Cidade das Artes recebeu, na última quarta-feira (06), a sessão de imprensa da peça “Roda Viva” onde foram apresentados trechos da obra, que vai estar em cartaz no Rio de Janeiro com uma nova releitura, texto atualizado por Chico Buarque e direção de [&hellip;]</p>\n"
+  },
+  "featured_media": 5891,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5889"
+  },
+  "id": 5889,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/20191106_181112.jpg?fit=4128%2C2322&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1wZ",
+  "link": "https://agenciauvabarra.com/2019/11/10/roda-viva-o-musical-chega-ao-rio-de-janeiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-11-10T17:55:23",
+  "modified_gmt": "2019-11-10T20:55:23",
+  "ping_status": "open",
+  "slug": "roda-viva-o-musical-chega-ao-rio-de-janeiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    151571,
+    15767449,
+    980698,
+    5362113
+  ],
+  "template": "",
+  "title": {
+    "rendered": "“Roda Viva &#8211; O Musical” Chega ao Rio de Janeiro"
+  },
+  "type": "post"
+}

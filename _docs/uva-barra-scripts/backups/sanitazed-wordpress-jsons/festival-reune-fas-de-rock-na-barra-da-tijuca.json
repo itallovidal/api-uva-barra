@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3565/revisions/3575",
+        "id": 3575
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3565"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3565",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3565/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3565"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3565",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3565",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3565",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-barra-da-tijuca",
+    "tag-up-rock-festival",
+    "tag-uptown-shopping"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O fim de Semana teve música e gastronomia</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/img-20190409-wa0073-e1554831958733.jpg?resize=1280%2C793&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"793\" /><figcaption>A Banda Trebiã se apresentou com covers de bandas como Simple Minds – Foto: Ana Beatriz Bernardo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-09-at-16.19.31.jpeg?resize=1040%2C780&amp;ssl=1\" alt=\"\" width=\"1040\" height=\"780\" /><figcaption><br> A segunda edição do Up Rock Festival reuniu música, gastronomia e um espaço infantil – Foto: Ana Beatriz Bernardo</figcaption></figure><p>O Rock chegou ao Brasil com o movimento da Jovem Guarda e desde então faz parte da cultura do país. Da década de 50 até hoje o som sempre é relembrado em eventos e festivais. No fim de semana de 5 a 7 de abril, o Uptown, na Barra da Tijuca, foi sede da segunda edição do Up Rock Festival, uma celebração deste estilo musical.  </p><p>O som ficou a cargo de banda covers e trouxe U2, Queen e David Bowie, mas a música não foi a única presença garantida. Os frequentadores contaram com diversas opções gastronômicas e três noites para provar que o rock é um gênero cada vez mais forte. “Por mais que as mídias tentem tirar o Rock de circulação, nós vemos o quanto o público é fiel. É algo que os pais passam para os filhos, como uma herança”, conta Cristiano Gavioli, professor da School of Rock, escola de música.</p><p>O evento trouxe um ambiente familiar, no qual crianças poderiam brincar enquanto os pais aproveitavam o show. Para a gerente comercial, Camile Rodrigues, o festival une as pessoas e traz a essência do rock. “Nós nos juntamos para bater papo, comer, beber e ouvir boa música. Isso também é parte da cultura do nosso país, temos muitos gêneros musicais que constroem o Brasil”, diz.</p><p>Para mostrar que o rock persiste, muitas bandas procuram a produção para se apresentarem. Segundo o produtor Rodrigo Monteiro, assim que o anúncio foi feito, houve uma pré-seleção. “Algumas bandas nós já conhecíamos, outras não. Mas a procura foi grande. As bandas não param de nascer, elas recriam o sentido desse gênero musical”, explica.</p><p><strong>Ana Beatriz Bernardo – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-09T16:01:55",
+  "date_gmt": "2019-04-09T19:01:55",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O fim de Semana teve música e gastronomia O Rock chegou ao Brasil com o movimento da Jovem Guarda e desde então faz parte da cultura do país. Da década de 50 até hoje o som sempre é relembrado em eventos e festivais. No fim de semana de 5 a 7 de abril, o Uptown, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3565"
+  },
+  "id": 3565,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Vv",
+  "link": "https://agenciauvabarra.com/2019/04/09/festival-reune-fas-de-rock-na-barra-da-tijuca/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-09T16:24:04",
+  "modified_gmt": "2019-04-09T19:24:04",
+  "ping_status": "open",
+  "slug": "festival-reune-fas-de-rock-na-barra-da-tijuca",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1129725,
+    163726739,
+    47115018
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Festival reúne fãs de rock na Barra da Tijuca"
+  },
+  "type": "post"
+}

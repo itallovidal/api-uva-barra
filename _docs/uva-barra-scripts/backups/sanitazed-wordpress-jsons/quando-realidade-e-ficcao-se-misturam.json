@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2643/revisions/2890",
+        "id": 2890
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2643"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2643",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2643/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2643"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2652"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2643",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2643",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-2643",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-literatura",
+    "tag-mara-mangorra",
+    "tag-um-grito-na-garganta",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Campus Barra tem pré-lançamento do livro “Um grito na garganta”</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-13-at-15-17-41.jpeg?resize=1040%2C780&amp;ssl=1\" alt=\"WhatsApp Image 2018-11-13 at 15.17.41\" width=\"1040\" height=\"780\" /><figcaption>Mara Mangorra lança livro 'um grito na garganta' – Lucas Motta</figcaption></figure><p>Muitas vezes não se percebe a dor que as pessoas ao redor carregam. Para estimular uma reflexão sobre a empatia, a Universidade Veiga de Almeida (UVA) recebeu, na última quarta-feira (7), a autora Mara Mangorra para o pré-lançamento do livro “Um grito na garganta”, que explora traumas vividos pelos personagens na infância. O evento, que teve início às 10h, aconteceu na biblioteca do campus Barra da Tijuca.</p><p>A obra é uma história contada tanto em terceira pessoa quanto em primeira. Fernanda, uma psicanalista, detalha o difícil passado de uma paciente, Lúcia, e aborda diversos temas sensíveis, tais como pedofilia, estupro e uso de drogas. De acordo com Mangorra, tudo foi inspirado em histórias reais. “Entrevistei mulheres que sofreram abuso na infância, que mais tarde tiveram a repetição desses atos, onde procuraram, por exemplo, a prostituição”, afirma.</p><p>Ao passar por universidades, a intenção da autora é debater com jovens os temas apresentados. De acordo com ela, o livro serve como um alerta para a necessidade de se observar melhor quem está ao lado. “Eu acho que é muito valioso conhecer as pessoas e aquele aspecto que elas não mostram. No ambiente acadêmico pode-se criar bons debates sobre o assunto”.</p><p><strong>Lucas Motta – 7º período</strong></p></main>"
+  },
+  "date": "2018-11-09T15:08:05",
+  "date_gmt": "2018-11-09T17:08:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Campus Barra tem pré-lançamento do livro “Um grito na garganta” Muitas vezes não se percebe a dor que as pessoas ao redor carregam. Para estimular uma reflexão sobre a empatia, a Universidade Veiga de Almeida (UVA) recebeu, na última quarta-feira (7), a autora Mara Mangorra para o pré-lançamento do livro “Um grito na garganta”, que [&hellip;]</p>\n"
+  },
+  "featured_media": 2652,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2643"
+  },
+  "id": 2643,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-13-at-15-17-41.jpeg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-GD",
+  "link": "https://agenciauvabarra.com/2018/11/09/quando-realidade-e-ficcao-se-misturam/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T14:33:49",
+  "modified_gmt": "2019-01-26T16:33:49",
+  "ping_status": "open",
+  "slug": "quando-realidade-e-ficcao-se-misturam",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056603,
+    653939428,
+    653939427,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Quando realidade e ficção se misturam"
+  },
+  "type": "post"
+}

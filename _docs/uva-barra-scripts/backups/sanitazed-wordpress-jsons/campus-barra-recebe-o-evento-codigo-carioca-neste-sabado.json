@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16562/revisions/16572",
+        "id": 16572
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16562"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16562",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16562/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16562"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16568"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16562",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16562",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16562",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento está na terceira edição e vai acontecer das 09h até às 17h</em></p><p>O Campus Barra irá sediar a terceira edição do Código Carioca, o maior evento de dados do Rio de Janeiro. Ao todo, serão 15 palestras acontecendo em dois palcos e quatro workshops. Os participantes terão a oportunidade de praticar <em>networking </em>com diversos profissionais da área, além de descobrir novas tendências e inovações na área de Ciência de Dados.</p><p>A segunda edição do evento, que aconteceu há quatro meses e uniu 90 pessoas de forma presencial. O professor e coordenador do Código Carioca, Thiago Marques, dono de um dos maiores canais de estatísticas do país, acredita que a terceira edição será maior. “Estamos esperando entre 140 pessoas com a gente lá (no Campus Barra). Vai ser um evento maior que as outras edições. Também teremos speed dating, tanto para empresas quanto para pessoas físicas a fim de estimular o networking. A ideia é trazer o que vem sendo falado na área de inovação, marketing e dados”, compartilha Thiago.</p><p>O speed dating irá acontecer em dois momentos. O primeiro, os presentes serão incentivados a criarem resolverem problemas desenvolvidos na hora e o segundo será destinado às empresas, para que elas possam falar sobre as próprias soluções e assim, produzir um match entre pessoas e empresas.</p><p>Para Thiago, as expectativas envolvem o maior número de participantes e a duração do evento, que será de oito horas. “Vai ser um evento maior, que demanda um desafio maior também, mas a gente tá bastante animado. Estamos também com os workshops, que são as únicas coisas pagas do Código”, diz o professor.</p><p>O coordenador do curso de Engenharia de Produção, Fabrício Dias, acredita que os estudantes da Universidade que estiverem presentes no evento podem adquirir diversos ganhos para além do acadêmico. “O aluno ganha porque ele está participando de um workshop relacionado à área de ciência de dados, à área de TI, à área de engenharia como um todo. Ele ganha conhecimento técnico e científico, ele ganha sobre práticas de mercado”, comenta.</p><p>Além disso, a Universidade também ganha com a parceria com o evento, que teve a data alterada devido a ameaça de fortes chuvas na cidade do Rio de Janeiro. “A Veiga ganha em relação a colocar o nome dela em eventos desse porte. Ganha com relação à mídia social, com relação a aceitabilidade, credibilidade, captação de alunos, ou seja, cada vez mais as pessoas vão reconhecer a Universidade promovendo projetos de extensão dentro da comunidade acadêmica”, conclui Fabrício.</p><p>O professor Marcos Santos estará presente no Código Carioca para oferecer o workshop sobre <em>Weighted Aggregated Sum Product Assessment (WASPAS)</em>, modelo matemático avançado desenvolvido no leste europeu e que ainda não é conhecido no Brasil. Marcos, que coordena um grupo de pesquisa no Instituto Militar de Engenharia (IME), acredita que os alunos presentes terão a oportunidade de entrar em contato com o que há na fronteira do conhecimento no campo da “Tomada de Decisão”.</p><p>“Eu costumo falar que um Engenheiro é antes de mais nada um “tomador de decisão”, ou, como chamamos na literatura, um “decision maker”. Daí a importância de os alunos da Engenharia terem contato com métodos como o que veremos no nosso workshop. O método WASPAS faz parte da Pesquisa Operacional, que é a ciência da tomada de decisão. Não existe decisão bem estruturada e bem fundamentada sem lançar mão dos métodos da Pesquisa Operacional”, completa o professor.</p><p>Marcos, que é um dos cientistas mais renomados do mundo segundo a Universidade Stanford, terá uma sessão de autógrafos com o seu livro “Ferramentas computacionais de apoio à tomada de decisão”. O objetivo da obra é popularizar os métodos da Pesquisa Operacional, abordando os métodos de maneira simples, para que qualquer profissional possa aplicá-la no dia a dia. Sobre as expectativas para o evento, o professor comenta: “Elas são enormes, considerando que o evento tem se consolidado como uma referência no Rio de Janeiro. Eu já participei de edições anteriores e o evento foi um sucesso, com a casa lotada. Tenho a certeza de que na Universidade Veiga de Almeida será um sucesso novamente”</p><p>O evento Código Carioca tomará conta do auditório, laboratório de informática e mais algumas salas do Campus Barra da Universidade Veiga de Almeida. A entrada é franca.</p><p><em>Mayara Rocha – 5º Período</em></p></main>"
+  },
+  "date": "2024-04-19T19:27:59",
+  "date_gmt": "2024-04-19T22:27:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento está na terceira edição e vai acontecer das 09h até às 17h O Campus Barra irá sediar a terceira edição do Código Carioca, o maior evento de dados do Rio de Janeiro. Ao todo, serão 15 palestras acontecendo em dois palcos e quatro workshops. Os participantes terão a oportunidade de praticar networking com [&hellip;]</p>\n"
+  },
+  "featured_media": 16568,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16562"
+  },
+  "id": 16562,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/04/codigocarioca.png?fit=314%2C261&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4j8",
+  "link": "https://agenciauvabarra.com/2024/04/19/campus-barra-recebe-o-evento-codigo-carioca-neste-sabado/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-04-19T19:32:34",
+  "modified_gmt": "2024-04-19T22:32:34",
+  "ping_status": "open",
+  "slug": "campus-barra-recebe-o-evento-codigo-carioca-neste-sabado",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Campus Barra recebe o evento &#8216;Código Carioca&#8217; neste sábado"
+  },
+  "type": "post"
+}

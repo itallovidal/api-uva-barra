@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5956/revisions/5965",
+        "id": 5965
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5956"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5956",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5956/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5956"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5960"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5956",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5956",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-5956",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-festival-de-webseries-2019",
+    "tag-rio-webfest",
+    "tag-webseries"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Festival foi marcado pela presença de convidados internacionais e profissionais do mercado de webséries</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/img_1266.jpeg?resize=3264%2C2448&#038;ssl=1' alt='RIO WEBFEST' width='3264' height='2448' /><figcaption>RIO WEBFEST – Foto: Lucas Ribeiro</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/img_1268-e1574181317436.jpeg?resize=3051%2C1716&#038;ssl=1' alt='Workshop sobre consumo consciente, novas economias e o papel do marketing na era do audiovisual' width='3051' height='1716' /><figcaption>Workshop sobre consumo consciente, novas economias e o papel do marketing na era do audiovisual – Foto: Lucas Ribeiro</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/b80293f9-8cc6-4ce3-9abc-1b4d88552bca.jpeg?resize=1032%2C581&#038;ssl=1' alt='Área destinada às premiações' width='1032' height='581' /><figcaption>Área destinada às premiações – Foto: Lucas Souza</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/df0a3e89-e5ac-44c0-9b86-5050e14a75be-e1574181104651.jpeg?resize=718%2C403&#038;ssl=1' alt='Espaço Convivência' width='718' height='403' /><figcaption>Espaço Convivência – Foto: Lucas Souza</figcaption></figure><p>Durante os dias 15 a 18 de novembro, ocorreu, na Cidade das Artes, a maior celebração internacional de webséries no Brasil, o Rio Webfest— pioneiro no incentivo à formação de conteúdo voltado para a internet. A interatividade entre o público e os especialistas da área a partir de painéis, masterclasses, workshops e pitchings foi um dos destaques do evento, que também contou com a exibição e premiação de produções do mundo inteiro.</p><p>Ao longo das cinco edições é possível ver um crescimento do festival. Para Daniel Archangelo, fundador do Rio Webfest, o grande êxito desse tipo de encontro está no fomento de mercado e desenvolvimento da linguagem. “Tem uma gama de pessoas que deixou de ver representação efetiva nos meios de comunicação tradicionais. Esse público escolheu a web para divulgar uma nova forma de conteúdo que se comunicava com o nicho, dialogava diretamente com a individualidade de cada pessoa”, comenta.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/1ca95a11-5555-413b-9b61-f074479e8b46.jpeg?resize=497%2C279&#038;ssl=1' alt='Fundador do Rio Webfest Daniel Archangelo' width='497' height='279' /><figcaption>Fundador do Rio Webfest Daniel Archangelo – Foto: Lucas Souza</figcaption></figure><p>Além disso, Daniel revela que o objetivo é também juntar os criadores de webséries para que possam conseguir um espaço maior no mercado. “O festival vem para reunir quem cria e assiste conteúdo e que o mercado entre cada vez mais e que todos consigam oportunidades para monetizar e melhorar seus produtos”.</p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F714391120&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Player do SoundCloud' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>Nessa edição, as novidades ficaram por conta da programação e com a participação de webséries universitárias, uma parceria com a Universidade Veiga de Almeida. O fundador do evento enalteceu que o Rio Webfest é inclusivo e quanto mais atividade, mais criadores consegue trazer, ressaltando a necessidade de trazer os alunos, que são consumidores, para conhecer as estruturas do audiovisual da internet.</p><p>O público também destacou a importância do festival. Segundo o produtor de conteúdo Lucas de Araújo, o principal atrativo é poder conhecer criadores do mundo todo. “Aqui no Rio Webfest a gente tem oportunidade de conhecer gente dos Estados Unidos, da Europa e do Brasil também, que estão trabalhando. Além disso, é fomentar o audiovisual, porque muita gente que está aqui faz milagre com muito pouco”, afirma.</p><p><strong>Lucas Ribeiro – 2° Período | Jornalismo </strong></p><p><strong>Colaboração: Lucas Souza – 2° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-11-19T13:35:41",
+  "date_gmt": "2019-11-19T16:35:41",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Festival foi marcado pela presença de convidados internacionais e profissionais do mercado de webséries Durante os dias 15 a 18 de novembro, ocorreu, na Cidade das Artes, a maior celebração internacional de webséries no Brasil, o Rio Webfest— pioneiro no incentivo à formação de conteúdo voltado para a internet. A interatividade entre o público e [&hellip;]</p>\n"
+  },
+  "featured_media": 5960,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5956"
+  },
+  "id": 5956,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/img_1266.jpeg?fit=3264%2C2448&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1y4",
+  "link": "https://agenciauvabarra.com/2019/11/19/a-5a-edicao-do-rio-webfest-celebrou-o-audiovisual-e-as-novas-midias-da-internet/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-11-19T13:40:55",
+  "modified_gmt": "2019-11-19T16:40:55",
+  "ping_status": "open",
+  "slug": "a-5a-edicao-do-rio-webfest-celebrou-o-audiovisual-e-as-novas-midias-da-internet",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    690104617,
+    398248193,
+    824285
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A 5ª edição do Rio Webfest celebrou o audiovisual e as novas mídias da internet"
+  },
+  "type": "post"
+}

@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1730/revisions/3225",
+        "id": 3225
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1730"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1730",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1730/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1730"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1730",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1730",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-1730",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>O shopping Village Mall da Barra da Tijuca atrai cariocas com exibição de filmes indicados ao oscar 2018 a céu aberto</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/02/bb.jpg?resize=1032%2C774&#038;ssl=1\" alt=\"bb\" width=\"1032\" height=\"774\" /><figcaption>Foto: Bruna Barros</figcaption></figure><p>O início do ano é marcado pelas premiações do mundo cinematográfico e musical. Como faltam poucos dias para o maior evento dedicado à sétima arte acontecer, o shopping <em>Village Mall</em> prepara um fim de semana com cinema a céu aberto com alguns dos filmes indicados ao Oscar 2018. O <em>Village Movieart</em> começou nesta sexta-feira (23/02) e encerra no domingo (25/02), os visitantes ainda podem unir a paixão por audiovisual com gastronomia com <em>foodtrucks </em>no deck do local.</p><p>A programação do primeiro dia iniciou com “Corra”, dirigido por Jordan Peele, com quatro indicações: melhor filme, melhor diretor, melhor ator e melhor roteiro original. O longa enfatiza as questões raciais, sobre um relacionamento entre um homem negro com uma mulher branca. Ao conhecer a família da namorada o mistério e o suspense da trama começam a aparecer.</p><p>E para finalizar a primeira noite, às 21:30 foi a vez da obra russa “Sem Amor”, dirigido por Andrey Zvyagintsev, indicado a melhor filme estrangeiro. O enredo se passa com um menino de 12 anos chamado Alyosha, que sofre com o divórcio dos pais. Após ouvir uma discussão sobre quem ficaria com o filho, decide fugir de casa. O drama mostra uma parte da cultura da Rússia e problemas cotidianos em famílias.</p><p>Devido a esses filmes, cerca de cem pessoas de todas as idades foram apreciar a exposição. Como o casal, Bruna Carvalho e Leonardo Coelho, que procuravam um encontro diferente e a proposta da exibição chamou a atenção dos dois. Mas a organização do local não foi satisfatória para eles, Bruna confessa que esperava mais. “Eu achei meio desorganizada a fila, e senti falta de uma recepção para se informar melhor”.</p><p>Por outro lado, o professor de História Bruno Dias, de 28 anos, também achou uma ideia interessante, afirma que gostou em geral do dia. “Gostei bastante, mas penso que essa ideia poderia ser feita também em espaços públicos, para aumentar o acesso a diferentes tipos de públicos”. Como o primeiro dia teve um grande sucesso, ocasionou em grandes filas, e muitas pessoas ficaram de fora. É recomendado chegar com uma hora de antecedência para pegar as pulseiras que são distribuídas meia hora antes e conseguir lugar no deck.</p><p><strong>Bruna Barros, 4º período</strong></p></main>"
+  },
+  "date": "2018-02-25T17:27:01",
+  "date_gmt": "2018-02-25T20:27:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O shopping Village Mall da Barra da Tijuca atrai cariocas com exibição de filmes indicados ao oscar 2018 a céu aberto</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1730"
+  },
+  "id": 1730,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-rU",
+  "link": "https://agenciauvabarra.com/2018/02/25/o-tapete-vermelho-no-rio-de-janeiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T17:45:54",
+  "modified_gmt": "2019-02-27T20:45:54",
+  "ping_status": "open",
+  "slug": "o-tapete-vermelho-no-rio-de-janeiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "O tapete vermelho no Rio de Janeiro"
+  },
+  "type": "post"
+}

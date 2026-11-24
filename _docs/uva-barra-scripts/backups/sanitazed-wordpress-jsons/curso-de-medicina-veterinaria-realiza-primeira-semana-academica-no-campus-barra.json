@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15781/revisions/15795",
+        "id": 15795
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15781"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15781",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15781/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15781"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15790"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15781",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15781",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15781",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento trouxe 18 palestras para os estudantes</em></p><p>A SEMEV (Semana Acadêmica de Medicina Veterinária) aconteceu nos dias 04, 05 e 06 de setembro, e ao todo contou com 18 palestras que ocorreram nos turnos da manhã e noite. Ultrassonografia, anestesiologia, nutrição e muitos outros temas foram debatidos por acadêmicos e profissionais do mercado, para cerca de 120 alunos que marcaram presença nos três dias de seminário.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/9cf7f43e-19d3-439c-bd73-77c098879827-1339324157-e1694558936571.jpg?resize=1080%2C829&amp;ssl=1\" alt=\"\" width=\"1080\" height=\"829\"><figcaption>Romulo Spinelli apresentou para os alunos os pilares da atual gestão do Conselho. (Foto: Divulgação CRMV-RJ)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/7f0f9c0e-c15c-4774-a977-7ace1ea8bfb9.jpg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>\"Muitas pessoas pensam que a medicina veterinária é voltada apenas para a clínica de pequenos, e não é\", afirmou a coordenadora Cristina Amarante. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/6e46f68b-976a-432b-987d-7bac3b3bddb8.jpg?resize=938%2C729&amp;ssl=1\" alt=\"\" width=\"938\" height=\"729\"><figcaption>Regina Ramadinha é membro honorária da Sociedade Brasileira de Dermatologia Veterinária. (Foto: Luize Lopes)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/img_8255.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\"><figcaption>\"A gente pensou que não ia ter muita gente, mas encheu bastante. A gente ficou muito feliz\", disse Alice Alves. (Foto: Mariana Rangel)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/photo-2023-09-08-10-33-42.jpeg?resize=1263%2C1600&amp;ssl=1\" alt=\"\" width=\"1263\" height=\"1600\"><figcaption>Luize Lopes está no 5° período da graduação e fez parte da comissão de organização do evento. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/69adc237-ca73-462e-b5e2-fe6891663f25.jpg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Comissão de organização do turno da manhã junto com a coordenadora Cristina Amarante. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/a44f9a96-d94f-4cb0-9216-336cfb60f7b2.jpg?resize=1600%2C1200&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1200\"><figcaption>Alunas sorteadas pela CEVA. (Foto: Luize Lopes)</figcaption></figure><p>A abertura do evento contou com a presença do presidente do Conselho Regional de Medicina Veterinária do Rio de Janeiro (CRMV-RJ), Romulo Spinelli. Ele explicou o trabalho desenvolvido pelo Conselho e comentou sobre o atual momento do mercado profissional, diferenciando a atuação do médico-veterinário, o profissional que vai além do atendimento aos pets, como cães e gatos. \"Estamos percorrendo diversos órgãos municipais e estaduais, apresentando a atuação desses profissionais, muita das vezes desconhecidas pelos representantes governamentais, e mostrando a necessidade da contratação para a fiscalização dos produtos de origem animal, prevenindo as toxinfecções alimentares e desafogando as unidades de saúde, garantindo verba para outras áreas que precisam de investimento\", afirmou o presidente que ainda reforçou a necessidade do profissional se valorizar e continuar estudando e se especializando sempre.</p><p>Cristina Amarante é a coordenadora do curso de Medicina Veterinária do Campus Barra, e no vídeo abaixo ela fala sobre o principal objetivo da Semana Acadêmica:</p><figure><iframe src=\"https://www.youtube.com/embed/OjgXOxmww3w?feature=oembed\" width=\"500\" height=\"281\" title=\"Cristina Amarante fala sobre o principal objetivo da Semana Acadêmica\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></figure><p>Além disso, a docente comentou sobre a importância da SEMEV para a formação dos alunos: \"A maioria dos alunos vem pensando apenas na clínica de pequenos (porte dos animais), e aqui eles podem conhecer outras áreas. O estudante precisa ter esse conhecimento de que a medicina veterinária não é apenas clínica de pequenos\", disse a coordenadora.</p><p>Uma das palestras teve o tema \"Pele – que órgão é esse? E que doenças pode ter?\", com a professora Regina Ramadinha. Ela fez questão de ressaltar a importância da dermatologia no estudo da medicina veterinária e abordou de uma forma geral as principais doenças da pele dos cães e dos gatos: \"Na verdade o que eu fiz foi uma introdução ao estudo da Dermatologia\", completou.</p><p>A docente ainda elogiou a preparação do evento pelos alunos. \"Para um professor esse convite é sempre muito bom, principalmente se já está aposentado, como é o meu caso. Além de estar passando conhecimento, estou incentivando os alunos a estudar, pesquisar e crescer na profissão. E para mim principalmente trás a sensação da necessidade de continuar estudando, manter-me atualizada\". Regina Ramadinha contou que essa troca faz muito bem ao ego, já que há uma emoção de quem fala e quem ouve: \"Os olhinhos estão brilhando e os alunos se empolgam com a narrativa. E ao final surgem as perguntas, algumas que você já esperava, pois malandramente deixou de abordar de propósito para testar a atenção dos alunos\", disse.</p><p>A SEMEV foi organizada por uma comissão formada pelos alunos do curso de Medicina Veterinária do Campus Barra. Luize Lopes é aluna do 5° período e falou sobre a sensação de fazer parte do time: \"Foi uma loucura. A gente foi convocada pela coordenadora e aí a gente tá há uns meses trabalhando nessa organização\", comentou a estudante. Alice Alves está no 4° período da graduação, e contou alguns detalhes sobre a forma com que o seminário foi organizado. Confira no áudio abaixo:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1614841095&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Alice Alves comenta sobre a organização da Semana Acadêmica by Agência UVA Barra\" frameborder=\"no\" allowfullscreen></iframe></figure><p>No dia 9 de setembro é comemorado o dia do médico veterinário, pois foi neste dia, em 1933, que o então presidente Getúlio Vargas criou a normatização para a atuação do médico veterinário e para o ensino da profissão no país por meio do Decreto nº 23.133.</p><p><em>Mariana Rangel – 2° período<br>Igor Concolato – 4° período</em></p></main>"
+  },
+  "date": "2023-09-12T20:14:13",
+  "date_gmt": "2023-09-12T23:14:13",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A SEMEV (Semana Acadêmica de Medicina Veterinária) aconteceu nos dias 04, 05 e 06 de setembro, e ao todo contou com 18 palestras que ocorreram nos turnos da manhã e noite. Ultrassonografia, anestesiologia, nutrição e muitos outros temas foram debatidos por acadêmicos e profissionais do mercado, para cerca de 120 alunos que marcaram presença nos três dias de seminário. </p>\n"
+  },
+  "featured_media": 15790,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15781"
+  },
+  "id": 15781,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/841f142f-1a21-4914-ad04-273990262ee9.jpg?fit=1600%2C1200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-46x",
+  "link": "https://agenciauvabarra.com/2023/09/12/curso-de-medicina-veterinaria-realiza-primeira-semana-academica-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-12T20:14:13",
+  "modified_gmt": "2023-09-12T23:14:13",
+  "ping_status": "open",
+  "slug": "curso-de-medicina-veterinaria-realiza-primeira-semana-academica-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Curso de Medicina Veterinária realiza primeira semana acadêmica no Campus Barra"
+  },
+  "type": "post"
+}

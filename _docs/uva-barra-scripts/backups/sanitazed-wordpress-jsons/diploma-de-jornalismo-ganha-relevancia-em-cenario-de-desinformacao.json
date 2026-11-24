@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21281/revisions/21284",
+        "id": 21284
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21281"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21281",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21281/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21281"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21285"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21281",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21281",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    14603
+  ],
+  "class_list": [
+    "post-21281",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-jornalismo",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A flexibilização do acesso à profissão de jornalista no Brasil, após decisão do Supremo Tribunal Federal, em 2009, que extinguiu a obrigatoriedade do diploma, ampliou o debate sobre os limites entre liberdade de expressão e exercício profissional. Em um contexto marcado pela circulação de desinformação e pela popularização das redes sociais, especialistas apontam que a formação acadêmica segue sendo um diferencial importante para garantir a qualidade e a credibilidade da informação.</p><p>Para a jornalista e professora Renata Feital, o principal desafio atual está na facilidade com que conteúdos falsos são disseminados e absorvidos pelo público. “Uma notícia falsa, quando muito bem tratada, é facilmente incorporada pelas pessoas”, afirma. Segundo ela, o problema se torna ainda mais grave quando a desinformação parte de veículos tradicionais, que historicamente construíram uma relação de confiança com a audiência. “É muito mais sério quando um meio com credibilidade propaga uma informação não verificada. Isso compromete diretamente a confiança do público”, diz.</p><p>A professora também alerta para o aumento da circulação de conteúdos enganosos, especialmente em períodos eleitorais, quando cresce a disputa por narrativas e a disseminação de informações não checadas. Nesse cenário, o papel do jornalista se torna ainda mais relevante. “Os meios de comunicação têm a obrigação de oferecer uma informação fidedigna. Não é o mesmo que um influenciador digital”, destaca.</p><p>Embora o diploma não seja garantia de qualidade, ele oferece uma base técnica e ética fundamental para o exercício da profissão. Durante a formação acadêmica, os estudantes desenvolvem habilidades como apuração rigorosa, checagem de fatos, escuta de diferentes fontes e responsabilidade na divulgação das informações. “O jornalista precisa entender a responsabilidade social que tem. Ele não pode divulgar uma informação sem verificar”, afirma Feital.</p><p>De acordo com a docente, o jornalismo exerce uma função essencial na sociedade ao atuar como mediador entre os fatos e a população, além de contribuir para a fiscalização do poder público. “Essa mediação é fundamental para a democracia. A gente precisa de meios de comunicação comprometidos com o interesse público”, explica.</p><p>A disseminação de fake news, no entanto, representa um dos principais desafios para a profissão na atualidade. Segundo Feital, a credibilidade do jornalista pode ser rapidamente comprometida pela divulgação de conteúdos falsos ou não verificados. “Você deixa de ser uma fonte segura. O jornalista precisa ir a campo, checar se a informação é verdadeira e verificar tudo antes de publicar”, afirma. Ela também ressalta que o avanço tecnológico tem dificultado a distinção entre o que é real e o que é manipulado. “Hoje, a tecnologia faz com que as pessoas acreditem em algo que não é real, e isso torna mais difícil desconstruir a mentira”, diz.</p><p>Outro ponto destacado pela professora é a diferença entre o trabalho jornalístico e a produção de conteúdo nas redes sociais. Para ela, o jornalismo não deve ser guiado apenas por engajamento ou interesses comerciais. “O jornalista não está ali para influenciar, mas para informar. Existe um compromisso com a verdade e com o público”, afirma.</p><p>Diante desse cenário, a defesa da importância do diploma se relaciona diretamente com a necessidade de preparo técnico e responsabilidade ética. Sem essa base, não apenas a profissão é afetada, mas também a confiança da sociedade na informação. “Ser jornalista é uma coisa séria. Não é brincadeira. Sem preparo, a gente perde a credibilidade e compromete a própria função social do jornalismo”, conclui Renata Feital.</p><p>Duda Nicolich – 3º Período de Jornalismo</p></main>"
+  },
+  "date": "2026-04-07T17:01:01",
+  "date_gmt": "2026-04-07T20:01:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Profissionais qualificados ajudam a combater notícias falsas e fortalecem a credibilidade da informação</p>\n"
+  },
+  "featured_media": 21285,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21281"
+  },
+  "id": 21281,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/04/dia-do-jornalista.png?fit=1080%2C1350&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5xf",
+  "link": "https://agenciauvabarra.com/2026/04/07/diploma-de-jornalismo-ganha-relevancia-em-cenario-de-desinformacao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-04-07T17:02:14",
+  "modified_gmt": "2026-04-07T20:02:14",
+  "ping_status": "open",
+  "slug": "diploma-de-jornalismo-ganha-relevancia-em-cenario-de-desinformacao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Diploma de jornalismo ganha relevância em cenário de desinformação"
+  },
+  "type": "post"
+}

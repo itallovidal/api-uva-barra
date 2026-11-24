@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8511/revisions/8518",
+        "id": 8518
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8511"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8511",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8511/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8511"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8517"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8511",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8511",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8511",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F941226226&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Player do SoundCloud' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>Muita coisa mudou desde o início da jornada de Lúcio e os amigos. Na bagagem, eles levam experiências que os fizeram enxergar a vida de outra forma. A chegada deles na cidade traz confusão e medo aos viajantes, mas uma nova aventura pode estar mais próxima do que eles imaginam.</p><p>Esse é o quinto e último capítulo da podsérie \"Vocês viram a minha infância?\". Os episódios de estão sendo lançados pela Rádio UVA Barra de 11 a 15 de janeiro. Ao longo do mês outras histórias farão parte dessa temporada inédita de podcasts ficcionais feitos por alunos da Universidade Veiga de Almeida.</p><p>Links de \"Vocês viram a minha infância?\"</p><p><a href='https://agenciauvabarra.com/2021/01/11/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep1/' target='_blank'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP1</a></p><p><a href='https://agenciauvabarra.com/2021/01/12/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep2/' target='_blank'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP2</a></p><p><a href='https://agenciauvabarra.com/2021/01/13/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep3/' target='_blank'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP3</a></p><p><a href='https://agenciauvabarra.com/2021/01/14/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep4/' target='_blank'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP4</a></p><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2021-01-15T13:37:14",
+  "date_gmt": "2021-01-15T16:37:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Vocês Viram a Minha Infância? · Temporada 1 &#8211; Vocês Viram a Minha Jornada &#8211; Episódio 5 Muita coisa mudou desde o início da jornada de Lúcio e os amigos. Na bagagem, eles levam experiências que os fizeram enxergar a vida de outra forma. A chegada deles na cidade traz confusão e medo aos viajantes, [&hellip;]</p>\n"
+  },
+  "featured_media": 8517,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8511"
+  },
+  "id": 8511,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/p1ep5.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2dh",
+  "link": "https://agenciauvabarra.com/2021/01/15/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep5/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-01-15T13:37:14",
+  "modified_gmt": "2021-01-15T16:37:14",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep5",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP5"
+  },
+  "type": "post"
+}

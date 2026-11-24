@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2592/revisions/3028",
+        "id": 3028
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2592"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2592",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2592/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2592"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2593"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2592",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2592",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2239
+  ],
+  "class_list": [
+    "post-2592",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-shows",
+    "tag-banda-melim",
+    "tag-bossa-nova-mall",
+    "tag-musica",
+    "tag-paradiso-cafe",
+    "tag-radio-sulamerica-paradiso"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Banda Melim sobe ao palco do evento Paradiso Café</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/img-20181102-wa0006268554552.jpg?resize=1040%2C780&amp;ssl=1' alt='' width='1040' height='780' /><figcaption>A banda Melim cantou para mais de 100 pessoas no Bossa Nova Mall – Foto: Ana Beatriz Bernardo</figcaption></figure><p>A Banda Melim é formada pelos irmãos Rodrigo, Diogo e Gabi e na última terça-feira, (30/10), o trio fez um show gratuito para mais de 100 pessoas na praça do Bossa Nova Mall, ao lado do aeroporto Santos Dumont. O Paradiso Café acontece uma vez por mês e é promovido pela rádio SulAmérica Paradiso. para dar espaço aos novos artistas. Como é o caso da banda que terminou a terceira temporada do “Superstar” como semifinalista e lançou neste ano o álbum de estreia homônimo.</p><p>A apresentação teve músicas próprias e contou também com covers de Onze:20, Natiruts e Thiago Iorc, o trio traz músicas brasileiras que são bem recebidas pelo público de diferentes gerações. E eles fazem questão de reforçar a importância da MPB. Gabi, a voz feminina da banda, acredita que os mais jovens precisam conhecer esse estilo. “Acho que como artistas, temos que ter algo a dizer. E o nosso público é muito diverso, é importante trazer essas releituras de outros artistas brasileiros”, conta.</p><p>Assim a música popular brasileira vem se restabelecendo no mercado e ganhando ouvintes mais jovens. A estudante Rayana Azevedo diz que já ouvia MPB. “Mas quando eu conheci a Melim, me interessei muito. Esse estilo musical está se renovando”, conta. Eventos como esse servem como passatempo para quem está esperando um voo ou de passeio pelo próprio shopping, além de ser uma oportunidade para novas vozes mostrarem o trabalho para quem ainda não conhece.</p><p>Os irmãos além de cantar também compõem. O cantor Rodrigo diz ser uma honra que tantos artistas, como Ivete Sangalo e Luan Santana, cantem composições deles. “É uma extensão do nosso trabalho como artistas”, ressalta. Para Diogo a música precisa ter diversidade. “No Brasil, alguns estilos passaram a predominar sobre outros, o que é legal, mas precisa ter espaço para todos”, explica. Essa pluralidade que compõe o nosso país e espaços que abram as portas aos novos nomes da música ajudam a construir um novo mercado musical.</p><p><strong>Ana Beatriz Bernardo – 6º período</strong></p></main>"
+  },
+  "date": "2018-11-02T20:20:02",
+  "date_gmt": "2018-11-02T23:20:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Banda Melim sobe ao palco do evento Paradiso Café A Banda Melim é formada pelos irmãos Rodrigo, Diogo e Gabi e na última terça-feira, (30/10), o trio fez um show gratuito para mais de 100 pessoas na praça do Bossa Nova Mall, ao lado do aeroporto Santos Dumont. O Paradiso Café acontece uma vez por [&hellip;]</p>\n"
+  },
+  "featured_media": 2593,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2592"
+  },
+  "id": 2592,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/img-20181102-wa0006268554552.jpg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-FO",
+  "link": "https://agenciauvabarra.com/2018/11/02/noite-de-musica-para-todas-as-idades/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:25:04",
+  "modified_gmt": "2019-01-31T13:25:04",
+  "ping_status": "open",
+  "slug": "noite-de-musica-para-todas-as-idades",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    489942319,
+    223701300,
+    767056594,
+    422050,
+    99360534
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Noite de música para todas as idades"
+  },
+  "type": "post"
+}

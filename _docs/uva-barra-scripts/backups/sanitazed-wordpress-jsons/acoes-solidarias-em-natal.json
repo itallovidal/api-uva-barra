@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7541/revisions/7549",
+        "id": 7549
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7541"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7541",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7541/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7541"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7546"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7541",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7541",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    268277,
+    703299214
+  ],
+  "class_list": [
+    "post-7541",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "category-solidariedade",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Alimentos estão sendo doados na cidade em meio à crise do novo coronavírus</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-27.png?resize=447%2C335&amp;ssl=1' alt='Foto: Divulgação' width='447' height='335' /><figcaption>Foto: Divulgação</figcaption></figure><p>Em meio ao caos que o mundo vive, ainda existem casos de solidariedade em todos os cantos do Brasil. Assim como ocorre em outros estados, também no Rio Grande do Norte, alimentos estão sendo doados desde o início da pandemia do Covid-19, na cidade de Natal, por duas moradoras da região, que estão se prontificando a fazer essas doações com o intuito de ajudar pessoas que estão passando por sérias dificuldades durante a crise do novo Coronavírus.</p><p>Essas atitudes são de fundamental importância no momento, já que, devido à crise causada pelo vírus, a fome pode quase dobrar no mundo todo este ano, apontam dados da Organização das Nações Unidas. A ONU ainda estima que, somadas às 135 milhões de pessoas que já passavam por essas condições antes da pandemia, mais 265 milhões de pessoas em países de baixa e média renda estejam com suas vidas e subsistências ameaçadas pelo novo vírus.</p><p>A importância dessas doações é ressaltada por Eunice Cristina Salvador Lopes Santos, 38 anos, que tem um projeto de ações sociais há 12 anos, em que realiza doações de alimentos para crianças. Com a pandemia, ela decidiu, em solidariedade às pessoas de rua, começar a doar alimentos no café da manhã, almoço e janta para aproximadamente 50 moradores do seu bairro. Ela conta com a ajuda da mãe e de amigos para realizar as doações, que são feitas na sua casa, doando ao todo oito pratos de comida por dia. Eunice diz que herdou essa vontade de ajudar outras pessoas da sua avó. “Eu vou morrer e não vou levar nada comigo”.</p><p>Esse cenário de dificuldade também se reflete em peso aqui no Brasil, principalmente nas favelas de todo o país, nas quais a cada dez moradores de comunidades, sete já viram a sua renda familiar diminuir por causa da interrupção da atividade econômica causada pelo Covid-19. A maior preocupação é que se essas pessoas precisarem ficar em casa por um longo período de tempo, sem trabalhar, e cumprindo as recomendações da comunidade científica de distanciamento social, 86% delas teriam dificuldade para comprar comida e outros itens básicos de sobrevivência, caso não recebam qualquer tipo de ajuda ou auxílio.</p><p>Uma das pessoas que lutam para ajudar a população que está passando por esta situação é Jéssica Aline Portela, 27 anos, que desde o inicio da quarentena está ajudando de 30 a 40 famílias com doações de alimentos perecíveis, sacolas de frutas, legumes e hortaliças, que recebe de uma amiga que trabalha com o ramo de hortas. As doações são feitas duas vezes por mês, e estão sendo realizadas em um espaço que Jéssica criou em sua própria casa. Ela diz que a doação é um ato de gratidão, e afirma: “Se tivermos mais pessoas dispostas a praticar esses atos de boa ação, poderemos fazer do mundo um lugar mais igualitário”.</p><p><strong>Matheus Fagundes Gil – 3º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-08-28T14:15:00",
+  "date_gmt": "2020-08-28T17:15:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alimentos estão sendo doados na cidade em meio à crise do novo coronavírus Em meio ao caos que o mundo vive, ainda existem casos de solidariedade em todos os cantos do Brasil. Assim como ocorre em outros estados, também no Rio Grande do Norte, alimentos estão sendo doados desde o início da pandemia do Covid-19, [&hellip;]</p>\n"
+  },
+  "featured_media": 7546,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7541"
+  },
+  "id": 7541,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-27.png?fit=567%2C425&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1XD",
+  "link": "https://agenciauvabarra.com/2020/08/28/acoes-solidarias-em-natal/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-12T14:57:03",
+  "modified_gmt": "2020-08-12T17:57:03",
+  "ping_status": "open",
+  "slug": "acoes-solidarias-em-natal",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Ações solidárias em Natal"
+  },
+  "type": "post"
+}

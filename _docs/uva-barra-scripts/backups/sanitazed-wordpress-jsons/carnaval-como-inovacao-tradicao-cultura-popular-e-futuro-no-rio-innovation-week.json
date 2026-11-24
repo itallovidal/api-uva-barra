@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18801/revisions/18808",
+        "id": 18808
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18801"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18801",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18801/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18801"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18802"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18801",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18801",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    2367,
+    632602,
+    23208,
+    2366,
+    774
+  ],
+  "class_list": [
+    "post-18801",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-cultura",
+    "category-diversidade",
+    "category-entretenimento",
+    "category-eventos",
+    "category-musica",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>No Rio Innovation Week teve a participação de figuras emblemáticas do Carnaval brasileiro, como Gabriel Haddad e Leonardo Bora, na palestra “Antropocruzo II – do Carnaval das Águas do Pará ao desfile das Escolas de Samba no Rio de Janeiro” com a mediação de Kallie Dias. O debate apresentou como foi o processo de criação do último carro alegórico “O Carnaval das Águas do Pará” que teve participação de alunos de design.</p><p>A palestra foi rica em conhecimento, principalmente por relatar o processo para levar o carnaval à avenida, que conta com o apoio de diversas vertentes, como alunos e carnavalescos. A mediadora Kallie Dias, mestranda, na época aluna de design, também relatou que a experiência de fazer parte da elaboração foi enriquecedora, já que descobriu mais sobre a cultura paraense.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/image.jpeg?resize=1600%2C1438&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1438\" /><figcaption>Carnaval 2025 (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/image-4.png?resize=337%2C150&amp;ssl=1\" alt=\"\" width=\"337\" height=\"150\" /><figcaption>Leonardo Bora e Gabriel Haddad. (Reprodução: Mário Grave).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/image-1.jpeg?resize=1529%2C1600&amp;ssl=1\" alt=\"\" width=\"1529\" height=\"1600\" /><figcaption>Kallie Dias, mestranda em Design. (Reprodução: Vini Guerra)</figcaption></figure><p>Os carnavalescos Leonardo Bora e Gabriel Haddad foram categóricos ao mostrar como o Carnaval é, ao mesmo tempo, arte, tradição e inovação. Transformar lendas em desfiles exige um trabalho de costura simbólica. “Cada um irá narrar de uma maneira, cabe a nós costurar os fragmentos tecendo um manto coerente para contar essa história”, afirmou Leonardo Bora.</p><p>Saberes transmitidos de geração em geração, como os rituais indígenas, as práticas afro-brasileiras e a própria criatividade do Carnaval, também representam formas de inovação, pois reinventam narrativas, materiais e modos de viver em comunidade, mostrando que o futuro pode nascer tanto de um algoritmo quanto de práticas culturais. “Inovação não é só inteligência artificial. Também é tecnologia ancestral, fruto da memória coletiva e da arte popular”, afirmou Gabriel Haddad, logo, a inovação não se limita à tecnologia digital.</p><p>Além de abordar o universo do samba, a palestra ressaltou a relevância de divulgar a cultura brasileira internacionalmente, citando a participação de Kallie Dias como produtora na exposição de design latino-americano no MoMA, The Museum of Modern Art, em Nova York, evidenciando como o Carnaval e suas manifestações criativas têm alcance global. “Foi gratificante mensurar o quão importante a nossa cultura é importante para eles”, afirmou Kallie Dias.</p><p>O encontro mostrou que, no Rio Innovation Week, tradição e futuro caminham juntos, evidenciando que a inovação também nasce da cultura popular.</p><p>Malu Cordeiro – 2° período</p></main>"
+  },
+  "date": "2025-08-22T12:00:00",
+  "date_gmt": "2025-08-22T15:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No Rio Innovation Week teve a participação de figuras emblemáticas do Carnaval brasileiro, como Gabriel Haddad e Leonardo Bora, na palestra “ Antropocruzo II &#8211; do Carnaval das Águas do Pará ao desfile das Escolas de Samba no Rio de Janeiro” com a mediação de Kallie Dias. O debate apresentou como foi o processo de [&hellip;]</p>\n"
+  },
+  "featured_media": 18802,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18801"
+  },
+  "id": 18801,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/image.jpeg?fit=1600%2C1438&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Tf",
+  "link": "https://agenciauvabarra.com/2025/08/22/carnaval-como-inovacao-tradicao-cultura-popular-e-futuro-no-rio-innovation-week/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-08-22T11:52:06",
+  "modified_gmt": "2025-08-22T14:52:06",
+  "ping_status": "open",
+  "slug": "carnaval-como-inovacao-tradicao-cultura-popular-e-futuro-no-rio-innovation-week",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Carnaval como Inovação: Tradição, Cultura Popular e Futuro no Rio Innovation Week "
+  },
+  "type": "post"
+}

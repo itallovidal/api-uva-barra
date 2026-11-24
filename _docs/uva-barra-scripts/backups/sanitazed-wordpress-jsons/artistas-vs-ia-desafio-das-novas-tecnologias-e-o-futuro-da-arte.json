@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18150/revisions/18174",
+        "id": 18174
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18150"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18150",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 17,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18150/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18150"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18162"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18150",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18150",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    187874,
+    18330,
+    758
+  ],
+  "class_list": [
+    "post-18150",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-direitos-humanos",
+    "category-institucional",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O avanço implacável das inteligências artificiais vem chamando atenção gradualmente.</em></p><p>Nas redes sociais, uma nova tendência viralizou após uma atualização do ChatGPT, que passou a oferecer um recurso aprimorado de criação de imagens. A funcionalidade permite que os usuários transformem suas próprias fotografias em estilos visuais específicos, conforme sua preferência. Dentre as opções mais solicitadas, destacou-se o estilo inspirado nas animações do Studio Ghibli, cuja demanda provocou debates e controvérsias na esfera digital.</p><p>As controvérsias envolvendo o uso de inteligências artificiais no campo artístico não são recentes. Segundo a American Federation of Television and Radio Artists (SAG-AFTRA), em maio de 2023, ocorreu uma greve dos roteiristas em Hollywood, impulsionada justamente pela crescente adoção dessas tecnologias no setor audiovisual. A principal preocupação era a substituição de profissionais por IA, o que motivou a paralisação.</p><p>Em 2025, um novo debate incendiou na internet, com pessoas ao redor do mundo convertendo fotos para o estilo do Studio Ghibli. A situação deixou artistas apreensivos, já que clientes passaram a gerar imagens por meio de inteligência artificial. Com isso, os trabalhos correm o risco de perder valor e, mesmo que tenham traços autorais, essas características podem ser aprendidas por inteligências artificiais.</p><p>Gustavo Monteiro, tatuador e pintor, desabafou sobre a situação abordando a trivialização da arte. “Me sinto triste com o rumo que as coisas estão tomando. Entendo que hoje, o que chamamos de “estilo” não é protegido por direitos autorais, mas o que está sendo feito é o que vemos acontecendo em todas as áreas há tempos. A arte tem o poder de instruir, mover as pessoas, então quanto mais burra, e esvaziada de significado e propósito ela for, melhor para manter as pessoas na ignorância. Acho que nos falta educação para entender a importância da arte, e pra entender que nesse jogo todos nós vamos perder para os mesmos três ou quatro bilionários ganharem ainda mais”, comenta Gustavo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/04/whatsapp-image-2025-04-10-at-14.05.18-1.jpeg?resize=1066%2C1600&amp;ssl=1\" alt=\"\" width=\"1066\" height=\"1600\" /><figcaption>“Acho que nos falta educação para entender a importância da arte”. <br>Reprodução – Arquivo Pessoal</figcaption></figure><p>Rogério Renzetti, advogado e professor, contextualiza se às inteligências artificiais copiando o estilo de arte alheio seria considerado furto, Rogério responde que é uma zona delicada de debate, a questão da IA “copiar” estilos de artistas envolve nuances técnicas, legais e éticas. A ferramenta não estaria copiando uma obra específica, mas sim reproduzindo padrões aprendidos a partir de muitos exemplos durante o treinamento. Não há um arquivo sendo clonado, e sim um novo conteúdo sendo criado com base em padrões estatísticos.</p><p>“Se isso é ou não “roubo”, entra numa zona cinzenta. Do ponto de vista legal, estilos artísticos — ao contrário de obras específicas — geralmente não são protegidos por direitos autorais, o que dificulta a aplicação de qualquer medida judicial. Porém, do ponto de vista ético e moral, muitos argumentam que isso desvaloriza o trabalho criativo dos artistas, principalmente quando seus estilos são replicados sem consentimento ou reconhecimento”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/04/whatsapp-image-2025-04-10-at-18.03.32.jpeg?resize=1066%2C1600&amp;ssl=1\" alt=\"\" width=\"1066\" height=\"1600\" /><figcaption>“A IA não precisa ser inimiga da arte, mas deve ser usada com responsabilidade”. <br>Reprodução – Arquivo Pessoal</figcaption></figure><p>Para o professor de Filosofia Luis Filipe Bantim de Assumpção, o fenômeno revela uma tendência à banalização típica da natureza humana. Segundo ele, a questão não é propriamente uma desumanização provocada pela tecnologia, mas sim uma escolha cultural de esvaziar o sentido artístico original em nome da replicação facilitada. “Ao invés de valorizar a singularidade do Studio Ghibli, as pessoas preferem desvalorizar esse tipo de arte para tê-la em casa a qualquer momento. Afinal, quantas conseguirão que a própria equipe de Hayao Miyazaki produza uma réplica sua?”, questiona. Para o docente, o problema não está na inteligência artificial em si, mas no modo como ela tem sido utilizada. “A banalização promovida por muitos usuários impede o aproveitamento do verdadeiro potencial criativo dessas ferramentas.”<br></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/04/a0878c73-6f4b-4f18-a390-88957839a882-e1744731201701.jpg?resize=1150%2C1056&amp;ssl=1\" alt=\"\" width=\"1150\" height=\"1056\" /><figcaption>“Pra mim, não é uma questão de desumanização, e sim um excesso de banalização típica do ser humano”. <br>Reprodução – Arquivo Pessoal</figcaption></figure><p>Gustavo aborda sobre o medo de muitos criadores de serem substituídos pelas novas tecnologias, ressaltando a importância dos artistas para a própria IA.</p><p>“Não acredito que as IAs vão substituir os artistas. Primeiro, porque falta a IA os traços que nos tornam humanos. Sistemas podem simular tudo exceto as vivências humanas e a arte tem suas raízes fincadas nessas experiências que só nós experimentamos e traduzimos em arte. São essas vivências que fazem com que muitos se conectem com a arte de uma maneira muito mais profunda. Segundo porque as IAs se alimentam do trabalho dos artistas e precisam deles para continuar aprendendo e evoluindo. Sem novos artistas as IAs teriam que se alimentar de suas próprias produções, o que, a meu ver, tornaria seus resultados ainda mais pobres”.</p><p>O advogado Rogério ressalta que há caminhos legais e estratégicos para que artistas se protejam do uso indevido de seus estilos por inteligências artificiais generativas. Segundo ele, uma das primeiras medidas é tornar pública a autoria e as características do próprio estilo. Além disso, recomenda o uso de marcas d’água e metadados que sinalizem a proibição de utilização por sistemas automatizados. “É importante adotar restrições de uso já na publicação online, utilizando ferramentas que informem a impossibilidade de uso por IA”, orienta. Rogério também destaca a importância de ações coletivas e da regulamentação do setor: “Participar de movimentos que pressionem por mecanismos de exclusão (‘opt-out’) nos bancos de dados de treinamento é fundamental”. Por fim, menciona iniciativas emergentes de plataformas de licenciamento visual. “Estão surgindo projetos semelhantes a um ‘Spotify dos estilos visuais’, permitindo que os artistas licenciem suas criações de forma justa e transparente”, explica.</p><p>O professor Luis também afirma que a inteligência artificial seria vítima da demanda de mercado. “Vou dar um exemplo meu: eu preciso criar capas pros livros que eu organizo, e pedi pra artista maravilhoso. Ele me cobrou 500 reais só pela capa fora contracapa, nível manual. Depois tenho que digitalizar, vetorizar… só isso ficaria 800 a 1000 reais, mas conheci um cara que faz uma capa através de IA por 100. Ao meu ver, a IA é vítima do processo que a demanda de mercado exige. O problema todo é a demanda de mercado, é mais a banalização da arte”.</p><p>Gustavo aborda a lógica do capital, declarando que, por meio da IA, a roda econômica deixa de girar como deveria. Pelo modo habitual, o dinheiro é distribuído em uma teia de pessoas colaborando em diversos serviços.</p><p>“Me parece lógico que as pessoas vão optar pela IA e aí a grana não circula, ela vai direto pro dono da ferramenta. Hoje, se eu vendo uma pintura minha ou uma tatuagem, esse valor não vem só para o meu bolso, tem mais algumas pessoas que recebem parte disso, como o cara que me vende material, o dono do estúdio onde tatuo, ou seja, a grana não é só minha, ela é dividida, ela circula e ao desvalorizar meu trabalho, existe um entorno que também paga essa conta, entende? Agora imagine o cenário em que alguém possa gerar arte parecida com a minha pagando muito menos, com apenas duas linhas de texto em uma IA? A gente precisa refletir, queremos mesmo um mundo em que a arte seja gerada por dois ou três players”.</p><p>Os entrevistados informam não terem problemas com as IAs como ferramenta.</p><p>“Não sou contra a IA nem qualquer outra forma de tecnologia, mas acredito que elas deveriam ser regulamentadas para evitar que ultrapassem limites éticos. Também para impedir que se acentuam as já enormes desigualdades sociais (sobretudo no Brasil) e para garantir que a tecnologia seja usada para gerar bem-estar social a todos — e não lucro para poucos”, afirma Gustavo.</p><p>“Eu, particularmente, posso parecer um pouco cético em relação à situação, mas para mim ela é uma ferramenta. Não é uma questão de ser bom ou ruim. O maior problema, a meu ver, não reside na capacidade que a IA tem para criar reproduções ou tentar copiar, mas na forma que elas são usadas para simplificar processos e banalizar representações de mundo”, explica Luis.</p><p>Rogério, comenta um futuro onde a arte e as IAs trabalham juntas. “Por fim, a questão que se impõe é: queremos um futuro em que a criatividade seja automatizada ou colaborativa? A IA não precisa ser inimiga da arte, mas deve ser usada com responsabilidade, transparência e, sempre que possível, com o consentimento do criador original”.</p><p><em>Gabriel Veras – 2° período</em></p></main>"
+  },
+  "date": "2025-04-14T16:40:42",
+  "date_gmt": "2025-04-14T19:40:42",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O avanço implacável das inteligências artificiais vem chamando atenção gradualmente.&nbsp; Nas redes sociais, uma nova tendência viralizou após uma atualização do ChatGPT, que passou a oferecer um recurso aprimorado de criação de imagens. A funcionalidade permite que os usuários transformem suas próprias fotografias em estilos visuais específicos, conforme sua preferência. Dentre as opções mais solicitadas, [&hellip;]</p>\n"
+  },
+  "featured_media": 18162,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18150"
+  },
+  "id": 18150,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/04/chatgpt-image-11-de-abr.-de-2025-14_58_35-1.png?fit=1024%2C1024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4IK",
+  "link": "https://agenciauvabarra.com/2025/04/14/artistas-vs-ia-desafio-das-novas-tecnologias-e-o-futuro-da-arte/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-04-15T12:35:30",
+  "modified_gmt": "2025-04-15T15:35:30",
+  "ping_status": "open",
+  "slug": "artistas-vs-ia-desafio-das-novas-tecnologias-e-o-futuro-da-arte",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Artistas vs  IA o desafio das novas tecnologias e o futuro da arte"
+  },
+  "type": "post"
+}

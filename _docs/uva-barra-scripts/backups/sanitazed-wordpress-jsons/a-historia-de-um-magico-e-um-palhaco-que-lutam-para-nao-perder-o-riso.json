@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9575/revisions/9585",
+        "id": 9585
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9575"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9575",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9575/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9575"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9582"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9575",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9575",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    1899315,
+    2367,
+    7114
+  ],
+  "class_list": [
+    "post-9575",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-coronavirus",
+    "category-cultura",
+    "category-sociedade",
+    "tag-circo",
+    "tag-entretenimento"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Famílias circenses acreditam no poder transformador do sorriso em momentos difíceis</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/1.jpeg?resize=1280%2C853&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"853\"><figcaption>Apesar das dificuldades que passou, Batata conta que resiliência é a palavra que define sua vida. Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/2.jpeg?resize=1280%2C853&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"853\"><figcaption>\"Eu sinto falta de fazer rir. Resisto para permanecer fazendo as pessoas sorrirem\", conta Batata. Foto: Arquivo Pessoal</figcaption></figure><p>A lona está no chão desde março de 2020. A pandemia afastou o público do circo e os artistas circenses precisaram se reinventar durante um ano de trabalho perdido. Em meio a crise agravada pelo coronavírus, o que resta é manter a esperança de botar novamente o sorriso no rosto das famílias que antes os aplaudiram.</p><p>A realidade é dura. Centenas de artistas envolvidos na rotina circense estão sem sustento desde o início da pandemia. Por conta disso, trocar o palco por venda de maçãs do amor foi necessário para a família Klenquen, que viu seus dias de risadas e trapalhadas virarem de cabeça para baixo.</p><p>Apesar das dificuldades, Moisés Klenquen, que trabalhava como mágico no Circo, conta, que se aventurou a exercer a arte meio virtual. \"Eu tentei por duas vezes fazer uma apresentação, vender ingressos de forma online, não tive visibilidade. E depois tentei arrecadar dinheiro com uma vaquinha online, mas não consegui juntar o suficiente. Apesar disso, ainda tenho esperança de conseguir apresentar novamente de forma virtual\".</p><p>A situação não foi diferente para Cléber Darony, que interpreta o palhaço Batata há 21 anos. Desde o início da pandemia, ele se manteve financeiramente com a ajuda de simpatizantes do circo e parte com o auxílio emergencial. Atualmente, Batata trabalha como vendedor e conta que espera que a vacinação ajude no processo de volta. \"Eu não quero nem pensar na possibilidade dessa pandemia se estender por mais tempo, acredito que a vacinação vai ajudar tudo a voltar ao normal\". E acrescenta contando que apesar de ter tentando fazer rir virtualmente, nada substitui o presencial.</p><blockquote>\"Apesar de ter tentando trazer o Circo para o meio virtual, nada substitui a presença do público tanto emocionalmente quanto financeiramente. Eu preciso dos sorrisos, dos aplausos, do calor\"<cite>Cléber Darony</cite></blockquote><p>Apesar das adversidades, a motivação por fazer rir é o combustível para a família Klenquen. \"Isso é o que me deixa mais forte, ver as pessoas sorrindo e prestigiando o Circo. Eu saí de casa para poder mudar o mundo com o riso, passei por muita coisa e não pretendo desistir de tudo agora. Ainda quero sentir o frio na barriga de ver a lona subir mais vezes\".</p><p></p><p><em>Natália Lisboa – 6º período</em></p></main>"
+  },
+  "date": "2021-06-11T19:23:09",
+  "date_gmt": "2021-06-11T22:23:09",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A lona está no chão desde março de 2020. A pandemia afastou o público do circo e os artistas circenses precisaram se reinventar durante um ano de trabalho perdido. </p>\n"
+  },
+  "featured_media": 9582,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9575"
+  },
+  "id": 9575,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/capa-site-agencia-1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2ur",
+  "link": "https://agenciauvabarra.com/2021/06/11/a-historia-de-um-magico-e-um-palhaco-que-lutam-para-nao-perder-o-riso/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-06-11T20:05:14",
+  "modified_gmt": "2021-06-11T23:05:14",
+  "ping_status": "open",
+  "slug": "a-historia-de-um-magico-e-um-palhaco-que-lutam-para-nao-perder-o-riso",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    21460,
+    767056615
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A história de um mágico e um palhaço que lutam para não perder o riso"
+  },
+  "type": "post"
+}

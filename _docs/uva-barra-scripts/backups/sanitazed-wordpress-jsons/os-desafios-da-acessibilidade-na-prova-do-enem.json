@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13409/revisions/13426",
+        "id": 13426
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13409"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13409",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13409/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13409"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13421"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13409",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13409",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    632602,
+    17964,
+    7114
+  ],
+  "class_list": [
+    "post-13409",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-diversidade",
+    "category-educacao",
+    "category-sociedade",
+    "tag-acessibilidade",
+    "tag-agencia-uva-barra",
+    "tag-desafios",
+    "tag-enem"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os candidatos com deficiência possuem direitos assegurados para realizar a avaliação</em></p><figure><img src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1376786410&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' alt='' width='500' height='400' title='Reportagem acessibilidade ENEM por áudio by Agência UVA Barra' allowfullscreen/><figcaption>Reportagem acessibilidade ENEM por áudio</figcaption></figure><p>O exame nacional do ensino médio é oferecido anualmente para que os estudantes tenham a oportunidade de ingressar na universidade federal ou até mesmo conseguir isenção ou financiamento para uma faculdade privada. A prova é realizada por alunos que estejam cursando o último ano escolar ou já tenham se formado.</p><p>A edição 2022 acontece nos dias 13 e 20 de novembro e oferecerá recursos de acessibilidade como prova em Braille com letra ampliada, guia-intérprete e mobiliário acessível. Essas modificações são voltadas para atender estudantes com baixa visão, cegueira, déficit de atenção, deficiência física, deficiência intelectual, deficiência auditiva, discalculia, dislexia, surdez, surdocegueira, transtorno do espectro autista e visão monocular, além de gestantes e lactantes, por exemplo.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/amanda.jpeg?resize=843%2C1110&#038;ssl=1' alt='' width='843' height='1110' /><figcaption>A pedagoga revela a dificuldade de inserir a acessibilidade no ensino médio (Foto: Arquivo pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/andre.jpeg?resize=309%2C517&#038;ssl=1' alt='' width='309' height='517' /><figcaption>Em 2014 e 2015 André percebeu que algumas modificações técnicas precisavam ser realizadas no exame (Foto: Arquivo pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/anaquiel.jpeg?resize=661%2C788&#038;ssl=1' alt='' width='661' height='788' /><figcaption>Para Anaquiel é preciso clareza ao informar aos alunos os seus direitos de acessibilidade (Foto: Arquivo pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/vitor.jpeg?resize=424%2C1071&#038;ssl=1' alt='' width='424' height='1071' /><figcaption>Vitor considera que as suas necessidades foram atendidas para a realização da prova (Foto: Arquivo pessoal)</figcaption></figure><p>Vitor Barbosa Pinto, estudante de jornalismo, realizou a prova nos anos de 2014 e 2016. O jovem que possui deficiência visual explica que cursou o ensino médio em uma instituição particular e que participava das aulas como ouvinte. Ele que utiliza uma máquina de escrever em Braille conta que tentou levar o aparelho para a escola mas por ser barulhenta acabou desistindo de utilizá-la em sala. Já na prova do Enem revela que teve à sua disposição profissionais ledores e transcritores, ou seja, que leram a prova e preencheram o cartão resposta e também as questões discursivas e ainda uma hora a mais para concluir as questões. Tive todos os mecanismos que eu precisei, declara Vitor.</p><p>André Torres, auxiliar administrativo, realizou o exame nos anos de 2014 e 2015 na época precisou conciliar os estudos com o trabalho. Por ter paralisia cerebral revela que conseguiu finalizar a prova com o acréscimo de duas horas para a conclusão das questões.</p><p>O jovem pontua algumas adaptações que deveriam ser aplicadas. Faltou a prova ter uma diagramação para pessoas com dislexia, um espaçamento maior entre as linhas e com fonte das letras maiores, declara.</p><p>Anaquiel Bazilio de Jesus, estudante de publicidade, tentou o Enem entre os anos de 2017 e 2019. Ela que tem dislexia só conseguiu o laudo em 2018 mas o MEC acabou não aceitando sem explicação prévia e a jovem precisou realizar o exame sem os auxílios que o distúrbio de aprendizagem legalmente a assegurava.</p><p>Outro cenário em 2019. A jovem realizou a prova novamente e solicitou alguns recursos de acessibilidade. Eu pedi uma hora a mais, sala vazia e correção especial, declara Anaquiel. Desses três recursos, ela só não conseguiu o acréscimo de tempo para a conclusão das questões.</p><p>Em 2020 acabou conquistando a graduação e hoje faz parte do comitê estudantil da sua universidade (espaço que busca auxiliar os discentes nas questões acadêmicas).</p><p>Anaquiel fala sobre a atenção aos alunos com deficiência</p><figure><img src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1374611308&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500&#038;secret_token=s-HffiaOBTpY5' alt='' width='500' height='400' title='Anaquiel fala sobre a atenção aos alunos com deficiência by Agência UVA Barra' allowfullscreen/><figcaption></figcaption></figure><p>Os alunos precisam encarar seus primeiros desafios ainda em sala de aula. A Pedagoga Amanda Malafaia, explica que ainda existe muita dificuldade em encontrar professores que realizem a adaptação de materiais para alunos do ensino médio. A falta de tempo e as necessidades distintas entre os adolescentes são as alegações dos profissionais de educação, sendo raras as exceções. Ela enfatiza a relevância da mediação escolar na rotina do aluno. A mediadora e a família devem bater o pé e lutar pelos direitos na escola. Só assim para acontecer as provas adaptadas, declara Amanda.</p><p>A pedagoga fala sobre a necessidade de ter acessibilidade no ensino médio</p><figure><img src='https://www.youtube.com/embed/SXhgJ7eLwJE?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' alt='' width='640' height='360' title='' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox' /><figcaption></figcaption></figure><p>A acessibilidade não é algo que precisa estar presente apenas nos dias da aplicação da prova do Enem. Mas é necessário que se estimule a produção de conteúdos adaptados durante os três anos do ensino médio. Dessa forma o aluno estará familiarizado com as mudanças oferecidas no exame.</p><p>Gabriela Machado – 5° período</p><p>Foto de capa tirada por Ana Luísa Santos</p></main>"
+  },
+  "date": "2022-11-04T00:00:03",
+  "date_gmt": "2022-11-04T03:00:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O exame nacional do ensino médio  é oferecido  anualmente para que os estudantes tenham a oportunidade de ingressar na universidade federal ou até mesmo conseguir isenção ou financiamento  para uma faculdade privada. A prova é realizada por alunos que estejam cursando o último ano escolar ou já tenham se formado.</p>\n"
+  },
+  "featured_media": 13421,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13409"
+  },
+  "id": 13409,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/capa-1.jpeg?fit=595%2C736&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3uh",
+  "link": "https://agenciauvabarra.com/2022/11/04/os-desafios-da-acessibilidade-na-prova-do-enem/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-11-05T00:09:49",
+  "modified_gmt": "2022-11-05T03:09:49",
+  "ping_status": "open",
+  "slug": "os-desafios-da-acessibilidade-na-prova-do-enem",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    99261,
+    648221465,
+    158393,
+    496222
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Os desafios da acessibilidade na prova do ENEM"
+  },
+  "type": "post"
+}

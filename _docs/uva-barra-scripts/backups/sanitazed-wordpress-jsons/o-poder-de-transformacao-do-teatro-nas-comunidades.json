@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13348/revisions/13368",
+        "id": 13368
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13348"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13348",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13348/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13348"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13363"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13348",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13348",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    23208,
+    7114,
+    2432
+  ],
+  "class_list": [
+    "post-13348",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-entretenimento",
+    "category-sociedade",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-arte",
+    "tag-comunidades",
+    "tag-cultura",
+    "tag-teatro",
+    "tag-transformacao",
+    "tag-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A arte e a cultura dentro das favelas como agente transformador</em></p><p>A arte está em tudo e em todo lugar. Para muitos, é considerada como um conforto, paixão e uma ponte para o desenvolvimento pessoal e crítico sobre o mundo. Mesmo que ainda distante da realidade de muitos moradores das favelas do Rio de Janeiro, há de se reconhecer certo avanço na aproximação do jovem da periferia a esses espaços que cultuam o teatro e todos os demais tipos de arte. Discutir a arte já existente nas favelas é entender de que forma a mesma é capaz de tocar e transformar a vida de quem permite recebê-la.</p><p>Como sempre defendeu Augusto Boal, dramaturgo e diretor carioca que se tornou um dos maiores nomes do teatro no Brasil e internacionalmente, o teatro é um lugar para todos. Seja na plateia ou em cima dos palcos, o “fazer teatro” toma o papel de uma política que deve ser respeitada como um direito de qualquer cidadão, principalmente o periférico. O morador das favelas e comunidades da cidade constantemente encontra dificuldades em pertencer aos espaços responsáveis por oferecer a aproximação com a linguagem teatral e a arte num aspecto geral.</p><p>Graças ao pioneirismo de grupos teatrais comunitários, como o “Nós do Morro”, que há mais de 30 anos vêm despertando o interesse e proporcionando acesso à arte e cultura aos moradores do Morro do Vidigal, esse cenário aos poucos se modifica. A grandiosa ajuda das ações afirmativas que promovem a inclusão socioeconômica e a igualdade de acesso à oportunidades, também merecem o crédito. Levar o teatro até as comunidades vem sendo o trabalho de vida de muitos profissionais da arte que acreditam e vivem da mesma filosofia.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/marina-1.jpeg?resize=925%2C1280&amp;ssl=1\" alt=\"\" width=\"925\" height=\"1280\"><figcaption>Marina enxergou o programa de extensão da UNIRIO como uma oportunidade de continuar o trabalho social que já produzia nas favelas. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/elimara-1.jpeg?resize=1280%2C720&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"720\"><figcaption>Desde muito cedo envolvida com a arte, Elymara também é cantora e pesquisadora. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/rafael-2.jpeg?resize=828%2C817&amp;ssl=1\" alt=\"\" width=\"828\" height=\"817\"><figcaption>Rafael trabalha pautas anti-racistas em aulas de escola municipal do Rio de Janeiro. (Foto: Rafael Peixoto)</figcaption></figure><p>É o caso da professora e Doutora Marina Henriques Coutinho, coordenadora do programa de extensão “Teatro em Comunidades” da Universidade Federal do Estado do Rio de Janeiro — UNIRIO. O programa que nasceu em 2011 visa agir como uma ponte para a prática artística e pedagógica entre os licenciandos da Escola de Teatro da UNIRIO e moradores de comunidades cariocas como a Nova Holanda, no Complexo da Maré, Ramos e também da Penha. Com os encontros totalmente ministrados pelos estudantes de licenciatura em teatro, que acontecem regularmente aos sábados, o “Teatro em Comunidades” e suas parcerias criam uma conexão fundamental e valiosa entre a arte na comunidade e a universidade pública.</p><p>Mesmo antes de se tornar professora, Marina já trabalhava em diversos circuitos de projetos sociais nas favelas do Rio de Janeiro e sempre esteve interessada na relação entre pedagogia, teatro e a juventude nas comunidades. Acredita que o programa de extensão se encaixa perfeitamente no contexto de abertura da universidade para a juventude periférica, ao mesmo tempo que também faz o teatro acessar esses espaços que, por conta da elitização da arte, acabam ficando afastados da realidade nas comunidades. <em>“Entender que o teatro pode ser praticado por todas as pessoas, é algo fundamental do nosso trabalho. Todo mundo pode fazer teatro, não só os atores”</em>, comenta a docente.</p><p>Em quase 3 décadas trabalhando com jovens nas comunidades do Rio, Marina pensa que o resultado de todo o trabalho é uma verdadeira troca de conhecimento, um verdadeiro aprendizado vindo de todos os envolvidos. Lembra também da importância de quebrar o estigma que a favela recebe — que mantém a mesma sob uma redoma de perigo e violência — e estabelece-la como uma verdadeira potência de produção positiva: <em>“Tudo de melhor que representa a cultura carioca, surgiu nas favelas. Há arte sendo produzida nesses espaços e temos diversos espaços, grupos e organizações que são exemplos disso”.</em><br><strong>Marina Henriques Coutinho comenta sobre o poder de transformação do teatro sobre as pessoas:</strong></p><p></p><figure><div class=\"embed-soundcloud\"><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1370678476&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" title=\"Marina Henriques Coutinho comenta sobre o poder de transformação do teatro sobre as pessoas by Agência UVA Barra\" width=\"500\" height=\"400\" allow=\"autoplay\"></iframe></div></figure><p>Elymara Cardoso foi aluna do programa “Teatro em Comunidades” e hoje é licenciada como professora em atuação cênica pela UNIRIO. A atriz considera o programa como uma grande porta para diversas possibilidades e, visto a experiência como aluna e professora no projeto, hoje entende como o mesmo é capaz de influenciar e participar da formação do indivíduo na sociedade: <em>“Ainda como aluna, eu pude aprofundar o meu pensamento crítico a respeito de muitos temas…o programa me impulsionou a ir além nos estudos, até que acabei ingressando na universidade.”</em></p><p><em>“Eu, enquanto mulher preta, tenho resistido. Como educadora e artista, tenho resistido. E as turmas de teatro nas comunidades, têm resistido.”<br></em><strong><em>&#8211; Elymara Cardoso</em></strong><br><br>O teatro comunitário tem um papel indispensável na valorização das narrativas e na afetuosidade para com os moradores das favelas do Rio de Janeiro. Elymara acredita no poder do teatro como um verdadeiro agente transformador, que cria um leque de oportunidades e esperança por onde passa. <em>“O teatro nos faz enxergar novos horizontes”</em>, diz a atriz.<br><br>Rafael Peixoto também trabalha como ator e professor de teatro do município do Rio de Janeiro. É dono da companhia Milton Gonçalves, que nada mais é do que a formalização do trabalho antiracista que o professor sempre reproduziu nas aulas ministradas por ele na Escola Municipal Rodrigo Otávio, na Ilha do Governador. O professor acredita que muitos dos seus alunos não têm acesso à básicos aparelhos de cultura e tenta reverter isso com as propostas da companhia durante as aulas: <em>“Trabalhar com essa arte dentro da escola é fazer com que eles, não só se tornem espectadores, como também experimentem e tenham uma vivência teatral”</em>, explica Rafael.</p><p><em><strong>“A arte dá a oportunidade para o aluno entender que é possível sonhar”<br></strong></em><br><em><strong>&#8211; Rafael Peixoto</strong></em></p><p>O teatro é uma arte universal que consegue oferecer a representação de reflexões capazes de transformar a vida de todos que o receberem de braços abertos. É fundamental seguir com a luta para o acesso à arte e cultura nas comunidades e combater o preconceito que a mesma recebe de uma sociedade que escolhe por estigmatizá-la tão negativamente. A arte é o verdadeiro conforto e a gota de esperança para várias pessoas que se encontram presas a uma realidade que muitas vezes não encontra dificuldade alguma em ser cruel.</p><p><em>Bruno Barros &#8211; 2° período</em></p><p><em>Foto de capa tirada do site Teatro em Comunidades </em></p></main>"
+  },
+  "date": "2022-10-29T15:18:21",
+  "date_gmt": "2022-10-29T18:18:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A arte está em tudo e em todo lugar. Para muitos, é considerada como um conforto, paixão e uma ponte para o desenvolvimento pessoal e crítico sobre o mundo. Mesmo que ainda distante da realidade de muitos moradores das favelas do Rio de Janeiro, há de se reconhecer certo avanço na aproximação do jovem da periferia a esses espaços que cultuam o teatro e todos os demais tipos de arte. Discutir a arte já existente nas favelas é entender de que forma a mesma é capaz de tocar e transformar a vida de quem permite recebê-la. </p>\n"
+  },
+  "featured_media": 13363,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13348"
+  },
+  "id": 13348,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/capa.jpeg?fit=960%2C584&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3ti",
+  "link": "https://agenciauvabarra.com/2022/10/29/o-poder-de-transformacao-do-teatro-nas-comunidades/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-29T16:15:25",
+  "modified_gmt": "2022-10-29T19:15:25",
+  "ping_status": "open",
+  "slug": "o-poder-de-transformacao-do-teatro-nas-comunidades",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    3468,
+    73731,
+    767056597,
+    767056600,
+    631864,
+    17523
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O poder de transformação do teatro nas comunidades"
+  },
+  "type": "post"
+}

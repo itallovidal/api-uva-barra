@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1860/revisions/3147",
+        "id": 3147
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1860"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1860",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1860/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1860"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1860",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1860",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    774
+  ],
+  "class_list": [
+    "post-1860",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-musica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Cidade das Artes abre espaço para shows, inovação e criatividade</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/04/41292113462_5ae92beafd_o.jpg?resize=4896%2C3264&#038;ssl=1' alt='41292113462_5ae92beafd_o.jpg' width='4896' height='3264' /><figcaption>Créditos: ROGERIO RESENDE/R2</figcaption></figure><p>Rock, MPB, samba, jazz, funk, rap, hip hop. A música está presente no cotidiano da sociedade com diversos ritmos. Um movimento que consegue unir todas as tribos com um equilibro de sons e silêncios, como uma forma de expressão de um povo. O Rio2C, maior evento de inovação e criatividade da América Latina, aderiu esse tópico na programação. A conferência foi entre os dias 3 e 6 de abril, com palestras sobre marketing, audiovisual e debates sobre universo musical. Já o fim de semana contou com o Festivália, que reuniu vários cantores no palco da Cidade das Artes.</p><p>Essa interação musical foi ideia do organizador Rafael Lazarini, que participa do Rio2C há 7 anos, com o intuito de mudar e expandir o público alvo. “Eu queria renovar a cara do evento, queria que fosse algo gigante. A maior mudança foi a área musical com festivais e debates”, comenta. Ele ainda enfatiza que o tempo de produção foi o desafio desta edição. Uma vez que as programações foram reajustadas, em um período de sete meses, para atingir novos grupos.</p><p>Dentro dessas novas mudanças, o cronograma foi criado com o objetivo de ensinar e debater os novos modelos de monetização, as plataformas promocionais e as estratégias de lançamento. Uma maneira de ampliar o cenário da música contemporânea para os executivos, empresários e artistas. O Zé Ricardo foi o escolhido para ser o curador dessa área, chamado pela grande experiência musical. “É a primeira vez que a indústria musical tem um ambiente diferente para essa troca de ideia entre os profissionais”, avalia.</p><p>O espaço para o debate que envolve criações musicais, entretanto, não é exclusivo para esse determinado público. O intérprete de inglês e espanhol Ivan Gouveia, responsável pela tradução das línguas estrangeiras durante as Conferências, aproveitou os últimos dias para curtir o Festivália com os shows das cantoras Tulipa Ruiz e As Bahias e a Cozinha Mineira. “Está sendo bastante atrativo com diversas atividades interativas e dando oportunidade para os talentos musicais que estão surgindo”, acrescenta.</p><p>Outros artistas também fizeram parte do repertório entre sábado e domingo. Uma delas é a rapper curitibana Karol Conka que cantou algumas músicas do primeiro álbum dela. Para Zé Ricardo esses festivais são fundamentais porque podem investir na área de turismo do Rio de Janeiro. “ Eventos como esses mexem diretamente com a economia criativa em geral”. Já para o próximo ano o intuito é triplicar as produções e estimular os artistas novatos. “ É um projeto que ainda precisa ser melhorado, ser construído, mas já estou apaixonado por essas novas possibilidades. ”, conclui.</p><p>Giovanna Faria, 6° período e Isabelle Amancio, 5° período.</p></main>"
+  },
+  "date": "2018-04-10T21:07:38",
+  "date_gmt": "2018-04-11T00:07:38",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Cidade das Artes abre espaço para shows, inovação e criatividade</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1860"
+  },
+  "id": 1860,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-u0",
+  "link": "https://agenciauvabarra.com/2018/04/10/invasao-musical/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:22:33",
+  "modified_gmt": "2019-01-31T15:22:33",
+  "ping_status": "open",
+  "slug": "invasao-musical",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Invasão musical"
+  },
+  "type": "post"
+}

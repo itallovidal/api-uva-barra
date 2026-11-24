@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19487/revisions/19492",
+        "id": 19492
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19487"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19487",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19487/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19487"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19490"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19487",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19487",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    670411728
+  ],
+  "class_list": [
+    "post-19487",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O Exame Nacional de Desempenho dos Estudantes (ENADE) é uma das principais formas de avaliação da educação superior no Brasil. Mais do que uma exigência obrigatória para concluintes de cursos de graduação, o exame é uma oportunidade para que os estudantes demonstrem o conhecimento adquirido ao longo da formação e contribuam para o aprimoramento da qualidade do ensino no país.</p><p>O novo episódio do podcast “Dez Minutos Sobre” traz o tema “Como se preparar para o ENADE”. O programa recebeu o professor Álvaro Machado, que compartilhou dicas práticas e estratégias eficazes para organizar os estudos, lidar com a ansiedade e garantir um bom desempenho no exame.</p><p>Durante o bate-papo, o docente destacou a importância do exame para a formação acadêmica e profissional dos estudantes, e compartilhou orientações práticas para alcançar um bom desempenho na prova.</p><p>Segundo o professor, a preparação deve começar pela familiarização com o formato do exame. O episódio também abordou os erros mais comuns cometidos pelos estudantes, como deixar questões em branco, não revisar o cartão de respostas e se alongar demais nas discursivas. Álvaro ressaltou ainda a importância de responder com objetividade, organizar o raciocínio e evitar fugir do tema proposto.</p><p>O episódio é uma escuta essencial para estudantes que desejam encarar o ENADE com tranquilidade e alcançar bons resultados.</p><figure><iframe title=\"Spotify Embed: Dez Minutos Sobre: Como se preparar para o ENADE?\" width=\"624\" height=\"351\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/0AUteLgayzTbUfyBTBZIRU/video?si=aOY5NLE6QQWh-qb-ZSS7Ng&#038;utm_source=oembed\"></iframe></figure><p>Apresentação do Podcast:</p><p>Carolina Alves – 4º período de Jornalismo</p><p>Equipe Agência UVA Barra:</p><p>Carolina Alves – 4º período de Jornalismo</p><p>Duda Nicolich – 2º período de Jornalismo</p><p>Roteiro: Carolina Alves – 4º período de Jornalismo</p><p>Edição do Podcast: Allan Pangaio – 4º período de Cinema</p><p>Coordenação da Rádio UVA Barra: Professor Anderson Barreto</p><p>Coordenação da Agência UVA Barra: Professora Renata Feital </p><p>Coordenação do Curso de Jornalismo da UVA Barra: Professora Renata Feital</p></main>"
+  },
+  "date": "2025-11-11T14:32:58",
+  "date_gmt": "2025-11-11T17:32:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O episódio é uma escuta essencial para estudantes que desejam encarar o ENADE com tranquilidade e alcançar bons resultados.</p>\n"
+  },
+  "featured_media": 19490,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19487"
+  },
+  "id": 19487,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/11/5576d2c6-a5f9-4e6e-b9f9-ca71081301e8.jpeg?fit=1170%2C1168&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-54j",
+  "link": "https://agenciauvabarra.com/2025/11/11/podcast-dez-minutos-sobre-explica-como-se-preparar-para-o-enade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-11-11T17:58:19",
+  "modified_gmt": "2025-11-11T20:58:19",
+  "ping_status": "open",
+  "slug": "podcast-dez-minutos-sobre-explica-como-se-preparar-para-o-enade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: “Dez Minutos Sobre” explica como se preparar para o ENADE"
+  },
+  "type": "post"
+}

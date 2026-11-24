@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9597/revisions/9617",
+        "id": 9617
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9597"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9597",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9597/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9597"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9609"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9597",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9597",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    72064,
+    7114,
+    268277
+  ],
+  "class_list": [
+    "post-9597",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-saude",
+    "category-sociedade",
+    "category-solidariedade",
+    "tag-dia-mundial-do-doador-de-sangue",
+    "tag-junho-vermelho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Ações incentivam a doação e o aumento dos estoques nos bancos de sangue</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/karl-landsteiner-1.jpg?resize=800%2C618&#038;ssl=1' alt='Karl Landsteiner ganhou o prêmio Nobel de medicina em 1930 pela obra do sistema de grupos sanguíneos “ABO”' width='800' height='618' /><figcaption>Karl Landsteiner ganhou o prêmio Nobel de medicina em 1930 pela obra do sistema de grupos sanguíneos “ABO” (Foto: Reprodução Internet)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/sandro.jpeg?resize=701%2C718&#038;ssl=1' alt='Sandro valoriza cada vez mais o ato da doação de sangue' width='701' height='718' /><figcaption>Sandro valoriza cada vez mais o ato da doação de sangue (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/monyque-1.jpeg?resize=967%2C1127&#038;ssl=1' alt='De acordo com a professora Monyque, os enfermeiros são educadores em saúde e a doação de sangue faz parte da responsabilidade social da profissão' width='967' height='1127' /><figcaption>De acordo com a professora Monyque, os enfermeiros são educadores em saúde e a doação de sangue faz parte da responsabilidade social da profissão (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/andressa.jpeg?resize=720%2C1280&#038;ssl=1' alt='Andressa revelou um sentimento de alívio no momento em que recebeu a doação de sangue' width='720' height='1280' /><figcaption>Andressa revelou um sentimento de alívio no momento em que recebeu a doação de sangue (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/lara.jpeg?resize=768%2C1024&#038;ssl=1' alt='Lara espera que com “junho vermelho” haja um despertar para a importância das doações' width='768' height='1024' /><figcaption>Lara espera que com “junho vermelho” haja um despertar para a importância das doações (Foto: Arquivo Pessoal)</figcaption></figure><p>14 de junho é o dia mundial do doador de sangue. A data foi instituída em 2005 pela Assembleia Mundial da Saúde como homenagem ao nascimento de Karl Landsteiner (1868-1943), médico e cientista. Por meio das descobertas de Karl acerca dos tipos sanguíneos, hoje é possível transformar vidas diariamente através das doações de sangue.</p><p>Conhecido como junho vermelho, o mês é um alerta para esse ato de solidariedade que salva vidas. O jornalista Sandro Miranda tem esse compromisso humano e mantém a média de doar sangue 4 vezes por ano, período máximo que um homem pode doar. “É importante a gente entender que, fazendo a nossa parte, por menor que seja, pode ajudar um pouquinho”, disse o repórter e redator da Editora Globo.</p><blockquote>“Eu vejo como um ato de amor ao próximo. Você não sabe quem está recebendo, assim como você também não sabe se amanhã ou depois poderá precisar. Não custa nada, não toma muito tempo”<cite> Sandro Miranda </cite></blockquote><p>Ouça o áudio em que Sandro Miranda encoraja as pessoas a lembrarem da prática da doação de sangue e relembra a importância de manter os estoques acima da média:</p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1068424858&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><p>O Ministério da Saúde estimou queda de 15% a 20% nas doações de sangue em 2020 no Brasil, por conta da pandemia. Para Monyque Silva, professora de enfermagem da Universidade Veiga de Almeida, o distanciamento social impactou o comportamento das pessoas e muitos passaram a evitar os serviços de saúde. “É importante destacar que os centros contam com protocolos que garantem segurança aos doadores”, afirmou Monyque.</p><p>Na pandemia, pacientes com Covid-19 também precisam de transfusão sanguínea, por isso, alertar a sociedade para o problema da queda das doações é necessário e conscientizador. “O ato, para muitas pessoas, é a garantia da manutenção da vida”, ressaltou Monyque Silva, professora de enfermagem.</p><p>Andressa Campos, 21 anos, é uma delas. A jovem recebeu cinco bolsas de sangue, em 2019, por conta da pneumonia pulmonar. Após a doença ter afetado 50% do pulmão e o sangue apresentar baixa oxigenação, a família de Andressa se mobilizou para ajudar e reverter o quadro positivamente. “Uma bolsa de sangue faz muita diferença na vida da pessoa, às vezes ela só precisa de uma bolsa de sangue para melhorar e ir para casa ver os familiares”, contou a designer de sobrancelhas e maquiadora.</p><blockquote>“Sempre lembro das pessoas se mobilizando para me ajudar quando eu estava muito doente e aquele ato me faz estar muito bem hoje”<cite> Andressa Campos </cite></blockquote><p>Mobilização é o que o Banco de Sangue Serum está fazendo na campanha “Raça, Amor e Sangue”, disponível até 20/06 nas unidades Centro e Barra da Tijuca, em parceria com os torcedores do Flamengo. Os primeiros doadores, que já são cadastrados, irão receber uma camisa personalizada, mas, se o doador não for torcedor do time, pode receber a camisa e dá-la como presente para um familiar ou amigo, o importante é ajudar. “Temos a expectativa de conseguirmos em torno de 250 doações pela campanha”, afirma Lara Santos, da área de captação de doadores.</p><p>A colaboração temática com os times de futebol surgiu quando um membro de uma torcida organizada do Botafogo estava com a mãe hospitalizada e com necessidade de transfusões de sangue. “Após esta ideia fomos derivando aos demais clubes e hoje temos campanhas com os 4 times principais do Rio, pelo menos 2 vezes ao ano”, explicou Lara.</p><p>Por mais que a questão da doação de sangue ainda seja um assunto deixado em escanteio, a esperança está nas pessoas que podem fazer a diferença.</p><p>Lara Santos reforça a importância da doação de sangue no vídeo abaixo:</p><figure><iframe src='https://www.youtube.com/embed/DibA5b-HKNI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo de Lara Santos' allowfullscreen></iframe></figure><p>Para mais informações, acesse: https://www.doesanguedoevida.com.br/banco-de-sangue-serum.</p><p><strong>Requisitos para doar sangue:</strong></p><p>• Apresentar um documento oficial com foto (RG, CNH, etc.) em bom estado de conservação;• Ter idade entre 16 e 69 anos desde que a primeira doação seja realizada até os 60 anos (menores de idade precisam de autorização e presença dos pais no momento da doação);</p><p>• Estar em boas condições de saúde;</p><p>• Pesar no mínimo 50 kg;</p><p>• Não ter feito uso de bebida alcoólica nas últimas 12 horas;</p><p>• Após o almoço ou ingestão de alimentos gordurosos, aguardar 3 horas. Não é necessário estar em jejum;</p><p>• Se fez tatuagem e/ou piercing, aguardar 12 meses. Exceto para região genital e língua (12 meses após a retirada);</p><p>• Se passou por endoscopia ou procedimento endoscópico, aguardar 6 meses;</p><p>• Não ter tido gripe ou resfriado nos últimos 30 dias;</p><p>• Não ter tido Sífilis, Doença de Chagas ou AIDS;</p><p>• Não ter diabetes em uso de insulina;</p><p>• Aguardar 48h para doar, caso tenha tomado a vacina da gripe, desde que não esteja com nenhum sintoma.</p><p>• Consulte a equipe do banco de sangue em casos de hipertensão, uso de medicamentos e cirurgias.</p><p><em>Pedro Amorim – 4° período</em></p><p><em>Pedro Araújo – 3° período</em></p></main>"
+  },
+  "date": "2021-06-14T18:57:00",
+  "date_gmt": "2021-06-14T21:57:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>da Saúde como homenagem ao nascimento de Karl Landsteiner (1868-1943), médico e cientista. Por meio das descobertas de Karl acerca dos tipos sanguíneos, hoje é possível transformar vidas diariamente através das doações de sangue. </p>\n"
+  },
+  "featured_media": 9609,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9597"
+  },
+  "id": 9597,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-de-capa-para-o-site.jpg?fit=760%2C759&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2uN",
+  "link": "https://agenciauvabarra.com/2021/06/14/junho-vermelho-atitudes-que-salvam-vidas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-06-15T10:48:21",
+  "modified_gmt": "2021-06-15T13:48:21",
+  "ping_status": "open",
+  "slug": "junho-vermelho-atitudes-que-salvam-vidas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    58935822,
+    365642890
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Junho Vermelho: atitudes que salvam vidas"
+  },
+  "type": "post"
+}

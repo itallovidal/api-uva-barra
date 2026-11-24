@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14598/revisions/14606",
+        "id": 14606
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14598"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14598",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14598/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14598"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14607"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14598",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14598",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    632602,
+    10889,
+    2366,
+    18330,
+    7114
+  ],
+  "class_list": [
+    "post-14598",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-diversidade",
+    "category-esporte",
+    "category-eventos",
+    "category-institucional",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-copa",
+    "tag-do",
+    "tag-feminino",
+    "tag-futebol",
+    "tag-igualdade",
+    "tag-mundo"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Cenário do Futebol Feminino pré Copa do Mundo\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/5BH2GwtUBPmLklUBBYZKtS?si=139hQL7BQ-WvGGXRkmpSwQ&#038;utm_source=oembed\"></iframe></div></figure><p>O presidente Luiz Inácio Lula da Silva assinou um decreto que cria a Estratégia Nacional para o Futebol Feminino. </p><p>Essa lei incentiva a criação de projetos dedicados ao futebol feminino, promove o empoderamento da menina e da mulher, o aumento da participação feminina no esporte e auxilia na modernização de instalações esportivas.</p><p>Para falar mais sobre o tema, esse episódio conta com a presença da jornalista Renata Mendonça, a comentarista esportiva Amanda Vieira, a ex-técnica da Seleção Feminina Emily Lima e a gestora de Futebol Feminino do Vasco da Gama, Tatiele Silveira.</p><p><em>Mayara Rocha – 3° período </em><br><em>Leonardo Pereira – 3° período </em></p><p></p></main>"
+  },
+  "date": "2023-05-10T17:43:49",
+  "date_gmt": "2023-05-10T20:43:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Nesse episódio sobre a Copa do Mundo Feminina da Rádio UVA Barra, contamos com a presença da jornalista Renata Mendonça, a comentarista esportiva Amanda Vieira, a ex-técnica da Seleção Feminina Emily Lima e a gestora de Futebol Feminino do Vasco da Gama, Tatiele Silveira.</p>\n"
+  },
+  "featured_media": 14607,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14598"
+  },
+  "id": 14598,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-11-at-16.50.39.jpeg?fit=1126%2C1158&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Ns",
+  "link": "https://agenciauvabarra.com/2023/05/10/podcast-radio-uva-barra-cenario-do-futebol-feminino-pre-copa-do-mundopodcast-radio-uva-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-11T17:18:51",
+  "modified_gmt": "2023-05-11T20:18:51",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-cenario-do-futebol-feminino-pre-copa-do-mundopodcast-radio-uva-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    146277,
+    17211,
+    134966,
+    53870,
+    759177,
+    2534
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Cenário do Futebol Feminino pré Copa do Mundo"
+  },
+  "type": "post"
+}

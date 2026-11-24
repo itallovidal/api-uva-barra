@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1974/revisions/2892",
+        "id": 2892
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1974"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1974",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1974/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1974"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1974",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1974",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    798,
+    7114
+  ],
+  "class_list": [
+    "post-1974",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-politica",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Palestra reúne Marcelo Freixo, William Siri e Yamê Tomé para fomentar o senso crítico na universidade</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/img_0839.jpg?resize=5184%2C3456&amp;ssl=1' alt='IMG_0839' width='5184' height='3456' /><figcaption>Foto: Bruna Barros</figcaption></figure><p>Segurança pública, “Rio do Espetáculo”, genocídio de jovens negros e periféricos, violência contra mulher, farras fiscais, sucateamento policial, desmilitarização da Polícia Militar, morte política de Marielle Franco e o papel do jovem como agente transformador. Estes foram alguns dos temas abordados, nesta última terça-feira, no evento que trouxe a jovialidade de William Siri (PSOL), vereador suplente do Rio de Janeiro; o empoderamento de Yamê Tomé, advogada da OAB Mulher e a força política do Deputado Estadual Marcelo Freixo (PSOL). A palestra, que foi uma realização da Atlética Direito Veiga com a Universidade Veiga de Almeida (UVA), teve as inscrições esgotadas e o auditório lotado com estudantes sentados até mesmo no chão. </p><figure class=\"alignright\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/img_0861.jpg?resize=5184%2C3456&amp;ssl=1' alt='IMG_0861' width='5184' height='3456' /><figcaption>Foto: Ighor Vidal</figcaption></figure><p>E foram os alunos que, de forma atenta e participativa, vibraram até o final com os questionamentos e dados apresentados pelos convidados. “Hoje, no Brasil, os números de jovens vítimas de homicídios são de guerra. É um genocídio. E este genocídio tem cor e todos nós sabemos”, declara Yamê Tomé sobre os números oficiais que denunciam a morte de um jovem negro a cada 23 minutos no país – de acordo com a Comissão Parlamentar de Inquérito do Senado (CPI) sobre assassinato de jovens de 2016. Ela ainda assume o privilégio de ser uma mulher negra e conseguir espaço de fala em lugares diversos, incluindo as universidades. “Sei que sou uma exceção, por isso luto por essa classe. Quero que todos se sintam representados e capazes, para não desistirem, porque nós somos o futuro”. </p><p>Essa reflexão do papel do jovem na sociedade também é deixada por William Siri. Com descontração, linguagem jovem e bem humorada, o morador de Campo Grande e formando em Economia, pontua a falta de inclusão de políticas públicas para a zona Oeste e as dificuldades dos moradores dessa região. “Ninguém sequer considera Campo Grande, Santa Cruz, Seropédica, etc como Rio de Janeiro. Vivemos às margens e negligenciados pelo governo”, afirma Siri que ressalta a diferença da quantidade de núcleos culturais entre a zona Sul e Centro – 206 – para a toda zona Oeste – 26 – que evidenciam e contribuem para este quadro de desigualdade. A mesma desigualdade que, de acordo com Siri, agravou a situação da Segurança Pública e deu espaço a medidas extremistas como a intervenção federal. “Sergipe tem o dobro do número de homicídios que o Rio. O estado de exceção atual foi claramente uma jogada midiática de um governo desesperado por apoio político”</p><figure class=\"alignleft\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/img_0871.jpg?resize=5184%2C3456&amp;ssl=1' alt='IMG_0871' width='5184' height='3456' /><figcaption>Foto: Ighor Vidal</figcaption></figure><p>Se nas falas de Siri já se detectavam indignação e provocação com o governo vigente, foi possível enxergar ainda com mais facilidade este tom no discurso assertivo e firme do Deputado Estadual Marcelo Freixo. O deputado, que foi responsável pela prisão de mais de 200 milicianos, em 2008, na CPI das Milícias e pelo projeto de lei 3.234/17, que cria o Programa de Segurança e Saúde no Trabalho dos Agentes de Segurança Pública do Estado, defendeu com veemência a desmilitarização da PM. “As pessoas gostam de apontar o dedo e gritar que defendo bandido, mas a desmilitarização – modernização, como prefiro chamar – é a favor da polícia, em transformá-la numa instituição civil, com um treinamento para proteger a cidade e não para entrar em guerra”. Freixo ainda destacou a importância de debates como aquele dentro das universidades. “Aqui é espaço para pensamento crítico, empoderamento político e transformação”. </p><p>E foram com essas características que os universitários questionaram os convidados na abertura de perguntas em blocos do debate. Ávido por respostas e seguro da importância da militância dentro da UVA, Felipe Arthur, presidente do coletivo Acorda UVA, pontuou a problemática na Segurança Pública no Rio, criticou a intervenção federal e enfatizou o papel político dos jovens de transformação. “Esse envolvimento com a política e a realidade atual é o que os alunos precisam para perceberem a relevância de seus atos para a sociedade”. É esse pensamento que permeia o Circuito Universitário, liderado por William Siri, que tem por objetivo levar o debate político para dentro das instituições de ensino público e privado. “O que a gente sempre espera é deixar a semente da mudança dentro dos jovens e unir forças na luta contra tudo que nos oprime”.</p><p>Giovanna Faria, 6º período e Yhara Linka, 7º período.</p></main>"
+  },
+  "date": "2018-05-24T12:53:11",
+  "date_gmt": "2018-05-24T15:53:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestra reúne Marcelo Freixo, William Siri e Yamê Tomé para fomentar o senso crítico na universidade Segurança pública, “Rio do Espetáculo”, genocídio de jovens negros e periféricos, violência contra mulher, farras fiscais, sucateamento policial, desmilitarização da Polícia Militar, morte política de Marielle Franco e o papel do jovem como agente transformador. Estes foram alguns dos [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1974"
+  },
+  "id": 1974,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-vQ",
+  "link": "https://agenciauvabarra.com/2018/05/24/politica-e-o-papel-da-juventude/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T14:37:18",
+  "modified_gmt": "2019-01-26T16:37:18",
+  "ping_status": "open",
+  "slug": "politica-e-o-papel-da-juventude",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Política e o papel da juventude"
+  },
+  "type": "post"
+}

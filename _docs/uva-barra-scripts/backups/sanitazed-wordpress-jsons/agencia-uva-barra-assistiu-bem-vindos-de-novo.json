@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15026/revisions/15042",
+        "id": 15042
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15026"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15026",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15026/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15026"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15030"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15026",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15026",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    2367,
+    18330
+  ],
+  "class_list": [
+    "post-15026",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-cultura",
+    "category-institucional",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-encontro",
+    "tag-familia",
+    "tag-filme"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Para digerir bem todo o conteúdo do longa-metragem de estreia do cineasta Marcos Yoshi, o silêncio e a contemplação são mais do que necessários. Isso porque o mesmo cria uma peça tão pessoal e delicada sobre uma história que nasce de muito perto — dentro da própria casa — que não se sentir íntimo da vivência e família, mesmo que por somente uma hora e meia de duração do filme, vira uma tarefa difícil para qualquer espectador. Bem-Vindos De Novo é um documentário que retrata o que somos, seres humanos, que vivem por se relacionar e descobrir a fundo, as complexidades desses vínculos.</p><p>O filme acompanha a história de Marcos, o diretor, e sua família durante o reencontro com seus pais depois de 13 anos de distanciamento. Roberto e Yayoko Yoshisaki aproveitaram a virada do milênio para mudar a realidade dos três filhos com quem já compartilhavam a vida, partindo a sós de volta para o Japão em busca de uma ansiada comodidade. Uma decisão influenciada pela necessidade de garantir um sustento dentro de uma sociedade tão influente pelos conceitos capitalistas. Vivendo com os avós no Brasil, Marcos e suas irmãs passam por um complexo processo de reconstrução familiar quando enfim os pais retornam ao país após mais de uma década afastados.</p><p>Aprende-se durante o documentário sobre o termo Dekassegui, o nome dado ao fenômeno de movimento imigratório feito por nipo-descendentes (brasileiros descendentes de japoneses) que voltam ao Japão em busca de trabalho, em sua grande maioria, como mão-de-obra barata e não-qualificada. É exatamente o caso dos personagens que conhecemos em Bem-Vindos De Novo, que experimentam de uma relação fragilizada consequente da divisão entre o sucesso e o desejo de se manterem unidos. Durante os anos em que passaram longe uns dos outros, pais e filhos fizeram o possível para que esse laço não fosse quebrado pela passagem do tempo, seja na troca de declarações breves através de cartões-postais com as mais belas paisagens do Japão, ou pelos vídeos gravados regularmente com todas as atualizações rotineiras da vida dos três — agora, adolescentes — filhos.</p><p>Marcos compartilha com o público geral, grande parte desse material guardado nos arquivos pessoais da família. A presença das provas concretas dessa tentativa suada de se manter qualquer vestígio do afeto caloroso que antes abraçava a família, cria uma forte carga emocional para o filme. A direção do cineasta é a responsável pelo desenvolvimento de um sentimento irrefutável de proximidade e intimidade com esse núcleo familiar, o que às vezes, pode provocar certo julgamento por parte do espectador a respeito das decisões e atitudes tomadas pelos personagens dessa história de vida real, fator que pode ser importante para a reflexão das várias temáticas abordadas no longa.</p><p>O contraste do passado e as permanências do presente é de uma execução discreta e efetiva. Muitos dos sentimentos de Marcos e suas irmãs são externados por meio de um roteiro simples e direto — assinado pelo mesmo — em narrações que assumem a trilha sonora da rotina exaustiva dos pais, que mesmo vivendo a terceira idade, ainda lutam para conseguir o conforto financeiro no Brasil. Enquanto o tempo passa, a família assume um novo desafio de recolocar no lugar as peças de uma intimidade interrompida, ao mesmo tempo que enfrentam as dificuldades que muitos imigrantes no Brasil sofrem continuamente.</p><p>Os dados que encerram o filme apontam que o Brasil abriga a maior comunidade Nipo-descendente do mundo, com aproximadamente 2 milhões de pessoas. A história de Marcos e sua família é só uma dentre essas milhares de vidas não contadas, e que merecem cada segundo de atenção que produções como essa proporcionam. Com lançamento da Embaúba Filmes, o documentário chega aos cinemas no dia 15 de julho. Confira o trailler:</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/bem-vindos-de-novo_14.png?resize=1920%2C1038&#038;ssl=1' alt='Imagem de Bem-Vindos De Novo' width='1920' height='1038' /><figcaption>Foto: Divulgação</figcaption></figure><figure><iframe src='https://www.youtube.com/embed/4qawVtLMggE?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><br><em>Bruno Barros — 3° período</em></p></main>"
+  },
+  "date": "2023-06-14T17:52:38",
+  "date_gmt": "2023-06-14T20:52:38",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Para digerir bem todo o conteúdo do longa-metragem de estreia do cineasta Marcos Yoshi, o silêncio e a contemplação são mais do que necessários. Isso porque o mesmo cria uma peça tão pessoal e delicada sobre uma história que nasce de muito perto — dentro da própria casa — que não se sentir íntimo da vivência e família, mesmo que por somente uma hora e meia de duração do filme, vira uma tarefa difícil para qualquer espectador. Bem-Vindos De Novo é um documentário que retrata o que somos, seres humanos, que vivem por se relacionar e descobrir a fundo, as complexidades desses vínculos.</p>\n"
+  },
+  "featured_media": 15030,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15026"
+  },
+  "id": 15026,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/bem-vindos-de-novo_03.png?fit=1920%2C1038&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Um",
+  "link": "https://agenciauvabarra.com/2023/06/14/agencia-uva-barra-assistiu-bem-vindos-de-novo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-06-15T12:47:10",
+  "modified_gmt": "2023-06-15T15:47:10",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-bem-vindos-de-novo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    34939883,
+    219881,
+    241,
+    17563
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Bem-Vindos De Novo"
+  },
+  "type": "post"
+}

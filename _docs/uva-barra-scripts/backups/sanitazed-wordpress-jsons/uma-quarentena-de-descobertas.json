@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7059/revisions/7072",
+        "id": 7072
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7059"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7059",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7059/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7059"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7065"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7059",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7059",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    4753134,
+    7114
+  ],
+  "class_list": [
+    "post-7059",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-quarentena",
+    "category-sociedade",
+    "tag-agencia-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Atividades para ocupar a rotina ajudam a passar pelo isolamento social de forma saudável</em></p><p>O isolamento social fez com que algumas pessoas buscassem novas formas de aproveitar o tempo extra. A plataforma Google Trends, que mede a popularidade de termos em buscas pela internet registrou na semana entre os dias 18 e 22 de março, quando os estados brasileiros começaram a endurecer a quarentena, um aumento de quatro vezes no número de pesquisas com a palavra “o que fazer na quarentena” em território brasileiro. Após o “boom”, o número de pesquisas estabilizou e manteve certa regularidade, o que pode significar que a resposta para a pergunta foi encontrada.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/o-que-fazer-na-quarentena.png?resize=1309%2C579&amp;ssl=1\" alt=\"O QUE FAZER NA QUARENTENA\" width=\"1309\" height=\"579\" /><figcaption>No início do isolamento as pessoas buscavam alternativas para ocupar a mente – Foto: Reprodução da Internet</figcaption></figure><p>Diferente das pessoas que aproveitaram para se qualificar profissionalmente, a estudante de TI, Mariana Souza usou o tempo livre para desenvolver um novo hobby: o poker. Ela diz que já tinha interesse em jogar, então procurou alguns vídeos na internet e decidiu começar. “Além de aprender as regras, assisti algumas partidas para ver como é o funcionamento na prática. Consegui analisar o jogo de um ponto de vista mais matemático e vi que não era tão difícil como eu imaginava”.</p><p>Porém, não dá para viver somente com a tecnologia o tempo todo e Mariana buscou uma atividade mais calma. Como ela passa boa parte do seu dia em frente ao computador trabalhando, decidiu praticar tricô, outro interesse antigo. Após receber um kit de tricô do irmão, ela usou do tempo livre para tricotar uma touca e está feliz com o resultado parcial. “É bom que me desligo um pouco do mundo virtual e ainda faço algo que gosto. Também achei que seria difícil, mas o tricô é um teste de paciência”, diz.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/foto-touca.jpg?resize=381%2C286&amp;ssl=1\" alt=\"FOTO TOUCA\" width=\"381\" height=\"286\" /><figcaption>Mariana está aprendendo a tricotar durante a quarentena – Foto: Arquivo Pessoal</figcaption></figure><p>Entre computadores e agulhas, surge também o lápis de cor. Para controlar um pouco a ansiedade e amenizar toda a tensão do período da pandemia, Fernanda Barros buscou aprender técnicas de pintura. A estudante de arquivologia tem praticado o uso de técnicas como o sombreado, tracejado e algumas outras técnicas que conseguiu na internet. “É uma coisa que passa muito o tempo e me distrai bastante. Eu coloco a playlist para tocar junto e quando vou ver já passou duas horas rapidamente”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/foto-pintura.jpg?resize=393%2C524&amp;ssl=1\" alt=\"FOTO PINTURA\" width=\"393\" height=\"524\" /><figcaption>Técnica de pintura 3D que Fernanda usou em uma de suas sessões de pintura – Foto: Arquivo Pessoal</figcaption></figure><p>Para quem quer aprender a cozinhar, a dedicação é o ingrediente essencial. A técnica de enfermagem Jéssica Teixeira, aproveitou o seu tempo livre na quarentena para atualizar o cardápio. Ela conta que já sabia cozinhar coisas básicas, mas após ganhar um livro de receitas de uma de suas pacientes, sua vontade de aprender só aumentou. “É uma série de livros que tem diversos tipos de receitas. Eu já fiz algumas, mas são tantas que até me perco. O lado negativo é o material que é mais caro que o normal, mas o resultado é delicioso”, conta.</p><p>O isolamento social trouxe consigo muitas incertezas econômicas e sociais. Segundo o psicólogo Valdemir Júnior, coordenador do Programa Saúde na Escola em Guapimirim e especialista em Gestão de Saúde Mental, desenvolver ações que reduza o sofrimento das pessoas é de total importância para que o indivíduo consiga passar por esse período conturbado. “Nós somos seres sociais. Quando somos privados, compulsoriamente, de seguir nossas vidas, mesmo como medida preventiva para evitar um colapso, nos sentimos aprisionados e isso gera um sofrimento ainda maior”. </p><p>Ouça a explicação de Valdemir:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F841245304&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe><p><strong>Pedro José Alves – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-06-16T17:26:27",
+  "date_gmt": "2020-06-16T20:26:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Atividades para ocupar a rotina ajudam a passar pelo isolamento social de forma saudável O isolamento social fez com que algumas pessoas buscassem novas formas de aproveitar o tempo extra. A plataforma Google Trends, que mede a popularidade de termos em buscas pela internet registrou na semana entre os dias 18 e 22 de março, [&hellip;]</p>\n"
+  },
+  "featured_media": 7065,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7059"
+  },
+  "id": 7059,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/foto-pintura.jpg?fit=960%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1PR",
+  "link": "https://agenciauvabarra.com/2020/06/16/uma-quarentena-de-descobertas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-06-16T17:28:00",
+  "modified_gmt": "2020-06-16T20:28:00",
+  "ping_status": "open",
+  "slug": "uma-quarentena-de-descobertas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Uma quarentena de descobertas"
+  },
+  "type": "post"
+}

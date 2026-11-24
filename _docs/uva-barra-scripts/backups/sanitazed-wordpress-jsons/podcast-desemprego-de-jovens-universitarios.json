@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9401/revisions/9439",
+        "id": 9439
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9401"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9401",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9401/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9401"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9404"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9401",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9401",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832,
+    7114,
+    14591
+  ],
+  "class_list": [
+    "post-9401",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "category-trabalho",
+    "tag-desemprego",
+    "tag-jovens-universitarios"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Desemprego de jovens universitários \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6LCOkM9D19qo1fCF82796E?si=ISHn_pUTQbW89zZI-I3IyA&amp;utm_source=oembed\"></iframe></figure><p>O número de pessoas desempregadas no Brasil cresce a cada dia e um grupo se destaca nas estatísticas, os jovens. Em 2020 o IBGE informou que 30% das pessoas de 18 a 24 anos não estavam empregados, e em fevereiro 2021 houve um déficit de aproximadamente 8 milhões de postos de trabalho.</p><p>Para os recém-formados, sair da faculdade com emprego tem sido um desafio e esse é o tema do novo episódio dos podcasts jornalísticos da rádio UVA Barra.</p><p>Para entender o tema nossos repórteres conversaram com Alexandre dos Santos que tem sofrido com a falta de emprego e tem que trabalhar fora da área de formação. Os professores, Otto Guilherme Gerstenberger professor de economia e Marcio Santos, professor gestão de recursos humanos da Universidade Veiga de Almeida apresentam o cenário econômico e as chances de ter um currículo mais competitivo.</p><p>Aperte o play e confira o podcast que já está disponível no Spotify e no <a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81OGY1YTkwOC9wb2RjYXN0L3Jzcw/episode/OGY5MGE2OGYtYjkxMS00ZDk5LTliMWUtYTY2NzMwYmE3ZTBh?sa=X&amp;ved=0CAUQkfYCahcKEwjIwa7inOrwAhUAAAAAHQAAAAAQCQ\" target=\"_blank\" rel=\"noreferrer noopener\">Google Podcasts.</a></p><p>Iago Eloi – 7º período de Jornalismo</p><p>Sabrina Marques – 3º período de Jornalismo</p></main>"
+  },
+  "date": "2021-05-24T17:29:36",
+  "date_gmt": "2021-05-24T20:29:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O número de pessoas desempregadas no Brasil cresce a cada dia e um grupo se destaca nas estatísticas, os jovens. Em 2020 o IBGE informou que 30% das pessoas de 18 a 24 anos não estavam empregados, e em fevereiro 2021 houve um déficit de aproximadamente 8 milhões de postos de trabalho.</p>\n"
+  },
+  "featured_media": 9404,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9401"
+  },
+  "id": 9401,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/whatsapp-image-2021-05-24-at-17.28.07.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2rD",
+  "link": "https://agenciauvabarra.com/2021/05/24/podcast-desemprego-de-jovens-universitarios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-05-27T12:59:26",
+  "modified_gmt": "2021-05-27T15:59:26",
+  "ping_status": "open",
+  "slug": "podcast-desemprego-de-jovens-universitarios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    472647,
+    19662894
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast – Desemprego de jovens universitários"
+  },
+  "type": "post"
+}

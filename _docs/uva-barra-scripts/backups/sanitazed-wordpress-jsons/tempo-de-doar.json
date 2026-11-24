@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1786/revisions/3214",
+        "id": 3214
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1786"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1786",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1786/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1786"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1786",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1786",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1786",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Serviço social reúne comunidade local na UVA, do campus Barra</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/whatsapp-image-2018-03-14-at-16-35-50.jpeg?resize=1280%2C853&amp;ssl=1' alt='WhatsApp Image 2018-03-14 at 16.35.50' width='1280' height='853' /><figcaption>Créditos: Isabelle Amancio</figcaption></figure><p>Fazer o bem sem olhar a quem. Expressão antiga, mas que inspira os dias atuais da Universidade Veiga de Almeida (UVA), do campus Barra. A 1° edição da Feira de Saúde e Cidadania ocorreu na última sexta-feira (09/03) e no sábado (10/03). E pertence ao programa Lions Cidadão, que faz parceria com a faculdade. O objetivo é prestar atendimentos gratuitos a comunidade local, seja com testes de glicose ou de glaucoma, aferição da pressão arterial e corte de cabelo.</p><p>Esses serviços, entretanto, não foram os únicos a serem oferecidos. O Hemorio também estava presente, na sexta, para receber coletas de sangue. Para a veterana do curso de Designer Gráfico Amanda Cylleno, o medo de agulha não a impediu de doar pela primeira vez. “Confesso que estava apavorada, mas sei o quanto é importante para as pessoas que precisam. E não é todo lugar que disponibiliza essa assistência”. No total, cerca de 80 pessoas compareceram ao local para realizar essa ação.</p><p>Já para o estudante de Direito Felipe Paim que doa regularmente de 2 a 3 meses, afirma que essa ação é fundamental não só para quem recebe como também quem ajuda. “A minha motivação é fazer o bem e também poder encorajar amigos a colaborar”. A técnica de enfermagem Vanessa Barcellos também se sente realizada pela quantidade de alunos dispostos. “Esse encontro que a UVA promove com o Hemorio está sendo gratificante. Minhas expectativas estão sendo superadas”.</p><p>Os resultados foram positivos para quem organizou também. É o caso do coordenador de eventos e assessor de visão do Lion Maurício Donati, que junto a esposa Viceli, planeja realizar mais atividades integradas com a universidade. “Nós sempre fazemos essas feiras em diversos locais. Procuramos atender uma boa quantidade de pessoas com diversos serviços. E na UVA não poderia ser diferente”. Ele também ressalta que a experiência foi bastante satisfatória e espera que as próximas programações sejam ainda melhores.</p><p>Isabelle Amancio, 5° período.</p></main>"
+  },
+  "date": "2018-03-14T16:35:10",
+  "date_gmt": "2018-03-14T19:35:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Serviço social reúne comunidade local na UVA, do campus Barra</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1786"
+  },
+  "id": 1786,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-sO",
+  "link": "https://agenciauvabarra.com/2018/03/14/tempo-de-doar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:26:12",
+  "modified_gmt": "2019-02-26T00:26:12",
+  "ping_status": "open",
+  "slug": "tempo-de-doar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Tempo de doar"
+  },
+  "type": "post"
+}

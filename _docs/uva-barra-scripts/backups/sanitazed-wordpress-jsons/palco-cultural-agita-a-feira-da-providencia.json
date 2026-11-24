@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2761/revisions/3008",
+        "id": 3008
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2761"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2761",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2761/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2761"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2762"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2761",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2761",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366
+  ],
+  "class_list": [
+    "post-2761",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "tag-58a-feira-da-providencia",
+    "tag-agencia-uva-barra",
+    "tag-barra-da-tijuca",
+    "tag-palco-cultural",
+    "tag-peca-quanta-energia",
+    "tag-riocentro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Ritmos e culturas de diferentes estados e países em um só lugar</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/img_20181201_190718572_hdr.jpg?resize=4160%2C3120&#038;ssl=1' alt='' width='4160' height='3120' /><figcaption>Apresentação da peça Quanta Energia no Palco Cultural – Foto: Junior Almeida</figcaption></figure><p>A 58ª edição da Feira da Providência, realizada no Riocentro entre os dias 28/11 e 04/12, contou com uma novidade. Localizado no fim do pavilhão, o espaço nomeado Palco Cultural recebeu mais de 25 apresentações nacionais e internacionais. Durante os quatro dias de exposição, visitantes puderam conferir atrações para todos os gostos, do infantil ao adulto.</p><p>Com temática voltada para a família, a montagem “Quanta Energia” ensinava de forma didática e divertida como consumir energia de forma consciente. Segundo Márcia Ximenes, produtora do espetáculo, a ideia era informar o público sobre o assunto. “A melhor forma de fazer essa conversa é aliar a arte com o conteúdo”, destaca.</p><p>A sustentabilidade não foi vista somente em cena, mas também no programa da peça. Todo feito de papel reciclado, o panfleto apresentava a história e uma grata surpresa para os mais atentos: sementes de tomate. Bastava seguir as instruções indicadas no verso da folha para realizar o plantio da fruta.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/img_20181201_190519056_hdr-e1544536673673.jpg?resize=3119%2C2870&#038;ssl=1' alt='' width='3119' height='2870' /><figcaption> Panfleto da peça com  dicas para economizar energia – Foto: Junior Almeida</figcaption></figure><p>O público em geral, não apenas as crianças, gostou do que viu. Além da interação com os atores em cena, a plateia assistia a tudo com olhos atentos. Juliana Nogueira, assistente social, estava lá pela primeira vez. Ela descobriu o evento pela internet e gostou da experiência. “É um lugar diferente, estou conhecendo coisas diversificadas”, afirma.</p><p>Além dos novos visitantes, antigos frequentadores prestigiaram a edição deste ano. É o caso de Maria das Neves, professora, que frequenta a feira há anos. Para ela, que já assistia a quarta apresentação do dia, a ideia do espaço foi muito boa. “É muito interessante poder conferir a diversidade de coisas que o Rio de Janeiro produz”, conclui.</p><p><strong>Junior Almeida – 3º período</strong></p></main>"
+  },
+  "date": "2018-12-04T11:56:12",
+  "date_gmt": "2018-12-04T13:56:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ritmos e culturas de diferentes estados e países em um só lugar A 58ª edição da Feira da Providência, realizada no Riocentro entre os dias 28/11 e 04/12, contou com uma novidade. Localizado no fim do pavilhão, o espaço nomeado Palco Cultural recebeu mais de 25 apresentações nacionais e internacionais. Durante os quatro dias de [&hellip;]</p>\n"
+  },
+  "featured_media": 2762,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2761"
+  },
+  "id": 2761,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/img_20181201_190718572_hdr.jpg?fit=4160%2C3120&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Ix",
+  "link": "https://agenciauvabarra.com/2018/12/04/palco-cultural-agita-a-feira-da-providencia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:04:44",
+  "modified_gmt": "2019-01-31T13:04:44",
+  "ping_status": "open",
+  "slug": "palco-cultural-agita-a-feira-da-providencia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    655456237,
+    648221465,
+    1129725,
+    57815563,
+    662015783,
+    10031061
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Palco Cultural agita a Feira da Providência"
+  },
+  "type": "post"
+}

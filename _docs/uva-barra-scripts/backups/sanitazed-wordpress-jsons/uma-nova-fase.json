@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1742/revisions/2979",
+        "id": 2979
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1742"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1742",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1742/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1742"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1742",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1742",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1742",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>UVA prepara Semana de Boas-vindas aos calouros</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/02/whatsapp-image-2018-02-28-at-17-01-48.jpeg?resize=1280%2C960&amp;ssl=1' alt='WhatsApp Image 2018-02-28 at 17.01.48' width='1280' height='960' /><figcaption>Fotos: Isabelle Amancio</figcaption></figure><p>Os novos universitários são recebidos com um programa de recepção na Universidade Veiga de Almeida (UVA), campus Barra. O projeto iniciou com um amistoso entre a Atlética da Barra e a Atlética da Tijuca, no último sábado (24/02). O cronograma segue durante toda a semana, com palestras, inaugurações de instalações, exibição de webséries e aulão de crossfit. Esta terça-feira (27/02) foi marcada pela abertura da Horta Comunitária, mostra de produções audiovisuais e a palestra pelo Pró Reitor Carlos Eduardo Nunes.</p><p>O primeiro evento deste dia, que reuniu alunos do curso de Direito, foi ao ar livre com o cultivo de novas sementes. A motivação da nova cultura sustentável originou da diretora Nara Iwata, e quem coordena é a professora Carla Cardoso de Moura, que realiza a atividade há alguns anos. “A interação dos estudantes vai além do contato com a natureza, uma vez que a horta comunitária permite a interdisciplinaridade com outros cursos”.</p><p>Essa junção das disciplinas estava presente na exposição das webséries produzidas por alunos de Jornalismo e Publicidade. O veterano de jornalismo João Victor Barros cita a importância de os calouros analisarem os trabalhos que o curso promove. “A mostra compartilha a experiência dos outros alunos, é um projeto que demanda tempo e trabalho, mas vale a pena o produto final”, acrescenta ao lembrar da produção de “Perdendo o Juízo” que participou.</p><figure class=\"alignright\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/02/img_8271.jpg?resize=5184%2C3456&amp;ssl=1' alt='IMG_8271' width='5184' height='3456' /><figcaption>Fotos: Alunos de Fotopublicidade</figcaption></figure><p>Quem também revive experiências é o Pró-Reitor e professor de Arquitetura Carlos Eduardo Nunes ao palestrar sobre a tese de doutorado O Crescimento da Barra da Tijuca, que se tornou um livro. Durante o discurso, ele também aborda a expansão populacional e comercial da Barra e compara com a região Sul. “ A ideia era trazer um plano diferente de urbanismo de Copacabana e Ipanema, já que são áreas que possuem menos ventilação”.</p><p>Além da proposta de explicar sobre o livro que escreveu, o Pró-reitor fará, nessa quinta-feira (01/03), a abertura que antecede as palestras. A primeira será Internacionalização do Ensino Superior, com a coordenadora de RI Solange Pastana e Mesa Redonda com Representantes Consulares. Essa programação é valorizada não só pelos calouros, como o estudante do terceiro período de Publicidade Danilo Campos que enfatiza a relevância desses debates. “ É um evento que dá entusiasmo aos recém-chegados”, conclui.</p><p><strong>Giovanna Faria, 6° período e Isabelle Amancio, 5° período. </strong></p></main>"
+  },
+  "date": "2018-02-28T17:36:39",
+  "date_gmt": "2018-02-28T20:36:39",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>UVA prepara Semana de Boas Vindas aos calouros</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1742"
+  },
+  "id": 1742,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-s6",
+  "link": "https://agenciauvabarra.com/2018/02/28/uma-nova-fase/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T17:56:49",
+  "modified_gmt": "2019-01-26T19:56:49",
+  "ping_status": "open",
+  "slug": "uma-nova-fase",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Uma nova fase"
+  },
+  "type": "post"
+}

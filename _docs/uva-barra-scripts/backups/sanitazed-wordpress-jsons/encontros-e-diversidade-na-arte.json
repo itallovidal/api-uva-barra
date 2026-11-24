@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2213/revisions/3068",
+        "id": 3068
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2213"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2213",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2213/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2213"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2214"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2213",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2213",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    407146
+  ],
+  "class_list": [
+    "post-2213",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-exposicao",
+    "tag-agencia-uva-barra",
+    "tag-exposicao-margem-e-confluencias",
+    "tag-parque-das-ruinas"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Três artistas se juntam para apresentar arte contemporânea gratuita em Santa Teresa</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-05-at-14-29-54.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-09-05 at 14.29.54' width='1280' height='960' /><figcaption>Trabalhos dos artistas na exposição “Margem e Confluências” que ficará aberta até dia 30 de setembro. Foto: Ana Carolina Marinho</figcaption></figure><p>Uma das características da arte é a pluralidade. São diferentes formas, que ainda assim, podem dialogar entre si. Os artistas Ana Luiza Rego, Bruno Schmidt e Roberto Barciela, misturam suas identidades artísticas na exposição “Margem e confluências”, no Parque das Ruínas, em Santa Teresa. A visitação gratuita é composta por 15 obras e apresenta a arte contemporânea através de técnicas, como óleo sobre a tela, mosaicos, objetos descartados, madeiras e ferros.</p><p>Juntar tudo isso em um só espaço faz parte também de uma nova mentalidade para levar cultura a mais pessoas. O exemplo vem desse encontro, ele só foi possível por conta da união dos três artistas e a vontade de promover mostras culturais. “Resolvemos fazer esse evento porque temos objetivos em comum, como trazer mais arte para o povo carioca”, explica Roberto Barciela, um dos artistas da mostra.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-05-at-14-27-36.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-09-05 at 14.27.36' width='1280' height='960' /><figcaption>Público aprecia as obras dos artistas no Parque das Ruínas. Foto: Ana Carolina Marinho</figcaption></figure><p>A ideia já deu frutos na estreia. A estudante de Artes Visuais, Maria Eduarda Nogueira, soube do evento pelas redes socais e não perdeu tempo de visita-la. “É sempre bom comparecer e ver como todos eles usam diferentes tipos de objetos para compor a obra”. Maria Eduarda também ressaltou a importância das visitações para mostrar apoio a artistas independentes. “Você não precisa saber tudo sobre o conteúdo para apreciar os traços e proporções colocadas nos trabalhos”, enfatiza.</p><p>Impressionada com as cores e formas diferentes das obras, a paulista Carolina Jesus visitou o evento e disse frequentar exibições culturais no tempo livre. “Desde adolescente eu gosto de arte, então gosto de vir a eventos como este para aprender mais sobre o tema”. A exposição está aberta ao público até dia 30 de setembro, de terça a domingo, das 8h às 18h, no Parque das Ruínas, com entrada gratuita.</p><p><strong>Ana Carolina Marinho – 6° período</strong></p></main>"
+  },
+  "date": "2018-09-05T18:40:48",
+  "date_gmt": "2018-09-05T21:40:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Três artistas se juntam para apresentar arte contemporânea gratuita em Santa Teresa Uma das características da arte é a pluralidade. São diferentes formas, que ainda assim, podem dialogar entre si. Os artistas Ana Luiza Rego, Bruno Schmidt e Roberto Barciela, misturam suas identidades artísticas na exposição “Margem e confluências”, no Parque das Ruínas, em Santa [&hellip;]</p>\n"
+  },
+  "featured_media": 2214,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2213"
+  },
+  "id": 2213,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-05-at-14-29-54.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-zH",
+  "link": "https://agenciauvabarra.com/2018/09/05/encontros-e-diversidade-na-arte/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:21:38",
+  "modified_gmt": "2019-01-31T14:21:38",
+  "ping_status": "open",
+  "slug": "encontros-e-diversidade-na-arte",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    648221464,
+    10894669
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Encontros e diversidade na Arte"
+  },
+  "type": "post"
+}

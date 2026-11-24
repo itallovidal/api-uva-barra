@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4162/revisions/4164",
+        "id": 4164
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4162"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4162",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4162/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4162"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4163"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4162",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4162",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4162",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em> A conversa incentivou acadêmicos a dar o primeiro passo na criação do próprio site e na venda de ideias </em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/pedro-explica-um-pouco-sobre-como-funciona-o-marketing-digital.jpg?resize=6000%2C4000&amp;ssl=1\" alt=\"\" width=\"6000\" height=\"4000\"><figcaption>Pedro explica um pouco sobre como funciona o marketing digital – Foto: Natália Lisboa</figcaption></figure><p>A criação de conteúdo em Landscape marcou o primeiro workshop da SeCom. Com o tema “Crie e Otimize seu site”, o diretor de arte e especialista em marketing digital, Pedro Lyra, deu dicas sobre quais plataformas usar e de como chamar a atenção com poucos recursos. O evento foi realizado nesta quinta-feira(16) no Campus Barra da Universidade Veiga de Almeida.</p><p>Receber orientações de quem já está no mercado é uma oportunidade para os estudantes se prepararem para o que vem pela frente na vida profissional. “Passar essas experiências para nós que estamos entrando no mercado de trabalho é muito importante, pois de alguma de maneira ele encurta esse caminho.” diz Yasmin Carime, aluna do terceiro período de Publicidade.</p><p>O grande desafio dos universitários na criação de sites é entender o objetivo mercadológico do cliente e não somente pensar na estrutura estética da navegação. “Um publicitário acaba tendo muitas funções e pode fazer os trabalhos no automático, sem se atentar ao pedido do cliente”, afirma Lyra. Por isso, trazer conversas que integram o meio profissional com o universitário estimula o pensamento crítico.</p><p>A formação acadêmica é só uma parte na construção de um bom profissional. Teoria e prática não devem brigar, mas devem dialogar. “Através do Workshop pude entender alguns conceitos e conhecer os melhores programas para iniciar um site e portfólio, com isso, obter engajamento em futuros projetos que estou construindo.” diz Samily Gnatta, aluna do terceiro período de Publicidade.</p><p><strong>Natália Lisboa – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-05-17T16:52:02",
+  "date_gmt": "2019-05-17T19:52:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A conversa incentivou acadêmicos a dar o primeiro passo na criação do próprio site e na venda de ideias A criação de conteúdo em Landscape marcou o primeiro workshop da SeCom. Com o tema “Crie e Otimize seu site”, o diretor de arte e especialista em marketing digital, Pedro Lyra, deu dicas sobre quais plataformas [&hellip;]</p>\n"
+  },
+  "featured_media": 4163,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4162"
+  },
+  "id": 4162,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/pedro-explica-um-pouco-sobre-como-funciona-o-marketing-digital.jpg?fit=6000%2C4000&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-158",
+  "link": "https://agenciauvabarra.com/2019/05/17/criacao-de-sites-abre-os-workshops-da-secom-2019/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-19T14:32:35",
+  "modified_gmt": "2019-05-19T17:32:35",
+  "ping_status": "open",
+  "slug": "criacao-de-sites-abre-os-workshops-da-secom-2019",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Criação de sites abre os workshops da SeCom 2019"
+  },
+  "type": "post"
+}

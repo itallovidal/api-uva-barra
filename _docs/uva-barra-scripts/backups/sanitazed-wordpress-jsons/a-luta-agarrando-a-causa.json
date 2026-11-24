@@ -1,0 +1,156 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3434/revisions/3443",
+        "id": 3443
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3434"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3434",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3434/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3434"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3434",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3434",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889
+  ],
+  "class_list": [
+    "post-3434",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-esporte",
+    "tag-jiu-jitsu",
+    "tag-jiu-jitsu-down-festival"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A visibilidade de jovens talentosos pelas mãos do Jiu-jitsu</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/2703-2019-1225714102094235647576.jpeg?resize=2048%2C1366&amp;ssl=1' alt='' width='2048' height='1366' /><figcaption>Atletas no Jiu-jitsu Down Festival – Natália Lisboa</figcaption></figure><p>O espírito esportivo tem como um dos pilares fundamentais a superação dos próprios limites. A agência UVA Barra esteve presente no Jiu-jitsu Down Festival, um evento de integração social para crianças e adolescentes com Síndrome de Down. O Festival aconteceu, no último sábado (23), na Arena Carioca, Barra da Tijuca e contou com a presença dos atletas Flávio Canto e Léo Leite. </p><p>A ideia surgiu a partir de uma parceria entre o projeto SuperAção, com o Sport Jiu Jitsu South American Federation (SJJSAF) e a Secretaria de Esporte e Lazer do estado do Rio de Janeiro para homenagear o Dia Internacional da Síndrome de Down (21/03). Cleiber Maia, Presidente da SJJSAF, ressalta que não há diferença entre seus alunos. “Todos nós temos limitações, pensar que não temos é delírio”. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/2703-2019-1218839102087360206995.jpeg?resize=498%2C332&amp;ssl=1' alt='' width='498' height='332' /><figcaption>Cleiber Maia Lutando com o atleta Diogo Lavigne – Foto: Thalyta Souza</figcaption></figure><p>A iniciativa é ainda mais relevante quando agrega uma proposta inclusiva. O Secretário de Esporte e Lazer, Felipe Bornier, enfatiza que projetos assim tem prioridade. “Pela primeira vez estamos colocando de forma prioritária a inclusão das pessoas com deficiência. Se conseguirmos juntar a prática de exercício com uma atitude educacional podemos mostrar o verdadeiro valor do esporte”. O ex- judoca e fundador do Instituto Reação Flávio Canto comenta que ações como essa tem um valor enorme. “Aprendemos muito mais com eles, do que eles com a gente”, diz.</p><ul><li><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/2703-2019-1229465102097986754668.jpeg?resize=1280%2C853&amp;ssl=1' alt='' width='1280' height='853' /><figcaption>O atleta Lucas Costa conhecido como “Lucas mão de aço” com a sua mãe após ganhar medalha – Foto: Natália Lisboa</figcaption></figure></li><li><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/2703-2019-1212111102080632143460.jpeg?resize=2048%2C1366&amp;ssl=1' alt='' width='2048' height='1366' /><figcaption>O ex-judoca Flávio Canto com atletas durante o Jiu-jitsu Down Festival – Foto: Natália Lisboa</figcaption></figure></li></ul><p>O evento demonstra que a atividade física pode auxiliar no desenvolvimento e motiva pessoas como Eliete Costa, mãe do atleta Lucas Costa, portador da Síndrome de Down. Para Eliete, o Jiu-Jitsu contribuiu com o processo de recuperação do filho após um AVC. “A luta dele por melhora foi toda em cima do esporte, mesmo tendo as limitações. Ele queria e conseguiu até trocar de faixa. ” E assim, aos poucos o Jiu-jitsu ajuda a desenvolver pessoas não só na habilidade motora, mas também no emocional.</p><p><strong>Natália Lisboa – 2º Período | Jornalismo </strong></p></main>"
+  },
+  "date": "2019-03-28T14:36:09",
+  "date_gmt": "2019-03-28T17:36:09",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A visibilidade de jovens talentosos pelas mãos do Jiu-jitsu O espírito esportivo tem como um dos pilares fundamentais a superação dos próprios limites.&nbsp;A agência UVA Barra&nbsp;esteve presente&nbsp;no Jiu-jitsu Down Festival, um evento de integração social para crianças e adolescentes com Síndrome de Down. O Festival aconteceu,&nbsp;no último&nbsp;sábado (23),&nbsp;na Arena Carioca, Barra da Tijuca e&nbsp;contou com [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3434"
+  },
+  "id": 3434,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-To",
+  "link": "https://agenciauvabarra.com/2019/03/28/a-luta-agarrando-a-causa/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-03-28T15:48:08",
+  "modified_gmt": "2019-03-28T18:48:08",
+  "ping_status": "open",
+  "slug": "a-luta-agarrando-a-causa",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    351209,
+    675709249
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A luta agarrando a causa"
+  },
+  "type": "post"
+}

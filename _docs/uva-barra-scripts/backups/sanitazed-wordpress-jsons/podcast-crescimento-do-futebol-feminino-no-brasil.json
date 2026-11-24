@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10679/revisions/10689",
+        "id": 10689
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10679"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10679",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10679/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10679"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10685"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10679",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10679",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    14603,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-10679",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-esporte",
+    "category-jornalismo",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Crescimento do Futebol Feminino no Brasil \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/4nUfJT4sk9H4dtVHwczjGz?si=W8A7knrCTYeUI_ATatnF1A&#038;utm_source=oembed\"></iframe></div></figure><p>Durante 1941 a 1979, as mulheres foram proibidas de jogar futebol no país, devido ao pensamento machista, no qual o esporte era ideal apenas aos homens. Com a regulamentação da modalidade feminina pela Confederação Brasileira de Futebol (CBF) em 1983, o decreto chegava ao fim.</p><p>De acordo com a FIFA, há um total de 15 mil mulheres jogando futebol de forma organizada, como em campeonatos amadores ou profissionais. Elas praticam o esporte com paixão, garra e mostram que o futebol é para todos e sem barreiras. No novo episódio do Podcast Rádio UVA Barra, os repórteres Maria Clara Lisboa, Lucas Ribeiro e Pedro Amorim, foram descobrir sobre a prática da modalidade feminina e como as jogadoras lidam com o preconceito. </p><p>A equipe recebeu Nicole Ramos, goleira do Fluminense, Andressa Camaz, jogadora do projeto Fênix, e Renata Lutfi, jornalista pós-graduada em gestão do Esporte e Marketing.</p><p><strong>Créditos: (Foto Nicole Ramos: Lucas Figueiredo)</strong></p><p><em>Lucas Ribeiro – 6º período</em></p><p><em>Maria Clara Lisboa – 6º período</em></p><p><em>Pedro Amorim – 5º período</em></p></main>"
+  },
+  "date": "2021-11-12T18:52:46",
+  "date_gmt": "2021-11-12T21:52:46",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Durante 1941 a 1979, as mulheres foram proibidas de jogar futebol no país, devido ao pensamento machista, no qual o esporte era ideal apenas aos homens. Com a regulamentação da modalidade feminina pela Confederação Brasileira de Futebol (CBF) em 1983, o decreto chegava ao fim.</p>\n"
+  },
+  "featured_media": 10685,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10679"
+  },
+  "id": 10679,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/img_9051.jpg?fit=758%2C755&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Mf",
+  "link": "https://agenciauvabarra.com/2021/11/12/podcast-crescimento-do-futebol-feminino-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-12T18:52:46",
+  "modified_gmt": "2021-11-12T21:52:46",
+  "ping_status": "open",
+  "slug": "podcast-crescimento-do-futebol-feminino-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: Crescimento do Futebol Feminino no Brasil"
+  },
+  "type": "post"
+}

@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4735/revisions/4745",
+        "id": 4745
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4735"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4735",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4735/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4735"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4744"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4735",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4735",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    407146
+  ],
+  "class_list": [
+    "post-4735",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-exposicao",
+    "tag-agencia-uva-barra",
+    "tag-ai-weiwei",
+    "tag-artes-plasticas",
+    "tag-ccbb",
+    "tag-raiz-weiwei"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>CCBB promove reflexão política através da exposição</em></p><p>Protesto em forma de arte. O Centro Cultural Banco do Brasil recebeu, na quarta-feira (21), a primeira exposição do artista plástico Chinês AI WEIWEI. Idealizada pelo curador Marcello Dantas, o projeto “RAIZ”, pretende unir contextos culturais brasileiros e chineses. Os espaços do CCBB trazem um olhar de Weiwei também sobre a biodiversidade brasileira. As peças “Martin” e “Level”, que fazem parte da série “Sete Raízes”, foram construidas a partir de raízes desenterradas na região de Trancoso, e fazem parte do período que ele passou no país.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190821_144601.jpg?resize=551%2C413&amp;ssl=1\" alt=\"\" width=\"551\" height=\"413\" /><figcaption>Escultura que faz parte da obra Sete Raízes – Foto: Lucas Souza</figcaption></figure><p>O artista deixou seu país de origem em 2015. Questionador do governo chinês, Ai Weiwei, um ativista de questões sociais e humanas, construiu a obra “A barca” para representar o drama vivido pelos refugiados, ganhando notoriedade internacional. A variedade das peças chamou a atenção do estudante Rafael Bordado. “Há uma subversão ao poder, as autoridades, a vigilância e até desobediência civil na mostra”, afirma Rafael. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190821_161122.jpg?resize=553%2C414&amp;ssl=1\" alt=\"\" width=\"553\" height=\"414\" /><figcaption>Obra “A barca” – Foto: Lucas Souza</figcaption></figure><p>O público poderá conhecer o trabalho do artista em dois espaços, uma parte das obras ocupam o CCBB e outras estão no Paço Imperial. No evento oficial de abertura teve espectador que já conhecia o trabalho de Weiwei. “Eu acho que ele é o chinês mais incrível da atualidade, eu já tinha visto as obras dele em Nova York”, comentou o escritor Overland Airton. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/entrevistado.jpg?resize=482%2C361&amp;ssl=1\" alt=\"\" width=\"482\" height=\"361\" /><figcaption>O escritor e artista plástico Overland Airton fala sobre a obra de Ai Weiwei – <br />Foto: Lucas Souza</figcaption></figure><p>A visitação está aberta ao público até o dia 04 de novembro com entrada franca. </p><p><strong>Lucas Souza – 2° Período | Jornalismo </strong></p></main>"
+  },
+  "date": "2019-08-24T12:00:00",
+  "date_gmt": "2019-08-24T15:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>CCBB promove reflexão política através da exposição Protesto em forma de arte.  O Centro Cultural Banco do Brasil recebeu, na quarta-feira (21), a primeira exposição do artista plástico Chinês AI WEIWEI. Idealizada pelo curador Marcello Dantas, o projeto “RAIZ”, pretende unir contextos culturais brasileiros e chineses. Os espaços do CCBB trazem um olhar de Weiwei [&hellip;]</p>\n"
+  },
+  "featured_media": 4744,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4735"
+  },
+  "id": 4735,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190821_160936.jpg?fit=4128%2C3096&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1en",
+  "link": "https://agenciauvabarra.com/2019/08/24/arte-de-rebeliao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-23T17:06:34",
+  "modified_gmt": "2019-08-23T20:06:34",
+  "ping_status": "open",
+  "slug": "arte-de-rebeliao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1579364,
+    4335,
+    489719,
+    685467257
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Arte de Rebelião"
+  },
+  "type": "post"
+}

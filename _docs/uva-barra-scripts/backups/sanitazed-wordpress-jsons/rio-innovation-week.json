@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17211/revisions/17229",
+        "id": 17229
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17211"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17211",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17211/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17211"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17213"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17211",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17211",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17211",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Discussões sobre liderança, impacto social, e novas tecnologias ganharam destaque em encontro global, reunindo grandes nomes do empreendedorismo e tecnologia no Píer Mauá.</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/10-riw-juliamedina-65_resized.png?resize=999%2C666&amp;ssl=1\" alt=\"\" width=\"999\" height=\"666\" /><figcaption>Reprodução: Julia Medina</figcaption></figure><p>O Rio Innovation Week, realizado entre os dias 13 e 16 de agosto, é a maior conferência global de tecnologia e inovação. Reunindo CEOs, startups, investidores e especialistas do setor, o evento no Píer Mauá vem explorar as tendências mais recentes no caminho da transformação digital, sustentabilidade e empreendedorismo, com diversas palestras, workshops e exposições. Na quinta-feira, dia 15, palestras com os temas sobre liderança, criatividade, redes sociais, tecnologia nas favelas e transformações humanas foram destaque, proporcionando uma plataforma unicamente rica para debates e oportunidades de negócios.</p><p>Na palestra &#8216;Tecnologia e Favela&#8217;, conduzida por Raull Santiago, foi discutido o impacto das tecnologias sociais no desenvolvimento de comunidades. A mesa contou com a presença de Bruno Desiderio,&nbsp; fundador da&nbsp; Gerando Falcões, além de Andressa Núbia, Diretora Criativa, e Gean Guilherme, Fundador do 2050, representantes de projetos voltados à tecnologia e temas relacionados.Bruno Desidério explicou como seu projeto atua com a tecnologias para qualificar crianças e jovens. Com base no desenvolvimento social focado na superação da falta de oportunidades de desenvolvimento nas favelas, as iniciativas, como a Falcons University, Favela 3D, uma das citadas pelo fundador, visam transformar a realidade das favelas por meio de educação, capacitação e melhorias urbanas</p><figure><div><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/29-riw_131_resized.png?resize=999%2C665&amp;ssl=1\" alt=\"\" width=\"999\" height=\"665\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/05102023_jc_estandes_armazem_1b_img4416.jpg?resize=600%2C400&amp;ssl=1\" alt=\"\" width=\"600\" height=\"400\" /></div><figcaption>(Reprodução; Rio Innovation Week)</figcaption></figure><p>Desidério descreveu como tudo começou a partir de um simples projeto esportivo, que inicialmente atendia 60 crianças e cresceu para beneficiar mais de 1.500 jovens. No entanto, ele ressaltou que o impacto não podia parar ali. &#8220;Não podíamos fechar o ciclo aos 17 anos. Com 17, eles ainda são crianças&#8221;, disse Bruno. Foi assim que a Gerando Falcões passou a integrar a tecnologia e a qualificação profissional em seus programas.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/20240815_140834.jpg?resize=2252%2C2636&amp;ssl=1\" alt=\"\" width=\"2252\" height=\"2636\" /><figcaption><em>&#8220;‘O projeto Favela 3D vai além das soluções superficiais para a pobreza. Enfrentamos uma complexa teia de problemas porque a pobreza é multidimensional. Transformar o território fisicamente e socialmente é essencial. Não adianta falar em educação e evolução se as pessoas ainda enfrentam condições precárias, como falta de acesso a água e energia. A Favela 3D visa proporcionar dignidade e melhorias completas no ambiente de vida. Embora não possamos tornar todos ricos, é fundamental garantir dignidade para todos.’  (Reprodução : Agência UVA Barra) Foto Bruno </em></figcaption></figure><p>Criatividade, saúde mental e redes sociais foram os&nbsp; temas levantados no TalkcomMoni, conduzido pela jornalista e pós-graduada em marketing de moda, Mônica Salgado. O evento destacou Malu Borges, uma das maiores influencers da atualidade, e sua mãe, Márcia Borges. A relação mãe e filha foi discutida, abordando como Márcia serve como sendo um ponto de equilíbrio na carreira de Malu. Também foram discutidos temas relacionados à publicidade, com Márcia ressaltando a diferença entre marketing de vendas e comunicação digital, e como essas distinções ajudam as marcas a entenderem melhor seus objetivos de campanha. Mãe e filha também falaram sobre projetos futuros, incluindo a abertura de uma nova marca, prometendo trazer inovações que vão além das tendências atuais.&nbsp;</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/20240815_160936.jpg?resize=2992%2C2992&amp;ssl=1\" alt=\"\" width=\"2992\" height=\"2992\" /><figcaption><em>(Foto palestra Malu Borges)</em></figcaption></figure><p>A palestra &#8220;Transformações Humanas: Paradoxos e Tensões na Construção de Pontes entre o Saber e o Fazer,&#8221; conduzida por Kátia Vasconcelos, Diretora de P&amp;D e RH do Grupo Rhopen, abordou as bases que sustentam os novos modelos de vida quanto sociedade frente aos avanços tecnológicos, mudanças climáticas, envelhecimento populacional e desigualdades sociais. Realizada no EduTech, a apresentação destacou paradoxos como inovação e tradição, discutindo quais práticas devemos deixar de lado e enfatizando que não há um caminho absoluto de certo ou errado, mas sim adequações necessárias. O tema aborda a necessidade de, em um mundo repleto de transformações tecnológicas e reconectar com o nosso lado humano. É por meio dessa reconexão que poderemos cuidar do planeta e das pessoas. “Precisamos voltar a ter trabalhos colaborativos e resgatar a humanização que deixamos de lado. Infelizmente, o modelo mental predominante ainda é industrial, onde as pessoas são vistas como peças de uma engrenagem. Mas a verdade é que somos seres vivos, e, como tal, mudamos constantemente, assim como o mundo ao nosso redor”, acrescentou Kátia.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/20240815_171202.jpg?resize=2992%2C2992&amp;ssl=1\" alt=\"\" width=\"2992\" height=\"2992\" /><figcaption><em>&#8220;Futuros possíveis são possíveis desde que nós sejamos capazes, precisamos de gestos diários e gestos diários dependem de nós &#8221;  (Reprodução : Agência UVA Barra) Foto Kátia Vasconcelos</em></figcaption></figure><p>Ao fim do dia, a palestra foi seguida por uma mesa sobre liderança com o ex-jogador Zico, um dos maiores nomes do futebol brasileiro, cuja presença lotou o local. O evento contou também com o renomado apresentador Getúlio Vargas, mais conhecido como GV, uma grande referência da televisão atual, e ainda com a participação de Fábio de Queiroz, presidente da ASSERJ, e Sérgio Ricardo de Almeida, presidente da Companhia de Turismo do Estado do Rio de Janeiro. Durante a mesa, Zico abordou temas sobre liderança tanto dentro quanto fora do campo, ressaltando que a experiência adquirida em casa foi fundamental para forjar seu caráter de liderança. Ele comparou sua experiência de liderança no Brasil com a vivida no Japão, destacando o desenvolvimento do profissionalismo no futebol japonês e expressando gratidão por ter jogado lá. Além disso, Zico discutiu a liderança no futebol atual, refletindo sobre as mudanças e desafios enfrentados pelos líderes no esporte moderno.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/foto-zico.jpeg?resize=1200%2C800&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"800\" /></figure><p>“Para você atingir a liderança, é quando aquelas pessoas que estão à sua volta acreditam e confiam em você.” </p><p>– Zico</p><p><em>Giulia Karol &#8211; 4° Período</em></p></main>"
+  },
+  "date": "2024-08-17T00:00:00",
+  "date_gmt": "2024-08-17T03:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Discussões sobre liderança, impacto social, e novas tecnologias ganharam destaque em encontro global, reunindo grandes nomes do empreendedorismo e tecnologia no Píer Mauá. Reprodução: Julia Medina O Rio Innovation Week, realizado entre os dias 13 e 16 de agosto, é a maior conferência global de tecnologia e inovação. Reunindo CEOs, startups, investidores e especialistas do [&hellip;]</p>\n"
+  },
+  "featured_media": 17213,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17211"
+  },
+  "id": 17211,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/10-riw-juliamedina-65_resized.png?fit=999%2C666&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4tB",
+  "link": "https://agenciauvabarra.com/2024/08/17/rio-innovation-week/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-08-23T17:27:03",
+  "modified_gmt": "2024-08-23T20:27:03",
+  "ping_status": "open",
+  "slug": "rio-innovation-week",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Rio Innovation Week "
+  },
+  "type": "post"
+}

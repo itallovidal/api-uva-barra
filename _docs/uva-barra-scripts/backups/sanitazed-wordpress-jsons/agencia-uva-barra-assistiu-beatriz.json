@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4377/revisions/4386",
+        "id": 4386
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4377"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4377",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4377/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4377"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4379"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4377",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4377",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-4377",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-beatriz",
+    "tag-cinema-nacional",
+    "tag-marjorie-estiano",
+    "tag-mpc-filmes",
+    "tag-sergio-guize"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/screen-shot-2019-05-06-at-09.56.06.png?fit=332%2C590&amp;ssl=1' alt='Screen Shot 2019-05-06 at 09.56.06' width='261' height='463' /><figcaption>Foto: Divulgação – MPC Filmes</figcaption></figure><p>A dificuldade de se escrever um livro, é enorme. Manter a constância, rotina e paciência são árduos, principalmente quando existem prazos envolvidos. E o novo filme do roteirista Alberto Graça lançado no sábado (1) retrata justamente os altos e baixos de um escritor frustrado por não conseguir desenvolver sua história.</p><p>Morando em Lisboa, Marcelo (Sérgio Guizé) e Beatriz (Marjorie Estiano) formam um casal apaixonado que adora se provocar e usar da imaginação para criar novos desejos no parceiro, seja por mensagens cifradas ou fetiches sexuais realizados em locais públicos. O fogo da paixão inspirou Marcelo que começou a escrever livros eróticos baseados nas experiências pessoais. Beatriz busca em quebra de rotina e situações comprometedoras se manter a musa inspiradora do livro do amado com o único objetivo de alimentar a criatividade do autor.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/p1320030.jpg?fit=1024%2C576&amp;ssl=1' alt='P1320030' width='1024' height='576' /><figcaption>Marjorie Estiano e Sérgio Guizé – Foto: Divulgação – MPC Filmes</figcaption></figure><p>Um longa-metragem escrito por quatro roteiristas homens, que de início transparece ser um filme com olhar machista, mas conforme a ideia vai se desenvolvendo percebe-se que a personagem não é uma vítima do marido. ”Eu sempre parti do princípio de que a Beatriz é vítima de si mesma, ela tomou decisões difíceis por vontade própria, por querer manter essa relação”, diz Marjorie Estiano.</p><p>O longa busca, não só como obra de entretenimento, levar a reflexão de “Como amar alguém sem me odiar?“. Marjorie vai dar vida a esta mulher submissa que mantem um relacionamento que não era recíproco. Reciprocidade é a palavra que a narrativa tentou utilizar para unir esse casal, mas a única pessoa a qual larga tudo pelo o outro, é Beatriz.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/img_20190601_131045465-e1559666751587.jpg?fit=1024%2C531&amp;ssl=1' alt='IMG_20190601_131045465' width='1024' height='531' /><figcaption>Elenco e Produção do filme presente na pré-estreia no Rio de Janeiro – Foto: Natália Lisboa</figcaption></figure><p>Intenso e difícil mas necessário para gerar debates sobre até onde ir por uma pessoa é considerado “amor”. Se odiar por conta de alguém não é uma opção e se machucar por isso é inaceitável. Beatriz deixa esses questionamentos para o público que sai intrigado do cinema. O filme estreia dia 06 de junho.</p><figure><iframe src='https://www.youtube.com/embed/QN3_EfFE09o?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Natália Lisboa – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-06-04T13:58:38",
+  "date_gmt": "2019-06-04T16:58:38",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A dificuldade de se escrever um livro, é enorme. Manter a constância, rotina e paciência são árduos, principalmente quando existem prazos envolvidos. E o novo filme do roteirista Alberto Graça lançado no sábado (1) retrata justamente os altos e baixos de um escritor frustrado por não conseguir desenvolver sua história. Morando em Lisboa, Marcelo (Sérgio [&hellip;]</p>\n"
+  },
+  "featured_media": 4379,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4377"
+  },
+  "id": 4377,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/p1320030.jpg?fit=4608%2C2592&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-18B",
+  "link": "https://agenciauvabarra.com/2019/06/04/agencia-uva-barra-assistiu-beatriz/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-06-04T14:21:45",
+  "modified_gmt": "2019-06-04T17:21:45",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-beatriz",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    594022,
+    168394,
+    2731326,
+    642724141,
+    7900515
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: “Beatriz”"
+  },
+  "type": "post"
+}

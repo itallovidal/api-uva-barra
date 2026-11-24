@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7551/revisions/7556",
+        "id": 7556
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7551"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7551",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7551/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7551"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7553"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7551",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7551",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    268277,
+    703299214
+  ],
+  "class_list": [
+    "post-7551",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "category-solidariedade",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-28-e1597167058388.png?resize=481%2C392&amp;ssl=1' alt='Máscaras feitas por Patrícia – Foto de Arquivo Pessoal' width='481' height='392' /><figcaption>Máscaras feitas por Patrícia – Foto de Arquivo Pessoal</figcaption></figure><p>Devido à pandemia do novo coronavírus, atos de solidariedade estão sendo comuns. Pessoas fora do grupo de risco estão se oferecendo para ir ao mercado, por exemplo, para que os idosos possam ficar protegidos em suas casas, sem correrem o risco de se contaminar. As sacolas são deixadas na porta dos idosos e limpas com álcool.</p><p>Ir ao mercado não é a única preocupação. Cuidados básicos, como o uso do álcool em gel e a utilização da máscara, estão sendo uma necessidade. Porém, como nem todos têm condições de comprá-los, pessoas nas redes sociais estão doando álcool em gel e ensinando como fazer sua própria máscara sem sair de casa.</p><p>A estudante de Turismo da Universidade Veiga de Almeida, Julia Alves, 19, conta que se disponibilizou a ajudar os avós com as compras, indo ao mercado e à farmácia para eles. A costureira Patrícia Nunes, 42, morada da Sulacap, está fazendo máscaras e vendendo. “Apesar de estarmos nessa situação difícil, temos que nos virar do jeito que podemos. Então eu juntei o útil ao agradável e comecei a fazer minhas máscaras e a vender para vizinhos e conhecidos”.</p><p>ONGs também estão fazendo o seu papel. A Comunitas iniciou uma campanha para arrecadar R$ 4,2 milhões para doar 60 respiradores para hospitais de rede pública do Estado de São Paulo. Após quatro dias de campanha, R$ 23,5 milhões foram arrecadados e 345 respiradores foram doados. A ONG fundada pelo sociólogo Herbert de Souza, Ação da Cidadania, começou a distribuir, em 25 de março, 40 toneladas de alimentos arrecadados com parceiros para famílias afetadas no Rio de Janeiro.</p><p>Além de todas essas ajudas, algumas digitais influencers estão cedendo seus perfis com milhões de seguidores para divulgar pequenas empresas, com o intuito de ajudar os negócios nesses tempos de dificuldade. Não só empresários estão sendo ajudados e ajudando. Muitos restaurantes estão doando um prato de comida para aqueles que moram na rua e não tem o que comer. A hora agora não é desistir e sim de se reinventar como sociedade mais uma vez.</p><p><strong>Raquel Frutuoso Alves – 3º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-08-13T14:02:00",
+  "date_gmt": "2020-08-13T17:02:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Devido à pandemia do novo coronavírus, atos de solidariedade estão sendo comuns. Pessoas fora do grupo de risco estão se oferecendo para ir ao mercado, por exemplo, para que os idosos possam ficar protegidos em suas casas, sem correrem o risco de se contaminar. As sacolas são deixadas na porta dos idosos e limpas com [&hellip;]</p>\n"
+  },
+  "featured_media": 7553,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7551"
+  },
+  "id": 7551,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-28-e1597167058388.png?fit=617%2C503&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1XN",
+  "link": "https://agenciauvabarra.com/2020/08/13/solidariedade-aumenta-entre-brasileiros-em-tempos-de-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-12T14:30:04",
+  "modified_gmt": "2020-08-12T17:30:04",
+  "ping_status": "open",
+  "slug": "solidariedade-aumenta-entre-brasileiros-em-tempos-de-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Solidariedade aumenta entre brasileiros em tempos de pandemia"
+  },
+  "type": "post"
+}

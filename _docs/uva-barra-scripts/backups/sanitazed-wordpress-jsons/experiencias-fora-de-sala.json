@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1987/revisions/2978",
+        "id": 2978
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1987"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1987",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1987/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1987"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1987",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1987",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1987",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Centro Acadêmico de Nutrição promove série de palestras no campus Barra, da Universidade Veiga de Almeida</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/whatsapp-image-2018-05-25-at-17-30-26.jpeg?resize=1280%2C720&#038;ssl=1' alt='WhatsApp Image 2018-05-25 at 17.30.26' width='1280' height='720' /><figcaption>Foto: Ana Beatriz Bernardo</figcaption></figure><p>As faculdades procuram incentivar a participação dos alunos e acrescentar experiências fora das salas de aula. E não é diferente no campus Barra da Universidade Veiga de Almeida (UVA), onde ocorreu nesta quinta-feira, 24, o 4º ciclo de palestras Canut UVA. Uma iniciativa do Centro Acadêmico de Nutrição, que representa o curso há 4 anos na Tijuca, com a coordenação de Carlos Eduardo das Neves e dos Representantes do Canut, o evento começou às 8:30 da manhã, no auditório do bloco A. O bate-papo reuniu alunos de nutrição e biomedicina do primeiro ao terceiro período, e promoveu a conversa com vários profissionais da área.</p><p>Microbiota intestinal e obesidade, atuação do nutricionista em serviço de alimentação, atuação e vivência do nutricionista em creches e escolas e os mitos e verdades dos esteroides e anabolizantes. Esses foram os assuntos que a nutricionista Júlia Alves comentou, ainda acrescenta sobre a avaliação da composição corporal de bailarinos e conta que a ideia do estudo surgiu pelo fato de ser bailarina desde os oito anos de idade, e ver muitos casos de anorexia e bulimia. “O foco era avaliar a composição corporal, não imaginava que ia esbarrar em tantos casos de pessoas que não estão satisfeitas com o próprio corpo”, revela.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A nutrição é uma carreira dinâmica. Para a professora Yone Nut, eventos assim são importantes por conta das constantes mudanças no curso. “O tempo inteiro temos novas descobertas no campo, é sempre bom compartilhar com os alunos que ainda estão conhecendo a área”, explica. E os estudantes, como a Luana Vasconcellos, aproveitam essas oportunidades para agregar conhecimento. “Eu adorei as palestras, com toda certeza acrescentou muito nas minhas experiências a aprendi mais sobre o meu curso”, declara a estudante de nutrição do primeiro período.</p><p>Uma forma de contato direto com a área é o diferencial para os estudantes. O presidente do Centro Acadêmico de Nutrição da Tijuca, Pedro Augusto Pereira, está cursando o 7º período. Ele relatou que o CANUT ajudou a quebrar barreiras de comunicação entre os alunos e a coordenação do curso. “A nossa ideia é que também haja um CANUT no campus Barra para representar melhor quem estuda aqui. Ainda é um projeto modelo porque oferecemos as palestras, mas não temos os minicursos à tarde”.</p><p>A troca de conhecimento gera resultados proveitosos. Amanda Costa, química e atleta <em>bodybuilder</em>, foi uma das convidadas. Ela compartilhou um pouco da própria experiência na palestra “Esteroides e Anabolizantes: mitos e verdades” e afirmou que gostou muito de comparecer ao CANUT. “É a primeira vez que venho e acho um evento de grande valor, principalmente, porque propicia uma troca de informações entre as áreas de Nutrição, Educação Física e Biomedicina. Os alunos mandam e-mails e eu disponibilizo meu material. Gosto desse <em>feedback</em>”.</p><p>Os docentes têm noção da dimensão do CANUT, como a professora do curso de Nutrição, Betina Schmidt, que ajuda os alunos a organizar o Ciclo de Palestras e relata a relevância disso. &nbsp;“Estamos recebendo cinco palestrantes para falar de diversos temas dentro da Nutrição e da pesquisa científica. Esse é o momento em que a gente consegue reunir todos os estudantes. Há uma troca entre os mais novos e os mais velhos”, conclui.</p><p><strong>Ana Beatriz Bernardo, 5º período e Bárbara Faria, 5º período.</strong></p></main>"
+  },
+  "date": "2018-05-25T19:40:07",
+  "date_gmt": "2018-05-25T22:40:07",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Centro Acadêmico de Nutrição promove série de palestras no campus Barra, da Universidade Veiga de Almeida As faculdades procuram incentivar a participação dos alunos e acrescentar experiências fora das salas de aula. E não é diferente no campus Barra da Universidade Veiga de Almeida (UVA), onde ocorreu nesta quinta-feira, 24, o 4º ciclo de palestras [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1987"
+  },
+  "id": 1987,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-w3",
+  "link": "https://agenciauvabarra.com/2018/05/25/experiencias-fora-de-sala/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T17:56:13",
+  "modified_gmt": "2019-01-26T19:56:13",
+  "ping_status": "open",
+  "slug": "experiencias-fora-de-sala",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Experiências fora de sala"
+  },
+  "type": "post"
+}

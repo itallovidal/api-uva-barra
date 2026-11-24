@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13882/revisions/13887",
+        "id": 13887
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13882"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13882",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13882/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13882"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13886"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13882",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13882",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    14603,
+    74499,
+    701438832,
+    21243,
+    33026
+  ],
+  "class_list": [
+    "post-13882",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-jornalismo",
+    "category-mercado-de-trabalho",
+    "category-radio-uva-barra",
+    "category-seguranca",
+    "category-violencia",
+    "tag-agencia-uva-barra",
+    "tag-assedio",
+    "tag-crime",
+    "tag-mulheres",
+    "tag-trabalho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O assédio sexual se caracteriza quando existe uma abordagem não desejada pela vítima, podendo ser com intenções sexuais ou para causar constrangimento por parte do assediador. Segundo dados do Tribunal Superior do Trabalho, mais de 26 mil mulheres entraram na justiça para denunciar o assédio em locais de trabalho, principalmente vindo de chefes e superiores, que as ameaçam de forma velada. </p><p>E os crimes de assédio não acontecem apenas de maneira física, mas também ocorrem por meio das redes sociais. A repórter da Rádio UVA Barra, Júlia Gabriela, conversou com a vendedora Letícia Vieira e o professor do curso de direito Marcelo Trindade para esclarecer o tema. <strong>Ouça a reportagem abaixo!</strong></p><figure><img src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1404282694&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' alt='Assédio Sexual by Agência UVA Barra' width='500' height='400' title='Assédio Sexual by Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></figure><p>Júlia Gabriela – 3° período </p></main>"
+  },
+  "date": "2022-12-16T17:50:15",
+  "date_gmt": "2022-12-16T20:50:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O assédio sexual se caracteriza quando existe uma abordagem não desejada pela vítima, podendo ser com intenções sexuais ou para causar constrangimento por parte do assediador. Segundo dados do Tribunal Superior do Trabalho, mais de 26 mil mulheres entraram na justiça para denunciar o assédio em locais de trabalho, principalmente vindo de chefes e superiores, que as ameaçam de forma velada. </p>\n"
+  },
+  "featured_media": 13886,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13882"
+  },
+  "id": 13882,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/woman-2303361_1920.jpg?fit=1920%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3BU",
+  "link": "https://agenciauvabarra.com/2022/12/16/radio-uva-barra-assedio-sexual/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-16T17:50:15",
+  "modified_gmt": "2022-12-16T20:50:15",
+  "ping_status": "open",
+  "slug": "radio-uva-barra-assedio-sexual",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1145899,
+    3898,
+    15254,
+    767056610
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rádio UVA Barra: Assédio sexual"
+  },
+  "type": "post"
+}

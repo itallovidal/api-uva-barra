@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17748/revisions/17774",
+        "id": 17774
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17748"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17748",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17748/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17748"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17759"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17748",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17748",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17748",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Rio das Ostras é um município da região dos lagos do Estado do Rio de Janeiro. É conhecido pelas suas belas praias e tem recebido investimentos significativos em infraestrutura. As praias mais famosas são: Praia da Tartaruga, Praia do Centro, Praia da Boca da Barra e Praia de Costazul. Na praia de Costazul, é possível surfar. Uma das principais atrações turísticas do município é a Praça da Baleia, localizada no final da praia de Costazul. Esta praça tem uma estátua da baleia Jubarte esculpida em bronze.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/whatsapp-image-2024-10-14-at-15.09.03.jpeg?resize=1280%2C960&amp;ssl=1' alt='' width='1280' height='960' /><figcaption>Prainha de Costazul</figcaption></figure><p>Outra atração turística é o Museu de Sítio Arqueológico Sambaqui da Tarioba, que conta com peças catalogadas de acordo com a época, origem e denominação do Instituto de Arqueologia Brasileira (IAB), com o objetivo de reconstruir a pré-história da região. A área foi escavada com restos de esqueletos e objetos de decoração, como ostras gigantes, conchas e pedras (batedores e quebra-coquinhos), o que demonstra a ocupação de uma civilização antiga, estimada em 4 mil anos.</p><p>O Parque Municipal dos Pássaros tem como objetivo proteger e resgatar espécies de aves nativas da região de restinga. Ao percorrer as trilhas ecológicas, é possível observar a fauna e a vegetação típicas da Mata Atlântica. No Centro de Visitantes, são apresentadas exposições artísticas de cunho ambiental.</p><p>O programa do Sesc ocorre todo verão no período de janeiro e fevereiro. Nessa época, é possível encontrar shows e atividades de bem estar e lazer. Costazul possui arenas que contam com diversas ações recreativas ao ar livre destinadas a todo público, como torneio de skate, aulões de yoga e ritmos, ocupações literárias e exposições. Os shows acontecerão na Área de Eventos Camping, com entrada franca.</p><p>Segundo Claudio Veiga, 55, Rio das Ostras possui praias belíssimas e excelentes para estar com família e amigos, onde o mar é tranquilo e com fácil acesso aos quiosques. “A cidade está crescendo, tem ótimos lugares para passear e visitar como o parque dos pássaros, o circo que vem para cidade e os eventos que ocorrem sem falar do shopping novo é um ótimo local para se distrair e curtir a tarde”, diz empolgado.</p><p>Guilherme Ferreira ,20, morador de Rio das Ostras afirma que curte o Sesc Verão onde pode aproveitar para sair com os amigos e assistir shows ao vivo. “ O bom do sesc são os esportes próximo a praia lá da para conhecer muitas pessoas e fazer novas amizades”, disse Guilherme.</p><p>Giovanna Mattos – 6° Período</p></main>"
+  },
+  "date": "2024-10-23T16:24:17",
+  "date_gmt": "2024-10-23T19:24:17",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Rio das Ostras é um município da região dos lagos do Estado do Rio de Janeiro. É conhecido pelas suas belas praias e tem recebido investimentos significativos em infraestrutura. As praias mais famosas são: Praia da Tartaruga, Praia do Centro, Praia da Boca da Barra e Praia de Costazul. Na praia de Costazul, é possível [&hellip;]</p>\n"
+  },
+  "featured_media": 17759,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17748"
+  },
+  "id": 17748,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/whatsapp-image-2024-10-14-at-15.09.03.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Cg",
+  "link": "https://agenciauvabarra.com/2024/10/23/expedicao-urbana-o-que-fazer-em-rio-das-ostras/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-10-23T16:24:17",
+  "modified_gmt": "2024-10-23T19:24:17",
+  "ping_status": "open",
+  "slug": "expedicao-urbana-o-que-fazer-em-rio-das-ostras",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Expedição Urbana: O que fazer em Rio Das Ostras"
+  },
+  "type": "post"
+}

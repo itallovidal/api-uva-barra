@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3728/revisions/3731",
+        "id": 3731
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3728"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3728",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3728/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3728"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3728",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3728",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3728",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Debate apresenta as novas configurações familiares e alerta para a construção de narrativas plurais</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/dscn0049.jpg?resize=4896%2C3672&amp;ssl=1\" alt=\"\" width=\"4896\" height=\"3672\"><figcaption>Diretoras criativas debatem sobre as diversas famílias do Brasil – Foto: Gabriel Torres</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/dscn0068.jpg?resize=4896%2C3672&amp;ssl=1\" alt=\"\" width=\"4896\" height=\"3672\"><figcaption>Durante 45 minutos, o público pode interagir com profissionais do mercado – Foto: Gabriel Torres</figcaption></figure><p>Dados comprovam que a família tradicional brasileira está mudando. Lares formados por casais heterossexuais e com filhos são somente 42% no país. Esse dado é um exponente para o planejamento e criação de produtos que não excluem os outros 58%. O Rio2c sediou nesta terça feira (23) um debate com diretores de criação sobre como a comunicação pode ajudar a dar voz para as famílias que não são vistas normalmente na publicidade.</p><p>Os lares brasileiros são 48% comandados por mulheres, a cofundadora da consultoria 65/10 Thais Frabis diz que a comunicação necessita retratar essa pluralidade para protegê-las. “A maioria das casas estão dividido em mãe solo, casais sem filho, famílias homoafetivas e negras, então precisamos garantir que elas sejam aceitas”, declara. Ela termina comentando que as empresas perdem negócios quando não investem nessa diversidade.</p><figure><div><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/COhyQQcnxNQ?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p>Esse posicionamento já é uma cobrança também para as marcar. Para a diretora de criação Denise Gallo a representação na publicidade continua insuficiente. “Houve uma mudança nesses cinco anos quanto a isso, mas ainda é preciso multiplicar essa representatividade”. A palestrante diz que é preciso persistir nessa diversidade para torna-la normal no dia a dia das pessoas.</p><p>Vindo de São Paulo para o Rio de Janeiro, a produtora Julia Santos se interessou pelo evento com o objetivo de adquirir experiência. “Vim assistir por ser mulher ativa nessas lutas e foi importante ver como essas profissionais se colocam e como nós, comunicadores, podemos mudar a realidade dos brasileiros”. O Rio2c acontece ate domingo (28) no Cidade das Artes na Barra da Tijuca.</p><p>Ana Carolina Marinho – 7º Período | Jornalismo</p></main>"
+  },
+  "date": "2019-04-24T16:33:53",
+  "date_gmt": "2019-04-24T19:33:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Debate apresenta as novas configurações familiares e alerta para a construção de narrativas plurais Dados comprovam que a família tradicional brasileira está mudando. Lares formados por casais heterossexuais e com filhos são somente 42% no país. Esse dado é um exponente para o planejamento e criação de produtos que não excluem os outros 58%. O [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3728"
+  },
+  "id": 3728,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Y8",
+  "link": "https://agenciauvabarra.com/2019/04/24/como-a-comunicacao-nos-faz-enxergar-a-diversidade-familiar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-24T16:33:53",
+  "modified_gmt": "2019-04-24T19:33:53",
+  "ping_status": "open",
+  "slug": "como-a-comunicacao-nos-faz-enxergar-a-diversidade-familiar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Como a comunicação nos faz enxergar a diversidade familiar"
+  },
+  "type": "post"
+}

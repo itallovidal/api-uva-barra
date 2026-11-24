@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21456/revisions/21537",
+        "id": 21537
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21456"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21456",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21456/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21456"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21459"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21456",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21456",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-21456",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Chegamos ao último episódio da temporada.</p><p>E falaremos sobre a inclusão de crianças no esporte. Para contar sobre o tema, a educadora Adriana Freire explica como o projeto Velejando para o Futuro, se organiza para receber crianças de diferentes perfis e promover um ambiente colaborativo e acolhedor.</p><p>Quer entender como o esporte pode ser um instrumento de mudança social? Sintonize agora na Rádio UVA Barra.</p><figure><blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/reel/DUGS53xiW1u/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:500px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/reel/DUGS53xiW1u/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a></div></blockquote><script async src=\"//platform.instagram.com/en_US/embeds.js\"></script></div>\n</div></figure><p>Créditos: Produção: Luys Guilherme Cavalcante, Milene Guedes e Mário Freire e Milene Guedes Coordenação da Rádio UVA Barra: Professor Anderson Barreto Coordenação do Curso de Jornalismo: Professora Renata Feital</p></main>"
+  },
+  "date": "2026-01-29T13:01:56",
+  "date_gmt": "2026-01-29T16:01:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Chegamos ao último episódio da temporada. E falaremos sobre a inclusão de crianças no esporte.Para contar sobre o tema, a educadora Adriana Freire explica como o projeto Velejando para o Futuro, se organiza para receber crianças de diferentes perfis e promover um ambiente colaborativo e acolhedor. Quer entender como o esporte pode ser um instrumento [&hellip;]</p>\n"
+  },
+  "featured_media": 21459,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21456"
+  },
+  "id": 21456,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-06-130453.png?fit=582%2C585&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5A4",
+  "link": "https://agenciauvabarra.com/2026/01/29/dez-minutos-sobre-o-esporte-como-ferramenta-de-inclusao-e-acolhimento-de-criancas-atipicas-e-de-baixa-renda/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAMhrjm6h7v6/3UCekCmgK2LpAWwENYrgFCoghCrBlYJhxYPkKqAUKqAULSA7oTHAgGGg4UDAIGHAIKCBYKKA4GCD4FAQYIBBAEAhoVATgIAgwQJP5DOgEQLAIBAQgBA0gCCEqsAQEBCAJCAQJIAKAIAQEIAkIBAkjOCwKgD7QRFA4CBjwCJgLYGJQZAQEIAQNIAgQCAQRIKgEBCAEDSAIISjwBAQgCQgECSACoAQEBCAJCAQJIAKgBAQEIAkIBAkjGCLgMtgsaAgUBAhgCDAISAgoDAAQCGgMCBAIGAgwCBgMCBQACBgIEAhICDAIEAgYCEgIoAwMEBgMABAMABQADBQQGAggDARICCgUAAhICEgISAggCBAIFAAIKAg4DAQQc0ENypgEC5gEruC62CxwIBhoOFAwCBhwCCggWCigOBgg+BQEGCAQQBAIaFQE4CAIMECT+Q6MDKADEAKgBKACoACgAqAAoAKgAKACoASgAqAAoAKgAKACoACgDhADEJyECJwABACcBKAAhACgEJwAoEiEBJwAHACEAKAEnASgEJwChAAQAhwAhACgBJwEEACgEJwCHACEAKAEnAQQAKAQnAEQAhAAEAIEAhACBAIQAgQCEAIEAhACBAIQAhwAhACgAIQAnACEFJwChAKgAJwAoAyEAKACHACEAKAEnASgEJwChAAQAhwAhACgBJwEEACgEJwCHACEAKAEnAQQAKAQnAIcAIQAoAScBBAAoBCcAhAGBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQBgQCEAIEAhAGBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhAOBAIQAgQCEAIEAhACBAIQAgQCEAIEAhAKBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhAGBAIQAgQCEAIEAhACBAIQBqAKhAKjEIcwfc3RhdGV2ZXJzaW9uYW1wO29yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudGRvY3VtZW50c2x1Z3N0YXRlc2F2ZWRBdHN0YXRlc2F2ZWRCeUNyw6lkaXRvczo8YnI+UHJvZHXDp8OjbzogTHV5cyBHdWlsaGVybWUgQ2F2YWxjYW50ZSwgTWlsZW5lIEd1ZWRlcyBlIE3DoXJpbyBGcmVpcmUgZSBNaWxlbmUgR3VlZGVzPGJyPkNvb3JkZW5hw6fDo28gZGEgUsOhZGlvIFVWQSBCYXJyYTogUHJvZmVzc29yIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mZXNzb3JhIFJlbmF0YSBGZWl0YWxDw6lkaXRvc2JyUG9kdcOnw6NvOkx1eXNHdWlsaGVtZSBDdmxjbnRlLE1lbmVHdWVzTcOhRmVpZWVpZW5lR3VlZGVzPGJyPm9uYcOnw6NvIGRhIFLDoWRVVkFCYXJyYTpmZXNzckFubkJldG9ib3JkZcOnw6NvZG9DdXM6IFByb2Zlc3NvcmEgUmVuYXRhIEZlaXRhbHN0YXRldmVyc2lvbmRvY3VtZW50ZGF0ZWRvY3VtZW50c3RhdHVzZG9jdW1lbnR0aXRsZWRvY3VtZW50Y29udGVudGRvY3VtZW50ZXhjZXJwdGRvY3VtZW50YXV0aG9yZG9jdW1lbnRmZWF0dXJlZF9tZWRpYWRvY3VtZW50Y29tbWVudF9zdGF0dXNkb2N1bWVudHBpbmdfc3RhdHVzZG9jdW1lbnRzdGlja3lkb2N1bWVudHRlbXBsYXRlZG9jdW1lbnRmb3JtYXRkb2N1bWVudG1ldGFhZHZhbmNlZF9zZW9fZGVzY3JpcHRpb25qZXRwYWNrX3Nlb19odG1sX3RpdGxlamV0cGFja19zZW9fbm9pbmRleF9jb2Jsb2Nrc19hdHRyX2NvYmxvY2tzX2RpbWVuc2lvbnNfY29ibG9ja3NfcmVzcG9uc2l2ZV9oZWlnaHRfY29ibG9ja3NfYWNjb3JkaW9uX2llX3N1cHBvcnRqZXRwYWNrX3Bvc3Rfd2FzX2V2ZXJfcHVibGlzaGVkcmVhZGVyX3N1Z2dlc3RlZF90YWdzX2pldHBhY2tfbmV3c2xldHRlcl9hY2Nlc3NfamV0cGFja19kb250X2VtYWlsX3Bvc3RfdG9fc3Vic19qZXRwYWNrX25ld3NsZXR0ZXJfdGllcl9pZF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BheXdhbGxlZF9jb250ZW50X2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGFpZF9jb250ZW50Zm9vdG5vdGVzamV0cGFja19wdWJsaWNpemVfbWVzc2FnZWpldHBhY2tfcHVibGljaXplX2ZlYXR1cmVfZW5hYmxlZGpldHBhY2tfc29jaWFsX3Bvc3RfYWxyZWFkeV9zaGFyZWRqZXRwYWNrX3NvY2lhbF9vcHRpb25zZG9jdW1lbnRjYXRlZ29yaWVzZG9jdW1lbnR0YWdzZG9jdW1lbnRibG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc0NoZWdhbW9zIGFvIMO6bHRpbW8gZXBpc8OzZGlvIGRhIHRlbXBvcmFkYS5jbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRFIGZhbGFyZW1vcyBzb2JyZSBhIGluY2x1c8OjbyBkZSBjcmlhbsOnYXMgbm8gZXNwb3J0ZS48YnI+UGFyYSBjb250YXIgc29icmUgbyB0ZW1hLCBhIGVkdWNhZG9yYSBBZHJpYW5hIEZyZWlyZSBleHBsaWNhIGNvbW8gbyBwcm9qZXRvIFZlbGVqYW5kbyBwYXJhIG8gRnV0dXJvLCBzZSBvcmdhbml6YSBwYXJhIHJlY2ViZXIgY3JpYW7Dp2FzIGRlIGRpZmVyZW50ZXMgcGVyZmlzIGUgcHJvbW92ZXIgdW0gYW1iaWVudGUgY29sYWJvcmF0aXZvIGUgYWNvbGhlZG9yLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50UXVlciBlbnRlbmRlciBjb21vIG8gZXNwb3J0ZSBwb2RlIHNlciB1bSBpbnN0cnVtZW50byBkZSBtdWRhbsOnYSBzb2NpYWw/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzRGV6IG1pbnV0b3Mgc29icmUgLSA8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+Q2hlZ2Ftb3MgYW8gw7psdGltbyBlcGlzw7NkaW8gZGEgdGVtcG9yYWRhLjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkUgZmFsYXJlbW9zIHNvYnJlIGEgaW5jbHVzw6NvIGRlIGNyaWFuw6dhcyBubyBlc3BvcnRlLjxicj5QYXJhIGNvbnRhciBzb2JyZSBvIHRlbWEsIGEgZWR1Y2Fkb3JhIEFkcmlhbmEgRnJlaXJlIGV4cGxpY2EgY29tbyBvIHByb2pldG8gVmVsZWphbmRvIHBhcmEgbyBGdXR1cm8sIHNlIG9yZ2FuaXphIHBhcmEgcmVjZWJlciBjcmlhbsOnYXMgZGUgZGlmZXJlbnRlcyBwZXJmaXMgZSBwcm9tb3ZlciB1bSBhbWJpZW50ZSBjb2xhYm9yYXRpdm8gZSBhY29saGVkb3IuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+UXVlciBlbnRlbmRlciBjb21vIG8gZXNwb3J0ZSBwb2RlIHNlciB1bSBpbnN0cnVtZW50byBkZSBtdWRhbsOnYSBzb2NpYWw/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhLjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPk8gRXNwb3J0ZSBjb21vIGZlcnJhbWVudGEgZGUgaW5jbHVzw6NvIGUgYWNvbGhpbWVudG8gZGUgY3JpYW7Dp2FzIGF0w61waWNhcyBlIGRlIGJhaXhhIHJlbmRhY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjYXB0aW9ucHJvdmlkZXJOYW1lU2x1Z2FsbG93UmVzcG9uc2l2ZXJlc3BvbnNpdmVwcmV2aWV3YWJsZXVybHR5cGVjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc0VxdWlwZSBVVkEgQmFycmE6Y2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50RHVkYSBOaWNvbGljaCAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRNYWx1IENvcmRlaXJvIC0gM8K6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW9kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudENhcm9saW5hIEFsdmVzIC0gNcK6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW9kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2NrcwoKPCEtLSB3cDplbWJlZCB7InVybCI6Imh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EVUdTNTN4aVcxdS8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rXHUwMDI2aWdzaD1NelJsT0RCaU5XRmxaQT09IiwidHlwZSI6InJpY2giLCJwcm92aWRlck5hbWVTbHVnIjoiaW5zdGFncmFtIiwicmVzcG9uc2l2ZSI6dHJ1ZX0gLS0+CjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWVtYmVkIGlzLXR5cGUtcmljaCBpcy1wcm92aWRlci1pbnN0YWdyYW0gd3AtYmxvY2stZW1iZWQtaW5zdGFncmFtIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EVUdTNTN4aVcxdS8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmFtcDtpZ3NoPU16UmxPREJpTldGbFpBPT0KPC9kaXY+PC9maWd1cmU+CjwhLS0gL3dwOmVtYmVkIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPnI6PD5yICByYWFhIGlsIGVkIGUgcmlvIHJyICBNbCBDb3JkZWlvICAgUHJvbyBkZXJzbyBhcnI8cj5Db25hICBybyBkZSBKb3JuYWxpc21vPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+BQcETwYIBAUHBQecAwEGAgEHBAYEAQIEAQNCAQECQQEDCgEMAwYEAQJBAAMBBANCAAEaBQcIBAgGCAUIBwgHCAYIDggOCAsIBkgBBggEGBYTDhQbHh8VGiAbLyoJGSEiFggKCAQIBggHBApHAAoNDwwLKQgHBAoHhAQHCg0PDAsIBwQKB6sBBwoNDwwLARO4CAoBHhMdCAcECkcACg0PDAsHEA8KCwMECAcECkcACg0PDAsRCAcECgcoBwoNDwwLCAcECgcoBwoNDwwLCAcECgcpBwoNDwwLpQG7BQECQQ0CQQkCAwECAQJBAgJBAgJBBAJBAg4bDwEAAAcBBgAAAQkAEgECACRCAQEAQQACAEEAAgBBAAIAQQAAAkEAAgBBAAIAQQACAEEAAgA7QRcTQTMCBwNBMg1CAAwGCQUCDQECAwYDQQACAwIJBgIDCRRBAgJBAQMEAQkFAkkBBEIABQcBAkEBAwECQAB9AXUDfZnMmOoEfay+lwV9hvPpuAF3JDc0MDYyZWFmLWM3ZmMtNDg5Zi05MTRhLWQ0YzA0YzJkYWY4ZHcyPHA+Q2hlZ2Ftb3MgYW8gw7psdGltbyBlcGlzw7NkaW8gZGEgdGVtcG9yYWRhLjwvcD53JGUxOGQ2MjMzLWZjZTAtNDZjZi04MGIxLTA3N2M5MWFmMTJkMXeOAjxwPkUgZmFsYXJlbW9zIHNvYnJlIGEgaW5jbHVzw6NvIGRlIGNyaWFuw6dhcyBubyBlc3BvcnRlLjxicj5QYXJhIGNvbnRhciBzb2JyZSBvIHRlbWEsIGEgZWR1Y2Fkb3JhIEFkcmlhbmEgRnJlaXJlIGV4cGxpY2EgY29tbyBvIHByb2pldG8gVmVsZWphbmRvIHBhcmEgbyBGdXR1cm8sIHNlIG9yZ2FuaXphIHBhcmEgcmVjZWJlciBjcmlhbsOnYXMgZGUgZGlmZXJlbnRlcyBwZXJmaXMgZSBwcm9tb3ZlciB1bSBhbWJpZW50ZSBjb2xhYm9yYXRpdm8gZSBhY29saGVkb3IuPC9wPnckYzY4MDU1YTctZThlMi00Y2RjLWJjMmQtNjdhY2Y5Zjg2MmIyd3Q8cD5RdWVyIGVudGVuZGVyIGNvbW8gbyBlc3BvcnRlIHBvZGUgc2VyIHVtIGluc3RydW1lbnRvIGRlIG11ZGFuw6dhIHNvY2lhbD8gU2ludG9uaXplIGFnb3JhIG5hIFLDoWRpbyBVVkEgQmFycmEuPC9wPnckNDU5NDRmNWYtYjA5My00ZGJkLTkyNDktY2U4YThhZDAzODcxd/IBPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2stZW1iZWQgaXMtdHlwZS1yaWNoIGlzLXByb3ZpZGVyLWluc3RhZ3JhbSB3cC1ibG9jay1lbWJlZC1pbnN0YWdyYW0iPjxkaXYgY2xhc3M9IndwLWJsb2NrLWVtYmVkX193cmFwcGVyIj4KaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RVR1M1M3hpVzF1Lz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmYW1wO2lnc2g9TXpSbE9EQmlOV0ZsWkE9PQo8L2Rpdj48L2ZpZ3VyZT53YWh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EVUdTNTN4aVcxdS8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmFtcDtpZ3NoPU16UmxPREJpTldGbFpBPT13JDdiZWM3YTYwLWUzYTMtNGQ1Ny05NzdjLTE4OTA2MTFkZDBiNXcYPHA+RXF1aXBlIFVWQSBCYXJyYTo8L3A+dyQ1YWYyNzY3NS02YjBiLTRiOWMtYjA2NS05MTgyYjdjNmJjYmZ3MTxwPkR1ZGEgTmljb2xpY2ggLSAzwrogUGVyw61vZG8gZGUgSm9ybmFsaXNtbzwvcD53JDE4Y2MxN2M5LWI0ZjEtNDk3Zi1hMDNiLTQxNTAzZjNlMGQxNXcxPHA+TWFsdSBDb3JkZWlybyAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vPC9wPnckZDhjNmM0YTYtNjk5MS00YjU3LTgzZDMtNDc4ZGJlZmVjNmMzdzI8cD5DYXJvbGluYSBBbHZlcyAtIDXCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vPC9wPndrZGV6LW1pbnV0b3Mtc29icmUtby1lc3BvcnRlLWNvbW8tZmVycmFtZW50YS1kZS1pbmNsdXNhby1lLWFjb2xoaW1lbnRvLWRlLWNyaWFuY2FzLWF0aXBpY2FzLWUtZGUtYmFpeGEtcmVuZGF7Qnnf6Pw6IAB7Qe7VmcDAAACWAgB9muCucncEb3BlbncEb3Blbnl3AHcIc3RhbmRhcmR3AHcAeXcAdwB3AHcAeXcAdwB5fQB5eXcAdwB4eXYCGGltYWdlX2dlbmVyYXRvcl9zZXR0aW5nc3YECHRlbXBsYXRldwdoaWdod2F5EGRlZmF1bHRfaW1hZ2VfaWR9AARmb250dwAHZW5hYmxlZHkHdmVyc2lvbn0CeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcKY29yZS9lbWJlZHcJaW5zdGFncmFteHh4dwRyaWNoeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5fZPPAncTMjAyNi0wMS0yOVQxMzowMTo1NnUBfbDt+JwFdwdwdWJsaXNoAoacs7UPAREF7/W+6gRGAAIBEgMAGQECAAoAKgCPAgDBBQEKBgECHgATAB4AAQABBQEABgACAAquAeADDAEBAgEBCwEFAQgBBAIBAQwCAAEBAQIBBQECAQABAAIBAQIBAQEIAQUBAQECAQgBEwEAAQAHAAIAAQECAAEAAQAEAgEDAQABCAEEAgEBCAEIAQgBAwEBAQEDBAEGAQABASwC\",\"updateId\":655873564}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-06T15:32:48",
+  "modified_gmt": "2026-05-06T18:32:48",
+  "ping_status": "open",
+  "slug": "dez-minutos-sobre-o-esporte-como-ferramenta-de-inclusao-e-acolhimento-de-criancas-atipicas-e-de-baixa-renda",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dez minutos sobre &#8211; O Esporte como ferramenta de inclusão e acolhimento de crianças atípicas e de baixa renda"
+  },
+  "type": "post"
+}

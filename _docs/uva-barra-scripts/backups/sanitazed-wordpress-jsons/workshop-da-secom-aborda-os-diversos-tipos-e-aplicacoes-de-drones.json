@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4188/revisions/4195",
+        "id": 4195
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4188"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4188",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4188/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4188"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4194"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4188",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4188",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4188",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-drones",
+    "tag-secom",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os alunos puderam conhecer, tirar dúvidas e se aproximar da tecnologia</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/1-2.jpg?resize=5184%2C3456&#038;ssl=1' alt='' width='5184' height='3456' /><figcaption>Professor Thiago Ramos ministra o workshop \"A tecnologia dos drones\" – Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/6.jpg?resize=5184%2C3456&#038;ssl=1' alt='' width='5184' height='3456' /><figcaption>Drones expostos em workshop – Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/5.jpg?resize=5184%2C3456&#038;ssl=1' alt='' width='5184' height='3456' /><figcaption>Aluno do workshop manuseia controle remoto para drone – Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/4-1.jpg?resize=5184%2C3456&#038;ssl=1' alt='' width='5184' height='3456' /><figcaption>Professor expõe drones para os alunos durante workshop – Foto: Gabriel Torres</figcaption></figure><p>Na última sexta-feira (17), a SeCom promoveu o workshop \"A tecnologia dos drones\", que apresentou aos alunos uma nova perspectiva sobre o uso dos veículos aéreos não tripulados e seus diversos tipos e aplicações. O workshop foi ministrado pelo professor e especialista em drones Thiago Ramos, que possui experiência na atuação e implementação de Inteligência Artificial nessa tecnologia.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/2-2.jpg?resize=615%2C409&#038;ssl=1' alt='' width='615' height='409' /><figcaption>Professor exibe um modelo pequeno de drone – Foto: Gabriel Torres</figcaption></figure><p>A última atividade oferecida pela Semana de Comunicação da Universidade Veiga de Almeida, campus Barra, buscou aproximar o público de uma tecnologia que, por vezes, parece distante, mas já presente em diversos trabalhos jornalísticos e publicitários. Para o especialista, qualquer pessoa pode se envolver com a área. \"Sendo com baixo ou alto custo, tem como você seguir. Você pode gastar desde treze dólares até oitocentos reais ou mais. Vai depender do que você quer fazer\", afirma Thiago.</p><p>Os alunos que participaram do workshop tiveram a oportunidade de manejar os drones expostos no local. Manusearam os aparelhos, sentiram os pesos, tiraram dúvidas sobre funcionalidades e preços. Porém, devido a forte chuva que ocorria ao mesmo tempo que a oficina, não foi possível fazer com que os drones levantassem voo, pois a ação da água ou o excesso de vento poderiam causar instabilidade ou danos aos aparelhos. \"Mas foi interessante\", diz Catarina Casini, aluna do 3º período de Jornalismo, \"O drone tem muitas utilidades e daqui a pouco vai se tornar algo tão popular quanto o telefone\", conclui.</p><figure><iframe src='https://www.youtube.com/embed/9Psxg_PgfGU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Gabriel Torres – 5º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-05-19T17:26:51",
+  "date_gmt": "2019-05-19T20:26:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os alunos puderam conhecer, tirar dúvidas e se aproximar da tecnologia Na última sexta-feira (17), a SeCom promoveu o workshop “A tecnologia dos drones”, que apresentou aos alunos uma nova perspectiva sobre o uso dos veículos aéreos não tripulados e seus diversos tipos e aplicações. O workshop foi ministrado pelo professor e especialista em drones [&hellip;]</p>\n"
+  },
+  "featured_media": 4194,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4188"
+  },
+  "id": 4188,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/6.jpg?fit=5184%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-15y",
+  "link": "https://agenciauvabarra.com/2019/05/19/workshop-da-secom-aborda-os-diversos-tipos-e-aplicacoes-de-drones/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-20T10:01:15",
+  "modified_gmt": "2019-05-20T13:01:15",
+  "ping_status": "open",
+  "slug": "workshop-da-secom-aborda-os-diversos-tipos-e-aplicacoes-de-drones",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    137903,
+    767056635,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Workshop da SeCom aborda os diversos tipos e aplicações de drones"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5644/revisions/5668",
+        "id": 5668
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5644"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5644",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5644/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5644"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5646"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5644",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5644",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-5644",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "tag-aamn-rj",
+    "tag-agencia-uva-barra",
+    "tag-outubro-rosa"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento indica maneiras de amparar quem sofre com a doença</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-1.jpg?resize=4608%2C3456&amp;ssl=1\" alt=\"\" width=\"4608\" height=\"3456\" /><figcaption>Associação de Apoio à Mulher Portadora de Neoplasia (AAMN-RJ) promove bazar no Américas Shopping do dia 14 ao dia 27 de outubro – Foto: Ana Carolina Fernandes</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-2-1.jpg?resize=4608%2C3456&amp;ssl=1\" alt=\"\" width=\"4608\" height=\"3456\" /><figcaption>As voluntárias Maria José de Oliveira, de 58 anos, e Iolanda Paixão, de 68 anos, da AAMN-RJ durante o bazar – Foto: Ana Carolina Fernandes</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-3-1.jpg?resize=4608%2C3456&amp;ssl=1\" alt=\"\" width=\"4608\" height=\"3456\" /><figcaption>O cabeleireiro Félix Malliá participará do corte solidário na próxima terça-feira (22/10) – Foto: Ana Carolina Fernandes</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-4-1.jpg?resize=4608%2C3456&amp;ssl=1\" alt=\"\" width=\"4608\" height=\"3456\" /><figcaption>O corte solidário terá funcionários trabalhando voluntariamente na ação, segundo a fraqueada Miucha Abeid, de 37 anos – Foto: Ana Carolina Fernandes </figcaption></figure><p>Conscientização e prevenção são palavras que representam o mês de outubro. Entre os dias 14 e 27/10, no Américas Shopping, acontece o bazar da Associação de Apoio à Mulher Portadora de Neoplasia (AAMN-RJ) e o corte solidário oferecido pelo salão Werner. Ações solidárias em prol da saúde e autoestima da mulher. </p><p>O dinheiro arrecadado com a venda dos itens de artesanato e de costura durante a ação, será revertida à AAMN-RJ para auxiliar no tratamento ambulatorial às mulheres de baixa renda. A voluntária Iolanda Paixão, de 68 anos conta: “Fazer alguma coisa, mesmo sendo algo pequeno, já é o bastante para ajudar alguém”. Para ela, que está na AAMN há 7 anos, ações como a que acontece no shopping são importantes para mobilizar a sociedade e incentivar o autoexame e o diagnóstico precoce do câncer.</p><p>Além disso, o evento promoverá no dia 22/10, o corte solidário, uma parceria da Fundação Laço Rosa e o Werner. A franqueada do salão no shopping Miucha Abeid, de 37 anos, afirma que o salão já é ponto de coleta o ano todo para quem deseja doar o cabelo. “A ação é uma maneira de conscientização, de fazer as pessoas que não sofrem com a doença pensar sobre o assunto e as clientes ficam muito felizes em participar”, diz. </p><p>Dayana Souza, de 35 anos, conta que a sua filha Maria Eduarda, de oito anos, doou parte do cabelo e se sentiu muito feliz em conseguir realizar esse gesto de carinho. Laura Ramos de Azevedo luta contra o câncer desde 2014 e foi quem recebeu os fios de Duda. “A Duda amou conhecer a Laura, ficou passando a mão no cabelo dela admirada com a peruca; disse que agora eram amigas de cabelo”, comenta a mãe de Duda sobre o encontro das duas em julho deste ano.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-5.jpeg?fit=1024%2C576&amp;ssl=1\" alt=\"\" width=\"531\" height=\"298\" /><figcaption>Laura Souza com sua doadora de cabelo Maria Eduarda – Arquivo Pessoal</figcaption></figure><p>O funcionário do salão Félix Malliá, de 44 anos, participará pela primeira vez do corte solidário e afirma que ação mobilizará outras pessoas a também doarem os fios. “Estou ansioso, porque sei que será muito bom e ajudará muitas pessoas a ficarem contentes em poder ter cabelo novamente”. </p><p>A partir de 12h, na próxima terça-feira (22/10), as senhas serão distribuídas para 16 pessoas que tiverem interesse em ajudar, independente do sexo ou da idade. Qualquer tipo de cabelo será aceito, desde que a mecha doada tenha 20 cm de comprimento, segundo o regulamento da ação. Após o corte, o(a) doador(a) ganhará hidratação e finalização gratuita. O material será enviado para a Fundação Laço Rosa.</p><p><strong>Ana Carolina Fernandes – 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-20T20:17:27",
+  "date_gmt": "2019-10-20T23:17:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento indica maneiras de amparar quem sofre com a doença Conscientização e prevenção são palavras que representam o mês de outubro. Entre os dias 14 e 27/10, no Américas Shopping, acontece o bazar da Associação de Apoio à Mulher Portadora de Neoplasia (AAMN-RJ) e o corte solidário oferecido pelo salão Werner. Ações solidárias em [&hellip;]</p>\n"
+  },
+  "featured_media": 5646,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5644"
+  },
+  "id": 5644,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-1.jpg?fit=4608%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1t2",
+  "link": "https://agenciauvabarra.com/2019/10/20/outubro-rosa-shopping-incentiva-doacao-de-cabelo-e-ajuda-associacao-de-combate-ao-cancer/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-21T08:49:25",
+  "modified_gmt": "2019-10-21T11:49:25",
+  "ping_status": "open",
+  "slug": "outubro-rosa-shopping-incentiva-doacao-de-cabelo-e-ajuda-associacao-de-combate-ao-cancer",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    688616585,
+    648221465,
+    11731347
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Outubro Rosa: shopping incentiva doação de cabelo e ajuda associação de combate ao câncer"
+  },
+  "type": "post"
+}

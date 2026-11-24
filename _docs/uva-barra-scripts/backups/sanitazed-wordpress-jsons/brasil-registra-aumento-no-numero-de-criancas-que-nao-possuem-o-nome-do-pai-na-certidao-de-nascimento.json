@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14160/revisions/14174",
+        "id": 14174
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14160"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14160",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14160/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14160"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14167"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14160",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14160",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    17964,
+    7114
+  ],
+  "class_list": [
+    "post-14160",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-educacao",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-brasil",
+    "tag-nascimento",
+    "tag-paternidade",
+    "tag-registro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Porcentagem cresce a cada ano</em></p><p>A ausência paterna no momento do registro de nascimento das crianças brasileiras é um problema que se intensifica com o passar dos anos. Segundo dados do Portal da Transparência da Associação Nacional dos Registradores de Pessoas Naturais (Arpen-Brasil), em 2017, o número de crianças registradas sem o nome do pai correspondeu a aproximadamente 3% do total de nascimentos, já em 2022, chegou a marca de 6,4%, aumentando gradativamente a cada ano.</p><p>Nos primeiros 7 meses de 2022, aproximadamente cem mil crianças foram registradas nos cartórios brasileiros sem o nome do pai na certidão de nascimento, o que corresponde a 6,5% do total, sendo até então, a maior porcentagem desde 2016. Mas apenas nos dois primeiros meses de 2023 foi registrada a marca de 6.59%, superando o mesmo período do ano anterior, que havia sido de 6.42%.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/whatsapp-image-2023-02-28-at-17.49.01-2480338561-e1677619598684.jpeg?resize=532%2C439&amp;ssl=1\" alt=\"\" width=\"532\" height=\"439\" /><figcaption>Para Bruno, a presença paterna é importante para a criança (Foto: Reprodução)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/whatsapp-image-2023-02-27-at-13.20.31.jpeg?resize=1080%2C1068&amp;ssl=1\" alt=\"\" width=\"1080\" height=\"1068\" /><figcaption>Gustavo afirma que a parte financeira foi uma das dificuldades enfrentadas por sua família (Foto: Arquivo Pessoal)</figcaption></figure><p>Para o vice-presidente da Arpen-Brasil, Bruno Quintiliano, este aumento é consequência de um conjunto de fatores, como a desigualdade social, a desinformação da população, a pouca divulgação por parte dos meios de comunicação e também um reflexo da pandemia de covid-19. No vídeo abaixo, Bruno fala sobre os possíveis fatores que levaram a esse aumento: <strong>Confira!</strong></p><figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\"><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/wxwBHXoSxLM?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><br>O estudante Gustavo Kazniakowski é um dos brasileiros que não possui o nome paterno na certidão de nascimento, e segundo ele, um fator importante para que isso continue acontecendo é a falta de punições mais graves contra esses homens. Além disso, Gustavo ressaltou a importância da família na formação da criança nessas condições: “Eu sempre tive uma família presente e enxergava na minha mãe e no meu avô essa figura paterna. Dia dos pais geralmente é uma data difícil para quem está longe, mas eu sempre comemorava com eles, e dessa forma, a ausência do meu pai não me afetava tanto”, afirma o jovem.</p><p>O Brasil sempre lutou contra a falta de registro paterno através de leis e campanhas que combatem esse tipo de atitude, mas ainda não é o suficiente para que essa conscientização atinja uma maior parte da sociedade. “Muitas pessoas ainda não sabem que o registro de nascimento é gratuito, e é fundamental que os serviços sejam divulgados e disponibilizados para que elas tenham acesso a essa informação, especialmente aquelas mais vulneráveis e marginalizadas”, afirma Bruno.</p><p>No áudio abaixo, o vice-presidente fala sobre as campanhas dos cartórios para tentarem diminuir este número. <strong>Ouça já!</strong></p><figure class=\"wp-block-embed is-type-rich is-provider-soundcloud wp-block-embed-soundcloud\"><div class=\"wp-block-embed__wrapper\"><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Bruno fala sobre a campanha dos cartórios para tentar diminuir o problema by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1458276718&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></div></figure><p>O registro de nascimento é um direito fundamental de toda criança, garantindo assim outros direitos e serviços básicos no Brasil, como saúde e educação.</p><p><em>Igor Concolato – 3° período</em></p></main>"
+  },
+  "date": "2023-02-28T18:16:12",
+  "date_gmt": "2023-02-28T21:16:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A ausência paterna no momento do registro de nascimento das crianças brasileiras é um problema que se intensifica com o passar dos anos. Segundo dados do Portal da Transparência da Associação Nacional dos Registradores de Pessoas Naturais (Arpen-Brasil), em 2017, o número de crianças registradas sem o nome do pai correspondeu a aproximadamente 3% do total de nascimentos, já em 2022, chegou a marca de 6,4%, aumentando gradativamente a cada ano. </p>\n"
+  },
+  "featured_media": 14167,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14160"
+  },
+  "id": 14160,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/hands-g3eca6c95e_1920.jpg?fit=1920%2C1282&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Go",
+  "link": "https://agenciauvabarra.com/2023/02/28/brasil-registra-aumento-no-numero-de-criancas-que-nao-possuem-o-nome-do-pai-na-certidao-de-nascimento/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-02-28T18:36:02",
+  "modified_gmt": "2023-02-28T21:36:02",
+  "ping_status": "open",
+  "slug": "brasil-registra-aumento-no-numero-de-criancas-que-nao-possuem-o-nome-do-pai-na-certidao-de-nascimento",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    38185,
+    1055032,
+    1324988,
+    151556
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Brasil registra aumento no número de crianças que não possuem o nome do pai na certidão de nascimento"
+  },
+  "type": "post"
+}

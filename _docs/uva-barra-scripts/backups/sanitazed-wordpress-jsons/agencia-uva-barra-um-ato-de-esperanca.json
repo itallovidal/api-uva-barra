@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3393/revisions/3398",
+        "id": 3398
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3393"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3393",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3393/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3393"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3393",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3393",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-3393",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/5839977.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg?resize=215%2C290&amp;ssl=1' alt='' width='215' height='290' /><figcaption>Foto: Divulgação</figcaption></figure><p>Um Ato de Esperança conta a história de Fiona Maye (Emma Thompson), uma juíza da Suprema Corte americana na Divisão da Família, que passa por uma crise no casamento com o professor universitário Jack (Stanley Tucci). A narrativa vai costurar a decisão de uma transfusão de sangue em Adam Henry (Fionn Whitehead), um jovem de dezessete anos, com leucemia, em que ele e a família são Testemunhas de Jeová e, com isso, contra o procedimento que pode salva-lo.</p><p>Um filme que nos mostra a relação entre a juíza de meia-idade e o jovem à beira da morte, e este impacto de ambos na vida um do outro. É um filme leve, de um modo que não é visto com frequência em filmes do gênero dramático, com elementos que prendem a atenção do espectador, sem se tornar algo maçante. Esta leveza é percebida também em momentos de descontração no texto, em que há uma dose moderada e bem colocada de bom humor. </p><p>O filme é baseado no romance de Ian McEwan, A Balada de Adam Henry, em que o escritor ouviu de um juiz sobre certa vez em que ele havia presidido um caso de Testemunha de Jeová, logo se viu motivado a escrever sobre a história. Anos depois, um pouco relutante, ele decidiu levar o romance para telas. Richard Eyre, diretor e amigo do escritor, foi o escolhido para a produção do filme, ambos trabalharam juntos em 1970 em The Imitation Game, uma peça para TV, e quiseram repetir a experiência.</p><p>Para interpretar Fiona, a vencedora do Oscar Emma Thompson, que neste papel mostrou que sempre pode nos surpreender ainda mais por ter uma facilidade e domínio na atuação. No papel de Jack Maye, temos Stanley Tucci, um ator que sabe tirar o melhor dos seus personagens, se adaptando a tudo o que lhe propõem. Para completar o trio de protagonistas do filme, o jovem ator britânico de dezenove anos, Fionn Whitehead é quem interpreta Adam Henry, que trouxe uma atuação bem construída e muito segura. </p><p>Um Ato de Esperança é um filme com início, meio e fim, é linear e possui elementos fortes que deixam a história bem contada, sem ser cansativo de assistir. O longa estreia no dia 21 de março nos cinemas brasileiros e tem bons ingredientes para emocionar.</p><figure><iframe src='https://www.youtube.com/embed/VcVkHH3hLF4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><strong>Thalyta Souza – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-03-20T13:50:23",
+  "date_gmt": "2019-03-20T16:50:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um Ato de Esperança conta a história de Fiona Maye (Emma Thompson), uma juíza da Suprema Corte americana na Divisão da Família, que passa por uma crise no casamento com o professor universitário Jack (Stanley Tucci). A narrativa vai costurar a decisão de uma transfusão de sangue em Adam Henry (Fionn Whitehead), um jovem de [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3393"
+  },
+  "id": 3393,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-SJ",
+  "link": "https://agenciauvabarra.com/2019/03/20/agencia-uva-barra-um-ato-de-esperanca/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-03-22T10:23:54",
+  "modified_gmt": "2019-03-22T13:23:54",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-um-ato-de-esperanca",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: &#8220;Um ato de Esperança&#8221;"
+  },
+  "type": "post"
+}

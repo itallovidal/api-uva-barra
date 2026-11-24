@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3871/revisions/3921",
+        "id": 3921
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3871"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3871",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3871/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3871"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3866"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3871",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3871",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3871",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-e-sports",
+    "tag-leandro-hassum",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>De e-sports a empoderamento, passando pelo humor: temas distintos ganham debate</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-27-at-11.16.35.jpeg?resize=1040%2C780&#038;ssl=1' alt='Campanha contra músicas que falam sobre violência contra a mulher' width='1040' height='780' /><figcaption>Campanha contra músicas que falam sobre violência contra a mulher – Foto: Ana Beatriz Bernardo</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/dscn0589-1.jpg?resize=4896%2C3672&#038;ssl=1' alt='Palestrantes trocam experiências vividas no mundo dos eletrônicos' width='4896' height='3672' /><figcaption>Palestrantes trocam experiências vividas no mundo dos eletrônicos – Foto: Gabriel Torres</figcaption></figure><p>Chegar ao Rio2C pensando no que vai acontecer exatamente, só para quem já tem uma programação específica. O espaço que o evento ocupa na Cidade das Artes já é um convite a experimentar novidades a cada andar, sala e encontros fortuitos. Com uma programação variada, o quarto dia celebrou a comunicação e a tecnologia em todos os seus aspectos. Os visitantes se dividiram entre painéis sobre criatividade, tecnologia e poder de ações no mercado. </p><p>Na palestra “E – Sport: entretenimento, engajamento e mídia”, convidados discutiram como estão sendo realizados os investimentos no esporte eletrônico. <strong><a href='https://agenciauvabarra.com/2019/04/27/empresas-investem-no-mundo-do-e-sport/'>Empresas investem no mundo do E – Sport</a> </strong>sem pensar duas vezes e pesquisadores confirmam que a aposta é válida para os dias atuais.</p><p>Outro destaque foi a palestra “Criatividade: palavra do gênero feminino”, um espaço para que <strong><a href='https://agenciauvabarra.com/2019/04/27/grandes-marcas-debatem-sobre-o-olhar-da-mulher-na-publicidade/'>grandes marcas debatam sobre o olhar da mulher na publicidade</a></strong> e como elas, hoje, estão conquistando cada vez mais o espaço nesse mercado de trabalho. Desde pequenas campanhas à grandes, mostrando sua capacidade e inteligência.</p><p>Ainda teve espaço para dar boas risadas. Leandro Hassum e Ingrid Guimarães falaram sobre o mercado audiovisual do humor, as dificuldades de fazer e produzir o gênero e o preconceito que sofrem. A comédia está na lista dos filmes mais assistidos na história do cinema nacional, mas ainda há quem “torça o nariz” para estas produções. Além da leveza do tema, o tom do bate papo foi sério. A produtora do filme “De pernas para o ar 3”, Mariza Leão, foi aplaudida pelas críticas feitas a diminuição de verbas ao cinema e a ocupação maciça de filmes estrangeiros nas salas de cinema. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-27-at-10.28.57.jpeg?resize=585%2C438&#038;ssl=1' alt='Foto: Anderson Barreto' width='585' height='438' /><figcaption>Foto: Anderson Barreto</figcaption></figure><p><strong>Ana Beatriz Bernardo – 7º Período, Julia Morais – 7º Período e Juliana Marques – 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-27T18:49:53",
+  "date_gmt": "2019-04-27T21:49:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De e-sports a empoderamento, passando pelo humor: temas distintos ganham debate Chegar ao Rio2C pensando no que vai acontecer exatamente, só para quem já tem uma programação específica. O espaço que o evento ocupa na Cidade das Artes já é um convite a experimentar novidades a cada andar, sala e encontros fortuitos. Com uma programação [&hellip;]</p>\n"
+  },
+  "featured_media": 3866,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3871"
+  },
+  "id": 3871,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/whatsapp-image-2019-04-27-at-11.16.35.jpeg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-10r",
+  "link": "https://agenciauvabarra.com/2019/04/27/rio2c-destaca-no-4o-dia-as-novidades-mercadologicas-e-sociais-que-no-presente-ja-moldam-o-futuro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-29T13:35:10",
+  "modified_gmt": "2019-04-29T16:35:10",
+  "ping_status": "open",
+  "slug": "rio2c-destaca-no-4o-dia-as-novidades-mercadologicas-e-sociais-que-no-presente-ja-moldam-o-futuro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    234886,
+    4518198,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "RIO2C destaca no 4º dia as novidades mercadológicas e sociais que no presente já moldam o futuro"
+  },
+  "type": "post"
+}

@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7077/revisions/7096",
+        "id": 7096
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7077"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7077",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7077/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7077"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7087"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7077",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7077",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    7114
+  ],
+  "class_list": [
+    "post-7077",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-antirracismo",
+    "tag-racismo",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Alunos e professores trazem depoimentos sobre suas lutas cotidiana</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-nilmar.jpeg?resize=1110%2C540&#038;ssl=1\" alt=\"\" width=\"1110\" height=\"540\" /><figcaption>O professor Nilmar Figueiredo se orgulha de sua filha de 2 anos descobrindo sua beleza – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-tac3ads.jpeg?resize=1110%2C540&#038;ssl=1\" alt=\"\" width=\"1110\" height=\"540\" /><figcaption>Thais fala sobre a importância do debate sobre as diferenças entre os brancos e os negros, como o perfil dos traficantes nos dois grupos e a abordagem policial – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-rafaela.jpeg?resize=1110%2C540&#038;ssl=1\" alt=\"\" width=\"1110\" height=\"540\" /><figcaption>Rafaela deseja que o cenário de violência melhore com o tempo – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-gabi.jpeg?resize=1110%2C540&#038;ssl=1\" alt=\"\" width=\"1110\" height=\"540\" /><figcaption>Gabrielle conta que além de racismo, os negros sofrem com a hiperxesualização do corpo e com a  baixa auto-estima – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-beatriz-barbosa.jpeg?resize=1110%2C540&#038;ssl=1\" alt=\"\" width=\"1110\" height=\"540\" /><figcaption>Beatriz se emociona com a história do povo negro – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-junior.jpeg?resize=1110%2C540&#038;ssl=1\" alt=\"\" width=\"1110\" height=\"540\" /><figcaption>Júnior reforça que muitas pessoas negras ainda possuem dificuldades financeiras – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-cynthia.jpeg?resize=540%2C1110&#038;ssl=1\" alt=\"\" width=\"540\" height=\"1110\" /><figcaption>Cynthia afirma que em muitos momentos, as pessoas brancas só ficam olhando e não fazem nada para ajudar – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-greicy.jpeg?resize=540%2C1110&#038;ssl=1\" alt=\"\" width=\"540\" height=\"1110\" /><figcaption>Greicy se emociona ao compartilhar sua história – Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-matheus.jpeg?resize=540%2C1110&#038;ssl=1\" alt=\"\" width=\"540\" height=\"1110\" /><figcaption>Matheus afirma que só um negro sabe dos olhares que os acompanha nos locais que frequentam – Foto: Reprodução da Internet</figcaption></figure><p>A Universidade Veiga de Almeida abriu seu “auditório online”, nesta segunda-feira (15/06), para que alunos e professores falassem sobre um assunto que voltou a gerar polêmica ao redor do mundo nos últimos dias, o racismo. Os participantes puderam expor suas experiências de vida, pensamentos, esperanças e provocações em relação ao tema.  </p><p>O professor  do curso de Publicidade e pesquisador  Nilmar  Figueiredo abriu a discussão falando sobre a criação do racismo na infância. “Desde a escola, aprendemos que  o passado da  Europa é  tratado  como a história do mundo e parece que a única contribuição  do  negro é no papel de escravo e isso me angustia muito. Desde a fase inocente da infância, somos ensinados a pintar “a cor da pele” com lápis nos tons de areia ou marfim”. Nilmar  comentou  que se sente muito incomodado com os termos  utilizados diariamente e que possuem um teor racista, como “doméstica” e “cor do pecado”. </p><p>Thaís oliveira, mestra e doutoranda  em Ciências Humanas e Sociais, aproveitou  o público de futuros comunicadores  para  falar  sobre algumas mídias negras e independentes, como “Alma Preta, Jornalismo preto e livre”, “Geledéis” e “Periferia em movimento”. Ela ratifica  a importância do debate sobre as diferenças entre brancos e negros.  “Devemos repensar modelos de sociedade e refletir sobre os espaços acadêmicos, onde, infelizmente,  são priorizados  os  pensamentos de especialistas europeus  que pertencem a  um cenário e tempo histórico totalmente diferente do nosso.” </p><p>Diversas visões sobre racismo e histórias muito parecidas.  Os alunos aproveitaram seus espaços na palestra para compartilhar experiências de vida e pensamentos sobre o assunto. Rafaela Barbosa fica assustada com o recorte  de classe presente na sociedade: “é  muito difícil encarar essa realidade de violência e que não precisa procurar tanto assim para achar”.  </p><p>Gabrielle Lopes conta que mesmo sendo uma pessoa negra, de pele clara, e viver numa bolha de privilégios, ainda não está livre de sofrer preconceitos. “Consigo observar que não pertenço ao grupo majoritário da faculdade, mesmo tendo mais condições que muitos alunos brancos”. </p><p>Ouça o depoimento da Gabrielle: </p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F842037556%3Fsecret_token%3Ds-PIrH0UR9gCr&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Áudio GabiPronto\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture\" allowfullscreen></iframe><p>Beatriz Barbosa conta emocionada sobre o privilégio que sente por estudar em uma faculdade particular, sendo que muitos dos seus amigos não completam o ensino superior. “Evito olhar a história do meu povo porque mexe muito comigo, passaram por muita luta e sofrimento. Ainda não conseguimos ocupar um espaço digno na sociedade. Vejo que raramente temos debates como este e, quando ocorrem, muitos desvalorizam nossos sentimentos! Não conseguem entender que é a minha luta, minha história, minha dor”.  </p><p>Júnior Almeida  também  se emociona ao falar de sua história: “Venho  de uma família simples que  passou por muitas dificuldades. Meu pai conseguiu melhorar nossa situação financeira,  mas  ainda me sinto num limbo. Também fico cansado de ter que constantemente me posicionar politicamente para combater o racismo”. </p><p>Ouça o depoimento do Junior:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F842037877%3Fsecret_token%3Ds-eEj7hUBsgvk&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Audio JuniorPronto\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture\" allowfullscreen></iframe><p>A aluna de jornalismo  Greicy  Kelly comenta um episódio na sua infância onde sofreu racismo de amigos da escola. “A mãe de uma colega me encorajou, falou que eu era linda, deveria me olhar no espelho e admirar minha beleza. Ela me levou para uma agência, onde tirei algumas fotos e fui estimulada a me soltar. Esse foi o primeiro momento que vi minha beleza e me reconheci como negra”. </p><p>Matheus dos  Santos encerrou a palestra dizendo que não entende a necessidade que a sociedade tem de rotular. Ele fala que as pessoas brancas não são responsáveis pelo racismo, mas se beneficiam pelo contexto histórico formado. “Quando se fala de ‘raça negra’ não pode se referir a um material de estudo, cada um tem sua experiência. Os brancos também precisam começar a questionar a natureza e a estrutura da sua realidade”. </p><p>O evento foi uma iniciativa dos cursos de Jornalismo e Publicidade e abriu um diálogo para que jovens universitários possam olhar criticamente a sociedade e os produtos que eles vão produzir futuramente no mercado de trabalho. </p><p><strong>Érik Sequeira – 4º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2020-06-17T17:46:08",
+  "date_gmt": "2020-06-17T20:46:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alunos e professores trazem depoimentos sobre suas lutas cotidiana A Universidade Veiga de Almeida abriu seu “auditório online”, nesta segunda-feira&nbsp;(15/06), para que alunos e professores falassem sobre um assunto que voltou a gerar&nbsp;polêmica ao redor do mundo nos últimos dias, o racismo. Os participantes puderam expor suas experiências de vida, pensamentos, esperanças e provocações em [&hellip;]</p>\n"
+  },
+  "featured_media": 7087,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7077"
+  },
+  "id": 7077,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/06/fot-nilmar.jpeg?fit=1110%2C540&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Q9",
+  "link": "https://agenciauvabarra.com/2020/06/17/debate-sobre-racismo-e-antirracismo-na-uva-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-06-17T19:18:40",
+  "modified_gmt": "2020-06-17T22:18:40",
+  "ping_status": "open",
+  "slug": "debate-sobre-racismo-e-antirracismo-na-uva-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1755482,
+    162432,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Debate sobre Racismo e Antirracismo na UVA BARRA"
+  },
+  "type": "post"
+}

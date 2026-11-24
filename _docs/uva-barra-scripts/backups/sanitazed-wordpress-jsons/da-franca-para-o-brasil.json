@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1020/revisions/3318",
+        "id": 3318
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1020"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1020",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 25,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1020/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1020"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1020",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1020",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-1020",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Escola de vinhos francesa chega ao Brasil para um curso intensivo aos interessados em enologia</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/digitalisering-post-20160412140227.jpg?resize=4048%2C3147&#038;ssl=1' alt='Digitalisering post-20160412140227.jpg' width='4048' height='3147' /><figcaption>Digitalisering post-20160412140227.jpg</figcaption></figure><p>Nos próximos sábados de agosto – dias 5, 12 e 26 – acontecerá o curso intensivo sobre vinhos, ministrado pela professora da UVA Miriam Aguiar, que possui pós doutorado em na área. As aulas foram divididas em três sábados, das 9 às 16 horas. As aulas acontecerão no Américas Copacabana Hotel, e trará aos alunos uma nova visão sobre essa cultura, explicando desde aspectos da produção até a degustação.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/international-en-vins-et-spiritueux-e1498833341814.jpg?resize=1000%2C908&#038;ssl=1' alt='international-en-vins-et-spiritueux' width='1000' height='908' /><figcaption>international-en-vins-et-spiritueux</figcaption></figure><p>A escola que está oferecendo o curso é a CAFA, criada para a formação na área de Enologia – ciência que trata do vinho, das técnicas de produção e de conservação – e conta com diversos cursos na área, como a Formação Internacional de Sommeliers e a Graduação em Marketing de Vinhos. Localizada na cidade de Bordeaux, na região Sudoeste da França, a escola está em um momento de internacionalização de seus cursos, por isso traz ao público carioca a oportunidade de aprender mais sobre esse tema. Segundo a assessora de comunicação do CAFA Brasil, Ana Cristina Rosado, a escola é bem rigorosa tanto na seleção de profissionais capacitados quanto na formação dos alunos. “Ao final do curso, cada aluno terá que fazer uma prova online para provar que está apto a receber a certificação”. Já na seleção de profissionais, a escola é criteriosa ao escolher seus representantes em outros países.</p><figure class=\"alignleft\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/img-20151001-wa0037.jpg?resize=1200%2C1600&#038;ssl=1' alt='IMG-20151001-WA0037' width='1200' height='1600' /><figcaption>Miriam Aguiar no lançamento de seu livro</figcaption></figure><p>No Brasil, Miriam Aguiar foi convocada para ser a representante. Com um pós doutorado em vinhos e diversos artigos e livros publicados sobre o assunto, ela afirma ter sido uma honra ser selecionada. “Fiquei muito satisfeita e empolgada, mas há uma satisfação das duas partes, pois é difícil encontrar pessoas qualificadas academicamente na área de vinhos e que também tenham familiaridade com a cultura francesa”. Ao falar sobre suas expectativas para o curso, Miriam diz que espera que as pessoas aproveitem essa oportunidade única. “Espero que o contato com o vinho desperte nelas algo de novo, que seja a porta de entrada para um universo de cultura e prazer ilimitado, afinal isso é o vinho!”</p><p>Os alunos também compartilham dessa opinião. A professora da UVA Ediana Avelar, interessada em fazer o curso, acredita que ele ampliará significativamente seus conhecimentos na área. “Gosto muito de vinhos mas o máximo que conheço sobre esse néctar dos deuses é um pouco sobre alguns tipos de uva”. Ediana também afirma que está com boas expectativas sobre as aulas. “Poder fazer um curso com uma especialista em vinhos do naipe da Miriam Aguiar, associado à expertise de uma instituição francesa me trarão com certeza momentos de enorme prazer”.</p><p><strong>Lizandra Rios, 5º período</strong></p></main>"
+  },
+  "date": "2017-06-30T11:47:48",
+  "date_gmt": "2017-06-30T14:47:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Escola de vinhos francesa chega ao Brasil para um curso intensivo aos interessados em enologia Nos próximos sábados de agosto &#8211; dias 5, 12 e 26 &#8211; acontecerá o curso intensivo sobre vinhos, ministrado pela professora da UVA Miriam Aguiar, que possui pós doutorado em na área. As aulas foram&nbsp;divididas em três sábados, das 9 [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1020"
+  },
+  "id": 1020,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-gs",
+  "link": "https://agenciauvabarra.com/2017/06/30/da-franca-para-o-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:44:38",
+  "modified_gmt": "2019-02-28T19:44:38",
+  "ping_status": "open",
+  "slug": "da-franca-para-o-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Da França para o Brasil"
+  },
+  "type": "post"
+}

@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14270/revisions/14279",
+        "id": 14279
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14270"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14270",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14270/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14270"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14278"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14270",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14270",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    17964,
+    72063,
+    13072696,
+    72064
+  ],
+  "class_list": [
+    "post-14270",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-educacao",
+    "category-enfermagem",
+    "category-lgbtqia",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-utero",
+    "tag-cancer",
+    "tag-colo",
+    "tag-lilas",
+    "tag-marco",
+    "tag-mulheres",
+    "tag-prevencao"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Março lilás foi o mês escolhido para falar sobre o tema</em></p><p>Na última segunda-feira (20), a coordenadora do curso de enfermagem do Campus Barra, Lidiane Reis, fez uma live para a Associação dos Servidores do Rio de Janeiro (@assist.rj) sobre o combate ao câncer do colo do útero. Temas como o exame preventivo, os tabus existentes na sociedade e a falta de informação estiveram na palestra. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/whatsapp-image-2023-03-22-at-15.53.29.jpeg?resize=970%2C1296&amp;ssl=1\" alt=\"\" width=\"970\" height=\"1296\"><figcaption>\"É importante debater sobre esse tema para fazer a atualização da faixa etária do citopatológico\", afirma a coordenadora Lidiane Reis. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/whatsapp-image-2023-03-22-at-14.52.33-1.jpeg?resize=346%2C591&amp;ssl=1\" alt=\"\" width=\"346\" height=\"591\"><figcaption>A palestra foi gravada e está a disposição de quem quiser assistir lá no Instagram: @assist.rj (Foto: Reprodução) </figcaption></figure><p>O câncer do colo do útero é o 3° mais incidente entre as mulheres, e ele pode ser proveniente de uma IST (Infecção sexualmente transmissível) ou do Papiloma Vírus (HPV), que causa mutações celulares no ser humano, resultando nas células cancerígenas. Segundo dados do INCA (Instituto Nacional de Câncer), foram estimados mais de 17 mil novos casos da doença em todo território nacional, resultando em uma média de 13,25 casos a cada 100 mil mulheres. Para o instituto, é muito importante realizar essa projeção por área, para promover ações locais específicas, que busquem reduzir esse número. </p><p>Para mudar esse quadro é necessário que as mulheres realizem o exame preventivo com o objetivo de detectar alterações na célula do colo do útero. Ainda existe um tabu muito grande a respeito desse tema na sociedade brasileira, e um dos principais fatores que contribuem para isso, é a falta de informação. </p><p>A coordenadora Lidiane Reis separou algumas informações importantes para a prevenção: </p><ul><li><strong>Toda mulher, de 25 a 64 anos, que tem ou já teve uma vida sexual deve realizar o exame preventivo</strong></li></ul><ul><li><strong>Mulheres abaixo de 25 anos devem fazer uma consulta de enfermagem, independente da vida sexual</strong></li></ul><ul><li><strong>Se a mulher realizar o exame por 2 anos seguidos sem alteração, ela pode ficar 3 anos sem fazer a coleta novamente. </strong></li></ul><ul><li><strong>Mulheres gestantes podem e devem realizar o exame preventivo </strong></li></ul><p>O trabalho da saúde pública é para todos, por isso alguns mitos e falta de informação geram preconceitos e reforçam tabus, como é o caso do acesso de mulheres trans e travestis ao exame preventivo: \"Essas mulheres também possuem um corpo que precisa de cuidados\", afirma Lidiane. Além do câncer do colo do útero, muitas vezes é possível detectar a presença do vírus do HPV durante a coleta do material celular, tendo em vista que é uma infecção sexualmente transmissível que se dá por contato direto com a pele, sendo na região oral, vaginal ou anal. </p><p>Um dos métodos mais indicados para a prevenção do vírus do HPV, sigla em inglês para Papiloma Vírus Humano, é a vacinação, mas ainda assim, ela não é 100% eficaz. O método mais seguro ainda é o uso do preservativo durante toda a relação sexual, seja masculino ou feminino. Para Lidiane Reis, é um problema que grande parte das mulheres não sabe como usar o preservativo feminino, ou muitas vezes nunca nem viu um pessoalmente. É preciso ter campanhas públicas e de incentivo que promovam esse tipo de informação.</p><p>Para Lidiane ainda há um receio entre as mulheres sobre a relação do exame preventivo e a dor. \"Eu não minto para as minhas pacientes. Existe sim um incômodo durante a coleta, mas quando ocorre tudo de forma tranquila, aquela paciente se sente confortável de voltar\", afirma a professora. </p><p><em>Igor Concolato – 3° período. </em></p></main>"
+  },
+  "date": "2023-03-22T18:12:45",
+  "date_gmt": "2023-03-22T21:12:45",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Na última segunda-feira (20), a coordenadora do curso de enfermagem do Campus Barra, Lidiane Reis, fez uma live para a Associação dos Servidores do Rio de Janeiro (@assist.rj) sobre o combate ao câncer do colo do útero. Temas como o exame preventivo, os tabus existentes na sociedade e a falta de informação estiveram na palestra. </p>\n"
+  },
+  "featured_media": 14278,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14270"
+  },
+  "id": 14270,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/marco-lilas-.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Ia",
+  "link": "https://agenciauvabarra.com/2023/03/22/mitos-e-verdades-sobre-o-cancer-do-colo-do-utero/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-22T18:12:45",
+  "modified_gmt": "2023-03-22T21:12:45",
+  "ping_status": "open",
+  "slug": "mitos-e-verdades-sobre-o-cancer-do-colo-do-utero",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1616403,
+    4252,
+    1106276,
+    3128057,
+    5333,
+    15254,
+    457519
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Mitos e verdades sobre o câncer do colo do útero"
+  },
+  "type": "post"
+}

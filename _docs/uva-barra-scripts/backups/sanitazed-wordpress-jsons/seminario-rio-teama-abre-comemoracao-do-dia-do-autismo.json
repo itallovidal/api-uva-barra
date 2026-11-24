@@ -1,0 +1,156 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3512/revisions/3529",
+        "id": 3529
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3512"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3512",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3512/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3512"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3512",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3512",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3512",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-autismo",
+    "tag-seminario-rio-teama"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Estudiosos e pesquisadores participaram dos dois dias de evento</em></p><p>Tratar e inserir as pessoas autistas na sociedade, além de reduzir o preconceito é um tema que vem sendo bastante discutido. No dia 2 de abril foi o Dia Internacional da Conscientização do Autismo e a Agência UVA Barra esteve presente no Seminário RIO TEAMA, na Cidade das Artes. O evento teve o objetivo de informar sobre o transtorno.</p><p>Realizado na terça (02/04) e na quarta (03/04), o seminário recebeu uma média de 400 pessoas a cada dia, o que de acordo com o produtor do evento Gustavo Oliveira é importante para disseminação de conhecimento. “Nós temos o objetivo de diminuir o preconceito, tentar melhorar a inclusão dos autistas na sociedade”, afirmou.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/6-img_20190402_153130404-e1554501240354.jpg?resize=607%2C467&#038;ssl=1\" alt=\"\" width=\"607\" height=\"467\" /><figcaption>A palestrantrate Drª E. Katia Moritz fala sobre os mitos do autismo – Foto: Gabriel Torres</figcaption></figure><p>Além das palestras o visitante pôde também conhecer 6 stands de projetos de inclusão: o Ser para Crescer proporciona desenvolvimento e crescimento profissional para crianças autistas; o All Dubling group tem um serviço de audiodescrição e acessibilidade para entretenimento; Já os professores Daniel Carmo e Tatiana Rupp apresentaram um trabalho de inclusão através do esporte; entre outros como o Instituto Theresa Serra; Voz em Papel e Instituto RIR. </p><p>A sociedade tem entendido que se faz necessário incluir. O tema faz parte da dinâmica social, tanto que até a Netflix lançou a série “Atypical” (2 temporadas), que conta a história de um jovem autista de 18 anos, que trabalha e estuda, e retrata os obstáculos e vitórias do amadurecimento. A psicóloga e neuropsicopedagoga Miriam Moreira diz que o autismo é só mais uma forma de se ser nessa sociedade “Esse assunto não pode andar à margem, tem que tá aí para todo mundo ver, temos que entender que não existe diferentes e não diferentes, afinal somos todos diferentes uns dos outros.”</p><p><strong>Beatrice Laeber – 3º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-05T19:16:30",
+  "date_gmt": "2019-04-05T22:16:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Estudiosos e pesquisadores participaram dos dois dias de evento Tratar e inserir as pessoas autistas na sociedade, além de reduzir o preconceito é um tema que vem sendo bastante discutido. No dia 2 de abril foi o Dia Internacional da Conscientização do Autismo e a Agência UVA Barra esteve presente no Seminário RIO TEAMA, na [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3512"
+  },
+  "id": 3512,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-UE",
+  "link": "https://agenciauvabarra.com/2019/04/05/seminario-rio-teama-abre-comemoracao-do-dia-do-autismo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-06T13:51:46",
+  "modified_gmt": "2019-04-06T16:51:46",
+  "ping_status": "open",
+  "slug": "seminario-rio-teama-abre-comemoracao-do-dia-do-autismo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    765450,
+    676201547
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Seminário RIO TEAMA abre comemoração do dia do autismo"
+  },
+  "type": "post"
+}

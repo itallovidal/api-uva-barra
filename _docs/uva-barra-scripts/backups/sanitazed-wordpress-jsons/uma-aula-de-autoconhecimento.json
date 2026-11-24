@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2468/revisions/3167",
+        "id": 3167
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2468"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2468",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2468/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2468"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2469"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2468",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2468",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    72064
+  ],
+  "class_list": [
+    "post-2468",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-derose-method",
+    "tag-inteligencia-emocional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Palestra sobre Inteligência Emocional gera reflexões sobre sentimentos e o universo</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/img_20181010_101252700_hdr.jpg?resize=4160%2C3120&#038;ssl=1' alt='IMG_20181010_101252700_HDR' width='4160' height='3120' /><figcaption>Julieta Chuairy faz uma breve apresentação da DeRose antes de falar sobre Inteligência Emocional – Foto: Lucas Motta</figcaption></figure><p>Você já se perguntou se é possível controlar as emoções? Para entender a temática a Universidade Veiga de Almeida (UVA) organizou, na última quarta (10), a palestra “Inteligência Emocional” em parceria com a DeRose Method, uma rede de escolas especializada em treinamentos.</p><p>Inteligência emocional está ligada à psicologia, e significa que um indivíduo consegue identificar e controlar as emoções. Alguns desses conceitos puderam ser vistos na palestra, como a evolução do universo e a relação do por diferentes dimensões ou planos. Julieta Chuairy, diretora da unidade do shopping Downtown, ensinou algumas técnicas ao público, entre elas: respiratórias, corporais, de descontração e concentração. “Nós ensinamos formas de se otimizar o funcionamento do organismo e conceitos que ajudam a administrar o corpo de uma forma mais completa”, explica.</p><p>Quem experimentou, aprovou as ações. Foi o caso de Beatriz Guarany, que cursa o segundo período de publicidade. Para ela, a corrida rotina dos jovens na universidade faz com que seja importante esse tipo de conhecimento. “Não só para focar nos estudos e na carreira, mas para saber que o universo é muito grande e que a vida não tem só um caminho”, explica Beatriz, animada depois de ser sorteada para uma semana de aulas grátis.</p><p>A palestra contou com a participação de alunos e professores de diversos cursos e foi aberta ao público externo. A parceria com a UVA vai render novos workshops e o próximo já tem data. Dia 31/10, uma quarta-feira, será a vez de discutir o tema “Clareza Mental”. É a chance para aqueles que perderam ter contato com ferramentas de autoconhecimento.</p><p><strong>Lucas Motta – 7° período</strong></p></main>"
+  },
+  "date": "2018-10-14T14:00:58",
+  "date_gmt": "2018-10-14T17:00:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestra sobre Inteligência Emocional gera reflexões sobre sentimentos e o universo Você já se perguntou se é possível controlar as emoções? Para entender a temática a Universidade Veiga de Almeida (UVA) organizou, na última quarta (10), a palestra “Inteligência Emocional” em parceria com a DeRose Method, uma rede de escolas especializada em treinamentos. Inteligência emocional [&hellip;]</p>\n"
+  },
+  "featured_media": 2469,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2468"
+  },
+  "id": 2468,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/img_20181010_101252700_hdr.jpg?fit=4160%2C3120&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-DO",
+  "link": "https://agenciauvabarra.com/2018/10/14/uma-aula-de-autoconhecimento/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-09T12:09:19",
+  "modified_gmt": "2019-02-09T14:09:19",
+  "ping_status": "open",
+  "slug": "uma-aula-de-autoconhecimento",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    18519477,
+    206997
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Uma aula de autoconhecimento"
+  },
+  "type": "post"
+}

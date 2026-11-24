@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3741/revisions/3792",
+        "id": 3792
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3741"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3741",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3741/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3741"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3741",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3741",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3741",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A vida conectada é pauta no Rio2C</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/img_8757-1-e1556240086485.jpeg?resize=3371%2C2033&#038;ssl=1' alt='No segundo dia de Rio2C, o indivíduo hiperconectado foi discutido' width='3371' height='2033' /><figcaption>No segundo dia de Rio2C, o indivíduo hiperconectado foi discutido – Foto: Ana Carolina Marinho</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/img_8758.jpg?resize=4032%2C3024&#038;ssl=1' alt='Com a ajuda de gráficos, foi explicado como as mídias afetam o convívio social' width='4032' height='3024' /><figcaption>Com a ajuda de gráficos, foi explicado como as mídias afetam o convívio social – Foto: Ana Carolina Marinho</figcaption></figure><p>As redes socais estão presentes no cotidiano da maioria da população. Isso acaba afetando a vida daqueles que a usam, sendo indiretamente ou diretamente. Esse foi o tema da palestra que aconteceu no segundo dia (24) do Rio2C, na Barra da Tijuca. Neurocientistas debateram as consequências e desafios da hiperconexão atual no bem-estar humano.</p><p>Estima-se que a saúde mental dos jovens piorou nos últimos dez anos, aumentando os sintomas como depressão e problemas emocionas. A mestre em neurociência Patricia Bado comenta que a culpa disso acontecer, não é inteiramente das mídias sociais. “O primeiro passo é olhar para o nosso comportamento”, diz. E preciso restringir o tempo de tela e usar da tecnologia com moderação, para não afetar a vida social daqueles que usam.</p><p>Com as novas tecnologias, é possível encontrar pessoas que pensam igual a gente, nos encaixando em um grupo. O neurocientista Tiago Bortoline diz que somos seres estritamente sociais. “Nos queremos pertencer num grupo, crescemos, aprendemos e nos divertimos nele”, observa. Ele ainda diz que a comparação com o outro acontece normalmente, mas que com as redes socais isso ganha uma pressão maior para o indivíduo.</p><p>Depois de analisar o próprio comportamento com a internet, a produtora de audiovisual Mirian Barbosa pretende se reeducar com as dicas dadas na palestra. “É algo que podemos nos viciar sem perceber e quando vemos já não temos contato social com amigos e familiares”. O público ainda aproveitou para tirar dúvidas sobre como reduzir o uso das mídias sociais.</p><p><strong>Ana Carolina Marinho – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-25T22:01:00",
+  "date_gmt": "2019-04-26T01:01:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A vida conectada é pauta no Rio2C As redes socais estão presentes no cotidiano da maioria da população. Isso acaba afetando a vida daqueles que a usam, sendo indiretamente ou diretamente. Esse foi o tema da palestra que aconteceu no segundo dia (24) do Rio2C, na Barra da Tijuca. Neurocientistas debateram as consequências e desafios [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3741"
+  },
+  "id": 3741,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Yl",
+  "link": "https://agenciauvabarra.com/2019/04/25/como-as-midias-sociais-afetam-a-saude-mental/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-26T16:38:04",
+  "modified_gmt": "2019-04-26T19:38:04",
+  "ping_status": "open",
+  "slug": "como-as-midias-sociais-afetam-a-saude-mental",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Como as mídias sociais afetam a saúde mental"
+  },
+  "type": "post"
+}

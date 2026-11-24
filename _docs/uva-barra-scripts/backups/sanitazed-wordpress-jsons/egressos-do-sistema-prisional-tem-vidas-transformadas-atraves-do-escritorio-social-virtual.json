@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9145/revisions/9157",
+        "id": 9157
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9145"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9145",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9145/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9145"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9156"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9145",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9145",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    7114
+  ],
+  "class_list": [
+    "post-9145",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-sociedade",
+    "tag-carcere",
+    "tag-cnj",
+    "tag-escritorio-social-virtual",
+    "tag-reincidencia",
+    "tag-sistema-prisional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Novo aplicativo oferece um serviço já existente em 17 estados brasileiros</em></p><p>O Brasil é um dos países que mais aprisiona no mundo. Em um ranking de comparação, o país se encontra na 26º posição em relação a outros 222 países. Considerando o número absoluto de presos, o Brasil é a 3º posição, atrás apenas de Cuba e dos Estados Unidos. Segundo o relatório feito pelo Departamento de Pesquisas Judiciárias do Conselho Nacional de Justiça, 42% das pessoas que tinham processos em andamento no ano 2015 retornaram ao sistema prisional até o fim de 2019. A taxa de reincidência atesta o problema na ressocialização do egresso após a saída do cárcere.<br><br>Para transformar a exclusão em inclusão, uma parceria entre o Programa das Nações Unidas e o Conselho Nacional de Justiça deu início, em 2016, ao projeto Escritório Social, que visa o atendimento de pessoas que deixaram o cárcere. A iniciativa busca facilitar o acesso a redes de serviço de apoio, como postos de saúde, abrigos temporários, redes de alimentação e emissão de documentos.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/foto-1-2.jpeg?resize=581%2C326&#038;ssl=1' alt='' width='581' height='326' /><figcaption>A finalidade do projeto Escritório Social é unir em um só lugar atendimentos e serviços que dão suporte a egressos do sistema prisional. Reprodução: Arquivo Pessoal</figcaption></figure><p>No dia 20 de abril de 2021, o projeto passou a ter outra forma de atendimento e dessa vez, via aplicativo para smartphone. O Escritório Social Virtual procura conectar, remotamente, os ex-detentos ao programa. A plataforma digital é um avanço no atendimento, aproximando essas pessoas a direitos e benefícios, e foi desenvolvido a partir de acordos entre a Universidade de Brasília e Fundação de Apoio à Pesquisa do Distrito Federal. O aplicativo também disponibiliza cursos profissionalizantes como: audiodescrição, conceitos e técnicas de html e estética facial e corporal.<br><br>Para Sandro Lohmann, egresso que participou da implementação do Escritório Social em Mato Grosso, o acesso à educação e a cursos de qualificação é essencial para reinserir essas pessoas na sociedade. “O número de presos que conseguem estudar e trabalhar dentro das unidades com a finalidade de “ressocializar” é muito baixo. Esse termo nem é mais utilizado, pois não há como ressocializar, alguém que sempre viveu às margens, sempre foi marginalizado e não socializado”, diz Sandro.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/foto-2-2.jpg?resize=550%2C553&#038;ssl=1' alt='' width='550' height='553' /><figcaption>“A gente vive um momento em que um governo valoriza muito mais o porte de armas do que livros”, declara Sandro, presidente da Associação + Liberdade. Foto: Arquivo Pessoal</figcaption></figure><blockquote><p><em>“Temos muito que avançar, o aplicativo é uma ferramenta muito importante e útil. Mas é apenas uma ferramenta, que indica e dá caminhos para os egressos(...) Quando ele sai, ele sai com o mapa na mão, um roteiro de onde ele deve ir, que serviço ele vai buscar de imediato, qual unidade de saúde, resumindo: ele sai com uma base a ser seguida, não fica alheio perdido sem saber o que fazer e por onde começar”.</em></p><cite><strong><em>Sandro Lohmann</em></strong></cite></blockquote><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/foto-3.jpg?resize=647%2C1280&#038;ssl=1' alt='' width='647' height='1280' /><figcaption>Aplicativo Escritório Social Virtual conecta egressos a redes de apoio e informações úteis na busca por cidadania e direitos. Reprodução: Aplicativo ESV</figcaption></figure><p>Dados sobre ressocialização demonstram que de 737.892 presos, apenas 18,9% possuem trabalho, enquanto 12,6% estuda. O preconceito não é a única dificuldade enfrentada por essas pessoas. Além dela, os ex-detentos sofrem com a falta de oportunidades de emprego, um fator importante para quebrar o ciclo de reincidência criminal. Mesmo com a ajuda de cursos de qualificação e de ensino, as oportunidades não são iguais para todos os que buscam por trabalho.</p><p><strong>Ouça o áudio de Sandro sobre a relação entre desigualdades socioeconômicas e reinserção social:</strong></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1038210040&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Agência UVA Barra' allow='autoplay; fullscreen' allowfullscreen></iframe><p>Foi no intuito de unir essas pessoas ao mercado de trabalho que Karine Vieira, egressa, fundou o Instituto Responsa, uma ONG que busca a reinserção social de ex-presidiários através de capacitações para entrevistas, auxiliando no acompanhamento e monitoramento antes e durante o processo seletivo, seja por meio de auxílio na comunicação ou por assistência psicológica. A iniciativa conseguiu empregar 80 pessoas desde sua criação, em 2018.<br><br>A fundadora sustenta que o Escritório Social serve como um direcionamento para os atendidos. “Vejo o escritório social como um facilitador para o processo de (re) inserção social, visto que atuará como um equipamento de orientação e direcionamento para pessoas egressas do sistema prisional’’, afirma a CEO do projeto Responsa.<br><br>Karine, saiu do sistema prisional em 2008, voltou a estudar, cursou Serviços Sociais e procura atuar com pessoas que passaram pelo cárcere. Para ela, a educação é primordial para a concepção de outra realidade e o emprego ajuda a quebrar o ciclo da reincidência. “A educação proporciona nova visão de mundo, mostra opções, outras realidades e meios. O trabalho é necessário para geração de renda lícita, além de gerar autonomia financeira, respeito e dignidade na comunidade e no núcleo familiar do indivíduo”, declara a criadora do instituto.<br><br>A reinserção dos ex-detentos é um assunto que ainda encontra resistência na sociedade civil. Por isso, Karine e Sandro acreditam que mais políticas públicas devem ser implementadas, visando o debate e a conscientização para as iniciativas que confrontam esses problemas.</p><blockquote><p><em>“Estamos vivendo um período de desmonte das políticas públicas, em um governo que valoriza a militarização e que prega que bandido bom é bandido morto. Encontramos muita dificuldade de falar sobre o tema, a sociedade é muito leiga quanto ao assunto, não compreende que aquele sujeito necessita de muito mais apoio, pois enfrenta muito mais dificuldade de se recolocar em um contexto social.”</em></p><cite><em>Sandro Lohmann</em></cite></blockquote><p><em>Com a estatística negativa de um alto de aprisionamento no Brasil, se torna cada vez mais importante o reforço a políticas que visam a assistência após a saída do sistema prisional, guiando e mostrando possíveis novos caminhos para que o problema não seja de reincidência criminal e sim inserção social, a qual antes nunca existiu.</em></p><p>Maria Eduarda Bortoloto - 3º período<br>Artur Lopes Lavinas - 3º período</p></main>"
+  },
+  "date": "2021-04-29T17:08:41",
+  "date_gmt": "2021-04-29T20:08:41",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Brasil é um dos países que mais aprisiona no mundo. Em um ranking de comparação, o país se encontra na 26º posição em relação a outros 222 países. Considerando o número absoluto de presos, o Brasil é a 3º posição, atrás apenas de Cuba e dos Estados Unidos.  Segundo o relatório feito pelo Departamento de Pesquisas Judiciárias do Conselho Nacional de Justiça, 42% das pessoas que tinham processos em andamento no ano 2015 retornaram ao sistema prisional até o fim de 2019. A taxa de reincidência atesta o problema na ressocialização do egresso após a saída do cárcere.</p>\n"
+  },
+  "featured_media": 9156,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9145"
+  },
+  "id": 9145,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/capa-site.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2nv",
+  "link": "https://agenciauvabarra.com/2021/04/29/egressos-do-sistema-prisional-tem-vidas-transformadas-atraves-do-escritorio-social-virtual/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-04-29T17:08:41",
+  "modified_gmt": "2021-04-29T20:08:41",
+  "ping_status": "open",
+  "slug": "egressos-do-sistema-prisional-tem-vidas-transformadas-atraves-do-escritorio-social-virtual",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    268998,
+    1145864,
+    718095083,
+    966831,
+    3060397
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Egressos do sistema prisional têm vidas transformadas através do Escritório Social Virtual"
+  },
+  "type": "post"
+}

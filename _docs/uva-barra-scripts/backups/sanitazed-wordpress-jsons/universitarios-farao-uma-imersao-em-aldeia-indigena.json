@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14326/revisions/14750",
+        "id": 14750
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14326"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14326",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 19,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14326/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14326"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14335"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14326",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14326",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    632602,
+    15243,
+    254332,
+    758
+  ],
+  "class_list": [
+    "post-14326",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-diversidade",
+    "category-meio-ambiente",
+    "category-sustentabilidade",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-cultura",
+    "tag-imersao",
+    "tag-indigena",
+    "tag-uva",
+    "tag-viagem"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Projeto é desenvolvido por professor do Campus Barra</em></p><p>Entre os dias 7 e 9 de abril, o professor do curso de Arquitetura do Campus UVA Barra, Igor de Vetyemy, realizará uma viagem até a Aldeia Iriri Kanã Pataxi Ui Tanara, a aldeia dos Pataxós Hãhãhães, que fica localizada em Paraty, no Rio de Janeiro. O evento imersivo na cultura dos povos originários tem mais de 10 edições e os estudantes passarão 2 noites completas na aldeia.</p><p>O grupo dos Pataxós Hãhãhães é formado do encontro entre a etnia dos Pataxós, originais do estado da Bahia, e outras etnias, no caso desta aldeia, os Tupinambás, que originalmente vivam no Rio de Janeiro, sendo considerada uma aldeia ainda jovem, pois possui pouco mais de 10 anos de existência.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/whatsapp-image-2023-03-31-at-20.32.19.jpeg?resize=759%2C996&#038;ssl=1' alt='Igor de Vetyemy é representante do Brasil da comissão de povos indígenas na UIA (União Internacional de Arquitetos)' width='759' height='996' /><figcaption>Igor de Vetyemy é representante do Brasil da comissão de povos indígenas na UIA (União Internacional de Arquitetos)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/whatsapp-image-2023-03-31-at-17.06.57-1.jpeg?resize=530%2C943&#038;ssl=1' alt='Isabel Leite afirma que o momento da construção foi um dos mais marcantes para ela. (Foto: Arquivo pessoal)' width='530' height='943' /><figcaption>Isabel Leite afirma que o momento da construção foi um dos mais marcantes para ela. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/whatsapp-image-2023-03-31-at-17.02.06.jpeg?resize=723%2C720&#038;ssl=1' alt='Quero aprofundar minhas raízes', afirma Ane Meruzi sobre experiência com indígenas. (Foto: Arquivo pessoal)' width='723' height='720' /><figcaption>Quero aprofundar minhas raízes, afirma Ane Meruzi sobre experiência com indígenas. (Foto: Arquivo pessoal)</figcaption></figure><p>Para o professor Igor de Vetyemy, é importante escutar o que os povos originários tem para nos falar. Nós deveríamos estar ouvindo o que eles falam há 500 anos, e somente agora estamos começando a dar o espaço. Tivemos a chance de criar uma sociedade única no mundo, herdando a cultura de três povos diferentes: Os indígenas, os africanos e os europeus, afirma o docente.</p><p>A imersão é uma troca enriquecedora para ambos os lados, já que a tribo preza pela interculturalidade. Os estudantes que acompanharam o professor Igor nessas viagens, já ajudaram no desenvolvimento da aldeia, como por exemplo, na construção de Kijemes (casas na linguagem Patxohã, falada pelos Pataxós), casas de comércio e até mesmo restaurantes, criando uma relação de troca cultural entre eles.</p><p>A última edição foi realizada no ano de 2019, e a administradora Isabel Leite estava presente. Ela afirmou que a experiência foi importante no processo de mudança como ser humano. Foi uma peça no grande mosaico que eu venho construindo para entender melhor as raízes da nossa cultura. Foi único na minha vida, afirmou a jovem. A aluna do 4° período do curso de arquitetura, Ane Meruzi, viverá essa experiência em breve, e segundo ela, quer se aprofundar nas raízes de seus antepassados, pois se sente muito impactada com a riqueza cultural do povo indígena.</p><p>Os alunos que embarcarem nessa jornada vão ter contato com técnicas construtivas milenares dos povos originários, além de ter contato com uma lógica de vida simples e rica. Eu pretendo aprender técnicas sustentáveis que se fazem muito necessárias na minha profissão hoje em dia, afirma Ane Meruzi.</p><p>Oficina de construção com barro, palha e madeira, momentos em volta da fogueira, rituais, banho de ervas, busca de materiais no meio da mata, essas são algumas das ações dessa imersão cultural. Tiramos lições de uma relação muito harmônica com a natureza, diz o professor Igor. Isabel, que já participou dessa experiência, ficou surpreendida com o aspecto geográfico que a aldeia está localizada: É muito próximo da estrada, e isso mostra um pouco da riqueza do território brasileiro. Ainda temos esses bolsões de preservação das nossas características naturais, afirmou a administradora.</p><p>A experiência na cultura das famílias Pataxós é uma oportunidade de dividir histórias, experiências e momentos marcantes, e acaba se criando vínculos afetivos entre as pessoas. No vídeo abaixo, o professor Igor, conta como o momento da despedida tem um peso transformador para os participantes.</p><figure><iframe src='https://www.youtube.com/embed/_McGccPfYU8?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>Ane Meruzi está animada para viver esse momento. No vídeo abaixo, ela fala sobre suas expectativas e objetivos com a imersão:</p><figure><iframe src='https://www.youtube.com/embed/4dwYD_VJ9Js?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>Isabel Leite, que esteve na viagem em 2019, deixa um conselho para quem ainda não viveu essa experiência: Vá de mente aberta, pois será uma experiência única para cada um. Viva intensamente esses dias, e continue vivendo-a após voltar para a rotina, não deixe cair no esquecimento.</p><p><em><strong>Atualização: Confira como foi a edição de 2023 do projeto</strong></em></p><p>Aproximadamente 25 alunos viveram a experiência da imersão na aldeia indígena dos Pataxós Hãhãhães, e todos que estavam presentes tiveram uma oportunidade única de acompanhar a gravação de uma mesa redonda com os indígenas brasileiros, que será exibida no Congresso Mundial de Arquitetura, que acontecerá em julho, na cidade de Copenhague, Dinamarca. Isso aconteceu porque o professor Igor de Vetymey é o representante do Brasil na comissão de povos indígenas na UIA (União Internacional dos Arquitetos, e estava responsável pela produção deste conteúdo. Os alunos puderam assistir e participar do momento da gravação.</p><p>A estudante Ane Meruzi comentou sobre a sua experiência no evento: Foi uma experiência única na minha vida. Nunca imaginei que poderia adquirir tanta cultura e experiência. Aprendi muito sobre a realidade desse povo, que enfrenta tantos obstáculos no dia-a-dia. Aprendi e emergi sobre minha origem e foi incrível, afirmou a aluna.</p><p>O aluno Luiz Felipe Ferreira, do 7° período do curso de Arquitetura e Urbanismo, registrou vários momentos através das lentes de sua câmera. Além disso, o estudante destacou a hospitalidade do povo nativo: Conhecer a aldeia indígena Iriri Kanã Pataxi Ui Tanara em Paraty foi uma experiência única e enriquecedora. A hospitalidade e a generosidade dos indígenas Pataxõs Hãhãhães foram aspectos marcantes da minha experiência, onde os mesmos estavam dispostos a compartilhar seus conhecimentos e culturas com a gente, afirmou o jovem.</p><p>Além disso, Luiz ressaltou a energia, a expressão artística e o orgulho cultural da aldeia. Conhecer pessoalmente os indígenas, sua história e luta pela preservação de sua identidade cultural me fez questionar muitas visões distorcidas e valorizar a diversidade cultural ainda mais. Acredito que todos deveriam visitar uma aldeia indígena pois é uma experiência que oferece uma perspectiva única sobre a cultura, os valores e a vida dessas comunidades, completou o estudante.</p><p>Além disso, o professor Igor destacou a grande quantidade de chuvas que atingiram a região durante a viagem, mas isso só serviu para criar uma relação ainda maior entre os estudantes e os nativos: Enquanto a chuva caía, nós ficávamos na oca sagrada, em volta da fogueira conversando e compartilhando vivências, afirmou o docente.</p><p><strong>Confira abaixo algumas fotos do evento:</strong></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/img_0071.jpg?resize=4032%2C3024&#038;ssl=1' alt='Foto do evento' width='4032' height='3024' /><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/img_0060.jpg?resize=2872%2C3830&#038;ssl=1' alt='Foto do evento' width='2872' height='3830' /><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/dsc_0046_nef.jpg?resize=2278%2C1519&#038;ssl=1' alt='Foto do evento' width='2278' height='1519' /><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/img_0005.jpg?resize=4032%2C3024&#038;ssl=1' alt='Foto do evento' width='4032' height='3024' /><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/img_9795.jpg?resize=3024%2C4032&#038;ssl=1' alt='Foto do evento' width='3024' height='4032' /></figure><p><strong>Fotos: Luiz Felipe Ferreira</strong></p><p><em>Igor Concolato 3° período</em></p></main>"
+  },
+  "date": "2023-03-31T18:58:00",
+  "date_gmt": "2023-03-31T21:58:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Entre os dias 7 e 9 de abril, o professor do curso de Arquitetura do Campus UVA Barra, Igor de Vetyemy, realizará uma viagem até a Aldeia Iriri Kanã Pataxi Ui Tanara, a aldeia dos Pataxós Hãhãhães, que fica localizada em Paraty, no Rio de Janeiro. O evento imersivo na cultura dos povos originários tem mais de 10 edições e essa será a primeira vez com duas noites completas na aldeia. </p>\n"
+  },
+  "featured_media": 14335,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14326"
+  },
+  "id": 14326,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/whatsapp-image-2023-03-31-at-20.29.17.jpeg?fit=960%2C574&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3J4",
+  "link": "https://agenciauvabarra.com/2023/03/31/universitarios-farao-uma-imersao-em-aldeia-indigena/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-25T13:21:41",
+  "modified_gmt": "2023-05-25T16:21:41",
+  "ping_status": "open",
+  "slug": "universitarios-farao-uma-imersao-em-aldeia-indigena",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056597,
+    5133883,
+    585645,
+    17523,
+    88228
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Universitários farão uma imersão em aldeia indígena"
+  },
+  "type": "post"
+}

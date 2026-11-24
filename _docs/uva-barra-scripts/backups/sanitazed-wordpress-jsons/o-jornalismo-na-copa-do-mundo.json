@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2092/revisions/2967",
+        "id": 2967
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2092"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2092",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2092/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2092"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2093"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2092",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2092",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-2092",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-brasil",
+    "tag-copa-do-mundo",
+    "tag-copa-na-russia-2018",
+    "tag-jornalismo-esportivo",
+    "tag-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em><span>UVA promoveu encontro entre estudantes e jornalista esportivo para falar sobre a realidade de um repórter na festa mais famosa do futebol</span></em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-11-at-17-07-26.jpeg?resize=1600%2C1200&amp;ssl=1' alt='WhatsApp Image 2018-08-11 at 17.07.26' width='1600' height='1200' /><figcaption>Foto: Sidney Garambone</figcaption></figure><p>O segundo semestre começou movimentado para os alunos de jornalismo da Universidade Veiga de Almeida (UVA), campus Barra. O jornalista Bruno Marinho marcou presença, na última quinta-feira (09/08), para falar sobre a experiência adquirida durante a Copa do Mundo no Brasil e na Rússia. A palestra foi mediada pelo professor Sidney Garambone, também com uma bagagem internacional. O profissional falou sobre como foi acompanhar a seleção brasileira e sobre os bastidores de um evento mundial.</p><p>A jornada começou em Londres e se prolongou por mais 57 dias, até a eliminação do Brasil para a Bélgica. O repórter do grupo O Globo disse que era preciso administrar muito bem o tempo para que as reportagens não ficassem frias. “A diferença de fuso horário é enorme, então eu acordava mais cedo para que todas as matérias saíssem no prazo”, enfatizou. Ao ser questionado se faria algo diferente na cobertura, Bruno falou que poderia ser mais crítico com o técnico Tite e com os jogadores.</p><p>Acompanhando o raciocínio, o professor Garambone explica a dificuldade de manter um distanciamento de uma grande equipe nessas circunstâncias. “Quando se passa um período acompanhando uma seleção, você acaba se envolvendo demais e isso complica o trabalho”. Os dois profissionais compartilharam as experiências para entreter e ensinar aos universitários como devem se comportar em um espetáculo internacional desse porte.</p><p>Apaixonada por futebol desde pequena, para a aluna Juliana Marques, ter a oportunidade de receber dicas e pegar informações com dois nomes consolidados do jornalismo esportivo foi uma atividade incrível. “Para uma amante do esporte como eu, saber do dia a dia de uma Copa do Mundo foi fantástico”, acrescenta. A conversa foi importante para os formandos terem um contato maior com uma área muito disputada atualmente, assim recebendo uma orientação, para que futuramente, tenham o mesmo sucesso profissional.</p><p><b>Ana Carolina Marinho – 6° período</b></p></main>"
+  },
+  "date": "2018-08-11T18:06:24",
+  "date_gmt": "2018-08-11T21:06:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>UVA promoveu&nbsp;encontro entre estudantes e jornalista esportivo para falar sobre a realidade de um repórter na festa mais famosa do futebol&nbsp; O segundo semestre começou movimentado para os alunos de jornalismo da Universidade Veiga de Almeida (UVA), campus Barra. O jornalista Bruno Marinho marcou presença, na última quinta-feira (09/08), para falar sobre a experiência adquirida [&hellip;]</p>\n"
+  },
+  "featured_media": 2093,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2092"
+  },
+  "id": 2092,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-11-at-17-07-26.jpeg?fit=1600%2C1200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-xK",
+  "link": "https://agenciauvabarra.com/2018/08/11/o-jornalismo-na-copa-do-mundo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T20:58:51",
+  "modified_gmt": "2019-02-25T23:58:51",
+  "ping_status": "open",
+  "slug": "o-jornalismo-na-copa-do-mundo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    38185,
+    38872,
+    646437710,
+    1685054,
+    17523
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O jornalismo na copa do mundo"
+  },
+  "type": "post"
+}

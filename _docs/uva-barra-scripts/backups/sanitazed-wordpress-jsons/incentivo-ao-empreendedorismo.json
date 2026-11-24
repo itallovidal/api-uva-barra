@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1992/revisions/2933",
+        "id": 2933
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1992"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1992",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1992/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1992"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1992",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1992",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7442,
+    2366
+  ],
+  "class_list": [
+    "post-1992",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-empreendedorismo",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Museu do Amanhã recebe maior evento de startups do Rio</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/06/img_2005.jpg?resize=6000%2C4000&#038;ssl=1' alt='IMG_2005' width='6000' height='4000' /><figcaption>Foto: Carolina Ewald</figcaption></figure><p>Práticas sustentáveis, tecnologia e inovações. Esses foram os projetos apresentados pelo SIC (Startups Insight & Connection), maior evento de startups do Rio de Janeiro, nesta última segunda-feira (04/06), no Museu do Amanhã, na zona portuária. Com o objetivo de promover novas empresas com planos inovadores para o mercado empreendedor, essa edição recebeu dois palcos com palestras, workshops e pitchings durante cerca de 10 horas de programação aberta para o público que deseja conhecer mais desse mundo.</p><p>Para os empresários que já estão inseridos no mercado das startups, a novidade desse ano é com o projeto “Sai do Papel”, que lançou o “Desafio das Startups”, que visa selecionar entre 20 competidores, os três melhores para participarem do programa de aceleração para viabilizar o desenvolvimento do modelo de negócio e colocação no mercado. Segundo o fundador do projeto e também organizador do SIC Carlos Junior, o estado carioca precisava de uma plataforma com essa diversidade inovadora. “Criamos isso para gerarmos motivação, porque todos somos capazes de abrirmos uma empresa e nos conectarmos corporativamente”, enfatiza.</p><p>Foi com essa intenção de expandir a proposta que o empresário Jarbas Braga se inscreveu na competição. O plano de criar uma bicicleta elétrica leve, versátil e de fácil manuseio foi um dos vencedores. Ele ainda brinca que com a greve dos caminhoneiros, esse foi o meio de locomoção mais prático e rápido. “Eu estava tentando crescer com postos de alugueis de bike, porém, a chance de fazer meu comércio se espalhar pela cidade está aqui”, comenta sobre a oportunidade. Outros projetos que participaram foi a Tech Trash, empresa de recolhimento de lixo eletrônico, como também a 3e60, que trabalha com realidade virtual em áreas imobiliárias.</p><p>Conhecer os novos planos empreendedor também é o que chama a atenção do público. Esse foi o caso do visitante Diego Cidade, da Academia do Universitário, que declara ter interesse na área empreendedora. “Eu já conhecia o plano de realidade virtual, vim para saber um pouco mais sobre outros modelos e entender como investir nesse mercado”, admite. De acordo com a head da ComunicaMe Luisa Medeiros, esse é o foco do evento, unir os meios coorporativos com os consumidores e público. “Tivemos um bom resultado, uma alta interação entre os visitantes e expositores. Esperamos que seja ainda melhor no ano que vem”.</p><p>Giovanna Faria, 6º período</p></main>"
+  },
+  "date": "2018-06-07T13:00:00",
+  "date_gmt": "2018-06-07T16:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Museu do Amanhã recebe maior evento de startups do Rio Práticas sustentáveis, tecnologia e inovações. Esses foram os projetos apresentados pelo SIC (Startups Insight &amp; Connection), maior evento de startups do Rio de Janeiro, nesta última segunda-feira (04/06), no Museu do Amanhã, na zona portuária. Com o objetivo de promover novas empresas com planos inovadores [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1992"
+  },
+  "id": 1992,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-w8",
+  "link": "https://agenciauvabarra.com/2018/06/07/incentivo-ao-empreendedorismo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T15:28:10",
+  "modified_gmt": "2019-01-26T17:28:10",
+  "ping_status": "open",
+  "slug": "incentivo-ao-empreendedorismo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Incentivo ao empreendedorismo"
+  },
+  "type": "post"
+}

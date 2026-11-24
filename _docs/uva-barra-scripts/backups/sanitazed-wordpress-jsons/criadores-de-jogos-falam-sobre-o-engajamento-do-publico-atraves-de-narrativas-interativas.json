@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3759/revisions/3788",
+        "id": 3788
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3759"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3759",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3759/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3759"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3759",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3759",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3759",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os palestrantes abordaram temas como a importância de boas histórias e as diversas formas de apresentação</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/2.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>Eduardo Pereira, Head de Estúdio da Pandora Games, fala de Bushido Saga, seu novo projeto – Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/1.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>Palestra no Rio2C fala sobre como narrativas interativas podem engajar jogadores – foto: Gabriel Torres</figcaption></figure><p>Atualmente, o mercado de videogames está crescendo cada vez mais. Segundo dados do Ministério da Cultura, entre 2014 e 2018, o número de desenvolvedoras de jogos cresceu 164% no Brasil, passando de 142 para 375. Parte deste crescimento só foi possível com as possibilidades de narrativas dos jogos. O segundo dia do Rio2C teve espaço dedicado a palestra com roteiristas e criadores de games para falar sobre histórias capazes de engajar o público.</p><p>Não importa a idade dos jogadores, se preferem jogar através de um controle ou mouse, nem mesmo o gênero favorito: o importante é a imersão. Pelo menos é o que diz Daniel E. J. Koo, CEO e Produtor Executivo da Tritone, desenvolvedora de games para mobile. Daniel defende que interação, imersão e imaginação são três fatores essenciais para a construção de uma boa narrativa. Ao abordar a questão imaginativa, ele diz: “Eu quero que as pessoas usem a imaginação quando estiveram jogando. Desta forma, as histórias tornam-se vivas”.</p><p>Enquanto as histórias ganham vida, o perfil do jogador ganha forma. Quando os videogames começaram a se tornar popular, ainda era comum que as histórias fossem apresentadas nos manuais ou caixas. Entretanto, esse consumo passivo ficou no passado. Hoje, contar histórias é como criar e, Eduardo Pereira, Head de Estúdio da Pandora Games, destaca jogos como Heavy Rain e Beyond Two Souls, os quais contam com um sistema de interatividade através de decisões. “O jogador interage mais, pode decidir o destino do protagonista. Esses jogos contam com múltiplos desfechos, que dependem das escolhas que o jogador faz durante a narrativa”, diz.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/3.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>andê Saavedra, Diretor de Arte da Double Dash, aborda alguns tipos de narrativas – Foto: Gabriel Torres</figcaption></figure><p>Interação gera imersão. Jorge Luís Rocha, Roteirista e cofundador da Dumativa Estúdio de Criação fala sobre um de seus projetos desenvolvido em parceria com os Castro Brothers. “A Lenda do Herói” é um jogo no qual as ações são cantadas de forma cômica. Os ataques, pulos, inimigos, desafios ou até mesma a ausência de movimentos por parte do jogador é narrada em versos pelo personagem protagonista, promovendo uma interação com o público através de elementos musicais. Jorge diz acreditar que não há futuro para o videogame sem ser interativo. “A partir agora, todo jogo que não traga uma imersão que dê o poder ao jogador para construir sua própria história única, dentro do jogo, eu acho que não tem tanta sobrevivência”, diz.</p><p>Veja mais sobre o painel no vídeo abaixo:</p><figure><iframe src='https://www.youtube.com/embed/pz4g_aNroEo?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><strong>Gabriel Torres – 5º período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-26T07:00:30",
+  "date_gmt": "2019-04-26T10:00:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os palestrantes abordaram temas como a importância de boas histórias e as diversas formas de apresentação Atualmente, o mercado de videogames está crescendo cada vez mais. Segundo dados do Ministério da Cultura, entre 2014 e 2018, o número de desenvolvedoras de jogos cresceu 164% no Brasil, passando de 142 para 375. Parte deste crescimento só [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3759"
+  },
+  "id": 3759,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-YD",
+  "link": "https://agenciauvabarra.com/2019/04/26/criadores-de-jogos-falam-sobre-o-engajamento-do-publico-atraves-de-narrativas-interativas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-26T15:55:01",
+  "modified_gmt": "2019-04-26T18:55:01",
+  "ping_status": "open",
+  "slug": "criadores-de-jogos-falam-sobre-o-engajamento-do-publico-atraves-de-narrativas-interativas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Criadores de jogos falam sobre o engajamento do público através de narrativas interativas"
+  },
+  "type": "post"
+}

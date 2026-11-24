@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9805/revisions/9809",
+        "id": 9809
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9805"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9805",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9805/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9805"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9807"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9805",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9805",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832,
+    72064
+  ],
+  "class_list": [
+    "post-9805",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "category-saude",
+    "tag-e-essa-pratica-exige-alguns-cuidados-o-clima-pode-causar-uma-baixa-nos-batimentos-cardiacos-e",
+    "tag-esporte",
+    "tag-exercicio-fisico",
+    "tag-inverno"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: A importância dos exercícios físicos no inverno\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6MeCPaHeha8CMGp9SSVgey?si=72ac74bfcdf94456&#038;utm_source=oembed\"></iframe></figure><p>Com a chegada do frio as pessoas procuram ficar mais em casa, se sentem com preguiça para ir até as academias ou até mesmo realizar as caminhadas. O inverno é uma estação do ano propícia ao sedentarismo, mas existem pessoas que ainda mantem a rotina de praticar algum esporte ou exercício físico, e essa prática exige alguns cuidados. O clima pode causar uma baixa nos batimentos cardíacos e gerar um aumento na pressão arterial, para poder manter a temperatura do corpo.</p><p>Para entender o tema nossos repórteres conversaram com Marcio Baptista, professor de educação física da Universidade Veiga de Almeida, Diogo Bonfim, que independente do clima está sempre realizando seus exercícios e com Eliete Rosa, que acaba dando uma pausa nas atividades por conta das baixas temperaturas.</p><p><em>Iago Eloi – 7°período</em></p></main>"
+  },
+  "date": "2021-07-12T18:27:36",
+  "date_gmt": "2021-07-12T21:27:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Com a chegada do frio as pessoas procuram ficar mais em casa, se sentem com preguiça para ir até as academias ou até mesmo realizar as caminhadas. O inverno é uma estação do ano propícia ao sedentarismo, mas existem pessoas que ainda mantem a rotina de praticar algum esporte ou exercício físico, e essa prática exige alguns cuidados. O clima pode causar uma baixa nos batimentos cardíacos e gerar um aumento na pressão arterial, para poder manter a temperatura do corpo.</p>\n"
+  },
+  "featured_media": 9807,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9805"
+  },
+  "id": 9805,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/capa-site-agencia-1-1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2y9",
+  "link": "https://agenciauvabarra.com/2021/07/12/podcast-a-importancia-dos-exercicios-fisicos-no-inverno/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-12T18:27:36",
+  "modified_gmt": "2021-07-12T21:27:36",
+  "ping_status": "open",
+  "slug": "podcast-a-importancia-dos-exercicios-fisicos-no-inverno",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    721175364,
+    767056609,
+    671837,
+    400478
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: A importância dos exercícios físicos no inverno"
+  },
+  "type": "post"
+}

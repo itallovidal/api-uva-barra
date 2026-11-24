@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7789/revisions/7801",
+        "id": 7801
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7789"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7789",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7789/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7789"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7798"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7789",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7789",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    18330,
+    670411728
+  ],
+  "class_list": [
+    "post-7789",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-institucional",
+    "category-institucional-uva",
+    "tag-gilmar-baltazar",
+    "tag-producao-de-conteudo",
+    "tag-rock-in-rio"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Patrícia Moura e Vinícius Antunes apresentaram a rotina de uma gerente de estratégia e de um roteirista</em></p><p>A internet transformou os usuários em produtores de conteúdo. Uma dancinha no aplicativo de dublagem ou aquela foto que alguém faz questão de te marcar são alguns dos exemplos cotidianos que inverteram a ordem de consumidor passivo para produtor. Entretanto, existem pessoas que usam esses recursos como profissão. Patrícia Moura é gerente de estratégia na A-LAB e Vinícius Antunes, roteirista de humor da Rede Globo. Ambos usam a narrativa no trabalho e dividiram conhecimento com os alunos da Universidade Veiga de Almeida.</p><p>Imagine o seguinte cenário: um festival de música que tem como lema ser o maior do mundo, milhares de pessoas, uma equipe técnica tão grande quanto, shows do mundo inteiro. É nesse contexto, dentro de algum container apelidado de <em>banker</em>, que Patrícia coordenava as ações nas redes sociais durante o Rock in Rio 2019. Além de todo o planejamento anterior ao evento, existia também a necessidade de estar preparada para os imprevistos.</p><p><em>\"Foi enlouquecedor, porém inesquecível. É um papel bastante híbrido e é muito mão na massa. Ali eu sou mais uma pessoa do time querendo transformar esse planejamento em realidade\", contou Patrícia.</em></p><p>Todo o planejamento do Rock in Rio 2019 tinha que contar uma história que ficasse marcada. A narrativa escolhida foi a do sonho, a partir dessa concepção, as ações de marketing antes, durante e depois do evento tinham que deixar essa mensagem residual para o espectador. \"A gente queria que as pessoas pensassem: 'nossa, estar ali é o meu sonho'\". afirmou.</p><p>O desafio de criar conteúdo relevante é grande e se faz necessário manter os olhos atentos para os imprevistos ao longo dos eventos. No caso de Vinícius Antunes, são os ouvidos que estão sempre atentos. Ele já trabalha com podcast, é roteirista do Zorra e, mais recentemente, fez parte do time que criou o primeiro podcast ficcional do grupo Globo: \"Gilmar Baltazar – Detetive particular\".</p><p>Ouça o áudio de Vinícius Antunes sobre a produção de conteúdo de podcast ficcional</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F903542509&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Vinicius Antunes – a produção de conteúdo de podcast ficcional\" allow=\"autoplay; fullscreen; clipboard-write; encrypted-media; picture-in-picture\" allowfullscreen></iframe><p>A série em áudio surgiu de um movimento da empresa de produzir conteúdo em um momento que não podia usar os estúdios e os grandes recursos da emissora. Nesse contexto surge \"Gilmar Baltazar\", um detetive que tem que solucionar um mistério de assassinato em meio a uma crise sanitária global.</p><p><em>\"No podcast, as descrições tem que ser maiores, os sons maiores, tudo existe um exagero. Você escreve um roteiro pensando no áudio que envolve as pessoas\", explicou Vinícius.</em></p><p>Aimee Borba, aluna do segundo período de publicidade, afirma que ter contato com esses profissionais a prepara melhor para o mercado de trabalho. \"Importante saber que mesmo nesse tempo de mídias instantâneas ainda há espaço para o surgimento de novas formas de lançar um produto\", afirma.</p><p>A semana trouxe diferentes referências para a formação acadêmica dos alunos da UVA. Patrícia Moura participou de uma palestra no dia 30/09 e Vinícius Antunes no dia 02/10, mediadas pelos professores Leo Amato e Anderson Barreto respectivamente. As apresentações contaram com cerca de 200 alunos. Patrícia abordou a experiência como gerente de estratégia do Rock in Rio 2019, Vinícius falou sobre criação de roteiro de podcast de ficção em plena pandemia. Dessa forma, os alunos de comunicação tiveram contato com especialistas de áreas distintas, mas que podem ser um caminho a ser trilhado pelos universitários que estão iniciando a trajetória profissional.</p><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2020-10-02T14:59:28",
+  "date_gmt": "2020-10-02T17:59:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Patrícia Moura e Vinícius Antunes apresentaram a rotina de uma gerente de estratégia e de um roteirista&nbsp; A internet transformou os usuários em produtores de conteúdo. Uma dancinha no aplicativo de dublagem ou aquela foto que alguém faz questão de te marcar são alguns dos exemplos cotidianos que inverteram a ordem de consumidor passivo para [&hellip;]</p>\n"
+  },
+  "featured_media": 7798,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7789"
+  },
+  "id": 7789,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/captura-de-tela-2020-10-02-102119.png?fit=1366%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-21D",
+  "link": "https://agenciauvabarra.com/2020/10/02/a-producao-de-conteudo-e-pauta-em-duas-palestras-na-universidade-veiga-de-almeida/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-02T15:00:04",
+  "modified_gmt": "2020-10-02T18:00:04",
+  "ping_status": "open",
+  "slug": "a-producao-de-conteudo-e-pauta-em-duas-palestras-na-universidade-veiga-de-almeida",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    705735753,
+    846860,
+    713479
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A produção de conteúdo é pauta em duas palestras na Universidade Veiga de Almeida"
+  },
+  "type": "post"
+}

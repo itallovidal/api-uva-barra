@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1864/revisions/3195",
+        "id": 3195
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1864"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1864",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1864/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1864"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1864",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1864",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    72064
+  ],
+  "class_list": [
+    "post-1864",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-saude"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Ação envolve palestrantes e calouros em prol da saúde física</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/04/whatsapp-image-2018-04-12-at-14-23-39.jpeg?resize=1280%2C719&#038;ssl=1' alt='WhatsApp Image 2018-04-12 at 14.23.39' width='1280' height='719' /><figcaption>Créditos: Karina Figueiredo</figcaption></figure><p>Um corpo saudável reflete o bem-estar. Em comemoração à Semana Mundial da Saúde, a Universidade Veiga de Almeida (UVA), Campus Barra, promoveu na última quarta-feira (11/04), um ciclo de palestras para os alunos. Dentre os temas apresentados estavam as possibilidades de obter uma qualidade de vida com mantimentos benéficos para o funcionamento do organismo. O objetivo é mostrar como a prática de atividades físicas contribuem para uma vida longe de doenças, combinadas com uma alimentação rica em nutrientes.</p><p>A ênfase no exercício físico nessa palestra tem um motivo. A nutricionista Alessandra Ferreira analisa que o sedentarismo unido a irregularidade alimentar pode trazer muitos problemas futuros. “No Brasil há mais de 12 milhões de Diabéticos, e aqui, no Rio de Janeiro, a prevalência é maior”, enfatiza. A profissional que é formada em Nutrição, pela UVA, apresentou os fatores que favorecem o aparecimento dos problemas. “O baixo consumo de frutas e legumes, o sobrepeso, a ingestão de doces e muito carboidrato colabora para o surgimento de vários tipos de diabetes”.</p><p>Dentro dessa variedade de alimentos, o fundamental é a verificação do rótulo na hora da compra. A professora Betina Schmidt ressalta a importância de estar atento ao que contém nos produtos e como estes podem enganar o consumidor. “Algumas marcas dizem que não manipulam os alimentos, o que muitas vezes não acontece”. A palestrante ainda defende os benefícios ocasionados por parte dos transgênicos e que essas descrições devem ser informadas nas mercadorias.</p><p>A descrição detalhada nas mercadorias ainda é uma novidade. A estudante Rafaela Cascardo, 24 anos, do 1º período de Nutrição e formada em jornalismo, se surpreendeu com a notícia. “Acabamos evitando alguns produtos por não saber diferenciar os bons dos ruins”, declarou a aluna ao se referir aos tipos de organismos geneticamente modificados. Recém-chegada na área de Ciências Biológicas a comunicóloga acredita nas mudanças que a atividade realiza. “ Pode ajudar as pessoas a cuidar melhor da saúde, da beleza e ser mais feliz”, menciona.</p><p>Em busca da felicidade e da autoestima, as experiências pessoais podem se tornar uma carreira. “Eu era muito gordo e por conta disso comecei a equilibrar o que eu comia e a fazer dietas Agora quero passar para os outros”, confessa o graduando Fernando Abreu, 26, morador do Rio há poucos meses. Ele relata que perdeu um amigo por conta da Diabetes e que isso impulsionou a mudar de hábitos e ter interesse pelo ramo.</p><p>A iniciativa de levar valores para os cidadãos é instigar neles um pensamento crítico sobre o que é colocado no prato. Além disso, a nutricionista Alessandra Ferreira salienta que o mercado alimentício deve oferecer opões disponíveis para que a população faça alternativas para balancear uma alimentação rica para uma melhor qualidade de vida.</p><p>Karina Figueiredo, 4° período.</p></main>"
+  },
+  "date": "2018-04-12T15:38:42",
+  "date_gmt": "2018-04-12T18:38:42",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ação envolve palestrantes e calouros em prol da saúde física</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1864"
+  },
+  "id": 1864,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-u4",
+  "link": "https://agenciauvabarra.com/2018/04/12/estimulos-para-a-felicidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:08:51",
+  "modified_gmt": "2019-02-26T00:08:51",
+  "ping_status": "open",
+  "slug": "estimulos-para-a-felicidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Estímulos para a felicidade"
+  },
+  "type": "post"
+}

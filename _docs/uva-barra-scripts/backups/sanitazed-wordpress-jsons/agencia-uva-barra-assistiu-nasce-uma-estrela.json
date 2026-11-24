@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2449/revisions/3040",
+        "id": 3040
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2449"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2449",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2449/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2449"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2450"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2449",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2449",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2449",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-bradley-cooper",
+    "tag-cinema",
+    "tag-lady-gaga",
+    "tag-nasce-uma-estrela"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/3472306-r_1280_720-f_jpg-q_x-xxyxx.jpg?resize=576%2C720&amp;ssl=1' alt='3472306.jpg-r_1280_720-f_jpg-q_x-xxyxx' width='576' height='720'><figcaption>Foto: Divulgação</figcaption></figure><p><span style=\"text-align:justify;\">Jackson Maine (Bradley Cooper) é um conceituado artista musical. Ally (Lady Gaga) é uma cantora desconhecida, que está quase desistindo de seu sonho. Após um grande show, Jackson resolve ir até um bar no leste da cidade, e lá conhece Ally. Em meio a um romance entre os dois, ele a ajuda a se tornar conhecida e uma grande estrela. Mas os demônios internos de Jack podem afetar mais a vida deles do que imaginam.</span></p><p>O filme que marca a estreia de Bradley Cooper como diretor traz uma trilha sonora original, com algumas músicas escritas por Gaga e Bradley, e vários outros artistas, como Lukas Nelson, Mark Ronson e Jason Isbell. E todas interpretadas pelos dois personagens principais. A fotografia mostra o ambiente totalmente musical, de shows, composições e gravadoras e uma curiosidade, as canções foram gravas ao vivo.</p><p>Mas o longa não é só sobre a caminhada de Ally até o sucesso, ou o relacionamento de Jack com ela. Os diálogos, as canções e as relações entre os personagens principais e os secundários sobressaem e contam outras histórias. O único problema foi a falta de detalhes na passagem de tempo do filme, e o fato de Ally se perder um pouco em sua carreira tira a atenção dela e dos espectadores da queda de Jack.</p><p>“Nasce uma estrela” estreou, pela primeira vez em 1937, com Janet Gaynor. O primeiro remake em 1954, conta com Judy Garland. O segundo, e mais famoso entre as três, em 1977 teve Barbara Streisand. E apesar de ser a terceira vez que é refeito, Gaga e Bradley conseguiram adaptar bem os personagens para os dias atuais e trouxeram a intensidade necessária para as cenas, não deixando espaço para comparações.</p><iframe src='https://videopress.com/embed/53TwuHf1?hd=1&amp;cover=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1&amp;muted=0&amp;controls=1&amp;playsinline=0&amp;useAverageColor=0&amp;preloadContent=metadata' width='400' height='224' title='Reprodutor de vídeo VideoPress' allow='clipboard-write' allowfullscreen></iframe><p><strong>Ana Beatriz Bernardo – 6º período</strong></p></main>"
+  },
+  "date": "2018-10-11T15:24:25",
+  "date_gmt": "2018-10-11T18:24:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Jackson Maine (Bradley Cooper) é um conceituado artista musical. Ally (Lady Gaga) é uma cantora desconhecida, que está quase desistindo de seu sonho. Após um grande show, Jackson resolve ir até um bar no leste da cidade, e lá conhece Ally. Em meio a um romance entre os dois, ele a ajuda a se tornar [&hellip;]</p>\n"
+  },
+  "featured_media": 2450,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2449"
+  },
+  "id": 2449,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/3472306-r_1280_720-f_jpg-q_x-xxyxx.jpg?fit=576%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Dv",
+  "link": "https://agenciauvabarra.com/2018/10/11/agencia-uva-barra-assistiu-nasce-uma-estrela/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:53:32",
+  "modified_gmt": "2019-01-31T13:53:32",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-nasce-uma-estrela",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    865067,
+    767056592,
+    6254056,
+    5560135
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: &#8220;Nasce uma estrela&#8221;"
+  },
+  "type": "post"
+}

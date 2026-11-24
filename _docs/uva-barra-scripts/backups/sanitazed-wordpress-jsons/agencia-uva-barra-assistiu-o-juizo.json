@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6020/revisions/6270",
+        "id": 6270
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6020"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6020",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6020/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6020"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6020",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6020",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-6020",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema-nacional",
+    "tag-o-juizo",
+    "tag-suspense",
+    "tag-terror"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/4947277.png-c_215_290_x-f_jpg-q_x-xxyxx.jpg?resize=215%2C290&amp;ssl=1' alt='' width='215' height='290' /><figcaption>Foto: Divulgação</figcaption></figure><p>O diretor Andrucha Waddington, conhecido por trabalhos como a série Sob Pressão, dessa vez se aventura no gênero do terror/suspense no filme “O Juízo”. Na trama, Augusto (Felipe Camargo) e Tereza (Carol Castro) se mudam com seu filho, Marinho (Joaquim Torres), para uma antiga fazenda no interior do Rio de Janeiro. Porém as coisas começam a ficar estranhas depois que a figura de dois escravos (Criolo e Kênia Bárbara) começam a atormentar a família.</p><p>O longa tem uma premissa bem clichê, uma casa com espíritos que atormentam uma família, algo que já foi visto em centenas de filmes. Apesar disso, o diretor escolhe uma abordagem que foge de sustos banais, apostando em cenas mais duradouras, com poucos cortes, trabalhando mais a subjetividade das cenas e o envolvimento do público.</p><p>O roteiro escrito por Fernanda Torres não acompanha o mesmo ritmo da direção. Muitas cenas terminam de uma hora pra outra e a sensação de que existe um perigo ao redor dos personagens não é perceptível. Em nenhum momento você teme pela vidas dos protagonistas, os fantasmas do filme não têm uma presença assustadora, você fica mais interessado em saber como toda a história vai se desenrolar do que com medo deles. As revelações e viradas da história são até justificadas mas não surpreendem.</p><p>As atuações seguem o padrão desse tipo de filme. Felipe Camargo consegue se sair bem no papel de Augusto, que vive um homem atormentado pelas entidades presentes na casa. Carol Castro tem uma boa atuação com  o papel da esposa cética, e Joaquim Torres que faz o filho do casal apesar de ir bem, precisaria demonstrar um pouco mais de emoção. O longa ainda conta com a participação do cantor Criolo, que tem uma boa presença em frente as câmeras, e traz um ar de mistério importante para o personagem, Fernanda Montenegro e Lima Duarte estão ótimos em seus papéis.</p><p>O Juízo é um filme que vem nessa nova leva de obras de gênero feitas no Brasil nos últimos anos. A produção que a primeira vista aposta em uma pegada mais psicológica, inspirada em obras como “O iluminado”, acaba se perdendo em clichês ao longo da história e termina com um final anticlimático que não consegue capturar o público. O filme estreia em 5 de dezembro.</p><figure><iframe src='https://www.youtube.com/embed/fH_TF_0bNyU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Lucas Souza – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-12-02T10:52:20",
+  "date_gmt": "2019-12-02T13:52:20",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O diretor Andrucha Waddington, conhecido por trabalhos como a série Sob Pressão, dessa vez se aventura no gênero do terror/suspense no filme “O Juízo”. Na trama, Augusto (Felipe Camargo) e Tereza (Carol Castro) se mudam com seu filho, Marinho (Joaquim Torres), para uma antiga fazenda no interior do Rio de Janeiro. Porém as coisas começam [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6020"
+  },
+  "id": 6020,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1z6",
+  "link": "https://agenciauvabarra.com/2019/12/02/agencia-uva-barra-assistiu-o-juizo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-03-21T00:11:22",
+  "modified_gmt": "2020-03-21T03:11:22",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-o-juizo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    168394,
+    67791247,
+    8811,
+    8812
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: &#8220;O Juízo&#8221;"
+  },
+  "type": "post"
+}

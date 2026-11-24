@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15552/revisions/15566",
+        "id": 15566
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15552"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15552",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15552/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15552"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15554"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15552",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15552",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    23208,
+    14603,
+    774,
+    713047979
+  ],
+  "class_list": [
+    "post-15552",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-entretenimento",
+    "category-jornalismo",
+    "category-musica",
+    "category-podseries",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Já imaginou reencontrar o grande amor depois de 20 anos? Essa é a história da professora Natália e será contada nesta edição inédita dos podcasts de storytelling da Rádio Uva Barra. </p><p>Natalia e Eduardo Moreira se conheceram na igreja durante a adolescência, e após uma tentativa de relacionamento que não deu certo entre os dois, a vida deles tomou rumos inimagináveis longe um do outro, incluindo casamentos e até o nascimento de uma criança. </p><p>Duas décadas depois, através de uma rede social e a ajuda de uma aluna de Natália, eles se reencontram para tentar mais uma vez viver esse amor que ficou adormecido durante todo esse tempo. </p><p>A produção é de Camily da Costa, Juan Sebastian, Luiza Lopez, Maria Clara Lima, Mayara Chagas e Mylena Macario. <strong>Ouça o podcast completo!</strong></p><figure><iframe title=\"Spotify Embed: Podcast de Storytelling: Parece novela, mas é vida real.\" width=\"100%\" height=\"152\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/4AAMgXviWEGZtT6VRiq6h3?si=Tt82XMpRSPit1A1Ep4RuNg&#038;utm_source=oembed\"></iframe></figure><p><em>*Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-08-22T14:36:40",
+  "date_gmt": "2023-08-22T17:36:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Natalia e Eduardo Moreira se conheceram na igreja durante a adolescência, e após uma tentativa de relacionamento que não deu certo entre os dois, a vida deles tomou rumos inimagináveis longe um do outro, incluindo casamentos e até o nascimento de uma criança.</p>\n"
+  },
+  "featured_media": 15554,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15552"
+  },
+  "id": 15552,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/08/balloon-991680_1280.jpg?fit=1280%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-42Q",
+  "link": "https://agenciauvabarra.com/2023/08/22/podcast-de-storytelling-parece-novela-mas-nao-e/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-08-24T17:06:24",
+  "modified_gmt": "2023-08-24T20:06:24",
+  "ping_status": "open",
+  "slug": "podcast-de-storytelling-parece-novela-mas-nao-e",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast de Storytelling: Parece novela mas não é"
+  },
+  "type": "post"
+}

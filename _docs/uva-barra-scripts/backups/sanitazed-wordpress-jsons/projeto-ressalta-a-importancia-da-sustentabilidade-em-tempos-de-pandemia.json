@@ -1,0 +1,164 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7674/revisions/7700",
+        "id": 7700
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7674"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7674",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 20,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7674/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7674"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7683"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7674",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7674",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330,
+    670411728,
+    15243,
+    254332
+  ],
+  "class_list": [
+    "post-7674",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "category-institucional-uva",
+    "category-meio-ambiente",
+    "category-sustentabilidade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Núcleo educa sobre questões socioambientais através das redes sociais</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto-1.jpeg?resize=1280%2C960&#038;ssl=1\" alt=\"\" width=\"1280\" height=\"960\" /><figcaption>Ação do NUPPS de educação ambiental na escola municipal Itala Zappa (Foto: Acervo NUPPS)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto-3.png?resize=263%2C512&#038;ssl=1\" alt=\"\" width=\"263\" height=\"512\" /><figcaption>Professora Carla Cardoso e o integrante do projeto, Paulo Marcio Freitas, durante a primeira live do NUPPS (Foto: Divulgação)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto-5.png?resize=1080%2C1080&#038;ssl=1\" alt=\"\" width=\"1080\" height=\"1080\" /><figcaption>Carla Cardoso, coordenadora do NUPPS, e Paulo Marco Freitas, aluno e participante do NUPPS</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto-2.jpg?resize=1061%2C807&#038;ssl=1\" alt=\"\" width=\"1061\" height=\"807\" /><figcaption>Horta criada pelo projeto dentro do campus Barra da UVA (Foto: Acervo NUPPS)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto-4.jpg?resize=1077%2C801&#038;ssl=1\" alt=\"\" width=\"1077\" height=\"801\" /><figcaption>Alunos do NUPPS participando da criação da horta no campus da Universidade (Foto: Acervo NUPPS)</figcaption></figure><p>O desmatamento da Amazônia teve um aumento de 34% entre agosto de 2019 e a julho de 2020, segundo dados do Instituto Nacional de Pesquisas Espaciais (Inep). Em julho desde ano, mais de 1.500 km² de bioma foram devastados. Os números reforçam o alerta para a discussão de práticas sustentáveis e a exigência por políticas públicas que amenizem a situação. O Núcleo de Pesquisas e Práticas Sustentáveis (NUPPS) é um projeto universitário com a missão de conscientizar as pessoas sobre a importância da sustentabilidade e tem implementado ações na internet durante a pandemia.</p><p>Formado por alunos da Universidade Veiga de Almeida (UVA), o NUPPS existe há cerca de 2 anos e é fruto do extinto projeto universitário Consciência Carioca. Durante esse período diversas ações socioambientais foram promovidas, como: limpeza de praias; criação de uma horta na UVA; trabalhos voluntários em escolas públicas, asilos de idosos e abrigos para crianças; e realização de palestras e pesquisas dentro da faculdade. Como explica a coordenadora do NUPPS e professora de Direito da UVA, Carla Cardoso de Moura, a ideia é a divulgação e a execução de boas práticas sustentáveis, trazendo benefícios para o meio ambiente e para a sociedade.</p><p>Carla Moura conta mais sobre o trabalho do NUPPS. Ouça:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F897085903&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Carla Moura conta mais sobre o trabalho do NUPPS\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Com a pandemia, as ações presenciais tiveram que ser interrompidas e, percebendo o potencial alcance da internet, o projeto decidiu focar em postagens de notícias socioambientais e na realização de lives nas redes sociais durante o isolamento social. “Tentamos converter esse trabalho em algo que também fosse proveitoso para as pessoas, de forma que alcançasse o maior número de visualizações com as informações”, comenta Carla. A primeira live ocorreu na terça-feira (15/09), um bate-papo sobre Direito Ambiental entre a professora Carla e o participante do NUPPS Paulo Marcio Freitas.</p><p>Paulo Marcio é aluno de Direito na UVA e integra a equipe desde 2018. Ele acredita que os trabalhos do NUPPS têm ajudado na conscientização das pessoas. “Claro que é um trabalho de formiguinha, de pouco a pouco”, conta. Para Paulo, saber sobre os instrumentos que protegem o Meio Ambiente, como por exemplo o Direito Ambiental, favorece a participação ativa do indivíduo na causa. Durante a live, o grupo explicou acerca de artigos, como A Lei de Crimes Ambientais, e abordou ações do dia a dia que ajudam a preservar o meio ambiente.</p><p>Paulo ressalta a importância de aprender sobre sustentabilidade e a necessidade de mudanças socioambientais no país. Ouça:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F897099697&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Paulo ressalta a importância de aprender sobre sustentabilidade\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Ana Carolina Fernandes – 6º período</p></main>"
+  },
+  "date": "2020-09-21T15:43:30",
+  "date_gmt": "2020-09-21T18:43:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Núcleo educa sobre questões socioambientais através das redes sociais O desmatamento da Amazônia teve um aumento de 34% entre agosto de 2019 e a julho de 2020, segundo dados do Instituto Nacional de Pesquisas Espaciais (Inep). Em julho desde ano, mais de 1.500 km² de bioma foram devastados. Os números reforçam o alerta para a [&hellip;]</p>\n"
+  },
+  "featured_media": 7683,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7674"
+  },
+  "id": 7674,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/09/foto-4.jpg?fit=1077%2C801&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1ZM",
+  "link": "https://agenciauvabarra.com/2020/09/21/projeto-ressalta-a-importancia-da-sustentabilidade-em-tempos-de-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-09-22T16:06:58",
+  "modified_gmt": "2020-09-22T19:06:58",
+  "ping_status": "open",
+  "slug": "projeto-ressalta-a-importancia-da-sustentabilidade-em-tempos-de-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Projeto ressalta a importância da sustentabilidade em tempos de pandemia"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5302/revisions/5313",
+        "id": 5313
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5302"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5302",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5302/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5302"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5309"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5302",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5302",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    407146
+  ],
+  "class_list": [
+    "post-5302",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-exposicao",
+    "tag-centro-historico-de-petropolis",
+    "tag-marzio-fiorini",
+    "tag-sua-majestade-arte"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Exposição de arte contemporânea reuniu leilão, moda e design no Centro Histórico</em></p><p>Entre os dias 21 e 24 de setembro o glamour da arte e da moda ficaram em evidência na Casa da Princesa Isabel, no Centro Histórico de Petrópolis, por conta de exposição “Sua Majestade/Arte”, do artista plástico e designer Marzio Fiorini. O evento fez um mix de arte contemporânea, leilão, moda e design em um ambiente democrático onde contemplou artistas da Cidade Imperial e nomes consagrados das artes.</p><p>“Resolvi trazer um resgate da cultura e da identidade com uma mostra de arte contemporânea. Estou privilegiando também artistas petropolitanos que estão em ascensão na cidade. Quis fazer uma mostra democrática”, destaca o curador da exposição que reuniu obras dos artistas Luiz Aquila, Ana Luiza Rego, Marcelo Lago, Susi Cantarino, Álvaro Dias, Ana Durães, Isabela Francisco, Bob Cardim, Fabi Cunha, Fred Góes, Ivo Ferreira, Maria Pia Garcez.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/dsc0672.jpg?resize=576%2C383&#038;ssl=1\" alt=\"\" width=\"576\" height=\"383\" /><figcaption>O idealizador e curador do evento ao lado dos membros da família real &#8211; Patrícia Alvim de Orleans e Bragança, Pedro Carlos de Orleans e Bragança, Manuel de Orleans e Bragança, Rita de Orleans e Braçança, Francisco de Orleans e Bragança, Sylvia Amélia de Orleans e Bragança e Afonso de Orleans e Braçança &#8211; Foto:  Gisele Rocha</figcaption></figure><p>Entre as principais atrações do evento, obras assinadas pela Princesa Isabel, ganham destaque especial. É a primeira vez que as criações são expostas em público. Isso foi possível graças à parceria com Pedro de Orleans e Bragança como pré-produtor do evento. As peças vieram exclusivamente para a ocasião direto do acervo da família instalado no Museu Imperial e no Museu Grão Pará.</p><p>A filha do imperador Dom Pedro II mostrava aos 12 anos talentos e desenvolturas com aquarelas. As peças apresentadas nesta exposição são justamente deste período da adolescência. Fiorini lembra que ela frequentou aulas de artes plásticas na época, com Victor Meirelles, e tinha como preferência passar para as telas a fauna e a flora.</p><p>De férias em Petropólis, o militar Endel Ferreira se surpreendeu com o espaço e a mostra que estava em andamento. “Não conhecia todos os artistas, mas achei interessante, pois pelo que eu saiba o palácio é fechado ao público, mas graças à exposição ele está aberto. Além de conhece-lo, podemos contemplar as obras”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190923_152437.jpg?resize=584%2C328&#038;ssl=1\" alt=\"\" width=\"584\" height=\"328\" /><figcaption>O casal Endel Ferreira e Rafaela Gonçalves apreciaram a oportunidade de visitar a mostra e conhecer a casa da Princesa Isabel no dia em que o evento esteve aberto ao público &#8211; Foto:  Gisele Rocha</figcaption></figure><p>A mostra de Fiorini recebeu também a presença de parte da Família Imperial: D. Pedro Carlos, responsável pelo acervo na cidade, direto da Espanha veio D. Manuel de Orleans e Bragança, a trineta de Isabel &#8211; Paola de Orleans e Bragança e o seu meio-irmão, o príncipe Mikush Sapieha, artista espanhol. “A ideia é que ela seja mais abrangente, em outros espaços, focando outras vertentes da arte, como fotografia, por exemplo. Temos que valorizar a nossa história”, comenta entusiasmado Marzio pensando na próxima edição.</p><p><strong>Paula Guaraldo &#8211; 7º Período | Jornalismo </strong></p></main>"
+  },
+  "date": "2019-09-25T14:29:00",
+  "date_gmt": "2019-09-25T17:29:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Exposição de arte contemporânea reuniu leilão, moda e design no Centro Histórico Entre os dias 21 e 24 de setembro o glamour da arte e da moda ficaram em evidência na Casa da Princesa Isabel, no Centro Histórico de Petrópolis, por conta de exposição “Sua Majestade/Arte”, do artista plástico e designer Marzio Fiorini. O evento [&hellip;]</p>\n"
+  },
+  "featured_media": 5309,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5302"
+  },
+  "id": 5302,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190923_151346.jpg?fit=2048%2C1152&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1nw",
+  "link": "https://agenciauvabarra.com/2019/09/25/marzio-fiorini-cria-sua-majestade-arte-e-mostra-obras-da-princesa-isabel-e-de-artistas-da-cidade-imperial/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-27T15:32:39",
+  "modified_gmt": "2019-09-27T18:32:39",
+  "ping_status": "open",
+  "slug": "marzio-fiorini-cria-sua-majestade-arte-e-mostra-obras-da-princesa-isabel-e-de-artistas-da-cidade-imperial",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    42483394,
+    17374093,
+    687352043
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Marzio Fiorini cria “Sua Majestade/Arte” e mostra obras da Princesa Isabel e de artistas da Cidade Imperial"
+  },
+  "type": "post"
+}

@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5195/revisions/5209",
+        "id": 5209
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5195"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5195",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5195/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5195"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5205"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5195",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5195",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-5195",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-festival-geracao-do-amanha",
+    "tag-miriam-leitao",
+    "tag-museu-do-amanha",
+    "tag-pedro-bial",
+    "tag-sonia-bridi"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento debateu os rumos para tornar o planeta um lugar melhor</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/dsc_0119.jpg?resize=4608%2C3072&amp;ssl=1\" alt=\"\" /><figcaption>Pedro Bial e Miriam Leitão participam de debate sobre a justiça – Foto: Lucas Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/dsc_0116.jpg?resize=4608%2C3072&amp;ssl=1\" alt=\"\" /><figcaption>Jornalista Pedro Bial – Foto: Lucas Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190914_111638.jpg?resize=4128%2C2322&amp;ssl=1\" alt=\"\" /><figcaption>Sônia Bridi media palestra  sobre o derretimento das geleiras polares- Foto: Lucas Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/dsc_0149-e1568995801657.jpg?resize=2677%2C1506&amp;ssl=1\" alt=\"\" /><figcaption>Jornalista Míriam Leitão – Foto: Lucas Souza</figcaption></figure><p>O Museu do Amanhã recebeu no último sábado (14), o festival Geração do Amanhã, uma iniciativa do grupo Globo, que pretende debater os rumos da preservação do meio ambiente e o legado que a sociedade pode deixar para o futuro. Durante o evento ocorreram palestras, que tiveram como base as 17 ODS (Objetivos de Desenvolvimento Sustentável) propostas pela ONU para serem adotadas por 193 países até 2030.</p><p>A cerimônia de abertura foi anunciada pela diretora de responsabilidade social da Globo, Beatriz Azeredo que falou sobre o momento atual do Brasil e como surgiu a ideia de montar o evento. “Estamos trabalhando a muito tempo com esse tema da preservação ambiental, mas do que isso, do crescimento sustentável. Quando a ONU lançou os ODS, a gente se uniu a esse esforço de popularizar o que é essa sigla e o que ela significa”, comentou.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/dsc_0095-e1568995903102.jpg?resize=602%2C338&amp;ssl=1\" alt=\"\" /><figcaption>A organizadora do evento Beatriz Azeredo comenta como surgiu a ideia do Festival Geração do Amanhã – Foto: Lucas Souza</figcaption></figure><p>A Jornalista Sônia Bridi, que mediou a primeira palestra do dia, debateu o derretimento das geleiras polares, falou sobre a importância de levar essas informações para a população e qual mensagem será levada para o futuro. “Eu acho que a primeira coisa que as pessoas vão levar é a informação. Conhecimento é uma coisa muito transformadora, quando as pessoas entendem a situação, passam a agir, a lutar pelas mudanças, transformam seus hábitos de consumo e a sua relação com a comunidade”, disse.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/dsc_0074.jpg?resize=519%2C345&amp;ssl=1\" alt=\"\" /><figcaption>A Jornalista Sônia Bridi participa de ação da ONG SOS Mata Atlântica – Foto: Lucas Souza</figcaption></figure><p>Umas das principais ODS debatidas foi a número 16 “Paz, Justiça e instituições eficazes” que propõe a discussão de uma sociedade mais igualitária. Em um debate intitulado “Convença-me se for capaz: seremos uma sociedade justa? ” que contou com a participação dos jornalistas Pedro Bial e Miriam Leitão, foram levantados assuntos como o racismo, sistema prisional, legalização das drogas e a segurança pública. “Precisamos levantar a questão da informação, precisamos ter informações objetivas. A gente pode estar em momento em que cada um está triste mas continuaremos nos esforçando, não vamos desistir”, afirma Miriam Leitão.</p><p><strong>Lucas Souza – 2° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-17T13:16:00",
+  "date_gmt": "2019-09-17T16:16:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento debateu os rumos para tornar o planeta um lugar melhor O Museu do Amanhã recebeu no último sábado (14), o festival Geração do Amanhã, uma iniciativa do grupo Globo, que pretende debater os rumos da preservação do meio ambiente e o legado que a sociedade pode deixar para o futuro. Durante o evento ocorreram [&hellip;]</p>\n"
+  },
+  "featured_media": 5205,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5195"
+  },
+  "id": 5195,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/dsc_0119.jpg?fit=4608%2C3072&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1lN",
+  "link": "https://agenciauvabarra.com/2019/09/17/como-sera-a-geracao-do-amanha/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-20T13:30:04",
+  "modified_gmt": "2019-09-20T16:30:04",
+  "ping_status": "open",
+  "slug": "como-sera-a-geracao-do-amanha",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    686880651,
+    4633184,
+    37937454,
+    823684,
+    8452800
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Como será a Geração do Amanhã?"
+  },
+  "type": "post"
+}

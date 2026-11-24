@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3556/revisions/3559",
+        "id": 3559
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3556"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3556",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3556/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3556"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3556",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3556",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-3556",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-los-silencios",
+    "tag-vitrine-filmes"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/image006.jpg?resize=629%2C418&amp;ssl=1' alt='' width='629' height='418' /><figcaption>Foto: Divulgação</figcaption></figure><p>Sentir-se com a sua existência em perigo é um sentimento que quase ninguém gostaria de ter e na ficção, isso não é diferente. Los silencios, escrito e dirigido por Beatriz Seigner, conta a história de Amparo (Marleyda Soto) que está fugindo dos conflitos armados da Colômbia junto com os dois filhos pequenos. Ela encontra refúgio na singela Ilha da Fantasia, lugar gerido por pessoas de diversas localidades que tiveram que se refazer. No local, eles encontram o pai (Enrique Diaz), que supostamente estava morto.</p><p>A obra cinematográfica estreou na Quinzena dos Realizadores do Festival de Cannes 2018 e já conta com diversos prêmios como, de mais impactante (StockHolm Impact Award), de melhor direção e melhor longa-metragem pela Abraccine no 51° Festival de Brasília, entre outros. O título representa o silêncio de uma forma única, mostrando a impotência dos moradores que tiveram que se ressignificar em um nova terra, com novas pessoas. Assim como, também mostra um governo insuficiente, que não consegue proteger a própria nação.</p><p>Um filme onde a sensibilidade é necessária. O espectador se sente tocado por uma representação dos fatos reais e como a dor é carregada nos olhos de todos que ali vivem. Los silencios também se destaca pela direção de fotografia e de arte, juntamente com o jogo de câmera e técnicas de enquadramento, o longa faz parecer que se está dentro das cenas.</p><p>Uma obra de arte em formato audiovisual. É aquele tipo de projeto o qual se indica para todas as pessoas ao seu redor. Com um drama que faz a sua empatia aflorar, Los silencios estreia dia 11 deste mês e promete emocionar e tocar cada espectador de uma maneira singular.</p><figure><iframe src='https://www.youtube.com/embed/lUpvxjhGUx8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;start=22&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><strong>Natália Lisboa – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-08T21:27:19",
+  "date_gmt": "2019-04-09T00:27:19",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Sentir-se com a sua existência em perigo é um sentimento que quase ninguém gostaria de ter e na ficção, isso não é diferente. Los silencios, escrito e dirigido por Beatriz Seigner, conta a história de Amparo (Marleyda Soto) que está fugindo dos conflitos armados da Colômbia junto com os dois filhos pequenos. Ela encontra refúgio [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3556"
+  },
+  "id": 3556,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Vm",
+  "link": "https://agenciauvabarra.com/2019/04/08/agencia-uva-barra-assistiu-los-silencios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-08T21:30:05",
+  "modified_gmt": "2019-04-09T00:30:05",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-los-silencios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    39991096,
+    57772909
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: &#8220;Los Silencios&#8221;"
+  },
+  "type": "post"
+}

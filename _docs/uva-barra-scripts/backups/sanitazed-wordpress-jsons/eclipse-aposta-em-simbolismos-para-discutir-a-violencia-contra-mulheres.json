@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21599/revisions/21603",
+        "id": 21603
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21599"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21599",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21599/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21599"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21602"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21599",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21599",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-21599",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Eclipse, dirigido e protagonizado por Djin Sganzerla, é um filme que aposta em múltiplas camadas narrativas para abordar a violência contra as mulheres sob diferentes perspectivas. O roteiro, assinado em parceria com Vana Medeiros, conta ainda com Sérgio Guizé, Luis Melo e Helena Ignez no elenco. A narrativa transita entre temas como abuso doméstico, exploração de menores e masculinidade tóxica, conectando universos distintos — da Amazônia ao ambiente digital — enquanto acompanha a trajetória de Cleo, uma astrônoma que tenta equilibrar vida profissional e pessoal.</p><p>Para distinguir essa diversidade temática, o longa recorre a metáforas simbólicas. O eclipse surge como imagem central, representando tanto fenômenos científicos quanto ideias de ocultamento da verdade e proteção da natureza. Elementos como a onça também ganham duplo significado, remetendo ao perigo e à violência, mas também à força feminina diante dessas ameaças.</p><p>O filme varia entre o drama intimista e o suspense com inclinações à ação, o que resulta em uma narrativa que nem sempre encontra equilíbrio. Seus momentos mais eficazes estão nas cenas cotidianas, que exploram com naturalidade os dilemas da protagonista, como a maternidade, o trabalho e as relações familiares, especialmente com a chegada da meia-irmã de Cleo, interpretada por Lian Gaia. A atuação de Sganzerla se destaca pela espontaneidade, contribuindo para uma construção mais próxima e humana da personagem.</p><p>Eclipse se sustenta pela proposta de discutir a sororidade e a união entre mulheres diante de diferentes formas de violência. Ao reunir personagens de origens diversas, o longa aposta em uma mensagem de resistência coletiva, mesmo que envolta em certo idealismo em relação às instituições e aos desfechos apresentados. A estreia está marcada para o dia 7 de maio, nos cinemas.</p><p>JULIANA KNAUER – 7° PERÍODO DE JORNALISMO</p></main>"
+  },
+  "date": "2026-04-30T17:43:13",
+  "date_gmt": "2026-04-30T20:43:13",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Eclipse, dirigido e protagonizado por Djin Sganzerla, é um filme que aposta em múltiplas camadas narrativas para abordar a violência contra as mulheres sob diferentes perspectivas. O roteiro, assinado em parceria com Vana Medeiros, conta ainda com Sérgio Guizé, Luis Melo e Helena Ignez no elenco. A narrativa transita entre temas como abuso doméstico, exploração [&hellip;]</p>\n"
+  },
+  "featured_media": 21602,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21599"
+  },
+  "id": 21599,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/eclipse-de-djin-sganzerla-e-com-sergio-guize-estreia-nos-cinemas.jpg?fit=1920%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5Cn",
+  "link": "https://agenciauvabarra.com/2026/04/30/eclipse-aposta-em-simbolismos-para-discutir-a-violencia-contra-mulheres/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAH4p/JlhyIAWcGAwEIAwEEAgYCGAEQfqoBBAEBCAEDRwACKsoCAgoDAAQCCASkAwEBCAJCAQJIAIwSAQEIAkIBAkgAtAsBAQgCQgECSACeEAEBCAJCAQJIwDKufgLqfoYBkH/uAQKsAYwB0oIBhIIBFQgEAgoDAAQCCIYBAQGufQKsAQDuAWcoASEAJwAEAIQKJwEoBicAKBQnAKgABwAoAicBKAQnAKgCRADEB4QARwAoAicBBAAoBCcAxwAoAicBBAAoBCcAxwAoAicBBAAoBCcAxwAoAicBBAAoBCcABACEAagABACEAMQDqADEiyz3KnN0YXRldmVyc2lvbmRvY3VtZW50ZGF0ZWRvY3VtZW50c3RhdHVzZG9jdW1lbnR0aXRsZVJhc2N1bmhvIGF1dG9tw6F0aWNvZG9jdW1lbnRjb250ZW50ZG9jdW1lbnRleGNlcnB0ZG9jdW1lbnRhdXRob3Jkb2N1bWVudGZlYXR1cmVkX21lZGlhZG9jdW1lbnRjb21tZW50X3N0YXR1c2RvY3VtZW50cGluZ19zdGF0dXNkb2N1bWVudHN0aWNreWRvY3VtZW50dGVtcGxhdGVkb2N1bWVudGZvcm1hdGRvY3VtZW50bWV0YWFkdmFuY2VkX3Nlb19kZXNjcmlwdGlvbmpldHBhY2tfc2VvX2h0bWxfdGl0bGVqZXRwYWNrX3Nlb19ub2luZGV4X2NvYmxvY2tzX2F0dHJfY29ibG9ja3NfZGltZW5zaW9uc19jb2Jsb2Nrc19yZXNwb25zaXZlX2hlaWdodF9jb2Jsb2Nrc19hY2NvcmRpb25faWVfc3VwcG9ydGpldHBhY2tfcG9zdF93YXNfZXZlcl9wdWJsaXNoZWRyZWFkZXJfc3VnZ2VzdGVkX3RhZ3NfamV0cGFja19uZXdzbGV0dGVyX2FjY2Vzc19qZXRwYWNrX2RvbnRfZW1haWxfcG9zdF90b19zdWJzX2pldHBhY2tfbmV3c2xldHRlcl90aWVyX2lkX2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGF5d2FsbGVkX2NvbnRlbnRfamV0cGFja19tZW1iZXJzaGlwc19jb250YWluc19wYWlkX2NvbnRlbnRmb290bm90ZXNqZXRwYWNrX3B1YmxpY2l6ZV9tZXNzYWdlamV0cGFja19wdWJsaWNpemVfZmVhdHVyZV9lbmFibGVkamV0cGFja19zb2NpYWxfcG9zdF9hbHJlYWR5X3NoYXJlZGpldHBhY2tfc29jaWFsX29wdGlvbnNkb2N1bWVudGNhdGVnb3JpZXNkb2N1bWVudHRhZ3Nkb2N1bWVudGJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzRWNsaXBzZSBwb3RhIGVtIHNpbWJsaXNtb3NwcmEgZGlzY2lyIGEgdmlsw6puY2EgbnRyYSBtdWxoZXJlc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEVjbGlwc2UsIGRpcmlnaWRvIGUgcHJvdGFnb25pemFkbyBwb3IgRGppbiBTZ2FuemVybGEsIMOpIHVtIGZpbG1lIHF1ZSBhcG9zdGEgZW0gbcO6bHRpcGxhcyBjYW1hZGFzIG5hcnJhdGl2YXMgcGFyYSBhYm9yZGFyIGEgdmlvbMOqbmNpYSBjb250cmEgYXMgbXVsaGVyZXMgc29iIGRpZmVyZW50ZXMgcGVyc3BlY3RpdmFzLiBPIHJvdGVpcm8sIGFzc2luYWRvIGVtIHBhcmNlcmlhIGNvbSBWYW5hIE1lZGVpcm9zLCBjb250YSBhaW5kYSBjb20gU8OpcmdpbyBHdWl6w6ksIEx1aXMgTWVsbyBlIEhlbGVuYSBJZ25leiBubyBlbGVuY28uIEEgbmFycmF0aXZhIHRyYW5zaXRhIGVudHJlIHRlbWFzIGNvbW8gYWJ1c28gZG9tw6lzdGljbywgZXhwbG9yYcOnw6NvIGRlIG1lbm9yZXMgZSBtYXNjdWxpbmlkYWRlIHTDs3hpY2EsIGNvbmVjdGFuZG8gdW5pdmVyc29zIGRpc3RpbnRvcyDigJQgZGEgQW1hesO0bmlhIGFvIGFtYmllbnRlIGRpZ2l0YWwg4oCUIGVucXVhbnRvIGFjb21wYW5oYSBhIHRyYWpldMOzcmlhIGRlIENsZW8sIHVtYSBhc3Ryw7Rub21hIHF1ZSB0ZW50YSBlcXVpbGlicmFyIHZpZGEgcHJvZmlzc2lvbmFsIGUgcGVzc29hbC5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudFBhcmEgZGlzdGluZ3VpciBlc3NhIGRpdmVyc2lkYWRlIHRlbcOhdGljYSwgbyBsb25nYSByZWNvcnJlIGEgbWV0w6Fmb3JhcyBzaW1iw7NsaWNhcy4gTyBlY2xpcHNlIHN1cmdlIGNvbW8gaW1hZ2VtIGNlbnRyYWwsIHJlcHJlc2VudGFuZG8gdGFudG8gZmVuw7RtZW5vcyBjaWVudMOtZmljb3MgcXVhbnRvIGlkZWlhcyBkZSBvY3VsdGFtZW50byBkYSB2ZXJkYWRlIGUgcHJvdGXDp8OjbyBkYSBuYXR1cmV6YS4gRWxlbWVudG9zIGNvbW8gYSBvbsOnYSB0YW1iw6ltIGdhbmhhbSBkdXBsbyBzaWduaWZpY2FkbywgcmVtZXRlbmRvIGFvIHBlcmlnbyBlIMOgIHZpb2zDqm5jaWEsIG1hcyB0YW1iw6ltIMOgIGZvcsOnYSBmZW1pbmluYSBkaWFudGUgZGVzc2FzIGFtZWHDp2FzLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50TyBmaWxtZSB2YXJpYSBlbnRyZSBvIGRyYW1hIGludGltaXN0YSBlIG8gc3VzcGVuc2UgY29tIGluY2xpbmHDp8O1ZXMgw6AgYcOnw6NvLCBvIHF1ZSByZXN1bHRhIGVtIHVtYSBuYXJyYXRpdmEgcXVlIG5lbSBzZW1wcmUgZW5jb250cmEgZXF1aWzDrWJyaW8uIFNldXMgbW9tZW50b3MgbWFpcyBlZmljYXplcyBlc3TDo28gbmFzIGNlbmFzIGNvdGlkaWFuYXMsIHF1ZSBleHBsb3JhbSBjb20gbmF0dXJhbGlkYWRlIG9zIGRpbGVtYXMgZGEgcHJvdGFnb25pc3RhLCBjb21vIGEgbWF0ZXJuaWRhZGUsIG8gdHJhYmFsaG8gZSBhcyByZWxhw6fDtWVzIGZhbWlsaWFyZXMsIGVzcGVjaWFsbWVudGUgY29tIGEgY2hlZ2FkYSBkYSBtZWlhLWlybcOjIGRlIENsZW8sIGludGVycHJldGFkYSBwb3IgTGlhbiBHYWlhLiBBIGF0dWHDp8OjbyBkZSBTZ2FuemVybGEgc2UgZGVzdGFjYSBwZWxhIGVzcG9udGFuZWlkYWRlLCBjb250cmlidWluZG8gcGFyYSB1bWEgY29uc3RydcOnw6NvIG1haXMgcHLDs3hpbWEgZSBodW1hbmEgZGEgcGVyc29uYWdlbS5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEVjbGlwc2Ugc2Ugc3VzdGVudGEgcGVsYSBwcm9wb3N0YSBkZSBkaXNjdXRpciBhIHNvcm9yaWRhZGUgZSBhIHVuacOjbyBlbnRyZSBtdWxoZXJlcyBkaWFudGUgZGUgZGlmZXJlbnRlcyBmb3JtYXMgZGUgdmlvbMOqbmNpYS4gQW8gcmV1bmlyIHBlcnNvbmFnZW5zIGRlIG9yaWdlbnMgZGl2ZXJzYXMsIG8gbG9uZ2EgYXBvc3RhIGVtIHVtYSBtZW5zYWdlbSBkZSByZXNpc3TDqm5jaWEgY29sZXRpdmEsIG1lc21vIHF1ZSBlbnZvbHRhIGVtIGNlcnRvIGlkZWFsaXNtbyBlbSByZWxhw6fDo28gw6BzIGluc3RpdHVpw6fDtWVzIGUgYW9zIGRlc2ZlY2hvcyBhcHJlc2VudGFkb3MuIEEgZXN0cmVpYSBlc3TDoSBtYXJjYWRhIHBhcmEgbyBkaWEgNyBkZSBtYWlvLCBub3MgY2luZW1hcy5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2NrczwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5FY2xpcHNlLCBkaXJpZ2lkbyBlIHByb3RhZ29uaXphZG8gcG9yIERqaW4gU2dhbnplcmxhLCDDqSB1bSBmaWxtZSBxdWUgYXBvc3RhIGVtIG3Dumx0aXBsYXMgY2FtYWRhcyBuYXJyYXRpdmFzIHBhcmEgYWJvcmRhciBhIHZpb2zDqm5jaWEgY29udHJhIGFzIG11bGhlcmVzIHNvYiBkaWZlcmVudGVzIHBlcnNwZWN0aXZhcy4gTyByb3RlaXJvLCBhc3NpbmFkbyBlbSBwYXJjZXJpYSBjb20gVmFuYSBNZWRlaXJvcywgY29udGEgYWluZGEgY29tIFPDqXJnaW8gR3VpesOpLCBMdWlzIE1lbG8gZSBIZWxlbmEgSWduZXogbm8gZWxlbmNvLiBBIG5hcnJhdGl2YSB0cmFuc2l0YSBlbnRyZSB0ZW1hcyBjb21vIGFidXNvIGRvbcOpc3RpY28sIGV4cGxvcmHDp8OjbyBkZSBtZW5vcmVzIGUgbWFzY3VsaW5pZGFkZSB0w7N4aWNhLCBjb25lY3RhbmRvIHVuaXZlcnNvcyBkaXN0aW50b3Mg4oCUIGRhIEFtYXrDtG5pYSBhbyBhbWJpZW50ZSBkaWdpdGFsIOKAlCBlbnF1YW50byBhY29tcGFuaGEgYSB0cmFqZXTDs3JpYSBkZSBDbGVvLCB1bWEgYXN0csO0bm9tYSBxdWUgdGVudGEgZXF1aWxpYnJhciB2aWRhIHByb2Zpc3Npb25hbCBlIHBlc3NvYWwuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+UGFyYSBkaXN0aW5ndWlyIGVzc2EgZGl2ZXJzaWRhZGUgdGVtw6F0aWNhLCBvIGxvbmdhIHJlY29ycmUgYSBtZXTDoWZvcmFzIHNpbWLDs2xpY2FzLiBPIGVjbGlwc2Ugc3VyZ2UgY29tbyBpbWFnZW0gY2VudHJhbCwgcmVwcmVzZW50YW5kbyB0YW50byBmZW7DtG1lbm9zIGNpZW50w61maWNvcyBxdWFudG8gaWRlaWFzIGRlIG9jdWx0YW1lbnRvIGRhIHZlcmRhZGUgZSBwcm90ZcOnw6NvIGRhIG5hdHVyZXphLiBFbGVtZW50b3MgY29tbyBhIG9uw6dhIHRhbWLDqW0gZ2FuaGFtIGR1cGxvIHNpZ25pZmljYWRvLCByZW1ldGVuZG8gYW8gcGVyaWdvIGUgw6AgdmlvbMOqbmNpYSwgbWFzIHRhbWLDqW0gw6AgZm9yw6dhIGZlbWluaW5hIGRpYW50ZSBkZXNzYXMgYW1lYcOnYXMuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+TyBmaWxtZSB2YXJpYSBlbnRyZSBvIGRyYW1hIGludGltaXN0YSBlIG8gc3VzcGVuc2UgY29tIGluY2xpbmHDp8O1ZXMgw6AgYcOnw6NvLCBvIHF1ZSByZXN1bHRhIGVtIHVtYSBuYXJyYXRpdmEgcXVlIG5lbSBzZW1wcmUgZW5jb250cmEgZXF1aWzDrWJyaW8uIFNldXMgbW9tZW50b3MgbWFpcyBlZmljYXplcyBlc3TDo28gbmFzIGNlbmFzIGNvdGlkaWFuYXMsIHF1ZSBleHBsb3JhbSBjb20gbmF0dXJhbGlkYWRlIG9zIGRpbGVtYXMgZGEgcHJvdGFnb25pc3RhLCBjb21vIGEgbWF0ZXJuaWRhZGUsIG8gdHJhYmFsaG8gZSBhcyByZWxhw6fDtWVzIGZhbWlsaWFyZXMsIGVzcGVjaWFsbWVudGUgY29tIGEgY2hlZ2FkYSBkYSBtZWlhLWlybcOjIGRlIENsZW8sIGludGVycHJldGFkYSBwb3IgTGlhbiBHYWlhLiBBIGF0dWHDp8OjbyBkZSBTZ2FuemVybGEgc2UgZGVzdGFjYSBwZWxhIGVzcG9udGFuZWlkYWRlLCBjb250cmlidWluZG8gcGFyYSB1bWEgY29uc3RydcOnw6NvIG1haXMgcHLDs3hpbWEgZSBodW1hbmEgZGEgcGVyc29uYWdlbS48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5FY2xpcHNlIHNlIHN1c3RlbnRhIHBlbGEgcHJvcG9zdGEgZGUgZGlzY3V0aXIgYSBzb3JvcmlkYWRlIGUgYSB1bmnDo28gZW50cmUgbXVsaGVyZXMgZGlhbnRlIGRlIGRpZmVyZW50ZXMgZm9ybWFzIGRlIHZpb2zDqm5jaWEuIEFvIHJldW5pciBwZXJzb25hZ2VucyBkZSBvcmlnZW5zIGRpdmVyc2FzLCBvIGxvbmdhIGFwb3N0YSBlbSB1bWEgbWVuc2FnZW0gZGUgcmVzaXN0w6puY2lhIGNvbGV0aXZhLCBtZXNtbyBxdWUgZW52b2x0YSBlbSBjZXJ0byBpZGVhbGlzbW8gZW0gcmVsYcOnw6NvIMOgcyBpbnN0aXR1acOnw7VlcyBlIGFvcyBkZXNmZWNob3MgYXByZXNlbnRhZG9zLiBBIGVzdHJlaWEgZXN0w6EgbWFyY2FkYSBwYXJhIG8gZGlhIDcgZGUgbWFpbywgbm9zIGNpbmVtYXMuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+PC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+SlVMSUFOQSBLTkFVRVIgLSA3wrAgUEVSw41PRE88YnI+SlVMSUFOQSBLTkFVRVIgLSA3wrAgUEVSw41PRE9icj48IGRlIERFIEpPUk5BTElTTU8gIERFIEpPUk5BTElTTU8gBQcIBAgGCAVBAQRBAQIBAwECCAcIBwgGCA4IDggLCAZIAQYIBBgWEw4UGx4fFRogGy8qCRkhIhYICggECAYIBwQKRwAKDQ8MCwgCCgYBRwAEAg0IBwQKB7oIBwoNDwwLCAcECgeuBQcKDQ8MCwgHBAoHgwgHCg0PDAsIBwQKB7gFBwoNDwwLlCABGhsEGwQDTwALAQMAAAEJABIBAgAYQgEBAEEAAgBBAAIAQQACAEEAAgBBAAIABUEnBkEhAYoBAH0BdxMyMDI2LTA1LTA3VDE3OjQzOjEzfZrgrnJ9AHcEb3BlbncEb3Blbnl3AHcIc3RhbmRhcmR3AHcAeXcAdwB3AHcAeXcAdwB5fQB5eXcAdwB4eXYCGGltYWdlX2dlbmVyYXRvcl9zZXR0aW5nc3YECHRlbXBsYXRldwdoaWdod2F5EGRlZmF1bHRfaW1hZ2VfaWR9AARmb250dwAHZW5hYmxlZHkHdmVyc2lvbn0CdQB1AHcTMjAyNi0wNC0zMFQxNzo0MzoxM3ckYTc4Zjg4OGItODcwNS00OTZjLWExZmYtZjFlMGU1MGFhMzJmeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dQF9lQl1AX2ZzJjqBHUCfZnMmOoEfYbz6bgBdQN9mcyY6gR9hvPpuAF9rL6XBXUEfZnMmOoEfYbz6bgBfay+lwV9lQl1BX2ZzJjqBH2G8+m4AX2svpcFfZUJfYqr3+8EdQZ9mcyY6gR9hvPpuAF9rL6XBX2VCX2Kq9/vBH2bkgJ1B32ZzJjqBH2G8+m4AX2svpcFfZUJfYqr3+8EfZuSAn2rj6khdyQzZGQxZjdkNC0xMmQ3LTRmYTctOGJkOC0zMzhmNjk1YzU1ZTN4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDIyNGJhOWFjLTMxZjYtNGM2ZC04MTEzLWQzMGFkNWFiMmQ5ZXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckZjFmNDI4YTgtY2M2Ni00MjljLTg5MzgtZWIyNjAzN2Y4NjU2eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQwNjRjMGM2ZC0yNjcxLTRmNzgtYWM3ZS02MTQ2NGFjY2VkNTl4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl9otECdwdwdWJsaXNoAeLPpIsOCAEBAQACAwYCBgAZAQ8F/h8C\",\"updateId\":426544460}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-07T17:47:40",
+  "modified_gmt": "2026-05-07T20:47:40",
+  "ping_status": "open",
+  "slug": "eclipse-aposta-em-simbolismos-para-discutir-a-violencia-contra-mulheres",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    17563,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Eclipse aposta em simbolismos para discutir a violência contra mulheres"
+  },
+  "type": "post"
+}

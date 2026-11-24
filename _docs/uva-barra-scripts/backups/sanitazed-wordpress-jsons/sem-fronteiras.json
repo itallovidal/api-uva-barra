@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2343/revisions/2428",
+        "id": 2428
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2343"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2343",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2343/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2343"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2344"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2343",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2343",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    2366
+  ],
+  "class_list": [
+    "post-2343",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-salao-do-estudante"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Salão do Estudante reúne representantes do exterior para incentivar oportunidades de estudo fora do país</em></h4><p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/sem-fronteiras.jpg?resize=418%2C309&amp;ssl=1' alt='sem fronteiras' width='418' height='309' /><figcaption>Salão do Estudante traz oportunidades para estudo no exterior. Créditos: Nayara Simões</figcaption></figure></p><p style=\"text-align:justify;\">No mundo estudantil, as oportunidades internacionais são muitas, assim como as dúvidas sobre este processo. “Como estudar fora do país?”, “Qual o custo?” e “Qual o melhor tipo de acomodação?” são algumas das perguntas mais frequentes. Por isso, o Salão do Estudante, a maior feira de intercâmbio da América Latina, abriu as portas nesta quarta-feira (26/09), no hotel Windsor Barra e na quinta-feira (27/09), no Rio Othon Palace, em Copacabana. O evento traz, duas vezes ao ano, para as principais capitais do Brasil, profissionais das melhores instituições de ensino do exterior, com o objetivo de responder aos questionamentos de muitos brasileiros.</p><p style=\"text-align:justify;\">Essa busca por respostas acontece em todo o país. Para atender à maioria deste público, a feira passa por cidades como Belo Horizonte, Porto Alegre e São Paulo, onde ocorre a maior edição do evento, com 110 stands. Segundo a organizadora, Priscilla Gomes, a perspectiva é de 15 mil visitantes no Rio de Janeiro e, apesar da crise brasileira, o Salão do Estudante não foi afetado. Ela diz que mercado de trabalho está mais competitivo e isso faz com que o interesse da população no intercâmbio aumente. “Aqui, os alunos podem tirar suas dúvidas com diretores de instituições dos Estados Unidos, Canadá, Portugal, entre outros grandes países”.</p><p style=\"text-align:justify;\">Além disso, ela também acrescenta que a feira traz oportunidades para todos os gostos e condições financeiras, como pacotes em faculdades, cursos e escolas de idioma. A especialista em admissões da New York Film Academy, na Austrália, Mey Ferdinand, conta que em todas às vezes que vieram ao Brasil, tiveram experiências interessantes. “Nós temos a mente aberta e os alunos brasileiros são muito talentosos. Estamos vendo um grande interesse no mercado cinematográfico e, por isso, também procuramos ajudar com moradia e linguagem”.</p><p style=\"text-align:justify;\">Esses meios de facilitar o processo de intercâmbio trazem o interesse de variados alunos que, às vezes, pensam em desistir, pela falta de dinheiro ou informações. A estudante Maria Fernanda estava presente no evento e conta que o interesse surgiu, pois está no fim de seu curso de inglês. “Eu cheguei aqui pensando apenas em uma temporada no exterior e, agora, com todas essas oportunidades, estou pensando em viajar para fora do Brasil, com o intuito de morar e me formar”.</p><p style=\"text-align:justify;\">Esse entusiasmo de muitos jovens é visível no Salão do Estudante. Além de pensar em educação, a feira busca maneiras de ajudar os interessados financeiramente e com toda a estrutura necessária para a estadia em outro país. São pacotes de viagens aéreas, parceria com seguros, moradias e hospedagens, e profissionais preparados para passar tranquilidade e explicar cada detalhe dessas grandes oportunidades de vida.</p><p><strong>Nayara Simões – 5° período</strong></p></main>"
+  },
+  "date": "2018-09-28T13:54:21",
+  "date_gmt": "2018-09-28T16:54:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Salão do Estudante reúne representantes do exterior para incentivar oportunidades de estudo fora do país</p>\n"
+  },
+  "featured_media": 2344,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2343"
+  },
+  "id": 2343,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/sem-fronteiras.jpg?fit=418%2C309&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-BN",
+  "link": "https://agenciauvabarra.com/2018/09/28/sem-fronteiras/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-10-04T09:42:31",
+  "modified_gmt": "2018-10-04T12:42:31",
+  "ping_status": "open",
+  "slug": "sem-fronteiras",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    4865582
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Sem fronteiras"
+  },
+  "type": "post"
+}

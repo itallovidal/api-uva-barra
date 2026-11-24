@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2128/revisions/3174",
+        "id": 3174
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2128"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2128",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2128/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2128"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2131"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2128",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2128",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-2128",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>O evento apresentou a relação de como pensar positivamente no tempo atual</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-22-at-14-21-52.jpeg?resize=1600%2C1200&amp;ssl=1\" alt=\"WhatsApp Image 2018-08-22 at 14.21.52\" width=\"1600\" height=\"1200\" /><figcaption>Foto: Ana Carolina Marinho</figcaption></figure><p>Enxergar oportunidades em tempos de crise. A Atlética de Direito da UVA Barra organizou no dia 21 de agosto a palestra “Mente nova, vida nova” com Marcelo Crivella Filho. O bate-papo com alunos de todos os cursos apresentou temas atuais a juventude, como: empreendedorismo, tendências mercadológicas e a relação da psicologia e a mente humana.</p><p>Com o mestrado em inovação, criatividade e empreendedorismo na Inglaterra, o empresário cita como o mundo dos games vem crescendo no país e, assim, sendo um bom momento para entrar nessa área. “O Brasil é o quarto maior consumidor de game do mundo, isso abre espaço para vagas de empregos”, argumenta. Ele também fala como o público jovem se interessa bastante pelo assunto e estão sempre a procura da modernidade para se atualizar.</p><p>Uma das espectadoras do evento, a estudante do oitavo período de direito Maria Eduarda Borges se identificou com a temática sobre motivação. “Ele falou bastante sobre como os acontecimentos ao seu redor pode afetar o seu desempenho e eu acredito muito nisso”. A universitária também conclui que esses eventos servem também para que os alunos da faculdade se juntem para ajudar a outras instituições</p><p>A doação foi a forma encontrada para essa ação solidária. Foi pedido um quilo de alimento aos participantes, porém aqueles que não compareceram e querem ajudar, o prazo de entrega será até o final da semana com a Atlética. As ações no campus Barra terão continuidade, o diretor de eventos, Paulo Pereira, avisa sobre as próximas palestras. “Pensamos em trazer nomes como Jair Bolsonaro e Eduardo Lopes então é bom ficarem ligados nas nossas redes sociais e nos murais espalhados pelo campus”.</p><p><strong>Ana Carolina Marinho – 6° período</strong></p></main>"
+  },
+  "date": "2018-08-22T21:00:26",
+  "date_gmt": "2018-08-23T00:00:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento apresentou a relação de como pensar positivamente no tempo atual Enxergar oportunidades em tempos de crise. A Atlética de Direito da UVA Barra organizou no dia 21 de agosto a palestra “Mente nova, vida nova” com Marcelo Crivella Filho. O bate-papo com alunos de todos os cursos apresentou temas atuais a juventude, como: [&hellip;]</p>\n"
+  },
+  "featured_media": 2131,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2128"
+  },
+  "id": 2128,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-22-at-14-21-52.jpeg?fit=1600%2C1200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-yk",
+  "link": "https://agenciauvabarra.com/2018/08/22/a-mente-humana-e-o-mercado-de-trabalho-em-debate/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T20:52:02",
+  "modified_gmt": "2019-02-25T23:52:02",
+  "ping_status": "open",
+  "slug": "a-mente-humana-e-o-mercado-de-trabalho-em-debate",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A mente humana e o mercado de trabalho em debate"
+  },
+  "type": "post"
+}

@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7440/revisions/7445",
+        "id": 7445
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7440"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7440",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7440/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7440"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7441"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7440",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7440",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    703299214
+  ],
+  "class_list": [
+    "post-7440",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Como os estudantes vêm se comportando nas plataformas virtuais</em></p><p>Desde março, quando, por conta da epidemia de Coronavírus, foi decretado o início da quarentena no Rio de Janeiro, o vírus vem causando grande impacto em todos os setores. Com ele, houve o fechamento de escolas e universidades, o que ocasionou a adoção da plataforma virtual para facilitar o ensino aos estudantes. Mas, principalmente para alunos da rede pública, a adaptação não tem sido fácil.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-11.png?resize=335%2C333&#038;ssl=1' alt='' width='335' height='333' /><figcaption>Rebecca Queiroz  – Foto de Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-12.png?resize=337%2C435&#038;ssl=1' alt='' width='337' height='435' /><figcaption>Jeniffer Camille Barbosa – Foto de Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-13.png?resize=346%2C346&#038;ssl=1' alt='' width='346' height='346' /><figcaption>Aline de Almeida – Foto de Arquivo Pessoal</figcaption></figure><p>Muitas plataformas online contêm aulas preparadas por instrutores, que produzem material de estudo para os alunos. Segundo a Secretaria Estadual de Educação, o acesso ao Google Classroom e a todo conteúdo é gratuito. Para os estudantes que não tem acesso à internet, a secretaria irá entregar chips com dados de rede, para que facilite a navegação.</p><p>Mas o aprendizado dos alunos vem diminuindo devido à falta de compreensão em algumas matérias. A jovem Rebecca Queiroz, de 16 anos, está no seu segundo ano da Escola Parque e comenta que gostaria que voltassem as aulas presenciais. “Minha cabeça está acostumada com a lógica de que estudo é na escola e casa é lugar de descanso”, diz ela.</p><p>Mesmo com a falta de alguns professores, os estudantes de escolas públicas recebem atividades de matérias como Português e Matemática, para que pratiquem ao longo da semana. A adolescente Jeniffer Camille Barbosa, de 17 anos, estuda no Colégio Estadual Brigadeiro Schorcht, e está em seu último ano. “Minha professora de Matemática faz correção dos exercícios em vídeo-chamada duas vezes por semana”, ela fala. Jeniffer também expõe que prefere as aulas virtuais devido à estrutura de sua escola. Sem ventilação nas salas, não há possibilidade de ter muita gente no mesmo local.</p><p>Transportar conteúdos de aulas presenciais para virtuais trouxe bastante dificuldade também para alguns professores. “A maioria das atividades era coletiva, tive que ter bastante criatividade para que os alunos não ficassem apenas em aulas teóricas”, conta a professora do Colégio Cruzeiro, Aline de Almeida, de 39 anos. Apesar dos desafios, ela acredita que a modalidade de ensino online veio para ficar e somar no conhecimento presencial.</p><p><strong>Ana Júlia Queiroz – 3º Período | Jornalismo</strong></p><p><em>*Texto produzido na disciplina Teoria e Técnica da Notícia em parceria com a Agência UVA Barra.</em></p></main>"
+  },
+  "date": "2020-08-14T14:00:00",
+  "date_gmt": "2020-08-14T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Como os estudantes vêm se comportando nas plataformas virtuais Desde março, quando, por conta da epidemia de Coronavírus, foi decretado o início da quarentena no Rio de Janeiro, o vírus vem causando grande impacto em todos os setores. Com ele, houve o fechamento de escolas e universidades, o que ocasionou a adoção da plataforma virtual [&hellip;]</p>\n"
+  },
+  "featured_media": 7441,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7440"
+  },
+  "id": 7440,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-11.png?fit=335%2C333&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1W0",
+  "link": "https://agenciauvabarra.com/2020/08/14/ensino-virtual-durante-a-quarentena/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-13T13:29:04",
+  "modified_gmt": "2020-08-13T16:29:04",
+  "ping_status": "open",
+  "slug": "ensino-virtual-durante-a-quarentena",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Ensino virtual durante a quarentena"
+  },
+  "type": "post"
+}

@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6048/revisions/6269",
+        "id": 6269
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6048"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6048",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6048/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6048"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6064"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6048",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6048",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-6048",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-playmobil-o-filme"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/unnamed-1.jpg?resize=269%2C393&amp;ssl=1' alt='' width='269' height='393' /><figcaption>Foto: Divulgação</figcaption></figure><p>Nos últimos anos tivemos uma febre de filmes infantis que começou com “Uma Aventura Lego” de 2014 e desencadeou uma série de derivados. Agora, em 2019, é a vez dos brinquedos criados por Hans Beck em 1974 chegarem às telas de cinema em “Playmobil – O Filme”. O Principal ponto do longa é o roteiro. Se por um lado os primeiros minutos, que se passam no mundo real, surpreendem por introduzirem um tom musical leve e logo em seguida um drama que é abordado de forma superficial a história, por outro, toda a parte que se passa dentro do mundo dos brinquedos parece ser pouco inspirada e genérica.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/pr_visual_h_3c_01.png?resize=543%2C305&amp;ssl=1' alt='' width='543' height='305' /><figcaption>Foto: Divulgação</figcaption></figure><p>É óbvio que o filme é voltado para o público infantil, que com certeza vai adorar, mas tivemos exemplos mais recentes que é possível agradar o público mais novo e ao mesmo tempo entregar uma história com uma mensagem um pouco mais profunda. O diretor Lino DiSalvo faz o que pode com o roteiro. Ele consegue trabalhar bem as cenas no nosso mundo, intercalando as cenas de musical e os momentos de dramas. O que mais atrapalha a parte do mundo Playmobil é a animação que tem uma textura muito simples, apesar do longa brincar com mais gênero como o de espionagem e ação, a direção não entrega muitas cenas que deem uma assinatura ou que o diferencie de outros tantos filmes infantis.</p><p>Um dos acertos do longa foi a escolha de alguns nomes do elenco. Anya Taylor-Joy que interpreta Marla, é um dos nomes mais promissores de Hollywood, estando presentes em filmes como “A Bruxa” e “Fragmentado”, aqui mostra outras facetas de atuação, cantando, dançando e fazendo um trabalho de voz muito eficiente. Ao lado dela temos Gabriel Bateman, outro que também vem de filmes como “Quando as Luzes se Apagam” e “Brinquedo Assassino”, faz um bom trabalho vivendo um Charlie sonhador e sempre disposto a viver aventuras. Outros destaques são as participações especiais de Daniel Radcliffe, e dos cantores Adam Lambert e Meghan Trainor que dão vida às vozes dos brinquedos.</p><p>“Playmobil – O Filme” tem uma história que apesar de simples, é empolgante, com bastante energia e cativante. Tem um bom elenco que consegue passear por vários estilos cinematográficos, porém o longa não consegue ser marcante ou inovador como outros recentes.</p><figure><iframe src='https://www.youtube.com/embed/5b05FaqM2sg?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Lucas Souza – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-12-09T10:54:06",
+  "date_gmt": "2019-12-09T13:54:06",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Nos últimos anos tivemos uma febre de filmes infantis que começou com “Uma Aventura Lego” de 2014 e desencadeou uma série de derivados. Agora, em 2019, é a vez dos brinquedos criados por Hans Beck em 1974 chegarem às telas de cinema em “Playmobil &#8211; O Filme”. O Principal ponto do longa é o roteiro. [&hellip;]</p>\n"
+  },
+  "featured_media": 6064,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6048"
+  },
+  "id": 6048,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/pr_visual_h_3c_01.png?fit=7680%2C4320&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1zy",
+  "link": "https://agenciauvabarra.com/2019/12/09/agencia-uva-barra-assistiu-playmobil-o-filme/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-03-21T00:11:22",
+  "modified_gmt": "2020-03-21T03:11:22",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-playmobil-o-filme",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    671360439
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: &#8220;Playmobil &#8211; O filme&#8221;"
+  },
+  "type": "post"
+}

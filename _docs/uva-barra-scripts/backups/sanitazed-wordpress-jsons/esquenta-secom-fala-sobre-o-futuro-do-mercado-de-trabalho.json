@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6827/revisions/19079",
+        "id": 19079
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6827"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6827",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6827/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6827"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6830"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6827",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6827",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6827",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O economista Gabriel Pinto apresenta a importância de se reinventar</em></p><p>O futuro das profissões está a perigo. A frase pode soar como um mal agouro ou como um ceticismo, mas a verdade é que diante de tantas incertezas, a única certeza é que todos precisam se reinventar. E esse foi o tema da palestra do segundo Esquenta SECOM com o economista e líder de “Projetos e Inovação” Gabriel Pinto, que aconteceu no dia 21/05. O bate-papo, mediado pelo professor Eduardo Bianchi, teve como objetivo mostrar a importância de exercitar a criatividade e a originalidade para estar sempre adaptado ao mercado de trabalho.</p><p>Gabriel é autor do livro “Passaporte para o futuro” e pesquisador do tema. Ao longo de pouco mais de uma hora o palestrante afirmou que o desenvolvimento da tecnologia, que coloca máquinas ocupando espaços que antes pertenciam às pessoas, também pode acabar gerando novas oportunidades de emprego. “As pessoas precisam ter a capacidade de reaprender para sempre se desenvolver e se reinventar”, explica.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-22-at-17.20.57.jpeg?resize=1110%2C540&amp;ssl=1\" alt=\"\" width=\"1110\" height=\"540\"><figcaption>Para Gabriel, todos somos criativos. A capacidade de fazer florescer a criatividade é o que nós diferencia – Foto: Reprodução da internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-22-at-17.21.24.jpeg?resize=1024%2C768&amp;ssl=1\" alt=\"\" width=\"1024\" height=\"768\"><figcaption>A palestra motivou Luma a ter fé e não desistir de seus sonhos – Foto: Arquivo Pessoal</figcaption></figure><p>O economista ressalta a importância de treinar e se capacitar para possuir um conhecimento mínimo das novas tecnologias, como programas e Inteligências Artificiais. Afirma que o principal diferencial é unir esses conhecimentos com a criatividade. “É importante nunca ter medo de sonhar e arriscar. A criatividade é a ponte entre a imaginação e a criação, principalmente em momentos como esse”.</p><blockquote><p>“Somos capazes de criar um mundo completamente novo”</p></blockquote><p>A plateia virtual era composta por estudantes de publicidade e jornalismo da UVA Barra e contou também com a participação de professores. A troca de conhecimento foi importante para aproximar os pesquisadores de academia. A estudante do 3° período de jornalismo, Luma Keily, afirma que os ensinamentos de Gabriel agregam no futuro profissional e no autoconhecimento. “Se eu tivesse que descrever a palestra em uma só palavra, com certeza, seria ‘enriquecedora’. Acredito que levarei no coração o lema de jamais deixar de sonhar!”</p><p>A SECOM Streaming acontece nos dias 28 e 29 de maio com palestras e oficinas, todas gratuitas. As inscrições acontecem no site: <a href=\"http://secomuvabarra.tk/\">http://secomuvabarra.tk/</a></p><p><strong>Érik Sequeira – 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-22T17:28:54",
+  "date_gmt": "2020-05-22T20:28:54",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O economista Gabriel Pinto apresenta a importância de se reinventar O futuro das profissões está a perigo. A frase pode soar como um mal agouro ou como um ceticismo, mas a verdade é que diante de tantas incertezas, a única certeza é que todos precisam se reinventar. E esse foi o tema da palestra do [&hellip;]</p>\n"
+  },
+  "featured_media": 6830,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6827"
+  },
+  "id": 6827,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-22-at-17.20.57.jpeg?fit=1110%2C540&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1M7",
+  "link": "https://agenciauvabarra.com/2020/05/22/esquenta-secom-fala-sobre-o-futuro-do-mercado-de-trabalho/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-18T10:47:36",
+  "modified_gmt": "2025-09-18T13:47:36",
+  "ping_status": "open",
+  "slug": "esquenta-secom-fala-sobre-o-futuro-do-mercado-de-trabalho",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Esquenta SECOM fala sobre o futuro do mercado de trabalho"
+  },
+  "type": "post"
+}

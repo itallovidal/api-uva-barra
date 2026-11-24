@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6297/revisions/6321",
+        "id": 6321
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6297"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6297",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 16,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6297/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6297"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6299"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6297",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6297",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    7114
+  ],
+  "class_list": [
+    "post-6297",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A saúde física e mental de quem está vivendo em isolamento social por conta do novo coronavírus</em></p><p>As ruas mais vazias da cidade anunciam a quarentena que se estabelece por conta de uma ameaça real, ainda que invisível a olho nu: o novo coronavírus. Centenas de pessoas se resguardam a fim de manter longe esse vírus com mais de 1 milhão de infectados no mundo e cerca de 70 mil mortes. No Brasil, já são mais de 14 mil infectados até o momento que essa reportagem foi escrita. Junto da quarentena surgiu outra ameaça: a solidão.</p><p>Luzinete Melo tem 82 anos, mora sozinha, mas sempre teve a casa cheia. Se arrumava aos domingos para ir à missa e comprar frutas e legumes no sacolão no caminho de volta para casa. Com a chegada do novo coronavírus ao Brasil a rotina teve que se modificar. As missas são assistidas pelo celular ou pela televisão e a saudade da família é resolvida com videochamadas. “A primeira semana foi ruim, a segunda mais ou menos, agora eu me acostumei com a escravidão de ficar presa”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-3.png?resize=582%2C387&#038;ssl=1' alt='Luzinete Melo' width='582' height='387' /><figcaption>Luzinete Melo – Foto: Rafaela Barbosa</figcaption></figure><p>A psicóloga Mariana Soares, pós graduanda em Psicologia Clínica, alerta para alguns perigos que o isolamento social pode causar nas pessoas. Segundo ela, o bombardeio de notícias, a solidão e a autocobrança podem trazer danos psicológicos. “Acaba sendo recorrente os casos de crises de pânico, picos de ansiedade e o famoso ‘e agora?’ gerado por incertezas”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-1-e1586374475129.jpeg?resize=591%2C332&#038;ssl=1' alt='Psicóloga Mariana Soares' width='591' height='332' /><figcaption>Psicóloga Mariana Soares – Foto: Arquivo pessoal</figcaption></figure><p>É importante, portanto, viver um dia de cada vez, como está fazendo Rose Mary, de 63 anos. “Estou com muito medo, mas confiante que isso vai passar. Eu tento manter minha rotina”, conta. A leitura passou a ser sua companheira e as saídas a passeio foram canceladas. Para Mariana Soares, esse é o caminho certo.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-2.jpeg?resize=342%2C342&#038;ssl=1' alt='Rose Mary Santos' width='342' height='342' /><figcaption>Rose Mary Santos – Foto: Arquivo pessoal</figcaption></figure><p>Dentre as coisas que se pode fazer para manter a saúde física e mental, a psicóloga ressalta a realização de atividades prazerosas como ler livros, assistir programas que não estão relacionados ao momento atual e praticar atividades físicas em casa. Para quem precisa de um atendimento desses profissionais, o conselho federal da categoria regulamentou a prestação de serviços psicológicos por meio de Tecnologia da Informação e da Comunicação em tempos de pandemia. “Há profissionais realizando atendimento virtual de forma voluntária, tem profissionais que estão fazendo de forma mais fácil tanto a questão do pagamento quanto de plano de saúde”, ressalta Mariana Soares.</p><p>No auge dos seus 82 anos, Luzinete se mantém positiva em meio a pandemia. “É passageiro. Tudo na vida tem um começo e um fim” e ainda faz planos sobre o que fazer depois da quarentena: uma festa.</p><p><strong>Rafaela Barbosa – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-04-08T15:05:54",
+  "date_gmt": "2020-04-08T18:05:54",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A saúde física e mental de quem está vivendo em isolamento social por conta do novo coronavírus As ruas mais vazias da cidade anunciam a quarentena que se estabelece por conta de uma ameaça real, ainda que invisível a olho nu: o novo coronavírus. Centenas de pessoas se resguardam a fim de manter longe esse [&hellip;]</p>\n"
+  },
+  "featured_media": 6299,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6297"
+  },
+  "id": 6297,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/foto-1-e1586374475129.jpeg?fit=695%2C390&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Dz",
+  "link": "https://agenciauvabarra.com/2020/04/08/solidao-em-meio-a-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-04-08T16:38:11",
+  "modified_gmt": "2020-04-08T19:38:11",
+  "ping_status": "open",
+  "slug": "solidao-em-meio-a-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Solidão em meio a pandemia"
+  },
+  "type": "post"
+}

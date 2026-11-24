@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5911/revisions/5921",
+        "id": 5921
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5911"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5911",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5911/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5911"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5912"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5911",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5911",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-5911",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra",
+    "tag-xiii-semana-juridica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Diferentes atividades mostram a interdisciplinaridade no ambiente acadêmico e profissional</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/foto-1-e1573586221336.jpg?resize=3704%2C2023&amp;ssl=1' alt='' width='3704' height='2023' /><figcaption>Semana Jurídica contou com palestras no turno da manhã, tarde e noite – Foto: Ana Carolina Fernandes</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/foto-3-e1573475207459.jpeg?resize=1276%2C717&amp;ssl=1' alt='' width='1276' height='717' /><figcaption>Júri Simulado, sob a coordenação do professor Marcelo Trindade – Foto: Arquivo pessoal de Soniárlei Vieira Leite</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/foto-4-e1573475242875.jpeg?resize=1276%2C717&amp;ssl=1' alt='' width='1276' height='717' /><figcaption>Seminário de Iniciação Científica implementou a semana jurídica desta edição – Foto: Arquivo Pessoal</figcaption></figure><p>A Universidade Veiga de Almeida campus Barra teve uma semana de atividades para os alunos do curso de Direito. Entre os dias 4 a 8 de novembro, aconteceram palestras, debates, oficinas, júri simulados e cinema jurídico, tanto na parte da manhã quanto na parte da noite, que marcaram a XIII Semana Jurídica na unidade. A novidade desta edição foi a junção do primeiro seminário de iniciação científica ao evento.</p><p>A ideia central da semana é ser uma extensão da sala de aula com o foco na interdisciplinaridade. Portanto, foram discutidos assuntos como: as fakes news, a preservação dos recursos naturais, os ecossistemas e a contribuição da psicologia na Vara de Família. Soniárlei Vieira Leite, coordenador do curso de Direito no campus, defende a abordagem dos diversos saberes no evento. “A gente observa que cada vez mais o profissional de Direito é aquele que sabe articular sobre várias áreas e montar equipes interdisciplinares”, expressa o coordenador.</p><p>A Semana Jurídica refletiu sobre a preservação da natureza e a sustentabilidade. A professora de Direito Ambiental, Carla Cardoso de Moura, é coordenadora do Núcleo de Pesquisas Sustentáveis do campus e foi quem palestrou sobre os impactos sociais e econômicos do desperdício da água. “É uma questão mundial muito séria e é preciso que os alunos reconheçam que leis existem e que podem nos ajudar a resolver determinados problemas ambientais”, conta a professora sobre a relevância deste tema dentro para os futuros advogados.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/foto-2-e1573475172678.jpg?resize=470%2C264&amp;ssl=1' alt='' width='470' height='264' /><figcaption>Professora Carla Moura durante palestra sobre a água e os impactos do seu desperdício – Foto: Ana Carolina Fernandes</figcaption></figure><p>O evento também recebeu o primeiro seminário de iniciação científica exclusivo para os universitários do curso de Direito nos dias 5 e 6 da Semana Jurídica. A oportunidade de apresentar um projeto ainda graduando inspirou Gabriela Torres e Victoria de Oliveira a falar sobre a Amazônia e os impactos socioambientais e econômicos causados pelo desmatamento e pelas queimadas. Ambas são do segundo período e junto de outros colegas de sala, foram orientados pela professora Carla. “Esse seminário enriqueceu nosso currículo, nos exercitou a fazer outros trabalhos e pesquisas”, comenta Gabriela.</p><p><strong>Ana Carolina Fernandes – 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-11-12T16:02:21",
+  "date_gmt": "2019-11-12T19:02:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Diferentes atividades mostram a interdisciplinaridade no ambiente acadêmico e profissional A Universidade Veiga de Almeida campus Barra teve uma semana de atividades para os alunos do curso de Direito. Entre os dias 4 a 8 de novembro, aconteceram palestras, debates, oficinas, júri simulados e cinema jurídico, tanto na parte da manhã quanto na parte da [&hellip;]</p>\n"
+  },
+  "featured_media": 5912,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5911"
+  },
+  "id": 5911,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/foto-1-e1573586221336.jpg?fit=3704%2C2023&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1xl",
+  "link": "https://agenciauvabarra.com/2019/11/12/semana-juridica-do-campus-barra-reforca-a-importancia-da-sustentabilidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-11-12T16:17:49",
+  "modified_gmt": "2019-11-12T19:17:49",
+  "ping_status": "open",
+  "slug": "semana-juridica-do-campus-barra-reforca-a-importancia-da-sustentabilidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510,
+    689677178
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Semana Jurídica do campus Barra reforça a importância da sustentabilidade"
+  },
+  "type": "post"
+}

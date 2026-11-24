@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6084/revisions/6268",
+        "id": 6268
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6084"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6084",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6084/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6084"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6094"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6084",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6084",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-6084",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-sem-descanso"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/2387745.jpg?resize=318%2C404&amp;ssl=1' alt='' width='318' height='404' /><figcaption>Foto: Divulgação</figcaption></figure><p>Sem Descanso, o novo documentário do diretor Bernard Attal, conhecido pelas produções \"A Coleção Invisível\" e A \"Finada Mãe da Madame\", conta a história do jovem Geovane, morador do subúrbio de Salvador, que desapareceu em 2014 após uma abordagem feita por policiais. O longa acompanha as investigações feitas por conta própria do pai do rapaz, o papel da mídia em torno do caso e como as autoridades lidaram com toda a situação.</p><p>O roteiro refaz os passos do pai do jovem, Jurandhy Silva, mostrando que ele foi sendo empurrado de unidade em unidade policial atrás do filho, indo em hospitais, no Instituto Médico Legal todos os dias e como somente depois que os jornais começaram a noticiar o caso, os órgãos do Estado passaram a tratar o caso como algo sério.</p><p>O diretor procura tentar passar para o espectador toda a dor sentida pela família (namorada, avós e o pai) através de depoimentos que são intercalados com recriações dos momentos. Os depoimentos incluem também trechos de especialistas da área da segurança que debatem de onde vem essa forma de agir da polícia e como ela tem relação direta com toda a cultura escravista que está presente na história do Brasil.</p><p>As questões técnicas do longa como Iluminação, fotografia e enquadramentos são feitos de forma simples e direta, a preocupação de Bernard não é fazer nada muito espetacular, ele parece mais preocupado em mostrar de forma mais real possível todo o caso.</p><p>No meio do filme, ocorre um contra plano do caso de Geovane. No mesmo dia que o jovem desapareceu aqui no Brasil, um outro rapaz negro, morador de periferia tinha sido assassinado no meio da rua nos Estados Unidos. O filme aproveita dessa coincidência para traçar um paralelo entre os casos e mostrar como esse problema não é somente algo da nossa cultura, mas mundial. </p><p>O principal ponto do filme não é apenas questionar o que realmente aconteceu com Geovane, mas também tentar entender toda a construção social que existe em torno da forma como a polícia trata a população moradora de bairros mais pobres e negra. Como a policia assume um papel de enfrentamento, em vez de proteção.</p><p>Sem Descanso é um relato forte sobre como a atual forma de pensar a segurança pública no mundo, está causando mais mortes do que salvando vidas. Bernard Attal faz um trabalho documental muito sensível e importante. Ele consegue dar voz a quem seria em outros casos silenciado.</p><p><strong>Lucas Souza – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-12-17T09:50:30",
+  "date_gmt": "2019-12-17T12:50:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Sem Descanso, o novo documentário do diretor Bernard Attal, conhecido pelas produções “A Coleção Invisível” e A “Finada Mãe da Madame”, conta a história do jovem Geovane, morador do subúrbio de Salvador, que desapareceu em 2014 após uma abordagem feita por policiais. O longa acompanha as investigações feitas por conta própria do pai do rapaz, [&hellip;]</p>\n"
+  },
+  "featured_media": 6094,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6084"
+  },
+  "id": 6084,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/2387745.jpg?fit=318%2C404&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1A8",
+  "link": "https://agenciauvabarra.com/2019/12/17/agencia-uva-barra-assistiu-sem-descanso/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-03-21T00:11:22",
+  "modified_gmt": "2020-03-21T03:11:22",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-sem-descanso",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    51765769
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: &#8220;Sem Descanso&#8221;"
+  },
+  "type": "post"
+}

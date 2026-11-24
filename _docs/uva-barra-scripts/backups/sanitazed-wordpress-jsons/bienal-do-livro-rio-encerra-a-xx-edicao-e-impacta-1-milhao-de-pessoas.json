@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10963/revisions/10988",
+        "id": 10988
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10963"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10963",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10963/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10963"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10979"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10963",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10963",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2860759,
+    17964,
+    23208,
+    3719,
+    7114
+  ],
+  "class_list": [
+    "post-10963",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-bienal-do-livro",
+    "category-educacao",
+    "category-entretenimento",
+    "category-literatura",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-riocentro",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O maior evento literário do país marcou a retomada das atividades culturais aprimoradas ao período pandêmico</em></p><p>O Riocentro recebeu ao longo de 10 dias de programação os amantes da leitura. A novidade da XX edição da Bienal do Livro foi o sistema híbrido com debates transmitidos on-line e o acompanhamento dos protocolos de segurança. Marcos da Veiga Pereira, presidente do Sindicato Nacional dos Editores de Livros (Snel) e Tatiana Zaccaro, diretora da GL events, compartilharam o mesmo sentimento ao final: a sensação de dever cumprido.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/imprensa-e1639488358862.jpg?resize=399%2C439&#038;ssl=1' alt='imprensa' width='399' height='439' /><figcaption>Na coletiva de imprensa, Marcos da Veiga Pereira e Tatiana Zaccaro destacaram sobre a relevância de manter o hábito da leitura em evidência. (Foto: Pedro Amorim)</figcaption></figure><p>A repercussão de compra dos livros foi perceptível pelas editoras. O aumento de vendas variou entre 20% a 120% em relação a 2019. De acordo com a assessoria de imprensa, entre 250 mil pessoas presentes nos pavilhões, 99% compraram pelo menos um livro e foram vendidos mais de 2 milhões de exemplares. Na coletiva de imprensa, Marcos Pereira aponta que resiliência, coragem e esperança resumiram a 20ª edição. Para Tatiana Zaccaro, o público desejava o contato da experiência com a Bienal.</p><p><strong>Tatiana Zaccaro, diretora da GL events, responsável pela organização do evento, comenta sobre quais histórias a Bienal deseja contar adiante.</strong></p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1177315423&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Tatiana Zaccaro comenta sobre quais histórias a Bienal deseja contar adiante. by Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></figure><p>Quem se sentiu realizada ao chegar pela primeira vez no evento foi a filha de Flávia Castro, a pequena Emanuelle de Castro, de seis anos. A menina começou a ler agora e recebe o apoio da mãe para embarcar no universo dos livros. “A Bienal é um pontapé de incentivo”, disse Flávia. Um dos painéis instagramáveis que chamaram a atenção delas foi a árvore, no Pavilhão Laranja, voltado para a questão da inclusão, o que foi colocado como uma discussão importante para Flávia Castro.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/mae-e-filha-e1639488198242.jpg?resize=480%2C606&#038;ssl=1' alt='' width='480' height='606' /><figcaption>Para Flávia Castro, a prática da leitura desenvolve o conhecimento. (Foto: Pedro Amorim)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/casal-e-amiga-e1639488238861.jpg?resize=441%2C641&#038;ssl=1' alt='' width='441' height='641' /><figcaption>O casal Ivy Santana e Rafael Pelluso, e a amiga Juliana dos Santos, perceberam como os preços dos livros estavam acessíveis. (Foto: Pedro Amorim)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/luiza-e1639488269323.jpg?resize=480%2C408&#038;ssl=1' alt='' width='480' height='408' /><figcaption>Luiza Souza explicou sobre a Bienal ter um significado sentimental, pois, desde pequena a mãe sempre a levou para viver essa experiência única. (Foto: Pedro Amorim)</figcaption></figure><p>Já no Pavilhão Azul, o quadro “Gente que ama ler” despertou o interesse do casal, Ivy Santana e Rafael Pelluso, e da amiga em comum Juliana dos Santos. Ao visitar o painel instagramável, a preferência foi unânime, ainda mais, por retratar uma frase bem resumida sobre o público da Bienal. “A mensagem é chamativa”, falou Juliana.</p><p>Ir no dia de encerramento do evento foi interpretado como uma boa escolha para Luiza Souza. A jovem conta que encontrou promoções ao longo das estantes e como a organização estava ótima. “Vir na Bienal sempre me inspira a alimentar o hábito da leitura”, afirmou Luiza.</p><p>Na “Estação Plural”, o último debate que encerrou a edição foi “Vozes LGBTQIAP+: O que vem pela frente?”. Com a mediação do autor Felipe Cabral e participações de Amiel Vieria, Letícia Carolina Nascimento, Natalia Borges Polesso, Renan Quinalha e Samuel Nascimento, a mesa tinha a principal motivação de propor uma análise sobre os rumos dessa população no futuro, ao levar em conta o caso de censura da obra LGBTQIAP+ pelo ex-prefeito Marcelo Crivella na Bienal 2019 e o contexto político atual.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/debate-e1639488496275.jpg?resize=640%2C418&#038;ssl=1' alt='' width='640' height='418' /><figcaption>O debate compartilhou a ideia de união da população LGBTQIAP+, por meio da revolução literária. (Foto: Pedro Amorim)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/matheus.jpg?resize=480%2C640&#038;ssl=1' alt='' width='480' height='640' /><figcaption>De acordo com Matheus Bezerra, a temática LGBTQIAP+ o move nas questões profissionais e identitárias. (Foto: Pedro Amorim) </figcaption></figure><p>Através da vivência pessoal de cada palestrante, cada um compartilhou a necessidade de ter pessoas plurais e diversas em todas as áreas da sociedade, através da literatura e do combate ao preconceito. “Eu fico pensando em nossos corpos estarem em todos os lugares”, afirmou o escritor Samuel Nascimento.</p><p><strong>Confira “Vozes LGBTQIAP+: O que vem pela frente?”.</strong></p><figure><iframe src='https://www.youtube.com/embed/jTNiW_p0RdY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='' allowfullscreen></iframe></figure><p><br>O que motivou Matheus Bezerra a participar da mesa foi a experiência própria de estudos e pesquisas da temática LGBTQIAP+ dentro do universo religioso. “Depois da censura de Crivella, isso foi um marco para buscar mais visibilidade em um espaço tão plural como a Bienal”, relatou Matheus.</p><p>Durante os 10 dias de festival, houve mais de 750 mil acessos com a transmissão digital da “Estação Plural”. Ou seja, tanto no campo físico quanto no campo digital, a Bienal do Livro no Rio de Janeiro pôde transformar a paixão de ler e impulsionar o diálogo.</p><p><em>Pedro Amorim – 5º período</em></p></main>"
+  },
+  "date": "2021-12-13T18:00:00",
+  "date_gmt": "2021-12-13T21:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Riocentro recebeu ao longo de 10 dias de programação os amantes da leitura. A novidade da XX edição da Bienal do Livro foi o sistema híbrido com debates transmitidos on-line e o acompanhamento dos protocolos de segurança. Marcos da Veiga Pereira, presidente do Sindicato Nacional dos Editores de Livros (Snel) e Tatiana Zaccaro, diretora da GL events, compartilharam o mesmo sentimento ao final: a sensação de dever cumprido.</p>\n"
+  },
+  "featured_media": 10979,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10963"
+  },
+  "id": 10963,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/img_0346.jpg?fit=745%2C737&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2QP",
+  "link": "https://agenciauvabarra.com/2021/12/13/bienal-do-livro-rio-encerra-a-xx-edicao-e-impacta-1-milhao-de-pessoas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-12-14T11:27:33",
+  "modified_gmt": "2021-12-14T14:27:33",
+  "ping_status": "open",
+  "slug": "bienal-do-livro-rio-encerra-a-xx-edicao-e-impacta-1-milhao-de-pessoas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    10031061,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Bienal do Livro Rio encerra a XX edição e impacta 1 milhão de pessoas"
+  },
+  "type": "post"
+}

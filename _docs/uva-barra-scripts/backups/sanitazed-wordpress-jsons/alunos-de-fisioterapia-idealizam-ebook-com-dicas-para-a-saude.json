@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6529/revisions/6534",
+        "id": 6534
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6529"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6529",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6529/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6529"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6531"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6529",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6529",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    72064
+  ],
+  "class_list": [
+    "post-6529",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "category-saude",
+    "tag-coronavirus",
+    "tag-covid-19",
+    "tag-fisioterapia",
+    "tag-isolamento-social",
+    "tag-quarentena",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>As recomendações têm como foco o cuidado com o corpo durante o isolamento social</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/screenshot_20200428-185747.png?resize=514%2C355&amp;ssl=1' alt='Capa do ebook produzido pelos alunos' width='514' height='355'><figcaption>Capa do ebook produzido pelos alunos – Foto: Divulgação</figcaption></figure><p>Os alunos do primeiro período do curso de Fisioterapia da Universidade Veiga de Almeida, dos campi Barra e Tijuca, produziram, durante o mês de abril, uma cartilha de como cuidar da saúde no período de quarentena. O ebook intitulado “Orientações fisioterápicas para a melhora da saúde durante o isolamento social em combate a Covid-19” explica, passo a passo e por meio de imagens, como manter o bem estar físico e mental através de exercícios respiratórios e os cuidados com a postura em casa.</p><p>A supervisora do projeto acadêmico, professora Vanessa da Rocha, explica que a cartilha foi feita como parte da disciplina “Ciências Humanas Aplicada à Saúde”. A proposta pedagógica é trazer um modelo Maker, fazendo com que os alunos produzam soluções para os problemas apresentados pelos professores durante as aulas. “A universidade espera transmitir para os alunos que, mesmo no primeiro período, eles são reconhecidos e respeitados como futuros profissionais”, destacou.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/img-20200428-wa0153.jpg?resize=426%2C396&amp;ssl=1' alt='Vanessa da Rocha é supervisora do projeto acadêmico produzido pelos alunos' width='426' height='396'><figcaption>Vanessa da Rocha é supervisora do projeto acadêmico produzido pelos alunos – Foto: Arquivo Pessoal</figcaption></figure><p>Além de contribuir no aprendizado e interação dos alunos, Vanessa explica que a temática escolhida é de extrema relevância no cenário atual. A recomendação das autoridades é para ficar em casa, mas, segundo ela, isso também pode ser um problema. “Ficar parado pode prejudicar mentalmente e fisicamente seu corpo. Portanto, com esse ebook, estamos oferecendo alternativas para que as pessoas se cuidem e tenham melhor qualidade de vida dentro de casa”, finaliza.</p><p><strong>Pedro José Alves – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-04-29T14:48:25",
+  "date_gmt": "2020-04-29T17:48:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>As recomendações têm como foco o cuidado com o corpo durante o isolamento social Os alunos do primeiro período do curso de Fisioterapia da Universidade Veiga de Almeida, dos campi Barra e Tijuca, produziram, durante o mês de abril, uma cartilha de como cuidar da saúde no período de quarentena. O ebook intitulado “Orientações fisioterápicas [&hellip;]</p>\n"
+  },
+  "featured_media": 6531,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6529"
+  },
+  "id": 6529,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/screenshot_20200428-185747.png?fit=1208%2C835&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Hj",
+  "link": "https://agenciauvabarra.com/2020/04/29/alunos-de-fisioterapia-idealizam-ebook-com-dicas-para-a-saude/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-04-29T14:55:12",
+  "modified_gmt": "2020-04-29T17:55:12",
+  "ping_status": "open",
+  "slug": "alunos-de-fisioterapia-idealizam-ebook-com-dicas-para-a-saude",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056633,
+    694479852,
+    250831,
+    8757533,
+    767056634,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Alunos de Fisioterapia idealizam ebook com dicas para a saúde"
+  },
+  "type": "post"
+}

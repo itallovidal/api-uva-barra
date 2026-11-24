@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10629/revisions/10643",
+        "id": 10643
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10629"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10629",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10629/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10629"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10638"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10629",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10629",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    7114
+  ],
+  "class_list": [
+    "post-10629",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Alunos dos primeiros anos do ensino fundamental foram os mais afetados no processo de aprendizagem por conta da pandemia</em></p><p>Dados do Fundo das Nações Unidas para a Infância (UNICEF) mostram que em 2020, mais de cinco milhões de crianças não tiveram acesso à educação. Desses, 40% estavam na faixa etária de 6 a 10 anos de idade, justamente fase na qual se desenvolve a alfabetização.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/prof-luzia.jpg?resize=750%2C741&amp;ssl=1\" alt=\"\" width=\"750\" height=\"741\"><figcaption>Luzia de Assis, professora de escola municipal, conta os desafios que vem enfrentando para que os alunos avancem na leitura e escrita. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/professora-jessica.jpg?resize=750%2C739&amp;ssl=1\" alt=\"\" width=\"750\" height=\"739\"><figcaption>Educadora diz que ao tentar exercer o trabalho de ensino com os alunos na pandemia, esbarra-se nas más condições de ensino no país. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-nayara.jpeg?resize=624%2C624&amp;ssl=1\" alt=\"\" width=\"624\" height=\"624\"><figcaption>Especialista do Projeto Qualificação Direta em Primeira Infância, Nayara Araújo, ressalta sobre a importância de uma formação de excelência. (Foto: Arquivo Pessoal)</figcaption></figure><p>Segundo a professora Luzia de Assis, da Rede Municipal do Rio de Janeiro, um dos fatores para o problema é a dificuldade que os estudantes encontram em se conectar às aulas. “Muitos não têm acesso à Internet, não possuem celular. Quando tem, na maioria dos casos, é só um aparelho que fica com o responsável da família no horário de trabalho”, afirma.</p><p>Durante o período em que as escolas se mantiveram fechadas, houve alguns métodos para que o ensino chegasse até os alunos, como formação de grupo nas redes sociais, entrega de atividades impressas semanalmente aos responsáveis e vídeos explicativos sobre as atividades propostas. Contudo, ainda assim foi difícil desenvolver as habilidades de educação infantil e reverter a situação.</p><p>A professora Luzia, que leciona uma turma do terceiro ano do ensino fundamental, se diz preocupada com o cenário pois, no fim desta etapa, em condições normais, espera-se que os alunos consigam ler, interpretar e produzir textos com autonomia. No entanto, a realidade tem sido outra. “Recebi muitos alunos que não reconheciam todas as letras do alfabeto. Não sabiam o que era vogal ou consoante e não tinham desenvolvido consciência fonológica. A impressão que tive ao retornar ao presencial, era que estava lecionando para uma turma de 1° ano”, revela.</p><p>Além disso, desde que as aulas presenciais retornaram de forma intercalada, os educadores expõem a dificuldade que estão enfrentando para lidar com o modelo híbrido. Seguir as exigências impostas pela pandemia, cumprir as demandas e preparar aulas para os dois modos com estratégias de aprendizagem distintas para dar conta das dificuldades de cada estudante, está sendo uma árdua realidade.</p><p>Segundo a professora do primeiro ano do ensino fundamental da Rede Pública de Ensino, Jéssica Valentim, tal fato se dá devido às precárias condições em que a educação se encontra. “Os alunos não têm o suporte tecnológico para realizar as tarefas, espaço físico em casa para estudar. Há até professor sem aparelho para fazer as aulas”, explica.</p><p>A partir do momento que o segmento de alfabetização infantil é afetado, especialistas alertam sobre o aumento da desigualdade social e os riscos que isso pode acarretar para toda a vida da criança. Nayara Araújo, Coordenadora do Projeto Qualificação Direta em Primeira Infância na FGV, explica que o processo de aprendizagem é contínuo e que a educação infantil constitui parte de uma etapa de educação básica que irá refletir no futuro, sendo ela, uma ferramenta essencial para se quebrar o ciclo de desigualdade. “O acesso à educação de qualidade é um direito social garantido pela Constituição e que deveria ser assegurado, inclusive, em tempos de pandemia”, defende.</p><p><strong>Em vídeo, a profissional esclarece as consequências do déficit na alfabetização. Confira:</strong></p><figure><iframe src=\"https://www.youtube.com/embed/z4CiquAIYZU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>A alfabetização é um processo fundamental para o desenvolvimento de uma criança que tem reflexo ao longo da vida. Quando o direito à educação de qualidade é negado, a taxa de analfabetismo cresce e exclui uma parcela da população do acesso às informações mais básicas, além de acarretar na falta de oportunidades tanto profissionais, quanto pessoais. A volta aos estudos, de forma 100% presencial, é um desafio para os educadores fecharem o ciclo 2021 e traçar novas estratégias para 2022.</p><p><em>Lorhan Nascimento – 3º período</em></p></main>"
+  },
+  "date": "2021-11-09T18:47:14",
+  "date_gmt": "2021-11-09T21:47:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Dados do Fundo das Nações Unidas para a Infância (UNICEF) mostram que em 2020, mais de cinco milhões de crianças não tiveram acesso à educação. Desses, 40% estavam na faixa etária de 6 a 10 anos de idade, justamente fase na qual se desenvolve a alfabetização.</p>\n"
+  },
+  "featured_media": 10638,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10629"
+  },
+  "id": 10629,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/capa-site-agencia-1-2.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Lr",
+  "link": "https://agenciauvabarra.com/2021/11/09/deficit-na-educacao-o-reflexo-da-pandemia-na-alfabetizacao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-09T18:57:54",
+  "modified_gmt": "2021-11-09T21:57:54",
+  "ping_status": "open",
+  "slug": "deficit-na-educacao-o-reflexo-da-pandemia-na-alfabetizacao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Déficit na educação: o reflexo da pandemia na alfabetização"
+  },
+  "type": "post"
+}

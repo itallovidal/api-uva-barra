@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4747/revisions/4760",
+        "id": 4760
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4747"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4747",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4747/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4747"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4750"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4747",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4747",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4747",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-espaco-38",
+    "tag-morar-mais-rio-2019",
+    "tag-rei-momo",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A parceria uniu alunos e egressos do campus Barra</em></p><p>Após 40 dias de trabalho, dedicação nas madrugadas e algumas alterações no projeto, uma equipe composta por alunos e ex-alunos de Design de Interiores e Engenharia Civil da Universidade Veiga de Almeida, campus Barra, concluíram o projeto do Espaço 38 para a edição 2019 do Morar Mais Rio.</p><p>O desafio foi montar um escritório multifacetado, tal qual o homenageado, que abraça várias funções: de mestre e docente à arquiteto, urbanista, cenógrafo, carnavalesco e eterno Rei Momo (por uma década): Alex de Oliveira Silva.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/1-e1566745507275.jpeg?resize=956%2C538&amp;ssl=1\" alt=\"\" width=\"956\" height=\"538\" /><figcaption>Alex (centro) com parte de sua equipe do Espaço 38, são elas, respectivamente, Silvia Camargo (ex-aluna), Georgette Faro (aluna), Suadia Braga (aluna), Rachel Santhiago (aluna) – Foto: Silvia Camargo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/2.jpeg?resize=1280%2C1280&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"1280\" /><figcaption>O espaço é decorado com peças do acervo pessoal de Alex de Oliveira Silva – Foto: Silvia Camargo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/5-e1566745716927.jpeg?resize=957%2C538&amp;ssl=1\" alt=\"\" width=\"957\" height=\"538\" /><figcaption>Trono representado pela poltrona vermelha The Big Easy (criação do designer israelense Ron Arad) – Foto: Silvia Camargo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/3.jpeg?resize=493%2C493&amp;ssl=1\" alt=\"\" width=\"493\" height=\"493\" /><figcaption>Ambiente decorado do escritório multifuncional – Foto: Silvia Camargo</figcaption></figure><p>A proposta é apresentar ao público um cenário instagramável, aquele que o visitante quer tirar uma foto e compartilhar. O espaço une luxo ao lixo e riqueza ao reuso, tradição e modernidade e tem também peças do acervo pessoal de Alex, como a Coroa oficial de Rei Momo. O trabalho desenvolvido pelos estudantes e egressos, sob a supervisão do professor, tem o intuito de aproximar os alunos do mercado. “O objetivo é fazê-los perceber a aplicabilidade do conhecimento teórico e as necessidades de planejamento no exercício da prática profissional”, destaca Alex.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/4.jpeg?resize=500%2C500&amp;ssl=1\" alt=\"\" width=\"500\" height=\"500\" /><figcaption>Coroa oficial de Alex de Oliveira enquanto Rei Momo – Foto: Silvia Camargo</figcaption></figure><p>A formação da equipe teve origem em sala de aula na graduação de Design de Interiores do campus Barra. Para que fosse possível a inclusão completa dos alunos no projeto, alguns foram para compor a equipe na construção do espaço e outros para estagiar no Morar Mais Rio.</p><p>Esta experiência representa uma oportunidade de crescimento profissional. É o que afirma Suadia Braga, 41 anos, integrante da equipe, cursando o último período de Design de Interiores. “Meu objetivo com o projeto é ganhar experiência na área de Design de Interiores, além de fazer network com as pessoas da área”, afirma.</p><p>O egresso de Engenharia Civil da UVA Barra, Vitor Lemos, de 25 anos, acredita que esta é uma boa chance de divulgar seu trabalho para novos parceiros e clientes. “Conheci o Alex na faculdade, depois de um tempo ele já acompanhava meu trabalho, e me propôs uma parceria para o projeto do Morar Mais, então eu aceitei, achei que seria uma boa oportunidade de mostrar o que eu faço”, afirma.</p><p>O “Espaço 38: Escritório multifuncional do Rei” faz parte da mostra Morar Mais Rio 2019, no CasaShopping e pode ser visitado até 22 de setembro, de terça a domingo, das 12h às 21h. Os ingressos variam de R$ 30,00 a R$ 45,00 de acordo com o dia da semana.</p><p><strong>Fernando Pieroni – 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-08-25T14:00:00",
+  "date_gmt": "2019-08-25T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A parceria uniu alunos e egressos do campus Barra Após 40 dias de trabalho, dedicação nas madrugadas e algumas alterações no projeto, uma equipe composta por alunos e ex-alunos de Design de Interiores e Engenharia Civil da Universidade Veiga de Almeida, campus Barra, concluíram o projeto do Espaço 38 para a edição 2019 do Morar [&hellip;]</p>\n"
+  },
+  "featured_media": 4750,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4747"
+  },
+  "id": 4747,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/1-e1566745507275.jpeg?fit=956%2C538&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1ez",
+  "link": "https://agenciauvabarra.com/2019/08/25/professor-alex-de-oliveira-e-homenageado-na-mostra-morar-mais-rio-2019/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-25T16:01:48",
+  "modified_gmt": "2019-08-25T19:01:48",
+  "ping_status": "open",
+  "slug": "professor-alex-de-oliveira-e-homenageado-na-mostra-morar-mais-rio-2019",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    685527940,
+    685528605,
+    4041273,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Professor Alex de Oliveira é homenageado na mostra Morar Mais Rio 2019"
+  },
+  "type": "post"
+}

@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7374/revisions/7425",
+        "id": 7425
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7374"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7374",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 17,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7374/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7374"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7377"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7374",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7374",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    703299214
+  ],
+  "class_list": [
+    "post-7374",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Intercâmbio proporciona contato com outras culturas, mesmo durante a pandemia</em></p><p>Muitos jovens querem novos desafios, novos horizontes, e almejam grandes oportunidades na vida. O intercâmbio pode ser uma forma de ultrapassar barreiras e mudar a convivência e a visão, pelo contato com outras culturas pelo mundo. O intercâmbio, além disso, ensina tolerância e empatia. Constrói também laços familiares, independentemente da outra cultura, mesmo em tempo de pandemia.</p><p>Jack Patterson, de 17 anos, estudante, americano, que está no Rio há cinco meses, fala da experiência e da expectativa que ele tinha do Brasil. “Não sabia nada mesmo do país. Só me preparei para estar seguro e para as coisas da cultura que fossem diferentes. Agora, obviamente ninguém estava esperando toda confusão provocada pela Covid. Isso tem atrapalhado meu intercâmbio, mas não consigo fazer nada para mudar. Por isso, só tenho que aceitar como a situação é atualmente, e aproveitar qualquer coisa que eu consigo aproveitar”, diz Jack sobre o intercâmbio e o isolamento social imposto pelo novo Coronavirus.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image.png?resize=228%2C304&amp;ssl=1\" alt=\"\" width=\"228\" height=\"304\"><figcaption>José, Jack e Cristiane, Carnaval 2020 – Foto: Arquivo Pessoal</figcaption></figure><p>Esses jovens são recebidos em diferentes famílias durante o período do intercâmbio e muitos os adotam como se fossem filhos. José Carlos Martins Braga, 57 anos, arquiteto, responsável pelo Jack, comenta como é receber um jovem estrangeiro. “Os pais recebem filhos de outros pais. Também nossos filhos são recebidos por outros pais, e todos aprendem novos costumes de cada cultura. A troca é incrível!”</p><p>Cristiane Valente Ferreira, 50 anos, psicóloga, família parceira de José, apesar de não ser a primeira família de Jack, o recebeu quando chegou no Rio e tem ajudado muito José Carlos. Ela, que já recebeu um mexicano, também conta que conheceu em encontros e festas do programa do intercâmbio outros jovens desses: lituânios, taiwaneses, turcos, franceses, belgas, alemães, italianos, dinamarqueses, entre outros. “É muito interessante receber um jovem de outro país, pois todos aprendem sobre várias culturas”.</p><p><strong>Vinícius Valente Zakhm – 3º Período| Jornalismo</strong></p><p><em>*Texto produzido na disciplina Teoria e Técnica da Notícia em parceria com a Agência UVA Barra.</em></p></main>"
+  },
+  "date": "2020-08-03T15:59:49",
+  "date_gmt": "2020-08-03T18:59:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Intercâmbio proporciona contato com outras culturas, mesmo durante a pandemia Muitos jovens querem novos desafios, novos horizontes, e almejam grandes oportunidades na vida. O intercâmbio pode ser uma forma de ultrapassar barreiras e mudar a convivência e a visão, pelo contato com outras culturas pelo mundo. O intercâmbio, além disso, ensina tolerância e empatia. Constrói [&hellip;]</p>\n"
+  },
+  "featured_media": 7377,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7374"
+  },
+  "id": 7374,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image.png?fit=228%2C304&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1UW",
+  "link": "https://agenciauvabarra.com/2020/08/03/jovens-estrangeiros-em-terras-brasileiras/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-03T18:56:07",
+  "modified_gmt": "2020-08-03T21:56:07",
+  "ping_status": "open",
+  "slug": "jovens-estrangeiros-em-terras-brasileiras",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Jovens estrangeiros em terras brasileiras"
+  },
+  "type": "post"
+}

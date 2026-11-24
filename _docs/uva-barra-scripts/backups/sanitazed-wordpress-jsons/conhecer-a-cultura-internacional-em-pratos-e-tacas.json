@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4650/revisions/4656",
+        "id": 4656
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4650"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4650",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4650/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4650"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4651"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4650",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4650",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    1704
+  ],
+  "class_list": [
+    "post-4650",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-gastronomia",
+    "tag-culinaria",
+    "tag-enogastronomia",
+    "tag-winefood"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A primeira edição de Wine&amp;Food reuniu os amantes da enogastronomia</em></p><p>Pela primeira vez, o shopping Downtown uniu famílias e grupos de amigos no último fim de semana (16 a 18 de agosto) para um passeio cultural através da gastronomia, degustação de vinhos e música ao vivo. O evento Wine&amp;Food, com o tema “Sabores Pelo Mundo”, recebeu dez importadoras de vinhos nacionais e internacionais e dez Chefs para representarem a culinária de países como a França, Argentina, Estados Unidos, Espanha e Brasil.</p><p>Ao longo dos três dias, o público do Rio de Janeiro teve aprendizado em degustação de vinhos e a harmonização da bebida com uma boa comida, além de conhecer a cultura de outros países. “Nós entendemos que a enogastronomia é um elemento cultural. Então, visamos trazer diversidade culinária para as pessoas que estão no evento e elas poderem conhecer novos sabores de outros lugares e escolherem quais pratos elas vão querer harmonizar com as suas bebidas”, afirma o organizador do evento Cezar Marques.</p><p>O Chef Igor Maurício Barreto apresentou a comida dos Estados Unidos e afirmou que a troca de conhecimentos culturais é fundamental para quem está no evento e para quem estuda a gastronomia. “Esse tipo de evento torna o ambiente favorável para todos estão aqui. É sempre importante explorar técnicas diferentes e globalizá-las, criando outros métodos”, comenta.</p><p>A aproximação entre as pessoas e a culinária internacional, agradou muito o Chef Luiz Gustavo Falci, o responsável pela culinária argentina. “Muitas vezes as pessoas não sabem o que estão comendo e deixam de ir a restaurantes porque acham caro. Com eventos que colocam a comida na rua, eu consigo trazer pratos com preços acessíveis e o cliente conhecerá o que é um bife de ancho, por exemplo”, diz. Ele também comenta que uma feira de enogastronomia ajuda bastante a mover a economia do mercado.</p><p>Ações como está já estão no calendário do carioca, mas precisam de mais espaços para atrair públicos diferentes. “Eu frequento os poucos eventos desse tipo que tem aqui no Rio de Janeiro. É sempre bom aprender sobre novas culturas e a culinária permite isso. Descobri sobre o evento hoje e estou gostando bastante”, diz a bancária Elisângela Evaristo, que estava desde o início da feira. O primeiro Wine&amp;Food encerrou com um gostinho de que há previsão para novas edições do evento.</p><p><strong>Isabella Lutz – 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-08-19T12:46:59",
+  "date_gmt": "2019-08-19T15:46:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A primeira edição de Wine&amp;Food reuniu os amantes da enogastronomia Pela primeira vez, o shopping Downtown uniu famílias e grupos de amigos no último fim de semana (16 a 18 de agosto) para um passeio cultural através da gastronomia, degustação de vinhos e música ao vivo. O evento Wine&amp;Food, com o tema “Sabores Pelo Mundo”, [&hellip;]</p>\n"
+  },
+  "featured_media": 4651,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4650"
+  },
+  "id": 4650,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/img-2643-e1566228602115.jpg?fit=3951%2C2151&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1d0",
+  "link": "https://agenciauvabarra.com/2019/08/19/conhecer-a-cultura-internacional-em-pratos-e-tacas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-19T13:00:18",
+  "modified_gmt": "2019-08-19T16:00:18",
+  "ping_status": "open",
+  "slug": "conhecer-a-cultura-internacional-em-pratos-e-tacas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    30908,
+    318907,
+    27528314
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Conhecer a cultura internacional em pratos e taças"
+  },
+  "type": "post"
+}

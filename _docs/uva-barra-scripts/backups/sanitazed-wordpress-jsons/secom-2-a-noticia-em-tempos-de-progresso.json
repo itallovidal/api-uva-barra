@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/740/revisions/3341",
+        "id": 3341
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=740"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/740",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/740/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=740"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=740",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=740",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-740",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>No primeiro dia da Semana de Comunicação, a palestra sobre a relação do jornalismo e tecnologia chamou a atenção dos futuros profissionais</em></h4><div class=\"wp-block-image aligncenter size-full wp-image-746\"><figure class=\"aligncenter\"><img data-recalc-dims=\"1\" decoding=\"async\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/foto-16-05-17-13-51-17-1.jpg?ssl=1\" alt=\"Foto 16-05-17 13 51 17 (1).jpg\" /><figcaption><strong>Foto: Lizandra Rios</strong></figcaption></figure></div><p class=\"wp-block-paragraph\">A Universidade Veiga de Almeida recebeu, nesta última terça feira no Campus Barra, o jornalista da Band News Rodolfo Schneider. A palestra teve o objetivo de explicar aos alunos a relação do jornalismo com o atual mundo interconectado, discutindo como a tecnologia do mundo atual interfere na forma da notícia ser transmitida.</p><p class=\"wp-block-paragraph\">Essa foi a principal abordagem de Rodolfo durante seu discurso: enfatizar como os avanços tecnológicos trabalham a favor do jornalismo hoje em dia. Segundo ele, estamos em um mundo onde tudo acontece ao mesmo tempo, por isso precisamos estar atentos. \"Antigamente, até a informação chegar no rádio levava muito tempo. Hoje a realidade é outra.\" Além da necessidade da notícia instantânea, Rodolfo também reforçou a importância do jornalista com múltiplas funções.</p><p class=\"wp-block-paragraph\">Muitos profissionais hoje são multifuncionais, ou seja, não atuam em apenas uma área. Na maioria das vezes o mesmo jornalista que escreve a pauta é o que apura, escreve, grava e edita. Segundo o palestrante, participar de todo o processo é um ponto positivo: \"Você se sente mais seguro e está pronto para ingressar em qualquer área que te chamarem, pois você passa a dominar todo o processo de produção da notícia\". Rodolfo afirma que o único ponto negativo dessa questão é o jonralista acabar errando em alguma parte do processo por estar sobrecarregado, mas é preciso estar preparado para lidar com a pressão diária.</p><p class=\"wp-block-paragraph\">O tópico mais frisado durante toda a palestra foi a questão de estarmos em um mundo conectado, que está sempre nos pressionando para sabermos mais. Sabendo disso, Rodolfo pegou exemplos de grandes acontecimentos históricos – como a invasão de Napoleão a Portugal – e os inseriu no contexto atual, explicando como seria noticiado esse acontecimento em tempos de whatsapp e GPS. \"Se fosse hoje eles não se perderiam meses no mar, seria muito mais fácil navegar com GPS e poder mandar uma mensagem no whatsapp avisando que Portugal está sendo invadido\". Ao pensarmos na facilidade que temos hoje em dia para nos comunicar, podemos perceber a facilidade com que a notícia chega para o jornalista atualmente.</p><p class=\"wp-block-paragraph\">Por tratar de temas atuais, a palestra cativou os alunos presentes e os deixou mais conscientes sobre o que esperar do mercado de trabalho. A estudante de jornalismo do terceiro período Isabelle Amancio, de 20 anos, achou a palestra muito importante para sua carreira. \"As vezes precisamos ser mais do que bons. É importante procurar algo a mais, ser curioso, saber o que está acontecendo a sua volta\". Como finalização da sua palestra, Rodolfo citou alguns elementos que ele considera importantes para a entrada de um aluno no mercado de trabalho, como a vontade de sempre aprender mais e estar atento ao mundo a sua volta, mas sempre ressaltando a importância de fazer o que se ama e de manter sempre o brilho no olhar de alguém que gosta do que faz.</p><h4>Lizandra Rios e Tayane Fernandes, 5º período.</h4></main>"
+  },
+  "date": "2017-05-17T17:26:42",
+  "date_gmt": "2017-05-17T20:26:42",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No primeiro dia da Semana de Comunicação, a palestra sobre a relação do jornalismo e tecnologia chamou a atenção dos futuros profissionais A Universidade Veiga de Almeida recebeu, nesta última terça feira no Campus Barra, o jornalista da Band News Rodolfo Schneider. A palestra teve o objetivo de explicar aos alunos a relação do jornalismo [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=740"
+  },
+  "id": 740,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-bW",
+  "link": "https://agenciauvabarra.com/2017/05/17/secom-2-a-noticia-em-tempos-de-progresso/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:59:28",
+  "modified_gmt": "2019-02-28T19:59:28",
+  "ping_status": "open",
+  "slug": "secom-2-a-noticia-em-tempos-de-progresso",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "SECOM #1 A notícia em tempos de progresso"
+  },
+  "type": "post"
+}

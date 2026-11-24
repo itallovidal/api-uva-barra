@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6650/revisions/6674",
+        "id": 6674
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6650"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6650",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6650/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6650"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6655"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6650",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6650",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    15243,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-6650",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-meio-ambiente",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-coronavirus",
+    "tag-saneamento-basico"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Lei, Estado e realidade em lugares opostos</em></p><p>Diversos estados brasileiros possuem regiões com pouca ou total ausência de saneamento básico, o que facilita a propagação do novo coronavírus, uma vez que a premissa básica para evitar a contaminação é a higienização das mãos com água e sabão. Mesmo o cidadão tendo um direito a saneamento básico assegurado pela Constituição Federal de 1988 (Artigo 225) e pela Lei nº. 11.445/2007, é possível encontrar localidades em que a população vive sem água limpa e esgoto tratado.</p><p>O saneamento está baseado em quatro pilares: fornecimento de água potável; coleta e tratamento de esgoto; manejo de resíduos urbanos; drenagem urbana. Portanto, o déficit de qualquer um destes itens potencializa a transmissão de doenças, inclusive o COVID-19. “É complicado recomendar que as pessoas lavem as mãos se elas não têm água encanada e/ou dinheiro para comprar sabão e álcool. É complicado orientar que estas pessoas não entrem em contato com o esgoto quando ele escorre a céu aberto na frente de sua casa”, enfatiza o doutor em engenharia ambiental e professor da UVA Carlos Eduardo Canejo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/canejo.jpg?resize=373%2C373&amp;ssl=1\" alt=\"CANEJO\" width=\"373\" height=\"373\" /><figcaption>Carlos Eduardo Canejo comenta que os impactos ambientais da falta de saneamento em épocas de pandemia é agravado pelos riscos de contaminação e mais uma sobrecarga no sistema público de saúde – Foto: Arquivo Pessoal</figcaption></figure><p>Segundo o painel divulgado pelo Instituto Trata, 16,4% da população brasileira não possui acesso à água e 46,9% está sem coleta de esgoto. Só no estado do Rio de Janeiro, 9,5% da população não tem acesso à água limpa e 34,7% não possui coleta de esgoto. Esses números mostram a vulnerabilidade em que estes cidadãos vivem e o possível risco de contaminação não só por coronavírus, mas também por outras doenças.</p><p><strong>Comunidades mais pobres sofrem com a falta de saneamento</strong></p><p>Moradores do Complexo da Maré que não possuem esses recursos passaram a contar com a ajuda da ONG Data Labe. O projeto criou o “COCÔZAP – Mobilização, Mapeamento e Incidência para saneamento básico em favelas”, que atualmente atende 16 favelas do Complexo da Maré e funciona por meio de um número de whatsapp que serve para os moradores enviarem queixas sobre o saneamento na região.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-08-at-14.00.25.jpeg?resize=756%2C568&amp;ssl=1\" alt=\"\" width=\"756\" height=\"568\" /><figcaption>Membros do “Cocôzap”. O projeto é uma iniciativa da Data_labe, que funciona como um laboratório de dados e narrativas na favela da Maré (RJ) – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-08-at-14.27.34.jpeg?resize=720%2C894&amp;ssl=1\" alt=\"\" width=\"720\" height=\"894\" /><figcaption>Adiriano Mendes é morador do morro do Timbau e formado em gestão pública na UFRJ, mestrando em planejamento urbano e regional também pela UFRJ – Foto: Repordução redes sociais</figcaption></figure><p>O articulador político do projeto, Adriano Mendes, conta que o número disponibilizado para contato recebe diversas reclamações que envolvem o sistema de tratamento do lixo, do esgoto, da água, e que nesse momento de pandemia, o projeto se torna cada vez mais necessário. “Com as queixas, percebemos que o acesso a água para a prevenção é um obstáculo para os moradores de favelas. E assim, atualmente estamos produzindo novas narrativas a partir da favela, respondendo questões que são insensíveis a nossa realidade”, relata.</p><p>Para conhecer mais detalhes sobre o projeto “COCÔZAP” acesse o <a href=\"http://cocozap.datalabe.org/\">site</a></p><p>Apesar do cidadão ter direito ao saneamento básico garantido por lei, a advogada e professora de Direito da Universidade Veiga de Almeida Carla Moura comenta que ainda não existem políticas públicas eficientes e que alcancem todas as regiões do país. “O saneamento básico passa por questões socioambientais sérias tendo em vista que há uma obrigação estatal imposta pela constituição e pela citada lei em fornecer o serviço de forma regionalizada e eficiente”, destaca Carla. A advogada acrescenta ainda que o indivíduo pode recorrer tanto a defensoria pública quanto ao ministério público, mas muitos não possuem essa informação.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-08-at-15.30.32-e1588962869756.jpeg?resize=352%2C346&amp;ssl=1\" alt=\"\" width=\"352\" height=\"346\" /><figcaption>Carla Moura explica que a Lei 11.445/2007 também garante que o saneamento básico é instrumento para auxiliar a redução da pobreza e a melhoria da qualidade ambiental – Foto: Arquivo Pessoal</figcaption></figure><p>Ouça o áudio em que a Advogada Carla Moura explica como funciona a Lei 11.445/2007</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F816354301&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Áudio Carla Moura\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-08T15:36:50",
+  "date_gmt": "2020-05-08T18:36:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Lei, Estado e realidade em lugares opostos Diversos estados brasileiros possuem regiões com pouca ou total ausência de saneamento básico, o que facilita a propagação do novo coronavírus, uma vez que a premissa básica para evitar a contaminação é a higienização das mãos com água e sabão. Mesmo o cidadão tendo um direito a saneamento [&hellip;]</p>\n"
+  },
+  "featured_media": 6655,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6650"
+  },
+  "id": 6650,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-08-at-14.00.25.jpeg?fit=756%2C568&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Jg",
+  "link": "https://agenciauvabarra.com/2020/05/08/regioes-sem-saneamento-basico-expoe-populacao-ao-risco-de-contaminacao-por-covid-19/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-08T15:36:50",
+  "modified_gmt": "2020-05-08T18:36:50",
+  "ping_status": "open",
+  "slug": "regioes-sem-saneamento-basico-expoe-populacao-ao-risco-de-contaminacao-por-covid-19",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056633,
+    1828391
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Regiões sem saneamento básico expõe população ao risco de contaminação por COVID-19"
+  },
+  "type": "post"
+}

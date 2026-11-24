@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3861/revisions/3879",
+        "id": 3879
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3861"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3861",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3861/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3861"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3875"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3861",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3861",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3861",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O mercado eletrônico sucede o que era apenas uma brincadeira para um assunto milionário</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/dscn0589.jpg?resize=4896%2C3672&#038;ssl=1' alt='Palestrantes trocam experiências vividas no mundo dos eletrônicos' width='4896' height='3672'><figcaption>Palestrantes trocam experiências vividas no mundo dos eletrônicos – Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/dscn0620.jpg?resize=4896%2C3672&#038;ssl=1' alt='Danielle Mello fala sobre o engajamento dos E-Sports no mercado' width='4896' height='3672'><figcaption>Danielle Mello fala sobre o engajamento dos E-Sports no mercado – Foto: Gabriel Torres</figcaption></figure><p>Atração do momento e cada vez mais consumido, não só por adolescentes, mas também por grandes empresas. Esse é o mundo dos esportes eletrônicos e foi o assunto discutido na palestra: E-Sport – Entretenimento, engajamento e mídia, que teve o intuito de mostrar o crescimento desse mercado.</p><p>Esse “joguinho de criança” se transformou em negócios de gente poderosa. Os esportes eletrônicos vêm atraindo grandes investimentos e se fortalecendo como um dos movedores da economia digital do Brasil. O empreendimento tem público fiel, milhares de pessoas já acompanham os jogos dessa modalidade.</p><p>Com a grande visibilidade de campeonatos de E-Sport nos últimos anos, canais de televisão como o SporTV e ESPN já transmitem diversos conteúdos. Esses jogos levam uma grande quantidade de pessoas a assistirem pelas plataformas digitais dos canais e já formam um nicho de mercado, como por exemplo, o SporTV, que criou um canal no Youtube especializado no mercado eletrônico.</p><p>Um esporte tão popular no universo masculino, ainda sofre com a ausência do poder feminino. A palestrante, Danielle Mello, Gerente de Marketing Digital da Tilibra, criou a campanha “Kings and Queens”, o reality foi composto por uma equipe mista de gamers. Ela afirma que o videogame é para todos: “A verdadeira vitória foi para a igualdade de gênero”. </p><p>Confira no vídeo abaixo partes da palestra e as palavras de Luís Fernando, Redator no site Trecobox:</p><figure><iframe src='https://www.youtube.com/embed/SJCbdoVF3OI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo da palestra' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Juliana Marques – 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-27T18:44:13",
+  "date_gmt": "2019-04-27T21:44:13",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O mercado eletrônico sucede o que era apenas uma brincadeira para um assunto milionário Atração do momento e cada vez mais consumido, não só por adolescentes, mas também por grandes empresas. Esse é o mundo dos esportes eletrônicos e foi o assunto discutido na palestra: E-Sport – Entretenimento, engajamento e mídia, que teve o intuito [&hellip;]</p>\n"
+  },
+  "featured_media": 3875,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3861"
+  },
+  "id": 3861,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/dscn0589.jpg?fit=4896%2C3672&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-10h",
+  "link": "https://agenciauvabarra.com/2019/04/27/empresas-investem-no-mundo-do-e-sport/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-27T18:44:13",
+  "modified_gmt": "2019-04-27T21:44:13",
+  "ping_status": "open",
+  "slug": "empresas-investem-no-mundo-do-e-sport",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Empresas investem no mundo do E-Sport"
+  },
+  "type": "post"
+}

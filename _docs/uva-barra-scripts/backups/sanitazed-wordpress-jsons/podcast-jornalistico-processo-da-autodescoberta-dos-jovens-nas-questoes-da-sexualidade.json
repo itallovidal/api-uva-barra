@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16152/revisions/16156",
+        "id": 16156
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16152"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16152",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16152/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16152"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16155"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16152",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16152",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16152",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A relação dos jovens com a autodescoberta da sexualidade é uma questão que envolve complexidade de muitos desafios. Esse podcast jornalístico produzido pelo aluno Pedro Henrique Coelho busca entender esse processo da autoaceitação, da aceitação externa e o medo da rejeição por parte de pessoas próximas.</p><p>Para tentar esclarecer esses pontos, o programa traz para o debate relatos pessoais de um jovem e também a opinião de uma especialista para falar sobre como a juventude tenta cada vez mais criar um relacionamento saudável consigo mesmo.</p><p>Ouça o podcast completo!</p><figure><img src='https://open.spotify.com/embed/episode/0Zf4JiMZgaSIDtEDUQeoRT?si=b5MmWhADR6aD65jmxm1idA&#038;utm_source=oembed' alt='Embed Spotify' width='100%' height='152'><figcaption>Spotify Embed: Processo da autodescoberta dos jovens nas questões da sexualidade</figcaption></figure><p>*Produto produzido para a disciplina de Web Rádio e Podcast, sob a supervisão do professor Daniel Paes</p></main>"
+  },
+  "date": "2023-10-24T18:12:32",
+  "date_gmt": "2023-10-24T21:12:32",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A relação dos jovens com a autodescoberta da sexualidade é uma questão que envolve complexidade de muitos desafios. Esse podcast jornalístico produzido pelo aluno Pedro Henrique Coelho busca entender esse processo da autoaceitação, da aceitação externa e o medo da rejeição por parte de pessoas próximas. </p>\n"
+  },
+  "featured_media": 16155,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16152"
+  },
+  "id": 16152,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/lgbt-5267848_1280.png?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4cw",
+  "link": "https://agenciauvabarra.com/2023/10/24/podcast-jornalistico-processo-da-autodescoberta-dos-jovens-nas-questoes-da-sexualidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-10-26T15:52:18",
+  "modified_gmt": "2023-10-26T18:52:18",
+  "ping_status": "open",
+  "slug": "podcast-jornalistico-processo-da-autodescoberta-dos-jovens-nas-questoes-da-sexualidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Jornalístico: Processo da autodescoberta dos jovens nas questões da sexualidade"
+  },
+  "type": "post"
+}

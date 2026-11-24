@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4658/revisions/4676",
+        "id": 4676
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4658"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4658",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4658/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4658"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4662"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4658",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4658",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    407146
+  ],
+  "class_list": [
+    "post-4658",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-exposicao",
+    "tag-agencia-uva-barra",
+    "tag-ccbb",
+    "tag-cinema",
+    "tag-stephen-king",
+    "tag-stephen-king-o-medo-e-seu-melhor-companheiro",
+    "tag-terror"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Encontro promove debate sobre as obras do autor</em></p><p>Dos livros para o cinema. Centro Cultural Banco do Brasil realizou, na última sexta-feira (16), uma retrospectiva da carreira do conhecido mestre do terror. Idealizada pelos curadores Breno Lira Gomes e Rita Ribeiro, a palestra faz parte da mostra de filmes “Stephen King: medo é seu melhor companheiro”, e tem o objetivo de aproximar o público do processo de criação e escolha dos longas-metragens para exibição.</p><p>Durante o bate-papo, o curador ressaltou que é preciso apresentar o autor para um novo público por meio das obras adaptadas para o cinema e debater as temáticas abordadas, permitindo uma reflexão além do filme. “Na década de 70 Stephen King já trabalhava temáticas como o Bullying no livro e no filme Carrie, e que só seriam debatidas anos mais tarde”, afirma.</p><p>Produzir uma mostra na cidade carioca acarreta algumas dificuldades. Breno comenta que com o aumento da violência e da corrupção no Rio de Janeiro muitos patrocinadores não querem associar as marcas ao Estado. O que contribuiu para que o projeto baseado nos famosos contos de horror demorasse 4 anos para sair do papel.</p><blockquote>“A perda de credibilidade do Rio prejudica a produção de peças culturais e a volta de outros espetáculos”. – Breno Lira Gomes</blockquote><p>Apesar dos obstáculos, o estudante Vítor Torres destaca a importância do CCBB em proporcionar mostras sobre a carreira de grandes artistas. “Hoje em dia, a cultura precisa ser mais valorizada e mais acessível para que todos conheçam obras de autores como o Stephen King”, disse.</p><p>A variedade de produtos audiovisuais existentes no Centro Cultural chamou a atenção do crítico e jornalista Franscico Raboni. “O CCBB promove mostras de cinema completamente diversificadas e isso é incrível”, conclui.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/screenshot_20190819-173201_photos.jpg?resize=472%2C265&amp;ssl=1\" alt=\"Jornalista e crítico Francisco Raboni fala sobre seu amor pelas obras do autor Stephen king- Foto: Lucas Souza\" width=\"472\" height=\"265\" /><figcaption>Jornalista e crítico Francisco Raboni fala sobre seu amor pelas obras do autor Stephen king- Foto: Lucas Souza</figcaption></figure><p><strong>Lucas Souza – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-08-20T14:00:00",
+  "date_gmt": "2019-08-20T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Encontro promove debate sobre as obras do autor Dos livros para o cinema. Centro Cultural Banco do Brasil realizou, na última sexta-feira (16), uma retrospectiva da carreira do conhecido mestre do terror. Idealizada pelos curadores Breno Lira Gomes e Rita Ribeiro, a palestra faz parte da mostra de filmes “Stephen King: medo é seu melhor [&hellip;]</p>\n"
+  },
+  "featured_media": 4662,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4658"
+  },
+  "id": 4658,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190816_151330.jpg?fit=4128%2C3096&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1d8",
+  "link": "https://agenciauvabarra.com/2019/08/20/o-medo-e-o-terror-de-stephen-king-movimentam-o-ccbb/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-20T14:55:45",
+  "modified_gmt": "2019-08-20T17:55:45",
+  "ping_status": "open",
+  "slug": "o-medo-e-o-terror-de-stephen-king-movimentam-o-ccbb",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    489719,
+    767056592,
+    7227,
+    685270424,
+    8812
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O medo e o terror de Stephen King movimentam o CCBB"
+  },
+  "type": "post"
+}

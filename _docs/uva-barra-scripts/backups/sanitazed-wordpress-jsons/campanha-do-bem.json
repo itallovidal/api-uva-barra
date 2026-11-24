@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/806/revisions/3333",
+        "id": 3333
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=806"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/806",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/806/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=806"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=806",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=806",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-806",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Alunos de Direito Ambiental da Universidade Veiga de Almeida (UVA) se unem para final de semana de práticas sustentáveis na cidade de Ipiabas</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/cachoeiraaaaa.png?resize=690%2C589&amp;ssl=1\" alt=\"CACHOEIRAAAAA\" width=\"690\" height=\"589\" /><figcaption></figcaption></figure><p>Já se tornou uma tradição. O projeto final da matéria Direito Ambiental, ministrada pela professora Carla Cardoso, que acontece semestralmente, transforma a teoria em prática e coloca os alunos em ação de responsabilidade socioambiental. Nesse final de semana, 27 e 28 de maio, os futuros profissionais do Direito irão sinalizar e limpar a cachoeira de Ipiabas, e dar palestra de conscientização para a comunidade. A próxima ação do <em>“Consciência Carioca”</em> será no 10 de junho com o projeto <em>“Suipe-se”.</em></p><p>Esse semestre a proposta da cachoeira de Ipiabas foi da aluna Rayane Arantes, 20 anos, que chamou atenção para a necessidade de consciência ambiental na cidade. <em>&#8220;Eu frequentava com meus amigos e percebi que o local estava muito maltratado. Eu precisava fazer algo para mudar isso!”.</em> A ação também entrará em contato direto com a comunidade local por meio de palestra e ensinará a transformar lixo em brinquedos para promover a ideia de sustentabilidade.</p><p>Ideia, essa, que a professora e coordenadora do projeto, Carla Cardoso, também quer passar para os alunos. <em>“O intuito é sensibilizá-los para que eles possam se tornar agentes multiplicadores dessa causa e com isso atingir mais pessoas”,</em> explica Carla, que também ressalta a importância de mostrar a legislação ambiental na prática. Outro projeto de Carla Cardoso e alunos da UVA é o “Suipe-se”, que está arrecadando produtos para cães e gatos no campus Barra. No dia 10 de Junho, os estudantes se reúnem para interação com animais e sessão de fotos, que resultará em uma campanha de adoção virtual.</p><p><em> Yhara Linka, 6º período e Giovanna Faria, 4º período.</em></p></main>"
+  },
+  "date": "2017-05-24T13:42:00",
+  "date_gmt": "2017-05-24T16:42:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alunos de Direito Ambiental da Universidade Veiga de Almeida (UVA) se unem para final de semana de práticas sustentáveis na cidade de Ipiabas Já se tornou uma tradição. O projeto final da matéria Direito Ambiental, ministrada pela professora Carla Cardoso, que acontece semestralmente, transforma a teoria em prática e coloca os alunos em ação de [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=806"
+  },
+  "id": 806,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-d0",
+  "link": "https://agenciauvabarra.com/2017/05/24/campanha-do-bem/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:54:44",
+  "modified_gmt": "2019-02-28T19:54:44",
+  "ping_status": "open",
+  "slug": "campanha-do-bem",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Campanha do bem"
+  },
+  "type": "post"
+}

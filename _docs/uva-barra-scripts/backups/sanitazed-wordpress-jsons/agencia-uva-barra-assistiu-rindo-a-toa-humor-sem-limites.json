@@ -1,0 +1,154 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4286/revisions/4522",
+        "id": 4522
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4286"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4286",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4286/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4286"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4286",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4286",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-4286",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema",
+    "tag-rindo-a-toa-humor-sem-limites"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/thumbnail_image004-e1559067177580.jpg?resize=230%2C392&amp;ssl=1' alt='' width='230' height='392' /><figcaption>Foto: Divulgação</figcaption></figure><p>\"Rindo à Toa – Humor sem Limites\", dirigido por Cláudio Manoel (ex-Casseta e Planeta), Álvaro Campos e Alê Braga conta com um grande número de entrevistados, tais como Regina Casé, Miguel Falabella, Hélio de la Peña, Andréa Beltrão, Daniel Filho, Marcelo Tas, dentre muitos outros e explora de uma maneira leve e descontraída a liberdade construída pelos humoristas no período pós-Regime Militar, após a reabertura política do país.</p><p>As entrevistas, recheadas de histórias de bastidores, evidenciam que essa geração se aproveitou da oportunidade com a volta da democracia para destilar o humor de formas mais ácidas e até agressivas, respaldados pela certeza de que a censura não seria mais um obstáculo em seus caminhos. Como numa linha do tempo, acompanhamos a evolução na comédia e no humor desde 1988 até meados dos anos 2000 durante os depoimentos dos artistas.</p><p>O documentário expõe o que cada um dos entrevistados pensa em relação ao politicamente correto e é bem interessante perceber as sutis diferenças entre seus depoimentos e argumentos, que flutuam entre utilizar esta ferramenta do humor de modo mais racional, evitando algum tipo de excesso, enquanto outros se posicionam mais direto e com teor mais polêmico, como é o caso do músico Roger, de Ultraje à Rigor, que em determinado momento expõe a ideia de chamar alguém de \"preto\" não é com a intenção de ofender, mas constatar um fato.</p><p>Fica claro que levantar discussões na sociedade acerca da comédia é o mote principal. A mensagem é que, por mais transgressora e polêmica seja a ideia que carrega o humor, esta veio para nos cutucar, incomodar e refletir sobre nós mesmos e nosso cotidiano. Isto posto, fica clara a defesa que esta teoria não serve de muleta para ofensas gratuitas.</p><p>Qualidades à parte, a quantidade de entrevistas pode ser considerada um exagero, embora todas as personagens tenham boas histórias e conteúdos interessantes à compartilhar com o público, mas, de fato, cria uma gordura evitável e talvez desnecessária, podendo não agradar aos mais severos ou impacientes.</p><p>\"Rindo à Toa – Humor sem Limites\", com sua linguagem leve e bem-humorada consegue, paulatinamente, levantar e discutir questões sobre o humor sem perder o ritmo. O longa estreia em cinemas de todo o país no dia 31 de maio de 2019.</p><figure><iframe src='https://www.youtube.com/embed/IBvPRGsYOGY?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><strong>Kadu Zargalio – 3º Período | Produção Audiovisual</strong></p></main>"
+  },
+  "date": "2019-05-28T15:15:04",
+  "date_gmt": "2019-05-28T18:15:04",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>&#8220;Rindo à Toa &#8211; Humor sem Limites&#8221;, dirigido por Cláudio Manoel (ex-Casseta e Planeta), Álvaro Campos e Alê Braga conta com um grande número de entrevistados, tais como Regina Casé, Miguel Falabella, Hélio de la Peña, Andréa Beltrão, Daniel Filho, Marcelo Tas, dentre muitos outros e explora de uma maneira leve e descontraída a liberdade [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4286"
+  },
+  "id": 4286,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-178",
+  "link": "https://agenciauvabarra.com/2019/05/28/agencia-uva-barra-assistiu-rindo-a-toa-humor-sem-limites/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-07-02T15:12:54",
+  "modified_gmt": "2019-07-02T18:12:54",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-rindo-a-toa-humor-sem-limites",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    680550276
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência Uva Barra assistiu: &#8220;Rindo à Toa &#8211; Humor sem Limites&#8221;"
+  },
+  "type": "post"
+}

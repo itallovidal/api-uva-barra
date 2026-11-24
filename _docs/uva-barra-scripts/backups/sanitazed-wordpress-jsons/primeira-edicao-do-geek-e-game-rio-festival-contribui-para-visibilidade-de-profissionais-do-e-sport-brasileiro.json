@@ -1,0 +1,155 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/290/revisions/3359",
+        "id": 3359
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=290"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/290",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 14,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/290/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=290"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=290",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=290",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    257,
+    758
+  ],
+  "class_list": [
+    "post-290",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-geek",
+    "category-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Torneio do game Rainbow Six Siege deixa público eufórico e Santos Dexterity termina como campeão</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/dsc_0650.jpg?ssl=1' alt='DSC_0650.JPG' /><figcaption>Equipe Black Dragon em ação</figcaption></figure><p>O start foi pressionado. Nesta última sexta-feira (21/04) foi dado um importante passo para esclarecer e divulgar a cultura game que ainda gera muitas dúvidas, desinformação e preconceitos. O Geek & Games Rio Festival, pela primeira vez no Brasil, reuniu as melhores equipes, Black Dragons e Santos Dexterity no torneio de Rainbow Six Siege, que foram ovacionadas pelo público apaixonado por e-sports. A disputa foi acirrada, teve no total cinco partidas dominadas pelo favorito Black Dragons e surpreendeu com a reviravolta de Santos Dexterity que levou a taça Geek e Game para casa.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/dsc_0638.jpg?ssl=1' alt='DSC_0638.JPG' /><figcaption>Equipe vitoriosa Santos Dexterity</figcaption></figure><p>Esse torneio é um dos resultados do crescimento do universo geek no Brasil e no mundo. Ele faz parte de um novo mercado lucrativo que preve arrecadar cerca de 700 milhões de dólares em 2017, de acordo com a pesquisa realizada pela NewZoo. O estudante de Publicidade, Ulisses Oliveira, de 20 anos, por meio do canal no Youtube, XTRTV, mostra a importância dos esportes eletrônicos com narrações de disputas automobilísticas virtuais. \"Os e-sports não se resumem apenas a entreterimento, é também um meio de trabalho, no qual é preciso investimento em equipamentos e no preparo físico e psicológico dos jogadores, da mesma maneira como acontece nos esportes\".</p><p>Outro fator primordial para realização eficaz dos e-sports é uma boa comunicação entre os membros das equipes para que haja harmonia no grupo na hora de um torneio. O capitão do Santos Dexterity, Guilherme Gohan, demonstrou cuidado com isto. \"A interação é fundamental para sempre lembrar o objetivo que é a vitória e não perder o foco, pois cada round é um round\". Nessa mesma linha, a cyberatetla do Rainbow Six Siege, dona da Black Dragons, Nicolle, conhecida como \"Cherrygumms\", afirma que faz do time uma família e recebe apoio incondicional dos fãs. \"Entrar em um torneio em que muita gente grita 'Cherry, tira uma foto comigo' é muito emocionante, é um sentimento maior, é gratidão\", emociona-se.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/dsc_0615.jpg?ssl=1' alt='DSC_0615.JPG' /><figcaption>Torcedores interagem com as partidas</figcaption></figure><p>Essa emoção, as torcidas organizadas e estratégias técnicas só reiteram as semelhanças entre os esportes tradicionais e os e-sports – o último, por sua vez, com pouca visibilidade e reconhecimento pela mídia e população geral. Por isso, é unânime entre profissionais e torcedores, a importância de eventos como Geek & Game Rio Festival para promoção e divulgação desse universo. \"As pessoas precisam ver a evolução dos e-sports e conhecer mais sobre o mundo geek para entender que são competições tão válidas e profissionais como qualquer outro esporte\", enfatiza Christian Andrade, 15 anos, que sonha em tornar-se um cyberatleta e aguarda com esperança que nos próximos anos o mundo o reconheça como tal.</p><p><em>Isabelle Amancio, 3° período e Yhara Linka, 6° período.</em></p></main>"
+  },
+  "date": "2017-04-22T21:27:51",
+  "date_gmt": "2017-04-23T00:27:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Torneio do game Rainbow Six Siege deixa público eufórico e Santos Dexterity termina como campeão O start foi pressionado. Nesta última sexta-feira (21/04) foi dado um importante passo para esclarecer e divulgar a cultura game que ainda gera muitas dúvidas, desinformação e preconceitos. O Geek &amp; Games Rio Festival, pela primeira vez no Brasil, reuniu [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=290"
+  },
+  "id": 290,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4G",
+  "link": "https://agenciauvabarra.com/2017/04/22/primeira-edicao-do-geek-e-game-rio-festival-contribui-para-visibilidade-de-profissionais-do-e-sport-brasileiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T17:13:49",
+  "modified_gmt": "2019-02-28T20:13:49",
+  "ping_status": "open",
+  "slug": "primeira-edicao-do-geek-e-game-rio-festival-contribui-para-visibilidade-de-profissionais-do-e-sport-brasileiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Primeira Edição do Geek e Game Rio Festival contribui para visibilidade de profissionais do e-sport brasileiro"
+  },
+  "type": "post"
+}

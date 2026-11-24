@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18875/revisions/18901",
+        "id": 18901
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18875"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18875",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18875/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18875"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18879"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18875",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18875",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    670411728,
+    14603,
+    713047979,
+    39479,
+    701438832
+  ],
+  "class_list": [
+    "post-18875",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-podseries",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-podserie",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Um corpo tatuado também é um corpo marcado. Esse manifesto social foge de alguns padrões estéticos como um ato de liberdade e pertencimento. Esses corpos carregam histórias, memórias e escolhas, cada traço é uma narrativa gravada na pele, uma vez que o corpo tatuado também é um corpo político.</p><p>Brasil é o 9º país com mais pessoas tatuadas, segundo pesquisa da Dínamus Comunicação, mas o preconceito ainda persiste, principalmente contra quem tem tatuagens extensas e em áreas visíveis do corpo. A prática, que antes foi marginalizada, hoje é reconhecida como forma de expressão artística e política, transformando a pele em espaço de identidade e resistência social.</p><p>Apesar do avanço na aceitação cultural, a tatuagem ainda pode gerar discriminação, especialmente em ambientes profissionais e sociais conservadores. Neste contexto, o tatuador “PH” e Daniele compartilham sua trajetória e mostram como um desenho na pele pode carregar múltiplos significados de estilo de vida e arte até manifestação pessoal.</p><figure><img src='https://open.spotify.com/embed/episode/35uzn94QKdmTE5LA3gBiMf?si=S0Z0txNiSYWTDKSxnIn-_w&#038;utm_source=oembed' alt='Embed Spotify' width='100%' height='152'><figcaption>Todo Corpo Pod(e) #03-As marcas que a gente escolhe</figcaption></figure><p>Equipe Todo Corpo Pod(e):</p><p>Julia Brito</p><p>Júlia Petito</p><p>Laura Frison</p><p>Luiz Felipe Barbosa</p><p>Maria Luiza Carvalho</p><p>Rayssa Gomes</p><p>Thaissa Matos</p><p>Equipe Agência UVA Barra:<br>Duda Nicolich</p><p>Carolina Alves</p></main>"
+  },
+  "date": "2025-08-27T19:03:52",
+  "date_gmt": "2025-08-27T22:03:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O corpo tatuado é um corpo político </p>\n"
+  },
+  "featured_media": 18879,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18875"
+  },
+  "id": 18875,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/img_7173.jpeg?fit=828%2C551&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Ur",
+  "link": "https://agenciauvabarra.com/2025/08/27/podcast-radio-uva-barra-todo-corpo-pode-as-marcas-que-a-gente-escolhe/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-08-28T17:50:24",
+  "modified_gmt": "2025-08-28T20:50:24",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-todo-corpo-pode-as-marcas-que-a-gente-escolhe",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    712276378,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Todo Corpo Pod(e): As marcas que a gente escolhe"
+  },
+  "type": "post"
+}

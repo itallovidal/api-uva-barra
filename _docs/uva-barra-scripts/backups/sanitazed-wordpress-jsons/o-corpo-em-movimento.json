@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1920/revisions/3115",
+        "id": 3115
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1920"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1920",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1920/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1920"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1920",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1920",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    72064
+  ],
+  "class_list": [
+    "post-1920",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-saude"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Professor da UVA, a convite da Cidade das Artes, promove palestra sobre A Mentalidade do Crescimento</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/20180428_170717.jpg?resize=4128%2C3096&amp;ssl=1' alt='20180428_170717' width='4128' height='3096' /><figcaption>Foto: Graziela Andrade</figcaption></figure><p>Sair da rotina e criar novos hábitos contribuem para o crescimento pessoal. O encontro Comida, Diversão e Arte, que aconteceu no último sábado (28/04), recebeu o Professor da Universidade Veiga de Almeida (UVA) Antônio Carlindo Câmara Lima, na sala de leitura da Cidade das Artes, Barra da Tijuca. O bate-papo apresentou a importância de se manter em constante movimento para preservar o equilíbrio da inteligência física, mental e emocional. Além de discutir sobre a movimentação constante do corpo, temas como o valor da nutrição e da prática do exercício na vida diária foram abordados durante a palestra.</p><p>Dentre esses tópicos, é na filosofia que o professor encontra as explicações para as problemáticas dos dias atuais relacionadas às crises vividas e identifica na Teoria da Responsabilidade, do filósofo Marco Aurélio, uma resposta para as dificuldades cotidianas. \"O erro que muitas pessoas cometem é buscar culpados para os próprios erros e não é assim que se cresce\", afirma. A mudança de padrão e do desenvolvimento mental são fundamentais para o crescimento pessoal, de acordo com ele. \"A ideia é não se paralisar, mudar a rotina, às vezes é preciso só entrar em movimento\", reforça.</p><p>Durante o debate, o palestrante propôs uma prática com balões coloridos como uma maneira de integração entre o público presente e por meio da atividade mostrou a importância de sair da inércia. Para o artista visual Antônio Roberto, 53 anos, a criatividade é um fator fundamental para compartilhar com as outras pessoas. \"O movimento é o que estimula a gente a pensar melhor e você se move da maneira que o seu corpo se disponibiliza\", enfatiza.</p><p>Quem também se identifica com essas ideologias é a arteterapeuta Vanda Freitas, 64 anos, que vê na atividade física um estímulo. \"O meu dia fica muito melhor, me sinto com mais vontade de fazer as minhas tarefas\", garante Vanda. Motivado por esse novo desafio de levar conhecimento para as pessoas, o Professor Antônio busca alcançar a evolução da consciência. \"O corpo é sábio e se desenvolve naturalmente, eliminando o que não serve e desenvolvendo o que é importante. O único erro que temos é não entrar em movimento\" conclui.</p><p><strong>Graziela Andrade, 4º período</strong></p></main>"
+  },
+  "date": "2018-05-02T14:02:08",
+  "date_gmt": "2018-05-02T17:02:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Professor da UVA, a convite da Cidade das Artes, promove palestra sobre A Mentalidade do Crescimento Sair da rotina e criar novos hábitos contribuem para o crescimento pessoal. O encontro Comida, Diversão e Arte, que aconteceu no último sábado (28/04), recebeu o Professor da Universidade Veiga de Almeida (UVA) Antônio Carlindo Câmara Lima, na sala [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1920"
+  },
+  "id": 1920,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-uY",
+  "link": "https://agenciauvabarra.com/2018/05/02/o-corpo-em-movimento/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:51:28",
+  "modified_gmt": "2019-01-31T14:51:28",
+  "ping_status": "open",
+  "slug": "o-corpo-em-movimento",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "O corpo em movimento"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8975/revisions/8987",
+        "id": 8987
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8975"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8975",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8975/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8975"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8984"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8975",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8975",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    7114,
+    268277
+  ],
+  "class_list": [
+    "post-8975",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-sociedade",
+    "category-solidariedade",
+    "tag-pascoa"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Movimento social distribui palavras de esperança e chocolate na Páscoa</em></p><p>O Brasil continua enfrentando um momento difícil por conta de crises econômicas e políticas em decorrência da pandemia do Covid-19. Entretanto, o período da Páscoa ressignifica esse momento de angústia. Se para os Judeus a “Pessach”, Páscoa, significa libertação e para os cristões renascimento, para Izabele Santiago fundadora do Movimentos ‘Mulheres do BeN’ se define por resiliência.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/destaque.jpeg?resize=1024%2C768&amp;ssl=1\" alt=\"\" width=\"1024\" height=\"768\"><figcaption>Ação realizada dia 02/04 na Unidade de Urgência da Rasa Eva da Conceição Oliveira. Foto: arquivo pessoal.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/embalagens.jpeg?resize=1280%2C720&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"720\"><figcaption>Chocolates embalados e preparados para ação de Páscoa. Foto: arquivo pessoal.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/cartas.jpeg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\"><figcaption>Cartas enviadas para homenagear profissionais da saúde. Foto: arquivo pessoal.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/carta.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"></figure><p>O projeto nasceu dentro de um CTI em Campo Grande, Zona Oeste do Rio de Janeiro, após Izabele ter tido um parto prematuro de gêmeos. Com apenas 6 meses de vida, Maria Antônia e Benjamin vieram ao mundo para trazer alegria. Porém, Maria faleceu logo após o nascimento e Benjamin depois de passar por 13 cirurgias ficou com a família por apenas 1 ano e 3 meses no hospital. A partir desse momento, Izabele se motivou ainda mais a amar ao próximo.</p><blockquote><p><em>“Foram tempos difíceis, mas pessoas vieram me amar lá no hospital. Então, não tem como eu não querer fazer ações assim. Eu quero sorrisos!”</em></p><cite> Izabele Santiago </cite></blockquote><p>Em busca de adoçar a vida das pessoas, em 2018 na época da Páscoa, o Movimento social Mulheres do BeN promoveu almoços para os acompanhantes dos pacientes que estavam internados ou chegaram na emergência do Instituto Nacional do Câncer. Já em 2019, houve distribuição de flores.</p><p>Na ação de Páscoa deste ano o projeto irá distribuir cartas com recados escritos à mão junto com chocolates para agradecer a todos os profissionais da saúde que têm se desdobrado para cuidar de cada paciente internado pela Covid- 19. Em média, serão 2000 profissionais atendidos, distribuídos em hospitais e UPA do estado do Rio de Janeiro, por mais de 30 voluntários.</p><blockquote><p><em>“A situação caótica em que estes profissionais estão inseridos, o desgaste físico e emocional causado pela pandemia me motivou a homenagear quem nos salva esse ano”</em></p><cite> Izabele Santiago </cite></blockquote><p>A pandemia causada pela Covid-19 tem afetado diretamente a saúde mental de profissionais de saúde, de acordo com site PebMed, 83% deles estão sendo diagnosticados com Síndrome de Burnout, por conta da exaustão do dia a dia. Por isso, um gesto simples como o de Izabele pode significar muito. Apesar de ter diminuído as ações sociais, ela conta que o primordial é se proteger.</p><blockquote><p><em>“Diminuímos nossas ações de amor porque a responsabilidade em amar ao próximo, passa por se amar em primeiro lugar”</em></p><cite> Izabele Santiago </cite></blockquote><p>A resiliência se define por ser adaptável às situações difíceis que a vida nos trás. Izabele mostrou mostrou que é possível sorrir em meio à dor, frase utilizada como slogan do projeto, que o mundo se transforma através de atitudes. “Tudo começa com uma pequena semente, nada começa grande”, comenta Izabele. A voluntária Ana Paula Betina que está no Movimento Mulheres do BeN desde que o projeto era só uma ideia no papel comenta sobre a ação desse ano: “É uma forma singela de agradecer cada um deles, desde o maqueiro até o médico. A eles devemos essa honra!”. Ouça o áudio da Voluntária Ana Paula Betina contando como se sentiu participando da ação.</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1021742161&amp;auto_play=true&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Áudio Páscoa\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe><blockquote><p><em>“Nossa intenção é incentivar mais pessoas a fazer o mesmo. Eu posso mudar o mundo, começando pela minha rua, pelo meu bairro, pela minha cidade, o importante é começar”</em></p><cite> Izabele Santiago </cite></blockquote><p><em>Natália Lisboa – 6º período</em></p></main>"
+  },
+  "date": "2021-04-03T17:25:40",
+  "date_gmt": "2021-04-03T20:25:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Movimento social distribui palavras de esperança e chocolate na Páscoa O Brasil continua enfrentando um momento difícil por conta de crises econômicas e políticas em decorrência da pandemia do Covid-19. Entretanto, o período da Páscoa ressignifica esse momento de angústia. Se para os Judeus a “Pessach”, Páscoa, significa libertação e para os cristões renascimento, para [&hellip;]</p>\n"
+  },
+  "featured_media": 8984,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=8975"
+  },
+  "id": 8975,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/agencia-uva-barra_-laboratorio-reproduz-a-rotina-jornalistica-na-faculdade-8.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2kL",
+  "link": "https://agenciauvabarra.com/2021/04/03/pequenos-gestos-que-transformam-o-amargo-em-doce/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-04-03T17:41:16",
+  "modified_gmt": "2021-04-03T20:41:16",
+  "ping_status": "open",
+  "slug": "pequenos-gestos-que-transformam-o-amargo-em-doce",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    902875
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Pequenos gestos que transformam o amargo em doce"
+  },
+  "type": "post"
+}

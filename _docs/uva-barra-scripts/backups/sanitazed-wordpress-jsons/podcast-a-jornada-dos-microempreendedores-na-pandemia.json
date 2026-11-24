@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9876/revisions/9881",
+        "id": 9881
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9876"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9876",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9876/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9876"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9880"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9876",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9876",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    11716206
+  ],
+  "class_list": [
+    "post-9876",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-economia-2",
+    "tag-agencia-uva-barra",
+    "tag-coronavirus",
+    "tag-empreendedorismo",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: A jornada dos microempreendedores na pandemia\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6I2ncwYmG8t05cBKw793Fn?si=DXJpY3H7TDKZaKpp32Zo2A&#038;dl_branch=1&#038;utm_source=oembed\"></iframe></figure><p>Com a paralisação de diversos setores no mercado de trabalho e com o desemprego na faixa de 14,7 % no primeiro trimestre deste ano, muitas pessoas buscaram alternativas para contornar a crise econômica e se reinventar. Houve um crescimento de 8,4 % no números trabalhadores independentes, e, de acordo com o portal do empreendedor do governo federal, já são 11,3 milhões de registros ativos.</p><p>Nesse episódio dos podcasts jornalísticos da Rádio UVA Barra, nossos repórteres entrevistaram os empreendedores Matheus Maciel e Duda Branches e o professor de economia da Universidade Veiga de Almeida, Durval Meirelles, para entender os desafios e necessidades de empreender na pandemia. </p><p><em>Aline Izabele Alves De Oliveira – 5º período<br>Sabrina Marques – 3º período </em></p></main>"
+  },
+  "date": "2021-07-29T14:50:38",
+  "date_gmt": "2021-07-29T17:50:38",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>om a paralisação de diversos setores no mercado de trabalho e com o desemprego na faixa de 14,7 % no primeiro trimestre deste ano, muitas pessoas buscaram alternativas para contornar a crise econômica e se reinventar. Houve um crescimento de 8,4 % no números trabalhadores independentes, e, de acordo com o portal do empreendedor do governo federal, já são 11,3 milhões de registros ativos.</p>\n"
+  },
+  "featured_media": 9880,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9876"
+  },
+  "id": 9876,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/podcast-microempreendedores.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2zi",
+  "link": "https://agenciauvabarra.com/2021/07/29/podcast-a-jornada-dos-microempreendedores-na-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-29T14:50:38",
+  "modified_gmt": "2021-07-29T17:50:38",
+  "ping_status": "open",
+  "slug": "podcast-a-jornada-dos-microempreendedores-na-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056633,
+    767056606,
+    1142,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: A jornada dos microempreendedores na pandemia"
+  },
+  "type": "post"
+}

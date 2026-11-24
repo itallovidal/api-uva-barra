@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18659/revisions/18666",
+        "id": 18666
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18659"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18659",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18659/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18659"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18663"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18659",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18659",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    632602,
+    22,
+    14603,
+    7114
+  ],
+  "class_list": [
+    "post-18659",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-diversidade",
+    "category-internet",
+    "category-jornalismo",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Dados de uma pesquisa realizada pela Unesp em conjunto com a USP em 2022, cerca de 12% da população adulta brasileira faz parte da comunidade LGBTQIAPN+, sendo 5,76% assexuais, 2,12% bissexuais, 1,37% gays, 1,18% não-binários, 0,93% lésbicas e 0,68% transgênero.</em></p><p>A comunidade LGBTQIAPN+ tem conquistado mais espaço na sociedade, ainda que não seja um avanço tão significativo. De acordo com dados da Organização Grupo Gay da Bahia, divulgados em 2023, a cada 30 horas uma pessoa LGBTQIAPN+ era morta violentamente. Apesar de sofrer inúmeros tipos de violência essas pessoas resistem e persistem pelo direito de existir e se expressar de acordo com suas orientações sexuais e identidades de gênero, apenas viver normalmente como pessoas hétero e cisgênero têm feito há décadas.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/07/285c656c-c4c4-416f-98da-b08e6cb93b0e.jpeg?resize=3421%2C2296&#038;ssl=1' alt='Imagem de Arquivo Pessoal.' width='3421' height='2296' /><figcaption>Imagem de Arquivo Pessoal.</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/07/fb2ece22-7f49-4777-b798-547bfce20ad1.jpeg?resize=1064%2C1064&#038;ssl=1' alt='Imagem de arquivo pessoal. Vanusa é conhecida como VanVan da cuíca e participa de desfiles na Sapucaí junto de seus alunos.' width='1064' height='1064' /><figcaption>Imagem de arquivo pessoal. Vanusa é conhecida como VanVan da cuíca e participa de desfiles na Sapucaí junto de seus alunos.</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/07/d8db2ae0-f308-4dbd-8667-b4742f7141fb.jpeg?resize=1280%2C1046&#038;ssl=1' alt='Imagem de arquivo pessoal. Marcelo é casado com um homem há 1 ano, ele explica que o discurso preconceituoso é prejudicial para toda a sociedade.' width='1280' height='1046' /><figcaption>Imagem de arquivo pessoal. Marcelo é casado com um homem há 1 ano, ele explica que o discurso preconceituoso é prejudicial para toda a sociedade.</figcaption></figure><p>Para pessoas entre os 40 e 60 anos, falar sobre sexualidade pode ser um tabu. Há uma crença de que a exploração da sexualidade e quaisquer outras questões envolvendo a vida sexual sejam exclusivamente reservadas à vida do jovem adulto. Debater sobre a própria sexualidade com os pais ou amigos há décadas não era convidativo ou construtivo, principalmente se houvesse religiosidade nesse círculo, então se redescobrir para essas pessoas pode ser um processo tardio.</p><p>Vanusa da Silva, tem 56 anos, é professora de percussão e dá aulas de cuíca. A professora disse que mesmo com comentários desagradáveis sobre sua sexualidade nunca se deixou afetar e acredita que sexualidade não tem idade pois o carinho e o amor vão além de limites impostos pela sociedade. “Eu sempre entendi que o amor é entre pessoas e por isso se meu companheiro ou companheira me deixava feliz, era ali que ficava. Sou casada há 21 anos com uma mulher maravilhosa que me apoia em todas as aventuras. Pretendo ficar mais que o dobro disso com ela”, afirmou Vanusa.</p><p>Marcelo Alves de Resende é jornalista especializado em raça, gênero e sexualidade. O jornalista explicou que abordar sexualidade é importante para quebrar preconceitos existentes contra pessoas com mais de 40 anos dentro e fora da comunidade LGBTQIAPN+. “É uma geração que tem conquistado direitos, tem estudado mais, conseguido mais garantias, tem uma vida mais estruturada e que, consequentemente, vai avançando. Tendo mais condições de avançar em termos de idade, o que praticamente no passado não existia. Hoje, com algumas políticas públicas de renda, que também afetaram a população LGBT, estão conseguindo chegar a idades mais avançadas e é importante ter dentro de produções midiáticas, essa representatividade para dizer que essa população existe e que precisa ser pensada”, concluiu ele.</p><p>Diversos momentos na mídia brasileira serviram como uma amostra da LGBTQIAPNfobia e etarismo ainda muito fortes na nossa sociedade. Um exemplo é o caso do cantor e compositor Lulu Santos, que após revelar sua bissexualidade publicamente em 2018, foi alvo de comentários e ofensas extremamente preconceituosas que invalidam sua sexualidade, não ser um homem jovem também é um agravante para esse preconceito. Atualmente Lulu Santos tem 72 anos e seu casamento com Clebson Teixeira segue firme.&nbsp;</p><p>Leandro Cardoso tem 44 anos e trabalha como técnico de radiologia e diz existir uma sub-representação da comunidade LGBTQIAPN+ em produtos midiáticos que ainda não os representa apropriadamente. O técnico complementou dizendo que a diversidade é importante para que haja novas ideias e perspectivas que sejam positivas e justas para a sociedade como um todo e que é essencial desvincular a noção de que a vida sexual ativa é exclusividade dos jovens. Leandro contou que sua jornada para descobrir sua sexualidade foi difícil, principalmente a aceitação em casa.</p><p>Para a professora de percussão os círculos sociais também são responsáveis por moldar os ideais de uma pessoa, ela disse que a importância de gerar filhos é um dos pontos agravantes para a crença num modelo familiar correto e que deve ser seguido, a heteronormatividade. “Se o grupo social for constituído de famílias diversas, o debate vai muito além da sexualidade. Seria bem melhor se preocupar com os mais necessitados por moradia, com a fome, com a saúde e bem estar de todos”, explicou Vanusa.</p><p>O jornalista explicou que discutir sexualidade também auxilia na desconstrução da performatividade de gênero, quebrando as lentes heterosexistas e cisgênero, como por exemplo a ideia de que um homem deve ser macho, forte e viril, invisibilizando as outras formas de performar masculinidade. Para ele, as redes sociais podem ajudar bastante na normalização da sexualidade na vida adulta. “Uma sociedade cisgênero e binária, age dessa forma, ela violenta. Inclusive, mata pessoas que têm outras performatividades presentes nas minorias que vemos hoje em dia, logo é importante, sobretudo, trazer essas pautas para dentro das escolas, porque é nas escolas que formamos os indivíduos, é nas escolas que formamos os adultos”, concluiu Marcelo.</p><p>Nas redes sociais, é possível encontrar pessoas com mais de 40 anos que compartilham um pouco de suas vidas com os usuários ali presentes. Perfis como o LGBT+60 contam histórias de pessoas LGBTQIAPN+ agora idosas, esse tipo de conteúdo ajuda na naturalização da sexualidade para pessoas com mais de 40 ou 50 anos.</p><p>É preciso estar mais atento à população LGBTQIAPN+, apenas em 2019 foi realizada a primeira pesquisa sobre sexualidade, sem dados sobre identidade de gênero, do IBGE e desde então não há dados atualizados do instituto. Com mais dados sobre essa parcela da população, é possível dar voz a elas, desde os mais jovens aos mais velhos, e prover melhores condições de vida para elas e normalizar as diversas formas de amor e de performance de gênero para pessoas acima dos 40 anos.</p><p><em>Por Luiza Moura, 7 período.</em></p></main>"
+  },
+  "date": "2025-07-09T11:46:21",
+  "date_gmt": "2025-07-09T14:46:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Dados de uma pesquisa realizada pela Unesp em conjunto com a USP em 2022, cerca de 12% da população adulta brasileira faz parte da comunidade LGBTQIAPN+, sendo 5,76% assexuais, 2,12% bissexuais, 1,37% gays, 1,18% não-binários, 0,93% lésbicas e 0,68% transgênero. &nbsp;A comunidade LGBTQIAPN+ tem conquistado mais espaço na sociedade, ainda que não seja um avanço [&hellip;]</p>\n"
+  },
+  "featured_media": 18663,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18659"
+  },
+  "id": 18659,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/07/285c656c-c4c4-416f-98da-b08e6cb93b0e.jpeg?fit=3421%2C2296&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4QX",
+  "link": "https://agenciauvabarra.com/2025/07/09/sexualidade-para-pessoas-40-mais-e-como-o-tabu-que-cerca-o-topico-ainda-as-invalida-e-invisibiliza-na-sociedade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-08-28T17:52:56",
+  "modified_gmt": "2025-08-28T20:52:56",
+  "ping_status": "open",
+  "slug": "sexualidade-para-pessoas-40-mais-e-como-o-tabu-que-cerca-o-topico-ainda-as-invalida-e-invisibiliza-na-sociedade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Sexualidade para pessoas 40 mais e como o tabu que cerca o tópico ainda as invalida e invisibiliza na sociedade"
+  },
+  "type": "post"
+}

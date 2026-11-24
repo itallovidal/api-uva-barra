@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17381/revisions/17396",
+        "id": 17396
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17381"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17381",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17381/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17381"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17388"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17381",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17381",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17381",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Iniciativa deseja melhorar a experiência acadêmica de seus alunos e oferecer atendimento de qualidade</em>.</p><p>No dia 9 de setembro é celebrado o Dia do Médico Veterinário e a Universidade Veiga de Almeida, divulga, ainda para esse mês, a nova clínica veterinária do campus Barra. A clínica tem o objetivo de ampliar o aprendizado prático de seus alunos e atender as pessoas da região da Barra da Tijuca e seus arredores com recursos clínicos, ambulatoriais e cirúrgicos.</p><figure><iframe src='https://www.youtube.com/embed/q0bEyT7Qt4c?feature=oembed' width='500' height='375' title='Clínica UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe></figure><p>“O que me motivou a escolher esse curso na UVA foi a estrutura da universidade, pelo seu corpo docente e também, por ser um curso moderno”, disse a aluna de Medicina Veterinária, Filomena Carbone. A aluna acredita que o curso vem para se destacar no mercado. Filomena comentou ainda sobre a importância de aprender em uma clínica na universidade, juntando vivências, além de aprender a lidar com a clientela desde já. “Além da supervisão direta dos professores, vamos vivenciar casos reais e lidar diretamente com a comunidade”, afirmou.</p><p>A clínica vem para agregar a metodologia maker da UVA, que serve para unir teoria e prática. “A existência da clínica é fundamental para simular dentro do curso o que será encontrado no mercado de trabalho”, disse outro aluno do curso, Luiz Henrique Bomfim. Ele explica que o ramo da Medicina Veterinária não se resume apenas aos animais de pequeno porte ou domésticos. Existem dezenas de possibilidades, como indústrias de medicamentos, laboratórios, inspeção e segurança alimentar. “Na universidade, descobrimos diversas áreas de atuação que não são comumente divulgadas”, acrescentou.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/09/whatsapp-image-2024-09-09-at-18.36.12.jpeg?resize=1600%2C1600&amp;ssl=1' alt='' width='1600' height='1600'></figure><p>A coordenadora do curso de Medicina Veterinária da UVA campus Barra, Cristina Amarante, afirma que, na clínica, o aluno tem a oportunidade de acompanhar consultas, cirurgias, procedimentos que se utilizam de anestesias e todo o processo ambulatorial. “Trata-se de um projeto que faz parte de um serviço extensionista, ao ajudar os alunos a lidar com o público e dar suporte aos estudantes que almejam se introduzir no mercado”, conta.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/09/img_9588-2-scaled-1.jpg?resize=1707%2C2560&amp;ssl=1' alt='' width='1707' height='2560'><figcaption><em>Cristina Amarante, coordenadora do curso de Medicina Veterinária da UVA campus Barra. Reprodução: Arquivo Pessoal.</em></figcaption></figure><p>”Somos uma clínica-escola, onde nossa missão é proporcionar bem-estar aos animais e trazer experiência aos nossos alunos”, afirma o Diretor da Clínica Veterinária, Marcus Andrade. Marcus reforça que os professores atuam de forma direta, em prol da qualidade dos atendimentos. Ele explica que o projeto aconteceu tanto pela demanda do próprio curso, quanto da região. “Nós almejamos fazer a diferença no currículo dos nossos alunos e oferecer o suporte necessário para os animais”, explica.</p><p>A Clínica Veterinária da UVA Barra chega para integrar o campus e auxiliar os alunos no seu aprendizado prático, a fim de que os alunos possam exercer o que aprendem em sala de aula na prática profissional.</p><p>Carolina Pimentel – 1° Período</p><p>Marina Xavier – 1° Período</p></main>"
+  },
+  "date": "2024-09-09T18:53:38",
+  "date_gmt": "2024-09-09T21:53:38",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Iniciativa deseja melhorar a experiência acadêmica de seus alunos e oferecer atendimento de qualidade. No dia 9 de setembro é celebrado o Dia do Médico Veterinário e a Universidade Veiga de Almeida, divulga, ainda para esse mês, a nova clínica veterinária do campus Barra. A clínica tem o objetivo de ampliar o aprendizado prático de [&hellip;]</p>\n"
+  },
+  "featured_media": 17388,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17381"
+  },
+  "id": 17381,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/09/whatsapp-image-2024-09-09-at-18.36.12.jpeg?fit=1600%2C1600&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4wl",
+  "link": "https://agenciauvabarra.com/2024/09/09/a-universidade-veiga-de-almeida-inaugura-clinica-veterinaria-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-09-09T19:01:29",
+  "modified_gmt": "2024-09-09T22:01:29",
+  "ping_status": "open",
+  "slug": "a-universidade-veiga-de-almeida-inaugura-clinica-veterinaria-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A Universidade Veiga de Almeida inaugura clínica veterinária no campus Barra"
+  },
+  "type": "post"
+}

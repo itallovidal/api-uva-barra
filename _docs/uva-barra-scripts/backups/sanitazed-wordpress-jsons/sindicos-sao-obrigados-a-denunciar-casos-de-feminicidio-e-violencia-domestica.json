@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18597/revisions/18648",
+        "id": 18648
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18597"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18597",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18597/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18597"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18644"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18597",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18597",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    21243,
+    7114
+  ],
+  "class_list": [
+    "post-18597",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-seguranca",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Uma nova lei sancionada pelo prefeito Eduardo Paes impõe um dever claro aos síndicos e administradores de condomínios do Rio de Janeiro: denunciar qualquer indício de violência doméstica contra mulheres. A Lei 8.913, de 2024, busca transformar esses espaços — antes marcados por silêncios e omissões — em agentes ativos na prevenção e combate à violência de gênero.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/07/img-20250707-wa0022.jpg?resize=828%2C1108&amp;ssl=1\" alt=\"\" width=\"828\" height=\"1108\"><figcaption>Arquivo Pessoal. </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/07/img-20250707-wa0023.jpg?resize=828%2C717&amp;ssl=1\" alt=\"\" width=\"828\" height=\"717\"><figcaption>Carol Lessa acredita que pessoas com deficiência estão sendo representadas como protagonistas e nos bastidores, mas que ainda falta mais inclusão.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/07/img-20250707-wa0024.jpg?resize=828%2C1088&amp;ssl=1\" alt=\"\" width=\"828\" height=\"1088\"><figcaption>Carol Lessa acredita que pessoas com deficiência estão sendo representadas como protagonistas e nos bastidores, mas que ainda falta mais inclusão.</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/07/img-20250707-wa0025.jpg?resize=828%2C1465&amp;ssl=1\" alt=\"\" width=\"828\" height=\"1465\"><figcaption>Carol Lessa acredita que pessoas com deficiência estão sendo representadas como protagonistas e nos bastidores, mas que ainda falta mais inclusão.</figcaption></figure><p>O contexto que motivou a legislação é alarmante. De acordo com o Mapa da Segurança Pública, divulgado em junho pelo Governo Federal, o Brasil registrou 1.459 casos de feminicídio em 2023 — um aumento de 0,63%. O Rio de Janeiro figura entre os municípios com maior número de ocorrências: 51 registros. A nova medida busca romper com o ciclo de invisibilidade e omissão, frequentemente reforçado pela ideia de que “em briga de marido e mulher, não se mete a colher”.</p><p>Para Eloisa Saboya, dona de casa, a nova lei representa um avanço simbólico e prático. “Ela cria, antes de tudo, uma responsabilidade social e coletiva contra a violência doméstica, rompendo com o que era culturalmente aceito”, diz. Eloisa acredita que o enfrentamento do problema começa com o reconhecimento de que a violência dentro do lar não é uma questão privada, mas sim um reflexo de um tecido social adoecido.</p><p>A prática, no entanto, exige estrutura e clareza nos procedimentos. Claudio Barreto, ex-síndico do condomínio Praia do Engenho, em Angra dos Reis, explica como age diante de um caso suspeito. “Automaticamente informo à polícia, para que as medidas cabíveis sejam tomadas”, afirma. Após o chamado, a polícia deve registrar a ocorrência, abrir inquérito e encaminhar o caso ao Ministério Público, responsável pela acusação formal.</p><p>O advogado Fábio Esteves reforça que, embora a Lei 8.913 seja válida apenas no município do Rio de Janeiro, o Código Penal brasileiro já prevê punição para casos de omissão em situações de risco. “O artigo 13 estabelece que a omissão pode configurar crime quando há dever legal de agir. Isso se aplica a qualquer cidadão que, ao se calar, contribui para a continuidade da violência”, explica.</p><p>Além da responsabilização legal, há também um componente ético em jogo. “Uma denúncia pode evitar um crime”, diz Eloysa. “Minha atitude faz com que eu não seja cúmplice nem negligente diante de uma violência.” Para ela, denunciar é um ato de humanidade e, mais do que isso, uma forma de desafiar preconceitos enraizados sobre o papel da mulher na sociedade.</p><p>A obrigatoriedade imposta aos síndicos é apenas uma das frentes de um combate que precisa ser coletivo. Mudar estruturas também exige mudar mentalidades. E, nesse sentido, cada denúncia deixa de ser apenas um gesto legal: torna-se uma afirmação de que a vida de uma mulher importa, é que o silêncio, muitas vezes, também mata.</p><p></p><p>Márcio Weber – 7° período </p></main>"
+  },
+  "date": "2025-07-07T15:47:29",
+  "date_gmt": "2025-07-07T18:47:29",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Uma nova lei sancionada pelo prefeito Eduardo Paes impõe um dever claro aos síndicos e administradores de condomínios do Rio de Janeiro: denunciar qualquer indício de violência doméstica contra mulheres. A Lei 8.913, de 2024, busca transformar esses espaços — antes marcados por silêncios e omissões — em agentes ativos na prevenção e combate à [&hellip;]</p>\n"
+  },
+  "featured_media": 18644,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18597"
+  },
+  "id": 18597,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/07/img-20250707-wa0022.jpg?fit=828%2C1108&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4PX",
+  "link": "https://agenciauvabarra.com/2025/07/07/sindicos-sao-obrigados-a-denunciar-casos-de-feminicidio-e-violencia-domestica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-08-28T17:53:20",
+  "modified_gmt": "2025-08-28T20:53:20",
+  "ping_status": "open",
+  "slug": "sindicos-sao-obrigados-a-denunciar-casos-de-feminicidio-e-violencia-domestica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Síndicos são obrigados a denunciar casos de feminicídio e violência doméstica"
+  },
+  "type": "post"
+}

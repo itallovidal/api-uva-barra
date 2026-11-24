@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2596/revisions/3024",
+        "id": 3024
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2596"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2596",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2596/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2596"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2597"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2596",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2596",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    758
+  ],
+  "class_list": [
+    "post-2596",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-arena-de-drones",
+    "tag-cidade-das-artes",
+    "tag-hacktudo",
+    "tag-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Festival de cultura digital abre espaço para esporte nascido da tecnologia</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-04-at-13-15-14.jpeg?resize=1280%2C804&#038;ssl=1' alt='WhatsApp Image 2018-11-04 at 13.15.14' width='1280' height='804' /><figcaption>Arena de Drones foi um dos destaques do HACKTUDO 2018 – Foto: Julia Morais</figcaption></figure><p>Considerados “estrelas” no mundo tecnológico e vistos como o futuro da aviação, os drones surgiram para inovar a já surpreendente Era Digital, ganhando destaque e sendo reconhecidos ao longo do tempo com suas diversas adaptações e utilidades. Uma das muitas novidades que acompanharam o crescimento dessas máquinas foi a criação de uma nova modalidade esportiva: a corrida de drones.</p><p>Durante o HACKTUDO 2018, foi disponibilizada uma arena exclusiva para drones, onde ocorreram demonstrações de voo, batalhas e corridas profissionais. O público pôde participar e, principalmente, aprender durante as atividades propostas – até quem já estava familiarizado. O estudante de 17 anos, Pedro Henrique Rangel, fala sobre seus primeiros passos com essa tecnologia. “Eu comecei a me interessar em 2016, assistindo vídeos postados no Youtube. Comecei a comprar as peças e montar um eu mesmo”, revela. “A beleza de você poder controlar algo que está no ar, de forma bem diferente de um avião, foi o que chamou minha atenção”, completa o jovem, que achou válida sua participação na arena.</p><p>Esse contato através da curiosidade e o destaque em eventos é incentivado por aqueles que trabalham na área, por ser uma oportunidade de esclarecer e difundir alguns aspectos dessa tecnologia. “O drone é quase uma plataforma. É uma tecnologia que permite muitas aplicações e isso é o mais interessante: ele é completo”, explica Carlos Candido, fundador do Mirante Lab – empresa responsável pela arena. Ele comentou ainda sobre essa participação no HACKTUDO. “O evento propicia o que eu chamo de democratização do acesso à tecnologia. Através do lúdico a pessoa conhece mais e é importante que a população tenha informação para que exista uma massa crítica no futuro”, destaca.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-04-at-13-15-14-1.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-11-04 at 13.15.14 (1)' width='1280' height='960' /><figcaption>Público aguardando o início das atividades na arena – Foto: Julia Morais</figcaption></figure><p>Ainda que as aeronaves não tripuladas façam sucesso com todas as idades, para cada aspecto interessante existe um igualmente provocador. “O maior desafio hoje é criar e definir processos para que o uso do drone possa ser feito em escala e com segurança”, afirma Candido. Outra mudança desejada é o aumento do número de mulheres no esporte. “Das equipes que vão participar, todos são homens. Precisamos de mais mulheres participando!”, brincou Candido durante as batalhas.</p><p>Seja como entretenimento ou profissão, a corrida de drones já é disputada em campeonatos brasileiros e mundiais, fazendo a cabeça de jovens e consolidando mais uma nova face no mundo esportivo.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-04-at-13-15-15.jpeg?resize=1280%2C1008&#038;ssl=1' alt='WhatsApp Image 2018-11-04 at 13.15.15' width='1280' height='1008' /><figcaption>Competidores se preparando para a corrida profissional – Foto: Julia Morais</figcaption></figure><p><strong>Julia Morais – 6º período</strong></p></main>"
+  },
+  "date": "2018-11-04T16:27:50",
+  "date_gmt": "2018-11-04T18:27:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Festival de cultura digital abre espaço para esporte nascido da tecnologia Considerados “estrelas” no mundo tecnológico e vistos como o futuro da aviação, os drones surgiram para inovar a já surpreendente Era Digital, ganhando destaque e sendo reconhecidos ao longo do tempo com suas diversas adaptações e utilidades. Uma das muitas novidades que acompanharam o [&hellip;]</p>\n"
+  },
+  "featured_media": 2597,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2596"
+  },
+  "id": 2596,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-04-at-13-15-14.jpeg?fit=1280%2C804&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-FS",
+  "link": "https://agenciauvabarra.com/2018/11/04/asas-inteligentes-tomam-conta-da-cidade-das-artes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:21:04",
+  "modified_gmt": "2019-01-31T13:21:04",
+  "ping_status": "open",
+  "slug": "asas-inteligentes-tomam-conta-da-cidade-das-artes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    472774568,
+    15767449,
+    652412568,
+    767056593
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Asas inteligentes tomam conta da Cidade das Artes"
+  },
+  "type": "post"
+}

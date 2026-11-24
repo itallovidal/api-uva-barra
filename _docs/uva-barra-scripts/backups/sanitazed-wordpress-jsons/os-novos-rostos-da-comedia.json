@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2058/revisions/3146",
+        "id": 3146
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2058"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2058",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2058/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2058"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2059"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2058",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2058",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    257
+  ],
+  "class_list": [
+    "post-2058",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-geek"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Famosos nas redes, os quatro integrantes do Choque de Cultura compareceram ao último dia de Geek &amp; Game Rio Festival</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/img_20180722_183322123-e1533600132925.jpg?resize=4160%2C2340&amp;ssl=1' alt='IMG_20180722_183322123' width='4160' height='2340' /><figcaption>Foto: Lucas Motta</figcaption></figure><h4>O humor e a internet fazem uma dobradinha que já tem nomes de sucesso no cenário brasileiro, como a produtora “Porta dos Fundos” e o youtuber Whindersson Nunes. E uma nova geração pega carona nesse mercado. No último dia do Geek &amp; Game Rio Festival foi a vez de conhecer mais sobre o Choque de Cultura formado pelo quarteto formado por Caito Mainier, Raul Chequer, Leandro Ramos e Daniel Furlan.<br>Todos eles fazem parte da TV Quase, a produtora responsável pelo “show”, que é exibido no YouTube. Juntos, eles interpretam motoristas de vans que comentam sobre cinema, televisão e algumas atrocidades sobre o que eles entendem de mundo – desde as leis “injustas” do trânsito ao ódio aos motoristas de Uber. Hoje o canal tem mais de 400 mil inscritos.<br>Para os fãs, uma das razões para o sucesso é o tipo mais “responsável” de humor que o grupo tem. Mas esse olhar não é compartilhado por todos, Caito Mainier rejeita este rótulo de “politicamente correto” para o Choque. Já Raul Chequer concorda. “Não há intenção de ser inofensivo, é que alguns detalhes não são piadas, como preconceito e racismo”, afirma, antes de arrancar aplausos da plateia.<br>Só essas características já colocariam o Choque na vanguarda do humor independente. Porém, o grupo também rejeita tal rótulo. Para eles, TV e internet ainda podem andar juntos, mesmo que eles reconheçam a liberdade que o YouTube propõe para criação de conteúdo – o que fez muitos artistas estourarem. “Nós fazemos para ambas as mídias, no momento os dois são importantes”, afirma Daniel Furlan. Afinal, são pelo menos 12 anos de TV Quase, produzindo conteúdo como Larica Total (TV Brasil), Lady Night (Multishow) e Irmão do Jorel (Cartoon Network).<br>Por fim, os rapazes encenaram um dos episódios mais famosos para o público geek: “Velozes e Furiosos é arte”. Bordões clássicos que revelam a personalidade de cada personagem estiveram presentes, como “tem que acabar a justiça” e “idoso é covarde”. O que pode parecer barbaridade é o que diferencia o trabalho do Choque. “Os personagens não tem consciência do que eles falam, no mundo deles eles estão só falando de cinema”, explica Daniel Furlan.<br>Para o fãs, assistir ao programa ao vivo foi um dos pontos altos do GGRF. O estudante Johnny Wallace considerou o melhor dia entre os três do evento. “A coincidência é que o episódio que eles encenaram é um dos meus favoritos”, afirma Johnny, que já gostava das outras produções. A também estudante Leandra Rios gostou de ter tido a oportunidade de ver os quatro integrantes juntos. “Estou bem ansiosa para o retorno deles”, afirma. No caso, as gravações da nova temporada estão previstas para setembro. Até lá, só resta esperar e aproveitar os vídeos antigos.</h4><p><strong>Lucas Motta, 7º período</strong></p></main>"
+  },
+  "date": "2018-07-24T11:12:54",
+  "date_gmt": "2018-07-24T14:12:54",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Famosos nas redes, os quatro integrantes do Choque de Cultura compareceram ao último dia de Geek &amp; Game Rio Festival O humor e a internet fazem uma dobradinha que já tem nomes de sucesso no cenário brasileiro, como a produtora “Porta dos Fundos” e o youtuber Whindersson Nunes.&nbsp; E uma nova geração pega carona nesse [&hellip;]</p>\n"
+  },
+  "featured_media": 2059,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2058"
+  },
+  "id": 2058,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/img_20180722_183322123-e1533600132925.jpg?fit=4160%2C2340&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-xc",
+  "link": "https://agenciauvabarra.com/2018/07/24/os-novos-rostos-da-comedia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:20:35",
+  "modified_gmt": "2019-01-31T15:20:35",
+  "ping_status": "open",
+  "slug": "os-novos-rostos-da-comedia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Os novos rostos da comédia"
+  },
+  "type": "post"
+}

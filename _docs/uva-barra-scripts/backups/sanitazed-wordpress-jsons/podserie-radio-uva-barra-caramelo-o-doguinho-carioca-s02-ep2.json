@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8538/revisions/8542",
+        "id": 8542
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8538"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8538",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8538/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8538"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8541"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8538",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8538",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8538",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F940265395&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Player do SoundCloud' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>No segundo episódio de \"Caramelo, o doguinho carioca\", o cãozinho se depara com a realidade vivida pelos membros da família Silva. Os segredos que escondem e as tristezas que dividem são parte da família que acolheu Caramelo e agora ele se vê na obrigação de retribuir, mas as coisas podem não sair como o esperado.</p><p>Se você perdeu o primeiro capítulo de \"Caramelo, o doguinho carioca\", clique<a href='https://agenciauvabarra.com/2021/01/18/podserie-radio-uva-barra-caramelo-o-doguinho-carioca-s01-ep5/' target='_blank'> aqui </a>para conferir o início dessa história e não perca os próximos lançamentos. \"Caramelo, o doguinho carioca\", é a segunda história da temporada 2021 de podcasts ficcionais da Rádio UVA Barra.</p><p></p><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2021-01-19T14:42:10",
+  "date_gmt": "2021-01-19T17:42:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Caramelo, o doguinho carioca. · Episódio 2: Deu caô! No segundo episódio de “Caramelo, o doguinho carioca”, o cãozinho se depara com a realidade vivida pelos membros da família Silva. Os segredos que escondem e as tristezas que dividem são parte da família que acolheu Caramelo e agora ele se vê na obrigação de retribuir, [&hellip;]</p>\n"
+  },
+  "featured_media": 8541,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8538"
+  },
+  "id": 8538,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/p2.2.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2dI",
+  "link": "https://agenciauvabarra.com/2021/01/19/podserie-radio-uva-barra-caramelo-o-doguinho-carioca-s02-ep2/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-01-19T14:42:10",
+  "modified_gmt": "2021-01-19T17:42:10",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-caramelo-o-doguinho-carioca-s02-ep2",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra – Caramelo, o doguinho carioca – S02 EP2"
+  },
+  "type": "post"
+}

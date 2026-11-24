@@ -1,0 +1,157 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2025/revisions/3097",
+        "id": 3097
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2025"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2025",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2025/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2025"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2025",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2025",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366,
+    257,
+    758
+  ],
+  "class_list": [
+    "post-2025",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "category-geek",
+    "category-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em><span style=\"font-weight:400;\">Bate papo com Youtuber Marco Tulio revela como a indústria dos games se tornou uma fonte alternativa de trabalho</span></em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/o-livro-de-caio-canelas-autografado-por-marco-tulio-1.jpg?resize=3872%2C2592&#038;ssl=1\" alt=\"SONY DSC\" width=\"3872\" height=\"2592\" /><figcaption>O fã Gustavo Lima exibe livro autografado pelo Youtuber Marco Tulio. Foto: Bárbara Faria</figcaption></figure><p><span style=\"font-weight:400;\">Jovens apaixonados por jogos de computador buscam sempre por inspirações no Youtube. É nessa plataforma de vídeo que muitos adolescentes se informam e percebem que não estão sozinhos quando o assunto é a adoração pelos games. Nesta segunda edição, o Geek&amp;Game Rio Festival recebeu na Geek Station o youtuber Marco Tulio, criador do “AuthenticGames”.</span></p><p><span style=\"font-weight:400;\">Em 2011, o canal foi criado pelo garoto de Belo Horizonte que, a princípio, queria apenas falar dos jogos que gostava, o que ele não imaginava era que esse pequeno projeto ganharia proporções gigantescas. O youtuber relatou que o resultado disso não veio da noite para o dia. “Eu vi que isso poderia se tornar uma profissão depois de uns três anos fazendo. Estou há sete gravando os vídeos e há muito trabalho em cima disso”, conta.</span></p><p><span style=\"font-weight:400;\">O sucesso foi perceptível logo nos primeiros anos. Em 2013, o AuthenticGames já tinha conquistado 200 mil inscritos. Hoje, com mais de 14 milhões de inscritos, o canal virou um “lugar” em comum entre crianças e adolescentes. Lá eles podem trocar ideias e também aprendem com as dicas sobre Minecraft. Caio Canelas, 10, assiste aos vídeos há 3 anos e relatou que gosta muito. “Sou muito fã, mas não sei se quero trabalhar com isso”, comenta.</span></p><p><span style=\"font-weight:400;\">Os pais também mostram grande aprovação pelo canal. Alexandre Coutinho é pai de Felipe, 10 anos, e de Rafael, 4 anos. Ele afirmou que os filhos são inscritos e assistem aos vídeos do AuthenticGames. “O Felipe acompanha há 5 anos. Eu fico muito tranquilo em relação ao conteúdo do Marco Tulio porque é voltado para a faixa etária deles. Eu apoio caso meu filho queira seguir nessa carreira, mas com algumas restrições”, afirma.</span></p><p><span style=\"font-weight:400;\">O canal alcançou dimensões extraordinárias. Há dois anos, o primeiro livro chamado “AuthenticGames: vivendo uma vida autêntica” foi lançado. Ainda em 2016, Marco Túlio foi inspiração para a criação da Happy Code by AuthenticGames, uma escola de programação de computadores e robótica voltada para o público infantil. Além disso, houve o lançamento de mais um livro e a estreia da turnê de shows.</span></p><p><span style=\"font-weight:400;\">O público do AuthenticGames varia entre meninos e meninas, a conversa despertou o interesse de adultos e crianças. Nos últimos 15 minutos, os mediadores Affonso Solano e Diogo Braga abriram espaço para as perguntas da garotada e dos pais. No final, Marco Tulio deixou uma mensagem para a plateia. “Fica o conselho para vocês, maninhos e maninhas, as coisas não acontecem rápido. Então, é acreditar no sonho e também é sempre bom ouvir o que o papai e a mamãe falam”.</span></p><p><strong>Bárbara Faria, 6º período.</strong></p></main>"
+  },
+  "date": "2018-07-21T21:50:23",
+  "date_gmt": "2018-07-22T00:50:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Bate papo com Youtuber Marco Tulio revela como a indústria dos games se tornou uma fonte alternativa de trabalho Jovens apaixonados por jogos de computador buscam sempre por inspirações no Youtube. É nessa plataforma de vídeo que muitos adolescentes se informam e percebem que não estão sozinhos quando o assunto é a adoração pelos games. [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2025"
+  },
+  "id": 2025,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-wF",
+  "link": "https://agenciauvabarra.com/2018/07/21/o-sonho-de-atuar-profissionalmente-no-mundo-dos-jogos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:36:00",
+  "modified_gmt": "2019-01-31T14:36:00",
+  "ping_status": "open",
+  "slug": "o-sonho-de-atuar-profissionalmente-no-mundo-dos-jogos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "O sonho de atuar profissionalmente no mundo dos jogos"
+  },
+  "type": "post"
+}

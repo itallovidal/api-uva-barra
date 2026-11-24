@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2141/revisions/3078",
+        "id": 3078
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2141"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2141",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2141/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2141"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2142"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2141",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2141",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    407146
+  ],
+  "class_list": [
+    "post-2141",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-exposicao",
+    "tag-exposicao",
+    "tag-museu-do-amanha"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Museu do Amanhã apresenta a exposição “Explorando o Planeta”</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-24-at-19-32-30.jpeg?resize=1280%2C959&amp;ssl=1\" alt=\"WhatsApp Image 2018-08-24 at 19.32.30\" width=\"1280\" height=\"959\" /><figcaption>Foto: Nayara Simões</figcaption></figure><p>Existem muitos estudos e pesquisas sobre questões do meio ambiente, mas nem toda a população têm acesso a essas informações. Como forma de democratizar o conhecimento, o Museu do Amanhã, em parceria com o Museu de Ciências da Terra, inaugurou, nesta terça-feira (21/08), a exposição interativa “Explorando o Planeta”. O objetivo da mostra é fazer com que os visitantes entendam como o ser humano pode estudar a natureza e como esse conhecimento pode trazer benefícios para essa e as próximas gerações.</p><p>A preocupação com os impactos causados pelo homem no meio ambiente e a tentativa de trazer conhecimento histórico são destacadas com a apresentação de recursos minerais utilizados no passado e no presente, fósseis de preguiças-gigantes e mastodontes, além de vídeos e estudos sobre o mapeamento das áreas de risco, e pesquisas químicas sobre os tipos de água. Outro item exposto é a <em>sandbox</em>, uma caixa de areia que facilita o aprendizado sobre níveis de relevo. Para o curador da exposição, Rodrigo da Rocha Machado, a ideia é fazer com que o público assimile o conteúdo por meio da interação.</p><p>Ele também conta que foi um grande desafio, para o Museu de Ciências da Terra, levar a mostra para o Museu de amanhã, já que o primeiro se caracteriza como acervo e o segundo como tecnológico. “Está acontecendo o Congresso Brasileiro de Geologia e fomos convidados a apresentar parte de nosso conhecimento. Para isso, conversamos bastante e tentamos integrar os dois assuntos”. De acordo com o curador, essa união trouxe bons resultados, além de esclarecer a relação que o ser humano deve ter com a natureza na busca por um futuro melhor. “O homem pode utilizar e preservar”.</p><p>Com esse intuito de refletir e entender o papel do indivíduo no planeta, a coordenadora do colégio Educandário Santa Clara, Maria Alice Lemos Lopes, levou os alunos para conhecer a exposição. “Nós não temos toda essa tecnologia disponível, nossas crianças não têm esse privilégio, e, por ser interativa, houve um maior interesse”. Ela acredita que, esta, é uma oportunidade para obter conhecimento de novos assuntos e isso irá trazer conscientização.</p><p>Essa importância de pesquisar e se preocupar com o meio ambiente, é um dos principais aspectos buscados pela mostra, que conta, todos os dias, com a presença de especialistas da Companhia de Pesquisa de Recursos Minerais (CPRM) – Serviço Geológico do Brasil, que ficam à disposição para esclarecer e apresentar as diferentes áreas do projeto. “Explorando o Planeta” estará aberta ao público até amanhã (26/08) e a ideia dos organizadores, é que, após isso, ela seja desmontada do Museu do Amanhã e se torne uma exposição permanente no Museu de Ciências da Terra, localizado no bairro da Urca, no Rio de Janeiro. É uma oportunidade para quem se interessar pelo tema.</p><p><strong>Nayara Simões – 5º período</strong></p></main>"
+  },
+  "date": "2018-08-25T19:00:03",
+  "date_gmt": "2018-08-25T22:00:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Museu do Amanhã apresenta a exposição “Explorando o Planeta” Existem muitos estudos e pesquisas sobre questões do meio ambiente, mas nem toda a população têm acesso a essas informações. Como forma de democratizar o conhecimento, o Museu do Amanhã, em parceria com o Museu de Ciências da Terra, inaugurou, nesta terça-feira (21/08), a exposição interativa [&hellip;]</p>\n"
+  },
+  "featured_media": 2142,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2141"
+  },
+  "id": 2141,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-24-at-19-32-30.jpeg?fit=1280%2C959&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-yx",
+  "link": "https://agenciauvabarra.com/2018/08/25/arte-interatividade-e-conscientizacao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:27:16",
+  "modified_gmt": "2019-01-31T14:27:16",
+  "ping_status": "open",
+  "slug": "arte-interatividade-e-conscientizacao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056630,
+    37937454
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Arte, interatividade e conscientização"
+  },
+  "type": "post"
+}

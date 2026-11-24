@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1248/revisions/3137",
+        "id": 3137
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1248"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1248",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1248/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1248"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1248",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1248",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-1248",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Lucas Rangel e Bruno Mazzeo reúnem legião de fãs para um debate na Bienal</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/img-20170908-wa0005.jpg?resize=1152%2C864&#038;ssl=1' alt='IMG-20170908-WA0005' width='1152' height='864' /><figcaption>Fotografia: Lucas Motta</figcaption></figure><p>Duas personalidades do humor se encontraram na Bienal do Livro Rio. Na última terça-feira (05/09), o espaço Arena #SemFiltro recebeu Bruno Mazzeo e Lucas Rangel para o debate “Humor! Ontem, Hoje e Sempre”, em que relataram sobre as semelhanças e diferenças de seus trabalhos. Com mediação de José Lavigne, o evento contou com jovens e adultos que lotaram as arquibancadas.<br>Lucas Rangel faz parte de uma nova geração que usa as vantagens da internet para criar uma linguagem própria. Apesar do foco ser na criação de roteiro e de personagens, ele acredita que a base da sua performance é feita com espontaneidade. “Na internet eu tenho mais liberdade. O que eu quiser fazer, eu consigo lá”, comenta. Lucas começou aos 16 anos ainda no Vine, uma plataforma de vídeos curtos. Com uma necessidade maior de tempo para se comunicar com seu público, se aventurou no YouTube, e hoje, aos 20 anos, possui mais de 4,2 milhões de seguidores no site.<br>Por outro lado, Bruno Mazzeo sempre esteve próximo dos grandes palcos. Filho da lenda humorística, Chico Anysio, Bruno é ator, produtor e roteirista, sendo responsável por séries como “Cilada”, exibida no Multishow, e “Filhos da Pátria”, que será exibida na Globo ainda este mês. O ator de 40 anos nunca escondeu ser fã da dramaturgia e do uso de piadas como crítica. “Eu coloco minhas opiniões por meio dos personagens”, afirma.<br>Questionado sobre a valorização do teatro no âmbito escolar, Bruno enfatiza que é de extrema importância para as pessoas. “O teatro é fundamental não só na escola, mas também na vida”. E parabeniza um professor de teatro presente no evento, por passar tais conhecimentos adiante. Mesmo estando relacionado ao humor, ele afirma sempre colocar alguma sátira por trás de suas piadas. Com isso, acredita que elas sejam algo não só para rir, mas também para refletir.<br>Em pouco tempo de trabalho, Lucas conseguiu acumular um número considerável de fãs. É o caso da estudante de administração Raquel Rodrigues, 18, que afirma acompanhar o Youtuber desde o início desse ano. “A minha sobrinha gosta muito de Youtubers e eu comecei a ver vídeos com ela, desde então eu me apaixonei. Até tive canal no YouTube, mas apaguei”, afirma. Não só Raquel, mas todos os fãs dos humoristas estavam eufóricos na Arena com a presença do astro da internet. Por diversas vezes, invadiram o palco querendo fotos e autógrafos com os artistas.<br>Diante de tantas perguntas e pedidos dos fãs, Lucas ainda discutiu o fato de famosos, que não são escritores, sofrerem preconceito no meio literário. Tem espaço para todos no mercado”, afirma o youtuber, que diz ver diversas críticas quanto há lançamento de livros de seus colegas.&nbsp; Ele ainda relata que essa é uma forma das pessoas lerem, e que não fiquem presos apenas ao conteúdo da internet. Isso faz com que sejam não só influenciadores digitais, mas também com que pessoas não esqueçam de fazer uso da leitura.</p><p><strong>Lucas Motta, 5º período e Nailson Ribeiro, 5º período</strong></p></main>"
+  },
+  "date": "2017-09-11T16:00:12",
+  "date_gmt": "2017-09-11T19:00:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Lucas Rangel e Bruno Mazzeo reúnem legião de fãs para um debate na Bienal Duas personalidades do humor se encontraram na Bienal do Livro Rio. Na última terça-feira (05/09), o espaço Arena #SemFiltro recebeu Bruno Mazzeo e Lucas Rangel para o debate “Humor! Ontem, Hoje e Sempre”, em que relataram sobre as semelhanças e diferenças [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1248"
+  },
+  "id": 1248,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-k8",
+  "link": "https://agenciauvabarra.com/2017/09/11/humor-de-geracao-para-geracao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:10:01",
+  "modified_gmt": "2019-01-31T15:10:01",
+  "ping_status": "open",
+  "slug": "humor-de-geracao-para-geracao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Humor: De geração para geração"
+  },
+  "type": "post"
+}

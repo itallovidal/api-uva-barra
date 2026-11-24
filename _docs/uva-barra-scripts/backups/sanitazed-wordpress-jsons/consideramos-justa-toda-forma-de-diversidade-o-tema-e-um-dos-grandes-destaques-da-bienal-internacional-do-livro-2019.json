@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5051/revisions/5843",
+        "id": 5843
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5051"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5051",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5051/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5051"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5070"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5051",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5051",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    7114
+  ],
+  "class_list": [
+    "post-5051",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-bienal-do-livro-2019",
+    "tag-riocentro",
+    "tag-xix-bienal-internacional-do-livro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Arenas, estandes e público discutem a pluralidade durante os 10 dias de evento</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1830.jpg?resize=6000%2C4000&#038;ssl=1' alt='' width='6000' height='4000' /><figcaption>Influenciadoras participam de sessão de autógrafos depois da conversa na Arena. Foto: Kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1718.jpg?resize=4976%2C3691&#038;ssl=1' alt='' width='4976' height='3691' /><figcaption>Padrão de Beleza foi discutido na Arena #SemFiltro. Foto: Kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1676.jpg?resize=6000%2C4000&#038;ssl=1' alt='' width='6000' height='4000' /><figcaption>Convidadas da mesa sobre padrão de beleza se aventuram no mundo da literatura com suas obras. Foto: Kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_0459.jpg?resize=6000%2C4000&#038;ssl=1' alt='' width='6000' height='4000' /><figcaption>Renato Cafuzo fala sobre diferenças entre afrofuturo e afrofuturismo. Foto: Kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_0460-1.jpg?resize=6000%2C4000&#038;ssl=1' alt='' width='6000' height='4000' /><figcaption>Afrofuturo foi destaque no primeiro fim de semana da feira literária. Foto: Kaliane Trindade</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1497.jpg?resize=5709%2C3988&#038;ssl=1' alt='' width='5709' height='3988' /><figcaption>XIX edição da Bienal proporciona espaço para falar sobre religiões. Foto: Kaliane Trindade</figcaption></figure><p>A Bienal Internacional do Livro Rio é espaço para democracia e por isso fica evidente a diversidade. Nesses 10 dias, a feira literária promoveu rodas de conversa sobre temas pertinentes na sociedade como racismo, religião, literatura trans, LGBTQI, empoderamento feminino e muito mais. O evento plural deu voz a todo tipo de público e celebrou as diferenças</p><p>A Arena #SemFiltro é palco de grande parte dos debates. Organizado pela mediadora Ana Paula Lisboa, o Afrofuturo foi tema da conversa entre a pós-doutora em História Giovana Xavier, a atriz e ativista Jennifer Dias, a grafiteira Crica Monteiro e do designer Renato Cafuzo, no início da Bienal, no sábado (31/08). Eles discutiram as diferenças e similaridades desse termo. \"É um caminho muito novo, principalmente para mulheres negras que tem sido historicamente objetificadas na cultura brasileira\", comenta Giovana. Para Crica, os jovens têm um papel importante na busca pelo assunto. \"Eu tenho a minha família negra que a história basicamente foi apagada. Então a gente como jovens falando de Afrofuturo temos que resgatar isso e eu fui resgatando a minha própria história\". </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_0505.jpg?resize=6000%2C4000&#038;ssl=1' alt='' width='6000' height='4000' /><figcaption>A grafiteira Crica Monteiro fala da dificuldade de ser mulher no mundo da cultura hip hop. Foto: Kaliane Trindade</figcaption></figure><p>A luta por igualdade de gênero também ganha notoriedade na XIX edição. O estande interativo da Editora Valentina marcou sua participação na Bienal por evidenciar os conceitos de empoderamento da mulher e o movimento Girl Power – poder feminino. Os visitantes puderam conhecer algumas referências para a nova geração de leitoras, além de oferecer um catálogo extenso com mais de 100 títulos. </p><p>Com o tema do empoderamento feminino em alta, cinco mulheres encheram a Arena para um bate papo sobre o padrão de beleza imposto pela sociedade. Elas comentaram as dificuldades enfrentadas por cada uma e as consequências do corpo padrão na vida das mulheres brasileiras. \"Nós somos bombardeadas o tempo inteiro por imagens perfeitas que a gente não sabe a que custo as pessoas têm aqueles corpos\" relata a atriz Mariana Xavier, uma das participantes.</p><p>Confira a entrevista exclusiva com as influenciadoras que participaram da mesa: </p><figure><iframe src='https://www.youtube.com/embed/QcJPABWTLAA?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe><figcaption>. </figcaption></figure><p>Outro exemplo de pluralidade da feira literária foi o encontro entre o pastor Henrique Vieira e o sacerdote umbandista Alan Barbieri para uma conversa sobre religião e respeito em tempos de intolerância. A mesa mediada pela jornalista Claudia Alves mostrou ao público que é possível discutir assuntos como esse com respeito e compreensão de todas as partes. \"É absolutamente incompatível com Cristo o discurso de ódio que cresce nos dias de hoje. Eu costumo dizer que se Ele estivesse vivo hoje, seria morto em nome dele mesmo\", afirmou o pastor. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1483.jpg?resize=6000%2C4000&#038;ssl=1' alt='' width='6000' height='4000' /><figcaption>Um encontro sobre fé, diversidade e amor foi mediado pela jornalista Claudia Alves. Foto: Kaliane Trindade</figcaption></figure><p>Um dos destaques dessa edição foi a discussão sobre a importância da literatura LGBTQI. A Arena #SemFiltro reuniu os escritores Pedro HMC, Lucas Rocha, Vitor Martins, Igor Pires, Thati Machado e Vinicius Grossos para falar o que motivou a criação de cada uma das obras com essa temática e como os livros podem ajudar na construção de uma sociedade consciente sem qualquer tipo de preconceito. \"A representatividade que estas obras propiciam é de muita importância para que leitores LGBTQA+ se sintam pertencentes à sociedade e construam uma identidade positiva de si mesmos\" relata Felipe Cabral, mediador da mesa \"Literatura Arco-íris\". </p><p>O penúltimo dia de Bienal foi marcado por ações contra o prefeito do Rio de Janeiro, Marcelo Crivella, e a polêmica com os livros LGBts. A distribuição de exemplares com a temática fez o público presente sair com mais livros na sacola e sem precisar pagar por eles. O tema foi amplamente divulgado nas redes sociais e jogou uma luz sobre visibilidade, literatura e censura. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/whatsapp-image-2019-09-07-at-18.01.46.jpeg?resize=1280%2C960&#038;ssl=1' alt='' width='1280' height='960' /><figcaption>Livros distribuídos na tarde do último sábado continham uma mensagem na embalagem: \"Este livro é impróprio para pessoas atrasadas, retrógradas e preconceituosas\". Foto: Beatrice Laeber</figcaption></figure><p>Neste domingo, às 19h, pela primeira vez a literatura trans será tema único discutido na conversa com os escritores Natalia Travasso, Luisa Marilac, Nana Queiroz, Tarso Brant, Thammy Miranda e Amora Moira. Eles contarão um pouco sobre suas histórias e obras. Aproveite os últimos momentos na feira literária e celebre a diversidade. </p><p>Kaliane Trindade – 6º Período | Jornalismo</p></main>"
+  },
+  "date": "2019-09-08T18:43:12",
+  "date_gmt": "2019-09-08T21:43:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Arenas, estandes e público discutem a pluralidade durante os 10 dias de evento A Bienal Internacional do Livro Rio é espaço para democracia e por isso fica evidente a diversidade. Nesses 10 dias, a feira literária promoveu rodas de conversa sobre temas pertinentes na sociedade como racismo, religião, literatura trans, LGBTQI, empoderamento feminino e muito [&hellip;]</p>\n"
+  },
+  "featured_media": 5070,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5051"
+  },
+  "id": 5051,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_1830.jpg?fit=6000%2C4000&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1jt",
+  "link": "https://agenciauvabarra.com/2019/09/08/consideramos-justa-toda-forma-de-diversidade-o-tema-e-um-dos-grandes-destaques-da-bienal-internacional-do-livro-2019/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-11-04T14:47:51",
+  "modified_gmt": "2019-11-04T17:47:51",
+  "ping_status": "open",
+  "slug": "consideramos-justa-toda-forma-de-diversidade-o-tema-e-um-dos-grandes-destaques-da-bienal-internacional-do-livro-2019",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    683955564,
+    10031061,
+    683909124
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Consideramos justa toda forma de diversidade: o tema é um dos grandes destaques da Bienal internacional do livro 2019"
+  },
+  "type": "post"
+}

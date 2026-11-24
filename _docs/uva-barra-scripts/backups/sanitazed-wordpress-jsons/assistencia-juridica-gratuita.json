@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9263/revisions/9276",
+        "id": 9276
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9263"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9263",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9263/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9263"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9275"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9263",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9263",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    18330,
+    7114,
+    268277
+  ],
+  "class_list": [
+    "post-9263",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-institucional",
+    "category-sociedade",
+    "category-solidariedade",
+    "tag-nucleo-de-pratica-juridica",
+    "tag-servicos-gratuitos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Núcleo de Prática Jurídica da UVA transforma a vida de pessoas que não podem pagar pelo serviço</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/whatsapp-image-2021-05-04-at-21.36.30.jpeg?resize=1280%2C720&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"720\" /><figcaption>Estudantes sendo direcionados em reunião do núcleo em 2019. Foto: arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/whatsapp-image-2021-05-04-at-21.36.31-1.jpeg?resize=1280%2C720&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"720\" /><figcaption>Alunos em reunião presencial no ano de 2019 na NPJ. Foto: arquivo pessoal</figcaption></figure><p>No cenário atual, onde há muitas incertezas sobre a economia e 14,5% da população encontra-se desempregada, os serviços gratuitos ajudaram muitos brasileiros. No Núcleo de Prática Jurídica (NPJ) da Universidade Veiga de Almeida, campus Barra, o objetivo principal é fazer com que universitários ajudem os mais vulneráveis a obterem justiça.</p><p>Apesar de o Estado do Rio de Janeiro contar com a Defensoria Pública desde maio de 1897, a alta demanda faz com que alguns processos demorem anos para serem concluídos, por isso, muitos procuram assessorias gratuitas, serviços oferecidos para todos aqueles que não tem condições de bancar um advogado particular mas ainda assim querem correr atrás dos seus direitos.</p><p>O serviço do NPJ atende as quatro áreas principais: direito civil, penal, trabalhista e familiar. Entre as áreas mais procuradas, se destaca a civil, que é justamente a que a Heloísa Elena de 66 anos foi buscar ajuda. Após 1 ano em meio a desentendimentos por conta de um terreno, Heloísa procurou primeiramente a Prefeitura e acabou encontrando um papel o qual apresentava locais com atendimento jurídico gratuito e assim encontrou a NPJ Barra.</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1045311340&amp;auto_play=true&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Áudio Heloisa\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen /><a href=\"https://soundcloud.com/agenciauvabarra\" title=\"Agência UVA Barra\">Agência UVA Barra</a> · <a href=\"https://soundcloud.com/agenciauvabarra/audio\" title=\"ÁUDIO HELOISA\">ÁUDIO HELOISA</a><p>Após ser recepcionada no projeto, Heloísa conseguiu dar andamento com o processo e garantir seu direito ao terreno que havia comprado. Ela conta que não esperava ser tão bem recebida e que é grata até hoje.”Assim que cheguei no Núcleo fui atendida de imediato, fui muito bem tratada, passei as informações do meu problema. Me senti segura e a partir daí foi só alegria, pois tudo começou a melhorar”.</p><p>Além de auxiliar pessoas com baixo poder aquisitivo, o projeto resgata o senso de justiça que muitos não têm a chance de vivenciar. O coordenador do curso de Direito, campus Barra, Soniárlei Vieira, conta que dar um retorno positivo para os clientes é o que o move, é o que o faz acreditar no poder do Direito.</p><p><strong>Ouça o áudio do Coordenador contando sobre o que o motiva</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1045311871&amp;auto_play=true&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Áudio Soniarlei\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen /><a href=\"https://soundcloud.com/agenciauvabarra\" title=\"Agência UVA Barra\">Agência UVA Barra</a> · <a href=\"https://soundcloud.com/agenciauvabarra/audio-2\" title=\"AUDIO SONIARLEI\">AUDIO SONIARLEI</a><p>As ações continuam ocorrendo de forma virtualizada visando agilizar os processos e quem precisa dessa ajuda deve enviar um e-mail para npj-barra@uva.br ou pelo telefone 3325-4412. Para ser elegível ao atendimento gratuito é necessário o interessado declarar que não tem condições de arcar com as custas processuais e honorários de advogado sem prejuízo próprio ou de sua família.</p><p><em>Natalia Lisboa – 6º período</em></p></main>"
+  },
+  "date": "2021-05-08T16:54:58",
+  "date_gmt": "2021-05-08T19:54:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No cenário atual, onde há muitas incertezas sobre a economia e 14,5% da população encontra-se desempregada, os serviços gratuitos ajudaram muitos brasileiros. No Núcleo de Prática Jurídica (NPJ) da Universidade Veiga de Almeida, campus Barra, o objetivo principal é fazer com que universitários ajudem os mais vulneráveis a obterem justiça. </p>\n"
+  },
+  "featured_media": 9275,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9263"
+  },
+  "id": 9263,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/whatsapp-image-2021-05-08-at-16.52.21.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2pp",
+  "link": "https://agenciauvabarra.com/2021/05/08/assistencia-juridica-gratuita/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-05-08T16:54:58",
+  "modified_gmt": "2021-05-08T19:54:58",
+  "ping_status": "open",
+  "slug": "assistencia-juridica-gratuita",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    27845248,
+    1509254
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Assistência jurídica gratuita"
+  },
+  "type": "post"
+}

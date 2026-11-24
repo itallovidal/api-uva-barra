@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14280/revisions/14287",
+        "id": 14287
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14280"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14280",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14280/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14280"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14286"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14280",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14280",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    23208
+  ],
+  "class_list": [
+    "post-14280",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-entretenimento",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-riododesejo",
+    "tag-romance"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>\"O Rio do Desejo\" chega aos cinemas contando a história de um quadrado amoroso e familiar. Após o policial Dalberto ter conhecido Aníra e ter se apaixonado loucamente por ela, os dois decidem morar na cidade em que ele vive com os dois irmãos. Nesse conflito os irmãos se apaixonam pela cunhada e a narrativa vai abordar a obsessão por um sentimento que eles têm por ela.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/ord-10.jpg?resize=2880%2C1205&amp;ssl=1\" alt=\"\" width=\"2880\" height=\"1205\" /><figcaption>Foto: Divulgação</figcaption></figure><p>O longa é dirigido por Sérgio Machado e traz Sophie Charlotte, Daniel de Oliveira, Gabriel Leone e Rômulo Braga no elenco. O roteiro de Sergio Machado, George Walker Torres, Maria Camargo e Milton Hatoum aborda uma paixão proibida e trágica pelos três irmãos e foi baseado no conto \"O Adeus do Comandante\".</p><p>Para criar a atmosfera desse amor proibido e cheio de sedução, a fotografia trouxe um tom quente com a paleta esverdeada e um toque de azul claro. Os ângulos das cenas transportam o espectador para a história.</p><p>O Rio do Desejo estreia na quinta-feira, 23/03. Assista ao trailler!</p><figure><iframe src=\"https://www.youtube.com/embed/QY42AQ-9Pws?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p><br><em>Alex Tinoco – 1° período</em></p></main>"
+  },
+  "date": "2023-03-23T14:38:35",
+  "date_gmt": "2023-03-23T17:38:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“O Rio do Desejo” chega aos cinemas contando a história de um quadrado amoroso e familiar. Após o policial Dalberto ter conhecido Aníra e ter se apaixonado loucamente por ela, os dois decidem morar na cidade em que ele vive com os dois irmãos. Nesse conflito os irmãos se apaixonam pela cunhada e a narrativa vai abordar a obsessão por um sentimento que eles têm por ela.</p>\n"
+  },
+  "featured_media": 14286,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14280"
+  },
+  "id": 14280,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/ord-14.jpg?fit=2880%2C1205&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Ik",
+  "link": "https://agenciauvabarra.com/2023/03/23/agencia-uva-barra-assistiu-o-rio-do-desejo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-24T17:37:30",
+  "modified_gmt": "2023-03-24T20:37:30",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-o-rio-do-desejo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    34939883,
+    17563,
+    761162967,
+    8154
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: O rio do desejo"
+  },
+  "type": "post"
+}

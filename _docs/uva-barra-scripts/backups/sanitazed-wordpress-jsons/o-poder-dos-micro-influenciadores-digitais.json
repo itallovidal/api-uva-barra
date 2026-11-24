@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2324/revisions/2332",
+        "id": 2332
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2324"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2324",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2324/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2324"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2325"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2324",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2324",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2324",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-rio-info"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Como os novos comunicadores falam com o público certo ao compartilhar experiências</em></h4><p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/p_20180925_152243-e1538057975392.jpg?resize=2442%2C1373&#038;ssl=1' alt='P_20180925_152243' width='2442' height='1373' /><figcaption>Monique Fernandes, Tamires Maia e Iruama Santana discutem sobre o poder dos micro influenciadores nas plataformas digitais. Foto: Bárbara Faria</figcaption></figure></p><p style=\"text-align:justify;\">Os novos criadores de conteúdo têm um futuro promissor na esfera online. No último dia da 16ª edição do Rio Info, 25 de setembro, essa atividade crescente foi tema discutido no painel “A importância dos Micro Influenciadores nas Plataformas Digitais”. O bate-papo trouxe questões a respeito da relevância dessa nova área de atuação para o mercado digital e sobre como fazer sucesso nas redes.</p><p style=\"text-align:justify;\">A frequência de novidades e a interação real com o público são fatores importantes. A jornalista e influenciadora, Tamires Maia, 27 anos, trabalha há dois anos nas redes sociais. Ela diz que é necessário encontrar um nicho e trabalhar os próprios diferenciais dentro dele. “Nós alcançamos pessoas com interesses mais específicos através de um conteúdo mais direcionado. Além disso, a gente consegue manter uma proximidade e confiança maior com os seguidores”, afirma.</p><p style=\"text-align:justify;\">Os internautas não acreditam em propaganda de massa como antes. A empreendedora e assessora, Monique Fernandes, coordenou o painel e conta que os novos criadores de conteúdo têm um peso maior que os grandes influenciadores, pois muita gente já sabe que eles trabalham com publicidade. “O micro influenciador dificilmente está sendo pago por alguma marca, por isso o público enxerga a opinião deles de forma mais sincera. Passar credibilidade é fundamental”, relata.</p><p style=\"text-align:justify;\">Pessoas com diferentes formações têm migrado constantemente para a Internet. A blogueira, instagrammer e youtuber, Iruama Santana, 30 anos, abandonou a advocacia para se dedicar exclusivamente ao universo digital. Ela afirmou que encara essa atividade como uma empresa. “É necessário pensar nos investimentos e agir com profissionalismo. Para diferenciar dos grandes influenciadores, a nossa comunicação apresenta menos ruídos”, conta.</p><p style=\"text-align:justify;\">O compartilhamento de experiências verdadeiras passou a funcionar melhor do que os anúncios. Os micro influenciadores possibilitam relações mais estreitas com os seguidores. Ao contrário dos grandes influenciadores digitais, eles cativam de forma mais espontânea e são capazes de alcançar mais pessoas em relação à qualidade. “O conselho que fica para quem quer atuar na área é que há mercado e que nunca é tarde para começar”, comenta Iruama Santana.</p><p style=\"text-align:justify;\"><strong>Bárbara Faria – 6º período</strong></p><p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/p_20180925_152533_1.jpg?resize=1631%2C1360&#038;ssl=1' alt='P_20180925_152533_1' width='1631' height='1360' /><figcaption>Perguntas expostas pelo projetor como forma de interação com o público. Foto: Bárbara Faria</figcaption></figure></p><p>&nbsp;</p></main>"
+  },
+  "date": "2018-09-27T11:12:14",
+  "date_gmt": "2018-09-27T14:12:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Como os novos comunicadores falam com o público certo ao compartilhar experiências Os novos criadores de conteúdo têm um futuro promissor na esfera online. No último dia da 16ª edição do Rio Info, 25 de setembro, essa atividade crescente foi tema discutido no painel “A importância dos Micro Influenciadores nas Plataformas Digitais”. O bate-papo trouxe [&hellip;]</p>\n"
+  },
+  "featured_media": 2325,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2324"
+  },
+  "id": 2324,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/p_20180925_152243-e1538057975392.jpg?fit=2442%2C1373&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Bu",
+  "link": "https://agenciauvabarra.com/2018/09/27/o-poder-dos-micro-influenciadores-digitais/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-09-27T11:19:41",
+  "modified_gmt": "2018-09-27T14:19:41",
+  "ping_status": "open",
+  "slug": "o-poder-dos-micro-influenciadores-digitais",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    22711148
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O poder dos micro influenciadores digitais"
+  },
+  "type": "post"
+}

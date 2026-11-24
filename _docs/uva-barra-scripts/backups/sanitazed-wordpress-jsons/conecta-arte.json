@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14064/revisions/14068",
+        "id": 14068
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14064"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14064",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14064/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14064"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14067"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14064",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14064",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    35004455,
+    22
+  ],
+  "class_list": [
+    "post-14064",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-comportamento-2",
+    "category-internet",
+    "tag-agencia-uva-barra",
+    "tag-influenciador",
+    "tag-internet",
+    "tag-midia-2",
+    "tag-redesocial"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O programa “Conecta Arte” traz a produtora e editora Gabriella Freitas para uma conversa sobre “Influenciadores digitais e as redes sociais”. Gabriella trabalha no youtube, integrando a equipe de duas influenciadoras sólidas do meio artístico, e falou sobre o papel dos influenciadores no mundo atual, como lidar com essa relação entre o mundo real e o virtual, além do convívio com pessoas que estão inseridas no meio.</p><p>O “Conecta Arte” foi produzido pelos alunos do 2° período Bruno Barros, Cauã Tinoco, Déborah Gama, Juan Sebastian e Mariana Damous. A apresentação ficou por conta de Julia Alves e Mayara Rocha.</p><p><strong>Confira o programa completo!</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/QoT85GHNSPU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><em>*Programa produzido para a disciplina de Conexões e Narrativas Sociais, sob a supervisão da professora Renata Feital</em></p></main>"
+  },
+  "date": "2023-02-13T08:58:54",
+  "date_gmt": "2023-02-13T11:58:54",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O programa “Conecta Arte” traz a produtora e editora Gabriella Freitas para uma conversa sobre “Influenciadores digitais e as redes sociais”. Gabriella trabalha no youtube, integrando a equipe de duas influenciadoras sólidas do meio artístico, e falou sobre o papel dos influenciadores no mundo atual, como lidar com essa relação entre o mundo real e o virtual, além do convívio com pessoas que estão inseridas no meio. </p>\n"
+  },
+  "featured_media": 14067,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14064"
+  },
+  "id": 14064,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/whatsapp-image-2023-02-14-at-12.34.45.jpeg?fit=818%2C498&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3EQ",
+  "link": "https://agenciauvabarra.com/2023/02/13/conecta-arte/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-02-14T12:44:32",
+  "modified_gmt": "2023-02-14T15:44:32",
+  "ping_status": "open",
+  "slug": "conecta-arte",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    11263121,
+    767056590,
+    34947555,
+    3565004
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Conecta Arte"
+  },
+  "type": "post"
+}

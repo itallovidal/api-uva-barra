@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2293/revisions/3169",
+        "id": 3169
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2293"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2293",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2293/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2293"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2294"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2293",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2293",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-2293",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-feira-de-praticas-sustentaveis"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Evento é dividido em três partes e acontece nos campi Barra e Tijuca</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_20180919_142406745_hdr.jpg?resize=4160%2C3120&amp;ssl=1' alt='IMG_20180919_142406745_HDR' width='4160' height='3120' /><figcaption>Participantes da feira aprendem a criar e usar tintas criadas com produtos naturais. Foto: Junior Almeida</figcaption></figure><p>Na última quarta-feira (19) a UVA recebeu no campus Barra a primeira parte da Feira de Práticas Sustentáveis, organizado pela professora Lurdes Costa, do curso de psicologia. O que começou como um evento em 2016, virou um projeto de extensão com o objetivo de fazer uma ponte entre alunos, ONGs e o mercado de trabalho. Através de palestras e atividades os participantes puderam colocar em prática os conceitos aprendidos em aula. </p><p>O formato inicial buscava enxergar oportunidades de trabalho, inovação e colaboração. Nara Iwata, Diretora Acadêmica do campus Barra, destaca a importância de conectar a comunidade com os cursos. “A universidade é caracterizada por um tripé: ensino, pesquisa e extensão. A extensão é levar o conhecimento que a gente produz para a sociedade”, destaca.</p><figure class=\"alignleft\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/20180919_153720.jpg?resize=4128%2C3096&amp;ssl=1' alt='20180919_153720' width='4128' height='3096' /><figcaption>Lurdes Costa e Marcello Brandão duante palestra no campus Barra. Foto: Graziela Andrade</figcaption></figure><p>Na primeira parte da feira foi realizada uma oficina sobre o uso de tintas naturais como forma de desenvolver a consciência ambiental. A atividade foi comandada por Letícia Almeida, arquiteta e membro da ONG Sustentarte. “A forma criativa nos ajuda a sair do que nós já sabemos e faz com que nós nos reinventemos para o que precisamos”, afirma Letícia.</p><p>A parte da tarde foi marcada pela palestra “Aumentando as chances de patrocínio para o seu projeto”, ministrada pelo mestre em responsabilidade social, Marcello Nunes Brandão. Na discussão temas como: os caminhos que alunos e ONGs passam para conseguir apoio financeiro e a importância de haver um equilíbrio entre o social, o ambiental e o financeiro. Brandão destaca o crescimento do evento neste terceiro ano. “A UVA está de parabéns por fazer a terceira FPS. Hoje nós vimos como a feira evoluiu”.</p><p>Os frutos da Feira poderão ser colhidos em outubro, nos dias 17 e 18/10, nos campi Barra e Tijuca, respectivamente. Na data, alunos e representantes de ONGs terão dez minutos para apresentarem seus projetos a uma banca. Desta forma o que foi aprendido na primeira parte poderá ser efetivamente aplicado, confirmando que os muros da universidade não estão fechados, mas abertos e em trocas importantes na sociedade.</p><p><strong>Junior Almeida – 3º período</strong></p></main>"
+  },
+  "date": "2018-09-24T20:56:24",
+  "date_gmt": "2018-09-24T23:56:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento é dividido em três partes e acontece nos campi Barra e Tijuca Na última quarta-feira (19) a UVA recebeu no campus Barra a primeira parte da Feira de Práticas Sustentáveis, organizado pela professora Lurdes Costa, do curso de psicologia. O que começou como um evento em 2016, virou um projeto de extensão com o [&hellip;]</p>\n"
+  },
+  "featured_media": 2294,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2293"
+  },
+  "id": 2293,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_20180919_142406745_hdr.jpg?fit=4160%2C3120&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-AZ",
+  "link": "https://agenciauvabarra.com/2018/09/24/uva-promove-terceira-edicao-da-feira-de-praticas-sustentaveis/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-09T12:10:08",
+  "modified_gmt": "2019-02-09T14:10:08",
+  "ping_status": "open",
+  "slug": "uva-promove-terceira-edicao-da-feira-de-praticas-sustentaveis",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    635305752
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA promove Terceira Feira de Práticas Sustentáveis"
+  },
+  "type": "post"
+}

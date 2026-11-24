@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5787/revisions/5796",
+        "id": 5796
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5787"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5787",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5787/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5787"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5793"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5787",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5787",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    758
+  ],
+  "class_list": [
+    "post-5787",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-arena-maker",
+    "tag-cidade-das-artes",
+    "tag-hacktudo-2019"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Uma área destinada a troca de conhecimentos e oportunidade para quem está começando na carreira tecnológica</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_4738-e1572359287163.jpeg?resize=4032%2C2377&amp;ssl=1' alt='' width='4032' height='2377' /><figcaption>Arena Maker é uma atração que dá oportunidade de destaque aos novos integrantes do mercado tecnológico – Foto: Isabella Lutz</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_4741.jpeg?resize=3965%2C2974&amp;ssl=1' alt='' width='3965' height='2974' /><figcaption>Público interage com as exposições – Foto: Isabella Lutz</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_4731.jpeg?resize=4032%2C3024&amp;ssl=1' alt='' width='4032' height='3024' /><figcaption>Todo tipo de projeto tecnológico era encontrado no local- Foto: Isabella Lutz</figcaption></figure><p>O Hacktudo é um evento que, além de oferecer entretenimento e palestras, também dá oportunidade às pessoas que estão começando na área de tecnologia. No último fim de semana (26 e 27), a Arena Maker era uma das atrações do festival cultural digital. O público podia interagir com os projetos que exploravam a várias vertentes, como robótica e design.</p><p>O idealizador e diretor do Hacktudo, Miguel Colker, diz que a Arena Maker é uma parte do festival exclusiva para dar visibilidade aos projetos inovadores de grupos que estão iniciando a carreira nesse mercado. “Quem está começando, precisa de um empurrão. Então é importante ter um espaço, em um evento ambientado ao tema, que possa dar destaque a eles”, ressalta.</p><p>O projeto maker é o termo utilizado para o ambiente personalizado que possibilita que o indivíduo faça uso da sua criatividade para se expressar. A professora de artes e uma das participantes da empresa PequenoLAB, Marrytsa Melo, conta que, graças a esse universo, o trabalho do grupo vai para frente e tem visibilidade. “Estar no Hacktudo com as nossas propostas é muito legal porque podemos compartilhar com o público as nossas experiências”, relata.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_4727.jpeg?resize=599%2C449&amp;ssl=1' alt='' width='599' height='449' /><figcaption>Expositores do PequenoLab – Foto: Isabella Lutz</figcaption></figure><p>O espaço tem como objetivo despertar curiosidade no público, por isso que é autorizado a interatividade das pessoas com os trabalhos expostos. A universitária de Design de Mídias Digitais, Larissa Gazzoni, fala que acha essencial essa ideia do evento, principalmente para despertar interesse no público infantil nesse segmento. “Além de promover mais conhecimentos de várias áreas de tecnologia, é algo fundamental para inspirar as crianças sobre o futuro e de forma interativa”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_4742.jpeg?resize=594%2C445&amp;ssl=1' alt='' width='594' height='445' /><figcaption>Protótipo de drone feito para falar sobre circuito elétrico – Foto: Isabella Lutz</figcaption></figure><p>Era possível encontrar pessoas que estão começando a pensar no futuro através da exposição. Além de ter adultos formados como expositores, adolescentes que ainda estão em formação também experimentam trabalhar no universo tecnológico. O estudante do primeiro ano do ensino médio, Felipe Bordalo, esteve no Hacktudo pela terceira vez. “É uma ótima experiência para olhar o futuro. Podemos prestar atenção na reação do público e ver se os nossos protótipos têm potencial para, um dia, se tornarem um produto final”, conta.</p><p>O engenheiro elétrico, Cássio dos Santos, estava no evento para apoiar o filho que era um dos expositores. O pai revela que estava satisfeito com a troca de conhecimentos que estava acontecendo no local. “Os espectadores estão mostrando curiosidade e estão recebendo respostas que consigam suprir suas dúvidas. Está sendo uma troca muito boa”, relata.</p><p>O Hacktudo encerrou com mais de 20 stands espalhados pela Cidade das Artes. Os projetos culturais conseguiram prender a atenção dos espectadores, causando satisfação a cada ensinamento diferente na arena, além de concluir o principal objetivo da atração: dar atenção a novos talentos do mercado digital.</p><p><strong>Isabella Lutz – 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-29T11:32:37",
+  "date_gmt": "2019-10-29T14:32:37",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Uma área destinada a troca de conhecimentos e oportunidade para quem está começando na carreira tecnológica O Hacktudo é um evento que, além de oferecer entretenimento e palestras, também dá oportunidade às pessoas que estão começando na área de tecnologia. No último fim de semana (26 e 27), a Arena Maker era uma das atrações [&hellip;]</p>\n"
+  },
+  "featured_media": 5793,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5787"
+  },
+  "id": 5787,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_4738-e1572359287163.jpeg?fit=4032%2C2377&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1vl",
+  "link": "https://agenciauvabarra.com/2019/10/29/arena-maker-e-uma-das-atracoes-do-hacktudo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-29T11:32:37",
+  "modified_gmt": "2019-10-29T14:32:37",
+  "ping_status": "open",
+  "slug": "arena-maker-e-uma-das-atracoes-do-hacktudo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    29849062,
+    15767449,
+    688980907
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Arena Maker é uma das atrações do HACKTUDO"
+  },
+  "type": "post"
+}

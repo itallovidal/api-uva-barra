@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17798/revisions/17802",
+        "id": 17802
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17798"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17798",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17798/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17798"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17801"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17798",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17798",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17798",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Em <em>Terrifier 3</em>, dirigido por Damien Leone, o palhaço Art retorna em uma sanguinária continuação. Neste filme, acompanhamos o desdobramento da vida de Sienna e seu irmão Jonathan após sobreviverem ao aterrorizante encontro com Art, agora em um infeliz reencontro natalino.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/3084799.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg?resize=699%2C1080&#038;ssl=1' alt='' width='699' height='1080' /><figcaption></figcaption></figure><p>O longa anterior ficou marcado por suas cenas de alta violência explícita, o que resultou em diversos casos de espectadores que se retiraram das salas. E posso dizer que, desta vez, não será diferente. Para os amantes do gênero, <em>Terrifier 3</em> é um prato cheio de sangue, torturas e sofrimento.</p><p>Damien Leone prometeu avançar os limites e cumpriu, buscando meios mais criativos para massacrar e torturar suas vítimas, com cenas que embrulham o estômago e fazem o espectador pensar duas vezes antes de comer pipoca no cinema.</p><p>Em seus filmes anteriores, os fãs do novo palhaço assassino reclamaram da escassez de história e do desenvolvimento dos personagens, o que não é o caso aqui. A trama é bem desenvolvida conforme as cenas avançam e exploram melhor seu universo. Nota-se uma maior importância na presença de alguns personagens, e é perceptível a evolução da protagonista Sienna Shaw, interpretada por Lauren LaVera, que entrega uma das melhores atuações desta película, ao lado de David Howard Thornton, que interpreta o carismático e impiedoso Art. Seus trejeitos e caricaturas icônicas fazem com que o público sinta uma certa conexão com o personagem.</p><p>Damien, que é um profissional da área, continua com uma equipe de maquiagem e efeitos práticos grotescos e impecáveis, característicos da marca <em>Terrifier</em>. Com uma melhora gradual na direção, roteiro e elenco, para aqueles com estômago de ferro, será uma experiência marcante que promete traumatizar suas mentes por um longo tempo.</p><figure><iframe src='https://www.youtube.com/embed/jdEe8sql-iQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>Gabriel Veras – 1° Período</p></main>"
+  },
+  "date": "2024-10-29T15:02:26",
+  "date_gmt": "2024-10-29T18:02:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Em Terrifier 3, dirigido por Damien Leone, o palhaço Art retorna em uma sanguinária continuação. Neste filme, acompanhamos o desdobramento da vida de Sienna e seu irmão Jonathan após sobreviverem ao aterrorizante encontro com Art, agora em um infeliz reencontro natalino. O longa anterior ficou marcado por suas cenas de alta violência explícita, o que [&hellip;]</p>\n"
+  },
+  "featured_media": 17801,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17798"
+  },
+  "id": 17798,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/3084799.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg?fit=699%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4D4",
+  "link": "https://agenciauvabarra.com/2024/10/29/agencia-uva-barra-assistiu-terrifier-3/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-10-29T15:02:26",
+  "modified_gmt": "2024-10-29T18:02:26",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-terrifier-3",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Terrifier 3"
+  },
+  "type": "post"
+}

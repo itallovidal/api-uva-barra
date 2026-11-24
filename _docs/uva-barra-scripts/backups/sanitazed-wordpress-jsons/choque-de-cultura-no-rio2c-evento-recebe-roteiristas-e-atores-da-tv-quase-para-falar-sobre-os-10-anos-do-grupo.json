@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3933/revisions/3967",
+        "id": 3967
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3933"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3933",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3933/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3933"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3945"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3933",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3933",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3933",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-choque-de-cultura",
+    "tag-cidade-das-artes",
+    "tag-rio2c",
+    "tag-tv-quase"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Caito Mainier, Daniel Furlan, Juliano Enrico, Leandro Ramos e Raul Chequer estiveram no último painel do Rio2C</em></p><p>Roteiristas e atores da TV Quase, criadores do Choque de Cultura, programa cultural com “os maiores nomes do transporte alternativo do país”, estiveram presente no último dia do Rio2C para falar sobre os 10 anos da produtora. O painel tinha como objetivo contar a trajetória do grupo, compartilhando com o público as histórias e as dificuldades de fazer este produto.</p><p>A primeira tentativa do grupo, o qual já contava com alguns integrantes que ainda hoje fazem parte da TV Quase, como Juliano Enrico e Daniel Furlan, foi uma revista chamada Quase. O projeto seguinte foi migrar para a produção de conteúdo audiovisual, com inscrição de curtas em festivais de cinema e <em>Youtube</em>. </p><p>Confira no vídeo abaixo algumas experiências vividas durante a trajetória dos integrantes:</p><figure><img src=\"https://www.youtube.com/embed/tjMawI-mnog?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" alt=\"\" width=\"640\" height=\"360\" /><figcaption><br></figcaption></figure><p>.</p><p>E foi no <em>Youtube </em>que os produtores ganharam popularidade. Caito Mainier conta que o programa mais querido pelo público, Choque de Cultura, nasceu de uma parceria com o canal “Omeleteve”. O Choque é um quadro no qual os atores criam humor através de personagens, que são motoristas de van, realizando críticas cinematográficas. Caito diz que o fato do conteúdo ter saído do Omelete criou a estranheza necessária para o público, que se perguntou se aquilo era real ou não. “O comentário do qual eu mais me orgulho é de um cara que escreveu que claramente éramos atores”, brinca Caito.</p><p>O primeiro episódio do Choque de Cultura foi publicado em novembro de 2016, com o título de “Harry Potter Sem Harry Potter”. O programa, que no momento conta com 2.280.677 visualizações, analisava, “com seriedade e profissionalismo”, o filme Animais Fantásticos e Onde Habitam. Caito também falou sobre as mudanças que o quadro sofreu desde o início. “A gente vê a diferença entre o antigo e o atual. Vai ver aquele era para ser único mesmo”, diz.</p><p>Questionados sobre futuros, Leandro Ramos respondeu que o grupo tem roteiro e argumento prontos para o longa do Falha de Cobertura, e ideias de novos programas, como um longa para o Choque de Cultura. “E se tudo der errado a gente faz um programa militar no ano que vem”, graceja.</p><p><strong>Gabriel Torres &#8211; 5º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-30T14:35:19",
+  "date_gmt": "2019-04-30T17:35:19",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Caito Mainier, Daniel Furlan, Juliano Enrico, Leandro Ramos e Raul Chequer estiveram no último painel do Rio2C Roteiristas e atores da TV Quase, criadores do Choque de Cultura, programa cultural com “os maiores nomes do transporte alternativo do país”, estiveram presente no último dia do Rio2C para falar sobre os 10 anos da produtora. O [&hellip;]</p>\n"
+  },
+  "featured_media": 3945,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3933"
+  },
+  "id": 3933,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/1-1-2.jpg?fit=4896%2C3672&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-11r",
+  "link": "https://agenciauvabarra.com/2019/04/30/choque-de-cultura-no-rio2c-evento-recebe-roteiristas-e-atores-da-tv-quase-para-falar-sobre-os-10-anos-do-grupo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-30T16:12:31",
+  "modified_gmt": "2019-04-30T19:12:31",
+  "ping_status": "open",
+  "slug": "choque-de-cultura-no-rio2c-evento-recebe-roteiristas-e-atores-da-tv-quase-para-falar-sobre-os-10-anos-do-grupo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    7106332,
+    15767449,
+    604292533,
+    25696594
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Choque de Cultura no Rio2C: evento recebe roteiristas e atores da TV Quase para falar sobre os 10 anos do grupo"
+  },
+  "type": "post"
+}

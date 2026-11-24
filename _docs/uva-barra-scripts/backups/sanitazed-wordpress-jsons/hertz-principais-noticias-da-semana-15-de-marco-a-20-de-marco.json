@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21419/revisions/21515",
+        "id": 21515
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21419"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21419",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21419/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21419"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21345"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21419",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21419",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-21419",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>E esse foi o Hertz! Os destaques da semana foram a escalada de tensões no Oriente Médio, com ataques aéreos entre Israel, Irã e Hezbollah que deixaram áreas residenciais atingidas e colocaram a população em alerta, a internação do técnico Vanderlei Luxemburgo em estado de atenção devido a uma infecção pulmonar, e a repercussão internacional da morte do ator Chuck Norris, ícone do cinema de ação, aos 86 anos.</p><p>Quer saber mais sobre? Sintonize agora na Rádio UVA Barra!</p><figure><img src='https://www.instagram.com/reel/DWHonBTieHF/?utm_source=ig_embed&amp;utm_campaign=loading' alt='Post do Instagram' width='500' height='500'><blockquote>Citação de exemplo que deve ser preservada.</blockquote></figure><p>CRÉDITOS<br>Roteiro e Apresentação: Madu Zamba – 3º período de Jornalismo<br>Edição: Carolina Alves – 5º período de Jornalismo<br>Coordenação Rádio UVA Barra: Prof. Anderson Barreto<br>Coordenação do Curso de Jornalismo: Profa. Renata Feital</p></main>"
+  },
+  "date": "2026-03-20T12:33:49",
+  "date_gmt": "2026-03-20T15:33:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>E esse foi o Hertz! Os destaques da semana foram a escalada de tensões no Oriente Médio, com ataques aéreos entre Israel, Irã e Hezbollah que deixaram áreas residenciais atingidas e colocaram a população em alerta, a internação do técnico Vanderlei Luxemburgo em estado de atenção devido a uma infecção pulmonar, e a repercussão internacional [&hellip;]</p>\n"
+  },
+  "featured_media": 21345,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21419"
+  },
+  "id": 21419,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-06-113047-e1778077932904.png?fit=565%2C258&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5zt",
+  "link": "https://agenciauvabarra.com/2026/03/20/hertz-principais-noticias-da-semana-15-de-marco-a-20-de-marco/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAC+Aaq33bIRyLm43w8H6/zy3gcAyLm43w8Aq/zy3gfIubjfDwGr/PLeB8i5uN8PAOv88t4HE4i5uN8P6/zy3gcFiLm43w+r/PLeB4i5uN8P6/zy3gcDiLm43w+r/PLeB4i5uN8Pq/zy3geIubjfD+v88t4HAYi5uN8P6/zy3gcDiLm43w/r/PLeBwWIubjfD6v88t4HiLm43w+r/PLeB4i5uN8P6/zy3gcHiLm43w/r/PLeBwmIubjfD+v88t4HmQKzArwJMAIKBKYz0DOONP4zujT0DvgCwC1Cnh5CpgJYlAYcWDqQEiQ0GtIzoDMSBuYzAqgzBOIzAwCiM9wzojME1jOcMywGwDQDAJA0Bg4U2jSeNAgOGAbsNLA0AgQCCiwGGgIMFQAGFgwGAwAOAgQCBjQGAgweEOpGOgEQLAIBAQgBA0gKzAECnA6aDwAy6B2cHgEBCAEDSAoOWI4CAQEIAQNIAgQCAQL4BJgJAwGcAQIEyAYASJgGAQEIAQNIAghKPKgB4CpypgECkiv8BQMBogrGCQIEApATIgIeAhICGAIMAhIGBAMABQACBAIEAioEAhIDAAQCCgISAwEGAgwCFgMABQACBAIKKgIEAhgDAAoCEgIIBQICEgQIBQADAQwDAwYYGgIEAwAKAhwDAQoCCAIG/EZcrgoCCgSmM9AzCQAeqCWSCiQ0GgAOEgYBAAUAAQEEAAYEAAYsBgEBFAYOFAAECA4YBgAEAgQCCiwGGgIMFQAGFgwGAwAOAgQCBjQGAgweEOpGnh6cCAMBAJwBAgTxAigAhADECCEAxACoASgAqAAoAKgAKACoASgAAAAoAoQAxAPBAsQBwQDEAcEAxADBAcQAwQDEAMEAxAHBAMQAwQDEA8EAxAXBBcQXIQInAAEAJwEoACEAKAQnACgSIQEnAAcAIQAoAScBKAQnAAQARACEAAQAhACBAMQAhACHACEAKAEnASgEJwABAIQAhwAhACgAIQAnACEFJwChAKgAJwAoA4QHIQAoAIcAIQAoAScBKAQnAKEAAQCBAAAAgQAAAIEAAACoAqEAgQAAAMQHhACBAIQAgQCEAIEAhACBAIQAgQCEAIEDhACBAYQAgQGEAIEAhACBAIQAgQCEAIEAhAGBAIQAgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQWEAIEAhACBAIQBgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAgQCEAIEAhAKBAIQBgQCEA4EAhACBAIQBgQCEAIEAhACBAIQAgQCEAIEAhACBAIQAqPQfjx5zdGF0ZXZlcnNpb25DUsOJRElUT1M8YnI+Um90ZWlybyBlIEFwcmVzZW50YcOnw6NvOiBNYWR1IFphbWJhIOKAkyAzwrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbzxicj5FZGnDp8OjbzogQ2Fyb2xpbmEgQWx2ZXMgLSA1wrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbzxicj5Db29yZGVuYcOnw6NvIFLDoWRpbyBVVkEgQmFycmE6IFByb2YuIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mYS4gUmVuYXRhIEZlaXRhbEFwcnNlbnRhTWR1IFptYmEzRWktc3RhdGV2ZXJzaW9uYW1wO29yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudG9yaWdpbmFsQ29udGVudGRvY3VtZW50c2x1Z3N0YXRlc2F2ZWRBdHN0YXRlc2F2ZWRCeUNSw4lESVRPUzxicj5Sb3RlaXJvLCBMb2N1w6fDo28gZSBlZGnDp8OjbzogQ2Fyb2xpbmEgQWx2ZXMg4oCTIDXCuiBwZXLDrW9kbyBkZSBKb3JuYWxpc21vPGJyPlByb2R1w6fDo286IENhcm9saW5hIEFsdmVzIOKAkyA1wrogcGVyw61vZG8gZGUgSm9ybmFsaXNtbyBlIER1ZGEgTmljb2xpY2gg4oCTIDPCuiBwZXLDrW9kbyBkZSBKb3JuYWxpc21vPGJyPkNvb3JkZW5hw6fDo28gUsOhZGlvIFVWQSBCYXJyYTogUHJvZi4gQW5kZXJzb24gQmFycmV0bzxicj5Db29yZGVuYcOnw6NvIGRvIEN1cnNvIGRlIEpvcm5hbGlzbW86IFByb2ZhLiBSZW5hdGEgRmVpdGFsQ1LDiURJVE9TYlJvdGVpb2UgZcOnw6M6IGFh4oCTIHBicmTDp8OjbyBDb2xpbkFsdmVzIDXCuiBlw61vZG9kZUpuYWxpc21vYnJDb29kZW7Dp8Ojb1LDoWRpb1VWQSBCOlBmLm5kcm9uQmFycnRvPGI+Q29yZW5hw6fDo28gQ3Vyc28gZCBQb2YuUmVudEZlaXRhbHN0YXRldmVyc2lvbmRvY3VtZW50ZGF0ZWRvY3VtZW50c3RhdHVzZG9jdW1lbnR0aXRsZWRvY3VtZW50Y29udGVudGRvY3VtZW50ZXhjZXJwdGRvY3VtZW50YXV0aG9yZG9jdW1lbnRmZWF0dXJlZF9tZWRpYWRvY3VtZW50Y29tbWVudF9zdGF0dXNkb2N1bWVudHBpbmdfc3RhdHVzZG9jdW1lbnRzdGlja3lkb2N1bWVudHRlbXBsYXRlZG9jdW1lbnRmb3JtYXRkb2N1bWVudG1ldGFhZHZhbmNlZF9zZW9fZGVzY3JpcHRpb25qZXRwYWNrX3Nlb19odG1sX3RpdGxlamV0cGFja19zZW9fbm9pbmRleF9jb2Jsb2Nrc19hdHRyX2NvYmxvY2tzX2RpbWVuc2lvbnNfY29ibG9ja3NfcmVzcG9uc2l2ZV9oZWlnaHRfY29ibG9ja3NfYWNjb3JkaW9uX2llX3N1cHBvcnRqZXRwYWNrX3Bvc3Rfd2FzX2V2ZXJfcHVibGlzaGVkcmVhZGVyX3N1Z2dlc3RlZF90YWdzX2pldHBhY2tfbmV3c2xldHRlcl9hY2Nlc3NfamV0cGFja19kb250X2VtYWlsX3Bvc3RfdG9fc3Vic19qZXRwYWNrX25ld3NsZXR0ZXJfdGllcl9pZF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BheXdhbGxlZF9jb250ZW50X2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGFpZF9jb250ZW50Zm9vdG5vdGVzamV0cGFja19wdWJsaWNpemVfbWVzc2FnZWpldHBhY2tfcHVibGljaXplX2ZlYXR1cmVfZW5hYmxlZGpldHBhY2tfc29jaWFsX3Bvc3RfYWxyZWFkeV9zaGFyZWRqZXRwYWNrX3NvY2lhbF9vcHRpb25zZG9jdW1lbnRjYXRlZ29yaWVzZG9jdW1lbnR0YWdzZG9jdW1lbnRibG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc0UgZXNzZSBmb2kgbyBIZXJ0eiEgT3MgZGVzdGFxdWVzIGRhIHNlbWFuYSBmb3JhbSBhIGVzY2FsYWRhIGRlIHRlbnPDtWVzIG5vIE9yaWVudGUgTcOpZGlvLCBjb20gYXRhcXVlcyBhw6lyZW9zIGVudHJlIElzcmFlbCwgSXLDoyBlIEhlemJvbGxhaCBxdWUgZGVpeGFyYW0gw6FyZWFzIHJlc2lkZW5jaWFpcyBhdGluZ2lkYXMgZSBjb2xvY2FyYW0gYSBwb3B1bGHDp8OjbyBlbSBhbGVydGEsIGEgaW50ZXJuYcOnw6NvIGRvIHTDqWNuaWNvIFZhbmRlcmxlaSBMdXhlbWJ1cmdvIGVtIGVzdGFkbyBkZSBhdGVuw6fDo28gZGV2aWRvIGEgdW1hIGluZmVjw6fDo28gcHVsbW9uYXIsIGUgYSByZXBlcmN1c3PDo28gaW50ZXJuYWNpb25hbCBkYSBtb3J0ZSBkbyBhdG9yIENodWNrIE5vcnJpcywgw61jb25lIGRvIGNpbmVtYSBkZSBhw6fDo28sIGFvcyA4NiBhbm9zLkhlcnR6IC0gPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkUgZXNzZSBmb2kgbyBIZXJ0eiEgT3MgZGVzdGFxdWVzIGRhIHNlbWFuYSBmb3JhbSBhIGVzY2FsYWRhIGRlIHRlbnPDtWVzIG5vIE9yaWVudGUgTcOpZGlvLCBjb20gYXRhcXVlcyBhw6lyZW9zIGVudHJlIElzcmFlbCwgSXLDoyBlIEhlemJvbGxhaCBxdWUgZGVpeGFyYW0gw6FyZWFzIHJlc2lkZW5jaWFpcyBhdGluZ2lkYXMgZSBjb2xvY2FyYW0gYSBwb3B1bGHDp8OjbyBlbSBhbGVydGEsIGEgaW50ZXJuYcOnw6NvIGRvIHTDqWNuaWNvIFZhbmRlcmxlaSBMdXhlbWJ1cmdvIGVtIGVzdGFkbyBkZSBhdGVuw6fDo28gZGV2aWRvIGEgdW1hIGluZmVjw6fDo28gcHVsbW9uYXIsIGUgYSByZXBlcmN1c3PDo28gaW50ZXJuYWNpb25hbCBkYSBtb3J0ZSBkbyBhdG9yIENodWNrIE5vcnJpcywgw61jb25lIGRvIGNpbmVtYSBkZSBhw6fDo28sIGFvcyA4NiBhbm9zLjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPlByaW5jaXBhaXMgbm90w61jaWFzIGRhIHNlbWFuYSAxNSBkZSBNYXLDp28gYSAyMCBkZSBNYXLDp29jbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc1F1ZXIgc2FiZXIgbWFpcyBzb2JyZT8gU2ludG9uaXplIGFnb3JhIG5hIFLDoWRpbyBVVkEgQmFycmEhY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjYXB0aW9ucHJvdmlkZXJOYW1lU2x1Z2FsbG93UmVzcG9uc2l2ZXJlc3BvbnNpdmVwcmV2aWV3YWJsZQoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPlF1ZXIgc2FiZXIgbWFpcyBzb2JyZT8gU2ludG9uaXplIGFnb3JhIG5hIFLDoWRpbyBVVkEgQmFycmEhPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOmVtYmVkIHsicHJvdmlkZXJOYW1lU2x1ZyI6Imluc3RhZ3JhbSIsInJlc3BvbnNpdmUiOnRydWV9IC8tLT51cmx0eXBlY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3N1cmwiOiJodHRzOi8vd3d3Lmluc3RhZ2FtLmNtL3JlZWwvRFdIb25CVGllSEYvP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGlua1x1MDAyNmlnc2g9TXpSbE9EQmlOV0ZsWkE9PSIsInR5cGUiOiJyaWNoIiwicHJvLS0+CjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWVtYmVkIGlzLXR5cGUtcmljaCBpcy1wcm92aWRlci1pbnN0YWdyYW0gd3AtYmxvY2stZW1iZWQtaW5zdGFncmFtIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RXSG9uQlRpZUhGLz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmYW1wO2lnc2g9TXpSbE9EQmlOV0ZsWkE9PQo8L2Rpdj48L2ZpZ3VyZT4KPCEgL3dwOmVtYmVkIC0tCgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+PHI+ciBvIMK6IGVyw61vZG8gZGUgSm9ybmFsaXNtbzw+OmFyYSAgcHIgIG9yPD5yYSAgYXJyYSBybyBBZXMgZXJvZG8gZGUgSm9ybmFsaXNtbzpyYSBhYSA8L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4FB7EDAwUBBANBAgUHBE8CCAQFBwUHpQQIAQUBAgFCAEEAAgECAQMCBAUEAQQCAQcCQwFFAEEAQgABAkQAQgAFCUIAAQMBBgUHCAQIBggFCAcIBwgGCA4IDggLCAZIAQYIBBgWEw4UGx4fFRogGy8qCRkhIhYICggECAYIBwQKRwAKDQ8MC5sGAQePBx4BGAgHBApHAAoNDwwLOggHBApHAAoNDwwLBxAPCguCAkEBLgECAQMECAcECkcACg0PDAsJDgQ1KYsCrQENG0EFAhVBAAJBBQJBBEIAAUIAQQUDDEEGGg8BAQADAQYAAAEJABIBAgAUQgEBAEEAAgBBAAIAQQAAAkEAAgBZQQoIQQJDAEEAAgEFAQNBAQcBBEEDE0EiGUEhEQEzATMBNEEBAwELEQ8JDAYJAwIBQgFBAAIJAQUJAQMGCwECAQIBBRUCDAUJBEIACQQCBgENAgUOAQUEAwEDCwB9AVMAdQN9mcyY6gR9rL6XBX2G8+m4AXckOGM2MWZjMWQtNjJhZS00ZjBmLTkyOTEtM2RmMWJjZmMyNTZmd7QDPHA+RSBlc3NlIGZvaSBvIEhlcnR6ISBPcyBkZXN0YXF1ZXMgZGEgc2VtYW5hIGZvcmFtIGEgZXNjYWxhZGEgZGUgdGVuc8O1ZXMgbm8gT3JpZW50ZSBNw6lkaW8sIGNvbSBhdGFxdWVzIGHDqXJlb3MgZW50cmUgSXNyYWVsLCBJcsOjIGUgSGV6Ym9sbGFoIHF1ZSBkZWl4YXJhbSDDoXJlYXMgcmVzaWRlbmNpYWlzIGF0aW5naWRhcyBlIGNvbG9jYXJhbSBhIHBvcHVsYcOnw6NvIGVtIGFsZXJ0YSwgYSBpbnRlcm5hw6fDo28gZG8gdMOpY25pY28gVmFuZGVybGVpIEx1eGVtYnVyZ28gZW0gZXN0YWRvIGRlIGF0ZW7Dp8OjbyBkZXZpZG8gYSB1bWEgaW5mZWPDp8OjbyBwdWxtb25hciwgZSBhIHJlcGVyY3Vzc8OjbyBpbnRlcm5hY2lvbmFsIGRhIG1vcnRlIGRvIGF0b3IgQ2h1Y2sgTm9ycmlzLCDDrWNvbmUgZG8gY2luZW1hIGRlIGHDp8OjbywgYW9zIDg2IGFub3MuPC9wPnckZjdhYTI4MzAtYjE4NC00YWFhLWEyYzgtNjc2YTZlMDMxZjU4d0I8cD5RdWVyIHNhYmVyIG1haXMgc29icmU/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhITwvcD53JDZhMDk2ODVkLWVkMGYtNDhjNS05YjhhLWUyMDc2NjJhNWJiY3fyATxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWVtYmVkIGlzLXR5cGUtcmljaCBpcy1wcm92aWRlci1pbnN0YWdyYW0gd3AtYmxvY2stZW1iZWQtaW5zdGFncmFtIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EV0hvbkJUaWVIRi8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmFtcDtpZ3NoPU16UmxPREJpTldGbFpBPT0KPC9kaXY+PC9maWd1cmU+d2FodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRFdIb25CVGllSEYvP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGluayZhbXA7aWdzaD1NelJsT0RCaU5XRmxaQT09dyQ2NDVhMzU0Ni05M2IyLTRmZmYtOWJkYi04NjRiNTY0YzUyZTV3GDxwPkVxdWlwZSBVVkEgQmFycmE6PC9wPnc9aGVydHotcHJpbmNpcGFpcy1ub3RpY2lhcy1kYS1zZW1hbmEtMTUtZGUtbWFyY28tYS0yMC1kZS1tYXJjb3tCed/oZsFQAH2IubjfD+sBAH2a4K5ydwRvcGVudwRvcGVueXcAdwhzdGFuZGFyZHcAdwB5dwB3AHcAdwB5dwB3AHl9AHl5dwB3AHh5dgIYaW1hZ2VfZ2VuZXJhdG9yX3NldHRpbmdzdgQIdGVtcGxhdGV3B2hpZ2h3YXkQZGVmYXVsdF9pbWFnZV9pZH0ABGZvbnR3AAdlbmFibGVkeQd2ZXJzaW9ufQJ4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl4dwpjb3JlL2VtYmVkdwlpbnN0YWdyYW14eHh3BHJpY2h4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl9oc0CdxMyMDI2LTAzLTIwVDEyOjMzOjQ5dQF9sO34nAV3B3B1Ymxpc2gCyJzc7wcNAAAOBwOkAg8GAwAEAAECAQQCAAMCAQAOABMOq7657wM4AAIBEgMAGQECAJoHGBoACgA7AAEAAQUBAL0BAAIACq4BAw6ZAxABDgEIAQsBBQEOAQMBAgIAFQEBCAEAAwQBCAEAAQIBBQEKAQACHwEBAQsCBAEIAQMCAQIBAQgCAwIBAwUCABEMAQECBAENAQABBAEDAQI=\",\"updateId\":867899750}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-06T15:23:14",
+  "modified_gmt": "2026-05-06T18:23:14",
+  "ping_status": "open",
+  "slug": "hertz-principais-noticias-da-semana-15-de-marco-a-20-de-marco",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Hertz &#8211; Principais notícias da semana 15 de Março a 20 de Março"
+  },
+  "type": "post"
+}

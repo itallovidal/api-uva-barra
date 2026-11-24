@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14934/revisions/14948",
+        "id": 14948
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14934"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14934",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14934/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14934"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14947"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14934",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14934",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    43377791,
+    858951,
+    74499,
+    6955,
+    72064
+  ],
+  "class_list": [
+    "post-14934",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-encontro-com-profissionais",
+    "category-eventos-internos",
+    "category-mercado-de-trabalho",
+    "category-nutricao",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-esportiva",
+    "tag-nutricao",
+    "tag-nutricionista",
+    "tag-uva",
+    "tag-uvabarra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Enxergar o profissional nos próximos 10 anos foi a temática principal do evento</em></p><p>Profissionais do mercado, acadêmicos e alunos compartilharam experiências e conhecimentos em diversas áreas da nutrição no evento \"O nutricionista da próxima década\". A série de palestras aconteceu na última quinta-feira (1/6), no Campus Barra.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/alexandre.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"Alexandre Bandeira falou sobre sua carreira na área da nutrição esportiva. (Foto: Igor Concolato)\" width=\"5184\" height=\"3456\"><figcaption>Alexandre Bandeira falou sobre sua carreira na área da nutrição esportiva. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/isabela.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"Isabela Pais é nutricionista das categorias de base do Botafogo. (Foto: Igor Concolato)\" width=\"5184\" height=\"3456\"><figcaption>Isabela Pais é nutricionista das categorias de base do Botafogo. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-glaucia-1.jpg?resize=1200%2C1600&amp;ssl=1\" alt=\"Para quem está na graduação é importante ouvir os ex-alunos contando suas experiências\", afirma a coordenadora Glaucia Justo. (Foto: Arquivo Pessoal)\" width=\"1200\" height=\"1600\"><figcaption>\"Para quem está na graduação é importante ouvir os ex-alunos contando suas experiências\", afirma a coordenadora Glaucia Justo. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/professora-e-aluna.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"Professora Lucia Maranha e a aluna Priscila Faria compartilharam suas experiências sobre o estágio no SUS. (Foto: Igor Concolato)\" width=\"5184\" height=\"3456\"><figcaption>Professora Lucia Maranha e a aluna Priscila Faria compartilharam suas experiências sobre o estágio no SUS. (Foto: Igor Concolato)</figcaption></figure><p>Alexandre Bandeira, Isabela Pais e Samantha Abu Alla fizeram parte da mesa que discutiu os desafios dos nutricionistas recém-formados. Como arrumar o 1° emprego, como se posicionar nas redes sociais e os desafios do mundo digital foram alguns dos assuntos discutidos pelos palestrantes. Isabela Pais atua como nutricionista das categorias de base do clube de futebol Botafogo de Futebol e Regatas e comenta sobre a importância deste tipo de evento para os alunos que estão na graduação: \"Trazer essa realidade para os estudantes é uma forma de facilitar as escolhas deles para o futuro\", afirmou a profissional. Assim como Isabela, Alexandre Bandeira também trabalha na área da nutrição esportiva, e no vídeo abaixo, fala um pouco mais sobre a importância de falar sobre esse tema para os alunos. <strong>Confira:</strong></p><figure><div><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/FSfbQra_plU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p>O nutricionista e o estagiário nas ações da Atenção Básica em Saúde foi o tema discutido pela professora Lúcia Maranha e pela aluna Priscila Faria. Eu falei de uma parte mais teórica e convidei uma aluna que está vivendo o atendimento nutricional no SUS para compartilhar a sua vivência na área de saúde coletiva na Atenção Básica, comentou a docente. Priscila está no 7° período da graduação e passou no concurso para atuar como Acadêmica Bolsista da Secretaria Municipal de Saúde: Eu estou lá seguindo os passos da minha orientadora, aprendendo as tarefas e atribuições do dia a dia de um nutricionista dentro da Atenção Básica, explicou Priscila. Segundo ela, o maior desafio enfrentado é adequar o conhecimento para a realidade socioeconômica de cada indivíduo.</p><p>Segundo a coordenadora do curso de nutrição, campus Barra, Glaucia Justo, a escolha dos palestrantes foi pensando na diversidade de áreas de atuação possíveis para um nutricionista para manter o aluno sempre atualizado. Fizemos questão de chamar pessoas que estão no mercado de trabalho, ex-alunos que servem como espelho para os estudantes, professores da casa que são referências em suas áreas de atuação profissional e também alunos que ainda estão na graduação, afirmou a docente. Além disso, Glaucia falou sobre a importância do evento na formação dos alunos: Confira no áudio abaixo</p><figure><div><iframe loading=\"lazy\" title=\"Glaucia falou sobre a importância do evento na formação dos alunos. by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1532567887&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></figure><p>Ao todo, foram 4 mesas de debate, que passaram desde as competências do nutricionista na oncologia, com Emanuelle Weigert, até os impactos das novas regras de rotulagem, ministrada pela professora Patrícia Souza.</p><p>Igor Concolato – 3° período</p></main>"
+  },
+  "date": "2023-06-06T18:33:31",
+  "date_gmt": "2023-06-06T21:33:31",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Profissionais do mercado, acadêmicos e alunos compartilharam experiências e conhecimentos em diversas áreas da nutrição no evento “O nutricionista da próxima década”. A série de palestras aconteceu na última quinta-feira (1/6), no Campus Barra. </p>\n"
+  },
+  "featured_media": 14947,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14934"
+  },
+  "id": 14934,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-de-capa-1-2632367194-e1686087334436.jpg?fit=4001%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3SS",
+  "link": "https://agenciauvabarra.com/2023/06/06/curso-de-nutricao-realiza-evento-para-debater-o-futuro-da-profissao-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-06-06T18:35:43",
+  "modified_gmt": "2023-06-06T21:35:43",
+  "ping_status": "open",
+  "slug": "curso-de-nutricao-realiza-evento-para-debater-o-futuro-da-profissao-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1616109,
+    767056604,
+    820291,
+    17523,
+    762665963
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Curso de nutrição realiza evento para debater o futuro da profissão no campus Barra"
+  },
+  "type": "post"
+}

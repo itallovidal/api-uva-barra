@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1175/revisions/3300",
+        "id": 3300
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1175"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1175",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1175/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1175"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1175",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1175",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    7114
+  ],
+  "class_list": [
+    "post-1175",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Bienal abre espaço para debate com autoras e roteiristas feministas</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/img_1573.jpg?resize=3456%2C1944&#038;ssl=1' alt='IMG_1573' width='3456' height='1944' /><figcaption>Da esquerda para direita: Ana Paula Maia, Giovana Madolosso, Marina Gonçalves e Antonia Pellegrino. Fotografia: Lizandra Rios</figcaption></figure><p>O feminismo, como movimento político, tem sua trajetória desde a década de 1960, em que mulheres brancas, de classe média, lutavam por seus direitos que hoje fazem parte da cultura. No decorrer dos anos, houve mudanças no meio social, que foram fundamentais para o progresso das demandas por igualdade por parte das mulheres” ou da luta por igualdade entre os gêneros. Pensando assim, a 18° Bienal Internacional do Livro Rio, promoveu nesta sexta-feira (01/09), a palestra “Feminismo hoje”, em que as convidadas Giovana Madalosso, Ana Paula Maia e Antonia Pellegrino debateram vertentes do cotidiano da mulher, com a mediação de Marina Gonçalves.</p><p>O evento trouxe questionamentos sobre o papel da mulher na literatura e como ela deveria se comportar perante a sociedade. Segundo Ana Paula Maia, autora de livros sobre narrativas com personagens masculinos, a luta do feminismo possibilita a mulher a ter voz em qualquer espaço. Em mesas de debates repletas de autores e com grande parte dos leitores masculinos, ela se orgulha de poder escrever sobre estórias de ficção com anti-heróis. “Sou mulher e estou conseguindo meu lugar. Escrevo sobre algo que acho incrível e que antes, era uma parte dominada por homens”, enfatiza.</p><p>No entanto, essa não é a realidade de todas. Como a escritora J.K Rowling, que precisou usar apenas suas iniciais, já que as editoras não aceitavam publicar livros de aventuras escritos por uma mulher. A autora Giovana Madalosso enfatizou que também passou por problemas para publicar seu primeiro livro “A Teta Racional”, porque foi mal interpretado. “O conto que originou o título do livro fala de uma forma irônica do dia a dia da maternidade. É um assunto que realmente interessa às mulheres”.</p><p>A internet, por exemplo, é um meio que está crescendo na difusão desse tipo de informação. Para Antonia Pellegrino, roteirista e feminista assumida, as mulheres conseguem encontrar suas lutas, mesmo sendo minorias, em páginas e grupos pelo Facebook. “Uma mulher negra e lésbica pode achar pessoas iguais e não se sentir excluída na sociedade. A internet é uma ferramenta muito importante para essa ideologia”, afirma.</p><p>A estudante Camila Queiroz veio do Paraguai para participar da Bienal e conta que descobriu a feira pelos youtubers. Um dos pontos mais atrativos para ela foi a programação com focos feministas, como também a palestra Girl Power no Geek & Quadrinhos. “É tão importante ver as mulheres ocupando espaço, que muitas vezes são espaços machistas. Não somos invisíveis, não queremos ser apenas a mulher de alguém. Temos nome e sobrenome e vamos mudar o mundo sim”.</p><p>Essa questão da visibilidade foi o maior destaque. Há muitos anos que os homens dominam a literatura e as mulheres são esquecidas na história. “Precisamos valorizar umas às outras, já existem muitos para desqualificarem a fala feminina”, conclui Antonia. O Café Literário ainda vai receber os debates sociais, como “Concordância de gênero”, na sexta-feira (08/09), com Marcia Tiburi, Lícia Loltran, Marco Antonio e Marcelino Freire.</p><p><strong>Giovanna Faria, 5º período e Isabelle Amancio, 4º período.</strong></p></main>"
+  },
+  "date": "2017-09-03T15:26:58",
+  "date_gmt": "2017-09-03T18:26:58",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Bienal abre espaço para debate com autoras e roteiristas feministas O feminismo, como movimento político, tem sua trajetória desde a década de 1960, em que mulheres brancas, de classe média, lutavam por seus direitos que hoje fazem parte da cultura. No decorrer dos anos, houve mudanças no meio social, que foram fundamentais para o progresso [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1175"
+  },
+  "id": 1175,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-iX",
+  "link": "https://agenciauvabarra.com/2017/09/03/feminismo-na-literatura/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:35:43",
+  "modified_gmt": "2019-02-28T19:35:43",
+  "ping_status": "open",
+  "slug": "feminismo-na-literatura",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Feminismo na Literatura"
+  },
+  "type": "post"
+}

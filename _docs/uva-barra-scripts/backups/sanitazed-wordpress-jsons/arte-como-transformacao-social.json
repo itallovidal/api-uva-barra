@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1234/revisions/3139",
+        "id": 3139
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1234"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1234",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1234/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1234"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1234",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1234",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    774,
+    7114
+  ],
+  "class_list": [
+    "post-1234",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-musica",
+    "category-sociedade",
+    "tag-bienal-do-livro-2017",
+    "tag-riocentro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Bienal do Livro 2017 traz cantores para falar de como a música pode influenciar positivamente na vida de quem as ouve</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/0000000000000.jpg?resize=1280%2C960&#038;ssl=1' alt='0000000000000' width='1280' height='960' /><figcaption>Fotografia: Nailson Ribeiro</figcaption></figure><p>Em meio ao cenário político atual, o cantor da banda Detonautas, Tico Santa Cruz, e o compositor Leoni estiveram no 5º dia da Bienal Internacional do Livro 2017, discutindo sobre ideologias e explicando o engajamento de suas letras com questões sociais. Mediando a conversa, Bruno Levinson apresentou diversos assuntos políticos e de interesse público para a Arena #SEMFILTRO, que teve início às 17h, no Pavilhão 4, do Centro de Convenções Riocentro. Os protagonistas do bate-papo responderam as perguntas da plateia e tiveram a oportunidade de lançar o clipe, com a parceria de Leoni e Detonautas, “Dias assim”.</p><p>Envolvido desde a época da ditadura, Leoni sempre incorporou problemas sociais e políticos nas canções. “No início não só eu, mas outros cantores utilizavam suas letras para impor nossas opiniões na sociedade, mas ao longo do tempo, os artistas passaram a tratar a música apenas como produto e esqueceram que temos voz para nos expressarmos na sociedade”. A música em si não é um lugar para expor opiniões porém, Leoni acrescenta que ser uma pessoa pública é um privilégio, pois, ele pode falar por todas as pessoas que não são ouvidas.</p><p>Leoni ainda conta que, segundo sua percepção, a arte hoje perdeu sua aura, já que é tratada apenas como mercadoria e utilizada como interesse privado. Ele ainda fala sobre os artistas que têm voz, mas não se manifestam. “Os artistas atuais, na maioria das vezes, temem uma rejeição do público. Eles têm medo de serem atacados em suas redes sociais, julgados de forma negativa por parte os fãs por causa do pensamento político e até mesmo perder espaço na mídia”, explica Leoni.</p><p>Uma pessoa pública que já passou por julgamentos foi Tico Santa Cruz. Ele que usa de suas letras e do seu corpo para manifestar suas visões do mundo, afirma ter sofrido diversos ataques em suas redes sociais, que variaram entre xingamentos até ameaças. “Eu luto por uma sociedade melhor”, afirma Tico. Mas nem sempre foi assim, no início da sua carreira, aos 12 anos, ele apenas queria o sucesso e desfrutar dele sem pensar no próximo. Após estourar carreira em 2002, Tico pôde desfrutar de tudo o que ele um dia sonhou, porém, viu que isso não era o suficiente e começou a engajar suas letras musicais com causas políticas.</p><p>Tanto Leoni quanto Tico afirmam que o capitalismo é o maior influenciador para a desigualdade no país. “Tudo o que acontece na sua vida é uma questão política”, ressalta Tico. Eles alertam o fato de que é preciso se informar bem na hora de votar e que atitude extremista não é a melhor opção. Os políticos refletem o que a sociedade é, por tanto, é preciso que as pessoas estejam engajadas politicamente para que as atitudes sejam tomadas corretamente, não elegendo qualquer pessoa para representar o país.</p><p>Os cantores ainda acrescentaram a importância de se colocar no lugar do próximo. “Existe muito mais intolerância do que a gente pensa”, diz Leoni. Além de o Brasil ser o quinto país com maior índice de violência à mulher, segundo a ONU (Organização das Nações Unidas), a intolerância e desrespeito são predominantes, mas a mudança só acontece quando mudamos primeiro a nós mesmos. Não é coerente exigir direitos enquanto desrespeitamos o espaço do próximo. “A liberdade de expressão só vai até o momento que você não desrespeita a crença de outras pessoas”, lembra Tico.</p><p>O estudante de Jornalismo, João Pedro, 17, conta ter ido à palestra por causa da representatividade políticas dos cantores. “Eu gosto da representatividade que eles têm. São bons influenciadores para quem está aberto a ouvir sobre suas ideologias”. Vivemos uma crise de representatividade política, e como artistas Tico e Leoni se veem na posição de pedir justiça por um país melhor e igualitário. “Eu luto para isso”, é a frase que Tico deixa para todos aqueles que rebatem seu pensamento.</p><p>No final da palestra ainda foi exibido o novo videoclipe da banda Detonautas na qual Tico é o vocalista. “Dias assim” é uma parceria feita com Leoni e pôde ser lançada especialmente para aqueles que estavam presentes no evento. O clipe foca na liberdade de escolha sexual, mostrando que não é proibido gostar de alguém do mesmo sexo, construindo a ideia de que isso é algo banal. tudes como essas são necessárias para mostrar que a arte pode influenciar uma transformação na sociedade.</p><p><strong>Nailson Ribeiro, 6° período e Carolina Marinho, 4° período</strong></p></main>"
+  },
+  "date": "2017-09-09T15:01:45",
+  "date_gmt": "2017-09-09T18:01:45",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Bienal do Livro 2017 traz cantores para falar de como a música pode influenciar positivamente na vida de quem as ouve Em meio ao cenário político atual, o cantor da banda Detonautas, Tico Santa Cruz, e o compositor Leoni estiveram no 5º dia da Bienal Internacional do Livro 2017, discutindo sobre ideologias e explicando o [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1234"
+  },
+  "id": 1234,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-jU",
+  "link": "https://agenciauvabarra.com/2017/09/09/arte-como-transformacao-social/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:11:52",
+  "modified_gmt": "2019-01-31T15:11:52",
+  "ping_status": "open",
+  "slug": "arte-como-transformacao-social",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    588404665,
+    10031061
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Arte como transformação social"
+  },
+  "type": "post"
+}

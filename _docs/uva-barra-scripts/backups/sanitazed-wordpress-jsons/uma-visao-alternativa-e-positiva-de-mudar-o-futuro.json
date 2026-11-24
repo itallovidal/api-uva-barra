@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2635/revisions/2883",
+        "id": 2883
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2635"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2635",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2635/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2635"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2636"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2635",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2635",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2635",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-autoconhecimento",
+    "tag-colaboramerica-2018",
+    "tag-dragon-dreaming",
+    "tag-fundicao-progresso",
+    "tag-lapa",
+    "tag-rio-de-janeiro",
+    "tag-tecnologia",
+    "tag-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>“Olhar para o todo” é tema da terceira edição do ColaborAmerica</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/3f2d3269-c798-4114-b7bf-77d54b3511f7.jpeg?resize=3264%2C2448&amp;ssl=1\" alt=\"3F2D3269-C798-4114-B7BF-77D54B3511F7\" width=\"3264\" height=\"2448\" /><figcaption>Área de lazer do ColaborAmerica 2018 – Foto: Amanda Almeida</figcaption></figure><p>Imagine um local capaz de reunir diversas pessoas, cada uma com sua singularidade, mas todos com o objetivo de fazer do mundo um lugar melhor. O ColaborAmerica 2018 recebeu mais de três mil pessoas por dia e 120 palestrantes de mais de dezessete países. Dividido em quatro pilares: Cultura, Tecnologia, Economia e Autoconhecimento, o festival ocorreu nos dias 9 e 10 de novembro, na Fundição Progresso, Lapa. Com um público variado, a programação contou com atividades como palestras, oficinas, músicas, mesa redonda e muitos outros.</p><p>O evento é estruturado de forma com que todos os ambientes se complementem. A equipe Hólos se tornou responsável pela área do Autoconhecimento, para despertar a consciência do impacto que o ser humano pode causar no mundo, por meio de conversas e oficinas. A produtora Renata Soares fala da importância de se conhecer para entender o lugar que ocupa na sociedade e assim compreender o próximo. “Antes de tomar qualquer decisão, a gente precisa olhar para essas possibilidades de uma forma coletiva”, relata.</p><p>Todos na Terra estão conectados. Durante a dinâmica “Colaboração: Um Processo de Si Mesmo para o Todo”, instruída por Liz Barbuto, terapeuta ocupacional especialista em desenvolvimento humano, foi utilizado o método <em>Dragon Dreaming </em>– filosofia e método para criar projetos colaborativos – para estimular as pessoas ao crescimento pessoal e atuarem em conjunto. “Sou pequeno e grande ao mesmo tempo. Sou pequeno no meu universo, mas posso ser grande no impacto”, diz.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/db2bb778-879a-474d-b257-ecc3ab473d90.jpeg?resize=3264%2C2448&amp;ssl=1\" alt=\"DB2BB778-879A-474D-B257-ECC3AB473D90\" width=\"3264\" height=\"2448\" /><figcaption>Introdução da oficina “Colaboração: um processo de si mesmo pra o todo” pela terapeuta Liz Barbuto – Foto: Amanda Almeida</figcaption></figure><p>O conceito de trabalho em conjunto pode parecer utópico, mas para o designer Amon Costa, dono de duas empresas sustentáveis, a evolução do evento contribui para que as ideias entrem de forma definitiva no mercado. “Olhar para o todo é também incluir uma camada da população que não faz parte de discussões como economias colaborativas, economias criativas e sustentabilidade”, comenta.</p><p>Conhecido por ser o maior festival da América Latina de Culturas Colaborativas e Novas Economias, os projetos demonstrados utilizam meios alternativos que mostram ser possível e necessário a reestruturação do mundo para uma melhor qualidade na vida de todos.</p><p><strong>Amanda Almeida de Oliveira – 4º período</strong></p></main>"
+  },
+  "date": "2018-11-12T18:10:45",
+  "date_gmt": "2018-11-12T20:10:45",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Olhar para o todo” é tema da terceira edição do ColaborAmerica Imagine um local capaz de reunir diversas pessoas, cada uma com sua singularidade, mas todos com o objetivo de fazer do mundo um lugar melhor. O ColaborAmerica 2018 recebeu mais de três mil pessoas por dia e 120 palestrantes de mais de dezessete países.&nbsp; [&hellip;]</p>\n"
+  },
+  "featured_media": 2636,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2635"
+  },
+  "id": 2635,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/3f2d3269-c798-4114-b7bf-77d54b3511f7.jpeg?fit=3264%2C2448&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Gv",
+  "link": "https://agenciauvabarra.com/2018/11/12/uma-visao-alternativa-e-positiva-de-mudar-o-futuro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:13:15",
+  "modified_gmt": "2019-01-31T13:13:15",
+  "ping_status": "open",
+  "slug": "uma-visao-alternativa-e-positiva-de-mudar-o-futuro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    246869,
+    653894139,
+    16625182,
+    2730733,
+    446806,
+    190082,
+    767056593,
+    17523
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Uma visão alternativa e positiva de mudar o futuro"
+  },
+  "type": "post"
+}

@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4014/revisions/4045",
+        "id": 4045
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4014"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4014",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4014/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4014"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4019"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4014",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4014",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889
+  ],
+  "class_list": [
+    "post-4014",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-esporte",
+    "tag-anderson-silva",
+    "tag-hall-of-fame-do-ufc",
+    "tag-jessica-andrade",
+    "tag-jose-aldo",
+    "tag-rose-namajunas",
+    "tag-ufc",
+    "tag-ufc-fan-experience"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Um momento especial para quem não irá à Arena ter a sensação de estar nela.</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-10-2.jpg?resize=2982%2C2096&#038;ssl=1\" alt=\"\" width=\"2982\" height=\"2096\" /><figcaption>Ex-campeão do peso-médio, Anderson Silva, com sua equipe de treinamento &#8211; Foto: Ana carolina Fernandes</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-6-1.jpg?resize=3738%2C3179&#038;ssl=1\" alt=\"\" width=\"3738\" height=\"3179\" /><figcaption>José Aldo, peso-pena, durante o treino de boxe  &#8211; Foto: Ana carolina Fernandes</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-2-1.jpg?resize=3834%2C2781&#038;ssl=1\" alt=\"\" width=\"3834\" height=\"2781\" /><figcaption>Lutadora peso-palha, Jéssica Andrade, durante o treino aberto  &#8211; Foto: Ana carolina Fernandes</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-4-1.jpg?resize=3711%2C2632&#038;ssl=1\" alt=\"\" width=\"3711\" height=\"2632\" /><figcaption>Jéssica Andrade e sua equipe de treinamento  &#8211; Foto: Ana carolina Fernandes</figcaption></figure><figure class=\"wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\"><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/PLQ3UoBJVps?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>.</p><p>O Treino Aberto é um evento gratuito que acontece todas as quartas-feiras que antecedem às lutas de card principal sediadas no Brasil. Nessa quarta (08/05) foi o terceiro ano consecutivo que o treino ocorreu no Barra Shopping, no Rio de Janeiro, atraindo diversos fãs que não podem pagar para ir à Arena e que tentam tirar fotos com os lutadores do evento principal de sábado (11/05): a peso-palha Jéssica Andrade, o peso-pena José Aldo, a americana detentora do cinturão peso-palha Rose Namajunas e o peso-médio Anderson Silva. </p><p><a href=\"https://agenciauvabarra.com/2019/05/09/primeira-edicao-do-ufc-fan-experience-no-brasil/\">Esta é a chance dos fãs conhecerem mais de perto o UFC e os atletas</a>. “É um momento de estar perto do fã, de ter esse contato, receber a energia que eles passam. É muito bom sentir isso, poder abraçá-los, tirar fotos”, comenta a lutadora peso-palha Jéssica Andrade, que tentará tirar o cinturão da atleta Rose Namajunas no próximo sábado (11/05). Para ela, o evento é positivo, pois os lutadores acabam conquistando ainda mais fãs.</p><figure class=\"aligncenter is-resized\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" data-attachment-id=\"4015\" data-permalink=\"https://agenciauvabarra.com/2019/05/10/treino-aberto-do-ufc-237-aproxima-fas-de-atletas/foto-7/\" data-orig-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-7.jpg?fit=3087%2C2490&amp;ssl=1\" data-orig-size=\"3087,2490\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A530F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1557343033&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.93&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}\" data-image-title=\"FOTO 7\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-7.jpg?fit=1024%2C826&amp;ssl=1\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-7.jpg?resize=478%2C385&#038;ssl=1\" alt=\"\" class=\"wp-image-4015\" width=\"478\" height=\"385\" /><figcaption> A americana Rose Namajunas, detentora do cinturão  <br />peso-palha, durante o treino de boxe &#8211; Foto: Ana Carolina Fernandes</figcaption></figure><p>Seja através do Treino Aberto, ou através de alguma influência externa, cresce ano após ano o número de amantes por lutas marciais. Letícia Ferreira Passos, de 24 anos, um exemplo disso, começou a assistir ao UFC por conta do seu namorado. “Eu não gostava muito até começar a namorar e ele é completamente viciado. Acabou que agora eu gosto muito”, explica Letícia. Ela veio ao treino para tentar ver por alguns momentos o ídolo Anderson Silva e acredita que eventos como o UFC Fan Experience, que é uma ideia brasileira, são importantes por darem a oportunidade das pessoas que não podem pagar terem pelo menos um gostinho do UFC.</p><figure class=\"aligncenter is-resized\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" data-attachment-id=\"4016\" data-permalink=\"https://agenciauvabarra.com/2019/05/10/treino-aberto-do-ufc-237-aproxima-fas-de-atletas/foto-9-2/\" data-orig-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-9-1.jpg?fit=3375%2C2986&amp;ssl=1\" data-orig-size=\"3375,2986\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A530F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1557345280&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.93&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}\" data-image-title=\"FOTO 9\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;Anderson Silva aplica golpe de muay thai &amp;#8211; Foto: Ana carolina Fernandes&lt;/p&gt;\n\" data-large-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-9-1.jpg?fit=1024%2C906&amp;ssl=1\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-9-1.jpg?resize=462%2C408&#038;ssl=1\" alt=\"\" class=\"wp-image-4016\" width=\"462\" height=\"408\" /><figcaption>Anderson Silva aplica golpe de muay thai &#8211; Foto: Ana carolina Fernandes</figcaption></figure><p>O Treino Aberto, que agora está agregado UFC Fan Experience, já aconteceu em outros locais. “Aqui no Rio, já fizemos na praia, em Copacabana, na Barra, nos Arcos da Lapa, e há três anos trouxemos o Treino Aberto para dentro do shopping”, salienta Daniel Mourão, diretor de marketing do UFC. O fluxo de pessoas e as opções de estacionamento contribuíram para essa decisão.</p><figure class=\"aligncenter is-resized\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" data-attachment-id=\"4021\" data-permalink=\"https://agenciauvabarra.com/2019/05/10/treino-aberto-do-ufc-237-aproxima-fas-de-atletas/foto-3/\" data-orig-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-3.jpg?fit=4608%2C3456&amp;ssl=1\" data-orig-size=\"4608,3456\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A530F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1557339237&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.93&quot;,&quot;iso&quot;:&quot;64&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}\" data-image-title=\"FOTO 3\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;Jéssica Andrade aplica golpe de jiu-jitsu numa oponente &amp;#8211; Foto: Ana Carolina Fernandes&lt;/p&gt;\n\" data-large-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-3.jpg?fit=1024%2C768&amp;ssl=1\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-3.jpg?resize=480%2C359&#038;ssl=1\" alt=\"\" class=\"wp-image-4021\" width=\"480\" height=\"359\" /><figcaption>Jéssica Andrade aplica golpe de jiu-jitsu numa oponente &#8211; Foto: Ana Carolina Fernandes</figcaption></figure><p>O evento que para o fã é um sonho, dada a facilidade de estar nele, para o atleta pode não ser tão oportuno. “Nessa fase a concentração e a reclusão seria o mais apropriado”, critica Arthur Fernandes, jornalista esportivo. Porém, Arthur concorda ser uma grande ocasião tanto para quem ama UFC, quanto para os atletas sentirem o quão importante será a luta principal.</p><p>Além da chance de ver grandes lutadores do UFC bem de perto, o evento possibilita ganhar um ingresso para acompanhar a pesagem através da troca de alimentos não perecíveis, pensando novamente em quem ama as lutas de MMA, mas não podem pagar por elas.</p><p><strong>Ana Carolina Fernandes – 3º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2019-05-10T12:02:40",
+  "date_gmt": "2019-05-10T15:02:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um momento especial para quem não irá à Arena ter a sensação de estar nela. . O Treino Aberto é um evento gratuito que acontece todas as quartas-feiras que antecedem às lutas de card principal sediadas no Brasil. Nessa quarta (08/05) foi o terceiro ano consecutivo que o treino ocorreu no Barra Shopping, no Rio [&hellip;]</p>\n"
+  },
+  "featured_media": 4019,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4014"
+  },
+  "id": 4014,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/foto-10-2.jpg?fit=2982%2C2096&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-12K",
+  "link": "https://agenciauvabarra.com/2019/05/10/treino-aberto-do-ufc-237-aproxima-fas-de-atletas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-10T16:56:07",
+  "modified_gmt": "2019-05-10T19:56:07",
+  "ping_status": "open",
+  "slug": "treino-aberto-do-ufc-237-aproxima-fas-de-atletas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    482559,
+    331655121,
+    136615043,
+    5446891,
+    40238440,
+    23199,
+    679028700
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Treino Aberto do UFC 237 aproxima fãs de atletas"
+  },
+  "type": "post"
+}

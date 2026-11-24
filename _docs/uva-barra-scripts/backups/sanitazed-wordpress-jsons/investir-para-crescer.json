@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1539/revisions/3151",
+        "id": 3151
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1539"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1539",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1539/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1539"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1539",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1539",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1539",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Núcleo da TV UVA na Barra da Tijuca produz pela primeira vez o programa Arena</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/2cccbaed-1537-4830-8d89-de0a89c9d283.jpg?resize=1032%2C774&amp;ssl=1' alt='2cccbaed-1537-4830-8d89-de0a89c9d283' width='1032' height='774' /><figcaption>Foto: Guilherme Honrado</figcaption></figure><p>O Campus Barra da Universidade Veiga de Almeida dá mais um grande passo e, dessa vez, em parceria com a TV UVA. A filial, que tem como matriz a TV do Campus Tijuca, produziu pela primeira vez um programa de grande porte, o Arena. O projeto se baseia em um bate-papo entre alunos e especialistas, cujo tema principal varia de acordo com cada episódio. A última gravação aumenta a expectativa de novas atrações para a unidade e uma maior consolidação do núcleo.</p><p>A responsável pela TV UVA e também professora da instituição Mônica Miranda conta que o projeto nasceu desde o primeiro semestre de 2016, quando começou a dar aula na faculdade, e que agora ela fica feliz em vê-lo ganhando forma. \"Primeiro veio o núcleo, quando a gente começou a engatinhar e depois a possibilidade de criar um projeto voltado para esse campus. Isso foi tomando corpo, formato e as pessoas foram se envolvendo. Mais do que eu, acho que os alunos queriam muito isso e agora foi realizado\".</p><p>A constante participação nas ideias e o entusiasmo dos estudantes é a maior prova disso. A aluna do sexto período de Jornalismo e apresentadora do Arena Juliana Costa ficou animada em poder fazer parte da primeira gravação, além de destacar as consequências positivas. \"Quando a Mônica fez o convite foi algo super bacana, não só por estar estreando, mas sim, mostrar que a Barra também tem capacidade de produzir, de roteirizar e pensar em um programa por inteiro\". Agora, as expectativas de novos projetos futuramente só tendem a aumentar.</p><p>A concretização das ideias, no entanto, depende majoritariamente do comprometimento e envolvimento dos alunos, afirma Mônica, já que segundo ela a TV UVA só existe para e pelos alunos. Para o coordenador de produção da TV do Campus Barra Guilherme Honrado esclarece que os monitores são divididos em duas etapas. A primeira, que é a produção, engloba trabalhos com câmera, como operador de áudio e iluminador, enquadramento, imagem, exposição da luz, entre outros. Já a outra, a pós-produção, compreende a edição, correção de cores e finalização do programa.</p><p>A recompensa, por fim, vem com a concretização de todo o esforço quando a exibição vai ao ar. \"Maior do que sentimento de realização é a alegria de comprovar que a TV UVA Barra é capaz\", ressalta Mônica. A espera agora é atrair cada vez mais os universitários e colaboradores. Só assim, somando contribuição e interesse, que o núcleo dessa unidade promete crescer e trazer novidades.</p><p><strong>Carolina Marinho, 4º período e Tayane Fernandes, 6º período</strong></p></main>"
+  },
+  "date": "2017-10-19T18:09:42",
+  "date_gmt": "2017-10-19T20:09:42",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Núcleo da TV UVA na Barra da Tijuca produz pela primeira vez o programa Arena O Campus Barra da Universidade Veiga de Almeida dá mais um grande passo e, dessa vez, em parceria com a TV UVA. A filial, que tem como matriz a TV do Campus Tijuca, produziu pela primeira vez um programa de [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1539"
+  },
+  "id": 1539,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-oP",
+  "link": "https://agenciauvabarra.com/2017/10/19/investir-para-crescer/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:26:19",
+  "modified_gmt": "2019-01-31T15:26:19",
+  "ping_status": "open",
+  "slug": "investir-para-crescer",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Investir para crescer"
+  },
+  "type": "post"
+}

@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6069/revisions/6082",
+        "id": 6082
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6069"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6069",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6069/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6069"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6075"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6069",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6069",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    2367,
+    2366
+  ],
+  "class_list": [
+    "post-6069",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-cultura",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cine-odeon-21o-edicao-do-festival-de-cinema-do-rio",
+    "tag-festival-do-rio-2019"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento destacou as dificuldades enfrentadas pela arte atualmente</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/f20191209_204343.jpg?resize=4128%2C2322&#038;ssl=1' alt='' width='4128' height='2322' /><figcaption>Abertura da 21ª edição do Festival de Cinema do Rio &#8211; Foto: Lucas Souza</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/d20191209_205652.jpg?resize=4128%2C2322&#038;ssl=1' alt='' width='4128' height='2322' /><figcaption>As diretoras do Festival Ilda Santiago e Walkiria Barbosa durante a cerimonia &#8211; Foto: Lucas Souza</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/n20191209_202823-e1576243089556.jpg?resize=4128%2C2043&#038;ssl=1' alt='' width='4128' height='2043' /><figcaption>O ator Nelson Freitas falou sobre a necessidade de apoio dos governantes para a cultura &#8211; Foto: Lucas Souza</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/n20191209_201147.jpg?resize=3168%2C2322&#038;ssl=1' alt='' width='3168' height='2322' /><figcaption>A atriz Nathalia Dill ressaltou que o Festival não pode morrer &#8211; Foto: Lucas Souza</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/j20191209_201831.jpg?resize=4128%2C2322&#038;ssl=1' alt='' width='4128' height='2322' /><figcaption>A atriz Juliana Alves destacou que o Festival é um ato de resistência &#8211; Foto: Lucas Souza</figcaption></figure><p>O Cine Odeon recebeu, na última segunda-feira (09), a cerimônia de abertura da 21ª  edição do Festival de Cinema do Rio, que celebrou o audiovisual nacional e contou com a exibição inédita do filme “Adoráveis Mulheres”. Atores e atrizes brasileiros marcaram presença no tapete vermelho, além de figuras importantes da indústria cinematográfica.</p><p>Durante a entrada, personalidades falaram sobre a importância da existência do festival. Para o ator Antonio Pitanga essa é a oportunidade de resgatar a cultura do país. “Esse momento para nós é um momento de glória, é muito raro, é a melhor e mais bela vitrine do Rio e do Brasil que este festival faz acontecer”, afirmou.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/a20191209_194813.jpg?resize=503%2C282&#038;ssl=1' alt='' width='503' height='282' /><figcaption>O ator Antonio Pitanga destacou a importância do Festival para a cultura &#8211; Foto: Lucas Souza</figcaption></figure><p>Nelson Freitas falou sobre a necessidade dos governantes olharem com mais atenção para a cultura. Confira um trecho da entrevista com o ator:</p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F726235555&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>As atrizes Juliana Alves e Nathalia Dill também enfatizaram que o festival é um ato de resistência. “A gente está vivendo esses tempos sombrios, onde a nossa cultura está sendo marginalizada. É importante entender que a cultura difunde ideias e oportunidades no nosso país ”, declarou Juliana. “É importante a gente estar aqui, assistindo os filmes, fazendo arte porque o festival do Rio é um patrimônio carioca, brasileiro e não pode morrer”, disse Nathalia.</p><p>No discurso de abertura, a atriz Mariana Ximenes, ressaltou que mesmo em um contexto desfavorável é grande a força para resistir. “Paradoxalmente a nossa força nunca esteve tão grande, mesmo em tempos de tentativa de nos fazer calar, de nos fazer sumir, de nos fazer não contar nossas histórias e são muitas as histórias que temos pra contar“, destacou Mariana.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/m20191209_210819.jpg?resize=559%2C314&#038;ssl=1' alt='' width='559' height='314' /><figcaption>A atriz Mariana Ximenes comandou a cerimonia de abertura &#8211; Foto: Lucas Souza</figcaption></figure><p>Além dela, as diretoras do Festival Ilda Santiago e Walkiria Barbosa falaram sobre as dificuldades e os aprendizados dessa edição do festival. “Esse foi um momento difícil, mas também de grandes oportunidades. Aprendemos a ouvir e a receber o amor, a solidariedade e o reconhecimento”, contou Ilda Santiago.</p><p><strong>Lucas Souza &#8211; 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-12-13T10:23:40",
+  "date_gmt": "2019-12-13T13:23:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento destacou as dificuldades enfrentadas pela arte atualmente O Cine Odeon recebeu, na última segunda-feira (09), a cerimônia de abertura da 21ª edição do Festival de Cinema do Rio, que celebrou o audiovisual nacional e contou com a exibição inédita do filme “Adoráveis Mulheres”. Atores e atrizes brasileiros marcaram presença no tapete vermelho, além de [&hellip;]</p>\n"
+  },
+  "featured_media": 6075,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6069"
+  },
+  "id": 6069,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/12/f20191209_204343.jpg?fit=4128%2C2322&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1zT",
+  "link": "https://agenciauvabarra.com/2019/12/13/abertura-do-festival-do-rio-2019-celebrou-a-cultura-e-o-cinema-brasileiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-12-13T10:23:40",
+  "modified_gmt": "2019-12-13T13:23:40",
+  "ping_status": "open",
+  "slug": "abertura-do-festival-do-rio-2019-celebrou-a-cultura-e-o-cinema-brasileiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    691364236,
+    690367210
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Abertura do Festival do Rio 2019 celebrou a cultura e o cinema brasileiro"
+  },
+  "type": "post"
+}

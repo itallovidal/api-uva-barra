@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5697/revisions/5711",
+        "id": 5711
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5697"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5697",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5697/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5697"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5703"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5697",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5697",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    1704
+  ],
+  "class_list": [
+    "post-5697",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-gastronomia",
+    "tag-agencia-uva-barra",
+    "tag-confeitaria",
+    "tag-expo-cakes-brasil-2019"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Equipes de confeiteiros disputam concurso no último dia de Expo Cakes Brasil 2019</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-1-1.jpg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" width=\"3264\" height=\"2448\" /><figcaption>“As Panteras” e “Renata Coutinho Cakes” são os finalistas do concurso “Desafio Cake” – Foto: Anna Clara Motta</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-5-1.jpg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" width=\"3264\" height=\"2448\" /><figcaption>Detalhes do Bolo da equipe “Renata Coutinho Cakes” – Foto: Anna Clara Motta</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-3-2.jpg?resize=1920%2C1080&amp;ssl=1\" alt=\"\" width=\"1920\" height=\"1080\" /><figcaption>Top 3 do Cakes Brasil 2019 – Foto: Anna Clara Motta</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-6-1.jpg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" width=\"3264\" height=\"2448\" /><figcaption>Exposição de bolos na galeria Cakes – Foto: Anna Clara Motta</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-7.jpg?resize=3264%2C2448&amp;ssl=1\" alt=\"\" width=\"3264\" height=\"2448\" /><figcaption>Bolo invertido – Foto: Anna Clara Motta</figcaption></figure><p>No domingo (20/10), ocorreu o último dia da Expo Cakes Brasil 2019 que promoveu, no Centro de Convenções SulAmérica, rodada de aulas e as finais dos concursos. Desafio Cake, o mais esperado do evento,tinha como tema central “A Fauna e a Flora Brasileiras”, no qual os times finalistas “As Panteras” e “Renata Coutinho Cakes”, tiveram que criar e reproduzir em açúcar e elementos comestíveis todo conjunto de plantas e animais do país.</p><p>Renata Coutinho, líder da equipe vencedora, conta que participar do concurso foi a realização de um sonho. “Foi desafiador e encantador ao mesmo tempo, e o mais especial foi participar com a minha família”, comenta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-2-2.jpg?resize=506%2C379&amp;ssl=1\" alt=\"\" width=\"506\" height=\"379\" /><figcaption>Bolo da equipe Renata Coutinho Cakes, campeão do concurso “Desafio Cake” – Foto: Anna Clara Motta</figcaption></figure><p>O concurso Cakes Brasil 2019 ressaltou a beleza do estado carioca com o tema “O Rio de Janeiro continua lindo”, e também teve o resultado definido: O bolo da cake desing, Barbara Cristina, foi o primeiro colocado, em segundo o bolo de Gabriel Arêas e em terceiro, o da Franciele Fagundes. </p><p>Além do desfecho de cada concurso, o quarto dia, também ficou marcado pelas rodadas de aulas. O campeão da primeira edição do programa “Batalha dos Confeiteiros Brasil”, Rick Zavala, ministrou um curso de decoração com o tema “Modelagem em pasta americana de uma figura humana 3D”. Rick, falou da importância de trocar informações em um evento como a Expo Cakes Brasil. “É tão importante para mim, que estou vendo os tipos de pessoas que estão vindo, que querem o conhecimento e querem trocar informações. Ver o que está acontecendo atualmente na confeitaria.”, afirmou.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-4-2.jpg?resize=457%2C342&amp;ssl=1\" alt=\"\" width=\"457\" height=\"342\" /><figcaption>Rick Zavala, decorador chefe da Carlo’s Bakery Brasil – Foto: Anna Clara Motta</figcaption></figure><p>A Expo Cakes é um evento onde tudo se encontra, os fornecedores, os profissionais e também quem está começando no setor. Um lugar para buscar inspirações e se renovar na arte de confeitar. A visitante Laura Cabral, descreveu como os cursos a inspirou, “A gente aprende a fazer da forma mais fácil com menos materiais, foi encantador, eu fiquei apaixonada. Já quero fazer outras aulas.”.</p><p>Assista ao vídeo da premiação do Desafio Cake:</p><figure><iframe src=\"https://www.youtube.com/embed/NLT78RcBxzg?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Anna Clara Motta – 1º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-22T20:00:03",
+  "date_gmt": "2019-10-22T23:00:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Equipes de confeiteiros disputam concurso no último dia de Expo Cakes Brasil 2019 No domingo (20/10), ocorreu o último dia da Expo Cakes Brasil 2019 que promoveu, no Centro de Convenções SulAmérica, rodada de aulas e as finais dos concursos. Desafio Cake, o mais esperado do evento,tinha como tema central “A Fauna e a Flora [&hellip;]</p>\n"
+  },
+  "featured_media": 5703,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5697"
+  },
+  "id": 5697,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/foto-5-1.jpg?fit=3264%2C2448&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1tT",
+  "link": "https://agenciauvabarra.com/2019/10/22/a-representacao-da-fauna-e-flora-brasileiras-na-confeitaria/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-22T21:09:06",
+  "modified_gmt": "2019-10-23T00:09:06",
+  "ping_status": "open",
+  "slug": "a-representacao-da-fauna-e-flora-brasileiras-na-confeitaria",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1260148,
+    688616239
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A representação da Fauna e Flora Brasileiras na confeitaria"
+  },
+  "type": "post"
+}

@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21253/revisions/21259",
+        "id": 21259
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21253"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21253",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21253/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21253"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21256"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21253",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21253",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-21253",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Algumas histórias nunca desaparecem, apenas se transformam. Em “A Noiva!”, a atriz, roteirista e diretora Maggie Gyllenhaal retorna ao cinema atrás das câmeras com uma proposta que não busca revisitar o clássico, mas desestabilizá-lo. O resultado é uma obra que mistura horror, romance e provocação estética em uma narrativa que parece sempre à beira do colapso.</p><p>Inspirado no universo de Frankenstein, o filme desloca a história para a Chicago dos anos 1930, onde um solitário monstro, interpretado por Christian Bale, busca algo que vai além da sobrevivência, ele quer companhia. Não qualquer companhia, mas alguém que compartilhe sua existência à margem.</p><p>É nesse ponto que surge a Dra. Euphronious, vivida por Annette Bening, uma cientista tão visionária quanto inquietante. Juntos, eles desafiam os limites da vida e da morte ao reviver uma jovem assassinada, dando origem à Noiva, interpretada por Jessie Buckley. Mas o nascimento dessa nova figura não traz equilíbrio, pelo contrário.</p><p>A Noiva não é uma criação passiva, nem um reflexo do desejo masculino que a originou. Ela emerge como força própria, imprevisível, intensa, indomável. O que se segue é uma espiral de eventos que mistura assassinato, desejo, caos e transformação social. A narrativa abandona qualquer ideia de controle e mergulha em um movimento quase anárquico, onde amor e destruição caminham lado a lado.</p><p> Ao redor desse trio central, o elenco amplia as tensões do filme. Peter Sarsgaard adiciona camadas de ambiguidade, enquanto Jake Gyllenhaal surge em um papel que reforça o caráter inquieto da trama. Já Penélope Cruz insere ainda mais intensidade a um universo que nunca se acomoda.</p><p>Por trás das câmeras, Gyllenhaal se cerca de nomes que ajudam a traduzir essa visão ousada. A fotografia de Lawrence Sher constrói uma atmosfera densa e quase febril, enquanto o figurino de Sandy Powell e a trilha de Hildur Guðnadóttir ampliam a sensação de um mundo em constante ebulição.</p><p>Mais do que recontar uma história conhecida, “A Noiva!” questiona suas bases. Quem é o verdadeiro monstro? Quem define o que é amor? E o que acontece quando uma criação se recusa a cumprir o papel que lhe foi imposto?</p><p>Ao abraçar o excesso, o desconforto e a ruptura, o filme se afasta de qualquer leitura convencional. Ele não busca respostas fáceis, prefere provocar, tensionar e, sobretudo, reinventar. Porque, neste universo, amar pode ser tão perigoso quanto criar. E talvez ainda mais irreversível.</p><p>Duda Nicolich – 3° Período</p></main>"
+  },
+  "date": "2026-03-04T12:12:00",
+  "date_gmt": "2026-03-04T15:12:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Algumas histórias nunca desaparecem, apenas se transformam. Em “A Noiva!”, a atriz, roteirista e diretora Maggie Gyllenhaal retorna ao cinema atrás das câmeras com uma proposta que não busca revisitar o clássico, mas desestabilizá-lo. O resultado é uma obra que mistura horror, romance e provocação estética em uma narrativa que parece sempre à beira do [&hellip;]</p>\n"
+  },
+  "featured_media": 21256,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21253"
+  },
+  "id": 21253,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/04/hq720.jpg?fit=686%2C386&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5wN",
+  "link": "https://agenciauvabarra.com/2026/03/04/a-noiva-e-o-desejo-de-reinventar-monstros-e-amores/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-04-01T13:36:10",
+  "modified_gmt": "2026-04-01T16:36:10",
+  "ping_status": "open",
+  "slug": "a-noiva-e-o-desejo-de-reinventar-monstros-e-amores",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    17563,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A Noiva e o desejo de reinventar monstros e amores"
+  },
+  "type": "post"
+}

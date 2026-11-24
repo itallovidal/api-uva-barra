@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17536/revisions/17550",
+        "id": 17550
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17536"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17536",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17536/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17536"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17538"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17536",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17536",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17536",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>As redes sociais têm alterado as estratégias de campanhas eleitorais e a forma como os eleitores percebem os candidatos e as questões políticas.</p><p>Em um cenário onde a tecnologia permeia todos os aspectos da vida cotidiana, as eleições municipais de 2024 se apresentam como um campo para a análise da influência do Direito Digital. A presença das redes sociais na política modifica a forma como candidatos e eleitores interagem e levanta questões jurídicas relacionadas à desinformação, à proteção de dados e à responsabilidade das plataformas digitais. Nesse contexto, este Direito funciona como um instrumento de regulação e proteção, assegurando a integridade do processo eleitoral e a clareza das informações compartilhadas. Com as redes sociais se tornando espaços de discussão pública, há uma demanda por um marco regulatório que coíba práticas desleais e a propagação de notícias falsas, que promovam um ambiente democrático.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/fake-news.jpg?resize=750%2C562&amp;ssl=1' alt='fake news' width='750' height='562' /><figcaption>fake news</figcaption></figure><p>As redes sociais tornaram-se instrumentos cruciais na comunicação política contemporânea, especialmente nas eleições municipais de 2024. A capacidade de interagir de forma imediata e a possibilidade de segmentar o público transformaram a interação entre candidatos e eleitores. Essa nova dinâmica apresenta tanto oportunidades quanto desafios que exigem uma análise sob a ótica do Direito Digital.</p><p>No Brasil, a regulamentação da comunicação política nas redes sociais é composta por diversas normas, dentre elas: <a href='https://www.planalto.gov.br/ccivil_03/leis/l9504.htm'><strong>Lei 9.504/97</strong></a><strong>:</strong> Esta legislação define diretrizes para o processo eleitoral e aborda a propaganda política, autorizando o uso de meios digitais, mas estabelecendo limites para a divulgação de conteúdos. O artigo 57-B, por exemplo, enfatiza a importância de identificar claramente os responsáveis pelo patrocínio das mensagens.</p><p>Segundo Bárbara Flores, especialista em Marketing Político, Governos e campanhas eleitorais junto com o Direito podem desempenhar um papel crucial na educação política digital ao promover iniciativas que ensinam a identificar desinformação e verificar fontes. “Promover a inclusão de temas como verificação de fatos e análise crítica de fontes, além de desenvolver campanhas de conscientização nas redes sociais que abordam os riscos das fake news, são ações essenciais. A realização de workshops e webinars práticos, aliada a parcerias com influenciadores digitais, pode se tornar uma ferramenta acessível e atrativa. Criar plataformas interativas que ajudem na prática da verificação de informações e incentivar o debate sobre questões políticas também são estratégias eficazes, que podem contribuir para a transparência e o fácil acesso a informações sobre processos eleitorais”, informa Bárbara.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/45cbe82e-893e-4b97-9670-276d309f8288.jpg?resize=720%2C1600&amp;ssl=1' alt='45cbe82e-893e-4b97-9670-276d309f8288' width='720' height='1600' /><figcaption>“As redes sociais se apresentam hoje como um fortes aliadas à comunicação Política, mas é importante destacar que os conteúdos gerados precisam gerar envolvimento e relação com o eleitor” , declara Bárbara. (Reprodução: Arquivo Pessoal) </figcaption></figure><p>Na hora de escolher em quem votar, é importante ter um bom entendimento do histórico político dos candidatos. O acesso a dados sobre as experiências, propostas e ações passadas é considerável para que o eleitor faça uma escolha informada. Além disso, entender as necessidades e os problemas da comunidade local contribui para essa decisão. Com essas informações, é possível avaliar não apenas a habilidade do candidato de promover mudanças relevantes, mas também sua disposição para atender às demandas da população.Para a empreendedora Flávia Duarte, 45 anos, relata se teve alguma dificuldade ao tentar escolher um candidato ou partido. “Não há dificuldade em escolher um candidato quando você conhece sua trajetória política, tem acesso aos seus projetos e melhorias, e, ainda mais, quando o cidadão/eleitor está ciente dos principais problemas do seu bairro e da sua cidade. Foi assim que cheguei à conclusão da minha escolha na hora de votar. Aquele velho ditado que diz ‘quem não fez, perdeu a vez’ eu levo muito em consideração na hora da minha escolha também. Não dá para confiar no meu voto a quem já esteve no poder e não fez nada de útil para a população” , diz Flávia.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/flavia-duarte.jpg?resize=750%2C774&amp;ssl=1' alt='flavia duarte' width='750' height='774' /><figcaption>“As redes sociais têm desempenhado um papel importante na escolha de candidatos. Através delas, podemos conhecer melhor as propostas de cada um e analisar o que pode ser mais benéfico para a população” , comenta Flávia. (Reprodução: Arquivo Pessoal) </figcaption></figure><p>Outro fator a se considerar é o engajamento político da Geração Z nas redes sociais, que reflete um ativismo digital que aborda questões como justiça social, meio ambiente e direitos humanos. Embora a Geração Z utilize plataformas digitais para amplificar suas vozes e se informar, a ação política concreta, como o voto, pode enfrentar barreiras como a desconfiança no sistema político.</p><p>De acordo com Priscila Lapa, Cientista Política, isso pode sim gerar muitas distorções nesse ativismo político. “Nas redes sociais, você perde a possibilidade de controle. Há um descentramento que leva, inclusive, à perda de referências, especialmente dos referenciais políticos, e isso pode causar uma distorção nesse ativismo. Ele pode se tornar um ativismo muito mais digital, voltado à discussão política, do que, propriamente, à participação política efetiva, como o acompanhamento de votações de projetos de lei, o consumo de informações sobre a aplicação dos recursos do orçamento e a transparência nas políticas públicas. Esse acompanhamento requer uma estrutura de conhecimento que as redes sociais, por si só, não têm sido capazes de fornecer para a formação política do cidadão brasileiro”, externa Priscila.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/8d801ea4-66be-41ba-b3a7-e30c9f12f07d.jpg?resize=1600%2C1067&amp;ssl=1' alt='8d801ea4-66be-41ba-b3a7-e30c9f12f07d' width='1600' height='1067' /><figcaption>“Nós temos observado esse excesso de polarização e o extremismo do debate político, com dificuldade de encontrar opiniões fora desses extremos, pois o centro só é construído a partir de consensos”, profere Priscila de acordo como os as redes sociais moldam as decisões políticas dos jovens. (Reprodução: Arquivo Pessoal) </figcaption></figure><p>Com a grande quantidade de dados e opiniões circulando, é fácil se deparar com informações conflitantes ou até mesmo falsas. Por isso, o senso crítico se torna fundamental para filtrar e verificar a veracidade das notícias e das opiniões publicadas. O estagiário fiscal Ian Ferreira, 21 anos, exemplifica como lida com a quantidade de informações e opiniões conflitantes que encontra nas redes sociais sobre os candidatos e partidos. “Eu analiso de forma coerente se determinada informação dele/dela é verídica ou não, porque, hoje em dia, muitos querem se sobressair sobre os outros com base em mentiras para manchar a imagem alheia”, expressa Ian.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/ian.jpg?resize=750%2C1094&amp;ssl=1' alt='ian' width='750' height='1094' /><figcaption>“Avalio o que o candidato diz, a maneira como se comporta nas redes sociais e as ideias de mudança que ele tem a nos oferecer”, expõe Ian. (Reprodução: Arquivo Pessoal) </figcaption></figure><p>Além disso, a desinformação pode aparecer de várias formas, como boatos, teorias da conspiração e manipulação de imagens ou vídeos. Durante eleições, ela é usada para desacreditar candidatos, confundir eleitores sobre o processo eleitoral ou promover agendas políticas. O impacto é devastador, pois influencia a percepção dos eleitores e, consequentemente, os resultados.</p><p>Martina Giovanetti, 21 anos, produtora de conteúdo sobre política e formada em relações internacionais, aborda como ela utiliza suas plataformas digitais para se engajar e incentivar seus seguidores a discutir e entender sobre política. “Muitas vezes, é meio abstrato para o público em geral como a política influencia o dia a dia e a vivência deles em sociedade. Eu tento, ao trazer informações sobre atualidades e relações internacionais, mostrar de forma sutil, leve e didática como, por mais que pareça um assunto distante, a política não só afeta a vida de todos nós, mas também pode ser compreendida e até mesmo fácil, se o conhecimento for transmitido da forma correta” , esclarece Martina.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/f54132e0-a76b-4d74-b0ae-6dc4654b1370.jpg?resize=751%2C938&amp;ssl=1' alt='f54132e0-a76b-4d74-b0ae-6dc4654b1370' width='751' height='938' /><figcaption>“Existe uma dificuldade muito grande em dialogar sobre temas políticos no online, primeiramente, em se manter o mais neutro possível e, em segundo lugar, em alcançar aquelas pessoas que já têm certo preconceito com alguma ideia ou acontecimento”, conta Martina. (Reprodução: Arquivo Pessoal) </figcaption></figure><p>No entanto, a desinformação distorce a opinião pública, criando narrativas falsas que favorecem ou prejudicam candidatos. Com isso, ela pode comprometer a confiança nas instituições democráticas, levando a questionamentos sobre a legitimidade do sistema eleitoral. Outro efeito é o aumento da polarização política, já que as narrativas enganosas reforçam divisões, dificultando o diálogo e agravando tensões sociais. Em casos extremos, a desinformação pode até incitar a violência, gerando conflitos e tragédias, como já observado no Brasil e em outros países.</p><p>Logo, a regulação do conteúdo digital e a responsabilização das plataformas são essenciais para assegurar um ambiente online seguro e ético, especialmente dentro de uma democracia. O grande desafio é encontrar um equilíbrio entre essa regulação e a liberdade de expressão, que leva em conta a diversidade cultural do Brasil.</p><p>Giulia Karol – 4º Período</p><p>Júlia Gabriela – 7º Período</p></main>"
+  },
+  "date": "2024-10-05T09:09:00",
+  "date_gmt": "2024-10-05T12:09:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>As redes sociais têm alterado as estratégias de campanhas eleitorais e a forma como os eleitores percebem os candidatos e as questões políticas. Em um cenário onde a tecnologia permeia todos os aspectos da vida cotidiana, as eleições municipais de 2024 se apresentam como um campo para a análise da influência do Direito Digital. A [&hellip;]</p>\n"
+  },
+  "featured_media": 17538,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17536"
+  },
+  "id": 17536,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/fake-news.jpg?fit=750%2C562&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4yQ",
+  "link": "https://agenciauvabarra.com/2024/10/05/a-influencia-das-redes-sociais-e-das-fake-news-nas-campanhas-eleitorais-e-na-opiniao-publica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-10-07T19:17:15",
+  "modified_gmt": "2024-10-07T22:17:15",
+  "ping_status": "open",
+  "slug": "a-influencia-das-redes-sociais-e-das-fake-news-nas-campanhas-eleitorais-e-na-opiniao-publica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A Influência das Redes Sociais e das Fake News nas Campanhas Eleitorais e na Opinião Pública "
+  },
+  "type": "post"
+}

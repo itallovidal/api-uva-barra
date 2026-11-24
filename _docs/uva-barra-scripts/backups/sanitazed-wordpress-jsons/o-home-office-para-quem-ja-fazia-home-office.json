@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6443/revisions/6457",
+        "id": 6457
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6443"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6443",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6443/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6443"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6452"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6443",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6443",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    4753134,
+    7114
+  ],
+  "class_list": [
+    "post-6443",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-quarentena",
+    "category-sociedade",
+    "tag-coronavirus",
+    "tag-home-office",
+    "tag-isolamento-social",
+    "tag-quarentena"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>“Veteranos” da modalidade detalham o novo dia a dia proporcionado pelo isolamento social</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/menderson.jpg?resize=572%2C572&amp;ssl=1\" alt=\"\" width=\"572\" height=\"572\" /><figcaption>Menderson Siqueira é professor da Universdade Veiga de Almeida e tem se adaptado ao home office – Foto: Reprodução/Redes Sociais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/rodrigo.jpg?resize=500%2C500&amp;ssl=1\" alt=\"\" width=\"500\" height=\"500\" /><figcaption>O desenvolvedor Rodrigo Assis trabalha home office há mais de 6 anos – Foto: Reprodução/Redes Sociais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/nathan.jpg?resize=500%2C500&amp;ssl=1\" alt=\"\" width=\"500\" height=\"500\" /><figcaption>Nathan Sacramento trabalha com home office há pouco tempo, mas está satisfeito com a experiência – Foto: Reprodução/Redes Sociais</figcaption></figure><p>Alguns brasileiros estão experimentando a rotina do home office pela primeira vez nas últimas semanas. Mas, antes de ser uma medida de prevenção e combate ao coronavírus, 3,8 milhões de pessoas já trabalhavam em casa, segundo os dados levantados, em 2018, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).</p><p>Para os novatos, a adaptação ao modelo de trabalho pode ser uma cilada, devido à liberdade e flexibilidade do horário. No entanto, para os “veteranos” do home office, trabalhar em casa é uma dádiva se o planejamento e a gestão do tempo forem bem feitos.</p><p>Rodrigo Assis, 31, vive o home office desde 2014 e não aceita nenhum trabalho que não seja remoto. Afetado pelo isolamento social, o líder de desenvolvimento web diz que a maior mudança na rotina se deve ao fato da namorada também estar fazendo home office. “Algumas coisas que eu fazia sozinho agora tem a presença dela. Então, a gente cozinha, arruma a casa e faz as refeições juntos. Fora isso, as mudanças são as mesmas de todo mundo”</p><p>Para quem tem duas profissões a adaptação também foi necessária. O professor Menderson Siqueira trabalhando em casa há mais de 30 anos como arquiteto e profissional liberal, o home office nas aulas remotas afetou a privacidade e trouxe um pouco mais de dificuldade na adaptação.</p><p>Ouça o depoimento abaixo:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F803868520&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"SoundCloud\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/menderson-aula.jpeg?resize=1032%2C774&amp;ssl=1\" alt=\"\" width=\"1032\" height=\"774\" /><figcaption>Apesar da dificuldade inicial, Menderson conseguiu adaptar as aulas práticas com sucesso – Foto: Arquivo Pessoal</figcaption></figure><p>Outra mudança citada por Menderson foi o tempo que agora sobra para ele. Antes, por morar em Niterói e trabalhar, presencialmente, na Tijuca e na Barra da Tijuca, Menderson perdia tempo com congestionamentos nas vias do Rio de Janeiro e tentava sair mais cedo de casa para não se atrasar. Hoje, ele relata que sobra esse tempo para outros afazeres como interagir com os alunos, tarefas pessoais e profissionais também.</p><p>O mesmo acontece com Nathan Sacramento. O desenvolvedor web que também já trabalhava home office antes da quarentena, relata que, com a paralisação de alguns serviços, substituiu suas prioridades e refez a sua agenda semanal. “Eu tinha o mindset de que de segunda a sexta, eu era somente trabalho e faculdade. Com a quarentena, eu me dei a liberdade de alongar um pouco mais as coisas”.</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F803868493&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"SoundCloud\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe><p>A iniciativa de Nathan pode ser uma armadilha para quem não está acostumado a trabalhar em casa. Por isso, o gestor de mudanças e professor da UVA, Alessandro Orofino diz que o ideal para fazer o home office com qualidade, é definir o que é urgente. “Antes de começar a trabalhar, programe sua jornada diária. Tenha horários específicos de trabalho e alguns momentos de pausa ao longo do dia”.</p><p>Durante o trabalho, Orofino diz que é importante evitar distrações. Não aconselha a trabalhar com a televisão ligada e ficar o tempo todo com música no ouvido. “Sei que tem gente que consegue, mas é importante manter o foco. Se quiser ouvir música, que seja baixa e eventualmente no fone de ouvido”.</p><p>Além disso, para garantir que a vida pessoal e a profissional estejam em completa harmonia é importante não abrir mão do lazer e não focar somente no trabalho. “Procurar fazer algo que seja divertido, mesmo com a quarentena. Cuide da alimentação, aprenda coisas novas e se conecte com sua família. Nesse momento, é importante cuidar da nossa saúde mental também”, finaliza Orofino.</p><p><strong>Pedro José Alves – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-04-21T15:39:18",
+  "date_gmt": "2020-04-21T18:39:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Veteranos” da modalidade detalham o novo dia a dia proporcionado pelo isolamento social Alguns brasileiros estão experimentando a rotina do home office pela primeira vez nas últimas semanas. Mas, antes de ser uma medida de prevenção e combate ao coronavírus, 3,8 milhões de pessoas já trabalhavam em casa, segundo os dados levantados, em 2018, pelo [&hellip;]</p>\n"
+  },
+  "featured_media": 6452,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6443"
+  },
+  "id": 6443,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/menderson-aula.jpeg?fit=1032%2C774&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1FV",
+  "link": "https://agenciauvabarra.com/2020/04/21/o-home-office-para-quem-ja-fazia-home-office/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-04-21T15:39:18",
+  "modified_gmt": "2020-04-21T18:39:18",
+  "ping_status": "open",
+  "slug": "o-home-office-para-quem-ja-fazia-home-office",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056633,
+    25322,
+    8757533,
+    767056634
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O home office para quem já fazia home office"
+  },
+  "type": "post"
+}

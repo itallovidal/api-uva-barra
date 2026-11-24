@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18779/revisions/18792",
+        "id": 18792
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18779"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18779",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18779/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18779"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18787"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18779",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18779",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    2213927,
+    11716206,
+    7442,
+    175,
+    15243,
+    7114,
+    254332
+  ],
+  "class_list": [
+    "post-18779",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-cosmetico",
+    "category-economia-2",
+    "category-empreendedorismo",
+    "category-marketing",
+    "category-meio-ambiente",
+    "category-sociedade",
+    "category-sustentabilidade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Simplicidade, franqueza e propósito foram as palavras que abriram a palestra sobre design sustentável no Rio Innovation Week 2025, com a participação de Fernando Andreazi, sócio fundador e diretor criativo da Rebu, Fabiana Tchalian, cofundadora da Água na caixa , Giovanna Meneghel, cofundadora da Nude e Mayara Castro, ceo da Made by Women Agency. O debate trouxe temas sobre o design como ferramenta estratégica, embalagens sustentáveis, exigência de novas gerações e desafios de grandes corporações em práticas sustentáveis.</p><p>O painel foi muito enriquecedor para as pequenas e grandes empresas, que têm o intuito de ser mais sustentável, pois reúne marcas as quais possuem os mesmos ideais. As marcas têm que possuir coerência e consistência, pois mesmo se surgir uma ideia nova, ela tem que se manter na proposta da marca., afirmou Fernando Andreazi. A frase pronunciada pelo palestrante evidência o ceticismo dos consumidores, visto que é essencial para o público que as instituições não façam apenas campanhas publicitárias mas sim práticas reais.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/image.png?resize=1200%2C1600&amp;ssl=1' alt='Fernando Andreazi, sócio fundador e diretor criativo da Rebu. ( Créditos: Rio Innovation Week)' width='1200' height='1600' /><figcaption>Fernando Andreazi, sócio fundador e diretor criativo da Rebu. ( Créditos: Rio Innovation Week)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/image-1.png?resize=1526%2C1600&amp;ssl=1' alt='Mayara Castro, ceo da Made by Women Agency. ( Créditos: Rio Innovation Week).' width='1526' height='1600' /><figcaption>Mayara Castro, ceo da Made by Women Agency. ( Créditos: Rio Innovation Week).</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/image-2.png?resize=1600%2C1066&amp;ssl=1' alt='Fabiana Tchalian, cofundadora da Água na caixa. ( Créditos: Agência EY) .' width='1600' height='1066' /><figcaption>Fabiana Tchalian, cofundadora da Água na caixa. ( Créditos: Agência EY) .</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/image-3.png?resize=768%2C432&amp;ssl=1' alt='Giovanna Meneghel, cofundadora da Nude. ( Créditos: Fast Company Brasil).' width='768' height='432' /><figcaption>Giovanna Meneghel, cofundadora da Nude. ( Créditos: Fast Company Brasil).</figcaption></figure><p>Para Mayara Castro, empresária, a geração Z e os Millennials cobram mais autenticidade e transparência das corporações , rejeitando o greenwashing, o que dificulta cada vez mais o processo de criação de designs sustentáveis. Os Millennials e a geração Z estão sendo mais exigentes com o tema sustentabilidade, pois é uma pauta que está sendo muito debatida atualmente., Mayara relatou. Ela também destacou que a atual geração vai ser pioneira na transformação da sustentabilidade e essa postura impactará diretamente no mercado. Esses jovens não são apenas consumidores, mas também serão gestores ou coordenadores de empresas no futuro., concluiu.</p><p>As embalagens apareceram também como protagonistas no debate. Por ser visual, a embalagem é o primeiro contato do consumidor com você, pois é a primeira coisa que ele enxerga., citou Fabiana Tchalian. O design é a base das transformações sustentáveis pelo motivo de ser o ponto de partida no desenvolvimento de qualquer produto, quando aliado à honestidade e integridade, às embalagens conectam consumidores e empresas para trazer reflexões sobre o impacto e construir um futuro mais responsável.</p><p>Além disso, as marcas têm que apostar na franqueza e honestidade e sua comunicação precisa ser simples e afetiva, valorizando a sua proximidade com o público. Em meio ao excesso de informação da atual geração isso pode ser considerado uma boa estratégia para uma empresa pois constrói uma conexão real com o cliente. O design está na franqueza, honestidade da marca, simplicidade e efetividade da comunicação, especialmente em uma geração que recebe excesso de informação., afirmou Giovanna Meneghel.</p><p>O painel também ressaltou o desafio de grandes empresas em condutas sustentáveis por possuírem fabricações e distribuições globais e práticas antigas difíceis de mudar, portanto o processo se torna custoso e lento para elas. É muito difícil ver multinacionais, como por exemplo a coca-cola, que possuem estruturas complexas, mudando para práticas sustentáveis., citou Fernando Andreazi.</p><p>As embalagens biodegradáveis, diferente de embalagens de plásticos utilizadas em multinacionais, representam uma solução ambiental. A embalagem biodegradável ela é uma forma de matéria prima renovável., afirmou Fabiana Tchalian, ou seja, ao mesmo tempo que é extraído da natureza para fazer o produto, ele ao ser descartado retorna ao meio ambiente sem causar danos prolongados ou até mesmo se transformando novamente em matéria prima.</p><p>Maria Luiza Alves 2º período</p></main>"
+  },
+  "date": "2025-08-20T18:00:00",
+  "date_gmt": "2025-08-20T21:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Simplicidade, franqueza e propósito foram as palavras que abriram a palestra sobre design sustentável no Rio Innovation Week 2025, com a participação de Fernando Andreazi, sócio fundador e diretor criativo da Rebu, Fabiana Tchalian, cofundadora da Água na caixa , Giovanna Meneghel, cofundadora da Nude e Mayara Castro, ceo da Made by Women Agency. O [&hellip;]</p>\n"
+  },
+  "featured_media": 18787,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18779"
+  },
+  "id": 18779,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-20-at-16.12.22.jpeg?fit=900%2C879&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4ST",
+  "link": "https://agenciauvabarra.com/2025/08/20/rio-innovation-week-2025-e-o-design-como-impulsor-da-transformacao-sustentavel/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-08-20T16:23:19",
+  "modified_gmt": "2025-08-20T19:23:19",
+  "ping_status": "open",
+  "slug": "rio-innovation-week-2025-e-o-design-como-impulsor-da-transformacao-sustentavel",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rio Innovation Week 2025 e o design como impulsor da transformação sustentável"
+  },
+  "type": "post"
+}

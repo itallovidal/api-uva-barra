@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18869/revisions/18902",
+        "id": 18902
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18869"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18869",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18869/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18869"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18872"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18869",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18869",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    2367,
+    23208,
+    670411728,
+    14603,
+    713047979,
+    39479,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-18869",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-cultura",
+    "category-entretenimento",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-podseries",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Os brasileiros estão tendo mais orgulho em se reconhecer como população negra. De acordo com recentes resultados do Censo de 2022 do IBGE (Instituto Brasileiro de Geografia e Estatística) 55,5% da população se identifica como preta ou parda. Além de utilizar o conceito de raça como categoria social e não como conceito biológico.</p><p>Mesmo com o processo de embranquecimento no Brasil que influenciou a forma como pessoas negras se reconhecem, o conflito de identidade e a busca por aceitação em uma sociedade que não valoriza a negritude ainda é um problema.</p><p>O podcast aborda a importância do autoconhecimento racial como forma de resistência e mostra como o ato de se reconhecer negro é um gesto político e transformador.</p><p>Neste episódio, a escritora Aline Botelho compartilha a trajetória de descoberta racial, marcada por silenciamentos, imposições e reencontros com a própria identidade. A conversa também conta com a participação da historiadora Elaine Souza, que explica como o racismo estrutural e o projeto de embranquecimento influenciam a forma como pessoas negras se reconhecem no Brasil.</p><figure><img src='https://open.spotify.com/embed/episode/1pN6EiPXivsua5fdCqBu01?si=IG8bqHOdT72tlecgs8IH0g&#038;utm_source=oembed' alt='Embed Spotify' width='100%' height='152'><figcaption>Spotify Embed: Todo Corpo Pod(e) #02 - O Corpo Negro e o Autodescobrimento como Pessoa Negra</figcaption></figure><p>Equipe Todo Corpo Pod(e):</p><p>Mariana Calixto</p><p>Equipe Agência UVA Barra:<br>Duda Nicolich</p><p>Carolina Alves</p></main>"
+  },
+  "date": "2025-08-26T16:36:48",
+  "date_gmt": "2025-08-26T19:36:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A resistência e o ato de se reconhecer negro é um gesto político e transformador.</p>\n"
+  },
+  "featured_media": 18872,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18869"
+  },
+  "id": 18869,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-26-at-16.35.38.jpeg?fit=1080%2C1350&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Ul",
+  "link": "https://agenciauvabarra.com/2025/08/26/podcast-radio-uva-barra-todo-corpo-pode-o-corpo-negro-e-o-autodescobrimento-como-pessoa-negra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-08-28T17:47:59",
+  "modified_gmt": "2025-08-28T20:47:59",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-todo-corpo-pode-o-corpo-negro-e-o-autodescobrimento-como-pessoa-negra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Todo Corpo Pod(e): O Corpo Negro e o Autodescobrimento como Pessoa Negra"
+  },
+  "type": "post"
+}

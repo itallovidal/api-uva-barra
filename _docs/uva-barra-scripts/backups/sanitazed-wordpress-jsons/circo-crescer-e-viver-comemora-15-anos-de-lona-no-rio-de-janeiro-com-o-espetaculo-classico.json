@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5520/revisions/5531",
+        "id": 5531
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5520"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5520",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5520/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5520"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5523"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5520",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5520",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367
+  ],
+  "class_list": [
+    "post-5520",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "tag-agencia-uva-barra",
+    "tag-circo-crescer-e-viver",
+    "tag-deborah-colker"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Nova montagem circense celebra as grandes atrações do circo tradicional</em></p><p>O Circo Crescer e Viver recebeu, na última quinta-feira (10), na Praça Onze, Rio de Janeiro, a apresentação do espetáculo “Clássico” no qual o público é convidado a relembrar as emoções das performances circenses que marcaram inúmeras gerações como trapezistas, malabaristas, acrobatas, contorcionistas e o sempre aguardado palhaço. Espetáculo tem criação coletiva e supervisão geral de Deborah Colker.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20191010_202942-e1571006469754.jpg?resize=4116%2C2315&amp;ssl=1\" alt=\"\" width=\"4116\" height=\"2315\" /><figcaption>Apresentação da trupe – Foto: Lucas Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20191010_221823.jpg?resize=4128%2C2322&amp;ssl=1\" alt=\"\" width=\"4128\" height=\"2322\" /><figcaption>Vinícius Daumas interpreta o palhaço – Foto: Lucas Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20191010_220428.jpg?resize=4128%2C2322&amp;ssl=1\" alt=\"\" width=\"4128\" height=\"2322\" /><figcaption>Equipe do espetáculo reunida – Foto: Lucas Souza</figcaption></figure><p>Durante a exibição dos números, os espectadores eram convidados a sentirem diversas emoções. Segundo Deborah Colker, diretora cênica e coreógrafa do show, o circo é um encontro de humanidades e nesse espetáculo artistas dos mais diferentes tipos se encontram. “’Clássico’ é o encontro de todas as linguagens, onde o artista pode pirar, se arriscar, inventar e criar um imaginário”, destaca.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20191010_214717.jpg?resize=561%2C315&amp;ssl=1\" alt=\"\" width=\"561\" height=\"315\" /><figcaption>Número de equilibrismo – Foto: Lucas Souza</figcaption></figure><p>O momento de dificuldade que o segmento artístico passa não desanimou os artistas circenses. O coordenador artístico e intérprete do palhaço do show, Vinícius Daumas, diz que a arte sempre tem a função de arejar os pensamento, ressignificar a vida e unir as pessoas. “Eu me sinto no meu papel de artista, de perseverar e independente de qualquer situação o artista tem que viver da arte e para a arte”, afirma.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20191010_221430.jpg?resize=535%2C300&amp;ssl=1\" alt=\"\" width=\"535\" height=\"300\" /><figcaption>Deborah Colker assina a supervisão coreográfica e cênica do espetáculo – Foto: Lucas Souza</figcaption></figure><p>O espetáculo também marca os 15 anos do circo crescer e viver no Rio de Janeiro. Depois do encerramento do show foi lido um manifesto com a presença de todos da equipe e da produção, entre eles o  cofundador e diretor de produção Junior Perim, que destacou a importância do circo. “Cada vez que abrimos o touro de roda, ideias e simbolismos se apresentam e a magia de pisar no picadeiro se torna única, aqui ninguém fica só de plateia, todos são parte da nossa trupe”, comenta. “Clássico” fará temporada de 11 de outubro até 3 de novembro.</p><p><strong>Lucas Souza – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-13T19:46:05",
+  "date_gmt": "2019-10-13T22:46:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Nova montagem circense celebra as grandes atrações do circo tradicional O Circo Crescer e Viver recebeu, na última quinta-feira (10), na Praça Onze, Rio de Janeiro, a apresentação do espetáculo “Clássico” no qual o público é convidado a relembrar as emoções das performances circenses que marcaram inúmeras gerações como trapezistas, malabaristas, acrobatas, contorcionistas e o [&hellip;]</p>\n"
+  },
+  "featured_media": 5523,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5520"
+  },
+  "id": 5520,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/20191010_202942-e1571006469754.jpg?fit=4116%2C2315&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1r2",
+  "link": "https://agenciauvabarra.com/2019/10/13/circo-crescer-e-viver-comemora-15-anos-de-lona-no-rio-de-janeiro-com-o-espetaculo-classico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-13T19:48:12",
+  "modified_gmt": "2019-10-13T22:48:12",
+  "ping_status": "open",
+  "slug": "circo-crescer-e-viver-comemora-15-anos-de-lona-no-rio-de-janeiro-com-o-espetaculo-classico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    157418054,
+    6471088
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Circo Crescer e viver comemora 15 anos de lona, no Rio de Janeiro, com o espetáculo “Clássico”"
+  },
+  "type": "post"
+}

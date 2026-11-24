@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21699/revisions/21702",
+        "id": 21702
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21699"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21699",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21699/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21699"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21701"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21699",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21699",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-21699",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O Rio de Janeiro voltou a ocupar o centro da moda nacional ao receber o Rio Fashion Week 2026. Durante cinco dias de programação no Pier Mauá, o evento reuniu estilistas, modelos, influenciadores e amantes da moda em uma celebração marcada por criatividade, diversidade e expressão cultural.</p><p>Entre desfiles, debates e experiências imersivas, a edição deste ano apresentou coleções que refletiram tendências contemporâneas, identidade brasileira e novas formas de pensar a moda. Marcas e estilistas ocuparam as passarelas com propostas que passaram pelo streetwear, moda autoral e alta-costura, reforçando o Rio como espaço de inovação e liberdade criativa.</p><p>A expectativa do público marcou o início dos desfiles mais aguardados da programação. Isa, que acompanhava a apresentação da marca Apartamento 03, destacou a importância do evento para a cidade. “Eu fico muito feliz que esse desfile esteja aqui no Rio Fashion Week. Acho que o Rio respira moda. Os cariocas são inventivos, originais e estilosos. Não existe nada mais ligado à moda do que mostrar quem você é através da roupa”, afirmou.</p><p>Ela também ressaltou a importância de trazer estilistas de outras regiões para desfilar na cidade. “É muito legal ver pessoas de fora vindo para o Rio, porque geralmente somos nós que viajamos para acompanhar outras semanas de moda. O visual daqui é incrível e esse movimento é algo que a moda carioca merece”, completou.</p><p>Entre os destaques da programação estiveram os desfiles da Adidas, da marca Apartamento 03 e da estilista Angela Brito. O evento também contou com a exposição “Alta Costura no Carnaval”, ampliando o diálogo entre moda, cultura popular e comunicação.</p><p>Para estilistas e profissionais do setor, desfilar no Rio representou uma experiência marcada por emoção e simbolismo. “Existe um frio na barriga diferente. É sair do ateliê e voltar para casa trazendo o trabalho para um espaço tão importante quanto esse”, comentou uma das participantes da programação.</p><p>Além das passarelas, o Rio Fashion Week promoveu palestras e encontros sobre comportamento, mercado e os novos caminhos da indústria da moda. Os debates aproximaram o público dos bastidores do setor e discutiram temas como sustentabilidade, inclusão e o impacto cultural da moda contemporânea.</p><p>Modelos em início de carreira também encontraram no evento uma oportunidade de aprendizado e crescimento profissional. “É muito especial estar aqui aprendendo com outros profissionais e vivendo dessa arte. A moda engrandece e está presente em todos os lugares”, destacou uma das participantes.</p><p>O estilista Luiz Claudio, da Apartamento 03, também foi homenageado durante a programação e recebeu apoio de convidados e admiradores da marca. “Depois de tantos anos, fazer esse desfile no Rio de Janeiro é um ato político. É uma felicidade enorme fazer parte dessa história e dessa cultura”, comentou uma das convidadas presentes no evento.</p><p>Ao longo da programação, o Rio Fashion Week 2026 reforçou o papel da cidade como referência cultural e criativa no cenário nacional. Mais do que apresentar tendências, o evento promoveu encontros, experiências e reflexões sobre identidade, comportamento e expressão artística através da moda.</p><p>Duda Nicolich – 3º Período de Jornalismo</p></main>"
+  },
+  "date": "2026-04-17T12:27:55",
+  "date_gmt": "2026-04-17T15:27:55",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Rio de Janeiro voltou a ocupar o centro da moda nacional ao receber o Rio Fashion Week 2026. Durante cinco dias de programação no Pier Mauá, o evento reuniu estilistas, modelos, influenciadores e amantes da moda em uma celebração marcada por criatividade, diversidade e expressão cultural. Entre desfiles, debates e experiências imersivas, a edição [&hellip;]</p>\n"
+  },
+  "featured_media": 21701,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21699"
+  },
+  "id": 21699,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/angela_brito_riofw_26_006-scaled-1-1024x682-1.jpg?fit=1024%2C682&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5DZ",
+  "link": "https://agenciauvabarra.com/2026/04/17/rio-fashion-week-2026-transforma-o-rio-em-vitrine-da-moda-cultura-e-identidade-brasileira/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAHyeiqoRTMAZgBBgIEBgMBBAMFFgEReAwDAAYDAAQCBIIBngIBAQgCQgECSACeCQEBCAJCAQJIALALAQEIAkIBAkgAvg0BAQgCQgECSACaCgEBCAJCAQJIAIoIAQEIAkIBAkgAtgkBAQgCQgECSACiCQEBCAJCAQJIAKIJAQEIAkIBAkgAggsBAQgCQgECSACgCQEBCAIkZgECSC4m/msGcgILCgwDAAYDAAQCnmulASgBIQAnAAQAhA0nASgGJwAoFScAxAiEAAcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAKAQnAIcAKAInAQQAhAAoBCcAxACEAAQAqNJK9khzdGF0ZXZlcnNpb25kb2N1bWVudGRhdGVkb2N1bWVudHN0YXR1c2RvY3VtZW50dGl0bGVSYXNjdW5obyBhdXRvbcOhdGljb2RvY3VtZW50Y29udGVudGRvY3VtZW50ZXhjZXJwdGRvY3VtZW50YXV0aG9yZG9jdW1lbnRmZWF0dXJlZF9tZWRpYWRvY3VtZW50Y29tbWVudF9zdGF0dXNkb2N1bWVudHBpbmdfc3RhdHVzZG9jdW1lbnRzdGlja3lkb2N1bWVudHRlbXBsYXRlZG9jdW1lbnRmb3JtYXRkb2N1bWVudG1ldGFhZHZhbmNlZF9zZW9fZGVzY3JpcHRpb25qZXRwYWNrX3Nlb19odG1sX3RpdGxlamV0cGFja19zZW9fbm9pbmRleF9jb2Jsb2Nrc19hdHRyX2NvYmxvY2tzX2RpbWVuc2lvbnNfY29ibG9ja3NfcmVzcG9uc2l2ZV9oZWlnaHRfY29ibG9ja3NfYWNjb3JkaW9uX2llX3N1cHBvcnRqZXRwYWNrX3Bvc3Rfd2FzX2V2ZXJfcHVibGlzaGVkcmVhZGVyX3N1Z2dlc3RlZF90YWdzX2pldHBhY2tfbmV3c2xldHRlcl9hY2Nlc3NfamV0cGFja19kb250X2VtYWlsX3Bvc3RfdG9fc3Vic19qZXRwYWNrX25ld3NsZXR0ZXJfdGllcl9pZF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BheXdhbGxlZF9jb250ZW50X2pldHBhY2tfZmVhdHVyZV9jbGlwX2lkX2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGFpZF9jb250ZW50Zm9vdG5vdGVzamV0cGFja19wdWJsaWNpemVfbWVzc2FnZWpldHBhY2tfcHVibGljaXplX2ZlYXR1cmVfZW5hYmxlZGpldHBhY2tfc29jaWFsX3Bvc3RfYWxyZWFkeV9zaGFyZWRqZXRwYWNrX3NvY2lhbF9vcHRpb25zZG9jdW1lbnRjYXRlZ29yaWVzZG9jdW1lbnR0YWdzZG9jdW1lbnRibG9ja3NpbyBGaW5XZWVrIDIwMjYgcmFuc2ZyYSBvIFJpbyBlbSB2aXJuZSBkYSBtZGEsIGN1bHR1cmEgZSBpZGVudGlkYWRlIGJyYXNpbGVpcmFjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRPIFJpbyBkZSBKYW5laXJvIHZvbHRvdSBhIG9jdXBhciBvIGNlbnRybyBkYSBtb2RhIG5hY2lvbmFsIGFvIHJlY2ViZXIgbyBSaW8gRmFzaGlvbiBXZWVrIDIwMjYuIER1cmFudGUgY2luY28gZGlhcyBkZSBwcm9ncmFtYcOnw6NvIG5vIFBpZXIgTWF1w6EsIG8gZXZlbnRvIHJldW5pdSBlc3RpbGlzdGFzLCBtb2RlbG9zLCBpbmZsdWVuY2lhZG9yZXMgZSBhbWFudGVzIGRhIG1vZGEgZW0gdW1hIGNlbGVicmHDp8OjbyBtYXJjYWRhIHBvciBjcmlhdGl2aWRhZGUsIGRpdmVyc2lkYWRlIGUgZXhwcmVzc8OjbyBjdWx0dXJhbC5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEVudHJlIGRlc2ZpbGVzLCBkZWJhdGVzIGUgZXhwZXJpw6puY2lhcyBpbWVyc2l2YXMsIGEgZWRpw6fDo28gZGVzdGUgYW5vIGFwcmVzZW50b3UgY29sZcOnw7VlcyBxdWUgcmVmbGV0aXJhbSB0ZW5kw6puY2lhcyBjb250ZW1wb3LDom5lYXMsIGlkZW50aWRhZGUgYnJhc2lsZWlyYSBlIG5vdmFzIGZvcm1hcyBkZSBwZW5zYXIgYSBtb2RhLiBNYXJjYXMgZSBlc3RpbGlzdGFzIG9jdXBhcmFtIGFzIHBhc3NhcmVsYXMgY29tIHByb3Bvc3RhcyBxdWUgcGFzc2FyYW0gcGVsbyBzdHJlZXR3ZWFyLCBtb2RhIGF1dG9yYWwgZSBhbHRhLWNvc3R1cmEsIHJlZm9yw6dhbmRvIG8gUmlvIGNvbW8gZXNwYcOnbyBkZSBpbm92YcOnw6NvIGUgbGliZXJkYWRlIGNyaWF0aXZhLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50QSBleHBlY3RhdGl2YSBkbyBww7pibGljbyBtYXJjb3UgbyBpbsOtY2lvIGRvcyBkZXNmaWxlcyBtYWlzIGFndWFyZGFkb3MgZGEgcHJvZ3JhbWHDp8Ojby4gSXNhLCBxdWUgYWNvbXBhbmhhdmEgYSBhcHJlc2VudGHDp8OjbyBkYSBtYXJjYSBBcGFydGFtZW50byAwMywgZGVzdGFjb3UgYSBpbXBvcnTDom5jaWEgZG8gZXZlbnRvIHBhcmEgYSBjaWRhZGUuIOKAnEV1IGZpY28gbXVpdG8gZmVsaXogcXVlIGVzc2UgZGVzZmlsZSBlc3RlamEgYXF1aSBubyBSaW8gRmFzaGlvbiBXZWVrLiBBY2hvIHF1ZSBvIFJpbyByZXNwaXJhIG1vZGEuIE9zIGNhcmlvY2FzIHPDo28gaW52ZW50aXZvcywgb3JpZ2luYWlzIGUgZXN0aWxvc29zLiBOw6NvIGV4aXN0ZSBuYWRhIG1haXMgbGlnYWRvIMOgIG1vZGEgZG8gcXVlIG1vc3RyYXIgcXVlbSB2b2PDqiDDqSBhdHJhdsOpcyBkYSByb3VwYeKAnSwgYWZpcm1vdS5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEVsYSB0YW1iw6ltIHJlc3NhbHRvdSBhIGltcG9ydMOibmNpYSBkZSB0cmF6ZXIgZXN0aWxpc3RhcyBkZSBvdXRyYXMgcmVnacO1ZXMgcGFyYSBkZXNmaWxhciBuYSBjaWRhZGUuIOKAnMOJIG11aXRvIGxlZ2FsIHZlciBwZXNzb2FzIGRlIGZvcmEgdmluZG8gcGFyYSBvIFJpbywgcG9ycXVlIGdlcmFsbWVudGUgc29tb3MgbsOzcyBxdWUgdmlhamFtb3MgcGFyYSBhY29tcGFuaGFyIG91dHJhcyBzZW1hbmFzIGRlIG1vZGEuIE8gdmlzdWFsIGRhcXVpIMOpIGluY3LDrXZlbCBlIGVzc2UgbW92aW1lbnRvIMOpIGFsZ28gcXVlIGEgbW9kYSBjYXJpb2NhIG1lcmVjZeKAnSwgY29tcGxldG91LmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50RW50cmUgb3MgZGVzdGFxdWVzIGRhIHByb2dyYW1hw6fDo28gZXN0aXZlcmFtIG9zIGRlc2ZpbGVzIGRhIEFkaWRhcywgZGEgbWFyY2EgQXBhcnRhbWVudG8gMDMgZSBkYSBlc3RpbGlzdGEgQW5nZWxhIEJyaXRvLiBPIGV2ZW50byB0YW1iw6ltIGNvbnRvdSBjb20gYSBleHBvc2nDp8OjbyDigJxBbHRhIENvc3R1cmEgbm8gQ2FybmF2YWzigJ0sIGFtcGxpYW5kbyBvIGRpw6Fsb2dvIGVudHJlIG1vZGEsIGN1bHR1cmEgcG9wdWxhciBlIGNvbXVuaWNhw6fDo28uZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRQYXJhIGVzdGlsaXN0YXMgZSBwcm9maXNzaW9uYWlzIGRvIHNldG9yLCBkZXNmaWxhciBubyBSaW8gcmVwcmVzZW50b3UgdW1hIGV4cGVyacOqbmNpYSBtYXJjYWRhIHBvciBlbW/Dp8OjbyBlIHNpbWJvbGlzbW8uIOKAnEV4aXN0ZSB1bSBmcmlvIG5hIGJhcnJpZ2EgZGlmZXJlbnRlLiDDiSBzYWlyIGRvIGF0ZWxpw6ogZSB2b2x0YXIgcGFyYSBjYXNhIHRyYXplbmRvIG8gdHJhYmFsaG8gcGFyYSB1bSBlc3Bhw6dvIHTDo28gaW1wb3J0YW50ZSBxdWFudG8gZXNzZeKAnSwgY29tZW50b3UgdW1hIGRhcyBwYXJ0aWNpcGFudGVzIGRhIHByb2dyYW1hw6fDo28uZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRBbMOpbSBkYXMgcGFzc2FyZWxhcywgbyBSaW8gRmFzaGlvbiBXZWVrIHByb21vdmV1IHBhbGVzdHJhcyBlIGVuY29udHJvcyBzb2JyZSBjb21wb3J0YW1lbnRvLCBtZXJjYWRvIGUgb3Mgbm92b3MgY2FtaW5ob3MgZGEgaW5kw7pzdHJpYSBkYSBtb2RhLiBPcyBkZWJhdGVzIGFwcm94aW1hcmFtIG8gcMO6YmxpY28gZG9zIGJhc3RpZG9yZXMgZG8gc2V0b3IgZSBkaXNjdXRpcmFtIHRlbWFzIGNvbW8gc3VzdGVudGFiaWxpZGFkZSwgaW5jbHVzw6NvIGUgbyBpbXBhY3RvIGN1bHR1cmFsIGRhIG1vZGEgY29udGVtcG9yw6JuZWEuZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRNb2RlbG9zIGVtIGluw61jaW8gZGUgY2FycmVpcmEgdGFtYsOpbSBlbmNvbnRyYXJhbSBubyBldmVudG8gdW1hIG9wb3J0dW5pZGFkZSBkZSBhcHJlbmRpemFkbyBlIGNyZXNjaW1lbnRvIHByb2Zpc3Npb25hbC4g4oCcw4kgbXVpdG8gZXNwZWNpYWwgZXN0YXIgYXF1aSBhcHJlbmRlbmRvIGNvbSBvdXRyb3MgcHJvZmlzc2lvbmFpcyBlIHZpdmVuZG8gZGVzc2EgYXJ0ZS4gQSBtb2RhIGVuZ3JhbmRlY2UgZSBlc3TDoSBwcmVzZW50ZSBlbSB0b2RvcyBvcyBsdWdhcmVz4oCdLCBkZXN0YWNvdSB1bWEgZGFzIHBhcnRpY2lwYW50ZXMuZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRPIGVzdGlsaXN0YSBMdWl6IENsYXVkaW8sIGRhIEFwYXJ0YW1lbnRvIDAzLCB0YW1iw6ltIGZvaSBob21lbmFnZWFkbyBkdXJhbnRlIGEgcHJvZ3JhbWHDp8OjbyBlIHJlY2ViZXUgYXBvaW8gZGUgY29udmlkYWRvcyBlIGFkbWlyYWRvcmVzIGRhIG1hcmNhLiDigJxEZXBvaXMgZGUgdGFudG9zIGFub3MsIGZhemVyIGVzc2UgZGVzZmlsZSBubyBSaW8gZGUgSmFuZWlybyDDqSB1bSBhdG8gcG9sw610aWNvLiDDiSB1bWEgZmVsaWNpZGFkZSBlbm9ybWUgZmF6ZXIgcGFydGUgZGVzc2EgaGlzdMOzcmlhIGUgZGVzc2EgY3VsdHVyYeKAnSwgY29tZW50b3UgdW1hIGRhcyBjb252aWRhZGFzIHByZXNlbnRlcyBubyBldmVudG8uZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRBbyBsb25nbyBkYSBwcm9ncmFtYcOnw6NvLCBvIFJpbyBGYXNoaW9uIFdlZWsgMjAyNiByZWZvcsOnb3UgbyBwYXBlbCBkYSBjaWRhZGUgY29tbyByZWZlcsOqbmNpYSBjdWx0dXJhbCBlIGNyaWF0aXZhIG5vIGNlbsOhcmlvIG5hY2lvbmFsLiBNYWlzIGRvIHF1ZSBhcHJlc2VudGFyIHRlbmTDqm5jaWFzLCBvIGV2ZW50byBwcm9tb3ZldSBlbmNvbnRyb3MsIGV4cGVyacOqbmNpYXMgZSByZWZsZXjDtWVzIHNvYnJlIGlkZW50aWRhZGUsIGNvbXBvcnRhbWVudG8gZSBleHByZXNzw6NvIGFydMOtc3RpY2EgYXRyYXbDqXMgZGEgbW9kYS5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudDxzdHJvbmc+UG9yIENhcm9saW5hIFNhbnRvbmk8L3N0cm9uZz5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc25hIFNhbnRvPC9zdHJvbmdEdWRhIE5pY29saWNoIC0gM8K6IFBlcsOtb2RvIGRlIEpvcm5hbGlzbW88IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+TyBSaW8gZGUgSmFuZWlybyB2b2x0b3UgYSBvY3VwYXIgbyBjZW50cm8gZGEgbW9kYSBuYWNpb25hbCBhbyByZWNlYmVyIG8gUmlvIEZhc2hpb24gV2VlayAyMDI2LiBEdXJhbnRlIGNpbmNvIGRpYXMgZGUgcHJvZ3JhbWHDp8OjbyBubyBQaWVyIE1hdcOhLCBvIGV2ZW50byByZXVuaXUgZXN0aWxpc3RhcywgbW9kZWxvcywgaW5mbHVlbmNpYWRvcmVzIGUgYW1hbnRlcyBkYSBtb2RhIGVtIHVtYSBjZWxlYnJhw6fDo28gbWFyY2FkYSBwb3IgY3JpYXRpdmlkYWRlLCBkaXZlcnNpZGFkZSBlIGV4cHJlc3PDo28gY3VsdHVyYWwuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+RW50cmUgZGVzZmlsZXMsIGRlYmF0ZXMgZSBleHBlcmnDqm5jaWFzIGltZXJzaXZhcywgYSBlZGnDp8OjbyBkZXN0ZSBhbm8gYXByZXNlbnRvdSBjb2xlw6fDtWVzIHF1ZSByZWZsZXRpcmFtIHRlbmTDqm5jaWFzIGNvbnRlbXBvcsOibmVhcywgaWRlbnRpZGFkZSBicmFzaWxlaXJhIGUgbm92YXMgZm9ybWFzIGRlIHBlbnNhciBhIG1vZGEuIE1hcmNhcyBlIGVzdGlsaXN0YXMgb2N1cGFyYW0gYXMgcGFzc2FyZWxhcyBjb20gcHJvcG9zdGFzIHF1ZSBwYXNzYXJhbSBwZWxvIHN0cmVldHdlYXIsIG1vZGEgYXV0b3JhbCBlIGFsdGEtY29zdHVyYSwgcmVmb3LDp2FuZG8gbyBSaW8gY29tbyBlc3Bhw6dvIGRlIGlub3Zhw6fDo28gZSBsaWJlcmRhZGUgY3JpYXRpdmEuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+QSBleHBlY3RhdGl2YSBkbyBww7pibGljbyBtYXJjb3UgbyBpbsOtY2lvIGRvcyBkZXNmaWxlcyBtYWlzIGFndWFyZGFkb3MgZGEgcHJvZ3JhbWHDp8Ojby4gSXNhLCBxdWUgYWNvbXBhbmhhdmEgYSBhcHJlc2VudGHDp8OjbyBkYSBtYXJjYSBBcGFydGFtZW50byAwMywgZGVzdGFjb3UgYSBpbXBvcnTDom5jaWEgZG8gZXZlbnRvIHBhcmEgYSBjaWRhZGUuIOKAnEV1IGZpY28gbXVpdG8gZmVsaXogcXVlIGVzc2UgZGVzZmlsZSBlc3RlamEgYXF1aSBubyBSaW8gRmFzaGlvbiBXZWVrLiBBY2hvIHF1ZSBvIFJpbyByZXNwaXJhIG1vZGEuIE9zIGNhcmlvY2FzIHPDo28gaW52ZW50aXZvcywgb3JpZ2luYWlzIGUgZXN0aWxvc29zLiBOw6NvIGV4aXN0ZSBuYWRhIG1haXMgbGlnYWRvIMOgIG1vZGEgZG8gcXVlIG1vc3RyYXIgcXVlbSB2b2PDqiDDqSBhdHJhdsOpcyBkYSByb3VwYeKAnSwgYWZpcm1vdS48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5FbGEgdGFtYsOpbSByZXNzYWx0b3UgYSBpbXBvcnTDom5jaWEgZGUgdHJhemVyIGVzdGlsaXN0YXMgZGUgb3V0cmFzIHJlZ2nDtWVzIHBhcmEgZGVzZmlsYXIgbmEgY2lkYWRlLiDigJzDiSBtdWl0byBsZWdhbCB2ZXIgcGVzc29hcyBkZSBmb3JhIHZpbmRvIHBhcmEgbyBSaW8sIHBvcnF1ZSBnZXJhbG1lbnRlIHNvbW9zIG7Ds3MgcXVlIHZpYWphbW9zIHBhcmEgYWNvbXBhbmhhciBvdXRyYXMgc2VtYW5hcyBkZSBtb2RhLiBPIHZpc3VhbCBkYXF1aSDDqSBpbmNyw612ZWwgZSBlc3NlIG1vdmltZW50byDDqSBhbGdvIHF1ZSBhIG1vZGEgY2FyaW9jYSBtZXJlY2XigJ0sIGNvbXBsZXRvdS48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5FbnRyZSBvcyBkZXN0YXF1ZXMgZGEgcHJvZ3JhbWHDp8OjbyBlc3RpdmVyYW0gb3MgZGVzZmlsZXMgZGEgQWRpZGFzLCBkYSBtYXJjYSBBcGFydGFtZW50byAwMyBlIGRhIGVzdGlsaXN0YSBBbmdlbGEgQnJpdG8uIE8gZXZlbnRvIHRhbWLDqW0gY29udG91IGNvbSBhIGV4cG9zacOnw6NvIOKAnEFsdGEgQ29zdHVyYSBubyBDYXJuYXZhbOKAnSwgYW1wbGlhbmRvIG8gZGnDoWxvZ28gZW50cmUgbW9kYSwgY3VsdHVyYSBwb3B1bGFyIGUgY29tdW5pY2HDp8Ojby48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5QYXJhIGVzdGlsaXN0YXMgZSBwcm9maXNzaW9uYWlzIGRvIHNldG9yLCBkZXNmaWxhciBubyBSaW8gcmVwcmVzZW50b3UgdW1hIGV4cGVyacOqbmNpYSBtYXJjYWRhIHBvciBlbW/Dp8OjbyBlIHNpbWJvbGlzbW8uIOKAnEV4aXN0ZSB1bSBmcmlvIG5hIGJhcnJpZ2EgZGlmZXJlbnRlLiDDiSBzYWlyIGRvIGF0ZWxpw6ogZSB2b2x0YXIgcGFyYSBjYXNhIHRyYXplbmRvIG8gdHJhYmFsaG8gcGFyYSB1bSBlc3Bhw6dvIHTDo28gaW1wb3J0YW50ZSBxdWFudG8gZXNzZeKAnSwgY29tZW50b3UgdW1hIGRhcyBwYXJ0aWNpcGFudGVzIGRhIHByb2dyYW1hw6fDo28uPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+QWzDqW0gZGFzIHBhc3NhcmVsYXMsIG8gUmlvIEZhc2hpb24gV2VlayBwcm9tb3ZldSBwYWxlc3RyYXMgZSBlbmNvbnRyb3Mgc29icmUgY29tcG9ydGFtZW50bywgbWVyY2FkbyBlIG9zIG5vdm9zIGNhbWluaG9zIGRhIGluZMO6c3RyaWEgZGEgbW9kYS4gT3MgZGViYXRlcyBhcHJveGltYXJhbSBvIHDDumJsaWNvIGRvcyBiYXN0aWRvcmVzIGRvIHNldG9yIGUgZGlzY3V0aXJhbSB0ZW1hcyBjb21vIHN1c3RlbnRhYmlsaWRhZGUsIGluY2x1c8OjbyBlIG8gaW1wYWN0byBjdWx0dXJhbCBkYSBtb2RhIGNvbnRlbXBvcsOibmVhLjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPk1vZGVsb3MgZW0gaW7DrWNpbyBkZSBjYXJyZWlyYSB0YW1iw6ltIGVuY29udHJhcmFtIG5vIGV2ZW50byB1bWEgb3BvcnR1bmlkYWRlIGRlIGFwcmVuZGl6YWRvIGUgY3Jlc2NpbWVudG8gcHJvZmlzc2lvbmFsLiDigJzDiSBtdWl0byBlc3BlY2lhbCBlc3RhciBhcXVpIGFwcmVuZGVuZG8gY29tIG91dHJvcyBwcm9maXNzaW9uYWlzIGUgdml2ZW5kbyBkZXNzYSBhcnRlLiBBIG1vZGEgZW5ncmFuZGVjZSBlIGVzdMOhIHByZXNlbnRlIGVtIHRvZG9zIG9zIGx1Z2FyZXPigJ0sIGRlc3RhY291IHVtYSBkYXMgcGFydGljaXBhbnRlcy48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5PIGVzdGlsaXN0YSBMdWl6IENsYXVkaW8sIGRhIEFwYXJ0YW1lbnRvIDAzLCB0YW1iw6ltIGZvaSBob21lbmFnZWFkbyBkdXJhbnRlIGEgcHJvZ3JhbWHDp8OjbyBlIHJlY2ViZXUgYXBvaW8gZGUgY29udmlkYWRvcyBlIGFkbWlyYWRvcmVzIGRhIG1hcmNhLiDigJxEZXBvaXMgZGUgdGFudG9zIGFub3MsIGZhemVyIGVzc2UgZGVzZmlsZSBubyBSaW8gZGUgSmFuZWlybyDDqSB1bSBhdG8gcG9sw610aWNvLiDDiSB1bWEgZmVsaWNpZGFkZSBlbm9ybWUgZmF6ZXIgcGFydGUgZGVzc2EgaGlzdMOzcmlhIGUgZGVzc2EgY3VsdHVyYeKAnSwgY29tZW50b3UgdW1hIGRhcyBjb252aWRhZGFzIHByZXNlbnRlcyBubyBldmVudG8uPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+QW8gbG9uZ28gZGEgcHJvZ3JhbWHDp8OjbywgbyBSaW8gRmFzaGlvbiBXZWVrIDIwMjYgcmVmb3LDp291IG8gcGFwZWwgZGEgY2lkYWRlIGNvbW8gcmVmZXLDqm5jaWEgY3VsdHVyYWwgZSBjcmlhdGl2YSBubyBjZW7DoXJpbyBuYWNpb25hbC4gTWFpcyBkbyBxdWUgYXByZXNlbnRhciB0ZW5kw6puY2lhcywgbyBldmVudG8gcHJvbW92ZXUgZW5jb250cm9zLCBleHBlcmnDqm5jaWFzIGUgcmVmbGV4w7VlcyBzb2JyZSBpZGVudGlkYWRlLCBjb21wb3J0YW1lbnRvIGUgZXhwcmVzc8OjbyBhcnTDrXN0aWNhIGF0cmF2w6lzIGRhIG1vZGEuPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+RHVkYSBOaWNvbGljaCAtIDPCuiBQZXLDrW9kbyBkZSBKb3JuYWxpc21vPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+BQcIBAgGCAUBAgNBAQJBBggHCAcIBggOCA4ICwgGSAEGCAQYFhMOFBseHxUaIBsvGCoJGSEiFggKCAQIBgRBAAoFAQ0BByMIBwQKB6MEBwoNDwwLCAcECgesBQcKDQ8MCwgHBAoHswYHCg0PDAsIBwQKB4EFBwoNDwwLCAcECge5AwcKDQ8MCwgHBAoHrwQHCg0PDAsIBwQKB6UEBwoNDwwLCAcECgelBAcKDQ8MCwgHBAoHlQUHCg0PDAsIBwQKB6QEBwoNDwwLCAcECgcSEwcKDQ8MCxAopjsLAQMAAAEJABMBAgAwQgEBAEEAAgBBAAIAQQACAEEAAgBBAAIAQQACAEEAAgBBAAIAQQACAEEAAgBBAAIAAkF5AdQBAH0BdxMyMDI2LTA1LTEzVDEyOjI3OjU1fZrgrnJ9AHcEb3BlbncEb3Blbnl3AHcIc3RhbmRhcmR3AHcAeXcAdwB3AHcAeXcAdwB5fQB5fQB5dwB3AHh5dgIYaW1hZ2VfZ2VuZXJhdG9yX3NldHRpbmdzdgQIdGVtcGxhdGV3B2hpZ2h3YXkQZGVmYXVsdF9pbWFnZV9pZH0ABGZvbnR3AAdlbmFibGVkeQd2ZXJzaW9ufQJ1AHUAdyQzOGJjNjEyMi1iMjdlLTQwYmQtYWYwMC01YWU4MzgyOTQ0MmJ4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JGQ1OWVjOTNlLTczMjYtNGUwZS05NGEzLWYyOWRiZTU5ZTdlYnh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckMDdhZTRkNTAtMjBjMS00NTlmLWI3N2ItMTM3ZWRlZmYyZTc2eHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQzNGI3MzdmOC0wNTg3LTQzOTgtOGVlNy0wOTEyOTRiZjhjYjh4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JGE0ZDY3OThhLWZhYmMtNDkyNS04ZmQzLTk5MjQ5MmMzNjMzYXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckZjkzNTU4MjEtMjM4OC00MWZhLWJlODYtZmY5Y2QwOWE5NGQxeHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQ4ZjY0ZjgzOC00ZTdkLTRkMDAtYWFkMC0zNTcwMmFiYTc3NDV4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDRmZWI4Mjc0LTQ0ZWItNGZhMS04Y2ZiLWQ0ZWU0YzMxYWI2YXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckZTIwMDU3NjItMDRiNy00ZThkLTlmMmUtNDFhMzg2ODNjYmVleHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQxZGJjZTJlOC1iZTE0LTRkNzgtODdjZS1jN2E0NDY0ODQxNTd4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDdlM2UxZWViLWNlZTEtNGU5ZS1iNjhmLTIxOGVjY2I3YTM0Mnh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eX2F0wJ3EzIwMjYtMDQtMTdUMTI6Mjc6NTV3B3B1Ymxpc2gBibTVkAoIAQEEAgMBAwACAAQA1xokBg8=\",\"updateId\":951517648}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-13T13:09:49",
+  "modified_gmt": "2026-05-13T16:09:49",
+  "ping_status": "open",
+  "slug": "rio-fashion-week-2026-transforma-o-rio-em-vitrine-da-moda-cultura-e-identidade-brasileira",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Rio Fashion Week 2026 transforma o Rio em vitrine da moda, cultura e identidade brasileira"
+  },
+  "type": "post"
+}

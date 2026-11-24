@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15751/revisions/15759",
+        "id": 15759
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15751"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15751",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15751/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15751"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15758"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15751",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15751",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2860759,
+    22,
+    3719,
+    758
+  ],
+  "class_list": [
+    "post-15751",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-bienal-do-livro",
+    "category-internet",
+    "category-literatura",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-artificial",
+    "tag-bienal",
+    "tag-futuro",
+    "tag-inteligencia",
+    "tag-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Problemas e soluções da tecnologia foram discutidos em diferentes painéis</em></p><p>A Bienal é também um espaço de debates. No “Café literário” diferentes temas fizeram parte da programação dos dez dias de evento e duas rodas de conversa trouxeram como tema central os impactos das “IAs” na formação da sociedade dos próximos anos: “Seremos mesmo substituídos pela inteligência artificial” e “Quem tem medo de você IA?”. Entre os assuntos abordados nas palestras, o funcionamento dessa tecnologia, como adequar a legislação brasileira para essas mudanças e os impactos em setores importantes como educação, política e economia.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-11-at-10.13.55-1.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>Dora Kaufman afirmou que o melhor caminho a se seguir é tentando conciliar as inteligências artificiais com a educação. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-11-at-10.13.55.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>Nina da Hora foi uma das especialistas convidada pela Comissão dos Senados de Juristas para participar das audiências públicas. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/lucas-herdy.jpeg?resize=864%2C1152&amp;ssl=1\" alt=\"\" width=\"864\" height=\"1152\"><figcaption>“A Bienal valida a necessidade que o ser humano tem de consumidor conteúdos feitos por outros humanos”, afirmou Lucas Herdy. (Foto: Pedro Lima)</figcaption></figure><p>Desde que a humanidade surgiu, as pessoas estão sempre buscando e armazenando informações sobre todas as coisas e mesmo com o avanço da tecnologia, jamais se criou uma quantidade de dados tão grande como no século 21. Tudo isso fica armazenado no “Big Data”, um banco de dados de tamanho imensurável e é nesse local que as inteligências artificiais surgem como uma ferramenta para auxiliar os homens nesta pesquisa, tendo em vista que conseguem filtrar as informações necessárias de maneira muito mais rápida.</p><p>Para Dora Kaufman, estudiosa dos impactos éticos e sociais da IA, a chegada desta tecnologia pode causar impactos muito fortes no mercado de trabalho: “A automação pela inteligência artificial está entrando em funções cognitivas, ou seja, está deixando de ser apenas máquinas fazendo máquinas. É uma discussão real que precisa de políticas públicas para que as pessoas possam se capacitar a realizar outras tarefas que não aquelas que estão sendo substituídas”, afirmou Dora.</p><p>Já a cientista da computação e pesquisadora, Nina da Hora, vê a chegada da IA no mercado com outros olhos: “Eu como cientista da computação, posso afirmar hoje, que nos próximos 10 anos nós estaremos com nossos empregos garantidos. Podemos aguardar uns 100 anos”, afirmou. No áudio abaixo ela comenta mais sobre os possíveis impactos da IA no curto prazo:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1613591115&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Nina Da Hora comenta sobre os impactos da IA no curto prazo by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Lucas Herdy é gerente de produtos do G1 e também participou do debate, e chamou atenção para a influência das inteligências artificiais na política, destacando a técnica do “Deep Fake”, que consiste na produção de vídeos e áudios falsos, alterando a voz ou o rosto de uma pessoa, para parecer que alguém disse algo que na verdade não é verídico. Segundo ele, o Departamento de defesa norte americano já classifica o “deep fake” como uma grande ameaça à democracia, e existe um grande medo para a próxima corrida eleitoral estadunidense. Confira a explicação técnica de como esses vídeos falsos são criados:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1613592192&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Lucas Herdy explica como são criados os vídeos falsos by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>O Brasil ainda não possui uma legislação para regulamentar o uso das Inteligências Artificiais no país, o que existe é apenas um projeto de lei que está sendo pensado para controlar estas ferramentas. Até o momento ocorreram duas audiências públicas, que fazem parte da Comissão do Senado de Juristas, e com auxílio de especialistas tentam desmistificar os conceitos por trás da IA e decidir se a regulamentação será feita nos usuários desta tecnologia, ou nos criadores da mesma.</p><p><em>Igor Concolato – 4° período</em></p></main>"
+  },
+  "date": "2023-09-09T10:02:48",
+  "date_gmt": "2023-09-09T13:02:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Bienal é também um espaço de debates. No “Café literário” diferentes temas fizeram parte da programação dos dez dias de evento e duas rodas de conversa trouxeram como tema central os impactos das “IAs” na formação da sociedade dos próximos anos: “Seremos mesmo substituídos pela inteligência artificial” e “Quem tem medo de você IA?”. Entre os assuntos abordados nas palestras, o funcionamento dessa tecnologia, como adequar a legislação brasileira para essas mudanças e os impactos em setores importantes como educação, política e economia. </p>\n"
+  },
+  "featured_media": 15758,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15751"
+  },
+  "id": 15751,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-11-at-10.15.01.jpeg?fit=576%2C1024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-463",
+  "link": "https://agenciauvabarra.com/2023/09/09/bienal-2023-aborda-o-futuro-das-inteligencias-artificiais-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-11T10:37:00",
+  "modified_gmt": "2023-09-11T13:37:00",
+  "ping_status": "open",
+  "slug": "bienal-2023-aborda-o-futuro-das-inteligencias-artificiais-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    61302,
+    1191769,
+    10340,
+    670676,
+    767056593
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Bienal 2023 aborda o futuro das inteligências artificiais no Brasil"
+  },
+  "type": "post"
+}

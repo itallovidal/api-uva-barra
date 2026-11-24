@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4304/revisions/4325",
+        "id": 4325
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4304"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4304",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4304/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4304"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4306"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4304",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4304",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4304",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Parceria da UVA com o Conselho Regional de Contabilidade do Rio de Janeiro arrecada alimentos para instituições e estimula o conhecimento sobre a área de contábeis</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-25-at-6.56.20-pm.jpeg?resize=1280%2C720&#038;ssl=1' alt='' width='1280' height='720' /><figcaption> Mais de 82kg de alimentos não parecíveis foram doados – Foto: Denis Rocco</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-25-at-6.56.20-pm-1.jpeg?resize=1280%2C720&#038;ssl=1' alt='' width='1280' height='720' /><figcaption> segundo dia do curso na Universidade Veiga de Almeida em parceria com o CRCRJ – Foto: Denis Rocco</figcaption></figure><p>Dois dias de aula, muito conhecimento e solidariedade. Foi assim a parceria entre a Universidade Veiga de Almeida, campus Barra, com o Conselho Regional de Contabilidade do Rio de Janeiro (CRCRJ). Nos sábados, 18 e 25/05 aconteceu o curso de e-social, que contou com a presença do Delegado do CRCRJ, Arthur Santos. A participação no evento tinha como inscrição a doação de 2kg de alimentos não perecíveis. O montante arrecado seria entregue em instituições de caridade.</p><p>A solidariedade foi uma forma de gerar conhecimento com ajuda. Para o estudante Denis Rocco o curso foi importante para aprofundar assuntos aprendidos em sala. “Eles ajudam a esclarecer e tirar muitas dúvidas a respeito das áreas que vamos atuar, orientando melhor os profissionais da categoria”, conta. O aluno reforçou conhecimentos da área contábil e também contribuiu na arrecadação, o saldo foi positivo para todos. No primeiro dia foram arrecadados 129 kg de alimentos não perecíveis, e mais 82,092 kg, no segundo, totalizando 227,299 kg.</p><p>Outro fator importante foi o contato com os profissionais atuantes. Segundo o Coordenador de contabilidade, Leo Quadra, cursos como esse promovem a interação e ajudam a reforçar o conhecimento com pessoas que já têm experiência na área. “Eles se atualizam com assuntos que estão em evidência da profissão e adquirem novos conhecimentos”, explica.</p><p>A parceria entre o CRCRJ e a UVA já tem novas datas, nos dias 15 e 29 de junho será ministrado o curso deSistema público de escrituração digital, fiscal de impostos ICMS e IPI, uma nova oportunidade para obter conhecimento e fazer o bem.</p><p><strong>Ana Beatriz Bernard – 7° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-05-29T21:27:15",
+  "date_gmt": "2019-05-30T00:27:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Parceria da UVA com o Conselho Regional de Contabilidade do Rio de Janeiro arrecada alimentos para instituições e estimula o conhecimento sobre a área de contábeis Dois dias de aula, muito conhecimento e solidariedade. Foi assim a parceria entre a Universidade Veiga de Almeida, campus Barra, com o Conselho Regional de Contabilidade do Rio de [&hellip;]</p>\n"
+  },
+  "featured_media": 4306,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4304"
+  },
+  "id": 4304,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-25-at-6.56.20-pm.jpeg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-17q",
+  "link": "https://agenciauvabarra.com/2019/05/29/curso-sobre-e-social-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-30T20:12:32",
+  "modified_gmt": "2019-05-30T23:12:32",
+  "ping_status": "open",
+  "slug": "curso-sobre-e-social-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Curso sobre e-social no campus Barra"
+  },
+  "type": "post"
+}

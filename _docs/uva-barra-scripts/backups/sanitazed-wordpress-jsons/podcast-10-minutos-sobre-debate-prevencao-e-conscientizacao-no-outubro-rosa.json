@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19405/revisions/19410",
+        "id": 19410
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19405"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19405",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19405/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19405"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19407"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19405",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19405",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    72063,
+    670411728,
+    72064
+  ],
+  "class_list": [
+    "post-19405",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-enfermagem",
+    "category-institucional-uva",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Outubro Rosa é um movimento internacional de conscientização para o controle do câncer de mama, criado no início da década de 1990 pela Fundação Susan G. Komen for the Cure. A data, celebrada anualmente, tem o objetivo de compartilhar informações e promover a conscientização sobre a doença; proporcionar maior acesso aos serviços de diagnóstico e de tratamento e contribuir para a redução da mortalidade.</p><p>No Brasil, o movimento se consolidou ao longo dos anos e passou a englobar também o câncer do colo do útero, fortalecendo o debate sobre os direitos reprodutivos, o autocuidado e a necessidade de políticas públicas voltadas à saúde feminina. Segundo dados do Instituto Nacional de Câncer (INCA), o câncer de mama é o segundo tipo mais comum entre as mulheres no país, ficando atrás apenas do de pele não melanoma. A detecção precoce é o principal fator que aumenta as chances de cura e reduz a mortalidade.</p><p>O episódio especial do podcast “10 Minutos Sobre”, produzido pela Rádio UVA Barra, trouxe como tema o Outubro Rosa, campanha internacional de prevenção e conscientização sobre o câncer de mama e do colo do útero. Apresentado pela estudante Clara Luz, do 6º período de Jornalismo, o programa recebeu a professora Lidiane Reis, coordenadora do curso de Enfermagem da Universidade Veiga de Almeida (UVA), campus Barra, para um bate-papo sobre a importância da informação e da prevenção no combate à doença. </p><p>Durante a conversa, a professora destacou que o Outubro Rosa vai além de uma campanha pontual, é um lembrete permanente sobre o autocuidado e a necessidade de acompanhamento médico regular.</p><figure><blockquote class=\"wp-embedded-content\" data-secret=\"P6YSBCN9RSWxK4RnlFWHAA\"><a href=\"https://open.spotify.com/episode/7MVdFEn2q3zrfkffR51txc?si=P6YSBCN9RSWxK4RnlFWHAA\">https://open.spotify.com/episode/7MVdFEn2q3zrfkffR51txc?si=P6YSBCN9RSWxK4RnlFWHAA</a></blockquote><iframe class=\"wp-embedded-content\" src=\"https://open.spotify.com/episode/7MVdFEn2q3zrfkffR51txc?si=P6YSBCN9RSWxK4RnlFWHAA\" width=\"100%\" height=\"200\" frameborder=\"0\" title=\"https://open.spotify.com/episode/7MVdFEn2q3zrfkffR51txc?si=P6YSBCN9RSWxK4RnlFWHAA\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></figure><p><strong>Apresentação do PodCast: </strong></p><p>Clara Nunes – 6º período de Jornalismo </p><p><strong>Equipe Agência UVA Barra: </strong></p><p>Duda Nicolich – 2º Período de Jornalismo </p><p>Carolina Alves – 4º período de Jornalismo.</p><p><strong>Edição do PodCast</strong>: </p><p>Allan Pangaio – 4º período de Cinema</p><p><strong>Coordenação da Rádio UVA Barra:</strong></p><p>Professor Anderson Barreto</p><p><strong>Coordenação do Curso de Jornalismo da UVA Barra:</strong></p><p>Professora Renata Feital</p></main>"
+  },
+  "date": "2025-10-30T19:52:22",
+  "date_gmt": "2025-10-30T22:52:22",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No novo episódio do podcast “10 Minutos Sobre”, a coordenadora de Enfermagem da UVA fala sobre prevenção, diagnóstico precoce e o papel da conscientização na luta contra o câncer de mama.</p>\n"
+  },
+  "featured_media": 19407,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19405"
+  },
+  "id": 19405,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/img_0092.png?fit=1024%2C557&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-52Z",
+  "link": "https://agenciauvabarra.com/2025/10/30/podcast-10-minutos-sobre-debate-prevencao-e-conscientizacao-no-outubro-rosa/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-10-30T19:53:31",
+  "modified_gmt": "2025-10-30T22:53:31",
+  "ping_status": "open",
+  "slug": "podcast-10-minutos-sobre-debate-prevencao-e-conscientizacao-no-outubro-rosa",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: “10 Minutos Sobre” debate prevenção e conscientização no Outubro Rosa"
+  },
+  "type": "post"
+}

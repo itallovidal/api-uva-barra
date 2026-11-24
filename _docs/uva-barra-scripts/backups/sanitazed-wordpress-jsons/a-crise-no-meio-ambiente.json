@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1999/revisions/3105",
+        "id": 3105
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1999"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1999",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1999/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1999"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1999",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1999",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    15243
+  ],
+  "class_list": [
+    "post-1999",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-meio-ambiente"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Professores da UVA participam do projeto Comida, Diversão e Arte</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/06/whatsapp-image-2018-06-25-at-13-00-42.jpeg?resize=1032%2C774&#038;ssl=1' alt='WhatsApp Image 2018-06-25 at 13.00.42' width='1032' height='774' /><figcaption>Foto: Diego Souza</figcaption></figure><p>Produção e consumo consciente. Neste mês de junho, os Professores Wladmir Motta e June Rothstein, da Universidade Veiga de Almeida (UVA) do campus Barra, participaram do evento “Comida, Diversão e Arte” nos dias 09 e 16, respectivamente. Os encontros aconteceram na sala de leitura da Cidade das Artes, Barra da Tijuca. Temas como desenvolvimento sustentável, economia, crise ambiental e conscientização social foram abordados durante as palestras.</p><p>Dentre esses assuntos, Wladimir destaca os danos causados no meio ambiente decorrentes das ações diretas do homem na natureza como fatores cruciais para o atual desequilíbrio ecológico. “Já está claro que estamos passando por um problema. É visível no meio ambiente e como isso afeta no cotidiano da população”, afirma. Ele ainda ressalta que a possível solução é a conscientização da sociedade e das indústrias em relação à produção e consumo.</p><p>Essa ligação foi marcada na palestra de June também, que usou uma árvore para exemplificar de forma metafórica o quanto é orgânica a relação entre economia, meio ambiente e sociedade. “Crescer economicamente não significa comprometer natureza, o crescimento econômico será robusto quando promover o equilíbrio entre produção e consumo”, observa.</p><p>Apesar de ambos os professores admitirem que a população está mais consciente, para Wladimir, as ações na prática ainda não são suficientes. “A urgência está maior, porque os impactos estão sendo cada vez maiores”. Como solução, June Rothstein aponta que é preciso que a conscientização seja traduzida em ações efetivas. “É uma co-responsabilidade de todos nós termos ações concretas em prol do meio ambiente”, finaliza.</p><p>Ecologia, artes, lançamentos de livros, gastronomia, cultura em geral são temas abordados no projeto Comida, Diversão e Arte, e tem como objetivo incentivar a cultura para a população carioca, com palestras e workshops. Para quem tem interesse, o evento acontece todos os sábados, na Cidade das Artes, com a entrada é gratuita.</p><p><strong>Graziela Andrade, 4º período</strong></p></main>"
+  },
+  "date": "2018-06-25T13:37:39",
+  "date_gmt": "2018-06-25T16:37:39",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Professores da UVA participam do projeto Comida, Diversão e Arte&nbsp; Produção e consumo consciente. Neste mês de junho, os Professores Wladmir Motta e June Rothstein, da Universidade Veiga de Almeida (UVA) do campus Barra, participaram do evento “Comida, Diversão e Arte” nos dias 09 e 16, respectivamente. Os encontros aconteceram na sala de leitura da [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1999"
+  },
+  "id": 1999,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-wf",
+  "link": "https://agenciauvabarra.com/2018/06/25/a-crise-no-meio-ambiente/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:41:34",
+  "modified_gmt": "2019-01-31T14:41:34",
+  "ping_status": "open",
+  "slug": "a-crise-no-meio-ambiente",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A crise no meio ambiente"
+  },
+  "type": "post"
+}

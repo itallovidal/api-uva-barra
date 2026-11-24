@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19133/revisions/19147",
+        "id": 19147
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19133"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19133",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19133/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19133"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19142"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19133",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19133",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    23208,
+    858951,
+    670411728,
+    14603,
+    39479,
+    6669656
+  ],
+  "class_list": [
+    "post-19133",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-entretenimento",
+    "category-eventos-internos",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-publicidade",
+    "category-secom",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Na tarde desta segunda-feira, 22 de setembro, o Polo Barra da Universidade Veiga de Almeida recebeu a professora Viviane Rodrigues Costa para uma oficina de drone, promovida durante a Semana de Comunicação (SECOM). A atividade trouxe aos alunos uma imersão completa na operação desses equipamentos, com foco na parte técnica, regras de segurança e legislação vigente.</p><p>Durante a oficina, a professora Viviane destacou a importância de verificar sempre o clima do dia e o nível da bateria do drone antes de cada uso. “É crucial que essas verificações sejam feitas antes que os equipamentos decolem, para garantir que as operações sejam feitas sem riscos de quedas por falta de energia”. Além disso, foi enfatizada a escolha de locais adequados para pilotagem, preferencialmente espaços abertos, longe de fios e árvores, para evitar acidentes.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-24-at-10.52.56-2.jpeg?resize=4032%2C3024&amp;ssl=1' alt='Oficina de Drone (Reprodução: Agência UVA Barra)' width='4032' height='3024' /><figcaption>Oficina de Drone (Reprodução: Agência UVA Barra)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-24-at-10.52.55-1.jpeg?resize=3672%2C2066&amp;ssl=1' alt='Professora Viviane Rodrigues (Reprodução: Agência UVA Barra)' width='3672' height='2066' /><figcaption>Professora Viviane Rodrigues (Reprodução: Agência UVA Barra)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-24-at-10.52.55-2.jpeg?resize=4032%2C3024&amp;ssl=1' alt='Aprendendo mais sobre o drone (Reprodução: Agência UVA Barra)' width='4032' height='3024' /><figcaption>Aprendendo mais sobre o drone (Reprodução: Agência UVA Barra)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-24-at-10.52.56-1.jpeg?resize=4032%2C3024&amp;ssl=1' alt='Hora da mão na massa ( Reprodução: Agência UVA Barra)' width='4032' height='3024' /><figcaption>Hora da mão na massa ( Reprodução: Agência UVA Barra)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-24-at-10.52.56.jpeg?resize=4032%2C3024&amp;ssl=1' alt='Oficina interativa (Reprodução: Agência UVA Barra)' width='4032' height='3024' /><figcaption>Oficina interativa (Reprodução: Agência UVA Barra)</figcaption></figure><p>Um ponto importante da oficina foi a explicação da professora sobre a legislação de voo, que também se aplica aos drones. Os alunos aprenderam que manter a linha de visão do drone durante o voo é importante e que para voos até 60 metros de altitude não é necessária autorização dos órgãos reguladores. Também foi abordado o uso dos drones em missões de resgate e resgatada a história da aplicação dessas aeronaves desde a Segunda Guerra Mundial.</p><p>A calibragem correta do equipamento foi demonstrada como etapa essencial para o bom funcionamento do drone. Os alunos também receberam instruções práticas sobre os comandos do controle, incluindo como realizar decolagens e pousos manuais, podendo pilotar e experimentar diretamente o drone durante a atividade.</p><p>A oficina proporcionou uma experiência valiosa e prática aos estudantes, que puderam aplicar os conhecimentos técnicos e entender o potencial dos drones na comunicação e em diversas áreas profissionais.</p><p>A aluna Gabriela Lopes, do 1º período de publicidade e propaganda, afirmou que a experiência foi única e um diferencial para sua formação. “Esse tipo de contato direto com o equipamento é muito legal. Porque podemos ver na prática como eles funcionam”</p><p>A professora Viviane Costa falou um pouco sobre de que forma o uso do drone pode transformar a produção audiovisual dos alunos.</p><p>Veja no trecho abaixo:</p><figure><iframe src='https://videopress.com/embed/UCBcolmf?cover=1&amp;preloadContent=metadata&amp;useAverageColor=1&amp;hd=0' width='500' height='281' title='VideoPress Video Player' allowfullscreen allow='clipboard-write' /><figcaption>Viviane Rodrigues &#8211; Professora</figcaption></figure><p>Eduarda Gomes &#8211; 2º Período</p></main>"
+  },
+  "date": "2025-09-24T11:03:55",
+  "date_gmt": "2025-09-24T14:03:55",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p> A Professora Viviane Rodrigues guia alunos em prática de voo, destacando aspectos técnicos e legislação durante a Semana de Comunicação no Polo Barra.</p>\n"
+  },
+  "featured_media": 19142,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19133"
+  },
+  "id": 19133,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-24-at-10.52.56-2.jpeg?fit=4032%2C3024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4YB",
+  "link": "https://agenciauvabarra.com/2025/09/24/oficina-de-drone-na-secom-aborda-tecnica-seguranca-e-pilotagem-pratica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-24T11:03:55",
+  "modified_gmt": "2025-09-24T14:03:55",
+  "ping_status": "open",
+  "slug": "oficina-de-drone-na-secom-aborda-tecnica-seguranca-e-pilotagem-pratica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Oficina de Drone na SECOM aborda técnica, segurança e pilotagem prática"
+  },
+  "type": "post"
+}

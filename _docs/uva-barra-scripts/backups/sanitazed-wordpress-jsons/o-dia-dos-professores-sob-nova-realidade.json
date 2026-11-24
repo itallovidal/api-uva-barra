@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7878/revisions/7894",
+        "id": 7894
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7878"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7878",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7878/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7878"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7880"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7878",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7878",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    17964,
+    798,
+    72064,
+    7114,
+    14591
+  ],
+  "class_list": [
+    "post-7878",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-educacao",
+    "category-politica",
+    "category-saude",
+    "category-sociedade",
+    "category-trabalho",
+    "tag-15-de-outubro",
+    "tag-coronavirus",
+    "tag-dia-dos-profesores",
+    "tag-volta-as-aulas"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Visões divergentes acerca da retomada das aulas físicas dominam o cenário educacional</em></p><p>Segundo o censo escolar do Inep de 2019, o Brasil tem mais de 2 milhões de professores na educação básica (ensinos infantil, fundamental e médio). Com a volta às aulas presenciais, grande parte dos docentes terá que abandonar a rotina em EAD. Segundo dados da Fiocruz, um número ainda maior de brasileiros, cerca de 9,3 milhões, pode ser exposto à contaminação pelo SARS-CoV-2 nesse retorno. A necessidade de manutenção do emprego e a saúde pessoal são dilemas que os educadores convivem.</p><p>No Rio de Janeiro, a reabertura das escolas particulares aconteceu logo na primeira semana de outubro. A professora Rodrigues, que preferiu não se identificar, voltou para a sala de aula no dia cinco de outubro. Ela dá aulas em 7 unidades diferentes e em 3 escolas e já se vê envolta com as atividades presenciais. Assim como ela, outras centenas de profissionais da educação estão retomando as atividades fora do ambiente virtual.</p><p>A volta às aulas ainda gera debates no que diz respeito às normas de segurança necessárias para a saúde dos profissionais e alunos. Entre as alegações de quem defende a volta, a necessidade de ter alguém com quem deixar as crianças e jovens e a sensação de que a escola não representa perigo são sempre lembradas. “Muitos responsáveis não se preocupam com o ganho pedagógico, mas sim com um local onde deixar seus filhos. Muitas vezes a escola mais parece um depósito”, explica a professora Rodrigues.</p><p>Não é o caso de Vanessa e Miguel. Vanessa Santos é professora do ensino infantil do município do Rio de Janeiro há 15 anos e tem um filho de 4 anos, o Miguel. As aulas dela ainda acontecem virtualmente, mas a escola em que o menino estuda já possibilita a modalidade presencial. Conseguir manter a rotina de estudos é um dos motivos pelos quais a mãe ainda não pensa em permitir que ele volte para escola, mas ressalta: “a maioria das pessoas não tem nem a possibilidade de ajudar nem de ter alguém com quem fique com a criança”.</p><p>A diretora pedagógica Adriana Cristina Pinto pensa diferente em relação à ausência de convívio social do aluno, sendo, na sua visão, um fator de desestímulo ao ensino tradicional. “Já estava realmente na hora dessa volta. A educação é a transformação da sociedade, aluno fora da sala de aula desperta cada vez mais o desinteresse pela aprendizagem”, afirma. Ela ainda atenta para a questão da evasão escolar por causa da pandemia, tendo em vista que não é toda escola privada que consegue chegar a um acordo com a família do estudante, mesmo quando a instituição segue as recomendações sanitárias.</p><p>Além das discussões sobre distanciamento e higiene, existe um problema social que precisa ser levado em conta. Para Amanda Cristine Cézar, professora de História na rede municipal do Rio de Janeiro e parte integrante da direção do SEPE-RJ (Sindicato Estadual dos Profissionais de Educação do RJ), o papel da escola passou por um processo de ressignificação na vida do estudante. “Sabemos que a responsabilidade das escolas é com o ensino e aprendizagem, porém, por questões sociais, a escola assumiu também a função do cuidado das crianças e dos jovens”, explica. Torna-se um desafio, portanto, organizar as demandas de assistência e educação num ambiente sinuoso provocado pela pandemia de coronavírus.</p><h2><strong>O desafio de manter professores e alunos seguindo as regras de prevenção contra a Covid-19</strong></h2><p>Para os alunos de escolas particulares, a volta é facultativa, ou seja, quem desejar manter as aulas virtualmente terá suporte. Para os professores não houve escolha. Nas escolas que Rodrigues trabalha, os professores tiveram que passar por exames médicos que atestassem que eles eram ou não parte do grupo de risco a fim de minimizar a contaminação de pessoas mais vulneráveis.</p><p>Além disso, o cumprimento das regras de ouro como distanciamento, o uso de máscaras e a diminuição de turmas são medidas obrigatórias para que as escolas retomem as atividades. Mas tem docente que ainda não se acostumou. “Tem colega que fecha porta das salas de professores, retira a máscara lá dentro, alunos que teimam em não usar a máscara corretamente, não respeitam o distanciamento necessário”, conta a professora Rodrigues.</p><p>Amanda Cristine Cézar acredita que o “novo normal”, nesse caso, acaba tendo um efeito colateral perigoso de “fazer com que os profissionais e as famílias dos alunos aceitem e naturalizem contrair o coronavírus e ficarem reféns de todos os riscos desse contágio”.</p><p>A questão sobre a volta às aulas e a saúde do corpo docente aparece justamente no mês em que se celebra o Dia do Professor, em 15 de outubro. A data faz referência a um decreto de Dom Pedro I de 1827 que obrigava as séries que hoje são do ensino fundamental a ensinar a leitura, a escrita e as quatro operações de cálculo. Quase dois séculos depois, a discussão é sobre quem pode ou não correr o risco de contaminação.</p><p><em>Rafaela Barbosa – 8º período</em></p><p><em>Lucas Ribeiro – 4° período</em></p></main>"
+  },
+  "date": "2020-10-14T18:18:57",
+  "date_gmt": "2020-10-14T21:18:57",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Visões divergentes acerca da retomada das aulas físicas dominam o cenário educacional Segundo o censo escolar do Inep de 2019, o Brasil tem mais de 2 milhões de professores na educação básica (ensinos infantil, fundamental e médio). Com a volta às aulas presenciais, grande parte dos docentes terá que abandonar a rotina em EAD. Segundo [&hellip;]</p>\n"
+  },
+  "featured_media": 7880,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7878"
+  },
+  "id": 7878,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/classroom-1910011_1920.jpg?fit=1920%2C1279&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-234",
+  "link": "https://agenciauvabarra.com/2020/10/14/o-dia-dos-professores-sob-nova-realidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-14T21:01:08",
+  "modified_gmt": "2020-10-15T00:01:08",
+  "ping_status": "open",
+  "slug": "o-dia-dos-professores-sob-nova-realidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    2173357,
+    767056633,
+    370930131,
+    4005699
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Dia dos Professores sob nova realidade"
+  },
+  "type": "post"
+}

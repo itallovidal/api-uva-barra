@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2371/revisions/3048",
+        "id": 3048
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2371"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2371",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2371/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2371"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2372"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2371",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2371",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2366,
+    407146
+  ],
+  "class_list": [
+    "post-2371",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-eventos",
+    "category-exposicao",
+    "tag-agencia-uva-barra",
+    "tag-artes",
+    "tag-artes-plasticas",
+    "tag-artrio",
+    "tag-marina-da-gloria"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Oitava edição da exposição espera receber cerca de 50 mil visitantes</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_6473.jpg?resize=3120%2C2340&amp;ssl=1' alt='IMG_6473.JPG' width='3120' height='2340' /><figcaption>Visitantes admiram obras da exposição. Foto: Amanda Almeida de Oliveira</figcaption></figure><p>A arte sempre esteve presente no mundo e tem o potencial de compartilhar diversas culturas. Para valorizar mais o trabalho dos artistas plásticos, a \"ArtRio\" conta com 87 galerias de lugares diferentes, sendo 95% delas do Rio de Janeiro. Localizado na Marina da Glória, um dos principais eventos de arte da América Latina acontece entre os dias 27 a 30 de setembro.</p><p>No primeiro dia, além da inauguração, três criadores recebem o Prêmio FOCO, que tem como objetivo descobrir, ajudar e divulgar os projetos por eles feitos. Ana Hupe, Aline Xavier e Paul Setúbal foram os ganhadores desta edição e terão suas obras expostas no MAR (Museu de Arte do Rio), além de ganharem uma residência artírstica para que possam concretizar novas ideias.</p><p>A escultura \"Jequi\", feita por Aline, tem seis metros e é inspirada em uma armadilha de peixes chamada \"Nassa\", utilizada por um povo indígena. A artista tem como costume mudar o contexto do objeto e transformar em um símbolo de resistência. \"Um acontecimento como o do Museu Nacional deixa claro que há uma precariedade em investir ou pensar na importância de preservar a cultura, arte e conhecimento de um povo\", diz.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_6497.jpg?ssl=1' alt='IMG_6497.JPG' /><figcaption>Escultura \"Jequi\" produzida pela artista Aline Xavier. Foto: Amanda Almeida de Oliveira</figcaption></figure><p>Como novidade, a mostra recebeu pela primeira vez a Janaina Torres Galeria, de São Paulo, que pretende acolher um formato contemporâneo novo e vibrante. \"Para nós, como uma galeria jovem, é super interessante estar aqui e conhecer o mercado carioca, além da visibilidade\", conta.</p><p>A exposição conquistou o carinho da carioca Cíntia Assis, que atua em uma loja voltada para a arte moderna e contemporânea, onde soube do evento. \"Eu estava achando que seria algo mais maçante, mas é minha primeira vez aqui e está sendo maravilhoso\". Ela também fala que o interesse por obras surgiu quando se tornou funcionária da loja e esteve mais presente no meio.</p><p>Amanda Almeida de Oliveira – 4º período</p></main>"
+  },
+  "date": "2018-09-30T18:16:24",
+  "date_gmt": "2018-09-30T21:16:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Oitava edição da exposição espera receber cerca de 50 mil visitantes A arte sempre esteve presente no mundo e tem o potencial de compartilhar diversas culturas. Para valorizar mais o trabalho dos artistas plásticos, a &#8220;ArtRio&#8221; conta com 87 galerias de lugares diferentes, sendo 95% delas do Rio de Janeiro. Localizado na Marina da Glória, [&hellip;]</p>\n"
+  },
+  "featured_media": 2372,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2371"
+  },
+  "id": 2371,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_6473.jpg?fit=3120%2C2340&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Cf",
+  "link": "https://agenciauvabarra.com/2018/09/30/feira-de-arte-da-prestigio-aos-artistas-brasileiros/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:04:59",
+  "modified_gmt": "2019-01-31T14:04:59",
+  "ping_status": "open",
+  "slug": "feira-de-arte-da-prestigio-aos-artistas-brasileiros",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056599,
+    4335,
+    62612750,
+    713439
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Feira de arte dá prestígio aos artistas brasileiros"
+  },
+  "type": "post"
+}

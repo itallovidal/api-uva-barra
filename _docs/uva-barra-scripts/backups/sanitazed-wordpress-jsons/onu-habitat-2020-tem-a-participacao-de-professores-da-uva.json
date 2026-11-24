@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7816/revisions/7832",
+        "id": 7832
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7816"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7816",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7816/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7816"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7826"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7816",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7816",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    1899315,
+    2366,
+    7114,
+    254332
+  ],
+  "class_list": [
+    "post-7816",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-coronavirus",
+    "category-eventos",
+    "category-sociedade",
+    "category-sustentabilidade",
+    "tag-circuito-urbano",
+    "tag-onu-habitat"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A condição das cidades no contexto pós-pandemia é a pauta do evento</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-1.jpeg?resize=411%2C530&amp;ssl=1\" alt=\"\" width=\"411\" height=\"530\" /><figcaption>Edson Maciel, professor especialista em planejamento Urbano e Regional, debate sobre a crise do capital em evento da ONU. Fonte: arquivo pessoal </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-2.jpeg?resize=1080%2C1084&amp;ssl=1\" alt=\"\" width=\"1080\" height=\"1084\" /><figcaption>A arquiteta e urbanista Leticia Viana participa do ONU Habitat com o projeto \"Periferias globais e ações locais: habitação e produção agroecológica no Brasil e Moçambique\". Fonte: arquivo pessoal </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-3.jpeg?resize=1080%2C1080&amp;ssl=1\" alt=\"\" width=\"1080\" height=\"1080\" /><figcaption>\"Que chuva é essa?\", projeto orientado por Viviane Japiassú, doutora em Ciências Ambientais, participa do Circuito Urbano 2020. Fonte: arquivo pessoal </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-4.jpg?resize=2358%2C3543&amp;ssl=1\" alt=\"\" width=\"2358\" height=\"3543\" /><figcaption>Andrea Borges, arquiteta e urbanista responsável pelo projeto \"Saneamento é vida\", é uma das professoras selecionadas para o ONU Habitat 2020. Fonte: arquivo pessoal </figcaption></figure><p>Quatro professores da Universidade Veiga de Almeida foram selecionados para o \"Circuito Urbano 2020 – Cidades Pós-COVID-19: Diálogos entre o Brasil e a África lusófona\", evento promovido pela ONU Habitat. O tema dessa edição é a moradia no contexto de crise sanitária desencadeada pela pandemia de SARS-Cov-19. Viviane Japiassú, Edson Maciel, Leticia Viana e Andrea Borges vão participar com projetos individuais de pesquisa.</p><p>O ONU Habitat é o programa das Nações Unidas para Assentamentos Urbanos e tem como responsabilidade promover o desenvolvimento sustentável. Por isso, foram escolhidos os projetos que apontam caminhos possíveis para uma vida nas cidades social, econômica e ambientalmente sustentável. O evento tem a duração de um mês e ganhou o título de Outubro Urbano.</p><p>Viviane Japiassú é Doutora em Ciências Ambientais e professora orientadora do Projeto de Iniciação Científica e Extensão intitulado \"Que chuva é essa\", uma parceria com a Defesa Civil para a prevenção de desastres associados às chuvas. Esse é o segundo ano que o PIC é selecionado para o evento, em 2019 a participação aconteceu presencialmente no campus Tijuca. Para este ano, a orientadora espera que a virtualização para o projeto alcance mais pessoas.</p><p><em>\"Quando a gente participa e organiza eventos que abrem espaços para outros escutarem o que a gente faz e o que a gente quer fazer, isso abre um leque de oportunidades que permite uma colaboração entre pessoas com interesses diversos, mas estão voltadas para o mesmo objetivo\", </em>Viviane Japiassú.</p><p>A professora Andrea Borges seguiu por outro caminho. Ela é arquiteta e urbanista e tem a carreira baseada no desenvolvimento sustentável. Quando os estudos sobre a contaminação pela Covid 19 nos esgotos começaram a ser publicados, Andrea sentiu a necessidade de propor políticas de saneamento básico descentralizadas.</p><p>Ouça o áudio de Andrea Borges sobre o projeto Saneamento é Vida</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F906343534&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Andrea Borges fala sobre o projeto Saneamento é Vida</p><p>Ela saiu em busca de parcerias que viabilizassem a realização do projeto em favelas cariocas. A partir daí, aconteceu a identificação colaborativa dos pontos onde o Saneamento é Vida pudesse ser instalado, a mapeação, o desenvolvimento do projeto base, a autorização da prefeitura, busca de recursos e a organização das equipes. A ideia foi propor a colocação de um biodigestor que dê conta de tratar o esgoto das casas.</p><p>Tanto os projetos de Andrea Borges quanto de Viviane Japiassú tem uma raiz fincada em solo carioca. O trabalho dos professores Leticia Viana e Edson Maciel, professores dos campi Barra e Tijuca, não. As pesquisas ultrapassam os limites da cidade para abordar a questão do desenvolvimento sustentável numa perspectiva mais ampla.</p><p>\"Periferias globais e ações locais: habitação e produção agroecológica no Brasil e Moçambique\", da professora Leticia Viana, do curso de Arquitetura e Urbanismo, tem o objetivo de debater sobre o acesso à moradia e a uma alimentação sustentável de qualidade em espaços periurbanos ,ou seja, locais nos quais as atividades rurais e urbanas se misturam. Edson Maciel segue o mesmo caminho com o tema \"A Crise do Capital\", a crise que se refere, segundo ele, foi eclodida pelo novo coronavírus colocou em pauta a questão da moradia em áreas urbanas.</p><p>Todas as temáticas expressam a urgência de se falar do direito à moradia e a necessidade de uma construção de futuro sustentável. Paralelamente, o Brasil vem assistindo desastres ambientais que podem modificar as relações humanas daqui pra frente. O óleo no litoral nordestino em 2019, as barragens de Mariana e Brumadinho, a floresta Amazônica e o Pantanal em chamas. Tudo isso afeta a vida de quem dependia desses ecossistemas como fonte de renda e a vida de brasileiros que podem sofrer as consequências da destruição.</p><p>Ouça o áudio de Viviane Japiassú sobre a necessidade de engajar uma discussão sobre o desenvolvimento sustentável no Brasil</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F906344725&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Viviane Japiassú fala sobre a necessidade de debater o desenvolvimento sustentável no Brasil</p><p>As palestras do Circuito Urbano 2020 acontecem durante todo o mês de outubro. São mais de 180 eventos com transmissão ao vivo pelo canal oficial na plataforma de vídeos YouTube e mais de 1000 painelistas. A programação completa você encontra em circuitourbano.org.</p><p></p><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2020-10-07T17:25:34",
+  "date_gmt": "2020-10-07T20:25:34",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A condição das cidades no contexto pós-pandemia é a pauta do evento Quatro professores da Universidade Veiga de Almeida foram selecionados para o &#8220;Circuito Urbano 2020  &#8211; Cidades Pós-COVID-19: Diálogos entre o Brasil e a África lusófona&#8221;, evento promovido pela ONU Habitat. O tema dessa edição é a moradia no contexto de crise sanitária desencadeada [&hellip;]</p>\n"
+  },
+  "featured_media": 7826,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7816"
+  },
+  "id": 7816,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-5-e1602102322289.jpeg?fit=1024%2C508&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-224",
+  "link": "https://agenciauvabarra.com/2020/10/07/onu-habitat-2020-tem-a-participacao-de-professores-da-uva/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-07T20:00:24",
+  "modified_gmt": "2020-10-07T23:00:24",
+  "ping_status": "open",
+  "slug": "onu-habitat-2020-tem-a-participacao-de-professores-da-uva",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1535601,
+    2078223
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Circuito Urbano 2020, promovido pela ONU Habitat Brasil, tem a participação de professores da UVA"
+  },
+  "type": "post"
+}

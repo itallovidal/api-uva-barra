@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4056/revisions/4782",
+        "id": 4782
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4056"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4056",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4056/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4056"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4060"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4056",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4056",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-4056",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-arte-e-mulher",
+    "tag-ccbb",
+    "tag-empoderamento-feminino",
+    "tag-feminismo",
+    "tag-jussara-silveira",
+    "tag-lan-lanh",
+    "tag-valeria-houston"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>CCBB recebe artistas brasileiras para um bate papo com performances e apresentações musicais</em></p><p>O empoderamento feminino cresce a cada dia e contribui para que a imagem da mulher, que antes era retratada como objeto, ganhe o seu devido valor. Por isso, o projeto \"A Arte É Mulher\" idealizado pela percussionista Lan Lanh, que aconteceu no dia 8 de maio, no Centro Cultural Banco do Brasil (CCBB), visa unir a arte criada exclusivamente por mulheres e todas as manifestações do poder feminino, e de como estas se expressam em seus trabalhos.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/a-percussionista-lan-lanh-com-sua-mc3a3e-cc3a9lia-peixoto-foto_-thalyta-souza.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\" /><figcaption>A percussionista Lan Lanh com sua mãe Célia Peixoto – Foto: Thalyta Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/a-psicanalista-e-cantora-numa-ciro-e-sua-esposa-socic3b3loga-silvia-ramos.-foto_-thalyta-souza.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\" /><figcaption>A psicanalista e cantora Numa Ciro e sua esposa, a Socióloga Silvia Ramos na roda de conversa – Foto: Thalyta Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/homenagem-a-marielle-franco.-foto_-thalyta-souza.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\" /><figcaption>Homenagem a Marielle Franco – Foto: Thalyta Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/numa-ciro-e-jussara-silveira.-foto_-thalyta-souza.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\" /><figcaption>Numa Ciro e Jussara Silveira – Foto: Thalyta Souza</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/a-banda-e-convidadas-encerrando-o-show.-foto_-thalyta-souza-.jpg?resize=5184%2C3456&amp;ssl=1\" alt=\"\" width=\"5184\" height=\"3456\" /><figcaption>A banda e convidadas encerrando o show – Foto: Thalyta Souza</figcaption></figure><iframe src=\"https://www.youtube.com/embed/KuTiblK3JlM?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe><p>.</p><p>A cantora trans Valéria Houston, convidada da edição de maio, foi recebida com aplausos pela plateia e trouxe debates importantes como o feminismo negro e a LGBTfobia. Durante a conversa, a artista comentou que a expectativa de vida de uma pessoa transgênero é em torno de 32 anos de idade. \"Eu tive que aprender ao longo da vida que eu não canto só para mim, eu estou cantando para toda uma fatia da população pela qual eu represento\" diz</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/a-cantora-convidada-do-mc3aas-de-maio-valc3a9ria-houston.-foto_-thalyta-souza.jpg?resize=564%2C375&amp;ssl=1\" alt=\"\" width=\"564\" height=\"375\" /><figcaption>A cantora Valéria Houston se apresenta no \"A Arte É Mulher\", no CCBB – Foto: Thalyta Souza</figcaption></figure><iframe src=\"https://www.youtube.com/embed/2Xsk81-rjpo?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe><p>.</p><p>A próxima edição acontecerá no dia 05/06 e terá como convidada a cantora Cátia de França.</p><p><strong>Natália Lisboa – 2 º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2019-05-11T19:43:37",
+  "date_gmt": "2019-05-11T22:43:37",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>CCBB recebe artistas brasileiras para um bate papo com performances e apresentações musicais O empoderamento feminino cresce a cada dia e contribui para que a imagem da mulher, que antes era retratada como objeto, ganhe o seu devido valor. Por isso, o projeto “A Arte É Mulher” idealizado pela percussionista Lan&nbsp;Lanh,&nbsp;que&nbsp;aconteceu no dia 8 de [&hellip;]</p>\n"
+  },
+  "featured_media": 4060,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4056"
+  },
+  "id": 4056,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/a-percussionista-lan-lanh-com-sua-mc3a3e-cc3a9lia-peixoto-foto_-thalyta-souza.jpg?fit=5184%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-13q",
+  "link": "https://agenciauvabarra.com/2019/05/11/explosao-de-arte-e-musica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-27T11:26:34",
+  "modified_gmt": "2019-08-27T14:26:34",
+  "ping_status": "open",
+  "slug": "explosao-de-arte-e-musica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    554204302,
+    489719,
+    24881781,
+    207780,
+    2727339,
+    377264388,
+    130937862
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Explosão de Arte e Música"
+  },
+  "type": "post"
+}

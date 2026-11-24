@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8080/revisions/8087",
+        "id": 8087
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8080"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8080",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8080/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8080"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8082"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8080",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8080",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-8080",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><main id='materia'><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F920942866&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Rádio UVA Barra · Podcast Dia Do Saci' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>Rádio UVA Barra · Podcast Dia Do Saci</p><p>Comemorado mundialmente como Halloween ou dia das bruxas, o dia 31 de outubro no Brasil é reservado para a festa de uma lenda do folclore brasileiro, o Saci. Uma data para incentivar a cultura nacional.</p><p>O folclore tem essa miscigenação e influência de diversas culturas. O próprio Saci Pererê, se originou entre os povos indígenas do sul do Brasil e teve influência da cultura africana, como é o caso do cachimbo, e da cultura europeia, com o gorro, que em algumas histórias, acredita-se que seja inspirado em um chapéu que era utilizado por camponeses portugueses.</p><p>Esta edição do podcast da Rádio UVA Barra vai debater a importância da identidade nacional com o pedagogo e escritor Egídio Tambaiolli. Ele acredita que o Saci se tornou um símbolo dessa multiculturalidade brasileira e afirma \"o saci se tornou o principal representante do nosso folclore\". A empresária Regina Silveira e o ilustrador Anderson Awvas contribuem nessa discussão sobre a globalização e influências estrangeiras.</p><p></p><p></p></main></main>"
+  },
+  "date": "2020-10-31T10:57:11",
+  "date_gmt": "2020-10-31T13:57:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Rádio UVA Barra · Podcast Dia Do Saci Comemorado mundialmente como Halloween ou dia das bruxas, o dia 31 de outubro no Brasil é reservado para a festa de uma lenda do folclore brasileiro, o Saci. Uma data para incentivar a cultura nacional. O folclore tem essa miscigenação e influência de diversas culturas. O próprio [&hellip;]</p>\n"
+  },
+  "featured_media": 8082,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8080"
+  },
+  "id": 8080,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/agecc82ncia.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-26k",
+  "link": "https://agenciauvabarra.com/2020/10/31/podcast-radio-uva-barra-dia-do-saci-relembra-a-importancia-do-folclore-brasileiro-s02-ep07/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-31T11:12:42",
+  "modified_gmt": "2020-10-31T14:12:42",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-dia-do-saci-relembra-a-importancia-do-folclore-brasileiro-s02-ep07",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra &#8211; Dia do saci relembra a importância do folclore brasileiro – S02 EP07"
+  },
+  "type": "post"
+}

@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9484/revisions/9496",
+        "id": 9496
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9484"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9484",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9484/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9484"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9486"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9484",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9484",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    18330,
+    4753134,
+    72064,
+    7114,
+    268277
+  ],
+  "class_list": [
+    "post-9484",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-institucional",
+    "category-quarentena",
+    "category-saude",
+    "category-sociedade",
+    "category-solidariedade",
+    "tag-acolhe-uva",
+    "tag-acompanhamento-psicologico",
+    "tag-coronavirus",
+    "tag-curso-de-psicologia-uva",
+    "tag-pandemia",
+    "tag-rodas-de-acolhimento"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A ideia do projeto é dar voz às pessoas</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-barbara.jpg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\" /><figcaption>Bárbara já tem prática com rodas de conversas e revelou uma vontade que os psicólogos têm para contribuir para uma sociedade mais justa (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-elina.jpg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\" /><figcaption>Elina destacou a importância da profissão em permitir a reflexão e o acolhimento às pessoas em situação de sofrimento (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-clarice.jpg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\" /><figcaption>Clarice Medeiros reconheceu a importância da roda em promover uma abordagem coletiva (Foto: Arquivo Pessoal)</figcaption></figure><p>Ao atravessar a marca de 450 mil mortes por coronavírus no Brasil, as pessoas passaram a conviver diariamente com a perda e o luto. A pandemia deixou sentimentos como dor e angústia mais latentes e a questão da saúde mental mais presente na sociedade. Alguns projetos solidários estão se destacando como forma de auxílio. Na Universidade Veiga de Almeida, uma roda de acolhimento virtual vem ouvindo diferentes histórias e demonstra que ninguém está sozinho.</p><p>Com a mediação de professores de psicologia e estagiários do curso, as rodas são realizadas pela plataforma do <em>Google Meet</em> e contém um limite de 12 pessoas por reunião. O “Acolhe Uva” é como uma terapia grupal, um local de conversas e restrito para alunos, gestores ou funcionários da universidade. Barbara Carissimi, Clarice Medeiros e Elina Pietrani foram uma das moderadoras das rodas do mês de Maio.</p><p>É um convite para um abraço virtual e há uma percepção de empatia entre os participantes da reunião, o que revela a importância da ação. Não há uma imposição para que todos falem na reunião e, sim, um lugar natural, na qual o silêncio também é respeitado e considerado. “É um espaço pautado nas dimensões da escuta, do cuidado, e da ética que permite cada um narrar uma experiência, vivência e possa acolher o outro também”, afirmou Clarice Medeiros.</p><p>Clarice Medeiros, coordenadora do Serviço de Psicologia Aplicada do campus Tijuca e Barra da Tijuca, fala sobre a motivação do projeto no vídeo abaixo:</p><figure><iframe src=\"https://www.youtube.com/embed/q1oKnFipIkk?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" style=\"border:0;\"></iframe></figure><p>As rodas têm uma temática pré-determinada ou livre dependendo da organização de cada mediador. Barbara Carissimi, coordenadora do curso de psicologia do campus Barra, comandou a primeira reunião com temática livre e ao término a moderadora recebeu comentários positivos da ação. “As pessoas estavam gratas e se sentiram mais acolhidas e amparadas nesse momento tão difícil”, concluiu Barbara.</p><p>Já a roda da professora de psicologia, Elina Pietrani, abordou sobre a dor e perda em tempos de pandemia. “Em momentos como este, a contribuição do meio acadêmico pode ser transformadora”, disse Elina. A roda também trouxe reflexões sobre como as pessoas podem buscar algumas respostas, ao ouvir a história de outras pessoas, ou então, até expor a própria narrativa, permitindo aos participantes serem acolhidos na dor vivida.</p><p>Elina Pietrani fala sobre como foi o desenvolvimento da reunião, em que foi moderadora, no áudio abaixo:</p><iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1056188047&amp;auto_play=false&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\"></iframe><p>O “Acolhe Uva” tem o intuito de ouvir e de transformar pessoas. É uma oportunidade para se integrar numa atmosfera de apoio, suporte e mudanças. Os interessados em participar podem conferir a programação e o links abaixo:</p><p>1. Manejo do estresse na pandemia; Segunda-feira – 07/06 – 15:30h; Link da videochamada: <a href=\"https://meet.google.com/psz-yrsh-mvk\">https://meet.google.com/psz-yrsh-mvk</a></p><p>2. Perda e dor em tempos de pandemia; Terça-feira – 08/06 – 15:00h; Link da videochamada: <a href=\"https://meet.google.com/syz-qozg-zud\">https://meet.google.com/syz-qozg-zud</a></p><p>3. Promoção de saúde mental na pandemia; Segunda-feira – 14/06 – 17:00h; Link da videochamada: <a href=\"https://meet.google.com/evz-xdme-gsq\">https://meet.google.com/evz-xdme-gsq</a></p><p>4. Luto e perda em tempos de pandemia; Terça-feira – 15/06 – 15:00h; Link da videochamada: <a href=\"https://meet.google.com/kxn-vifg-gyo\">https://meet.google.com/kxn-vifg-gyo</a></p><p>5. Virtualização dos laços na pandemia; Segunda-feira – 21/06 – 15:00h; Link da videochamada: <a href=\"https://meet.google.com/iig-jgmz-ckf\">https://meet.google.com/iig-jgmz-ckf</a></p><p><em>Pedro Amorim – 4° período</em></p><p><em>Pedro Araújo – 3° período</em></p></main>"
+  },
+  "date": "2021-06-02T17:57:39",
+  "date_gmt": "2021-06-02T20:57:39",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A pandemia deixou sentimentos como dor e angústia mais latentes e a questão da saúde mental mais presente na sociedade. Alguns projetos solidários estão se destacando como forma de auxílio. Na Universidade Veiga de Almeida, uma roda de acolhimento virtual vem ouvindo diferentes histórias e demonstra que ninguém está sozinho. </p>\n"
+  },
+  "featured_media": 9486,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9484"
+  },
+  "id": 9484,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-insta-2.jpg?fit=763%2C752&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2sY",
+  "link": "https://agenciauvabarra.com/2021/06/02/rodas-de-acolhimento-virtuais-transformam-a-dor-em-esperanca-e-uniao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-06-02T17:57:39",
+  "modified_gmt": "2021-06-02T20:57:39",
+  "ping_status": "open",
+  "slug": "rodas-de-acolhimento-virtuais-transformam-a-dor-em-esperanca-e-uniao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    719497973,
+    34293540,
+    767056633,
+    719497976,
+    572103,
+    719497968
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rodas de acolhimento virtuais transformam a dor em esperança e união"
+  },
+  "type": "post"
+}

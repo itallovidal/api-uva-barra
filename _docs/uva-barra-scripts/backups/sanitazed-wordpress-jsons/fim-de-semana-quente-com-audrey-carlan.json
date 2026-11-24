@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2278/revisions/3056",
+        "id": 3056
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2278"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2278",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2278/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2278"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2279"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2278",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2278",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-2278",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-audrey-carlan",
+    "tag-international-guy",
+    "tag-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>A autora visita o Brasil pela segunda vez para sessão de autógrafos no Rio de Janeiro e em São Paulo</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img-20180919-wa0055_1_1.jpg?resize=1280%2C853&amp;ssl=1' alt='IMG-20180919-WA0055_1_1' width='1280' height='853' /><figcaption>Além de “International Guy”, Audrey se disponibilizou a autografar todas as suas obras. Foto: Ana carolina Soares</figcaption></figure><p>Paris, Nova York e Copenhague. Imagina tudo isso em um só lugar? Essas são algumas das cidades onde se passa a nova saga da autora Audrey Carlan, “International Guy”. A The Gift Box junto com a Verus Editora lançou os 3 primeiros livros em um volume único, e no último fim de semana, 15 e 16 de setembro, para prestigiar os fãs brasileiros, Audrey foi a convidada da vez para uma sessão de autógrafos no “Pré-The Gift Day”, um evento para preparar os fãs da empresa para outro que ocorre em dezembro, o “The Gift Day”.</p><div><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img-20180919-wa0054_1.jpg?resize=998%2C675&amp;ssl=1' alt='IMG-20180919-WA0054_1' width='998' height='675' /><figcaption>Durante o bate-papo Audrey fala um pouco mais do que se pode esperar de “International Guy”. Foto: Ana Carolina Soares</figcaption></figure></div><p>Já conhecida pela série literária, “Garota do calendário”, e pela escrita voltada aos romances eróticos, Audrey busca passar uma mensagem importante para as mulheres. Discussões como: abuso, baixa autoestima, ou simplesmente um alerta para aquelas com personalidades fortes fazem parte das narrativas da autora. O novo livro traz personagens masculinos como foco, ela tenta mostrar uma outra forma de relação entre os sexos. “Eu queria que tanto as mulheres quantos os homens pudessem aproveitar um ao outro de forma saudável e não de forma desrespeitosa” diz.</p><p>“International Guy” tem um capítulo que se passa no Brasil, fruto do carinho que a autora tem pelos brasileiros. Essa segunda visita ao nosso país aproximou mais ainda Audrey dos leitores. Os presentes aproveitaram a sessão de autógrafos, um bate-papo e uma performance de “Maroon 5” logo que entrou, “Eu amo estar com os brasileiros, porque eles parecem uma família para mim” comenta.</p><p>Com disposição, Audrey atendeu mais de 60 pessoas. Quem estava na fila aguardando esse momento foi Julia Queiroga, de 25 anos. Ela ficou encantada com a autora, que depois de dois anos sendo fã teve a oportunidade de conhece-la pessoalmente, “Ela é maravilhosa!” diz. O evento teve a participação de um intérprete para aqueles que não falavam inglês, “ela não foi simpática só comigo, mas com todo mundo, até mesmo com quem não falava inglês ela tentava conversar”, completa Julia.</p><p><strong>Ana Carolina Soares – 6º período</strong></p></main>"
+  },
+  "date": "2018-09-20T08:51:43",
+  "date_gmt": "2018-09-20T11:51:43",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A autora visita o Brasil pela segunda vez para sessão de autógrafos no Rio de Janeiro e em São Paulo Paris, Nova York e Copenhague. Imagina tudo isso em um só lugar? Essas são algumas das cidades onde se passa a nova saga da autora Audrey Carlan, “International Guy”. A The Gift Box junto com [&hellip;]</p>\n"
+  },
+  "featured_media": 2279,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2278"
+  },
+  "id": 2278,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img-20180919-wa0055_1_1.jpg?fit=1280%2C853&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-AK",
+  "link": "https://agenciauvabarra.com/2018/09/20/fim-de-semana-quente-com-audrey-carlan/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:13:09",
+  "modified_gmt": "2019-01-31T14:13:09",
+  "ping_status": "open",
+  "slug": "fim-de-semana-quente-com-audrey-carlan",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    193715449,
+    644247851,
+    767056603
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Fim de semana quente com Audrey Carlan"
+  },
+  "type": "post"
+}

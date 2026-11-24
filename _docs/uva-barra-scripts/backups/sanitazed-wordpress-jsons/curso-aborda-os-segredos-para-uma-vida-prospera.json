@@ -1,0 +1,154 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5260/revisions/5842",
+        "id": 5842
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5260"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5260",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5260/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5260"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5260",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5260",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-5260",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-sociedade",
+    "tag-a-mente-prospera"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento trouxe sete orientações baseadas no livro “A mente próspera”</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5649.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>A autora do livro “A Mente Próspera”Cláudia Monteiro debate sobre as sete chaves para se atingir a prosperidade – Foto: Luma Keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5675.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5681.jpeg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Workshop encerra com abraço coletivo – Foto: Luma Keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5683.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Palestrantes e participantes – Foto: Luma Keily</figcaption></figure><p>Claudia Monteiro, autora do livro “A Mente próspera”, ministrou no sábado (21/9), o workshop “A Chave da Prosperidade”. O evento apresentou orientações como: libertar-se de crenças paralisantes, identificar o medo, ousar, ser grato, abençoar, praticar o despego e estar aberto a aprender, com base em uma experiência pessoal que mudou a vida da artista.</p><p>Para Claudia essas chaves tornam o ser humano próspero. ”Independentemente da época ou contexto, o tema prosperidade é um convite para o despertar da autoconsciência, através da reflexão e reavaliação de certas crenças, que ao invés de impulsionar e motivar acabam por engessar a mente”, relata.</p><p>A abertura teve a análise da música “Somewhere over the rainbow”, canção de Harold Arlen. A ideia era mostrar o ato de sonhar como o ponto de partida para a realização de tudo aquilo que se idealiza. “Prosperidade é ver as coisas acontecerem e dar certo”, disse Lenita dos Santos, uma das participantes do curso. Ela declara que, inspirada pelos aprendizados, levará mais confiança em si mesma, na certeza de ser capaz de alcançar seus objetivos.</p><p>Uma parte do curso foi dedicado a autoaceitação. A psicóloga Bianca Zucarelli ministrou o módulo e diz que a chave da prosperidade se encontra dentro do próprio indivíduo. “Conheça sua sombra, ela é sua melhor amiga”, aconselhou Bianca. Para a artesã Rosângela Monteiro, a prosperidade é como o ato de ser feliz: “Eu me considero uma pessoa próspera”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5662.jpg?resize=517%2C387&amp;ssl=1\" alt=\"\" width=\"517\" height=\"387\" /><figcaption>A psicóloga Bianca Zucarelli fala sobre auto aceitação – Foto: Luma Keily</figcaption></figure><p>Os conceitos apresentados ao público fazem parte da própria história da autora. “A verdadeira prosperidade é estar em paz consigo e em harmonia com o todo”, expôs Claudia. Com o propósito de alcançar essa sintonia com o eu interior, e também com o outro, as atividades do dia foram encerradas com uma meditação, desenvolvida pela professora Fátima Musse, e por um abraço coletivo.</p><p><strong>Luma Keily – 2° Período|Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-24T20:47:44",
+  "date_gmt": "2019-09-24T23:47:44",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento trouxe sete orientações baseadas no livro “A mente próspera” Claudia Monteiro, autora do livro “A Mente próspera”, ministrou no sábado (21/9), o workshop “A Chave da Prosperidade”. O evento apresentou orientações como: libertar-se de crenças paralisantes, identificar o medo, ousar, ser grato, abençoar, praticar o despego e estar aberto a aprender, com base em [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5260"
+  },
+  "id": 5260,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1mQ",
+  "link": "https://agenciauvabarra.com/2019/09/24/curso-aborda-os-segredos-para-uma-vida-prospera/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-11-04T14:45:34",
+  "modified_gmt": "2019-11-04T17:45:34",
+  "ping_status": "open",
+  "slug": "curso-aborda-os-segredos-para-uma-vida-prospera",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    687178064
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Curso aborda os segredos para uma vida próspera"
+  },
+  "type": "post"
+}

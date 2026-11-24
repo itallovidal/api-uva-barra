@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3720/revisions/3726",
+        "id": 3726
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3720"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3720",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3720/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3720"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3720",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3720",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3720",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A combinação marketing e som pela busca do sucesso</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/23278e63-7065-490e-abb3-6c88370af27b.jpeg?resize=4032%2C3024&#038;ssl=1' alt='' width='4032' height='3024' /><figcaption>Palestrantes discutem os novos players do mercado – Foto: Juliana Marques</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/dscn0080.jpg?resize=4896%2C3672&#038;ssl=1' alt='' width='4896' height='3672' /><figcaption>Alexandre Wesley, Diretor de Shows da Som Livre – Foto: Gabriel Torres</figcaption></figure><p>Fenômeno cada vez mais consumido, a música faz parte do cotidiano do brasileiro e já faz parte das ações de marketing nas empresas. Esse foi o tema da palestra: Música – Novos Players do Mercado, que discutiu as novas tendências na parte criativa sonora.</p><p>A música é um elemento crucial para o desenvolvimento intelectual e para a expressão de sentimentos, além de ser reconhecida por muitos pesquisadores como uma modalidade que promove o equilíbrio, permitindo um bem-estar. Segundo especialistas, ouvir música deixa um ambiente mais agradável. Diante disso, instituições procuram meios de encaixar esse elemento nos seus serviços.</p><p>As marcas e gravadoras já atuam com o pensamento de expansão dos negócios e assumem novas funções no mercado em que atuam. Essa revolução está em harmonia com o público e apresenta uma junção da tecnologia e a produção sonora de produtos criativos.</p><p>A gerente de Marketing Institucional da Natura, Fernanda Paiva, afirma que a essência da marca é produzir e comercializar o bem-estar e que esse elemento aproxima as pessoas: “A música nos conecta em um lugar muito individual”, conclui.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/dscn0088.jpg?resize=523%2C392&#038;ssl=1' alt='' width='523' height='392' /><figcaption>Fernanda paiva, gerente de Marketing institucional da Natura – Foto: Gabriel Torres</figcaption></figure><p>Outro que compartilha da mesma ideologia é o Diretor de Shows, Festivais e Relacionamento com Marcas da Som Livre, Alexandre Wesley. Ele afirma que a Som Livre não deixa de participar dessa essência: “Foi a forma que encontramos de se reencontrar”.</p><p>O advogado Willian Galdino participou da palestra e estava interessado no pensamento de inovação: “A correlação com a diversidade no uso do conteúdo e na mão de obra artística ajuda para agregar com as marcas”.</p><p>Confira abaixo as palavras de uma das palestrantes presente no evento:</p><figure><iframe src='https://www.youtube.com/embed/bHD_66EggBM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe><figcaption>Samantha Almeida – Diretora de Planejamento e Inovação da Music2_Mynd8 Brasil</figcaption></figure><p></p><p><strong>Juliana Marques – 6° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-24T16:36:26",
+  "date_gmt": "2019-04-24T19:36:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A combinação marketing e som pela busca do sucesso Fenômeno cada vez mais consumido, a música faz parte do cotidiano do brasileiro e já faz parte das ações de marketing nas empresas. Esse foi o tema da palestra: Música – Novos Players do Mercado, que discutiu as novas tendências na parte criativa sonora. A música [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3720"
+  },
+  "id": 3720,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Y0",
+  "link": "https://agenciauvabarra.com/2019/04/24/empresas-apostam-nas-musicas-para-a-construcao-de-marcas-fortes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-24T16:36:26",
+  "modified_gmt": "2019-04-24T19:36:26",
+  "ping_status": "open",
+  "slug": "empresas-apostam-nas-musicas-para-a-construcao-de-marcas-fortes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Empresas apostam nas músicas para a construção de marcas fortes"
+  },
+  "type": "post"
+}

@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2194/revisions/3173",
+        "id": 3173
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2194"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2194",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2194/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2194"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2195"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2194",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2194",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-2194",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-direito",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Os estudantes tiveram acesso a assuntos polêmicos e atuais</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_3746.jpg?resize=640%2C480&amp;ssl=1' alt='IMG_3746' width='640' height='480'><figcaption>Rogério Borba da Silva conversando com os alunos sobre os desafios da advocacia. Foto: Ana Carolina Marinho</figcaption></figure><p>A 12° Semana Jurídica aconteceu de 27 a 31 de agosto no campus Barra. O evento teve ciclo de palestras, workshops e a presença de professores e profissionais do mercado para debater “O direito e a contemporaneidade”. O primeiro dia começou com o tema: “Avanços e retrocessos no direito do consumidor” e seguiu com conteúdos recentes e marcantes sobre a história brasileira.</p><p>Com o auditório cheio já na segunda (27), o advogado Rogério Borba da Silva falou sobre os desafios da advocacia no século XXI, como o pouco número de vagas para uma grande demanda de profissionais. Em um mundo marcado por individualidades, a palestra alertou também para a união da categoria. “Para que tudo dê certo, precisamos nos manter juntos, quando não tenho conhecimento sobre uma área é necessário não ter relutância em indicar outra pessoa para o cargo”, completa.</p><p>Com o tema “Os trinta anos da Constituição Federal”, o procurador Irapuã Gonçalves explicou a importância da mudança periódica da Constituição. “Não é possível morar em um país com as mesmas leis de 200 ano atrás, como os Estados Unidos. É preciso mudar com os tempos.”, argumenta. No final da palestra, o procurador ressaltou que os conteúdos atuais devem estar em sala de aula.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_3833.jpg?resize=640%2C480&amp;ssl=1' alt='IMG_3833' width='640' height='480'><figcaption>Palestrante e coordenador do curso de direito no último dia da semana jurídica. Foto: Ana Carolina Marinho</figcaption></figure><p>A estudante do décimo período de direito, Camila Duarte aprovou a programação da Semana Jurídica. “Os assuntos foram bem modernos e alguns até polêmicos, além disso os debates foram dinâmicos e não cansativos”. A futura advogada também elogiou os palestrantes e os conteúdos apresentados.</p><p>Com a expectativa de sucesso alcançado, o coordenador do curso e um dos organizadores do evento, Soniárlei Vieira Leite diz que a escolha do tema é refletida com a preocupação constante da Universidade na formação dos estudantes. “Ao longo dos anos novos debates sobre o direito atual surgiram e percebemos como era importante apresentar isso aos alunos”, afirma.</p><p>A participação discente é uma forma de crescimento do graduando antes de chegar ao mercado de trabalho. Já poder experenciar um intercâmbio com outros universitários e profissionais que atuam com Direito no dia a dia. “Eles têm a oportunidade de conhecer professores de outras instituições, trazendo um contato com o mundo externo e isso é muito enriquecedor, não só pra eles, mas também pra gente”, conclui o coordenador. O final do evento veio acompanhado de novidades, o professor Soniárlei adiantou que em novembro os alunos do campus Barra terão o “Seminário Jurídico”. Outra oportunidade de discutir o Direito ainda na faculdade.</p><p><strong>Ana Carolina Marinho – 6° período</strong></p></main>"
+  },
+  "date": "2018-09-02T16:05:16",
+  "date_gmt": "2018-09-02T19:05:16",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os estudantes tiveram acesso a assuntos polêmicos e atuais A 12° Semana Jurídica aconteceu de 27 a 31 de agosto no campus Barra. O evento teve ciclo de palestras, workshops e a presença de professores e profissionais do mercado para debater “O direito e a contemporaneidade”. O primeiro dia começou com o tema: “Avanços e [&hellip;]</p>\n"
+  },
+  "featured_media": 2195,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2194"
+  },
+  "id": 2194,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_3746.jpg?fit=640%2C480&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-zo",
+  "link": "https://agenciauvabarra.com/2018/09/02/debates-sobre-o-direito-contemporaneo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T20:51:09",
+  "modified_gmt": "2019-02-25T23:51:09",
+  "ping_status": "open",
+  "slug": "debates-sobre-o-direito-contemporaneo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056624,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Debates sobre o direito contemporâneo"
+  },
+  "type": "post"
+}

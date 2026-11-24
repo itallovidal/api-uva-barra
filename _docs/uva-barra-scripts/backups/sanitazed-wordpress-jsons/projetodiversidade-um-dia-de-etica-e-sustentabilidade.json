@@ -1,0 +1,156 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1450/revisions/2990",
+        "id": 2990
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1450"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1450",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1450/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1450"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1450",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1450",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    254332
+  ],
+  "class_list": [
+    "post-1450",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-sustentabilidade",
+    "tag-projetodiversidade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/rthfh-e1506969459561.jpg?resize=1280%2C961&#038;ssl=1' alt='rthfh.jpg' width='1280' height='961' /><figcaption>rthfh.jpg</figcaption></figure><p>Ética e sustentabilidade nunca estiveram tão próximas. A II Feira de Práticas Sustentáveis da UVA reuniu em um só lugar todos os conceitos para se alcançar uma vida melhor, além, é claro, de ensinar a cuidar do mundo ao redor. Um evento recheado de workshops, palestras e atividades culturais, cujo objetivo foi inserir profissionais no meio universitário para apresentarem seus trabalhos e propor uma interação com os alunos, professores e visitantes, sempre incentivando o respeito à diversidade e a relação ética entre o meio ambiente e a sociedade.</p><p>Em sua segunda edição, a feira foi importante para mostrar aos participantes que toda essa discussão ética tem correlação com a sustentabilidade e a diversidade. Segundo a professora e organizadora do evento, Maria de Lurdes Domingos, não há como uma sociedade progredir se não houver preocupação com a maneira de se conviver, de respeitar o próximo e reconhecer diferenças. “Sustentabilidade tem a ver com tentar melhorar a qualidade de vida dos indivíduos, da sociedade e do ambiente. A ideia da feira era colocar isso em pauta e fazer com que a universidade seja parceira e um dos atores sociais que leva adiante essa discussão e viabilizar práticas de melhoria da cidadania”.</p><p>As palestras abordaram de projetos de carreira a relações étnico-raciais, de microbiologia a história e poesia, tudo para agregar ainda mais o conhecimento a quem reservou algumas horas do dia para dar atenção a esses temas. Para os curiosos, uma novidade assim é sempre bem-vinda. O estudante Vinícius Dal Cere, que cursa Jornalismo, assistiu a uma das palestras sobre técnicas de compostagem, e se surpreendeu. “Quando me dei conta, estava numa sala somente com alunos de Engenharia e Biologia, e, para minha surpresa, estava me interessando pelo assunto”.</p><p>Com diversas atividades e bastante troca de informações, o evento também promoveu a integração entre palestrantes, que acabaram fazendo parceiras entre eles, para, quem sabe no futuro, trabalhar em novos projetos. Mas para Maria de Lurdes, apesar de muitas conquistas, o objetivo de fazer com que a maioria dos alunos interagisse com a feira ainda não foi totalmente atingido. “Isso é uma pena, porque o evento realmente foi feito com base na geração de conhecimento para o nosso público interno, que não participou como esperávamos, não teve muita curiosidade de interagir com os expositores, participar dos workshops e talk shows”.</p><p>Apesar de alguns altos e baixos, a Terceira Feira de Práticas Sustentáveis já está no papel, porém, novos formatos e iniciativas estão sendo analisados. Parcerias, estágios, tudo para que os alunos possam entender que a participação deles fará com que tenham a oportunidade que no momento não estão conseguindo alcançar. E, claro, o evento sempre estará de braços abertos a novas ideias. “Eu gostaria muito de saber que os alunos podem mexer no que há de mais interessante para eles. Isso é basicamente a ideia da sustentabilidade, para a qual a gente abre sempre diálogo”, conclui Maria de Lourdes.</p></main>"
+  },
+  "date": "2017-10-02T15:37:42",
+  "date_gmt": "2017-10-02T18:37:42",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ética e sustentabilidade nunca estiveram tão próximas. A II Feira de Práticas Sustentáveis da UVA reuniu em um só lugar todos os conceitos para se alcançar uma vida melhor, além, é claro, de ensinar a cuidar do mundo ao redor. Um evento recheado de workshops, palestras e atividades culturais, cujo objetivo foi inserir profissionais no [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1450"
+  },
+  "id": 1450,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-no",
+  "link": "https://agenciauvabarra.com/2017/10/02/projetodiversidade-um-dia-de-etica-e-sustentabilidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T18:08:19",
+  "modified_gmt": "2019-01-26T20:08:19",
+  "ping_status": "open",
+  "slug": "projetodiversidade-um-dia-de-etica-e-sustentabilidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056637
+  ],
+  "template": "",
+  "title": {
+    "rendered": "#ProjetoDiversidade: Um dia de ética e sustentabilidade"
+  },
+  "type": "post"
+}

@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7530/revisions/7539",
+        "id": 7539
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7530"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7530",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7530/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7530"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7534"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7530",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7530",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    268277,
+    703299214
+  ],
+  "class_list": [
+    "post-7530",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "category-solidariedade",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Atléticas universitárias do Rio de Janeiro realizam ações solidárias com projetos sociais para amenizar as consequências da COVID-19 nas favelas e periferias</em></p><p>Em meio ao caos da pandemia, cerca de 65 Atléticas de universidades públicas e privadas do Rio de Janeiro se uniram a cinco projetos sociais para reduzir os impactos provocados pelo novo coronavírus (COVID-19) em áreas necessitadas. As campanhas de doação estão sendo feitas nas redes sociais das Atléticas e o dinheiro arrecadado é convertido em cestas básicas e equipamentos de proteção. Os participantes podem se juntar aos voluntários na distribuição dos produtos para as comunidades ligadas às instituições de caridade, como a Rocinha, a Mangueira e outras da Baixada Fluminense.</p><p>Ciente do potencial de destruição da COVID-19 nos lugares mais pobres, o Presidente da Atlética UniCarioca e responsável por tal ação, Diego Santana, decidiu entrar em contato com representantes de outras universidades do estado, para que todos se mobilizassem durante o período de isolamento social. “A gente vê diversas pessoas humildes sofrendo. Só a minha Atlética não teria a adesão necessária. Quando mais Atléticas do esporte universitário passassem a se juntar pensando em ajudar o próximo, teria mais visibilidade”, diz o fundador do movimento.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-24.png?resize=567%2C334&amp;ssl=1\" alt=\"\" width=\"567\" height=\"334\"><figcaption>A campanha “Vamos Virar O Jogo” converte as arrecadações em cestas básicas – Foto: Divulgação/Redes Sociais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-25.png?resize=567%2C393&amp;ssl=1\" alt=\"\" width=\"567\" height=\"393\"><figcaption>Voluntários do projeto “A Rocinha Resiste” se preparando para as doações – Foto: Divulgação/Redes Sociais</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-26.png?resize=567%2C413&amp;ssl=1\" alt=\"\" width=\"567\" height=\"413\"><figcaption>O “Projeto Bom de Bola 3F´s” oferece ajuda educacional às crianças da Baixada Fluminense com base no esporte – Foto: Divulgação/Redes Sociais</figcaption></figure><p>Além disso, ele comenta que a mobilização das Atléticas universitárias do Rio com programas sociais visa à solidariedade em um momento de reflexão e conscientização. O mesmo pensa Luiz Henrique Oliveira, Vice-Presidente da Atlética UniCarioca, sobre a importância de participações sociais como essa. “As Atléticas do Rio têm um público enorme e com capacidade de amenizar os impactos nas famílias afetadas. Fazer parte de campanhas sociais no cenário atual representa cidadania”, destaca.</p><p>Sobre a dinâmica das doações, Luiz explica que funciona, basicamente, com publicação simultânea nas redes sociais. Por meio dela, divulga-se o <a href=\"https://abacashi.com/p/virar-o-jogo\">link do site</a> ou código de acesso (QR Code) para, assim, as pessoas realizarem seus respectivos depósitos. “Debatemos o conteúdo em conjunto, eu crio as artes e, pelo grupo de WhatsApp com todos os envolvidos, nos organizamos para disparar as publicações”, conta. Segundo os organizadores da campanha, a meta de 11 mil contribuições já foi superada, o que evidencia seu sucesso.</p><p>Outro marco de destaque da ação é conseguir deixar de lado a competitividade entre as Atléticas em prol da emergência social causada pela doença. A Atlética de Comunicação Social e Artes da Veiga da Barra — comandada por Henryque Borges — entrou nesse consenso e resolveu participar. Ele diz que a união, em um momento tão delicado de surto do vírus, é o diferencial no combate. Henryque ainda afirma que a rivalidade só fica dentro de campo e que considera vital a aproximação das organizações com atividades sociais para frear o contágio.</p><p>Um desses projetos sociais é o “Bom de Bola 3F’s”, coordenado pela família de Diego na região da Baixada Fluminense. Entre as experiências vivenciadas por ele nas periferias e comunidades, ter visto o sofrimento de moradores, que têm suas vidas ameaçadas pela pandemia, foi o que mais o impactou até agora. “É visivelmente muito pior depois do Coronavírus. Pessoas que não tinham carteira assinada e trabalhavam na informalidade, hoje, estão desempregadas. A gente entrega cestas básicas, mas a família não tem condição de comprar um botijão de gás. Nós não vamos conseguir mudar tudo, mas já facilita um pouco”, desabafa.</p><p><strong>Lucas Vasconcelos – 3º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-08-19T14:04:00",
+  "date_gmt": "2020-08-19T17:04:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Atléticas universitárias do Rio de Janeiro realizam ações solidárias com projetos sociais para amenizar as consequências da COVID-19 nas favelas e periferias Em meio ao caos da pandemia, cerca de 65 Atléticas de universidades públicas e privadas do Rio de Janeiro se uniram a cinco projetos sociais para reduzir os impactos provocados pelo novo coronavírus [&hellip;]</p>\n"
+  },
+  "featured_media": 7534,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7530"
+  },
+  "id": 7530,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-24.png?fit=567%2C334&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Xs",
+  "link": "https://agenciauvabarra.com/2020/08/19/a-campanha-vamos-virar-o-jogo-substitui-a-rivalidade-do-esporte-universitario-por-solidariedade-em-tempos-do-coronavirus/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-13T13:48:16",
+  "modified_gmt": "2020-08-13T16:48:16",
+  "ping_status": "open",
+  "slug": "a-campanha-vamos-virar-o-jogo-substitui-a-rivalidade-do-esporte-universitario-por-solidariedade-em-tempos-do-coronavirus",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A campanha “Vamos Virar O Jogo” substitui a rivalidade do esporte universitário por solidariedade em tempos do Coronavírus"
+  },
+  "type": "post"
+}

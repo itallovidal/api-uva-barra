@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8718/revisions/8724",
+        "id": 8724
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8718"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8718",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8718/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8718"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8722"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8718",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8718",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8718",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podcast",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F941114209&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Player do SoundCloud' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>A vida de Daniel passa por uma reviravolta. No terceiro capítulo de \"8 Lados\", ele se vê num momento no qual uma atitude pode mudar tudo. Qual caminho ele vai escolher?</p><p>Não perca amanhã o penúltimo capítulo de \"8 Lados\".</p><p><strong>Acompanhe os capítulos anteriores para entender essa história.</strong></p><p><a href='https://agenciauvabarra.com/2021/02/22/podserie-radio-uva-barra-8-lados-s06-ep1/' target='_blank'>Podsérie Rádio UVA Barra – 8 Lados – S06 EP1</a></p><p><a href='https://agenciauvabarra.com/2021/02/23/podserie-radio-uva-barra-8-lados-s06-ep2/' target='_blank'>Podsérie Rádio UVA Barra – 8 Lados – S06 EP2</a></p><p><em>Rafaela Barbosa – 8º período</em></p></main>"
+  },
+  "date": "2021-02-24T15:51:15",
+  "date_gmt": "2021-02-24T18:51:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>os 8 lados · Podsérie 8 Lados -Episódio 3 &#8211; Consequências A vida de Daniel passa por uma reviravolta. No terceiro capítulo de “8 Lados”, ele se vê num momento no qual uma atitude pode mudar tudo. Qual caminho ele vai escolher?  Não perca amanhã o penúltimo capítulo de “8 Lados”. Acompanhe os capítulos anteriores [&hellip;]</p>\n"
+  },
+  "featured_media": 8722,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=8718"
+  },
+  "id": 8718,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/02/32.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2gC",
+  "link": "https://agenciauvabarra.com/2021/02/24/podserie-radio-uva-barra-8-lados-s06-ep3/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-02-24T15:51:15",
+  "modified_gmt": "2021-02-24T18:51:15",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-8-lados-s06-ep3",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142,
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra – 8 Lados – S06 EP3"
+  },
+  "type": "post"
+}

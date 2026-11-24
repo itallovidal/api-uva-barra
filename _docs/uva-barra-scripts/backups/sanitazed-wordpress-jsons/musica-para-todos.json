@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2333/revisions/3052",
+        "id": 3052
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2333"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2333",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2333/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2333"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2334"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2333",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2333",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2239
+  ],
+  "class_list": [
+    "post-2333",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-shows",
+    "tag-agencia-uva-barra",
+    "tag-bossa-nova-mall",
+    "tag-musica",
+    "tag-micael-borges",
+    "tag-mix-ao-vivo",
+    "tag-radio-mix",
+    "tag-show"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Rádio Mix promove shows acústicos mensalmente no Bossa Nova Mall</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-27-at-12-08-44.jpeg?resize=1040%2C780&amp;ssl=1' alt='WhatsApp Image 2018-09-27 at 12.08.44' width='1040' height='780' /><figcaption>O cantor apresentou sucessos antigos e músicas do novo EP. Foto: Ana Beatriz Bernardo</figcaption></figure><p>Com a internet, os meios de comunicação mais antigos precisam se reinventar. Shows, promoções com artistas e interações com o público se tornam cada vez mais presentes no rádio e na TV. Pensando nisso, a rádio Mix FM apresenta o \"Mix ao Vivo\", um evento que acontece no Bossa Nova Mall. Nomes como Iza, Di Ferrero, AnaVitória e Lexa já se apresentaram por lá, e o artista desta terça-feira, 25/09, foi Micael Borges.</p><figure class=\"alignleft\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-27-at-12-07-59.jpeg?resize=780%2C1040&amp;ssl=1' alt='WhatsApp Image 2018-09-27 at 12.07.59' width='780' height='1040' /><figcaption>Micael Borges é o artista do mês no Mix ao Vivo. Foto: Ana Beatriz Bernardo</figcaption></figure><p>Os cantores são escolhidos à partir da programação da rádio. Contando com vários estilos diferentes, do funk ao pop, os shows atraem público de todos os lugares. Para a estudante Raphaela da Silva, é uma forma de se distrair. \"É sempre bom escutar música ao vivo, e é melhor ainda quando é aberto e para todos os estilos\", conta.</p><p>Além disso, esse tipo de evento é uma forma dos convidados se aproximarem mais das pessoas e divulgarem o trabalho. O cantor Micael Borges acredita que quando se está construindo uma carreira, quanto mais próximo estiver de quem vai ouvir sua música é melhor. \"Eu gosto de ter um contato mais intimista, de mostrar que sou igual a todo mundo\", relata.</p><p>Mais que divulgação, a rádio transforma os shows em atrativo para quem chega no aeroporto ou está a passeio no shopping. Segundo o assessor da Mix, João Felípe Toledo, o FM Hall é amplo e os pockets shows são novidade. \"É algo diferente de se fazer, e ainda atraímos público para o ambiente dos nossos estúdios\", explica. O mix ao vivo acontece uma vez por mês e em vários estados diferentes, como São Paulo e Brasília.</p><p><strong>Ana Beatriz Bernardo – 6º período</strong></p></main>"
+  },
+  "date": "2018-09-27T14:10:53",
+  "date_gmt": "2018-09-27T17:10:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Rádio Mix promove shows acústicos mensalmente no Bossa Nova Mall Com a internet, os meios de comunicação mais antigos precisam se reinventar. Shows, promoções com artistas e interações com o público se tornam cada vez mais presentes no rádio e na TV. Pensando nisso, a rádio Mix FM apresenta o &#8220;Mix ao Vivo&#8221;, um evento [&hellip;]</p>\n"
+  },
+  "featured_media": 2334,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2333"
+  },
+  "id": 2333,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-27-at-12-08-44.jpeg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-BD",
+  "link": "https://agenciauvabarra.com/2018/09/27/musica-para-todos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:11:19",
+  "modified_gmt": "2019-01-31T14:11:19",
+  "ping_status": "open",
+  "slug": "musica-para-todos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    223701300,
+    767056594,
+    13593762,
+    106811734,
+    2268690,
+    16595
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Música para todos"
+  },
+  "type": "post"
+}

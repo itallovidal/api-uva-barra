@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11941/revisions/12025",
+        "id": 12025
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11941"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11941",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 21,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11941/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11941"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11962"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11941",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11941",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    54927,
+    2366
+  ],
+  "class_list": [
+    "post-11941",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-engenharia",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento com Programação híbrida movimentou os três dias do campus Barra</em></p><p>O Simpósio de Engenharia de Produção começou na quarta-feira, 25/05, no campus Barra da Universidade Veiga de Almeida. Com mentorias, palestras e workshops, os participantes do evento têm a chance de atualizar os conhecimentos na área e ter contato com profissionais.</p><p>Para o CEO Daniel Augusto, a 10ª edição é marcada pelo acolhimento e resiliência. Após o período virtualizado de dois anos, o SIMEP retorna às atividades presenciais. O tema central é “As (novas) perspectivas da segurança pública a partir da utilização da engenharia de produção”.</p><p>Daniel Augusto e as expectativas do Simpósio.</p><figure><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/1jPrhmBS7aM?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>O professor Alexandre Paixão comandou a mentoria “Modelo de Negócio e Práticas Empreendedoras”. Foi a primeira vez do docente no evento como palestrante e a proposta foi transmitir a experiência técnica da engenharia proveniente do mercado de trabalho. “Toda a universidade teria que ter a oportunidade de receber esses eventos por conta da diversidade de conhecimento que chega de fora para dentro da instituição”, diz.</p><p>A palestra “Subjetividade na Otimização” com o Prof. Dr. Carlos Simões buscou analisar a influência da subjetividade no processo decisório, além da criação e interação no cotidiano. “O que quero passar aos alunos é não confundir subjetividade com objetividade e entender os resultados dos problemas”, relata.</p><p>No 7º período do curso de engenharia, o estudante Raphael Feitosa destaca o Simpósio como um momento para aplicar os conceitos estudados no âmbito profissional e acadêmico. Segundo o universitário, durante a palestra com o Dr. Carlos Simões, ele conseguiu perceber como o ambiente externo pode influenciar no meio interno. Já para o egresso e empreendedor Gabriel Fortuna, participar da mentoria de empreendedorismo foi um divisor de águas para a própria carreira.</p><blockquote><p>“O professor Alexandre deixou muito claro uma visão que eu tinha. Foi excelente ele ter compartilhado que um dos maiores pilares dentro de uma empresa, independente do Core Business dela, é a cultura. Eu tinha 99% de uma ideia na prática com um ano de empresa e ele preencheu essa lacuna que faltava”</p><cite>Gabriel Fortuna</cite></blockquote><p>O Coronel Marcio Pereira Basílio apresentou a “Palestra Magna: PO Aplicada a Segurança Pública: A Escolha da Estratégias de Policiamento”. O Subchefe Administrativo do Estado Maior Geral e de Ordenador de Despesas da Polícia Militar do Estado do Rio de Janeiro examinou os modelos de combate ao crime na segurança e de policiamento, como formas de contextualizar fatos atuais na sociedade carioca. “Você não escolhe uma única estratégia. Existe um portfólio de estratégias que podem ser utilizado dependendo da situação e do tipo de delito”, explica.</p><p>Monique Damaceno, aluna do 10º período em Engenharia de Produção do campus Cabo Frio, se sentiu motivada para comparecer na conferência. Através da base dos palestrantes, a estudante deseja se encontrar na profissão a ser seguida, já que conseguiu um estágio no último período.</p><p>Monique fala o que pôde aprender no SIMEP.</p><figure><iframe loading=\"lazy\" title=\"Monique fala o que pôde aprender no SIMEP by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1276441927&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></figure><p>Para o coordenador do curso Fabrício Dias, o SIMEP é um instrumento de atualização no mercado de trabalho. Após dois dias de evento, o Simpósio chegou ao último dia nesta sexta-feira, 27/05, com uma intensa programação temática. “Trabalhar com educação e conhecimento é gratificante”, conclui Fabrício.</p><p><em>Pedro Amorim – 6º período</em><br><em>Editado por Lucas Souza – 7º período</em></p></main>"
+  },
+  "date": "2022-05-27T17:06:07",
+  "date_gmt": "2022-05-27T20:06:07",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Simpósio de Engenharia de Produção começou na quarta-feira, 25/05, no campus Barra da Universidade Veiga de Almeida. Com mentorias, palestras e workshops, os participantes do evento têm a chance de atualizar os conhecimentos na área e ter contato com profissionais.</p>\n"
+  },
+  "featured_media": 11962,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11941"
+  },
+  "id": 11941,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/05/capa-site-agencia-2022-14.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-36B",
+  "link": "https://agenciauvabarra.com/2022/05/27/simep-conecta-estudantes-da-veiga-de-almeida-e-profissionais-da-area-de-engenharia-de-producao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-05-31T17:03:36",
+  "modified_gmt": "2022-05-31T20:03:36",
+  "ping_status": "open",
+  "slug": "simep-conecta-estudantes-da-veiga-de-almeida-e-profissionais-da-area-de-engenharia-de-producao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "SIMEP conecta estudantes da Veiga de Almeida e profissionais da área de Engenharia de Produção"
+  },
+  "type": "post"
+}

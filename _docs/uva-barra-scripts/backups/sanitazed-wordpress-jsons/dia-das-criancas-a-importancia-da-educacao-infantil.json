@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10260/revisions/10301",
+        "id": 10301
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10260"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10260",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 18,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10260/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10260"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10277"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10260",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10260",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    2366,
+    7114
+  ],
+  "class_list": [
+    "post-10260",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-eventos",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Ambiente escolar de qualidade influencia diretamente na evolução do discente</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/sophia-1.jpg?resize=1200%2C1600&#038;ssl=1' alt='' width='1200' height='1600' /><figcaption>Ana Vasconcellos, mãe da Sophia de 5 anos, fez com que a filha interagisse o quanto antes com outras crianças para ajudar a entrada na escola. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/sophia-2.jpg?resize=569%2C966&#038;ssl=1' alt='' width='569' height='966' /><figcaption>Sophia sempre se adaptou bem ao ambiente escolar por ter uma facilidade na convivência com outros colegas de classe. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/patricia-sabino.jpg?resize=769%2C1024&#038;ssl=1' alt='' width='769' height='1024' /><figcaption>Patricia Sabino, professora da rede pública de ensino, notou uma valorização da educação infantil e do papel dos professores na sala de aula com a pandemia. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/sandra-lopes.jpg?resize=1080%2C1091&#038;ssl=1' alt='' width='1080' height='1091' /><figcaption> A orientadora educacional e diretora pedagógica Sandra Lopes discorda da visão de que as crianças somente brincam na escola, já que é ali que elas vão aprender a conviver socialmente. (Foto: Arquivo Pessoal)</figcaption></figure><p>O simbolismo por trás do Dia das Crianças — anualmente comemorado no dia 12 de outubro — contrasta com a marca de quase 1,5 milhão de crianças e adolescentes fora das escolas brasileiras, segundo um estudo do Fundo das Nações Unidas para a Infância (Unicef). Para piorar a situação, a virtualização do ensino agravou o cenário da educação infantil à medida que afastava alunos de baixa renda por não possuírem infraestrutura adequada e equipamentos tecnológicos. Além disso, certos responsáveis encaram o ensino às crianças como sendo apenas diversão em vez de aprendizado e desenvolvimento.</p><p>Devido à necessidade da implantação de um regime de aulas remotas, o levantamento da Unicef revelou também que 41% dos entrevistados tinham de 6 a 10 anos dos 5,1 milhões de meninos e meninas que ficaram sem acesso à educação em novembro de 2020. Estas dificuldades enfrentadas foram percebidas pela professora da rede pública de ensino do município do Rio Patrícia Sabino, principalmente na parcela de crianças de menor condição financeira. “Muitas famílias não conseguiram acompanhar esse processo remoto, seja por falta de acesso a tecnologia, de tato ou de paciência com a criança. A falta de interação na infância pode causar sequelas graves no futuro”, ressalta.</p><p>Enquanto uns ficaram impossibilitados, outros não foram estudar por cautela. Sandra Lopes, orientadora educacional e diretora pedagógica, comenta que a redução no número de estudantes foi uma junção de fatores, entre eles comportamentais e econômicos. Além do fato de alguns responsáveis acreditarem que a criança não irá perder nada, a não ser as brincadeiras de sempre.</p><p>Cabe aos pais escolher o momento adequado para matricular a criança na escola, no entanto, há divergências quanto ao tempo certo, ainda mais em cenário pandêmico. Para Sandra Lopes, a convivência escolar deve acontecer o quanto antes para que a inserção social seja natural. “A ideia que se tem é que você bota na escola para brincar quando é pequena, mas não, são necessidades socioemocionais para começar a construir o ser humano que vai caminhar em uma sociedade extremamente diversa em valores e comportamentos”, declara. Ela também ressalta a importância da participação familiar na construção dos ideais do aluno, uma vez que serve como um complemento ao estudo.</p><p><strong>Sandra Lopes, orientadora educacional, fala sobre a valorização da educação infantil na pandemia</strong>.</p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1139945104&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Sandra Lopes, orientadora educacional, ressalta a valorização da educação infantil na pandemia by Agência UVA Barra' allow='autoplay; fullscreen; clipboard-write; encrypted-media; picture-in-picture' allowfullscreen></iframe></figure><p>Quem seguiu essa linha de pensamento foi a mãe da Sophia, de 5 anos, Ana Vasconcellos. A advogada não pensou duas vezes quando matriculou a filha de 2 anos na escola. “A questão da socialização com a saída para a creche é fundamental, porque começa a desvincular da convivência com os pais, a experimentar outras comidas e a interagir com outras crianças”, diz.</p><p>Com isso, a escola deve trabalhar para que o aprendizado e a diversão caminhem juntos, de acordo com Patrícia Sabino. “Todas as atividades escolares precisam se tornar uma brincadeira. Nada sentado numa mesa, com lápis na mão. É necessário trabalhar com a ludicidade o tempo inteiro com brincadeiras pedagógicas”, afirma.</p><p><strong>A professora Patrícia Sabino destaca a importância da educação infantil no desenvolvimento da criança. </strong></p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1139940607&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='A professora Patrícia Sabino fala sobre a educação infantil no desenvolvimento da criança by Agência UVA Barra' allow='autoplay; fullscreen; clipboard-write; encrypted-media; picture-in-picture' allowfullscreen></iframe></figure><p>Quanto aos efeitos da virtualização, embora a Sophia não tenha sofrido qualquer tipo de transtorno emocional nesse período, Ana Vasconcellos conta que ouviu relatos sobre colegas da classe que não reagiram da mesma forma. “Soube que outros amigos (dela) tiveram pesadelos à noite, não queriam sair de casa porque ficavam escutando o tempo todo sobre coronavírus na televisão. Alguns voltaram a usar fralda e começaram a roer unha&#8221;.</p><p>Ao passo que a vacinação avança, as aulas presenciais e a vida normal retomam aos poucos. A escola particular da Sophia, por exemplo, já está funcionando normalmente e seguindo os protocolos sanitários. Enquanto na rede pública, as adaptações ao presencial continuam, explica a professora Patrícia Sabino que precisa revezar, a cada semana, duas turmas do ensino infantil. </p><p>A Secretaria Municipal de Educação do Rio anunciou, na última quinta-feira (7/10), a volta às aulas no modelo presencial por completo, sem rodízio ou isolamento entre as carteiras. O retorno será dividido em duas etapas no dia 18 e 25 de outubro.</p><p><strong>Confira o cronograma:</strong></p><p>No dia 18, voltam os alunos: </p><ul><li>da pré-escola (4/5 anos);</li><li>do 1º, 2º, 5º e 9º anos do ensino fundamental;</li><li>do Programa Carioca 2, de aceleração de ensino, que beneficia em torno de 4 mil crianças e adolescentes.</li></ul><p>No dia 25, voltam as outras séries:</p><ul><li>3º, 4º, 6º, 7º e 8º anos do ensino fundamental;</li><li>creches;</li><li>alunos do EJA &#8211; programa de Educação de Jovens e Adultos;</li><li>classes especiais.</li></ul><p><em>Lucas Ribeiro &#8211; 6° período</em></p></main>"
+  },
+  "date": "2021-10-11T19:10:52",
+  "date_gmt": "2021-10-11T22:10:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O simbolismo por trás do Dia das Crianças — anualmente comemorado no dia 12 de outubro — contrasta com a marca de quase 1,5 milhão de crianças e adolescentes fora das escolas brasileiras, segundo um estudo do Fundo das Nações Unidas para a Infância (Unicef). Para piorar a situação, a virtualização do ensino agravou o cenário da educação infantil à medida que afastava alunos de baixa renda por não possuírem infraestrutura adequada e equipamentos tecnológicos. Além disso, certos responsáveis encaram o ensino às crianças como sendo apenas diversão em vez de aprendizado e desenvolvimento.</p>\n"
+  },
+  "featured_media": 10277,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10260"
+  },
+  "id": 10260,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/capa-dia-das-criancas.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Fu",
+  "link": "https://agenciauvabarra.com/2021/10/11/dia-das-criancas-a-importancia-da-educacao-infantil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-14T18:38:05",
+  "modified_gmt": "2021-10-14T21:38:05",
+  "ping_status": "open",
+  "slug": "dia-das-criancas-a-importancia-da-educacao-infantil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dia das Crianças: A Importância da Educação Infantil"
+  },
+  "type": "post"
+}

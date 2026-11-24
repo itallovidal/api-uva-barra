@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1894/revisions/3191",
+        "id": 3191
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1894"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1894",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1894/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1894"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1894",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1894",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1894",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Workshop sobre autoconhecimento é debate no campus Barra</em> <em>da UVA</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/04/whatsapp-image-2018-04-16-at-18-04-29.jpeg?resize=1032%2C774&amp;ssl=1\" alt=\"WhatsApp Image 2018-04-16 at 18.04.29\" width=\"1032\" height=\"774\"><figcaption>Créditos: Graziela Andrade</figcaption></figure><p>O impacto do conhecimento pessoal cresce nos dias atuais. Por essa razão, a Universidade Veiga de Almeida (UVA), do campus Barra, realizou no último sábado (14/04) o II Workshop de Análise de Personalidade – Eneanálise. Promovido pelo coach Michel Medeiros a ação teve como eixo central o desenvolvimento e a busca pelo autoconhecimento. Métodos relacionados a psicologia, como alguns testes de personalidade foram citados.</p><p>Dentre esses métodos comentados, o Eneagrama foi um dos mais discutidos. Esse procedimento tem como objetivo descobrir as principais características de cada perfil e elevar esse nível. Para o Coach, as pessoas interpretam a realidade de acordo com a personalidade de cada um, e por isso, podem não perceber a realidade como um todo, uma vez que os pontos de vistas são subjetivos. “A ideia é se desintegrar do seu ego e ensinar uma nova ferramenta para os interessados”, enfatiza.</p><p>Motivada por essa busca do conhecimento interior, a Fiscal Marcela Esdras acredita que as análises são uma maneira de se incrementar profissionalmente. “Eu sou fiscal, mas nunca exerci minha profissão, e quero por meio do Eneagrama poder me conhecer e melhorar meu desempenho”, ressalta. Já para o Pastor Fábio Borges, o Eneagrama é importante para o desempenho pessoal. “Vim buscar saúde e autoconhecimento para no futuro poder ajudar outras pessoas”, destaca.</p><p>O foco do projeto para o futuro será transformar todo esse conteúdo do workshop em um curso on-line para que o profissional que trabalha com desenvolvimento de pessoas possa utilizar o Eneagrama e outras técnicas. Os participantes do workshop serão incluídos em um grupo fechado no Facebook em que poderão fazer perguntas para o Coach da área específica. Além disso, também irão receber um vídeo com o conteúdo do workshop.</p><p>Ana Carolina Marinho, 5º período e Graziela Andrade, 4º período</p></main>"
+  },
+  "date": "2018-04-19T19:04:50",
+  "date_gmt": "2018-04-19T22:04:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p> Workshop sobre autoconhecimento é debate no campus Barra da UVA</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1894"
+  },
+  "id": 1894,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-uy",
+  "link": "https://agenciauvabarra.com/2018/04/19/a-busca-pelo-desenvolvimento-pessoal/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:07:29",
+  "modified_gmt": "2019-02-26T00:07:29",
+  "ping_status": "open",
+  "slug": "a-busca-pelo-desenvolvimento-pessoal",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A busca pelo desenvolvimento pessoal"
+  },
+  "type": "post"
+}

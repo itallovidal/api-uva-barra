@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1840/revisions/3196",
+        "id": 3196
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1840"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1840",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1840/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1840"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1840",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1840",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-1840",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-barra-da-tijuca",
+    "tag-cidade-das-artes",
+    "tag-fabio-porchat",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Publicitários, artistas, empresários e estudantes divulgam as criações de sucesso na web</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/04/39494746990_284df09545_o.jpg?resize=5281%2C3521&amp;ssl=1' alt='39494746990_284df09545_o' width='5281' height='3521' /><figcaption>Créditos: DAVI CAMPANA/R2</figcaption></figure><p>Show, entretenimento e conferências marcam o futuro das audiências virtuais. O festival Rio2C promoveu entre os dias 3 e 8 de abril, na Cidade das Artes, Barra da Tijuca uma série de experimentos criativos e inovadores. O objetivo é levar os visitantes a ter um contato com a realidade no futuro e conhecer parte dos influenciadores do ramo de distribuição nas redes sociais. Além disso, o evento contou com a participação de produtores audiovisuais que apresentaram projetos já realizados.</p><p>Entre os convidados está o humorista e apresentador Fábio Porchat, que faz parte de grupo de empresários presentes na mídia. \"Nós estudamos o mercado para levar o nosso trabalho para fora do país\", afirmou um dos sócios e roteirista do coletivo de comédia. Ele também reconhece as mudanças de profissionais da TV que migram para a internet a fim de conquistar novos públicos e espaços. \"O panorama mudou e nós escrevemos os esquetes com base nas nossas experiências\", revela o ator.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/04/41304067121_246f6eeb95_o-1.jpg?resize=5202%2C3468&amp;ssl=1' alt='41304067121_246f6eeb95_o (1)' width='5202' height='3468' /><figcaption>Créditos: DAVI CAMPANA/R2</figcaption></figure><p>Na produção dessa peça de curta duração, o empenho é crucial. \"Temos um total de vinte roteiros por semana e só aprovamos três\", explica Gregório Duvivier que ressalta a importância de despertar o riso e alegria do internauta. O diretor do grupo Ian Sbf fundou o canal em agosto de 2012 e passou a investir na web. \"Começamos com os investimentos pessoais e queríamos fazer algo diferente\", conta o dirigente que no início tinha apenas quatro colaboradores e hoje chega a mais de quarenta.</p><p>Histórias como essas motivam os interessados na área. Caso, por exemplo, da estudante de Produção cultural Paulinne Bastos que acompanha as novidades dos roteiristas. \"É curioso saber que a estabilidade que eles alcançaram, não os impediram de migrar para outras plataformas e agregar valor para a marca\", considera a universitária ao analisar a estrutura e o conteúdo das séries. No meio de produtores independentes, há os novatos que possuem pouca experiência nesse tema, uma vez que estão no começo do aprendizado.</p><p>Além desse pouco conhecimento, os aparelhos eletrônicos ainda não alcançaram todos as classes sociais. \"Não acompanho o canal por falta de um computador, mas aprecio o trabalho que tem boa qualidade técnica\", avalia o Operador de Áudio da TV Escola Ramon Lima. A reunião teve como foco estimular o interesse das pessoas para os diversos meios que possibilitam atrair maior visibilidade do produto. Para os empresários, o uso da tecnologia e das redes sociais, em alta no cenário global, podem ser uma das alternativas mais eficazes no desenvolvimento e destaque do empreendimento.</p><p>Karina Figueiredo, 4º período</p></main>"
+  },
+  "date": "2018-04-09T11:46:03",
+  "date_gmt": "2018-04-09T14:46:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Publicitários, artistas, empresários e estudantes divulgam as criações de sucesso na web</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1840"
+  },
+  "id": 1840,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-tG",
+  "link": "https://agenciauvabarra.com/2018/04/09/encontro-com-as-novas-tendencias/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:10:42",
+  "modified_gmt": "2019-02-26T00:10:42",
+  "ping_status": "open",
+  "slug": "encontro-com-as-novas-tendencias",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1129725,
+    15767449,
+    9128737,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Encontro com as novas tendências"
+  },
+  "type": "post"
+}

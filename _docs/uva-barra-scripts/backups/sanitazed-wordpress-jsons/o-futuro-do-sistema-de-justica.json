@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2339/revisions/2346",
+        "id": 2346
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2339"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2339",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2339/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2339"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2340"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2339",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2339",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2339",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-rio-info"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Ministério Público apresenta detalhes do uso de inteligência artificial pela entidade durante a 16° edição do Rio Info</em></h4><p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_20180925_160058667_hdr.jpg?resize=4160%2C3120&amp;ssl=1' alt='IMG_20180925_160058667_HDR' width='4160' height='3120' /><figcaption>Ciência de dados e inteligência artificial na RioInfo. /Créditos: Lucas Motta</figcaption></figure></p><p>A tecnologia tem o poder de facilitar e mudar a vida das pessoas, e é isso que o Rio Info deseja mostrar. A 16° edição do evento que trata de Negócios e TI ocorreu nos últimos dias 24 e 25 de setembro no Centro de Convenções Sulamérica, na Cidade Nova. Entre as apresentações, contou com o painel “Ciência de dados e Inteligência artificial”, com um bloco exclusivo sobre a experiência do Ministério Público do Rio (MPRJ). Estiveram presentes promotores e técnicos da instituição, que explicaram como funcionam essas aplicações no dia a dia.</p><p>O uso dessas tecnologias já tem apresentado resultados. Hoje, o MPRJ as utiliza para obter visões econométricas, análise de tendências, e leitura e identificação de documentos e teses. Para o promotor de justiça, Pedro Mourão, as instituições que compõem o sistema judiciário não só estão avançando bem nessas tendências, como estão se equiparando às empresas privadas. “Inclusive, hoje temos uma visão macro, ao invés de uma micro. Já não olhamos mais apenas um caso unitário, mas sim se o conjunto deles está seguindo o curso desejado”, explica.</p><p>O avanço tecnológico visto nesta instituição veio a partir de um questionamento. “Nos perguntávamos se o MPRJ vinha tendo sucesso nos processos em que ele move, e, se estava, de fato, dando retorno para a sociedade civil”, afirma Felipe Ferreira, que atua na área de classificação de documentos de risco. Com a ajuda de Felipe e outros técnicos, a organização passou a ter um sistema que aprendia por padrão, ao observar repetições nos textos. Palavras como “procedente”, por exemplo, indicava que a denúncia foi acatada pelo juiz. Assim, o “<em>machine learning</em>” (aprendizado de máquina, uma das matrizes da inteligência artificial) começou a ser implementado.</p><p>Entretanto, tudo indica que o fator humano não será deixado de lado na rotina do Ministério. De acordo com Pedro Mourão, o processo de decisões que envolvem o sistema de justiça sempre enxerga as pessoas e para ele a inteligência artificial nunca irá substituir esse olhar. “O que ela faz é deixar o trabalho mais eficiente, mas quem desenvolve inteligência é o ser humano. A máquina aprende e potencializa isso”, conclui, ao sugerir que não só a tecnologia é segura para armazenar dados, como também é o futuro do MPRJ.</p><p><strong>Lucas Motta – 7° período</strong></p></main>"
+  },
+  "date": "2018-09-27T22:51:20",
+  "date_gmt": "2018-09-28T01:51:20",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ministério Público apresenta detalhes do uso de inteligência artificial pela entidade durante a 16° edição do Rio Info</p>\n"
+  },
+  "featured_media": 2340,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2339"
+  },
+  "id": 2339,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img_20180925_160058667_hdr.jpg?fit=4160%2C3120&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-BJ",
+  "link": "https://agenciauvabarra.com/2018/09/27/o-futuro-do-sistema-de-justica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-09-28T13:50:20",
+  "modified_gmt": "2018-09-28T16:50:20",
+  "ping_status": "open",
+  "slug": "o-futuro-do-sistema-de-justica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    22711148
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Futuro do Sistema de Justiça"
+  },
+  "type": "post"
+}

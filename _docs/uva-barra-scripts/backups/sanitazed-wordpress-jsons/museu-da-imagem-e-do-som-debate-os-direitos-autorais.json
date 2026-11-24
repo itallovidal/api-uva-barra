@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5329/revisions/5345",
+        "id": 5345
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5329"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5329",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5329/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5329"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5331"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5329",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5329",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367
+  ],
+  "class_list": [
+    "post-5329",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "tag-direito-autoral",
+    "tag-museu-da-imagem-e-som"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h3><em>Evento convidou o público a refletir sobre a questão da propriedade intelectual na atualidade</em></h3><p>O Museu da Imagem e do Som recebeu na última sexta-feira (27), o workshop “Direitos Autorais em Museus: Desafios Atuais” que contou com a presença dos especialistas da área, Rodrigo Borges e Ana Barcellos que falaram sobre como é o processo de regulamentação de exposições de obras e acervos de museus.</p><p>Durante a palestra, os especialistas falaram do desconhecimento da lei de direitos autorais por parte das pessoas que trabalham nos museus. Segundo Ana Barcellos, existe uma crença entorno dos museus, que o seu papel de difusor de cultura, permite com que eles estejam imunes às leis. “Os museus em muitos casos acabam esbarrando em direitos que são da obra do criador, é preciso valorizar o trabalho dos artistas”, disse Ana</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190927_163836.jpg?resize=545%2C306&#038;ssl=1\" alt=\"\" width=\"545\" height=\"306\" /><figcaption>A especialista Ana Barcellos apresentou as dificuldades dos museus em relação aos direitos dos artistas – Foto: Lucas Souza</figcaption></figure><p>Ela ainda destacou as dificuldades encontradas na hora de conseguir a liberação de uma obra com as famílias de artistas que são falecidos. É preciso fazer os herdeiros entenderem que as vezes o melhor jeito de preservar a obra de alguém é torná-la pública. “Muitos artistas nós não sabemos que existiram, porque os herdeiros não quiseram liberar seus acervos”, comentou Ana Barcellos</p><p>Hoje em dia as leis estão diretamente ligadas a criação humana. O Advogado Rodrigo Borges ressaltou os desafios que as novas tecnologias e a internet vão trazer para a área de direitos autorais. “No futuro teremos obras criadas por inteligência artificial, algoritmos, e teremos um desafio em tentar entender quem a lei deverá proteger”, afirmou Rodrigo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190927_163233.jpg?resize=483%2C271&#038;ssl=1\" alt=\"\" width=\"483\" height=\"271\" /><figcaption>O advogado Rodrigo Borges falou sobre a questão dos direitos autorais no futuro – Foto: Lucas Souza</figcaption></figure><p>O público presente enfatizou a importância de debater o tema da palestra. Para o designer Nicolas Cesário, é muito relevante ter acesso a esse tipo de informação. “Como designer eu preciso entender mais como eu posso usar as minhas artes e ao mesmo tempo não desrespeitar a obra de outro autor”, declarou.</p><p>Já a historiadora Mariana Coutinho, destaca o equilíbrio que é preciso ter entre a produção do artista e as instituições. “Você tem dois eixos, de um lado o direito dos criadores e de outro a necessidade de resguardar os museus que divulgam e tornam as obras acessíveis a todos”, comentou</p><p><strong>Lucas Souza – 2° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-30T11:00:00",
+  "date_gmt": "2019-09-30T14:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento convidou o público a refletir sobre a questão da propriedade intelectual na atualidade O Museu da Imagem e do Som recebeu na última sexta-feira (27), o workshop “Direitos Autorais em Museus: Desafios Atuais” que contou com a presença dos especialistas da área, Rodrigo Borges e Ana Barcellos que falaram sobre como é o processo [&hellip;]</p>\n"
+  },
+  "featured_media": 5331,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5329"
+  },
+  "id": 5329,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/20190927_142604-e1569850883869.jpg?fit=3597%2C2045&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1nX",
+  "link": "https://agenciauvabarra.com/2019/09/30/museu-da-imagem-e-do-som-debate-os-direitos-autorais/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-30T10:42:13",
+  "modified_gmt": "2019-09-30T13:42:13",
+  "ping_status": "open",
+  "slug": "museu-da-imagem-e-do-som-debate-os-direitos-autorais",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    152350,
+    96434317
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Museu da Imagem e do Som debate os direitos autorais"
+  },
+  "type": "post"
+}

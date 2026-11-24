@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9504/revisions/9523",
+        "id": 9523
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9504"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9504",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9504/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9504"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9522"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9504",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9504",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    254332
+  ],
+  "class_list": [
+    "post-9504",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "category-sustentabilidade",
+    "tag-meio-ambiente",
+    "tag-semana-do-meio-ambiente"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Semana do Meio Ambiente reforça a importância de ações de preservação ambiental</em></p><p>No Brasil, foi instituído em 1981 que a primeira semana de junho seria a Semana do Meio Ambiente, visando a promoção e participação dos brasileiros na preservação dos patrimônios naturais do país. A data representa para a sociedade e os governos, a prestação de serviços em função de um mundo mais sustentável. Uma pesquisa feita pela Confederação Nacional da Indústria (CNI) em novembro de 2020 mostra que 98% dos brasileiros se preocupam com o meio ambiente e 95% desses se preocupam, especificamente, com a Amazônia. Porém, desde 2019 o Brasil tem sido alvo de críticas à preservação da natureza.<br><br><br>A inquietação de muitos brasileiros se reflete na máxima de “pôr a mão na massa”. Em um país onde o Ministro do Meio Ambiente sugere “passar a boiada” e flexibilizar normas que visam a preservação ambiental, cidadãos comuns assumem a liderança das transformações sociais. Esse é o caso de Marla Farias, de 47 anos. A mestra de capoeira se indignou com o lixo que era jogado no mangue onde mora e resolveu começar a limpeza do local. “Comecei no primeiro dia sozinha, tirei 12 sacos grandes de lixo e ficou lindo o mangue só no pedacinho que eu fiz”, afirma a carioca.<br><br></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-1-meio-ambiente-02-1.jpg?resize=767%2C1024&amp;ssl=1\" alt=\"\" width=\"767\" height=\"1024\" /><figcaption>A mestra de capoeira iniciou a limpeza sozinha, mas passou a receber ajuda dos vizinhos após uma publicação nas redes sociais. Foto: arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-1-meio-ambiente-01-1.jpg?resize=576%2C1024&amp;ssl=1\" alt=\"\" width=\"576\" height=\"1024\" /><figcaption>“Eu sempre amei a natureza, sempre me dediquei muito a ter cuidado com o meio ambiente”, conta Marla. Foto: arquivo pessoal</figcaption></figure><p>Quando não descartado no lugar adequado, ou seja, um aterro sanitário, o lixo urbano gera poluição do solo e das águas superficiais e subterrâneas. Já com o descarte apropriado, evita a proliferação de algumas doenças como amebíase, parasitose e diarreia. Marla acredita que limpando a vegetação, pode contribuir com o meio ambiente e com a sociedade, trazendo bem estar para a população local: “Eu faço a minha parte, um meio de me desculpar com a natureza por tanto lixo. É uma coisa que me faz tão bem, a natureza. Então, tenho que fazer alguma coisa por ela”, reforça a capoeirista.<br></p><p>Nessa luta, muitos anônimos estão ajudando a transformar a cidade. Alessandro Magalhães de Oliveira é um deles, o biólogo fundou a ONG Arboristas Urbanos, que tem como objetivo arborizar e cuidar de árvores pelo Rio de Janeiro. O presidente da ONG reconhece a importância da conscientização da proteção do meio ambiente: “Uma das chaves principais é ter em mente que [o meio ambiente] precisa dessa proteção, e caso não queira agir para proteger, não danifica”, declara o fundador da organização.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-2-meio-ambiente-01-1.jpg?resize=1440%2C960&amp;ssl=1\" alt=\"\" width=\"1440\" height=\"960\" /><figcaption> A ONG Arboristas Urbanos conta com o apoio de escolas, governos, patrocínios e da mídia. Foto: arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-2-meio-ambiente-02.jpg?resize=780%2C780&amp;ssl=1\" alt=\"\" width=\"780\" height=\"780\" /><figcaption>Há 10 anos, o projeto efetua oficinas de manutenção e revitalização urbana. Foto: arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-2-meio-ambiente-03.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\" /><figcaption>Cerca de 200 voluntários fazem parte da organização. Foto: arquivo pessoal</figcaption></figure><p><br>A ONG Arboristas Urbanos, em parceria com a prefeitura do Rio de Janeiro, visa plantar e cuidar de mudas pela cidade do Rio de Janeiro, trabalhando na conscientização dos moradores e na sobrevivência das mudas. Para o presidente Alessandro Magalhães de Oliveira, o cuidado com as árvores urbanas é necessário para um estado de bem estar social: “O impacto também está na saúde, na qualidade de vida e no tempo de vida. Quanto maior o IDH, mais verde é o local”, lembra o biólogo.<br><br>A fala de Alessandro se baseia com estudos divulgados pelo Relatórios de Direitos Humanos para o Programa das Nações Unidas, que atestam a afirmação de que o desmatamento e a poluição levam a uma piora no Índice de Desenvolvimento Humano. Embora o progresso econômico seja associado à emissão de CO2, o desenvolvimento sustentável leva em consideração o progresso econômico e a elevação da expectativa de vida, do meio ambiente e da saúde da sociedade.<br><br>O Brasil, segundo estudos liderados pela ONG Conservação Internacional, é líder em retrocessos ambientais. Apesar de estar na contramão do mundo quando se trata da migração para um futuro sustentável, a sociedade brasileira almeja a preservação do meio ambiente e das riquezas naturais que o país possui. Nos últimos anos, progressos que foram conquistados pelo Brasil têm sido desmantelados. Iniciativas como a diminuição de áreas protegidas, projetos de lei que libera licenças ambientais para degradações do espaço “verde”, além de venda de madeira ilegal são um retrocesso para a preservação do meio ambiente.<br><br>Para Carla Cardoso, professora de Direito Ambiental na UVA, o Brasil tem sofrido violações na proteção do meio ambiente: “Infelizmente, vimos que nos últimos anos as políticas ambientais têm sofrido impacto, violando legislações nacionais e internacionais sobre vedação ao retrocesso. Assistimos um desmonte de uma proteção ambiental que foi conquistado por muitos ambientalistas, políticos e da sociedade civil”, ressalta a docente.<br><br><br></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-3-meio-ambiente-1.jpg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\" /><figcaption>Além de lecionar sobre Direito Ambiental, Carla coordena o Núcleo de Pesquisa e Práticas Sustentáveis (NUPPS) na Universidade Veiga de Almeida. Foto: Arquivo pessoal</figcaption></figure><p><br>No cenário internacional, a cobrança por vigilância contra a desmatamento ilegal reduz investimentos de fundos verdes e auxílios monetários como crédito de carbono. Criminosa, a exportação ilegal que acontece pelo Brasil é resultado de afrouxamento nas leis de proteção ambiental. A elaboração de políticas públicas que conciliam o desenvolvimento econômico com a proteção e vigilância ao meio ambiente são necessárias para uma economia verde, a qual o Brasil possui diversos ativos, incluindo a floresta Amazônica. Através da plataforma Amazônia Legal em Dados, é possível contemplar o território que abrange 9 estados.</p><blockquote><p><em>‘’O Brasil já poderia ser hoje uma potência ambiental. Olhando para uma economia verde, os nossos ecossistemas, as possibilidades de pesquisas e a biodiversidade do Brasil tornaria nosso país muito rico, do ponto de vista econômico e socioambiental.”</em></p><cite><em>Carla Cardoso</em></cite></blockquote><p>Segundo a Constituição de 1988, é estabelecido o direito ao meio ambiente equilibrado e a preservação para presentes e futuras gerações. Só garantindo a defesa do meio ambiente é possível representar o desejo da maioria da população, preocupada com o seu meio ambiente e com as gerações que virão, na busca de um futuro verde.<br></p><p><em>Duda Bortoloto e Artur Lavinas – 3º período</em></p></main>"
+  },
+  "date": "2021-06-04T19:40:12",
+  "date_gmt": "2021-06-04T22:40:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No Brasil, foi instituído em 1981 que a primeira semana de junho seria a Semana do Meio Ambiente, visando a promoção e participação dos brasileiros na preservação dos patrimônios naturais do país. A data representa para a sociedade e os governos, a prestação de serviços em função de um mundo mais sustentável. Uma pesquisa feita pela Confederação Nacional da Indústria (CNI) em novembro de 2020 mostra que 98% dos brasileiros se preocupam com o meio ambiente e 95% desses se preocupam, especificamente, com a Amazônia. Porém, desde 2019 o Brasil tem sido alvo de críticas à preservação da natureza.</p>\n"
+  },
+  "featured_media": 9522,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9504"
+  },
+  "id": 9504,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/whatsapp-image-2021-06-04-at-19.35.50.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2ti",
+  "link": "https://agenciauvabarra.com/2021/06/04/iniciativas-transformadoras-promovem-a-defesa-de-um-futuro-sustentavel/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-06-04T19:40:12",
+  "modified_gmt": "2021-06-04T22:40:12",
+  "ping_status": "open",
+  "slug": "iniciativas-transformadoras-promovem-a-defesa-de-um-futuro-sustentavel",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056612,
+    7073924
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Iniciativas transformadoras promovem a defesa de um futuro sustentável"
+  },
+  "type": "post"
+}

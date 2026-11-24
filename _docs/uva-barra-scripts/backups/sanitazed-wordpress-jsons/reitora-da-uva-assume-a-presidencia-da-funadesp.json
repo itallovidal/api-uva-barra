@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9332/revisions/9339",
+        "id": 9339
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9332"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9332",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9332/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9332"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9335"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9332",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9332",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-9332",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-funadesp"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A Fundação tem como objetivo fomentar a pesquisa científica em universidades particulares no país</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/whatsapp-image-2021-05-14-at-17.28.38.jpeg?resize=805%2C536&amp;ssl=1' alt='' width='805' height='536' /><figcaption> Beatriz Balena pretende fomentar a pesquisa científica como presidente da FUNADESP. Foto: reprodução da internet </figcaption></figure><p>A atual reitora da Universidade Veiga de Almeida, Beatriz Balena, foi escolhida como presidente da Fundação Nacional de Desenvolvimento do Ensino Superior Particular (FUNADESP). Após ser indicada pelo então presidente, Beatriz foi escolhida por unanimidade pelos integrantes do conselho.</p><p>A FUNADESP é uma instituição de fomento à pesquisa científica em universidades particulares parceiras, incluindo a UVA. A pesquisa científica (ou acadêmica) faz parte do desenvolvimento dos alunos e professores. A aproximação de Balena teve início em 2010 quando ela ainda ocupava o cargo de pró-reitora da pós-graduação na Universidade Veiga de Almeida. “Ela (a FUNADESP) que torna as atividades de pesquisa de alunos e professores viáveis nas universidades particulares”, explica a reitora.</p><p>Os programas de capacitação e fomento à pesquisa oferecem bolsas a pesquisadores de diversos níveis acadêmicos desde a iniciação científica até o pós-doutorado. A Universidade Veiga de Almeida vem trabalhando para fazer a pesquisa cada vez mais presente na rotina dos alunos ainda na graduação. Só em 2020 foram mais de 200 projetos de iniciação científica que podem ser os primeiros passos de futuros pesquisadores no país.</p><p>Para Beatriz Balena, a pesquisa sempre esteve presente. Ela é doutora em Sociologia e Ciências da Educação e fez pesquisa durante os anos em que atuou como professora. Agora, ela enxerga a oportunidade de possibilitar outras pesquisas no Brasil. “Meu nascimento é na pesquisa! É apoteótico ter uma carreira profissional em que a gente acaba representando órgãos que patrocinam e financiam a pesquisa”, diz Beatriz.</p><p>Beatriz Balena é a primeira mulher a liderar a FUNADESP. Essa não foi a primeira vez que ela foi pioneira. Quando foi nomeada reitora da UVA, em 2019, Balena também era a primeira mulher a ocupar o cargo. Segundo ela, encarar esse desafio significa levar o nome da Universidade Veiga de Almeida para novos lugares.</p><p><em>Rafaela Barbosa – 8º período</em></p></main>"
+  },
+  "date": "2021-05-14T17:49:17",
+  "date_gmt": "2021-05-14T20:49:17",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Fundação tem como objetivo fomentar a pesquisa científica em universidades particulares no país A atual reitora da Universidade Veiga de Almeida, Beatriz Balena, foi escolhida como presidente da Fundação Nacional de Desenvolvimento do Ensino Superior Particular (FUNADESP). Após ser indicada pelo então presidente, Beatriz foi escolhida por unanimidade pelos integrantes do conselho.&nbsp; A FUNADESP [&hellip;]</p>\n"
+  },
+  "featured_media": 9335,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9332"
+  },
+  "id": 9332,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/05/whatsapp-image-2021-05-14-at-17.37.29.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2qw",
+  "link": "https://agenciauvabarra.com/2021/05/14/reitora-da-uva-assume-a-presidencia-da-funadesp/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-05-14T17:49:17",
+  "modified_gmt": "2021-05-14T20:49:17",
+  "ping_status": "open",
+  "slug": "reitora-da-uva-assume-a-presidencia-da-funadesp",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    603950816
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Reitora da UVA assume a presidência da FUNADESP"
+  },
+  "type": "post"
+}

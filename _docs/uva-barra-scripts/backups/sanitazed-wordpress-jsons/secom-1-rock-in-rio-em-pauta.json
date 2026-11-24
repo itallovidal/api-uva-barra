@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/706/revisions/3342",
+        "id": 3342
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=706"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/706",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 25,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/706/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=706"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=706",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=706",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-706",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/img_0160.jpg?resize=5184%2C3456&#038;ssl=1' alt='IMG_0160' width='5184' height='3456' /><figcaption>Foto de: Carolina Marinho</figcaption></figure><h4></h4><p><em>&#8220;Como transformar um festival de música em marca global?&#8221;&nbsp;</em>Esse foi o tema da palestra de abertura da Semana de Comunicação (SECOM) da Universidade Veiga de Almeida (UVA) nesta terça-feira (16/05).&nbsp; Organizada por alunos do campus Barra como trabalho de conclusão de disciplina, a SECOM tem como proposta três dias de imersão no mundo da Comunicação. Café da manhã, sorteios, brindes, karaokê, oficinas e palestras são as principais atrações do evento. A prática acontece na UVA, mas já é uma tradição do curso de Comunicação Social no geral para promover a integração dos alunos com profissionais do mercado de trabalho.</p><p>Um exemplo desse mundo profissional foi apresentado por Ana Deccache, diretora de atendimento da Agência Artplan, que trabalha com a área de Comunicação do Rock in Rio (RiR). O festival tem mais de 12 milhões de seguidores nas redes sociais e 17 edições feitas em três continentes diferentes. Parte disso se deve ao trabalho de Ana que é uma das responsáveis da produção publicitária do RiR e ressalta a importância da troca de experiência com o público. “<em>Contribui muito para o processo de comunicação da empresa e ao mesmo tempo dar aos alunos a visão real por trás de uma marca global”</em>.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/img_0171.jpg?resize=5184%2C3456&#038;ssl=1' alt='IMG_0171' width='5184' height='3456' /><figcaption>Ana Deccache, palestrante e diretora de atendimento da Agência Artplan. Foto de: Carolina Marinho</figcaption></figure><p>Essa foi a intenção da equipe organizadora do evento. “<em>É incrível uma oportunidade de interação com profissionais conceituados que podem compartilhar suas experiências”</em>, declara a coordenadora Margareth Carino. O primeiro dia da SECOM 2017 foi marcado pela quebra da seriedade usual com muita descontração, fazendo um misto de aprendizagem e diversão. “<em>Tivemos a liberdade de fazer com a nossa cara e isso aproximou os alunos do conteúdo e deixou boas expectativas para os próximos dias”</em>, concluiu orgulhosa Elvira Macedo, mestre cerimônia e produtora do evento.</p><p><strong>Giovanna Faria, 4º período e Yhara Linka, 6º período.&nbsp;</strong></p></main>"
+  },
+  "date": "2017-05-17T15:25:35",
+  "date_gmt": "2017-05-17T18:25:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>&#8220;Como transformar um festival de música em marca global?&#8221;&nbsp;Esse foi o tema da palestra de abertura da Semana de Comunicação (SECOM) da Universidade Veiga de Almeida (UVA) nesta terça-feira (16/05).&nbsp; Organizada por alunos do campus Barra como trabalho de conclusão de disciplina, a SECOM tem como proposta três dias de imersão no mundo da Comunicação. [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=706"
+  },
+  "id": 706,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-bo",
+  "link": "https://agenciauvabarra.com/2017/05/17/secom-1-rock-in-rio-em-pauta/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:59:40",
+  "modified_gmt": "2019-02-28T19:59:40",
+  "ping_status": "open",
+  "slug": "secom-1-rock-in-rio-em-pauta",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "SECOM #1 Rock in Rio em pauta"
+  },
+  "type": "post"
+}

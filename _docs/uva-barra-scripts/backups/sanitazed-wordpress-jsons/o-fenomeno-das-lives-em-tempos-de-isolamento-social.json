@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7403/revisions/7432",
+        "id": 7432
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7403"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7403",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7403/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7403"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7407"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7403",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7403",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    703299214
+  ],
+  "class_list": [
+    "post-7403",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Público encontrou uma nova forma de consumir conteúdo durante a pandemia do Coronavírus</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-1.png?resize=324%2C216&amp;ssl=1\" alt=\"\" width=\"324\" height=\"216\" /><figcaption>Imagem de Thomas Ulrich por Pixabay</figcaption></figure><p>As <em>lives</em> sempre estiveram presentes nas plataformas digitais, mas em 2020, devido ao isolamento social, essa ferramenta ganhou um enorme apelo por parte dos usuários. Tudo começou depois que os primeiros casos de coronavírus começaram a ser confirmados no Brasil e a quarentena foi instalada em vários locais. Se as lives vão ser algo passageiro somente o tempo dirá. Porém, o isolamento social provou a necessidade que o ser humano tem em consumir conteúdo e a capacidade de reinventar plataformas. </p><p>Com a maioria das pessoas em casa, sem muitas opções de entretenimento, artistas e pessoas comuns começam promover apresentações, que, em pouco tempo, alcançaram um número muito grande de espectadores e se diversificaram. Performances musicais, aulas e até entrevistas passaram a ser feitas por meio das redes sociais.</p><p>Uma oportunidade para trazer reflexão e luz. É assim que o cantor Lucca Fortuna, 23 anos, define as apresentações ao vivo. Ele, que começou a utilizar a ferramenta para fazer apresentações musicais, destaca que, por meio da internet, é possível tocar as pessoas de forma positiva. “Eu acho que as <em>lives</em>, tanto no Instagram quanto em outras plataformas, proporcionam a oportunidade de se conectar com pessoas, além de impactar positivamente quem se sente para baixo ou triste”, afirma.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-2.png?resize=597%2C574&amp;ssl=1\" alt=\"\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-3.png?resize=602%2C402&amp;ssl=1\" alt=\"\" /><figcaption>Sofia Costa, professora de yoga, em um ensaio de fotos na cidade das artes antes do isolamento – Foto: Larissa Correa</figcaption></figure><p>Motivos não faltam para o crescimento do consumo das transmissões virtuais. Alguns desses aspectos são a descontração e a informalidade das plataformas. O jornalista cultural Alvaro Tallarico, que trabalha no portal Vivente Andante, começou a realizar entrevistas no novo formato por ter acompanhado outras pessoas fazendo e achou que essa era uma plataforma muito interessante. “Era como bater papo com alguém e outros poderiam ver. É enriquecedor, além de ser mais uma opção de entretenimento e conhecimento”, conta.</p><p>É mesmo preciso manter a mente bem, até para resistir às pressões. Segundo Sofia Costa, 26 anos, professora de Yoga e produtora de conteúdo, que promoveu algumas aulas online, existem duas vertentes para serem discutidas. Se, por um lado, as pessoas têm a oportunidade de ter acesso a um mundo inteiro de informações dentro de casa, por outro, elas podem sentir uma pressão para produzir algo. “Acho que as <em>lives</em> podem impactar de forma extremamente positiva, mas se a gente não tiver um pouco de cabeça, podemos nos sentir na obrigação de realizar algo, só porque todo mundo está fazendo. Eu entrei nessa neura por um tempo breve durante a quarentena, mas consegui sair”, revela.</p><p><strong>Lucas Souza – 3º Período | Jornalismo</strong></p><p><em>*Texto produzido na disciplina Teoria e Técnica da Notícia em parceria com a Agência UVA Barra.</em></p></main>"
+  },
+  "date": "2020-08-05T14:00:00",
+  "date_gmt": "2020-08-05T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Público encontrou uma nova forma de consumir conteúdo durante a pandemia do Coronavírus As lives sempre estiveram presentes nas plataformas digitais, mas em 2020, devido ao isolamento social, essa ferramenta ganhou um enorme apelo por parte dos usuários. Tudo começou depois que os primeiros casos de coronavírus começaram a ser confirmados no Brasil e a [&hellip;]</p>\n"
+  },
+  "featured_media": 7407,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7403"
+  },
+  "id": 7403,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-2.png?fit=597%2C574&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Vp",
+  "link": "https://agenciauvabarra.com/2020/08/05/o-fenomeno-das-lives-em-tempos-de-isolamento-social/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-03T19:06:32",
+  "modified_gmt": "2020-08-03T22:06:32",
+  "ping_status": "open",
+  "slug": "o-fenomeno-das-lives-em-tempos-de-isolamento-social",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "O fenômeno das lives em tempos de isolamento social"
+  },
+  "type": "post"
+}

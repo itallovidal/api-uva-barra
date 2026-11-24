@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1500/revisions/3279",
+        "id": 3279
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1500"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1500",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1500/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1500"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1500",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1500",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1500",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Palestra sobre depressão no mundo corporativo leva aos alunos mais conhecimento sobre a segunda doença que mais tira pessoas do trabalho</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/594b7d99-d537-4b3d-b8d7-0118deba5437.jpg?resize=1280%2C960&amp;ssl=1' alt='594b7d99-d537-4b3d-b8d7-0118deba5437' width='1280' height='960' /><figcaption>Palestrante Nayra Almeida no auditório do Campus Barra da UVA. Foto: Lizandra Rios</figcaption></figure><p>A Universidade Veiga de Almeida realizou, na última quarta-feira dia 4, uma palestra para seus alunos sobre depressão no mundo corporativo. O evento aconteceu no auditório do campus Barra e contou com a presença de professores dos cursos de Administração e Psicologia, que juntos, falaram sobre a importância de tratar a depressão e o quanto essa doença vem afetando dentro das empresas. Os alunos presentes no evento ainda puderam debater e tirar suas dúvidas em relação ao assunto.</p><p>A professora de Psicologia da UVA Nayra Almeida explicou o que é a depressão, quais os sintomas, qual o possível tratamento e como ela pode afetar a vida de uma pessoa no âmbito pessoal e no âmbito corporativo. Segundo ela, as pessoas precisam ver a depressão como algo sério, pois muitos ainda tratam um paciente com depressão de forma diferente, como se não fosse doença. “Se um funcionário fala para o chefe que está com diabetes, ele entende e até ajuda no que for preciso. Entretanto, se o funcionário disser que está com depressão, o chefe provavelmente vai achar que é bobeira e que ele não quer trabalhar”.</p><p>Essa é justamente a área mais afetada, pois a depressão é a segunda doença que mais afasta pessoas do trabalho. Uma vez com depressão, o indivíduo perde a vontade de fazer qualquer coisa, apenas quer ficar em casa e se isolar do convívio social. Nayra ainda ressalta que é importante atentar para os indicativos, pois há uma grande diferença entre a tristeza e a depressão em si. “Tristeza é uma emoção, enquanto a depressão é uma doença”. Ela ainda acrescenta que o primeiro passo para a recuperação é entender, aceitar e encarar, pois apenas entendendo e aceitando o problema junto de um psicólogo é possível que a pessoa se recupere, tenha força para superar e voltar às suas atividades.</p><p>Além disso, esse foi o foco da segunda palestra: força para superar. A professora de psicologia da UVA, Ana Carolina Lynch falou em sua palestra sobre a resiliência – por definição, habilidade de voltar ao estado anterior. Conseguir superar uma situação ruim – e como é necessário aplicá-la na vida. “Não podemos nos intimidar. Precisamos ver uma situação ruim e encará-la de forma positiva, acreditando que sim, podemos superar aquilo”. Ana Carolina, ao longo de seu discurso, deu vários exemplos de pessoas de destaque que são resilientes, como Charlie Chaplin e Stephen Hawking. “Eles poderiam ter aceitado suas condições e não fazerem nada para melhorar aquilo, mas não, eles mostraram ao mundo que são resilientes”.</p><p>Já de acordo com Danilo Santana, estudante de Ciências Contábeis que estava presente na palestra, além da resiliência é importante também conhecer sobre a depressão. “Muitas pessoas sofrem desse problema e não sabem como agir, por isso é importante o mínimo de conhecimento para alguém conseguir superar esse problema ou buscar tratamento”. Depressão não é brincadeira, portanto é preciso enxergar essa doença com mais seriedade. Pode ser uma luta diária, mas o ensinamento que a palestra trouxe para os alunos foi que, para vencer essa batalha é necessário primeiramente aceitar sua condição, e após, buscar ajuda para se recuperar, pois só assim muitos rostos tristes voltaram a sorrir.</p><p>Lizandra Rios, 6º período e Nailson Ribeiro, 6º período</p></main>"
+  },
+  "date": "2017-10-09T14:18:35",
+  "date_gmt": "2017-10-09T17:18:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestra sobre depressão no mundo corporativo leva aos alunos mais conhecimento sobre a segunda doença que mais tira pessoas do trabalho A Universidade Veiga de Almeida realizou, na última quarta-feira dia 4, uma palestra para seus alunos sobre depressão no mundo corporativo. O evento aconteceu no auditório do campus Barra e contou com a presença [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1500"
+  },
+  "id": 1500,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-oc",
+  "link": "https://agenciauvabarra.com/2017/10/09/entender-para-tratar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:16:45",
+  "modified_gmt": "2019-02-28T19:16:45",
+  "ping_status": "open",
+  "slug": "entender-para-tratar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Entender para tratar"
+  },
+  "type": "post"
+}

@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14039/revisions/14044",
+        "id": 14044
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14039"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14039",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14039/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14039"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14043"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14039",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14039",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    11716206,
+    15243,
+    8086,
+    254332
+  ],
+  "class_list": [
+    "post-14039",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-economia-2",
+    "category-meio-ambiente",
+    "category-moda",
+    "category-sustentabilidade",
+    "tag-agencia-uva-barra",
+    "tag-brechos",
+    "tag-meioambiente",
+    "tag-moda",
+    "tag-sustentavel"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>“Costurando a moda sustentável” tem como objetivo conscientizar sobre o desenvolvimento sustentável no âmbito dos vestuários. A indústria têxtil é o 3° setor que mais polui o meio ambiente, e além disso, a produção em massa global está causando uma escassez de matéria-prima na natureza. O documentário traz questões de como o consumidor pode colaborar com o meio ambiente, procurando marcas sustentáveis ou a compra em brechós, que teve uma procura maior, principalmente entre os jovens.</p><p>A produção audiovisual traz alternativas para que as pessoas consigam escolher peças de roupa atemporais, sendo possível usar por um longo período de tempo, sem “sair de moda”. O grupo composto por Allan Amin, Ana C. Vivas, Beatriz Sodré, Bruna Torres, Gabriela Mota, Giullie Costa, Olivia Lessa e Tainá Bastos, escolheu o Objetivo de Desenvolvimento Sustentável 12, que fala sobre consumo e produção responsável.</p><p><strong>Assista!</strong></p><figure><div class=\"wp-block-embed__wrapper\"><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/cRh_k0vaIy0?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>Documentário produzido para a disciplina de Produção em rádio tv e cinema, sob a supervisão do professor Anderson Barreto.</p></main>"
+  },
+  "date": "2023-02-06T15:00:00",
+  "date_gmt": "2023-02-06T18:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Costurando a moda sustentável” tem como objetivo conscientizar sobre o desenvolvimento sustentável no âmbito dos vestuários. A indústria têxtil é o 3° setor que mais polui o meio ambiente, e além disso, a produção em massa global está causando uma escassez de matéria-prima na natureza. O documentário traz questões de como o consumidor pode colaborar com o meio ambiente, procurando marcas sustentáveis ou a compra em brechós, que teve uma procura maior, principalmente entre os jovens. </p>\n"
+  },
+  "featured_media": 14043,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14039"
+  },
+  "id": 14039,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/capa-site.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Er",
+  "link": "https://agenciauvabarra.com/2023/02/06/costurando-a-moda-sustentavel/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-02-07T11:55:18",
+  "modified_gmt": "2023-02-07T14:55:18",
+  "ping_status": "open",
+  "slug": "costurando-a-moda-sustentavel",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5771052,
+    1525968,
+    767056607,
+    952201
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Costurando a moda sustentável"
+  },
+  "type": "post"
+}

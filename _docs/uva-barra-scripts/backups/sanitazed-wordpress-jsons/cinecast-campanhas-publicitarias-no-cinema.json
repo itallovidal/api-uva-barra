@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15279/revisions/15282",
+        "id": 15282
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15279"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15279",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15279/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15279"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15283"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15279",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15279",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    11716206,
+    23208,
+    175,
+    39479,
+    701438832
+  ],
+  "class_list": [
+    "post-15279",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-economia-2",
+    "category-entretenimento",
+    "category-marketing",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-campanha",
+    "tag-cinema",
+    "tag-filme",
+    "tag-marketing",
+    "tag-publicidade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Para fechar a temporada do Cinecast, o grupo formado por Bruna Medeiros, Clara Galdino, Danilo Alves, Eros Seba, Isabella Ruth, Joyce Fernandes, Laila Sbardeloto e Marvin Oliveira trouxeram um bate papo descontraído para falar sobre as Campanhas Publicitárias no Cinema.</p><p>Entre os temas abordados estão a importância dos trailers, teasers, anúncios, spoilers para a divulgação de um filme, e as diferenças entre cada tipo de abordagem para tornar aquela produção um sucesso de bilheteria.</p><p><strong>Confira o podcast completo clicando no link abaixo!</strong></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Cinecast: Campanhas Publicitárias no Cinema. \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/2USU7Q882pNGLufVQoiupm?si=sZGoS2sKSRWpAyrGTY3bJA&#038;utm_source=oembed\"></iframe></div></figure><p><br><em>*Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-07-07T16:17:11",
+  "date_gmt": "2023-07-07T19:17:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Para fechar a temporada do Cinecast, o grupo formado por Bruna Medeiros, Clara Galdino, Danilo Alves, Eros Seba, Isabella Ruth, Joyce Fernandes, Laila Sbardeloto e Marvin Oliveira trouxeram um bate papo descontraído para falar sobre as Campanhas Publicitárias no Cinema. </p>\n"
+  },
+  "featured_media": 15283,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15279"
+  },
+  "id": 15279,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/whatsapp-image-2023-07-04-at-16.51.39.jpeg?fit=490%2C488&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Yr",
+  "link": "https://agenciauvabarra.com/2023/07/07/cinecast-campanhas-publicitarias-no-cinema/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-07T16:18:06",
+  "modified_gmt": "2023-07-07T19:18:06",
+  "ping_status": "open",
+  "slug": "cinecast-campanhas-publicitarias-no-cinema",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    64265,
+    767056592,
+    17563,
+    767056591,
+    767056618
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Cinecast: Campanhas Publicitárias no Cinema"
+  },
+  "type": "post"
+}

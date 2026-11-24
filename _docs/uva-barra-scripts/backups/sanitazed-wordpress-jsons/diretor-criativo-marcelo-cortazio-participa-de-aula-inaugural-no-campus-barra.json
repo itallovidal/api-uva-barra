@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16463/revisions/16475",
+        "id": 16475
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16463"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16463",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16463/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16463"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16463",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16463",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16463",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Palestrante trouxe um pouco do mercado de trabalho para alunos e compartilha visão sobre futuro do audiovisual para empresas</em></p><p>A Aula Inaugural do curso de Publicidade e Propaganda contou com a presença de Marcelo Cortazio, publicitário e diretor criativo. A palestra, com tema “Narrativas de marcas: Histórias que conectam e convertem”, foi introduzida pelo professor Anderson Barreto, coordenador da Agência Onze, que reforçou presença do <em>storytelling </em>nos quatro anos de curso.</p><p>Marcelo, que trabalha principalmente com <em>branded content</em>, começou a aula contando sobre a sua história de vida. Além da cidade onde nasceu, o publicitário contou sobre uma das principais paixões da infância, os filmes e quadrinhos. “O que eu consumia girava em torno de histórias”, explica.</p><p>Para demonstrar a importância da narrativa, Marcelo utilizou o filme “Sideways – Entre Umas e Outras” e o declínio de vendas do vinho Merlot e o crescimento da comercialização do Pinot Noir após uma discussão entre os protagonistas do longa sobre dois tipos de bebida. O diretor acredita que o exemplo simboliza o impacto que o entretenimento e as narrativas causam na vida das pessoas.</p><p>O benefício que empresas podem adquirir com o uso do <em>storytelling </em>também foi abordado na palestra, que foi uma primeira experiência para os alunos de primeiro período de Publicidade. Ana Júlia é caloura na Universidade e relata que a aula de Marcelo foi como uma abertura de leque para a carreira profissional e acadêmica.</p><p>O palestrante também dividiu com os estudantes sobre o seu processo de trabalho, que atualmente é focado no audiovisual corporativo com entretenimento. Além de todas as etapas da criação publicitária, Marcelo compartilhou como é necessário entender as pessoas para obter sucesso no trabalho. A estudante relata que, além de gostar de edição e roteiro, um dos destaques da aula foi a relação com o público. “A questão da gente se conectar com o outro pra conseguir entender o que ele quer e trabalhar entendendo o que a pessoa quer”, diz Ana Julia.</p><p>O futuro do mercado publicitário direcionou o fim da palestra. Marcelo acredita que mesmo com o avanço das Inteligências Artificiais, as marcas vão continuar procurando a criação de conteúdo verdadeiramente humano e ajudar a fomentar comunidades para inserir-se nesses espaços e conectar-se com as pessoas.</p><p>Outro ponto discutido que já faz diferença para as empresas é a performance política. Para o publicitário, as marcas não precisam ser ativistas mas aliadas. Em entrevista para a Agência Uva Barra, Marcelo comenta sobre o que afeta no seu trabalho quando marcas apenas desejam passar a ideia de mudanças, e não a prática; <strong>confira no áudio abaixo</strong>:</p><figure><img src=\"https://www.youtube.com/embed/rwkp2I_rffo?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent\" alt=\"Vídeo incorporado\" width=\"640\" height=\"360\" /><figcaption>Confira no áudio abaixo</figcaption></figure><p>Em resposta a pergunta de aluna, Marcelo compartilhou o processo de entrada no mercado de trabalho. “Minha ideia era ser redator publicitário e no meio da Faculdade mudei para direção de arte e comecei a trabalhar com isso por muito tempo. Na época foi uma coisa muito difícil até entender o que eu queria fazer [...] eu queria alguma coisa que tivesse marca e também audiovisual, que tivesse história sendo contada. E aí eu mudei o rumo da minha carreira”, finaliza.</p><p><em>Mayara Rocha – 5º Período</em></p></main>"
+  },
+  "date": "2024-03-27T18:16:01",
+  "date_gmt": "2024-03-27T21:16:01",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestrante trouxe um pouco do mercado de trabalho para alunos e compartilha visão sobre futuro do audiovisual para empresas A Aula Inaugural do curso de Publicidade e Propaganda contou com a presença de Marcelo Cortazio, publicitário e diretor criativo. A palestra, com tema “Narrativas de marcas: Histórias que conectam e convertem”, foi introduzida pelo professor [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16463"
+  },
+  "id": 16463,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4hx",
+  "link": "https://agenciauvabarra.com/2024/03/27/diretor-criativo-marcelo-cortazio-participa-de-aula-inaugural-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-03-28T12:45:32",
+  "modified_gmt": "2024-03-28T15:45:32",
+  "ping_status": "open",
+  "slug": "diretor-criativo-marcelo-cortazio-participa-de-aula-inaugural-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Diretor Criativo Marcelo Cortazio participa de Aula Inaugural no Campus Barra"
+  },
+  "type": "post"
+}

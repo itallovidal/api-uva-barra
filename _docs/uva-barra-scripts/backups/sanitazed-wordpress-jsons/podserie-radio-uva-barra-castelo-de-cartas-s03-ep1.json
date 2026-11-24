@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8572/revisions/8575",
+        "id": 8575
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8572"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8572",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8572/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8572"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8574"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8572",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8572",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8572",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F941157064&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Castelo de Cartas - Episódio 1 - O Colapso' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>A temporada 2021 de podcasts ficcionais da Rádio UVA Barra apresenta “Castelo de Cartas”. A podserie é uma parceria com a disciplina “Escrita criativa: narrativa”. Em “Castelo de Cartas”, o ouvinte pode esperar uma distopia tropical que se passa no Rio de Janeiro e é contada por Jorge. Ele é um homem amargurado que vive em meio ao caos enquanto tenta se reaproximar da filha, Pietra. A fim de apaziguar a solidão, ele começa a contar a história num antigo gravador de fitas.</p><p>No primeiro episódio, Jorge alimenta alguma esperança sobre os rumos sociais e políticos. Uma insurreição popular começa a tomar forma, o caos e o desespero tomam conta e Jorge precisa tomar uma decisão difícil. Qual será o próximo passo?</p><p><em>Rafaela Barbosa – 8º período</em></p></main>"
+  },
+  "date": "2021-01-25T15:28:30",
+  "date_gmt": "2021-01-25T18:28:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Castelo de Cartas · Episódio 1 &#8211; O Colapso A temporada 2021 de podcasts ficcionais da Rádio UVA Barra apresenta “Castelo de Cartas”. A podserie é uma parceria com a disciplina&nbsp; “Escrita criativa: narrativa”. Em “Castelo de Cartas”, o ouvinte pode esperar uma distopia tropical que se passa no Rio de Janeiro e é contada [&hellip;]</p>\n"
+  },
+  "featured_media": 8574,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8572"
+  },
+  "id": 8572,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/p3.1.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2eg",
+  "link": "https://agenciauvabarra.com/2021/01/25/podserie-radio-uva-barra-castelo-de-cartas-s03-ep1/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-01-25T15:28:30",
+  "modified_gmt": "2021-01-25T18:28:30",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-castelo-de-cartas-s03-ep1",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra – Castelo de Cartas – S03 EP1"
+  },
+  "type": "post"
+}

@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13743/revisions/13764",
+        "id": 13764
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13743"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13743",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 16,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13743/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13743"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13757"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13743",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13743",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    11716206,
+    10889,
+    14603,
+    798,
+    7114
+  ],
+  "class_list": [
+    "post-13743",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-economia-2",
+    "category-esporte",
+    "category-jornalismo",
+    "category-politica",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-crise",
+    "tag-dinheiro",
+    "tag-esportes",
+    "tag-futebol",
+    "tag-hamilton",
+    "tag-politica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Realização de grandes eventos, direitos de imagem de competições e compra de clubes nas principais ligas europeias de futebol. Como os países utilizam o esporte para limpar a sua imagem perante ao mundo</em></p><p>Existe um ditado popular que afirma que esporte e política não devem se misturar, entretanto, na história, temos diversos exemplos de momentos em que não só ambos se misturaram e sim um trabalhou em prol do outro.</p><p>Um dos exemplos são as olimpíadas na Grécia Antiga, durante três meses antes e três meses depois do evento, todo conflito bélico entre as cidades-estados eram paralisados, para que assim os gregos pudessem desfrutar dos cinco dias de olimpíadas. Hoje em dia, a política e o esporte seguem se cruzando, mas dessa vez com os objetivos que buscam beneficiar apenas aqueles que utilizam essa relação, praticando o SportsWashing.</p><p>O termo criado por organizações dos direitos humanos, o SportsWhashing, consiste na utilização do esporte por uma nação com o objetivo de apagar ou esconder situações em que o governo não querem sejam conhecidos pelo mundo. O termo ganhou popularidade em 2015, quando foi realizada, em junho daquele ano, a primeira edição dos Jogos Europeus, em Baku, capital do Azerbaijão. Nos meses que antecederam a realização do evento, foi lançada por ativistas dos direitos humanos, a campanha Sports for rights (esportes pelos direitos), o movimento tinha como objetivo alertar a comunidade internacional para o fato do governo azerbaijano tentar “desviar a atenção de seu histórico de violação de direitos humanos com patrocínio de prestígios e hospedagem de eventos”. Em um documento enviado pelos ativistas à jornalista concluiu : “O autoritário regime de Ilham Aliyev está usando os jogos para apresentar uma imagem de si mesmo como um progressista. Mas, na realidade, o Azerbaijão é um país onde jornalistas e ativistas dissidentes são brutalmente reprimidos, enquanto o presidente e seus comparsas se envolvem em corrupção e desfalque com impunidade”. Vale citar que o Azerbaijão foi uma das sedes da última Eurocopa, além de possuir uma corrida anual de Fórmula 1 nas ruas da capital desde 2016.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-copa-do-mundo-1.jpeg?resize=984%2C554&amp;ssl=1\" alt=\"\" width=\"984\" height=\"554\" /><figcaption>O Catar é o primeiro país no Oriente Médio e o menor em questão territorial a sediar uma Copa do Mundo. Fonte: G1</figcaption></figure><p>Mesmo que todos os esportes corram o risco de sofrerem com essa prática, o futebol acaba sendo o mais visado de todos, com o maior número de casos de SportsWhashing, a doutoranda afirma que a realização de eventos esportivos é um ramo altamente lucrativo principalmente quando se trata de futebol. “Tamanha é a internacionalidade do futebol que a FIFA é uma organização maior que a própria Organização das Nações Unidas (ONU), com um comparativo de 211 versus 193 membros. Portanto, a magnitude dessas duas dimensões do esporte (lucratividade e repercussão internacional) no sistema capitalista explica mas não necessariamente justifica a realização de eventos em países com denúncias sobre violação dos direitos humanos.” Complementou Carolina. O jornal Al Jazeera afirmou que o Qatar gastou cerca de 7 bilhões de dólares com a construção e reforma dos estádios que serão utilizados na Copa do Mundo, mas os gastos no futebol vão além dos estádios, desde 2012 a Qatar Sports Investment (QSI) fundo de investimento vinculado ao governo catariano, é dona do canal esportivo beIN, responsável pela transmissão no Oriente Médio e no Norte da África das principais ligas de futebol no mundo, o número de campeonatos é tão grande, que a Arábia Saudita acusou o Catar de monopólio e por causa disso, bloqueou os canais beIN no país em 2017 e cancelou permanentemente a emissora de operar no país em 2020, em resposta, o Catar denunciou roubo de sua propriedade intelectual por parte da Arábia Saudita por causa do apoio e promoção dos sauditas à operação de TV pirata beoutQ, que distribuía conteúdos pertencentes a beIN.</p><p>Os investimentos estão presentes também em forma de patrocínios, a Qatar Airways, companhia aérea do país, foi a principal patrocinadora de grandes clubes europeus, como por exemplo o Barcelona, Paris Saint Germain e o Bayern de Munique, além de ter sido o patrocínio master do Boca Juniors da Argentina de 2018 até 2022. Segundo o artigo “A estratégia esportiva do Qatar: um caso de diplomacia esportiva ou de SportsWhashing?” do cientista político Havard Stamnes Soyland, tanto a realização da Copa do mundo, a transmissão de diversas ligas de futebol e o patrocínio em clubes de relevância global, tinham como principal objetivo conquistar um espaço de destaque ao país no cenário internacional, entretanto, um dos objetivos é o que mais gera discussão sobre a prática ou não do SportsWhashing</p><p>Em 2011, o Paris Saint Germain foi comprado pelo QSI, e tem como presidente, o CEO do fundo de investimento, Nasser Al-Khelaifi. De acordo com Havard, a aquisição de um clube de futebol estava nos planos do governo Catariano na busca pelo destaque internacional, porém essa prática não se limita apenas ao Catar, em 2008, o Abu Dhabi United Group (ADUG) órgão de desenvolvimento e investimento dos Emirados Árabes Unidos, comprou o clube inglês Manchester City, o caso mais recente é do Newcastle United também da Inglaterra, que em 2021, foi adquirido por um grupo liderado pelo Fundo de Investimento Público da Arábia Saudita, na época em que foi noticiado o interesse dos sauditas pelo clube, a ONG Anistia Internacional alertou a Premier League, a liga inglesa de futebol, para a necessidade de rever o projeto de compra do time por um fundo de um país que é acusado de violar os direitos humanos.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-newcastle.jpeg?resize=570%2C321&amp;ssl=1\" alt=\"\" width=\"570\" height=\"321\" /><figcaption>Torcedores do Newcastle United, se reuniram aos arredores do estádio para comemorar a venda do time para o fundo de investimento saudita. Fonte: ESPN</figcaption></figure><p>A comemoração dos adeptos do clube inglês tinha um motivo: a certeza de que os investimentos do time iriam aumentar. de acordo com o jornalista, o dinheiro não é um problema em projetos de SportsWhashing. No momento em que foi comprado, o Newcastle estava na zona de rebaixamento, com o dinheiro saudita, o clube fez contratações de peso, como o volante Bruno Guimarães da seleção brasileira por 50 milhões de euros (cerca de 300 milhões de reais) e o lateral direito da seleção inglesa, Kieran Trippier por 12 milhões de libras (91,9 milhões de reais), com os reforços, o time conseguiu sair da zona de rebaixamento e garantiu a sua presença na elite do futebol inglês.</p><p>Os impactos esportivos ficam mais nítidos se analisarmos a situação do Paris Saint Germain e do Manchester City pois novos donos. Com o QSI no comando, o clube francês gastou com contratações, mais de 630 milhões de euros, com grandes jogadores na lista, como por exemplo: Neymar, Kylian Mbappe e Edinson Cavani. De 2011 até atualmente, o PSG conquistou: 8 campeonatos francês, 6 copa da França, 6 copas da liga, 8 supercopas da França além de ter chegado pela primeira vez na final da Liga dos Campeões. O Manchester City, seguiu por um caminho parecido que o PSG, antes sendo um clube de meio de tabela, atualmente ele pertence ao chamado “Big 6” grupo com os 6 principais times da Inglaterra, o time já teve a presença de grandes jogadores, como por exemplo: Sergio Aguero, David Villa e Yaya Toure, atualmente o clube tem atletas dignos da primeira prateleira do futebol mundial, como é o caso do goleiro Ederson, do meio campista Kevin de Bruyne e do atacante Erling Haaland, além de Pep Guardiola, um dos principais treinadores do mundo que comanda a equipe desde 2016. Tendo a ADUG como dona, o Manchester City já conquistou 6 títulos da Premier League e da Copa da Liga, 3 Supercopas da Inglaterra e 2 Copas da Inglaterra. Para João Catelo-Branco, essa grande grande quantidade de dinheiro injetado nos clubes, inflaciona o mercado do futebol tanto na questão da compra de jogadores como nos salários, dificultando assim para clubes menores competirem com os principais times dos países.</p><p>O jornalista mostra como identificar o Sportswashing na compra de clubes de futebol. Confira o áudio: </p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1398221473&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"O jornalista mostra como identificar o Sportswashing na compra de clubes de futebol by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen /><figcaption>O jornalista mostra como identificar o Sportswashing na compra de clubes de futebol by Agência UVA Barra</figcaption></figure><p>O fã de futebol Lucas Emanuel vai de acordo com a opinião do jornalista da ESPN sobre os problemas do mercado inflacionado, pois segundo Lucas é uma situação de quem tem mais dinheiro, leva o jogador, com isso impossibilitando os clubes com um porte financeiro menor de melhorarem os seus elencos. Para o fã, os clubes que possuem donos de países com denúncias de direitos violados podem manchar a imagem do time. “Todo clube tem uma história, tem pessoas envolvidas e torcedores que representam o clube e essas pessoas podem sentir que a história do time foi manchada por que tem alguém no comando que está quebrando os direitos humanos.” concluiu Lucas. Para o torcedor Igor Cabral, não o time mas o esporte no geral fica com a imagem manchada, “A Copa do Mundo no Catar teve diversas mortes de trabalhadores em condições precárias de trabalho, apenas para divulgar o país e receber mais turismo. Isso acaba manchando a imagem pois mostra que os esportes são movidos pelo dinheiro, não importa de quem.” complementou o torcedor. Igor que além de ser fã de futebol, ele acompanha a Fórmula 1, um dos cenários esportivos que o SportsWhashing vem crescendo, mesmo com o lema “We Race as One” (Corremos como um) que busca incentivar as diversidades e a inclusão de minorias na categoria, a Fórmula 1 tem no seu calendário para 2023, corridas confirmadas no Bahrein, Emirados Árabes Unidos, Catar, Arábia Saudita e Hungria, países com casos de leis anti LGBTQIA+ e violações dos direitos humanos, vale citar que na temporada passada, em forma de protesto a essas leis, o heptacampeão da Fórmula 1, Lewis Hamilton, correu os GPs do Catar, Arábia Saudita e Emirados Árabes Unidos com a bandeira LGBTQIA+ estampada no capacete. Para Igor, a Fórmula 1 não deveria ter corridas nesses países. “É uma situação errada, pois, uma organização que diz “We Race as One” e que defende a diversidade, não pode ter corridas em países como esses que são totalmente contra a diversidade e os direitos humanos apenas por dinheiro.” completou Igor.</figure><p>O SportsWhashing no século XX</p><p>Mesmo sendo um termo recente, é possível afirmar que existem casos de SportsWhashing praticados por governos autoritários no século passado, é o caso das Olimpiadas de 1936, realizada na Alemanha nazista. De acordo com o professor de geografia Victor Eduardo Matos da Silva o objetivo do governo alemão era de tampar a visão que o mundo tinha sobre a ditadura no país e a propagação da raça ariana que já era difundida pelos nazistas. “Aparentemente para o mundo, era um país em pelo crescimento, demonstrando força de industrialização, de organização pós Primeira Guerra Mundial de um país derrotado, ou seja, Hitler trouxe os outros países para a Alemanha para mascarar os problemas internos e propagar uma Alemanha em pleno crescimento econômico e industrial.” Concluiu o professor.</p><p>Vitor explica a diferença entre o SportsWhashing do século XX com o praticado atualmente. Confira o áudio: </p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1398224032&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Vitor explica a diferença entre o SportsWhashing do século XX com o praticado atualmente. by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen /><figcaption>Vitor explica a diferença entre o SportsWhashing do século XX com o praticado atualmente. by Agência UVA Barra</figcaption></figure><p>O século XX ficou marcado também pela Guerra Fria, um conflito ideológico entre o bloco capitalista liderado pelos Estados Unidos, e o bloco socialista, comandado pela União Soviética. Mesmo que os dois países nunca tenham se enfrentado diretamente em um campo de guerra, segundo o professor eles utilizavam o esporte para demonstrar qual bloco era o mais poderoso entre várias pautas como o desenvolvimento tecnológico, corrida armamentista e a corrida espacial. Um exemplo é as Olimpíadas de Helsinque em 1952, com o intuito de mostrar a excelência de seu governo para o mundo, a União Soviética dispensou a Vila Olímpica e planejou realizar uma ponte aérea entre a capital finlandesa e a cidade de Stalingrado, mas os soviéticos desistiram do plano, a nova solução foi erguer a própria Vila Olímpica, em uma base naval soviética em território finlandês às margens do Mar Báltico, a vila era cercada de arame farpado e espetada de postes com imensas bandeiras vermelhas e gigantescos posters de Stalin , o local abrigou outras delegações que pertenciam ao bloco socialista e contava com um quadro de medalha com somente os resultados da União Soviética e dos Estados Unidos na praça central da vila, quadro que foi removido pelos soviéticos quando perceberam que os Estados Unidos terminaria na frente.</p><p>A América do Sul também tem relatos de SportsWhashing no século XX, principalmente nas ditaduras militares que perdurou por anos nos países sul americanos. De acordo com o professor de geografia, a Copa do Mundo de 1978 realizada na Argentina ,governada pelo ditador Jorge Rafael Videla, é um dos principais exemplos, ele cita o jogo entre Argentina e Peru em que os argentinos precisavam ganhar por 6 a 0 para se classificar para a final. O regulamento daquela edição previa a realização de dois quadrangulares para definir os finalistas, o grupo da Argentina contava com a presença do Brasil, Peru da Polônia, os jogos da última rodada deveriam ser realizados no mesmo horário para evitar que alguma seleção fosse beneficiada, porém o jogo entre da Argentina foi adiado das 16:45 para as 19:15, com isso os argentinos sabiam o placar que eles precisavam alcançar para serem os finalistas, com suspeitas de que o jogo foi armado, a Argentina ganhou por 6 a 0 e avançou para a grande final, onde derrotou a Holanda por 3 a 1 conquistando o seu primeiro mundial. “Ela se consagra campeã demonstrando para o mundo um crescimento econômico, lembrando que para promover eventos como a Copa do Mundo e as Olimpíadas, o país precisa investir na infraestrutura e a seleção sendo campeã de uma Copa deixa a população feliz, sendo um verdadeiro pão e circo.</figure><p>No Brasil, os militares tentaram associar o tri Mundial conquistado em 1970, com uma suposta evolução socioeconômica no país no intuito de legitimar o regime ditatorial. o Governo ressalta o Planejamento México, um plano de treinos elaborado para a seleção antes da Copa de 70 que incluia aclimatar-se na altitude das cidades mexicanas e tinha como destaque a disciplina militar. Os militares influenciam também nos campeonatos nacionais, tendo o controle da Confederação Brasileira de Desportos, a CBD, determinando assim os times que podiam ou não participar do campeonato brasileiro. A ditadura brasileira tentou novamente associar as demais Copas do Mundo com o regime, mas com a seleção não conquistando mais nenhum título durante o período militar, a estratégia não funcionou mas é inegável que os governantes do Brasil já praticaram o SportsWhashing.</p><p><em>Vinícius Alves – 8° período *matéria produzida para a disciplina de Narrativas Multimídia, sob a supervisão do professor Anderson Barreto</em></p></main>"
+  },
+  "date": "2022-12-07T18:16:11",
+  "date_gmt": "2022-12-07T21:16:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Existe um ditado popular que afirma que esporte e política não devem se misturar, entretanto, na história, temos diversos exemplos de momentos em que não só ambos se misturaram e sim um trabalhou em prol do outro.</p>\n"
+  },
+  "featured_media": 13757,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13743"
+  },
+  "id": 13743,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/foto-hamilton.jpeg?fit=984%2C656&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3zF",
+  "link": "https://agenciauvabarra.com/2022/12/07/politica-e-esportes-uma-relacao-que-beneficia-poucos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-07T18:16:11",
+  "modified_gmt": "2022-12-07T21:16:11",
+  "ping_status": "open",
+  "slug": "politica-e-esportes-uma-relacao-que-beneficia-poucos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    389016,
+    173483,
+    15119,
+    53870,
+    81503,
+    767056595
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Política e esportes, uma relação que beneficia poucos"
+  },
+  "type": "post"
+}

@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8690/revisions/8696",
+        "id": 8696
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8690"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8690",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8690/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8690"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8695"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8690",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8690",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8690",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podcast",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Chegamos a quinta narrativa ficcional da temporada 2021 da Rádio UVA Barra. “Acredita em mim?” apresenta a história da vida de Pedro, um jovem que teve a trajetória marcada pelo abandono e fala sobre adoção e segredos do passado.</p><p>Um dos obstáculos que as produções tiveram que transpor é conseguir contar uma narrativa sonora com a mesma emoção que uma narrativa audiovisual. Para o elenco e a direção, conseguir trazer esses sentimentos em gravações que foram feitas individualmente foi um obstáculo que eles tiveram que ultrapassar. Beatriz Veloso, aluna do 3º período do curso de Publicidade e propaganda do Campus Barra, atuou como diretora de elenco. Para ela, a distância foi um grande desafio.</p><p><strong>Assista ao vídeo de Beatriz Veloso sobre como a equipe conseguiu superar esse desafio</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/GpgLz7eWSXo?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>Para os atores que participaram também não foi nada fácil. A história desenvolvida na série é permeada por drama e cenas em grupo. Para o ator Libny Marques, 23 anos, interpretar o protagonista Pedro e contracenar isolado foi uma experiência muito diferente, mas que o resultado foi “extraordinário”.</p><p><strong>Assista ao vídeo de Libny Marques sobre interpretação</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/2odBgGcurrM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>Priscila Manso estreou em podcast em “Acredita em mim?”. Formada em cinema, a atriz também desenvolve trabalhos como dubladora. Segundo ela, o grande desafio foi a falta de troca presencial com outros atores. A experiência adquirida ao longo da carreira serviu para superar esse obstáculo. “Foi a minha primeira atuação com podcast e eu adorei. Gostaria de fazer mais vezes porque é um trabalho que puxa um outro lado do ator. Me abriu outras possibilidades e me fez ver que existem outras formas de atuar”, disse.</p><p>Essa foi a quinta história da temporada 2021 de podcasts ficcionais. Na próxima semana estreia “8 lados”, que traz homofobia e liberdade para dentro de um octógono.</p><p><strong>Se você perdeu algum capítulo de “Acredita em mim?”, ouça agora:</strong></p><iframe loading=\"lazy\" width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1173030199&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\"></iframe><div style=\"font-size:10px;color:#cccccc;line-break:anywhere;word-break:normal;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-family:Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;font-weight:100;\"><a href=\"https://soundcloud.com/user-348819691\" title=\"Acredita em Mim?\" target=\"_blank\" style=\"color:#cccccc;text-decoration:none;\">Acredita em Mim?</a> · <a href=\"https://soundcloud.com/user-348819691/sets/acredita-em-mim\" title=\"Acredita em mim?\" target=\"_blank\" style=\"color:#cccccc;text-decoration:none;\">Acredita em mim?</a></div><p><em>Rafaela Barbosa – 8º período</em></p></main>"
+  },
+  "date": "2021-02-12T15:45:26",
+  "date_gmt": "2021-02-12T18:45:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Chegamos a quinta narrativa ficcional da temporada 2021 da Rádio UVA Barra. “Acredita em mim?” apresenta a história da vida de Pedro, um jovem que teve a trajetória marcada pelo abandono e fala sobre adoção e segredos do passado. Um dos obstáculos que as produções tiveram que transpor é conseguir contar uma narrativa sonora com [&hellip;]</p>\n"
+  },
+  "featured_media": 8695,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8690"
+  },
+  "id": 8690,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/02/p5.bast_.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2ga",
+  "link": "https://agenciauvabarra.com/2021/02/12/a-criacao-de-narrativa-ficcional-5/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-02-12T15:45:26",
+  "modified_gmt": "2021-02-12T18:45:26",
+  "ping_status": "open",
+  "slug": "a-criacao-de-narrativa-ficcional-5",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142,
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A criação de narrativa ficcional"
+  },
+  "type": "post"
+}

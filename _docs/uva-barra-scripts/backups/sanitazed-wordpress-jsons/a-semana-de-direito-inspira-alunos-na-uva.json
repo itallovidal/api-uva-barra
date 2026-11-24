@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18447/revisions/18458",
+        "id": 18458
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18447"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18447",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18447/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18447"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18457"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18447",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18447",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    81389,
+    858951
+  ],
+  "class_list": [
+    "post-18447",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-direito",
+    "category-eventos-internos",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O Encerramento da Semana de Direito contou com palestras sobre a evolução das famílias e direitos dos animais.</em></p><p>Na XVIII Semana de Direito — uma semana de palestras e temas diversos, apresentados por profissionais, os palestrantes do dia: Fábio Pereira, que discursa sobre a pluralidade familiar, e Mery Chalfun, que aborda a presença de animais em condomínios, com o objetivo de inspirar os alunos e promover o contato com o meio profissional abrindo espaço para pautas atuais, com o objetivo de adquirir experiência no mercado.</p><p>Aluno do primeiro período de Direito, Marcos Pormoite, comentou sobre a importância da participação dos profissionais. \"O que eu acho mais impressionante é a participação de autoridades que são inspiração para, com certeza, 100% dos alunos que estão aqui. As pessoas já conseguem se enxergar no futuro. É uma atividade que faz com que elas acreditem que vale a pena estudar e se formar, porque um dia também podem chegar lá\", informa Marcos.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-05-30-at-15.40.55.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" /><figcaption>\"Se o amor está presente na unidade familiar, você tem uma família; se não está, não constitui uma família\", declara o professor, Fábio Pereira Reis. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-05-30-at-15.45.29.jpeg?resize=2230%2C2788&amp;ssl=1\" alt=\"\" /><figcaption>\"É possível destacar o papel essencial do síndico ou representante do condomínio, que precisa estar atento tanto à convivência entre vizinhos quanto ao bem-estar dos animais envolvidos\", expressa Mery Chalfun. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-05-30-at-19.37.30.jpeg?resize=2691%2C3453&amp;ssl=1\" alt=\"\" /><figcaption>\"Durante a palestra, Sandra Ricart, participou ativamente fazendo perguntas e contribuindo para o debate sobre o tema abordado\". (Reprodução: Agência Uva Barra ).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-05-30-at-15.40.56.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" /><figcaption>\"É uma atividade que faz com que elas acreditem que vale a pena estudar e se formar\", afirma o aluno. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-05-30-at-20.04.23.jpeg?resize=1198%2C1597&amp;ssl=1\" alt=\"\" /><figcaption>\"Aproveite que é uma instituição que promove eventos\", afirma o Antônio Carlos. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-05-30-at-20.21.39.jpeg?resize=1092%2C1478&amp;ssl=1\" alt=\"\" /><figcaption>\"As pessoas não têm acesso nem ao básico, desconhecendo os próprios direitos\", informa Camila Gonçalves. (Reprodução: Agência Uva Barra).</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-05-29-at-13.17.48-2.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" /><figcaption>\"Sorniarlei Vieira Leite homenageou a participação dos os profissionais que contribuíram para a realização do evento\". (Reprodução: Agência Uva Barra).</figcaption></figure><p>Além dos temas abordados, Marcos diz que o conteúdo trazido era interessante, pois os palestrantes eram referências nas temáticas tratadas. O aluno disse ainda que, naquele ambiente, estavam imunes a fake news e a interpretações erradas, já que essas pessoas realmente representavam autoridades no assunto. Ademais, sugeriu outros tópicos para serem abordados. \"A tecnologia é o futuro, então, acredito que precisamos ter muito conteúdo que conecte o Direito à tecnologia. O Direito ainda é visto como uma função ortodoxa, marcada por muitos costumes, formalidades e livros grandes e pesados, enquanto a tecnologia representa justamente o oposto disso. Por isso, o Direito precisa se atualizar para acompanhar o formato da tecnologia, porque a tecnologia é o futuro, e o Direito precisa acompanhar esse futuro\"</p><p>Fábio Pereira, professor e coordenador do curso de Direito campus Cabo Frio, discursou sobre a pluralidade das entidades familiares. Ele afirma que há uma crise de virtude, pois as famílias estão doentes: todos pensam apenas em si mesmos. \"Uma família sem afeto não é uma família, além do companheirismo. Se o amor está presente na unidade familiar, você tem uma família; se não está, não constitui uma família\".</p><p>Ele também fala sobre a família monoparental, constituída por um genitor e seus descendentes. Essa configuração surgiu como uma necessidade de inclusão, já que a grande maioria desses casos é formada por mães solteiras, que são amparadas e recebem auxílio do Estado como, por exemplo, o benefício do Bolsa Família em valor dobrado para essas situações.</p><p>Segundo a estudante de Direito, Camila Gonçalves, o que a motivou a participar do evento foi o desejo de complementar os conhecimentos adquiridos em sala de aula. Ela menciona já ter participado de outros eventos e destaca como palestra favorita o tema de inteligência artificial. Camila ressalta a importância dessas palestras para formação como aluna: \"Acho que não só pra mim, como pra todos os estudantes, porque muitas vezes as pessoas não têm acesso nem ao básico, desconhecendo os próprios direitos\", conclui Camila</p><p>Para a professora e coordenadora do curso de Direito da UVA, campus Tijuca, Mery Chalfun, que palestrou sobre Direito dos animais em condomínios, os animais eram tratados como objetos pela lei e essa situação mudou atualmente. Hoje, eles já são vistos como seres que sentem e merecem cuidados e direitos. \"Eles [os animais] são desprovidos de linguagem verbal, e isso acaba levando o ser humano a entender que pode fazer o que quiser com eles. Mas estamos caminhando em outra direção. Começamos a formar uma nova área do Direito, na qual os animais devem ser vistos como sujeitos. Em contrapartida, no Direito Civil, os animais ainda são considerados propriedade\", explica a professora.</p><p>Além disso, Mery Chalfun destacou como a convivência com animais em ambientes residenciais, especialmente em condomínios, levanta questões jurídicas e éticas relevantes. Segundo ela, a experiência pessoal pode ajudar a ilustrar situações comuns, mas muitas vezes ignoradas. \"Conseguimos aplicar um pouco à questão da convivência familiar. Por exemplo, na minha casa temos um gatinho. No prédio onde moro, dentro do condomínio, outras pessoas têm cachorros, e isso nos faz perceber diversas situações. Surge, por exemplo, a dúvida: quem é o responsável pelo animal? É o proprietário do imóvel ou o tutor do animal? O animal é responsabilidade de quem habita a unidade? \", diz a coordenadora.</p><p>Para Sandra Ricart, estudante do 3º período de Direito, a Semana Jurídica tem um papel fundamental na formação dos alunos. \"Considero importantíssimo. Acho que precisa continuar acontecendo, porque cada profissional que vem dar palestra traz uma gama muito grande de informações para nós, estudantes. Isso é muito relevante na formação de cada um\", finaliza Sandra.</p><p>No primeiro dia da Semana de Direito, Antonio Carlos, professor do Ciclo Básico de Engenharia da UVA, acredita que a realização desse tipo de evento pela universidade contribui para que o aluno compreenda melhor a realidade do mercado de trabalho. Ele relata ter participado de vários encontros e considera fundamental a participação regular: \"Participe de todos os eventos aqui da UVA, aproveite que é uma instituição que promove eventos, uma universidade fazendo esse tipo de episódio, trazendo profissionais das respectivas áreas, tendem a direcionar o aluno para a realidade que encontrarão no mercado de trabalho\", afirma Antonio</p><p>O coordenador do curso de Direito, Sorniarlei Vieira Leite, homenageou a participação dos os profissionais que contribuíram para a realização do evento como os palestrantes de segunda (26) Danielle Fialho (Pró-reitora de graduação), de terça (27), Edson Avela (Assessor Jurídico da Caixa de Previdência do Banco do Brasil — PREVI), de quarta (28), Cláudio Fonseca (Diretor de TI da Universidade Castelo Branco), na quinta (29), Márcio Rocha (Juiz Federal da Seção Judiciária do Estado do Rio de Janeiro), além de outros profissionais que tiveram importantes participações nesta semana.</p><p>Gabriel Veras — 2°período</p><p>Julia Gabriela — 7° período</p><p></p></main>"
+  },
+  "date": "2025-06-12T17:01:28",
+  "date_gmt": "2025-06-12T20:01:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Encerramento da Semana de Direito contou com palestras sobre a evolução das famílias e direitos dos animais. Na XVIII Semana de Direito — uma semana de palestras e temas diversos, apresentados por profissionais, os palestrantes do dia: Fábio Pereira, que discursa sobre a pluralidade familiar, e Mery Chalfun, que aborda a presença de animais [&hellip;]</p>\n"
+  },
+  "featured_media": 18457,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18447"
+  },
+  "id": 18447,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/06/whatsapp-image-2025-06-12-at-17.00.35.jpeg?fit=1600%2C1200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Nx",
+  "link": "https://agenciauvabarra.com/2025/06/12/a-semana-de-direito-inspira-alunos-na-uva/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-06-12T17:01:28",
+  "modified_gmt": "2025-06-12T20:01:28",
+  "ping_status": "open",
+  "slug": "a-semana-de-direito-inspira-alunos-na-uva",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": " A semana de direito inspira alunos na uva"
+  },
+  "type": "post"
+}

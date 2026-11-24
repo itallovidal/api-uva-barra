@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/231/revisions/3362",
+        "id": 3362
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=231"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/231",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/231/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=231"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=231",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=231",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-231",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/17833931_1492348307465147_8521037127825181971_o.jpg?resize=1280%2C1280&amp;ssl=1' alt='17833931_1492348307465147_8521037127825181971_o' width='1280' height='1280' /><figcaption>Foto: Divulgação UVA</figcaption></figure><p>O mundo do jornalismo de moda, apesar de fascinante, é concorrido e exclusivo e para participar desse meio é preciso dominar algumas habilidades que podem se converter em estratégias para quem ainda está na graduação. É isso o que o minicurso de Jornalismo de Moda pretende mostrar. Marcado para acontecer no Campus Barra da Tijuca, no dia 25 de abril, das 14h às 16h, o curso ministrado pela professora Renata Feital e organizado pelo curso de jornalismo, tem a proposta de mostrar uma visão contemporânea sobre a área, além dos detalhes sobre a cobertura dos impressos e da produção de editoriais.</p><p>Aluno do curso de Jornalismo da UVA Barra, Jeferson Hentz, sempre teve curiosidade sobre o assunto de moda, porém, nunca teve oportunidade de conhecer mais sobre o mercado de trabalho e de acompanhar o cotidiano dessa área. Ciente da importância que o jornalismo de moda tem para os alunos do curso de Comunicação Social, a Professora Renata Feital, que trabalhou com moda, cobrindo desfiles e alguns eventos internacionais, decidiu apresentar o panorama para o Campus Barra. “Quero juntar minhas experiências passadas e meu conhecimento atual para dar uma visão de como funciona esse mercado para os alunos”, afirma.</p><p>O minicurso terá duração de duas horas com o objetivo de apresentar um panorama sobre o jornalismo de moda dos principais veículos impressos, como as revistas, além das blogueiras que hoje ditam as tendências.</p><p>Estudantes de moda que quiserem desenvolver um olhar jornalístico sobre sua área, são bem-vindos no minicurso, pois poderão construir um repertório maior sobre sua área de atuação.</p><p>A Professora Renata Feital destacou que o que faz um bom profissional hoje no mercado da moda é a construção de um vasto repertório, que passa, inicialmente, por uma imersão nas culturas diversas das sociedades. “Estilistas não dominam apenas os assuntos voltados para a moda ou para a economia da moda. Jornalistas, então, mais ainda, precisam conhecer vários temas e saber que tudo está interligado”, conta.</p><p>A professora destaca que moda não é feita de superficialidade ou futilidade, julgamentos equivocados de pessoas que não entendem ainda a importância do tema. “A indústria da moda é responsável por 4,1% do PIB nacional e por mais de milhões de empregos por todo o Brasil, como classificá-la de futilidade?”</p><p>Para quem é apaixonado pelo mundo crítico da moda ou se interessou e quer saber mais sobre esse cotidiano, as inscrições para o curso são feitas online e vale 3 horas A.C. É uma ótima oportunidade de aprender e descobrir todas as dicas e curiosidades com alguém que tem boas histórias para contar e ensinar.</p><p><em><strong>Giovanna Faria, 4º Período.</strong></em></p></main>"
+  },
+  "date": "2017-04-20T19:41:52",
+  "date_gmt": "2017-04-20T22:41:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O mundo do jornalismo de moda, apesar de fascinante, é concorrido e exclusivo e para participar desse meio é preciso dominar algumas habilidades que podem se converter em estratégias para quem ainda está na graduação. É isso o que o minicurso de Jornalismo de Moda pretende mostrar. Marcado para&nbsp; acontecer no Campus Barra da Tijuca, [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=231"
+  },
+  "id": 231,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3J",
+  "link": "https://agenciauvabarra.com/2017/04/20/uva-oferece-minicurso-gratuito-de-jornalismo-de-moda-em-2504/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T17:14:55",
+  "modified_gmt": "2019-02-28T20:14:55",
+  "ping_status": "open",
+  "slug": "uva-oferece-minicurso-gratuito-de-jornalismo-de-moda-em-2504",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "UVA oferece minicurso  gratuito de Jornalismo de Moda em 25/04"
+  },
+  "type": "post"
+}

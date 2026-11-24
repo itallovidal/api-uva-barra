@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5347/revisions/5350",
+        "id": 5350
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5347"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5347",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5347/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5347"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5347",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5347",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-5347",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-nasc",
+    "tag-nutricao",
+    "tag-nutricao-e-saude-emocional",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Campus Barra recebe a professora e nutricionista Giselle França</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_3846.jpg?resize=4032%2C3024&#038;ssl=1' alt='Alunas e professoras de nutrição no final do evento' width='4032' height='3024' /><figcaption>Alunas do curso de nutrição com as professoras e nutricionistas Gisele França e Cinara Oliveira – Foto: Isabella Lutz</figcaption></figure><p>O Núcleo de Alunos em Saúde Coletiva (NASC) da Universidade Veiga de Almeida campus Barra, convidou a nutricionista e professora, Giselle França da Costa, para falar sobre o tema “Nutrição e Saúde Emocional: Como os alimentos podem interferir no seu humor?”. A palestrante explicou como a comida também pode afetar a saúde mental do ser humano.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_3839.jpg?resize=513%2C384&#038;ssl=1' alt='Giselle França explica como os alimentos são importantes para a saúde emocional' width='513' height='384' /><figcaption>Giselle França explica como os alimentos são importantes para a saúde emocional – Foto: Isabella Lutz</figcaption></figure><p>A ideia de levar essa temática aos alunos surgiu devido a importância de conscientizar sobre o Setembro Amarelo e todas as discussões sobre prevenção de suicídio. A coordenadora do NASC e professora, Cinara Oliveira, conta que é necessário levar em consideração as equipes multidisciplinar, como a nutrição, quando é abordado o assunto sobre depressão. “A alimentação tem uma função coadjuvante no nosso emocional, principalmente quando se trata sobre prevenção a doença e uma boa alimentação”, relata.</p><p>Para Giselle França, é importante levar esse assunto, como um tipo de alerta, para um ambiente universitário. “Redes sociais, privação do sono, má alimentação causam ansiedade e podem ser um dos gatilhos para depressão. Hoje, isso tudo pode ser visto, principalmente, nos jovens”, diz.</p><p>A aluna do 2º período de nutrição, Júlia Maria, achou a palestra enriquecedora para seus conhecimentos profissionais e para sua rotina universitária. “Muito alimentos estão presentes na nossa alimentação, mas nós consumimos da maneira errada. Acabamos atrapalhando, sem querer, o nosso próprio organismo”, explica.</p><p><strong>Isabella Lutz | Jornalismo – 6º Período</strong></p></main>"
+  },
+  "date": "2019-09-30T16:00:36",
+  "date_gmt": "2019-09-30T19:00:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Campus Barra recebe a professora e nutricionista Giselle França O Núcleo de Alunos em Saúde Coletiva (NASC) da Universidade Veiga de Almeida campus Barra, convidou a nutricionista e professora, Giselle França da Costa, para falar sobre o tema “Nutrição e Saúde Emocional: Como os alimentos podem interferir no seu humor?”. A palestrante explicou como a [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5347"
+  },
+  "id": 5347,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1of",
+  "link": "https://agenciauvabarra.com/2019/09/30/alimentacao-e-saude-mental-sao-assuntos-da-palestra-do-nasc/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-30T10:50:52",
+  "modified_gmt": "2019-09-30T13:50:52",
+  "ping_status": "open",
+  "slug": "alimentacao-e-saude-mental-sao-assuntos-da-palestra-do-nasc",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    2844091,
+    767056604,
+    687468046,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Alimentação e saúde mental são assuntos da palestra do NASC"
+  },
+  "type": "post"
+}

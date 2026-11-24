@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1832/revisions/3202",
+        "id": 3202
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1832"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1832",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1832/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1832"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1832",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1832",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1832",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Jornalista do Globo News compartilha experiências com alunos da UVA</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/img_9261.jpg?ssl=1' alt='IMG_9261.JPG' /><figcaption>Créditos: Júlia Santos</figcaption></figure><p>A dinâmica das redações se aproxima dos iniciantes. O Encontro com os Profissionais de Jornalismo realizado pela Universidade Veiga de Almeida (UVA), campus Barra, convidou nesta última terça-feira (27/030), o produtor de reportagens especiais da GloboNews Marcelo Gomes. Durante a palestra ele conversou com os participantes sobre o papel do jornalista de hoje, e o futuro da carreira diante das novas tecnologias. O diálogo foi mediado por Elvira Macedo com o apoio da coordenadora do curso de Comunicação Social Renata Feital.</p><p>Promover ações interativas como essas aumentam o contato com o exercício do cargo. “É importante para os alunos conhecerem o Jornalismo investigativo e aproximar a universidade da prática”, declara a coordenadora, que busca incentivar os universitários a saírem da teoria. Já para a estudante do 4º período de Publicidade e Propaganda Elvira Macedo, a visita do profissional despertou outro desejo. “Eu amo o Jornalismo e aqui eu pude esclarecer várias dúvidas, além de conhecer um pouco da graduação que eu pretendo cursar no futuro”, ressalta.</p><p>Outro aluno que acompanhou a palestra e aprendeu mais sobre assuntos policiais e jurídicos foi Leonardo Assis, do 4º período de Jornalismo. Para ele, é interessante ter o conhecimento de todas as áreas da profissão. “Foi muito bom. Ele falou sobre fontes e nos incentivou a ter sempre certeza da veracidade dos fatos antes de publicar uma matéria”. O jornalista Marcelo Gomes também acredita que a troca de experiências é muito importante. “É bom ouvir exemplos do que a vida espera de nós”. E conta que foi inserido nessa área naturalmente. “Sempre quis trabalhar cobrindo política e economia, mas entrei nesse meio e me interessei”, enfatiza.</p><p>Além desse bate-papo com os alunos, o debate proporciona uma visão ampla do ramo investigativo para todos os presentes e motiva uma grande troca de informações. A orientadora acadêmica pretende oferecer novas interações durante o semestre, com o objetivo de agregar conhecimento e mostrar os outros pontos de vista que representam o Jornalismo no cotidiano. Assim, os alunos podem estar mais perto da realidade que escolheram para o futuro.</p><p>Karina Figueiredo, 4º período e Nayara Simões, 4º período.</p></main>"
+  },
+  "date": "2018-03-28T21:29:15",
+  "date_gmt": "2018-03-29T00:29:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Jornalista do Globo News compartilha experiências com alunos da UVA</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1832"
+  },
+  "id": 1832,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-ty",
+  "link": "https://agenciauvabarra.com/2018/03/28/a-profissao-no-dia-a-dia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:14:23",
+  "modified_gmt": "2019-02-26T00:14:23",
+  "ping_status": "open",
+  "slug": "a-profissao-no-dia-a-dia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A profissão no dia a dia"
+  },
+  "type": "post"
+}

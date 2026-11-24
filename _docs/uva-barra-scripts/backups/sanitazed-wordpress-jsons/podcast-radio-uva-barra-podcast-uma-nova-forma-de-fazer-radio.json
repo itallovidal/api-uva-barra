@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12768/revisions/12780",
+        "id": 12780
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12768"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12768",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12768/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12768"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12771"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12768",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12768",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-12768",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Podcast - Uma nova forma de fazer rádio \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/48z6CWn7qE3lHto0MW608p?si=174f654b749146e9&#038;utm_source=oembed\"></iframe></figure><p>Não é nenhum segredo que o podcast é um mercado em crescimento no Brasil e a tendência é que ele se torne cada vez maior. De acordo com dados coletados pela Globo, em parceria com a Kantar Ibope Media, o Brasil ocupa o 5º lugar no ranking de países que mais consomem podcasts.</p><p>No último episódio da série sobre os 100 anos da primeira transmissão radiofônica no país, o tema abordado é o papel dos podcasts como uma nova forma de fazer rádio. Para integrar a conversa sobre esse tópico: Bruna Roberta, do podcast \"1001 Crimes\", Vítor Soares, produtor do podcast \"História em Meia Hora\", e Didi Oliveira, responsável pelo \"Cafonada Podcast\".</p><p>Os especialistas Marcelo Kischinhevsky, doutor no núcleo de Rádio e TV e professor da Universidade Federal do Rio de Janeiro, e Eugênia Cabral, vice-presidente da Associação Brasileira de Podcasters, marcam presença para tirar dúvidas quanto ao tema.</p><p><em>Maria Clara Lisboa — 8º período<br>Vinícius Alves — 8º período</em></p></main>"
+  },
+  "date": "2022-09-09T18:10:09",
+  "date_gmt": "2022-09-09T21:10:09",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Não é nenhum segredo que o podcast é um mercado em crescimento no Brasil e a tendência é que ele se torne cada vez maior. De acordo com dados coletados pela Globo, em parceria com a Kantar Ibope Media, o Brasil ocupa o 5º lugar no ranking de países que mais consomem podcasts.</p>\n"
+  },
+  "featured_media": 12771,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12768"
+  },
+  "id": 12768,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/img_9003.jpg?fit=5184%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3jW",
+  "link": "https://agenciauvabarra.com/2022/09/09/podcast-radio-uva-barra-podcast-uma-nova-forma-de-fazer-radio/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-09-12T10:01:33",
+  "modified_gmt": "2022-09-12T13:01:33",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-podcast-uma-nova-forma-de-fazer-radio",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Podcast &#8211; Uma nova forma de fazer rádio"
+  },
+  "type": "post"
+}

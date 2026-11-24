@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9139/revisions/10450",
+        "id": 10450
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9139"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9139",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9139/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9139"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9141"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9139",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9139",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    1899315,
+    701438832,
+    72064
+  ],
+  "class_list": [
+    "post-9139",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-radio-uva-barra",
+    "category-saude",
+    "tag-pandemia",
+    "tag-saude",
+    "tag-saude-mental"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A prática de exercícios e o contato ainda que online com amigos e parentes ajudam a manter a qualidade de vida.</em></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Promoção da saúde e qualidade de vida em tempos de pandemia \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/2GIXIYcbbQjG53cyHGMVz7?si=e1d86352f14b4751&#038;utm_source=oembed\"></iframe></div></figure><p>A pandemia impôs uma série de restrições como forma de prevenção e aumento do contágio da covid-19. O longo período de isolamento e as incertezas na área da saúde e economia afetaram o corpo e a mente dos brasileiros. Aos poucos as atividades estão retornando com cautela.</p><p>A prática de exercícios físicos em espaços abertos está liberada, desde que não gere aglomerações e atendendo às medidas de proteção à vida. No podcast de hoje o professor de educação física da Universidade Veiga de Almeida, Álvaro Alves e a psicóloga Rebeca Carvalho participaram trazendo informações sobre promoção de saúde e qualidade de vida. O podcast também conversou com o publicitário Tiago Ismar que falou um pouco da rotina na pandemia e como passou por esse período.</p><p></p><p><em>Iago Eloi - 7º período \nSabrina Marques - 3º período</em></p></main>"
+  },
+  "date": "2021-04-28T17:17:04",
+  "date_gmt": "2021-04-28T20:17:04",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No podcast de hoje o professor de educação física da Universidade Veiga de Almeida, Álvaro Alves e a psicóloga Rebeca Carvalho participaram trazendo informações sobre promoção de saúde e qualidade de vida. </p>\n"
+  },
+  "featured_media": 9141,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9139"
+  },
+  "id": 9139,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/04/agencia-geral-post-4.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2np",
+  "link": "https://agenciauvabarra.com/2021/04/28/podcast-promocao-da-saude-e-qualidade-de-vida-em-tempos-de-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-22T18:32:09",
+  "modified_gmt": "2021-10-22T21:32:09",
+  "ping_status": "open",
+  "slug": "podcast-promocao-da-saude-e-qualidade-de-vida-em-tempos-de-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    572103,
+    767056622,
+    767056632
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast &#8211; Promoção da saúde e qualidade de vida em tempos de pandemia"
+  },
+  "type": "post"
+}

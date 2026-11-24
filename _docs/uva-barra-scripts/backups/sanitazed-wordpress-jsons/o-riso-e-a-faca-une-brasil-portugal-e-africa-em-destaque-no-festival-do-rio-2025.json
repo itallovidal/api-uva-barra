@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19377/revisions/19380",
+        "id": 19380
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19377"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19377",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19377/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19377"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19379"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19377",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19377",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-19377",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O longa-metragem O Riso e a Faca é um dos destaques do cinema internacional com forte presença brasileira. Exibido na 78ª edição do Festival de Cannes, o filme conquistou o Prêmio de Melhor Atriz para Cleo Diára, reconhecimento que reforça o impacto de sua atuação. Agora, a produção chega ao Festival do Rio 2025, que acontece entre os dias 2 e 12 de outubro, ampliando sua trajetória de sucesso.</p><p>Dirigido pelo cineasta português Pedro Pinho, o longa é uma coprodução entre Portugal, Brasil, Romênia e França, com distribuição nacional da Vitrine Filmes.</p><p>O título faz referência à canção “O Riso e a Faca”, de Tom Zé, lançada em 1970 e presente no álbum Todos os Olhos (1973). A música, que aborda a dualidade humana, inspira a estrutura narrativa do filme, refletindo as contradições vividas pelos personagens.</p><p>A trama acompanha Sérgio, um engenheiro ambiental português que viaja à África Ocidental para trabalhar em um projeto de construção de uma estrada entre o deserto e a selva. Durante sua estadia, ele se envolve com dois moradores locais, Diára, interpretada por Cleo Diára, e Gui, vivido pelo brasileiro Jonathan Guilherme. O trio se forma em meio a relações do cotidiano e tensões marcadas pelo contexto neocolonial.</p><p>Rodado entre fevereiro de 2022 e janeiro de 2024, o filme teve locações na Guiné-Bissau e no deserto da Mauritânia. A produção foi realizada em película analógica, valorizando planos longos e sequências contínuas que aproximam o público da experiência dos personagens e criam uma atmosfera quase documental.</p><p>O enredo se desenrola entre escritórios de ONGs, obras interrompidas, festas e o cotidiano urbano africano, evidenciando as contradições entre o discurso do desenvolvimento econômico e a persistente desigualdade social.</p><p>Com uma narrativa que reflete a convivência entre Europa e África, O Riso e a Faca articula temas como deslocamento, trabalho precário e afetos. A estrada em construção, elemento central da trama, funciona como metáfora das fronteiras políticas, econômicas e humanas que atravessam os personagens.</p><p>Após a exibição no Festival do Rio 2025, o filme tem lançamento comercial previsto ainda para este ano.</p><p>Carolina Alves – 4º Período</p></main>"
+  },
+  "date": "2025-10-22T12:23:05",
+  "date_gmt": "2025-10-22T15:23:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Com uma narrativa que reflete a convivência entre Europa e África, O Riso e a Faca articula temas como deslocamento, trabalho precário e afetos. </p>\n"
+  },
+  "featured_media": 19379,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19377"
+  },
+  "id": 19377,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/mv5byzizmwu3zjytytjjmy00zjfklwflowqtngqwzti5m2m4ntu3xkeyxkfqcgc40._v1_.jpg?fit=5120%2C1917&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-52x",
+  "link": "https://agenciauvabarra.com/2025/10/22/o-riso-e-a-faca-une-brasil-portugal-e-africa-em-destaque-no-festival-do-rio-2025/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-10-22T12:23:05",
+  "modified_gmt": "2025-10-22T15:23:05",
+  "ping_status": "open",
+  "slug": "o-riso-e-a-faca-une-brasil-portugal-e-africa-em-destaque-no-festival-do-rio-2025",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    17563,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "“O Riso e a Faca” une Brasil, Portugal e África em destaque no Festival do Rio 2025"
+  },
+  "type": "post"
+}

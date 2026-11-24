@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/450/revisions/3352",
+        "id": 3352
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=450"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/450",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/450/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=450"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=450",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=450",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-450",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/whatsapp-image-2017-04-25-at-13-06-27.jpeg?resize=1280%2C960&amp;ssl=1' alt='WhatsApp Image 2017-04-25 at 13.06.27' width='1280' height='960'><figcaption>Foto divulgação</figcaption></figure><p>Na semana do Dia Mundial do Livro (23/04), a Universidade Veiga de Almeida (UVA) já ganhou seu presente. Com cerca de 270m², 24 mil livros, capacidade de 200 alunos, 6 computadores, 4 cabines fechadas com monitores de TV para estudos em grupos – tudo com acessibilidade – a inauguração da Biblioteca Campus Barra reuniu professores e alunos autores de livros, editoras e graduandos para grande inauguração na última terça, no campus Barra.</p><p>Aberta desde o início do período letivo de 2017, a inauguração oficial da nova biblioteca promoveu um encontro de professores, alunos, escritores e do público em geral. Além da divulgação e incentivo às obras, a aproximação do leitor com o universo do autor garantiu uma troca de novas possibilidades em diversas áreas. \"O mercado está se reinventando e é necessário estar cada vez mais antenado. Esse evento traz a oportunidade de entrar em contato com novidades de várias profissões\", garante o autor de \"Conhecimentos Gerais de Aeronaves\" e coordenador das engenharias, Márcio Suzano.</p><p>No entanto, o evento não se absteve apenas à área técnica e acadêmica, também reuniu alunos escritores como \"Doce Veneno\", da aluna de Comunicação Social, Marianna Lopes. \"É super importante esse incentivo. Temos muita coisa boa no Brasil, muitos autores que não são conhecidos\". Assim como ela, Amanda Rangel, autora do livro \"Um Mundo que Sangra\", publicado aos 16 anos, também estava muito feliz com a chance de mostrar o trabalho. \"É uma oportunidade maravilhosa\".</p><p>Toda essa troca aconteceu de maneira muito descontraída – assim como idealizou a gestora do campus Nara Iwata. \"Queria que a inauguração transmitisse acolhimento, inclusão e diversidade. É mais uma 'reunião' entre autores e alunos para troca de conhecimentos\", explica Nara. Esses elementos estão presentes por todo o espaço físico da biblioteca: desde a cor predominantemente verde (que remete à natureza característica do campus) à sala de acessibilidade e mesas redondas para estudos. De forma simbólica, a porta automática com sensor de aproximação na entrada da biblioteca, está sempre aberta para todos que quiserem conhecer o mundo dos livros.</p><p><em><strong>Yhara Linka, 6º período / Gabriel Henrique, 2º período</strong></em></p></main>"
+  },
+  "date": "2017-04-25T14:46:28",
+  "date_gmt": "2017-04-25T17:46:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Na semana do Dia Mundial do Livro (23/04), a Universidade Veiga de Almeida (UVA) já ganhou seu presente. Com cerca de 270m², 24 mil livros, capacidade de 200 alunos, 6 computadores, 4 cabines fechadas com monitores de TV para estudos em grupos – tudo com acessibilidade – a inauguração da Biblioteca Campus Barra reuniu professores [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=450"
+  },
+  "id": 450,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-7g",
+  "link": "https://agenciauvabarra.com/2017/04/25/uva-inaugura-biblioteca-do-campus-barra-e-reune-autores-do-meio-academico-para-noite-de-autografos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T17:08:22",
+  "modified_gmt": "2019-02-28T20:08:22",
+  "ping_status": "open",
+  "slug": "uva-inaugura-biblioteca-do-campus-barra-e-reune-autores-do-meio-academico-para-noite-de-autografos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "UVA inaugura Biblioteca do campus Barra e reúne autores do meio acadêmico para noite de autógrafos"
+  },
+  "type": "post"
+}

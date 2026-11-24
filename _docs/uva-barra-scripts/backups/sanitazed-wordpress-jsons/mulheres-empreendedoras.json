@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11158/revisions/11185",
+        "id": 11185
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11158"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11158",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11158/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11158"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11240"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11158",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11158",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-11158",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Por um país mais feminino e diverso</em></p><p>De acordo com a 8ª edição do dicionário Aurélio, a palavra “empreender” significa executar uma ação trabalhosa. É comum presenciar empreendimentos em diversas áreas, seja em gastronomia, moda, cosméticos, entre outros. Por muito tempo, o homem dominava o ramo empresarial, porém, hoje, a mulher comanda e luta contra a desigualdade imposta na sociedade, como por exemplo Jéssica da Silva e Marília Mota, que representam a força das mulheres no empreendedorismo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/jessica.jpeg?resize=640%2C640&#038;ssl=1\" alt=\"Jéssica\" width=\"640\" height=\"640\"><figcaption>Jéssica pretende, futuramente, trabalhar na área de estudo e administrar a própria empresa. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/marilia.jpeg?resize=712%2C916&#038;ssl=1\" alt=\"Marília\" width=\"712\" height=\"916\"><figcaption>Marília destaca como as redes de apoio ao empreendedorismo feminino são um instrumento de transformação social. (Foto: Arquivo Pessoal)</figcaption></figure><p>É o caso de Jéssica da Silva que tem um empreendimento chamado “Gráfica JR Araújo” e recebe um retorno em média de R$1200,00 por mês, através de impressões, xérox e contratos para personalizações em eventos. O que motivou a bacharel em Administração Pública em empreender foi a vontade de trabalhar e a necessidade de ter uma renda. “Empreendedorismo não foi a minha primeira escolha. Sou formada e procurei emprego, mas meu currículo era descartado dos processos seletivos por não possuir experiência. Eu estava cansada de receber tantos ‘não’ e criei meu próprio trabalho”, revela Jéssica.</p><p>A empreendedora sempre busca por inovar e oferecer novos serviços no ramo. Jéssica faz quadros personalizados com papel cartão, recargas de celular e pagamentos de boleto também. “O meu empreendimento me mostrou a minha capacidade de me adaptar em meio as diversidades, me fortaleceu a acreditar mais ainda no meu potencial”, conta Jéssica.</p><p>Segundo a Rede Mulher Empreendedora (RME), o empreendedorismo feminino cresceu 40% em 2020. O dado é uma prévia de como o país pode avançar para o reconhecimento por direitos iguais para as mulheres no setor. Jéssica da Silva ainda percebe uma desigualdade na questão do apoio financeiro, em comparação com a classe masculina, porém cada vez mais nota-se uma conquista de espaço no mundo corporativo. “Somos tão capazes quanto os homens e o salário não deve ser conforme o gênero”, afirma a empreendedora.</p><p>Para a embaixadora da RME e mentora de Mulheres Empreendedoras no Brasil, Marília Mota, a diferença entre as mulheres e homens no ramo é perceptível, devido ao contexto histórico e cultural. A negação de ver as mulheres em posições altas se configuram no preconceito e o machismo. “A solução que vejo é o empoderamento feminino, é a mulher se posicionar e não se deixar abalar, e os homens que concordarem, apoiarem. A solução para essa questão é a educação e a quebra de crenças”, explica Marília.</p><p><strong>Marília Mota comenta sobre a importância de contribuir para o empreendedorismo feminino, no áudio abaixo.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1218373060&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\" width=\"500\" height=\"400\" title=\"Marília Mota comenta sobre o empreendedorismo feminino by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Um levantamento com 49 países da Global Enterpreneurship Monitor (GEM) mostra o Brasil como o sétimo país com o maior número de mulheres que começam um negócio. Marília destaca como a busca por autonomia se relaciona com a pesquisa acima. Apesar da desigualdade social no país, há uma resistência e uma motivação ampla de conquistar, por meio do empreendedorismo feminino. “A mulher brasileira gosta da independência, de estar perto dos filhos. A mulher empreendedora está buscando liberdade financeira e de tempo”, conclui a especialista.</p><p><strong>Ouça o<a href=\"https://soundcloud.com/lucas-souza-269205911/empreendedorismo-de-mulheres-negras-podcast-famintos-por-igualdade\"> podcast</a> sobre o Empreendedorismo de Mulheres Negras</strong> <strong>realizado pela aluna Júlia Peres</strong>.</p><p><em>Pedro Amorim – 6º período</em></p><p><em>Júlia Peres – 8º período</em></p><p><em>Matéria feita para a disciplina de Edição Multiplataforma em parceria com a Agência UVA Barra.</em></p></main>"
+  },
+  "date": "2022-02-18T15:59:18",
+  "date_gmt": "2022-02-18T18:59:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De acordo com a 8ª edição do dicionário Aurélio, a palavra “empreender” significa executar uma ação trabalhosa. É comum presenciar empreendimentos em diversas áreas, seja em gastronomia, moda, cosméticos, entre outros. Por muito tempo, o homem dominava o ramo empresarial, porém, hoje, a mulher comanda e luta contra a desigualdade imposta na sociedade, como por exemplo Jéssica da Silva e Marília Mota, que representam a força das mulheres no empreendedorismo.</p>\n"
+  },
+  "featured_media": 11240,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11158"
+  },
+  "id": 11158,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/capa-site-agencia-7.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2TY",
+  "link": "https://agenciauvabarra.com/2022/02/18/mulheres-empreendedoras/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-03-04T15:53:11",
+  "modified_gmt": "2022-03-04T18:53:11",
+  "ping_status": "open",
+  "slug": "mulheres-empreendedoras",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Mulheres Empreendedoras"
+  },
+  "type": "post"
+}

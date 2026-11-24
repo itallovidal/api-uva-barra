@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/464/revisions/10016",
+        "id": 10016
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=464"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/464",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/464/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=464"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=464",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=464",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-464",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em><strong>Talk show da rádio CBN traz o historiador Antonio Luiz Simas para contar peculiaridades do Rio</strong></em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/whatsapp-image-2017-04-26-at-11-21-171.jpeg?resize=459%2C453&amp;ssl=1' alt='WhatsApp Image 2017-04-26 at 11.21.17' width='459' height='453' /><figcaption>Apresentador Fernando Molica e o historiador Luiz Antonio Simas. Foto: Luana Souza</figcaption></figure><p>De Madureira à Botafogo; de Unidos da Vila Kennedy à Estação Primeira de Mangueira; do Candomblé ao Catolicismo; de Vasco da Gama à Olaria; da escravidão à política de branqueamento do século passado. Esses foram alguns dos caminhos usados para explicar a Cultura Popular Carioca no encontro do historiador Luiz Antonio Simas com o apresentador da rádio CBN, Fernando Molica, na tarde da última terça-feira, na livraria Travessa em Botafogo.</p><p>Com a livraria lotada, pessoas em pé fora da sala onde acontecia o evento, Luiz Antonio respondeu, sempre com bom humor, as perguntas do apresentador e do público. Especialista de profissão e apaixonado por Escola de Sambas, futebol e cultura africana no geral, Simas passou por todos esses elementos para explicar a essência cultural do Rio de Janeiro. “O Rio foi a cidade que recebeu mais escravos entre todas do Brasil. Portanto, somos uma cidade de deserdados, construída por gente que perdeu seus elos mais íntimos de comunidade. Só sobrevivemos pela malandragem de saber se reinventar por meio de novas sociabilidades”, destaca o botafoguense.</p><p>A estudante de Artes Cênicas e moradora de Botafogo, Beatriz Freitas, 19 anos, estava encantada com o Talk Show e atentou para importância de eventos como aquele para o bairro onde vive. “Trazer esses assuntos para a Zona Sul, lugar onde concentra as pessoas mais privilegiadas socialmente do Rio, é de extrema necessidade, não apenas para que as pessoas reconheçam as lutas de vários movimentos, mas também para que conheçam sua própria história, que se sintam pertencentes à essa pluralidade que é a cultura carioca”, ressalta com entusiasmo.<br>O evento faz parte do programa semanal “CBN Rio” que também coloca em pauta a Cultura Popular Carioca pela visão do historiador Luiz Antonio Simas com a apresentação do jornalista Fernando Molica. O Talk Show dessa última terça-feira vai ao ar no sábado dia 28 de abril, às 11h, em 92,5 FM, 860 AM e também em cbn.com.br e nos aplicativos da CBN para IOS, Android e Windows Phone.</p><p>Yhara Linka, 6º período.</p></main>"
+  },
+  "date": "2017-04-26T15:17:08",
+  "date_gmt": "2017-04-26T18:17:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Talk show da rádio CBN traz o historiador Antonio Luiz Simas para contar peculiaridades do Rio De Madureira à Botafogo; de Unidos da Vila Kennedy à Estação Primeira de Mangueira; do Candomblé ao Catolicismo; de Vasco da Gama à Olaria; da escravidão à política de branqueamento do século passado. Esses foram alguns dos caminhos usados [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=464"
+  },
+  "id": 464,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-7u",
+  "link": "https://agenciauvabarra.com/2017/04/26/cultura-popular-carioca-em-pauta/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T17:08:08",
+  "modified_gmt": "2019-02-28T20:08:08",
+  "ping_status": "open",
+  "slug": "cultura-popular-carioca-em-pauta",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Cultura Popular Carioca em Pauta"
+  },
+  "type": "post"
+}

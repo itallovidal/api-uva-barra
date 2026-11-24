@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3403/revisions/3407",
+        "id": 3407
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3403"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3403",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3403/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3403"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3403",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3403",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-3403",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Tema sobre agressões por desigualdade de gênero atrai alunos de diferentes cursos</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/p_20190321_103843-e1553629867739.jpg?fit=1024%2C598&amp;ssl=1' alt='' width='1024' height='598' /><figcaption></figcaption></figure><p>A Universidade Veiga de Almeida (UVA) promoveu a palestra Feminicídio em análise multidisciplinar” na semana passada, (21/03), no campus Barra. O evento foi realizado em parceria com as graduações de Jornalismo, Publicidade, Direito e Moda e trouxe diferentes perspectivas, passando pela forma como a justiça e a imprensa lidam com o tema e, também como a visão das mulheres na moda mudou ao longo dos anos.</p><p>O debate iniciou apresentando o ponto de vista legal. Segundo o professor e doutor Juarez Rezende, o fato deste crime ser classificado como feminicídio evita a falta de punição, ou que o agressor tenha uma sentença mais branda. Por isso é importante dialogar e apresentar a lei Maria da Penha para demonstrar uma mudança e avanço jurídico. “Antigamente os homens eram considerados impunes. E quando uma mulher chegava para o julgamento, os personagens no tribunal eram, em sua maioria, homens. Isso, em tese, já a vulnerabilizava”, explica.</p><p>Mudanças também no jornalismo. Os critérios de noticiabilidade passaram a ganhar novos olhares nas redações para os casos de feminicídio. Hoje, as questões estão sendo reavaliadas e absorvidas. A jornalista Lilian Ribeiro relata que ocorreu uma mudança na narrativa. “Antes os profissionais não viam esse tipo de crime como algo noticiável, era mais como se fosse uma briga de marido e mulher. Hoje, esse lado foi abandonado”, conta.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/p_20190321_101951-e1553629815303.jpg?fit=1024%2C1012&amp;ssl=1' alt='' width='1024' height='1012' /><figcaption></figcaption></figure><p>Quando alunos se juntam para debater assuntos assim, o incentivo para denunciar cresce. De acordo com a coordenadora do curso de Jornalismo Renata Feital, a partir do momento que alguma mulher se identifica com a outra, ela se sente mais forte. “É importante discutir essas questões para que as pessoas mudem as visões e, consequentemente, o comportamento”, destaca. “É uma forma, também, de empoderamento”.</p><p>Muitas mulheres ainda sofrem caladas, por medo ou vergonha. Para a aluna do primeiro período de publicidade, Juliana Pires, é difícil ver o que uma mulher passa simplesmente por buscar igualdade, mas é de extrema relevância abordar o assunto. “É algo muito necessário, nós vivemos numa sociedade machista. É  essencial trazer isso para a universidade como um todo, porque é o lugar onde estamos formando nossa identidade”, diz. Para os diferentes cursos, a discussão estimula a troca de informações e o conhecimento sobre o tema e ajuda na formação cultural do futuro profissional. </p><p></p><p><strong>Ana Beatriz Bernardo – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-03-26T16:52:06",
+  "date_gmt": "2019-03-26T19:52:06",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Tema sobre agressões por desigualdade de gênero atrai alunos de diferentes cursos A Universidade Veiga de Almeida (UVA) promoveu a palestra Feminicídio em análise multidisciplinar” na semana passada, (21/03), no campus Barra. O evento foi realizado em parceria com as graduações de Jornalismo, Publicidade, Direito e Moda e trouxe diferentes perspectivas, passando pela forma como [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3403"
+  },
+  "id": 3403,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-ST",
+  "link": "https://agenciauvabarra.com/2019/03/26/luta-contra-o-feminicidio-em-debate/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-03-26T16:52:06",
+  "modified_gmt": "2019-03-26T19:52:06",
+  "ping_status": "open",
+  "slug": "luta-contra-o-feminicidio-em-debate",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Luta contra o feminicídio em debate"
+  },
+  "type": "post"
+}

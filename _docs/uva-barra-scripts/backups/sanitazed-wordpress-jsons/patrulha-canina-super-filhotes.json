@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4405/revisions/4414",
+        "id": 4414
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4405"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4405",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4405/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4405"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4406"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4405",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4405",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-4405",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-lorena-queiroz",
+    "tag-patrulha-canina",
+    "tag-pedro-miranda"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/unnamed-1.jpg?resize=1024%2C614&amp;ssl=1' alt='' width='1024' height='614'><figcaption>Foto: Divulgação</figcaption></figure><p>Os simpáticos cachorrinhos ganham super poderes, ao presenciarem uma  estranha energia verde emanando da cratera, após um misterioso meteoro cair na Baía da Aventura. É então que  Chase, Marshall, Skye, Ryder e Rubble correm para tentar preservar o local. </p><p> O longa, que é dividido em três partes, conta com a participação de Lorena Queiroz (Carinha de Anjo) e Pedro Miranda (the voice kids), que com carisma e descontração, interagem com a plateia fazendo perguntas e introduzindo cada episódio que vai ser apresentado entre os blocos.</p><p>As três historias não tem muita ligação entre si, mas, principalmente, as duas últimas podem acabar frustrando um pouco quem for esperando que os pets utilizem os poderes durante toda a película. O que ocorre é que cada história é fechada como se fossem pequenos episódios do desenho, somente na primeira história os poderes dos cãezinhos é mostrada, isso poderia ter sido melhor elaborado pelos roteiristas, caso conseguissem amarrar todos os três contos dentro de uma única história.</p><p>A dublagem do filme é outro ponto positivo, o jeito como as vozes se encaixam com a animação consegue tornar o desenho mais divertido. Apesar disso, o longa apresenta alguns entraves em certos momentos, pois, provavelmente, o filme não foi pensado para todos os tamanhos de tela.</p><p>O longa que tem como foco o público infantil também consegue agradar os pais, com ensinamentos voltados para a importância da persistência e da amizade, é uma ótima opção para quem está procurando algo leve e descontraído para toda família.</p><p>Para quem é fã das aventuras da turminha, essa nova super história vai conquistar ainda mais esse público, quem estiver procurando algo leve e divertido para levar os filhos ao cinema ou quem sabe levar os pequenos pela primeira vez para conhecer a tela grande não vai se arrepender.</p><figure><iframe src='https://www.youtube.com/embed/LzqhiCGcW0Y?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Lucas Souza – 1º Período | Publicidade</strong></p></main>"
+  },
+  "date": "2019-06-08T10:00:20",
+  "date_gmt": "2019-06-08T13:00:20",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os simpáticos cachorrinhos ganham super poderes, ao presenciarem uma estranha energia verde emanando da cratera, após um misterioso meteoro cair na Baía da Aventura. É então que Chase, Marshall, Skye, Ryder e Rubble correm para tentar preservar o local. O longa, que é dividido em três partes, conta com a participação de Lorena Queiroz (Carinha [&hellip;]</p>\n"
+  },
+  "featured_media": 4406,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4405"
+  },
+  "id": 4405,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/unnamed-1.jpg?fit=1024%2C614&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-193",
+  "link": "https://agenciauvabarra.com/2019/06/08/patrulha-canina-super-filhotes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-06-08T14:48:25",
+  "modified_gmt": "2019-06-08T17:48:25",
+  "ping_status": "open",
+  "slug": "patrulha-canina-super-filhotes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    452545311,
+    292941269,
+    7732383
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: &#8220;Patrulha Canina &#8211; Super Filhotes&#8221;"
+  },
+  "type": "post"
+}

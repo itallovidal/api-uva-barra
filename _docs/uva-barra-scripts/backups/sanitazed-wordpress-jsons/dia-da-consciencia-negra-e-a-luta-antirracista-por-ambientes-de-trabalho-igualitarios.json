@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10779/revisions/10802",
+        "id": 10802
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10779"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10779",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10779/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10779"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10792"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10779",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10779",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    81389,
+    7114,
+    14591
+  ],
+  "class_list": [
+    "post-10779",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direito",
+    "category-sociedade",
+    "category-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Ativistas salientam sobre a desigualdade e preconceito à cor preta nas profissões como forma de reflexão no Dia da Consciência Negra</em></p><p>Muito mais que apenas uma data, o Dia da Consciência Negra simboliza força, luta e resistência. É um dia para reflexão e relembrar a história, e, principalmente, valorizar aqueles que enfrentam a injustiça que tem como alvo a cor da pele.</p><p>Para Glenda Melo, professora do Programa de Pós-graduação em Memória Social da UNIRIO, foram anos de desigualdade em que pessoas negras tiveram seus direitos negados e sofreram com a exclusão na sociedade, o que reflete na atual falta de oportunidades. \"O dia marca um momento de lutarmos pela equidade e a vida da população negra em todo o país\", acrescenta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/thumbnail_img_6300.jpg?resize=750%2C936&amp;ssl=1\" alt=\"\" width=\"750\" height=\"936\"><figcaption>Glenda Melo, professora do Programa de Pós-graduação em Memória Social da UNIRIO, fala sobre a importância do Dia da Consciência Negra. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/img_6302.jpg?resize=750%2C742&amp;ssl=1\" alt=\"\" width=\"750\" height=\"742\"><figcaption>Fatou Ndiaye, ativista e produtora de conteúdo digital, reforça a necessidade de oportunidades iguais. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/d5e90ac4-8867-4284-b5ec-d7c776b2ba08.jpg?resize=1047%2C1080&amp;ssl=1\" alt=\"\" width=\"1047\" height=\"1080\"><figcaption>Especialista na saúde da população negra, Fleury Johnson, conta do preconceito étnico-racial vivenciado na carreira como médico. (Foto: Kizi Moreira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/whatsapp-image-2021-11-16-at-7.24.54-pm.jpeg?resize=1559%2C1600&amp;ssl=1\" alt=\"\" width=\"1559\" height=\"1600\"><figcaption>Ativista, pós-graduado em Direitos Humanos e escritor de narrativas negras, Elieser Borba explica o racismo estrutural e fala que uma das maneiras de combatê-lo é através da educação. (Foto: Arquivo Pessoal)</figcaption></figure><p>Oriundo de um passado escravocrata, no qual leis discriminatórias foram estabelecidas e não houve medidas capazes de reparar a exclusão social e cultural, nasceu o racismo estrutural e com efeito, o distanciamento da população negra da ascensão social. Segundo o ativista e escritor Elieser Borba, formado em serviço social e pós-graduado em Direitos Humanos, \"racismo estrutural é o ápice do rótulo de estigma que a sociedade impõe ao povo preto\".</p><p>O racismo estrutural, em outras palavras, é a discriminação pela cor, manifestada consciente ou inconscientemente, por meio de falas, situações e costumes. No Brasil, ele é um elemento determinante sobre a ocupação da juventude negra nos espaços acadêmicos e profissionais, que resulta na falta de representatividade em determinados cargos.</p><p>Para o médico togolês Fleury Johnson, por exemplo, a desigualdade foi perceptível logo na universidade. \"Quando entrei na faculdade de medicina e vi apenas cinco pessoas negras, me chamou muito a atenção. 'Como assim nos corredores víamos muitas pessoas negras trabalhando, limpando, e dentro da sala de aula não era isso?' O Brasil passa a imagem de uma falsa democracia racial\", contextualiza o médico.</p><blockquote><p><em>As pessoas achavam muito estranho quando eu dizia que ia fazer medicina. Na verdade, as pessoas não acreditavam</em></p><cite>Fleury Johnson, médico indicado ao Prêmio Faz Diferença – O Globo.</cite></blockquote><p>Para Elieser, o combate ao racismo estrutural está totalmente associado à questão educacional. Embora atualmente existam algumas políticas afirmativas, como a cota racial e a obrigação do ensino da cultura afro-brasileira nas escolas, elas são insuficientes para enfrentar o problema e oferecer oportunidades iguais. \"Apesar de vermos pessoas pretas exercendo cargos com nível de escolaridade mais elevado, ainda é bem pouco. Isso se liga à educação e à importância de estarmos observando pessoas pretas exercendo certas atividades\", ressalta.</p><p>A desigualdade e o preconceito racial no ambiente de trabalho são evidentes para quem sente na pele. Para Fleury Johnson, os colegas de trabalho da pele branca não são confundidos com maqueiros ou qualquer outra profissão que não seja médico, por outro lado, sempre surgem dúvidas da posição que ele ocupa dentro dos consultórios. \"É um trabalho duro, sempre sou questionado e tenho que provar que sou médico. Agora quando isso ocorre, levo a pessoa à reflexão ao perguntar de volta: 'por que acha que eu não seria um médico? Só por que sou negro?'\", conclui.</p><p>Por isso, assim como na medicina, Fleury Johnson decidiu se especializar na saúde da população negra e causar o impacto de empoderar os pacientes. Em vídeo, a ativista e produtora de conteúdo digital Fatou Ndiaye, fala também da importância da reflexão acerca da representatividade e da estrutura do mercado de trabalho em outras áreas no Dia da Consciência Negra.</p><figure><iframe src=\"https://www.youtube.com/embed/ybWIwLEUklc?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"YouTube video player\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>O Dia da Consciência Negra mostra que a luta de uma das principais figuras da resistência do povo preto durante séculos, Zumbi dos Palmares, ainda não acabou. Ela apenas foi passada pela sociedade brasileira nos mais variados diversos aspectos, dentre eles, a luta pela diversidade étnico-racial nos ambientes de trabalho. \"Está na hora da gente questionar e pensar onde está a representatividade\", evidencia a ativista Fatou.</p><p>Lorhan Nascimento – 3º período</p></main>"
+  },
+  "date": "2021-11-20T11:30:06",
+  "date_gmt": "2021-11-20T14:30:06",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Muito mais que apenas uma data, o Dia da Consciência Negra simboliza força, luta e resistência. Para Glenda Melo, professora do Programa de Pós-graduação em Memória Social da UNIRIO, é um dia para refletir, relembrar a história e, principalmente, valorizar aqueles que enfrentam a injustiça que tem como alvo a cor da pele. Foram anos de desigualdade em que pessoas negras tiveram seus direitos negados e sofreram com a exclusão na sociedade, o que reflete na atual falta de oportunidades. ‘’O dia marca um momento de lutarmos pela equidade e a vida da população negra em todo o país’’, acrescenta.</p>\n"
+  },
+  "featured_media": 10792,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10779"
+  },
+  "id": 10779,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/capa-site-agencia-5.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2NR",
+  "link": "https://agenciauvabarra.com/2021/11/20/dia-da-consciencia-negra-e-a-luta-antirracista-por-ambientes-de-trabalho-igualitarios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-20T13:10:17",
+  "modified_gmt": "2021-11-20T16:10:17",
+  "ping_status": "open",
+  "slug": "dia-da-consciencia-negra-e-a-luta-antirracista-por-ambientes-de-trabalho-igualitarios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dia da Consciência Negra e a luta antirracista por ambientes de trabalho igualitários"
+  },
+  "type": "post"
+}

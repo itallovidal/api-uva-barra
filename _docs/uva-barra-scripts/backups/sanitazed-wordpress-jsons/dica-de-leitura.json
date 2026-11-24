@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/510/revisions/3349",
+        "id": 3349
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=510"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/510",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/510/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=510"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=510",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=510",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-510",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/revolucaorussa-jpg.jpg?resize=650%2C1000&amp;ssl=1' alt='RevolucaoRussa- JPG' width='650' height='1000'><figcaption><strong>Novas teses sobre o stalinismo, as guerras e a queda da URSS</strong></figcaption></figure><p><strong>Autor:</strong> Paulo Fagundes Visentini</p><p><strong>Editora:</strong> Alta Books</p><p><strong>Edição:</strong> 1ª Edição</p><p><strong>Número de páginas:</strong> 176</p><p><strong>Valor:</strong> R$ 49,90</p><p><strong>Sinopse:</strong></p><p>Cem anos após a eclosão da Revolução Soviética e vinte e cinco depois da dissolução da URSS e do fim do socialismo soviético, ainda carecemos de conhecimento básico e de análises históricas mais objetivas. Não se pode simplesmente apagar um longo período histórico, nem deixar de buscar sua compreensão.O fato de haver sido derrotada, não diminui seu enorme impacto histórico e político mundiais, que já foi julgado por muitos, mas é compreendido por poucos, em todos os seus imensos paradoxos. O século XX teve na Revolução Soviética o seu eixo aglutinador e a ela estão, direta ou indiretamente, associados os grandes eventos e contradições.Essa obra, de grande erudição história e ousadia interpretativa, tem um texto acessível e traz novas interpretações (baseadas em nova documentação), que buscam explicar os chocantes paradoxos que marcaram a Revolução Russa de 1917. Ela foi a mais impactante da história por seu alcance mundial e duração (74 anos), deixou sua marca em todo o século XX e construiu o primeiro Estado socialista, a URSS. Transformou uma imensa nação primitiva numa superpotência, marcando a política global e abrindo caminho para outros países socialistas, que em seu apogeu (1983) eram 32 nações, com um terço da população mundial. Sem dúvida, a Revolução Russa e o regime soviético foram marcados por paradoxos ainda não suficientemente analisados com isenção e objetividade um século depois. E são esses paradoxos que, mais do que explorar de forma sensacionalista, esse livro busca a analisar.</p><p><em>“A União Soviética não existe mais. Como alguns gostam de colocar: ‘É história’, ou seja, ‘Esqueçam tudo isso’. [Mas] a era soviética ainda é história recente. Assim, a URSS [mesmo] como ‘passado’ é necessária no presente pelo simples motivo de que é impossível descartar a história. E a URSS continua sendo um sistema insatisfatoriamente compreendido”.</em></p></main>"
+  },
+  "date": "2017-05-04T18:33:55",
+  "date_gmt": "2017-05-04T21:33:55",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Novas teses sobre o stalinismo, as guerras e a queda da URSS.</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=510"
+  },
+  "id": 510,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-8e",
+  "link": "https://agenciauvabarra.com/2017/05/04/dica-de-leitura/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T17:06:08",
+  "modified_gmt": "2019-02-28T20:06:08",
+  "ping_status": "open",
+  "slug": "dica-de-leitura",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Dica de leitura"
+  },
+  "type": "post"
+}

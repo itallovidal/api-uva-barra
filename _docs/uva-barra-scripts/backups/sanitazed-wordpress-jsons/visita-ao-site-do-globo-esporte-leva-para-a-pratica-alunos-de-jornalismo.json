@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/688/revisions/3343",
+        "id": 3343
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=688"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/688",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/688/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=688"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/689"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=688",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=688",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-688",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Futuros jornalistas conhecem a realidade por trás da produção de notícias de um grande veículo</h4><p>O site do Globo Esporte abriu as portas da sua redação, na última sexta-feira, para mostrar um pouco da sua rotina. Os alunos da turma de Jornalismo Esportivo, do campus Barra, puderam ver na prática todo o trabalho por trás de um grande site de notícias, conhecer as diversas etapas do processo de produção, além de se divertir em uma pequena tour pelo local.</p><p>O professor de jornalismo esportivo da Universidade Veiga de Almeida, Sidney Garambone, responsável por esta experiência, realçou a importância de manter esse contato entre os universitários e os profissionais da área. \"O aluno começa a ter uma noção do dia-a-dia e não é trabalhado apenas a teoria, só na faculdade. Você vê mesmo tudo funcionando\". O momento também foi ideal para os estudantes sanarem suas dúvidas, inclusive sobre como participar do processo seletivo para estágio.</p><p>Para Daniel Lessa, gerente de conteúdo que guiou a visita, não há forma melhor de aprendizado do que conhecer a vivência de uma redação. \"Quando um aluno vai estagiar, ele se põe em movimento e acho que isso é o mais importante. O estudante começa a aprender e a conhecer pessoas\". Ele também realçou a importância de saber o que pretende ser, já que, segundo ele, traçar um caminho em meio a tantas possibilidades que existem hoje em dia já é o primeiro passo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/img-20170515-wa0012.jpg?resize=1203%2C802&amp;ssl=1\" alt=\"IMG-20170515-WA0012.jpg\" width=\"1203\" height=\"802\" /><figcaption>Foto: Tayane Fernandes</figcaption></figure><p>Durante a visita, os alunos puderam perceber essa quantidade de áreas e funções. Daniel Lessa apresentou diversas equipes. Cada uma realizando um trabalho diferente, mas essencial para o produto final. Algumas: home social, arte e infográfica, coordenação de especiais, Cartola, futebol internacional, esporte olímpico, entre outras. A estudante Julia Ferreira, de 19 anos, conta que ficou surpresa com tantas ramificações do processo. \"Fiquei surpresa como cada área requer muitos detalhes e profissionais. Achei interessante como a maioria está ligada à outra.\"</p><p>Além de conhecer a relação entre diferentes funções, os universitários também puderam estabelecer suas próprias ligações entre suas expectativas e a realidade, entre as teorias aprendidas e a prática de um trabalho que futuramente serão eles a desempenhar. Por outro lado, não são só os alunos se sentem gratificados. A empresa também se orgulha em proporcionar estas experiências e por ajudar na descoberta profissional. \"Eu sempre tento abrir nossas portas, porque acho superimportante estar perto de vocês\", conclui Daniel Lessa.</p><p><em><strong>Nailson Ribeiro, Tayane Fernandes – 5º Período</strong></em></p></main>"
+  },
+  "date": "2017-05-15T17:04:25",
+  "date_gmt": "2017-05-15T20:04:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Futuros jornalistas conhecem a realidade por trás da produção de notícias de um grande veículo</p>\n"
+  },
+  "featured_media": 689,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=688"
+  },
+  "id": 688,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/img-20170515-wa0013.jpg?fit=1280%2C927&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-b6",
+  "link": "https://agenciauvabarra.com/2017/05/15/visita-ao-site-do-globo-esporte-leva-para-a-pratica-alunos-de-jornalismo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T17:00:04",
+  "modified_gmt": "2019-02-28T20:00:04",
+  "ping_status": "open",
+  "slug": "visita-ao-site-do-globo-esporte-leva-para-a-pratica-alunos-de-jornalismo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Visita ao site do Globo Esporte leva para a prática alunos de Jornalismo"
+  },
+  "type": "post"
+}

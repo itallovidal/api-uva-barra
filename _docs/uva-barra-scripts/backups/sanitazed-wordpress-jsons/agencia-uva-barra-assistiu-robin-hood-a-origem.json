@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2706/revisions/3011",
+        "id": 3011
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2706"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2706",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2706/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2706"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2707"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2706",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2706",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2706",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-critica",
+    "tag-eve-hewson",
+    "tag-jamie-foxx",
+    "tag-otto-bathurst",
+    "tag-robin-hood-a-origem",
+    "tag-taron-egerton",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/teaser-nacional-01-robin-hood-a-origem-697x1024.jpg?resize=697%2C1024&amp;ssl=1' alt='Foto: Divulgação' width='697' height='1024' /><figcaption>Foto: Divulgação</figcaption></figure><p>Por trás de toda lenda existe uma história contando como de fato tudo começou. É exatamente isso que <em>Robin Hood – a Origem</em> pretende narrar em quase duas horas de filme. Dirigido por Otto Bathurst (Black Mirror), o longa não alcança as expectativas e deixa a desejar em vários aspectos. Assim inicia as aventuras de um dos maiores ladrões das histórias ficcionais da Inglaterra. </p><p>Com falhas técnicas e narrativas, a obra também peca com os personagens que não têm um desenvolvimento. Robin(Taron Egerton), figura principal do filme, não tem o destaque merecido. A trajetória começa com Marian (Eve Hewson) que apresenta uma relevância muito além do esperado. Enquanto isso, Little John (Jamie Foxx) manipula Robin, já que sozinho não conseguiria completar seu plano de vingança. Por outro lado, o longa consegue trazer a imagem de um vilão bizarro e assustador com o Xerife de Nottingham (Ben Mendelsohn).</p><p>O protagonista se influencia por todos a sua volta para se tornar Robin Hood, sem de fato fazer o que desejava, já que a única coisa que importava para ele – literalmente – era Marian. Depois de ser chamado para uma missão e usar de seu caráter para mudar a vida de alguns prisioneiros, ele volta para casa e descobre que perdeu tudo aquilo que tinha, inclusive a noiva que agora caminhava ao lado de outro. Iniciando um triângulo amoroso fracassado, no qual Robin tenta o possível e o impossível para reconquistá-la. </p><p>Quando finalmente é apresentado O Robin Hood, é possível identificar características do personagem que já conhecemos de sua lenda: um ótimo combatente com arco e flecha, escondido atrás de um capuz e uma máscara roubando dinheiro dos ricos e entregando aos pobres, e mais tarde se tornando o líder de uma revolução. </p><p>Apesar de todas as tentativas do filme de trazer algum tipo de crítica social, ou de alguma forma tentar segurar a atenção do telespectador, a produção deixa a desejar. Mesmo com algumas cenas realmente de tirar o fôlego, elas são esquecidas quando é possível ver falhas visuais, principalmente entre cenas exageradas e inimagináveis de ação. Salvo pela pitada de humor em horas inesperadas, utilizando-se principalmente do sarcasmo e também por uma fotografia incrível, esbanjando uma palheta de cores que aproxima muito a uma época remota. O longa chega aos cinemas brasileiro dia 29 de novembro.</p><p><strong>Ana Carolina Soares – 6º período</strong></p></main>"
+  },
+  "date": "2018-11-21T17:16:32",
+  "date_gmt": "2018-11-21T19:16:32",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Por trás de toda lenda existe uma história contando como de fato tudo começou. É exatamente isso que Robin Hood &#8211; a Origem pretende narrar em quase duas horas de filme. Dirigido por Otto Bathurst (Black Mirror), o longa não alcança as expectativas e deixa a desejar em vários aspectos. Assim inicia as aventuras de [&hellip;]</p>\n"
+  },
+  "featured_media": 2707,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2706"
+  },
+  "id": 2706,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/teaser-nacional-01-robin-hood-a-origem-697x1024.jpg?fit=697%2C1024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-HE",
+  "link": "https://agenciauvabarra.com/2018/11/21/agencia-uva-barra-assistiu-robin-hood-a-origem/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:08:00",
+  "modified_gmt": "2019-01-31T13:08:00",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-robin-hood-a-origem",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    8714,
+    20765397,
+    43978,
+    32008504,
+    635298069,
+    58096343,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: &#8220;Robin Hood &#8211; A Origem&#8221;"
+  },
+  "type": "post"
+}

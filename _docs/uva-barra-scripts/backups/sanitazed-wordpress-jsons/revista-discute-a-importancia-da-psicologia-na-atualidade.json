@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4821/revisions/4832",
+        "id": 4832
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4821"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4821",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4821/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4821"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4824"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4821",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4821",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    72064
+  ],
+  "class_list": [
+    "post-4821",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-psicologia",
+    "tag-revista-psicologia-e-civilidade",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Campus Barra sediou o evento de lançamento</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190826_175354-e1567261758954.jpg?resize=4128%2C2673&amp;ssl=1' alt='Psicólogos que publicaram textos na revista' width='4128' height='2673' /><figcaption>Psicólogos que publicaram textos na revista – Foto: Lucas Souza</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190826_175209-e1567262232795.jpg?resize=3921%2C2564&amp;ssl=1' alt='A psicóloga ex-aluna da UVA Viviane Nóbrega e a Professora Andrea Martelotta' width='3921' height='2564' /><figcaption>A psicóloga ex-aluna da UVA Viviane Nóbrega e a Professora Andrea Martelotta – Foto: Lucas Souza</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190826_1827020-e1567261888368.jpg?resize=3467%2C2480&amp;ssl=1' alt='Psicólogo Alex Alves' width='3467' height='2480' /><figcaption>Psicólogo Alex Alves – Foto: Lucas Souza</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190826_173037-e1567262304819.jpg?resize=3573%2C2403&amp;ssl=1' alt='As psicólogas Andrea Martelotta, Viviane Nóbrega, Gisele Sant’Ana Lemos e Sylvia Skornicki no lançamento da revista “Psicologia e Civilidade”' width='3573' height='2403' /><figcaption>As psicólogas Andrea Martelotta, Viviane Nóbrega, Gisele Sant’Ana Lemos e Sylvia Skornicki no lançamento da revista “Psicologia e Civilidade” – Foto: Lucas Souza</figcaption></figure><p>A psique humana é destaque da primeira edição da revista “Psicologia e Civilidade”. O evento reuniu na terça-feira, (26/08), no campus Barra, da Universidade Veiga de Almeida, profissionais, amigos e alunos para o lançamento. O trabalho é um novo espaço para debater e informar sobre a psicologia.</p><p>Os textos trazem diferentes olhares sobre temas contemporâneos, como as relações imediatistas. A reflexão foi escrita pela professora e psicóloga Andrea Martelotta e apresenta as mazelas desse tipo de relação vivida, principalmente, nas redes sociais. A professora também destaca a importância do campus Barra abrir um espaço para receber este lançamento e dar ciência desse trabalho. “Os alunos participantes estão sendo convidados a pensar nas emoções, nas angústias e nos medos”, afirma Martelotta.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190826_182226.jpg?resize=526%2C394&amp;ssl=1' alt='Psicóloga e Professora Andrea Martelotta' width='526' height='394' /><figcaption>Psicóloga e Professora Andrea Martelotta – Foto: Lucas Souza</figcaption></figure><p>A egressa do curso de psicologia da UVA, Viviane Nóbrega, é um dos destaques da revista e ainda ganhou a capa. A psicóloga destaca as dificuldades que muitas pessoas ainda possuem em pedir ajudar para os problemas da psique. “A nossa intenção de trabalho é promover uma saúde mental voltada para a prevenção em escolas e empresas e não esperar chegar no limite”, afirma Viviane.</p><p>Encontros como este, ajudam na discussão de transtornos atuais e que estão cotidianamente nos atendimentos e estabelecem novos rumos da profissão. “Esses encontros têm que acontecer com mais veemência e em um tempo mais curtos para podermos preparar as futuras gerações de psicólogos”, afirma, o também psicólogo, Alex Alves.</p><p><strong>Lucas Souza – 2° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-08-31T11:40:47",
+  "date_gmt": "2019-08-31T14:40:47",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Campus Barra sediou o evento de lançamento&nbsp; A&nbsp;psique humana&nbsp;é destaque da primeira edição da&nbsp;revista “Psicologia e Civilidade”.&nbsp;&nbsp;O evento reuniu na terça-feira, (26/08), no campus Barra, da Universidade Veiga de Almeida,&nbsp;profissionais,&nbsp;amigos&nbsp;e alunos&nbsp;para o lançamento. O trabalho&nbsp;é um novo espaço para&nbsp;debater e informar&nbsp;sobre&nbsp;a psicologia.&nbsp;&nbsp; Os textos trazem diferentes olhares sobre temas&nbsp;contemporâneos, como as relações imediatistas.&nbsp;A reflexão foi [&hellip;]</p>\n"
+  },
+  "featured_media": 4824,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4821"
+  },
+  "id": 4821,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/20190826_173037-e1567262304819.jpg?fit=3573%2C2403&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1fL",
+  "link": "https://agenciauvabarra.com/2019/08/31/revista-discute-a-importancia-da-psicologia-na-atualidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-31T11:53:11",
+  "modified_gmt": "2019-08-31T14:53:11",
+  "ping_status": "open",
+  "slug": "revista-discute-a-importancia-da-psicologia-na-atualidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056608,
+    685809937,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Revista discute a importância da psicologia na atualidade"
+  },
+  "type": "post"
+}

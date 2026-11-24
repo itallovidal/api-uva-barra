@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1801/revisions/3149",
+        "id": 3149
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1801"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1801",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1801/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1801"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1801",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1801",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-1801",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Público lota 1° Feira Nacional do Podrão, na Tijuca</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/img_1521489239742.jpg?resize=960%2C720&amp;ssl=1' alt='IMG_1521489239742' width='960' height='720' /><figcaption>Foto: Lucas Motta</figcaption></figure><p>Figura já conhecida da noite carioca, o “podrão” – aquele lanche de rua, normalmente farto e barato – ganha um espaço dedicado a ele. No último fim de semana, ocorreu a 1° Feira Nacional do Podrão, que reuniu barraquinhas de comida dos mais variados bairros da cidade. Mesmo sob o forte calor, o público compareceu e fez extensas filas na calçada da Rua Morais e Silva, na Tijuca, para tentar experimentar ao máximo.</p><p>A ideia de criar um festival dedicado a esse estilo, pouco lembrado da gastronomia, iniciou com as amigas Natália Alves e Suzana Malta. Juntas, elas mantêm o blog “O que fazer no Rio”, que por sua vez tem uma ramificação chamada “Onde comer no Rio”. Lá, descrevem experiências próprias, que vivem pela cidade, desde turismo a bares e restaurantes dos mais diferentes gostos.</p><p>Essa mesma diversificação foi lembrada durante a organização do evento. O público pôde se deliciar com a Batata Frita Carioca, de Marechal Hermes; o Pastel do Alê, de Madureira; o açaí do M.M Sabores, de Rocha Miranda, além de muitos outros. De acordo com Natália Alves, mesmo com o “boom” de uma alimentação considerada gourmet, o carioca não abandonou a clássica comida de rua. “A ideia partiu da necessidade que o povo tem de preços mais acessíveis”, explica.</p><p>Os baixos valores das comidas, de fato, acabaram por atrair o público. A página da feira nas redes sociais chegou a contar com 65 mil interessados, o que, por consequência, lotou espaço poucas horas após o início. Natália reconhece os problemas, mas alega que a prefeitura não tinha tempo hábil para mudar o local. “Não fizemos muita propaganda. As mídias que procuraram a gente ao ver a proporção do evento”. Diante do sucesso dessa primeira edição, ela já planeja uma segunda a ser realizada ainda esse ano. “Talvez no terreirão do samba ou até no Maracanã”, brinca.</p><p><strong>Lucas Motta, 6º período</strong></p></main>"
+  },
+  "date": "2018-03-20T16:16:28",
+  "date_gmt": "2018-03-20T19:16:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Público lota 1° Feira Nacional do Podrão, na Tijuca Figura já conhecida da noite carioca, o “podrão” – aquele lanche de rua, normalmente farto e barato – ganha um espaço dedicado a ele. No último fim de semana, ocorreu a 1° Feira Nacional do Podrão, que reuniu barraquinhas de comida dos mais variados bairros da [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1801"
+  },
+  "id": 1801,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-t3",
+  "link": "https://agenciauvabarra.com/2018/03/20/das-ruas-para-os-holofotes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:24:05",
+  "modified_gmt": "2019-01-31T15:24:05",
+  "ping_status": "open",
+  "slug": "das-ruas-para-os-holofotes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Das ruas para os holofotes"
+  },
+  "type": "post"
+}

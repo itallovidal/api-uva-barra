@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6765/revisions/6801",
+        "id": 6801
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6765"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6765",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6765/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6765"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6787"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6765",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6765",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6765",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Conversa teve foco nas mudanças proporcionadas pelo isolamento</em></p><p>A Associação Brasileira de Ensino de Arquitetura e Urbanismo (ABEA) realizou na última terça feira (19) a <em>live</em> “Emergências e Pendências no Ensino de Arquitetura e Urbanismo durante a Pandemia”. O debate aconteceu no Youtube e contou com a presença de profissionais e professores da área, além da diretora do Campus Barra, da Universidade Veiga de Almeida, Nara Iwata.</p><p>Mediado pelo professor Carlos Murdoch, o Webinar ouviu os representantes dos envolvidos no processo de ensino de Arquitetura e Urbanismo no Brasil. Além de Nara, representante das instituições de ensino privadas, falaram: Carlos Eduardo Nunes-Ferreira, professor da UVA e Vice-presidente da ABEA, representando os docentes; Fábio Muller, coordenador do curso de Arquitetura e Urbanismo da Universidade Federal de Santa Maria, representante das instituições públicas de ensino; e Ananda Henklain, Diretora de Ensino, Pesquisa e Extensão da Federação Nacional de Estudantes de Arquitetura e Urbanismo (FeNEA), representante dos estudantes.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/debate_abea.png?resize=1024%2C768&#038;ssl=1\" alt=\"\" width=\"1024\" height=\"768\"><figcaption>Durante aproximadamente 2h, os participantes relataram desafios como o ensino para Pessoa com Necessidade Especial (PNE) e o acesso à internet – Foto: Reprodução da internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/nara.png?resize=649%2C374&#038;ssl=1\" alt=\"\" width=\"649\" height=\"374\"><figcaption>Nara Iwata representou as instituições privadas e explicou as medidas tomadas – Foto: Reprodução da internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-20-at-15.45.36-e1590004377139.jpeg?resize=1277%2C930&#038;ssl=1\" alt=\"\" width=\"1277\" height=\"930\"><figcaption>Carlos Eduardo representou os professores e as adaptações no dia a dia – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/ananda.png?resize=645%2C370&#038;ssl=1\" alt=\"\" width=\"645\" height=\"370\"><figcaption>Anada Henklain representou a FeNEA e os interesses dos estudantes – Foto: Reprodução da internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/fabio-1.png?resize=641%2C365&#038;ssl=1\" alt=\"\" width=\"641\" height=\"365\"><figcaption>Fábio Mello representou as instituições públicas de ensino – Foto: Reprodução da internet</figcaption></figure><p>A discussão teve foco nas adaptações necessárias para o ensino remoto durante a pandemia do coronavirus. Ananda Henklain, defendeu que alguns estudantes de Arquitetura e Urbanismo são contrários à virtualização, uma vez que a atitude possa soar discriminatória. “A gente tem visto muitas reclamações dos estudantes. É uma mudança muito brusca e, apesar da arquitetura ser uma área tecnológica, é preciso ter calma para não excluir acadêmicos que não tem as condições mínimas para isso”.</p><p>A diversidade de condições dos alunos foi a principal preocupação na hora da mudança no modelo de ensino da Universidade Veiga de Almeida (UVA). Entender as realidades discentes foi uma tarefa apontada pela diretora do campus Barra.</p><p>Veja o depoimento da diretora Nara Iwata:</p><figure><iframe src=\"https://www.youtube.com/embed/NzAILzBChLo?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p>Para o professor Carlos Eduardo Nunes-Ferreira, a virtualização foi necessária, mas é necessário entender que algumas matérias práticas precisam da vivência no campo. Segundo ele, existem elementos das aulas presenciais que são insubstituíveis. Ele conta que estava prestes a iniciar um projeto com alunos e professores em Madureira, mas que por conta da pandemia esse projeto passou a ser virtual. “A gente não consegue trabalhar plenamente um terreno de forma virtual. Com a tecnologia e os dados a gente consegue parametrizar, mas é preciso estar no local também”, finaliza.</p><p><strong>Pedro José Alves – 7º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2020-05-20T17:12:37",
+  "date_gmt": "2020-05-20T20:12:37",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Conversa teve foco nas mudanças proporcionadas pelo isolamento A Associação Brasileira de Ensino de Arquitetura e Urbanismo (ABEA) realizou na última terça feira (19) a live “Emergências e Pendências no Ensino de Arquitetura e Urbanismo durante a Pandemia”. O debate aconteceu no Youtube e contou com a presença de profissionais e professores da área, além [&hellip;]</p>\n"
+  },
+  "featured_media": 6787,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6765"
+  },
+  "id": 6765,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/debate_abea-1.png?fit=1024%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1L7",
+  "link": "https://agenciauvabarra.com/2020/05/20/live-discute-o-ensino-de-arquitetura-e-urbanismo-durante-a-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-20T17:46:59",
+  "modified_gmt": "2020-05-20T20:46:59",
+  "ping_status": "open",
+  "slug": "live-discute-o-ensino-de-arquitetura-e-urbanismo-durante-a-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Live discute o ensino de Arquitetura e Urbanismo durante a pandemia"
+  },
+  "type": "post"
+}

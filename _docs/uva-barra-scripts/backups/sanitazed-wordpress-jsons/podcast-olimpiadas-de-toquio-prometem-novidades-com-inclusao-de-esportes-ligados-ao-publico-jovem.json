@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9818/revisions/9822",
+        "id": 9822
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9818"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9818",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9818/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9818"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9821"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9818",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9818",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    701438832
+  ],
+  "class_list": [
+    "post-9818",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-esporte",
+    "category-radio-uva-barra",
+    "tag-olimpiadas-de-toquio-2020"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://open.spotify.com/embed/episode/0l7lPSbEsEEaMZuH5sq3wR?si=c172a79602d54777&#038;utm_source=oembed' alt='Spotify Embed: Olimpíadas de Tóquio prometem novidades com inclusão de esportes ligados ao público jovem ' width='100%' height='152' title='Spotify Embed: Olimpíadas de Tóquio prometem novidades com inclusão de esportes ligados ao público jovem ' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen><figcaption>Spotify Embed: Olimpíadas de Tóquio prometem novidades com inclusão de esportes ligados ao público jovem </figcaption></figure><p>A pandemia do Coronavírus afetou diversos setores da sociedade, inclusive o esporte. Um dos principais torneios globais, as Olimpíadas, previstas inicialmente para 2020, precisaram ser adiadas para 2021. Apesar disso, o Comitê Olímpico Internacional (COI) já havia anunciado, em 2016, a inclusão de cinco novas modalidades. Escalada esportiva, surfe, skate, karatê e beisebol são as estreantes das Olímpiadas em Tóquio. </p><p>O objetivo da inclusão é rejuvenescer o público que acompanha as Olimpíadas. Para entender o tema e explicar as razões da estreia dos novos esportes, os apresentadores João Henrique Reis e José Paulo Sobral conversaram com Tiago Brant, Mestre em Ciências da Atividade Física,  e com Guilherme Costa, Jornalista da TV Globo e Especialista em Esportes Olímpicos. Além disso, Valter França, Analista de Comunicação e Assessor de Imprensa do Comitê Olímpico do Brasil (COB), comenta as expectativas das chances de medalhas brasileiras na capital japonesa. Segundo Guilherme Costa, o objetivo da inclusão é rejuvenescer o público que acompanha as Olimpíadas. </p><p></p><p><em>Produção: Bruno Sadock, Gabriel Pitella, João Henrique Reis, José Paulo Sobral, Luiz Carlos, Victor Alves Pedro Lessa</em></p></main>"
+  },
+  "date": "2021-07-16T19:27:23",
+  "date_gmt": "2021-07-16T22:27:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A pandemia do Coronavírus afetou diversos setores da sociedade, inclusive o esporte. Um dos principais torneios globais, as Olimpíadas, previstas inicialmente para 2020, precisaram ser adiadas para 2021. Apesar disso, o Comitê Olímpico Internacional (COI) já havia anunciado, em 2016, a inclusão de cinco novas modalidades. Escalada esportiva, surfe, skate, karatê e beisebol são as estreantes das Olímpiadas em Tóquio. </p>\n"
+  },
+  "featured_media": 9821,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9818"
+  },
+  "id": 9818,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/capa-site-agencia-11.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2ym",
+  "link": "https://agenciauvabarra.com/2021/07/16/podcast-olimpiadas-de-toquio-prometem-novidades-com-inclusao-de-esportes-ligados-ao-publico-jovem/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-16T19:27:23",
+  "modified_gmt": "2021-07-16T22:27:23",
+  "ping_status": "open",
+  "slug": "podcast-olimpiadas-de-toquio-prometem-novidades-com-inclusao-de-esportes-ligados-ao-publico-jovem",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    250903640
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: Olimpíadas de Tóquio prometem novidades com inclusão de esportes ligados ao público jovem"
+  },
+  "type": "post"
+}

@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2203/revisions/3069",
+        "id": 3069
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2203"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2203",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2203/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2203"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2204"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2203",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2203",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-2203",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-literatura",
+    "tag-literatura"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>FML Pepper lança o livro “Máscaras” em livraria do Rio de Janeiro</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-01-at-16-32-10.jpeg?resize=1280%2C959&amp;ssl=1\" alt=\"WhatsApp Image 2018-09-01 at 16.32.10\" width=\"1280\" height=\"959\" /><figcaption>Foto: Nayara Simões</figcaption></figure><p>Criatividade, romance e inovação ganham destaque no mercado literário brasileiro. A autora Fátima Pimentel, conhecida como FML Pepper, lançou, na tarde do último sábado (01/09), o livro “Máscaras”, que faz parte da trilogia “Não pare!”. O evento ocorreu na livraria Leitura do Shopping Nova América, na Zona Norte do Rio de Janeiro, e contou com a presença de fãs, tarde de autógrafos, fotos e bate-papo.</p><p>Essa proximidade com a escritora levou alguns admiradores a enfrentarem uma fila. Um exemplo disso é a estudante Renata Lourenço, de 20 anos, que estava ansiosa para o encontro. “Ela é minha autora preferida e é incrível como pessoa, o que faz minha admiração crescer bastante”. A fã também conta que se identificou com a narrativa e espera que com o livro “Máscaras” possa ter uma outra visão das histórias que já leu.</p><p>Este novo livro não é uma continuação da trilogia. Segundo a escritora, os anteriores: <em>não pare!, não olhe! e não fuja!, </em>foram objetivos, o que trouxe a necessidade de respostas para os quebra-cabeças e dúvidas sobre os acontecimentos. “Eu recebia diversos e-mails com questionamentos sobre algumas atitudes, então escrevi “Máscaras”. A autora também conta que inicialmente, queria dividir sonhos com o público e sua inspiração para a escrita veio do livro “A menina que roubava livros”, de Markus Zusak, o que trouxe um interesse de retratar a morte como personagem das histórias.</p><p>Esse tipo de abordagem não é comum no cenário brasileiro de literatura, uma novidade no mercado editorial para os amantes de livros românticos. A organizadora do evento e fã de Pepper, Danielle Casquet, conta estar muito ansiosa para conhecer as histórias de “Máscaras”. “Eu li a trilogia e é maravilhosa. Espero que vire filme e que ela tenha o maior sucesso do mundo”.</p><p>Para a escritora, dentista e mãe, toda essa admiração e carinho é um presente. “Quando eu iniciei na literatura, imaginei que seria apenas um <em>hobbie. </em>Nunca pensei que se tornaria algo grande”. Pepper atendeu a todos com alegria e falou com convicção sobre o que deseja para os que estavam presentes e a acompanham de perto. “Espero que os sonhos de cada um dos meus fãs possa se realizar, pois o meu está sendo realizado aqui”, afirma a autora.</p><p><strong>Nayara Simões – 5º período</strong></p></main>"
+  },
+  "date": "2018-09-04T15:27:31",
+  "date_gmt": "2018-09-04T18:27:31",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>FML Pepper lança o livro “Máscaras” em livraria do Rio de Janeiro Criatividade, romance e inovação ganham destaque no mercado literário brasileiro. A autora Fátima Pimentel, conhecida como FML Pepper, lançou, na tarde do último sábado (01/09), o livro “Máscaras”, que faz parte da trilogia “Não pare!”. O evento ocorreu na livraria Leitura do Shopping [&hellip;]</p>\n"
+  },
+  "featured_media": 2204,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2203"
+  },
+  "id": 2203,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-01-at-16-32-10.jpeg?fit=1280%2C959&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-zx",
+  "link": "https://agenciauvabarra.com/2018/09/04/a-arte-de-dividir-sonhos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:21:59",
+  "modified_gmt": "2019-01-31T14:21:59",
+  "ping_status": "open",
+  "slug": "a-arte-de-dividir-sonhos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056603
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A arte de dividir sonhos"
+  },
+  "type": "post"
+}

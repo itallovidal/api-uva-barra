@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19034/revisions/19039",
+        "id": 19039
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19034"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19034",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19034/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19034"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19038"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19034",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19034",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    23208,
+    670411728,
+    14603,
+    713047979,
+    39479,
+    701438832,
+    758
+  ],
+  "class_list": [
+    "post-19034",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-entretenimento",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-podseries",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-podserie",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A Geração Z está mudando a cara do mercado de trabalho. Nascidos em um mundo digitalizado, esses jovens priorizam a autonomia, o propósito e a flexibilidade, muitas vezes acima da tradicional carteira assinada. Para muitos jovens, o trabalho autônomo é uma resposta direta ao desejo de ter mais controle sobre o tempo, os objetivos pessoais e a identidade profissional.</p><p>No entanto, essa autonomia vem acompanhada de desafios. Iasmin Pereira relatou durante o episódio que a localização do bairro em que vive dificulta o acesso a algumas oportunidades de trabalho. Além disso, a ausência de um salário fixo é uma fonte constante de preocupação, especialmente para quem tem contas mensais para pagar.</p><p>A entrada da Geração Z no mercado autônomo está mudando não só as estatísticas, mas os conceitos de sucesso. Muitos desses jovens estão desconstruindo a ideia de estabilidade atrelada ao emprego formal e construindo novas formas de carreira baseadas em propósito, identidade e flexibilidade. Nesse episódio do podcast, entendemos como a Geração Z tem entrado no mercado de trabalho com a persistência de fazer acontecer.</p><figure><img src='https://open.spotify.com/embed/episode/03OsycRPT1lYaScOYmGaAd/video?si=T49e8LvbRvWhr9zTGyR87w&#038;utm_source=oembed' alt='Embed do Spotify' width='624' height='351'><figcaption>Spotify Embed: Lugar de Fala #07 - A presença crescente da geração Z no mercado autônomo e sua persistência em fazer acontecer.</figcaption></figure><p>Equipe Lugar de Fala: </p><p>Leonardo Alves</p><p>Maicon Araújo </p><p>Pedro Fernandes</p><p></p><p>Equipe Agência UVA Barra: </p><p>Duda Nicolich – 2º Período </p><p>Carolina Alves – 4º Período </p></main>"
+  },
+  "date": "2025-09-11T15:19:44",
+  "date_gmt": "2025-09-11T18:19:44",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A entrada da Geração Z no mercado autônomo está mudando não só as estatísticas, mas os conceitos de sucesso</p>\n"
+  },
+  "featured_media": 19038,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19034"
+  },
+  "id": 19034,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-11-at-15.19.00.jpeg?fit=1080%2C1350&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4X0",
+  "link": "https://agenciauvabarra.com/2025/09/11/podcast-radio-uva-barra-lugar-de-fala-a-presenca-crescente-da-geracao-z-no-mercado-autonomo-e-sua-persistencia-em-fazer-acontecer/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-11T16:47:16",
+  "modified_gmt": "2025-09-11T19:47:16",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-lugar-de-fala-a-presenca-crescente-da-geracao-z-no-mercado-autonomo-e-sua-persistencia-em-fazer-acontecer",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    712276378,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "PodCast Rádio UVA Barra: Lugar de Fala: A presença crescente da geração Z no mercado autônomo e sua persistência em  fazer acontecer"
+  },
+  "type": "post"
+}

@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2314/revisions/2427",
+        "id": 2427
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2314"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2314",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2314/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2314"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2322"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2314",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2314",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2314",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-rio-info"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Rio Info promove debate sobre diversidade no mercado e na tecnologia</em></h4><p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-26-at-12-11-21.jpeg?resize=1040%2C780&amp;ssl=1' alt='WhatsApp Image 2018-09-26 at 12.11.21' width='1040' height='780' /><figcaption>Mesa redonda sobre diversidade no TI. Créditos: Ana Beatriz Bernardo</figcaption></figure></p><p style=\"text-align:justify;\">Na década de 90, o mercado de trabalho sofreu inúmeras alterações, como produção segmentada e as mulheres começaram a obter espaço. Hoje, o gênero feminino atua em diversas áreas, como tecnologia. Entretanto, apesar desse avanço, o preconceito ainda reside e abre as portas para outros problemas, como rotulação e assédio. Com isso, o evento Rio Info abriu as portas nesta segunda-feira (24/09), para discutir este tema, no Centro de Convenções SulAmérica.</p><p style=\"text-align:justify;\">Além deste tema, questões como processo de inclusão; acessibilidade; benefícios sociais e econômicos; intolerância e diversidade na tecnologia de informação, movimentaram a mesa redonda que começou às 9 horas. A convidada e analista Karen Pacheco acredita que as mulheres precisam provar o tempo inteiro que são capazes em qualquer ambiente. “Nós temos que fazer mais, sempre, principalmente na área de tecnologia. Às vezes o dobro do trabalho do homem, para verem que podemos”, conta.</p><p style=\"text-align:justify;\">Além disso, o machismo e a opressão dentro de uma empresa inibem as funcionárias na hora de trabalhar e interagir com os colegas, gerando até casos de abuso, tanto sexual quanto verbal. “Não podemos ser simpática, não podemos fazer nenhuma brincadeira, se não eles encaram como abertura para dar em cima”, expõe Karen. A representatividade dessas mulheres, que ocupam grandes cargos impulsiona outras a lutarem pelo seu lugar,</p><p style=\"text-align:justify;\">Entretanto, a dificuldade de acesso às carreiras também se torna um obstáculo para todos. Para o fundador da comunidade Empodera, Leizer Pereira, isso começa na educação. “Nem todo mundo tem suporte financeiro. As escolas estão em situação precária e muitas vezes o apoio não vem nem dentro de casa”, explica.</p><p style=\"text-align:justify;\">Somado à essas questões, o racismo também se torna presente. Outro problema que homens e mulheres enfrentam diariamente no trabalho.( Pode ser: A questão do preconceito racial que negros e negros passam se tornam constantes e diários, mesmo no século XXI). O gestor da Firjan, Josivan Sabino, diz que a intolerância está enraizada na sociedade. “Eu não conseguia ascender profissionalmente por sofrer preconceito”, conta.</p><p style=\"text-align:justify;\">Dentro do tema discutido nas demais palestras do evento da parte de tecnologia há uma quantidade muito limitada de mulheres, negros e estrangeiros. As barreiras impostas pela sociedade precisam ser quebradas para que as empresas, privadas e públicas, possam cada vez mais abrir espaço para esses profissionais. Afinal, para formar uma carreira não é questão de gênero ou cor de pele, e sim de capacidade.</p><p><strong>Ana Beatriz Bernardo – 6° período</strong></p></main>"
+  },
+  "date": "2018-09-26T12:16:05",
+  "date_gmt": "2018-09-26T15:16:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Rio Info promove debate sobre diversidade no mercado e na tecnologia</p>\n"
+  },
+  "featured_media": 2322,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2314"
+  },
+  "id": 2314,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/img-20180926-wa0016.jpg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Bk",
+  "link": "https://agenciauvabarra.com/2018/09/26/variedade-e-inovacao-no-trabalho/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-10-04T09:25:27",
+  "modified_gmt": "2018-10-04T12:25:27",
+  "ping_status": "open",
+  "slug": "variedade-e-inovacao-no-trabalho",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    22711148
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Variedade e Inovação no trabalho"
+  },
+  "type": "post"
+}

@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13611/revisions/13616",
+        "id": 13616
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13611"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13611",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13611/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13611"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13614"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13611",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13611",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    72063,
+    701438832,
+    72064,
+    268277
+  ],
+  "class_list": [
+    "post-13611",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-enfermagem",
+    "category-radio-uva-barra",
+    "category-saude",
+    "category-solidariedade",
+    "tag-agencia-uva-barra",
+    "tag-dianacional",
+    "tag-doador",
+    "tag-podcast",
+    "tag-radio-uva-barra",
+    "tag-saude",
+    "tag-sangue"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Dia Nacional do Doador de Sangue\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/1AnWEuJ3AkaFLaWrpRTE2Q?si=b_OxCoEgQ5yXa6YTRLDYPA&#038;utm_source=oembed\"></iframe></div></figure><p>Dia 25 de Novembro, também conhecido como o Dia Nacional do Doador de Sangue, uma data muito importante para lembrar da necessidade em ajudar a salvar vidas.</p><p>a data foi criada em 2004 pelo Ministério da saúde, no intuito de sensibilizar o público e tentar influenciar mais pessoas a serem voluntárias.</p><p>Para nos ajudar a entender, participam do podcast a hemologista Adriana Scheliga, a assistente social do hemocentro do Rio Grande do Sul, Gesiane Ferreira e Bernardo Garcia, que frequenta hemorios a 2 anos.</p><p><em>Breno Monteiro – 8° período</em></p></main>"
+  },
+  "date": "2022-11-25T19:08:44",
+  "date_gmt": "2022-11-25T22:08:44",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Dia 25 de Novembro, também conhecido como o Dia Nacional do Doador de Sangue, uma data muito importante para lembrar da necessidade em ajudar a salvar vidas.</p>\n"
+  },
+  "featured_media": 13614,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13611"
+  },
+  "id": 13611,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/whatsapp-image-2022-11-25-at-18.44.58-2919206339-e1669414166533.jpeg?fit=854%2C1028&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3xx",
+  "link": "https://agenciauvabarra.com/2022/11/25/podcast-radio-uva-barra-dia-nacional-do-doador-de-sangue/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-11-25T19:08:44",
+  "modified_gmt": "2022-11-25T22:08:44",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-dia-nacional-do-doador-de-sangue",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    238779687,
+    5108167,
+    1142,
+    767056638,
+    767056622,
+    599888
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Dia Nacional do Doador de Sangue"
+  },
+  "type": "post"
+}

@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2379/revisions/2382",
+        "id": 2382
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2379"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2379",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2379/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2379"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2380"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2379",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2379",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2379",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-12o-expo-franchising-abf-rio",
+    "tag-agencia-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Expo Franchising abre as portas para novos empreendedores e reúne soluções práticas no a dia a dia</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/photo-2018-09-29-13-50-45.jpg?resize=1280%2C960&amp;ssl=1' alt='PHOTO-2018-09-29-13-50-45.jpg' width='1280' height='960'/><figcaption>Evento ajudou futuros empreendedores a descobrir os desafios de abrir uma franquia./ Créditos: Ana Carolina Marinho</figcaption></figure><p style=\"text-align:justify;\">O desejo de empreender está presente em 2/3 dos brasileiros, de acordo com uma pesquisa feita pela <em>Paybal</em> no ano passado. Com isso, a Expo Franchising voltou pela decima segunda vez para o Rio de Janeiro, com o objetivo de auxiliar os futuros empresários nesse ramo. O  segundo dia do evento que teve início nesta quinta-feira (27/09),  trouxe temas relevantes para quem trabalha com franquias, como o auxílio da tecnologia atual e a dificuldade de abrir o próprio negócio.</p><p style=\"text-align:justify;\">Com o crescimento de 7,4% no setor de franquias nos últimos doze meses, os desafios já são vistos por aqueles que querem explorar nesse negócio e possuem alguma dificuldade de adaptação. Para o especialista em marketing, Romualdo Ayres, é preciso se destacar no meio para buscar o sucesso e conhecer o público-alvo que será atingido. “Devem olhar o mercado e ver o que falta ser explorado e perceber as mudanças necessárias ao decorrer do trabalho”.</p><p style=\"text-align:justify;\">A necessidade de transformação, por exemplo, foi o que inspirou Daniela Rodrigues a trabalhar com franquias. Atualmente é diretora de expansão da microempresa de limpeza Maria Brasileira, e reforça a importância de não desistir diante dos contratempos que vão encontrados no caminho. “No início tínhamos problemas com dinheiro, mas mesmo assim corri atrás e espero que todos que almejam abrir um negócio sigam o mesmo caminho”, completou.</p><p style=\"text-align:justify;\">O desejo de abrir uma franquia levou a cabeleireira Maria Oliveira ao evento. “Eu já tenho um salão de beleza e quero expandir, mas com a situação atual abrir novas lojas é difícil”, disse. Mesmo assim, a carioca não desistiu e conta que o sonho de aumentar o negócio não foi esquecido e pretende no ano que vem inaugurar o segundo salão. “Já estou pesquisando lugares e funcionários, acho que não devemos sucumbir as dificuldades”. A feira vai até este sábado (29/09) e promete trazer debates de mesa para esclarecer outros pontos importantes para quem busca se arriscar com segurança no mercado.</p><p><strong>Ana Carolina Marinho – 6° período.</strong></p></main>"
+  },
+  "date": "2018-10-01T11:17:31",
+  "date_gmt": "2018-10-01T14:17:31",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Expo Franchising abre as portas para novos empreendedores e reúne soluções práticas no a dia a dia</p>\n"
+  },
+  "featured_media": 2380,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2379"
+  },
+  "id": 2379,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/photo-2018-09-29-13-50-45.jpg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Cn",
+  "link": "https://agenciauvabarra.com/2018/10/01/os-desafios-das-franquias-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-10-01T15:35:17",
+  "modified_gmt": "2018-10-01T18:35:17",
+  "ping_status": "open",
+  "slug": "os-desafios-das-franquias-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    650618394,
+    648221465
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Os desafios das franquias no Brasil"
+  },
+  "type": "post"
+}

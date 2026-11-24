@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15716/revisions/15725",
+        "id": 15725
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15716"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15716",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15716/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15716"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15718"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15716",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15716",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-15716",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Destaques da 40° edição passam por entretenimento e tecnologia junto com a leitura</em></p><p>O maior evento literário do país e um dos maiores do mundo, a Bienal do Livro do Rio de Janeiro vai muito além dos livros dispostos para venda nos quiosques dos três pavilhões. O evento fornece ao público uma variedade de painéis, locais de discussões, debates e performances de convidados, autores e atores, numa troca mais intimista com o público.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-08-at-15.52.02.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\" /><figcaption>Henrique Rodrigues autografa exemplares do livro \"Áurea\". Foto: (Mariana Rangel) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-08-at-15.50.55.jpeg?resize=1398%2C1599&amp;ssl=1\" alt=\"\" width=\"1398\" height=\"1599\" /><figcaption>Ana Paula Apolonia prestigiando seu amigo durante a Bienal do Livro 2023. (Foto: Arquivo Pessoal) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-08-at-15.57.29.jpeg?resize=847%2C683&amp;ssl=1\" alt=\"\" width=\"847\" height=\"683\" /><figcaption>Marília Dan é escritora e foi ao painel para prestigiar a influencer Pequena Lo. (Foto: Mariana Rangel) </figcaption></figure><p>Este ano, com mais de 200 horas de programação, o evento conta com painéis como \"Mesa do autor: Maurício de Sousa\", \"Páginas no palco: Vera Holtz e Ficções\", \"Páginas no palco – Cláudia Abreu e Virgínia Wolf\", \"Rita Lee: uma homenagem\", entre muitos outros.</p><p>Nomes como Maurício de Sousa, Thalita Rebouças, Lázaro Ramos e Cassandra Clare, fazem parte da longa lista de convidados que são um grande ímã do público para os bate-papos. A autora Conceição Evaristo foi uma das atrações mais disputadas da semana. No painel \"Em Primeira Pessoa\", a escritora falou sobre seu início de carreira, a urgente democratização da leitura, o conceito de escrevivência, e muito mais. Referindo-se à escrita de mulheres negras, Conceição declarou: \"A nossa escrevivência (segundo ela, aglutinação das palavras escrever e viver) não é para adormecer os da casa grande, e sim para acordá-los de seus sonos injustos\".</p><p>A escritora Marília Dan, de 27 anos, esteve presente no painel \"Mulheres na Comédia\", onde as convidadas eram Ingrid Guimarães, Pequena Lo e Marisa Orth. Em seu primeiro debate da semana, a jovem estava animada exclusivamente para conhecer e ouvir a influenciadora Pequena Lo, com quem divide o sonho de uma sociedade mais inclusiva. Confira no vídeo abaixo:</p><figure><div class=\"wp-block-embed__wrapper\"><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/244XoxKBW4E?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>O \"Café Literário\" foi palco de conversas sobre luto, relações familiares, poemas e até Cannabis. Nesta edição, a área conta com algumas novidades nos painéis, como o \"Em Primeira Pessoa\", onde os autores interagem com o público num formato bem mais dinâmico e intimista. O \"Páginas no Palco\", uma atração com artistas performando cenas de peças adaptadas de livros, teve Vera Holtz como um dos destaques da semana. A artista encenou partes da peça \"Ficções\", tema central da conversa, baseada na obra \"Sapiens\", de Yuval Harari.</p><p>Henrique Rodrigues foi um dos autores presentes em um dos debates sediados pelo espaço, \"Livros que me (trans)formaram\", um bate-papo sobre leitura e a importância de sua democratização. Em uma homenagem, o escritor levou o público às lágrimas falando sobre sua professora de escola ali presente. Henrique contou sobre o convite para o evento e a importância de debates como esse. Confira abaixo:</p><figure><div class=\"wp-block-embed__wrapper\"><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Henrique Rodrigues fala mais sobre o evento by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1611725925&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></div></figure><p>A estréia desse ano é o espaço Palavra-Chave, que sedia trocas entre público e diversos autores e pensadores. Nessa mesma área, com a mesma proposta do programa de TV \"Roda Viva\", o destaque é o painel \"Entra na Roda\", onde o escritor é entrevistado por mediadores a sua volta. A autora do best-seller \"Amor&amp;Gelato\", Jenna Evans Welch estará presente no centro da roda para responder perguntas e conversar com os leitores neste Sábado (09/09).</p><p>Por sua vez, o espaço Estação Plural abriga diálogos do cotidiano em sua programação, por vezes unindo o audiovisual com a literatura, no painel \"Páginas da Tela\" que traz não só autores, mas atores e atrizes debatendo os diversos filmes, novelas e séries adaptadas de livros. O time de convidados inclui nomes como Klara Castanho, Tainá Muller, Jorge Furtado e Rosane Svartman.</p><p>Nesses 40 anos de Bienal, o foco continua a ser o incentivo à leitura, principalmente das novas gerações. Para isso, a programação oferece painéis completamente imersivos no pavilhão laranja, onde as crianças são contempladas com diferentes atrações, como filmes, músicas e brincadeiras, das quais participam personagens como O Chapeleiro Maluco e a Turma da Mônica, entre outros.</p><p>Todos os painéis da programação oficial contam com tradução simultânea em Libras, uma vez que um dos maiores objetivos do evento este ano é ampliar cada vez mais a acessibilidade dos espaços. Pessoas com deficiência visual, idosos e quaisquer outras que necessitem de ajuda especializada terão atendimento gratuito.</p><p>Os amantes da leitura não medem esforços para participarem de tudo que o evento proporciona. Ana Paula Apolonia é uma dessas pessoas. A professora apaixonada por educação e literatura frequentou uma variedade de painéis disponibilizados e pretende ir a mais: \"Na realidade eu tenho interesse em quase todos, né. Se eu pudesse eu moraria na Bienal essa semana toda. Eu tive a oportunidade de assistir o Ficções, com a Vera Holtz e com o Federico Puppi, foi muito interessante. Também pude assistir a Conceição Evaristo. Assisti num outro espaço o escritor Sidarta Ribeiro e foi maravilhoso, falando sobre sonhos. Foi espetacular. Amei, amei, amei. Volto dia sete para assistir mais painéis. Quero ver o Valter Hugo Mãe e a Carla Madeira. Tem muitas coisas boas pra gente ver\".</p><p>A Bienal do Livro 2023 acontece até domingo (10/09), e promete fechar com chave de ouro. Em seu último final de semana, o evento oferecerá painéis em homenagem a figuras emblemáticas como Rita Lee e Virginia Wolf nos espaços Palavra Chave e Café Literário, respectivamente. Além disso, as autoras de \"Ela fica com a garota\" estarão no \"Escrever (com) seu amor\" para falar do processo de escrita de um dos livros do momento do público juvenil. As crianças podem contar durante o dia inteiro com o Palco Animado, onde participarão de danças, músicas e histórias contadas.</p><p>Mariana Rangel – 2º Período</p></main>"
+  },
+  "date": "2023-09-08T17:48:56",
+  "date_gmt": "2023-09-08T20:48:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O maior evento literário do país e um dos maiores do mundo, a Bienal do Livro do Rio de Janeiro vai muito além dos livros dispostos para venda nos quiosques dos três pavilhões. O evento fornece ao público uma variedade de painéis, locais de discussões, debates e performances de convidados, autores e atores, numa troca mais intimista com o público.</p>\n"
+  },
+  "featured_media": 15718,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15716"
+  },
+  "id": 15716,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/09/whatsapp-image-2023-09-08-at-15.50.55.jpeg?fit=1398%2C1599&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-45u",
+  "link": "https://agenciauvabarra.com/2023/09/08/bienal-para-alem-dos-livros/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-09-08T17:48:56",
+  "modified_gmt": "2023-09-08T20:48:56",
+  "ping_status": "open",
+  "slug": "bienal-para-alem-dos-livros",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Bienal Para Além dos Livros"
+  },
+  "type": "post"
+}

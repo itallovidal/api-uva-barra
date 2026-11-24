@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2631/revisions/2885",
+        "id": 2885
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2631"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2631",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2631/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2631"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2633"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2631",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2631",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    4461207
+  ],
+  "class_list": [
+    "post-2631",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-mundo-pet",
+    "tag-agencia-uva-barra",
+    "tag-barra-da-tijuca",
+    "tag-cao",
+    "tag-gato",
+    "tag-grooming",
+    "tag-mundo-animal",
+    "tag-petshop",
+    "tag-rio-vet",
+    "tag-riocentro",
+    "tag-riogroom",
+    "tag-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>RioCentro recebe evento que abre espaço para competição conhecida no meio animal</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-10-at-12-18-32.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-11-10 at 12.18.32' width='1280' height='960' /><figcaption>Competição do RioGroom reuniu participantes de vários estados brasileiros – Foto: Ana Carolina Soares</figcaption></figure><p>O mundo animal é cheio de novidades. Com a alta do mercado pet – que movimenta milhões por ano – uma infinidade de aspectos ganhou destaque. O RioVet 2018 ganhou uma programação especial voltados para os concursos de beleza para os animais de estimação.</p><p>Competições, palestras e workshops foram realizados entre os dias 6 e 8 de novembro, e o público acompanhou de perto o trabalho dos profissionais. O grooming, considerado uma extensão do ‘banho e tosa’, é uma área que trabalha a estética canina e felina focando no padrão específico de cada raça. Mas o glamour não é a única vertente dessa profissão. “A nossa preocupação é levar ao proprietário uma consciência diferenciada sobre saúde e bem-estar animal”, explica Katia Dufrayer, coordenadora do espaço RioGroom, que apresentou competições de tosa entre diversos groomers – tanto experientes quanto iniciantes – durante o RioVet.</p><p>Em três dias de evento, foram ministrados workshops de técnicas do grooming, com os maiores groomers do Brasil. O campeão do Groomers Argentina 2017, Vanderlei Lopes e o 10 vezes Campeão Mundial, Luciano Ribeiro foram alguns dos nomes que apresentaram nos auditórios. Com 20 anos de experiência no ramo pet, Vanderlei comenta sobre o peso desses eventos. “Esse campeonato voltou e a gente viu muitos competidores. Tem uma plateia, todos os dias, muito grande! Isso estimula novos profissionais. É um incentivo”, pontua. “O Rio estava parado nessa parte e eu espero que volte com força total porque é bom para todo o setor pet”, finaliza Lopes.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-10-at-12-18-31.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-11-10 at 12.18.31' width='1280' height='960' /><figcaption>Profissionais mostram habilidades em penteados durante uma das competições do RioGroom – Foto: Ana Carolina Soares</figcaption></figure><p>Um dos tópicos abordados com relação às adversidades da área é a falta de reconhecimento. “O que a gente vê é uma desvalorização do serviço. Nós também fazemos investimentos que muitas vezes não são valorizados”, revela Dufrayer, que também destacou alto preço dos materiais utilizados para um serviço de qualidade e o longo caminho que a profissão ainda precisa percorrer.</p><p>Para aqueles que têm interesse na carreira, o conselho dos profissionais foi unânime: buscar capacitação. Cursos para se especializar nas mais diversas técnicas. “Nós temos os animais inseridos em nosso dia a dia. Então a nossa obrigação é estudar e orientar, e com isso você ganha a confiança do seu cliente – que terá em você um apoio, um suporte”, finaliza Dufrayer. O evento despertou interesse dos visitantes que já aguardam a próxima edição.</p><p><strong>Julia Morais – 6º período</strong></p></main>"
+  },
+  "date": "2018-11-12T15:05:26",
+  "date_gmt": "2018-11-12T17:05:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>RioCentro recebe evento que abre espaço para competição conhecida no meio animal O mundo animal é cheio de novidades. Com a alta do mercado pet &#8211; que movimenta milhões por ano &#8211; uma infinidade de aspectos ganhou destaque. O RioVet 2018 ganhou uma programação especial voltados para os concursos de beleza para os animais de [&hellip;]</p>\n"
+  },
+  "featured_media": 2633,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2631"
+  },
+  "id": 2631,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-10-at-12-18-31.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Gr",
+  "link": "https://agenciauvabarra.com/2018/11/12/o-hair-stylist-do-universo-pet/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T14:15:44",
+  "modified_gmt": "2019-01-26T16:15:44",
+  "ping_status": "open",
+  "slug": "o-hair-stylist-do-universo-pet",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1129725,
+    188717,
+    430563,
+    38432,
+    152218,
+    817783,
+    653886807,
+    10031061,
+    653886808,
+    17523
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Hair Stylist do universo pet"
+  },
+  "type": "post"
+}

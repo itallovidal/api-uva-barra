@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5118/revisions/5129",
+        "id": 5129
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5118"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5118",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5118/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5118"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5122"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5118",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5118",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-5118",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Cerca de 7 mil pessoas por dia prestigiaram as atrações do evento no Palácio Rio Negro, em Petrópolis</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/imagem-5-2.jpg?resize=1280%2C720&#038;ssl=1' alt='' width='1280' height='720' /><figcaption>Além da grande variedade de cafés, preparos de drinks e comidas com a bebida estavam disponíveis nas barraquinhas – Foto: Paula Guaraldo</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/imagem-4-1.jpg?resize=720%2C1280&#038;ssl=1' alt='' width='720' height='1280' /><figcaption>Além da grande variedade de cafés, preparos de drinks e comidas com a bebida estavam disponíveis nas barraquinhas – Foto: Paula Guaraldo</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/imagem-2.jpg?resize=1280%2C720&#038;ssl=1' alt='' width='1280' height='720' /><figcaption>Organizadores estimam que, por dia, cerca de 7 mil pessoas prestigiaram a edição do evento – Foto: Paula Guaraldo</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/imagem-1.jpg?resize=720%2C1280&#038;ssl=1' alt='' width='720' height='1280' /><figcaption>Carla Borges, uma das idealizadoras do evento – Foto: Paula Guaraldo</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/imagem-6.jpg?resize=1280%2C720&#038;ssl=1' alt='' width='1280' height='720' /><figcaption>O Palácio Rio Negro abrigou a segunda edição do Festival do Café. – Foto: Paula Guaraldo</figcaption></figure><p>Os aromas e os gosto dos cafés especiais tomaram conta do Palácio Rio Negro, no último final de semana, com mais uma edição do Festival do Café. Apaixonados pelas variações da bebida, seja ela quente ou gelada, puderam degustar as novidades que existem no mercado e apreciar uma série de opções gastronômicas que harmonizam com o café.</p><p>O evento foi realizado nos dias 7 e 8 de setembro. Carla Borges, uma das idealizadoras, conta que o Festival do Café vem se firmando a cada edição, pois une apaixonados pela bebida em vários níveis: os que amam desde os grãos e fazem desta prática um negócio (os coffee makers) e os que zelam pelo mesmo sentimento deliciando a bebida, os coffee lovers. “Nossa história é ligada ao amor pelo café especial. Nosso objetivo é trazer para a linha de frente o produtor que está lá na fazenda e tem dificuldade de mostrar seu produto para o consumidor final. A aceitação tem sido muito positiva”, afirma Carla. No total havia 73 expositores que variavam entre produtores, torrefadores, baristas e empreendedores.</p><div><figure class=\"aligncenter size-large is-resized\"><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/imagem-3.jpg?resize=638%2C358&#038;ssl=1' alt='' width='638' height='358' /><figcaption>A barista e empreendedora Rafaela Nascimento, expositora no evento, juntamente com sua equipe especializadas – Foto: Paula Guaraldo</figcaption></figure></div><p>A barista Rafaela Nascimento é proprietária de um quiosque que serve cafés especiais no Centro do Rio. Participando como expositora, desde a primeira edição do festival, ela destaca que o público vem crescendo e se tornando mais exigente na qualidade daquilo que consome. Por isso, entre os seus diferenciais ela procura ampliar opções para o cliente conhecer os sabores da bebida que vem de vários cantos do país. “Trazemos pacotinhos de cafés especiais de várias regiões e creditamos o trabalho do produtor. Hoje estamos com um produto da Bahia que venceu um campeonato. É um café superdelicado e muito gostoso. Temos também drinques alcoólicos, cappuccino, com tônica e alguns doces a base de café que são todos de produção própria”.</p><p>Os organizadores estimam que 7 mil pessoas por dia estiveram no local e conheceram as variedades do festival que está em sua sétima edição e, pela segunda vez, em Petrópolis. A cientista social Larissa Hamns, de 22 anos, prestigiou o evento acompanhada de familiares e aprovou: “Sou uma apaixonada por café. Nunca tinha visto nada deste porte por aqui. Fiquei impressionada com o tamanho da atração e a quantidade de apreciadores”, disse a petropolitana. Na programação houve ainda apresentação musical, oficinas e palestras com especialistas no assunto.</p><p>A oitava edição do Festival do Café já tem data confirmada. Será no próximo dia 12 e 13 de outubro, das 10h às 18h, na Praça Mauá, no Centro do Rio de Janeiro. Mais informações disponíveis no site https://www.festivaldocafe.com</p><p><strong>Paula Guaraldo – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-10T23:47:15",
+  "date_gmt": "2019-09-11T02:47:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Cerca de 7 mil pessoas por dia prestigiaram as atrações do evento no Palácio Rio Negro, em Petrópolis Os aromas e os gosto dos cafés especiais tomaram conta do Palácio Rio Negro, no último final de semana, com mais uma edição do Festival do Café. Apaixonados pelas variações da bebida, seja ela quente ou gelada, [&hellip;]</p>\n"
+  },
+  "featured_media": 5122,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5118"
+  },
+  "id": 5118,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/imagem-3.jpg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1ky",
+  "link": "https://agenciauvabarra.com/2019/09/10/aromas-e-sabores-em-um-festival-especial-para-os-apaixonados-por-cafe/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-10T23:47:15",
+  "modified_gmt": "2019-09-11T02:47:15",
+  "ping_status": "open",
+  "slug": "aromas-e-sabores-em-um-festival-especial-para-os-apaixonados-por-cafe",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Aromas e sabores em um festival especial para os apaixonados por café"
+  },
+  "type": "post"
+}

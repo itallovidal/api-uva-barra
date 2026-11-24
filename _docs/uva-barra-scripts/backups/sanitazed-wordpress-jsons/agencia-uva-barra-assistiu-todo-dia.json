@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2011/revisions/3100",
+        "id": 3100
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2011"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2011",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2011/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2011"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2011",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2011",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2011",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/07/hero_every-day-2018.jpg?resize=1200%2C500&#038;ssl=1' alt='hero_Every-Day-2018' width='1200' height='500'><figcaption>Foto: divulgação</figcaption></figure><p>Uma vida diferente a cada dia, sem gênero, cor de pele ou rosto definido. Esses são os desafios de se existir apenas como uma alma. Todo Dia é baseado no best-seller homônimo, sucesso no The New York Times, originalmente escrito por David Levithan. A adaptação fica por conta do roteirista Jesse Andrews (Eu, você e a garota que vai morrer) e Michael Sucsy (Para Sempre) assume a direção. O filme explora os impasses da adolescência, traz reflexões sobre o amor e retrata como o sentimento de não se encaixar a algo é comum entre os jovens.</p><p>Na trama, “A” acorda todas as manhãs em um corpo diferente. Em alguns momentos, pode despertar como menina, em outros, como menino. Por isso, precisa se adaptar ao estilo e à rotina desse indivíduo pelas próximas 24 horas em que viverá na pele dele. Os personagens são adolescentes da mesma idade e nunca ocupam os mesmos corpos duas vezes. Por já estar acostumada a viver nessa condição, há 16 anos, “A” tenta não se conectar a ninguém.</p><p>A ideia de não se permitir criar vínculos e se apegar a outras pessoas passa a ser um problema quando acorda no corpo de Justin. “A” conhece Rhiannon (Angourie Rice), a namorada do garoto, uma menina tímida e cegamente apaixonada por ele. Pela primeira vez, encontra alguém que desperta os melhores sentimentos, por quem se apaixona e que gostaria de ter ao lado sempre.</p><p>Ao longo da história, os limites de ambos são testados e as dificuldades vão surgindo no drama infanto-juvenil. De um lado, Rhiannon precisa decidir se será capaz de ficar com alguém que muda diariamente. Do outro, “A” percebe que não pode e que não é nem um pouco certo interferir na vida das pessoas que habita. O fim faz refletir sobre o romance jovem e inocente, em que as questões de gênero e os diferentes padrões físicos são abordados de forma sensível e simples.</p><p>“Todo Dia” questiona se um sentimento consegue mesmo vencer qualquer barreira, os diálogos apresentados se aproximam da realidade e emocionam. Com uma mensagem simples e de fácil entendimento, o roteiro mostra ao público, principalmente aos mais novos, que é possível se apaixonar pela personalidade de alguém independente das características físicas e das questões sociais atribuídas às mesmas.</p><p>Bárbara Faria – 5º período</p></main>"
+  },
+  "date": "2018-07-05T12:58:00",
+  "date_gmt": "2018-07-05T15:58:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Uma vida diferente a cada dia, sem gênero, cor de pele ou rosto definido. Esses são os desafios de se existir apenas como uma alma. &#8220;Todo Dia&#8221; é baseado no best-seller homônimo, sucesso no The New York Times, originalmente escrito por David Levithan. A adaptação fica por conta do roteirista Jesse Andrews (Eu, você e [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2011"
+  },
+  "id": 2011,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-wr",
+  "link": "https://agenciauvabarra.com/2018/07/05/agencia-uva-barra-assistiu-todo-dia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:38:45",
+  "modified_gmt": "2019-01-31T14:38:45",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-todo-dia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: Todo Dia"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5457/revisions/5618",
+        "id": 5618
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5457"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5457",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5457/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5457"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5468"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5457",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5457",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2432
+  ],
+  "class_list": [
+    "post-5457",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-teatro",
+    "tag-agencia-uva-barra",
+    "tag-mauricio-de-souza",
+    "tag-turma-da-monica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Peça infanto-juvenil traz a valorização da cultura nacional por meio do questionamento “O que é Diversidade Cultural?”</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_6078.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>A Turma da Mônica vive uma grande aventura pelas riquezas da história das raízes brasileiras – Foto: Luma Keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_6044.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>A colonização do Brasil pelos portugueses – representada através de números de acrobacia – Foto: Luma Keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_6023.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Brincando na casa da vó Dita, a Turma da Mônica debate sobre as diferenças entre a cidade e a roça – Foto: Luma Keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_6076.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Ao término do evento, Fafy Siqueira (Vó Dita) foi homenageada pelos personagens e parabenizada pelo público por sua apresentação – Foto: Luma Keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/c127fb45-39e5-4ce0-b5f4-00600719516d.jpg?resize=1040%2C780&amp;ssl=1\" alt=\"\" width=\"1040\" height=\"780\" /><figcaption>Os personagens Cebolinha e Mônica foram recepcionar a audiência após o fim do espetáculo – Foto: Rafael Ribeiro</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_6007.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Rafael Viegas e Ingred Viegas com o filho Benjamin – Foto: Luma Keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_6001.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Marcele Dantas com a filha Yasmin Dantas e marido – Foto: Luma Keily</figcaption></figure><p>Uma excursão pelo mundo da imaginação. Em comemoração aos 60 anos de realizações da Maurício de Souza Produções, o Circo Turma da Mônica promove o espetáculo “Brasilis”, de 5 a 27 de outubro, no teatro Bradesco. Por meio dos famosos personagens das criações do cartunista, a peça exalta as riquezas e diversidades do Brasil.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_6020.jpg?resize=570%2C427&amp;ssl=1\" alt=\"\" width=\"570\" height=\"427\" /><figcaption>O espetáculo foi marcado por uma grande variedade de cenários, entre eles a casa da Vó Dita, onde a história se desenvolve – Foto: Luma Keily</figcaption></figure><p>Indígenas, negros e europeus. A história das origens do país é contada pela figura da vó Dita, interpretada por Fafy Siqueira. A atriz relata que se sentiu maravilhada com a oportunidade de protagonizar uma personagem simbólica nas histórias do Chico Bento.</p><blockquote>“Eu não pensei duas vezes quando surgiu o convite. Tudo me encantou.”– Fafy Siqueira</blockquote><p>Para aprender de forma divertida sobre o que é a diversidade cultural, a exibição brinca com as cores por meio de jogos de luzes e efeitos especiais, além de trazer um grande elenco de bailarinos e artistas circenses. “Estou confiante de que o amor de toda a equipe por este projeto poderá transformar vidas”, destacou Mauro Sousa, responsável pela direção e produção geral do evento.</p><blockquote>“Falar sobre diversidade cultural hoje, para mim, é um gesto de representatividade e também, um ato de coragem”– Mauro Sousa</blockquote><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_6054.jpg?resize=563%2C422&amp;ssl=1\" alt=\"\" width=\"563\" height=\"422\" /><figcaption>Com o objetivo de preservar a cultura indígena, a peça deu destaque aos rituais indígenas – Foto: Luma Keily</figcaption></figure><p>Para a professora Marcele Dantas, a Turma da Mônica representa uma introdução ao universo dos livros. “É o primeiro gibizinho, o primeiro contato com a leitura”, relata. Foi essa inserção no ambiente da arte e da cultura que motivou Rafael Viegas, gerente de banco, a levar o filho Benjamim à apresentação. Para ele, além da imersão em projetos culturais, a experiência também remete fortemente à infância. “Eu li os quadrinhos”, afirma.</p><p>O orgulho de ser brasileiro e a vontade de educar e disseminar a cultura nacional. Segundo Maurício de Souza, essas foram algumas das motivações que definiram o formato da superprodução. “O que me interessa é contar uma boa história, que possa divertir e porque não, ajudar na educação e na cultura do país de alguma forma”, revelou o escritor. Na sessão, o folclore é representado pelos contos do Curupira, Yara e Saci Pererê; a música, através do samba, do frevo e da capoeira; e a comida, por meio da feijoada e do bolo de fubá.</p><blockquote>“Como é bom ser brasileiro”– Cascão</blockquote><p>Confira um trecho do espetáculo “Brasilis” representando a colonização do Brasil pelos portugueses:</p><figure><iframe src=\"https://www.youtube.com/embed/m3Dr_SZ1cZs?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Luma Keily – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-09T12:00:00",
+  "date_gmt": "2019-10-09T15:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Peça infanto-juvenil traz a valorização da cultura nacional por meio do questionamento “O que é Diversidade Cultural?” Uma excursão pelo mundo da imaginação. Em comemoração aos 60 anos de realizações da Maurício de Souza Produções, o Circo Turma da Mônica promove o espetáculo &#8220;Brasilis&#8221;, de 5 a 27 de outubro, no teatro Bradesco. Por meio [&hellip;]</p>\n"
+  },
+  "featured_media": 5468,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5457"
+  },
+  "id": 5457,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/img_6078.jpg?fit=4032%2C3024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1q1",
+  "link": "https://agenciauvabarra.com/2019/10/09/turma-da-monica-e-as-faces-do-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-16T15:03:00",
+  "modified_gmt": "2019-10-16T18:03:00",
+  "ping_status": "open",
+  "slug": "turma-da-monica-e-as-faces-do-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    980741,
+    1571136
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Turma da Mônica e as faces do Brasil"
+  },
+  "type": "post"
+}

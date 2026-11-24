@@ -1,0 +1,185 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14503/revisions/14520",
+        "id": 14520
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14503"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14503",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14503/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14503"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14519"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14503",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14503",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    187874,
+    11716206,
+    74499,
+    21243,
+    7114,
+    14591,
+    2368
+  ],
+  "class_list": [
+    "post-14503",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direitos-humanos",
+    "category-economia-2",
+    "category-mercado-de-trabalho",
+    "category-seguranca",
+    "category-sociedade",
+    "category-trabalho",
+    "category-transporte",
+    "tag-agencia-uva-barra",
+    "tag-dia",
+    "tag-dificuldade",
+    "tag-salario",
+    "tag-trabalhador",
+    "tag-trabalho",
+    "tag-transporte"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Profissionais enfrentam desafios impostos diariamente para sobreviverem em condições ruins</em></p><p>De acordo com a Pesquisa Nacional por Amostra de Domicílios (Pnad) do Instituto Brasileiro de Geografia e Estatística (IBGE), 35% dos trabalhadores de carteira assinada recebem apenas um salário mínimo, que desde o dia 01 de maio passa a ser de R$1320. Esse é o valor para pagar contas, comprar alimentos, mas está longe de dar uma vida confortável. </p><p>Para calcular o valor do salário mínimo, o governo elabora uma conta com base no Índice Nacional de Preços ao Consumidor (INPC) até chegar no número final que mede a inflação de acordo com a variação dos valores de bens de consumo. Fernando Baptista, economista, explica que mesmo com este método o salário mínimo deveria ser outro. “A regra do salário mínimo seria multiplicar o valor do mínimo pelo percentual de crescimento do PIB do país. Se formos comparar com a Europa e Estados Unidos o valor deveria ser em torno de R$5.000,00”, conta Fernando. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/fernando.jpeg?resize=828%2C803&amp;ssl=1\" alt=\"\" width=\"828\" height=\"803\"><figcaption>“O valor deveria ser de pelo menos 5 mil, ou seja, é muita defasagem”, afirma Fernando. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/greici.jpeg?resize=522%2C602&amp;ssl=1\" alt=\"\" width=\"522\" height=\"602\"><figcaption>Segundo Greici, viver com apenas um salário mínimo é uma prova de fogo. (Foto: Arquivo Pessoal) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/diogo-1.jpeg?resize=828%2C447&amp;ssl=1\" alt=\"\" width=\"828\" height=\"447\"><figcaption>Diogo afirma que a maior dificuldade é a superlotação do BRT. (Foto: Matheus Moraes)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/marcilene.jpeg?resize=828%2C454&amp;ssl=1\" alt=\"\" width=\"828\" height=\"454\"><figcaption>“O BRT não tem segurança nenhuma”, comenta Marcilene. (Foto: Matheus Moraes) </figcaption></figure><p>Comparado a outros países, o valor do salário mínimo brasileiro é muito baixo e Fernando afirma que poucos conseguem viver com essa quantia. “É difícil alguém conseguir viver só com esse valor. Para termos uma ideia, o salário de R$1320 equivale a 251 euros. Na Europa o salário mínimo é de 1000 euros em muitos países e em Portugal cerca de 800 euros”, explica o economista. </p><p>Para viver com salário mínimo, muitas pessoas passam o mês fazendo conta e calculando cada gasto. Greici Martins, auxiliar de serviços gerais, recebe este valor e afirma que é quase impossível viver com este pagamento. “Chega no final do mês e as coisas já acabaram, a gente fica batendo cabeça pra repor”, relata Greici. A auxiliar afirma que o valor atual está longe do ideal. “Deveria ser no mínimo R$2500”, diz a mulher de 21 anos.</p><p>No áudio abaixo, Greici fala mais sobre como é viver com um salário mínimo.<strong> Confira!</strong></p><figure><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Greici fala mais sobre como é viver com um salário mínimo. by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1504947211&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></figure><p>Além de dificuldades na hora de pagar as despesas devido ao baixo salário, uma enorme parte dos trabalhadores ainda tem que passar por dificuldades diárias. O transporte público para os deslocamentos do trabalhador, geralmente tem superlotação e demora. Diogo Pereira, bombeiro civil, utiliza transporte público todos os dias e afirma que passa por dificuldades no BRT. “Moro em Santa Cruz e demoro entre 2 horas e 2 horas e meia pra chegar na Barra da Tijuca”, diz Diogo.</p><p>Além da demora no transporte, a superlotação dos BRTs é o principal fator de reclamação das pessoas que utilizam esse meio de transporte todos os dias. Marcilene Gomes, auxiliar de serviços gerais, mostra que há solução para esses problemas. “Tinha que rodar mais transporte para diminuir a superlotação. Já fui assaltada no ônibus, já fui assediada no ônibus. Falta de respeito!”, relata Marcilene. No vídeo abaixo, ela comenta sobre alguns problemas enfrentados no transporte público. <strong>Confira!</strong></p><figure><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/y2DGwfoV_rE?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></figure><p><br>De acordo com o “Portal R7”, o ônibus é o principal meio de locomoção de 85,7% das pessoas que utilizam transporte público no Brasil. Por isso tantas reclamações e exigências de quem utiliza diariamente. </p><p><em>Matheus Moraes – 3º Período</em></p></main>"
+  },
+  "date": "2023-04-28T15:31:24",
+  "date_gmt": "2023-04-28T18:31:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De acordo com a Pesquisa Nacional por Amostra de Domicílios (Pnad) do Instituto Brasileiro de Geografia e Estatística (IBGE), 35% dos trabalhadores de carteira assinada recebem apenas um salário mínimo, que desde o dia 01 de maio passa a ser de R$1320. Esse é o valor para pagar contas, comprar alimentos, mas está longe de dar uma vida confortável. </p>\n"
+  },
+  "featured_media": 14519,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14503"
+  },
+  "id": 14503,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-02-at-16.41.14.jpeg?fit=1280%2C825&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3LV",
+  "link": "https://agenciauvabarra.com/2023/04/28/baixos-salarios-e-dificuldades-diarias-diminuem-o-valor-do-dia-do-trabalho/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-02T17:16:46",
+  "modified_gmt": "2023-05-02T20:16:46",
+  "ping_status": "open",
+  "slug": "baixos-salarios-e-dificuldades-diarias-diminuem-o-valor-do-dia-do-trabalho",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    26132,
+    1824063,
+    620683,
+    1145823,
+    767056610,
+    767056598
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Baixos salários e dificuldades diárias diminuem o valor do dia do trabalho"
+  },
+  "type": "post"
+}

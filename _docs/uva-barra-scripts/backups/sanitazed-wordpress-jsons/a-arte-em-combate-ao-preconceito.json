@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2812/revisions/3004",
+        "id": 3004
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2812"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2812",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2812/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2812"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2813"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2812",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2812",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3719
+  ],
+  "class_list": [
+    "post-2812",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-literatura",
+    "tag-critica-social",
+    "tag-cristiano-dex",
+    "tag-homofobia",
+    "tag-lgbtqi",
+    "tag-liberdade-pra-quem",
+    "tag-literatura",
+    "tag-racismo",
+    "tag-romance-lgbtqi"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Autor estreante costura crítica social com romance </h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/FOTO-2.jpg?resize=1056%2C666&#038;ssl=1' alt='Exemplares de \"Liberdade Pra Quem?\" – 1º livro de Cristiano Dex – Foto: Cintia Mota' width='1056' height='666' /><figcaption>Exemplares de \"Liberdade Pra Quem?\" – 1º livro de Cristiano Dex – Foto: Cintia Mota</figcaption></figure><p>O que é liberdade e quem pode ser livre? Essas são algumas das perguntas exploradas em “Liberdade Pra Quem?”, livro lançado no último domingo (16), por Cristiano Dex. O evento foi realizado no bairro de Santa Teresa, na zona central do Rio, e contou com sessão de autógrafos. A obra é um romance LGBTQI+ que aborda questões como racismo e homofobia.</p><p>As inspirações para a história surgiram da vida do próprio autor. Cristiano, que é morador do município de Duque de Caxias, na baixada fluminense, conta que já viveu algumas das situações narradas no livro. E devido as experiências decidiu usar a literatura como uma forma de expressão. “Eu encontrei na escrita um lugar para gritar para o mundo o que eu quero dizer”, afirma.</p><p>E chegar até este grito não foi fácil. O livro foi publicado de maneira independente. “A maior dificuldade é a financeira e eu não estava trabalhando”, afirma Cristiano. Um dos leitores, Renato Brito, fala como é importante dar apoio. “A maioria dos escritores independentes não têm dinheiro, é bacana ajudar”, destaca. Além dos obstáculos do próprio autor, existem os desafios enfrentados pelos personagens.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/FOTO-1.jpg?resize=1056%2C702&#038;ssl=1' alt='Cristiano Dex durante sessão de autógrafos – Foto: Cintia Mota' width='1056' height='702' /><figcaption>Cristiano Dex durante sessão de autógrafos – Foto: Cintia Mota</figcaption></figure><p>A fotógrafa e universitária Cíntia Mota é uma das pessoas que se reconhece nos problemas vividos por Bruno e Nicolas, os protagonistas do romance. “Qualquer pessoa LGBTQI+ se identifica. Todo mundo passa por preconceito”, analisa. Ela, que é uma mulher lésbica, conta que já viveu situações de discriminação e já viu acontecer com pessoas próximas.</p><p>Para futuro, Cristiano procura não descartar caminhos para seguir, como dar continuidade para a história ou não. Em relação ao material já lançado, o escritor pensa em expandir a divulgação para outras cidades do país. “É uma obra quem tem muito a dizer, mas já tem uma outra ideia na minha cabeça”, diz. E sobre a experiência geral, conclui que foi “complicada e árdua, mas revigorante”.</p><p><strong>Junior Almeida – 3º período</strong></p></main>"
+  },
+  "date": "2018-12-20T11:06:59",
+  "date_gmt": "2018-12-20T13:06:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Autor estreante costura crítica social com romance O que é liberdade e quem pode ser livre? Essas são algumas das perguntas exploradas em “Liberdade Pra Quem?”, livro lançado no último domingo (16), por Cristiano Dex. O evento foi realizado no bairro de Santa Teresa, na zona central do Rio, e contou com sessão de autógrafos. [&hellip;]</p>\n"
+  },
+  "featured_media": 2813,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2812"
+  },
+  "id": 2812,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/FOTO-2.jpg?fit=5040%2C3174&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Jm",
+  "link": "https://agenciauvabarra.com/2018/12/20/a-arte-em-combate-ao-preconceito/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:00:07",
+  "modified_gmt": "2019-01-31T13:00:07",
+  "ping_status": "open",
+  "slug": "a-arte-em-combate-ao-preconceito",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    193156,
+    666798077,
+    260391,
+    916463,
+    666798072,
+    767056603,
+    162432,
+    666798089
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A arte em combate ao preconceito"
+  },
+  "type": "post"
+}

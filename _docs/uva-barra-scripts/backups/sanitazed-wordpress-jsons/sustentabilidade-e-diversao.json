@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2437/revisions/3145",
+        "id": 3145
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2437"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2437",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2437/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2437"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2438"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2437",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2437",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2437",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-feira-vida-liberta",
+    "tag-shopping-downtown"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Feira Vida Liberta traz edição especial de Dia das Crianças com opções de presentes sustentáveis e atividades gratuitas para comemorar a data</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/p_20181006_135211_1.jpg?resize=2902%2C1836&#038;ssl=1' alt='P_20181006_135211_1' width='2902' height='1836'><figcaption>Roupas infantis feitas com tecidos sem origem animal. Foto: Bárbara Faria</figcaption></figure><p>O Dia das Crianças pode ser mais que uma data comemorativa. Nos dias 5 e 6 de outubro, o shopping Downtown recebeu a 14ª edição da Feira Vida Liberta. Dessa vez, o evento gratuito foi voltado especialmente para o público infantil e promoveu brincadeiras e atividades educativas a fim de estimular a responsabilidade ambiental e a alimentação saudável.</p><p>A preocupação esteve presente em toda a produção. O idealizador e produtor da feira, Gustavo Goldani, diz que a importância do evento está relacionada ao futuro e que adotaram atividades lúdicas para conquistar os pequenos. “Tivemos ações com uma postura mais dinâmica e com passatempos, além da vivência com a ecologia que passa uma consciência de reciclagem”, relata.</p><p>Os expositores mostraram opções de presentes sustentáveis sem materiais de origem animal e gastronomia orgânica. A artesã e empreendedora, Lorena Ribeiro, faz roupas infantis e acredita que a iniciativa é interessante para educar ecologicamente. “Quando essas atitudes são ensinadas desde pequenos, isso passa a ser natural. Algumas crianças já chegam e escolhem as peças que querem”, afirma.</p><p>Ações de conscientização são fundamentais na construção do amanhã. A sócia-fundadora de um site voltado para qualidade de vida e autoconhecimento, Carolina Senna, levou a filha de 3 anos para o evento. Ela diz que a feira é excelente porque há pouca opção para pessoas que buscam programas alternativos e saudáveis. “Eu sempre venho com os meus filhos porque é onde eles comem comidas veganas fora de casa”, explica.</p><p>O evento traz benefícios para todas as idades. A professora de Yoga, Mouni Guellati, dá aulas para todo o tipo de público. Ela afirma que a prática é voltada para o bem-estar e que as crianças conseguem aproveitar melhor o lado divertido que já existe. “Yoga significa união. É legal trazer essa consciência de fazer parte da natureza e isso é essencial para aprender a desapegar de tudo o que é material”, diz.</p><p>Qualidade e diferencial em atos e produtos. Durante os dois dias do evento, todos os resíduos gerados foram enviados para a reciclagem. Gustavo Goldani diz que a semente que foi plantada pode germinar e trazer uma diferença daqui para frente. “Ainda que a criança não absorva todo o conteúdo agora, daqui a um tempo ela vai ter uma lembrança de que brincou de reciclar e de fazer Yoga”, explica.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/p_20181006_142608_1.jpg?resize=2315%2C1836&#038;ssl=1' alt='P_20181006_142608_1' width='2315' height='1836'><figcaption>Crianças participam de prática de Yoga gratuita. Foto: Bárbara Faria</figcaption></figure><p><strong>Bárbara Faria – 6º período</strong></p></main>"
+  },
+  "date": "2018-10-07T17:37:17",
+  "date_gmt": "2018-10-07T20:37:17",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Feira Vida Liberta traz edição especial de Dia das Crianças com opções de presentes sustentáveis e atividades gratuitas para comemorar a data O Dia das Crianças pode ser mais que uma data comemorativa. Nos dias 5 e 6 de outubro, o shopping Downtown recebeu a 14ª edição da Feira Vida Liberta. Dessa vez, o evento [&hellip;]</p>\n"
+  },
+  "featured_media": 2438,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2437"
+  },
+  "id": 2437,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/p_20181006_135211_1.jpg?fit=2902%2C1836&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Dj",
+  "link": "https://agenciauvabarra.com/2018/10/07/sustentabilidade-e-diversao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:20:06",
+  "modified_gmt": "2019-01-31T15:20:06",
+  "ping_status": "open",
+  "slug": "sustentabilidade-e-diversao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    563574813,
+    12317595
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Sustentabilidade e diversão"
+  },
+  "type": "post"
+}

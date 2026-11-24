@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/420/revisions/3154",
+        "id": 3154
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=420"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/420",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 21,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/420/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=420"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=420",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=420",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    257
+  ],
+  "class_list": [
+    "post-420",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-geek"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/safd.jpg?resize=992%2C661&amp;ssl=1' alt='safd' width='992' height='661'><figcaption>Youtuber Zangado. Foto: Giovanna Faria</figcaption></figure><p>Os influenciadores digitais brasileiros estão cada vez ganhando mais espaço no Youtube. Segundo a pesquisa da Snack Intelligence, divisão da rede Snack de canais no Youtube, em 2016, vinte e quatro entre cem canais mais influentes do mundo, são nacionais. Por isso o evento Geek e Game Rio Festival reuniu, nos dias 21, 22 e 23 de abril no RioCentro, famosos youtubers em palestras e stands. Zangado, Malena, O Rato Borrachudo, Marcos e Matheus Castro são nomes conhecidos no mundo nerd e fizeram a alegria dos fãs com discursos e sessões de Meet &amp; Greet. Eles discorreram sobre a facilidade do jovem se expor nas mídias sociais e também sobre o lado negativo dessa exposição na Internet.</p><p>Esse foi o caso do gameplayer Zangado, de 28 anos, que atentou sobre o perigo do fácil acesso de adolescentes aos conteúdos na Web sem a supervisão dos pais, podendo em contato com todos os tipos de problemáticas como violência e cyberbullying. “A maldade não tem limites na internet, é necessário ficar atento” e conclui aconselhando: “Os comentários na internet são destrutivos, por isso, a melhor forma de lidar com essas críticas é ignorar e absorver só a positividade”.</p><p>Essa opinião também é compartilhada pelos Irmãos Castros, comediantes do canal “Castro Brothers”. “A gente sempre tenta buscar o lado positivo das críticas e não propagar o ódio”, ressalta Marcos Castro. Já o irmão, Matheus Castro, de 33 anos, demonstrou indignação ao falar sobre a falta de cuidado dos influenciadores digitais com o conteúdo publicado. “Nós, como influenciadores, temos que saber que não apenas somos exemplo para o bem, mas também para o mal”. No entanto, quando a influência é positiva, os Castros mostram emoção. “É ótimo escutar que seus vídeos fizeram a vida de alguém feliz, isso se torna uma responsabilidade nossa”, completou Matheus no primeiro dia do festival.</p><div><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/21.jpg?resize=915%2C610&amp;ssl=1' alt='2' width='915' height='610'><figcaption>Palestra “Três Nunca é Demais” com O Rato Borrachudo, Malena e Guilherme Damiani. Foto: Carolina Marinho</figcaption></figure></div><p>Também estava presente o gamer e youtuber Guilherme Damiani, que discursou sobre os cuidados dos influenciadores digitais. “Sinto na responsabilidade de educar quem me assiste”, alegou o jovem. A palestra “Três nunca é demais” superlotou o espaço e contou com a participação de mais dois nomes de peso do Youtube: Malema e Rato Borrachudo. Os três palestrantes divertiram o público com piadas e falaram sobre seus respectivos canais.</p><p>Os youtubers Bruno Bock e Rolandinho, do canal “Pipocando”, deram mais detalhes sobre a vida de quem trabalha na Internet e como as pessoas os enxergam. “A pessoa que trabalha na Internet é vista como desocupada, mas isso não é verdade. Temos muitas responsabilidades como qualquer outro trabalhador”, relatou Bruno. Essas e outras problemáticas foram discutidas no Geek e Game Rio Festival, promovendo a interação e a troca construtiva entre artistas e público.</p><p><strong>Carolina Marinho, 3º período.</strong></p></main>"
+  },
+  "date": "2017-04-24T17:59:35",
+  "date_gmt": "2017-04-24T20:59:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os influenciadores digitais brasileiros estão cada vez ganhando mais espaço no Youtube. Segundo a pesquisa da Snack Intelligence, divisão da rede Snack de canais no Youtube, em 2016, vinte e quatro entre cem canais mais influentes do mundo, são nacionais. &nbsp;Por isso o evento Geek e Game Rio Festival reuniu, nos dias 21, 22 e [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=420"
+  },
+  "id": 420,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-6M",
+  "link": "https://agenciauvabarra.com/2017/04/24/digital-influencers-sao-destaques-no-geek-e-games-rio-festival/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T13:27:12",
+  "modified_gmt": "2019-01-31T15:27:12",
+  "ping_status": "open",
+  "slug": "digital-influencers-sao-destaques-no-geek-e-games-rio-festival",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "&#8216;Digital Influencers&#8217; são destaques no Geek e Games Rio Festival"
+  },
+  "type": "post"
+}

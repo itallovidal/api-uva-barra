@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4856/revisions/4866",
+        "id": 4866
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4856"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4856",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4856/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4856"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4860"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4856",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4856",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4856",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-semana-da-saude",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento reuniu diferentes cursos para uma conversa interdisciplinar e integrada</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/foto-1.jpg?resize=4608%2C3456&#038;ssl=1' alt='' width='4608' height='3456' /><figcaption>UVA Barra promove evento para falar sobre a saúde física, psíquica e motora – Foto: Ana Carolina Fernandes</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/foto-3-e1567344166899.jpg?resize=927%2C536&#038;ssl=1' alt='' width='927' height='536' /><figcaption>Palestra da área de educação física realizada por Marina Guedes – Foto Ana Carolina Fernandes</figcaption></figure><p>Um diálogo transversal entre os cursos de Psicologia, Fisioterapia e Educação Física fizeram parte da primeira Semana de Saúde do campus Barra, da Universidade Veiga de Almeida, que aconteceu entre os dias 26 e 31 de agosto.</p><p>Para a diretora da unidade, Nara Iwata, o espaço acadêmico deve ser de trocas e participativo, já que o mercado de trabalho cobra isso dos futuros profissionais. Por isso a ideia de unir áreas de saberes distintas, entretanto próximas. A diretora ainda destaca a importância de os alunos entenderem nesse evento como fazer parcerias comerciais com pessoas de outras áreas. “Isso já é networking”, enfatiza Nara.</p><p>Ao longo da semana foi possível participar de diferentes discussões. Para Carol Faria, estudante de psicologia, a união dos cursos é uma grande oportunidade de evoluir academicamente. “Podemos conhecer diversos assuntos e debater as teorias que aprendemos na sala aula”, afirma a aluna do 2° período.</p><p>A coordenadora de Fisioterapia, Patrícia Xavier, chama a atenção para o fortalecimento da integração do corpo docente, através das pesquisas, e discente, adquirindo novos conhecimentos. “A semana visa o avanço e a proposição de novos trabalhos científicos e a divulgação de pesquisas já realizadas”, afirma.</p><p>Dentre os temas abordados nesta primeira edição estão: a neuropsicologia e o diagnóstico de TEA e TOURETTE; a qualidade de vida e exercícios respiratórios; e a importância do desenvolvimento cognitivo e motor da técnica esportiva. Uma segunda edição está sendo pensada para 2020 e pretende agregar também os conhecimentos dos cursos de Biomedicina e Nutrição.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/foto-2.jpg?resize=506%2C379&#038;ssl=1' alt='' width='506' height='379' /><figcaption>A psicóloga Laryssa Heckert debate sobre o diagnóstico de TEA e TOURETTE – Foto: Ana Carolina Fernandes</figcaption></figure><p><strong>Ana Carolina Fernandes – 4° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-01T10:36:08",
+  "date_gmt": "2019-09-01T13:36:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento reuniu diferentes cursos para uma conversa interdisciplinar e integrada Um diálogo transversal entre os cursos de Psicologia, Fisioterapia e Educação Física fizeram parte da primeira Semana de Saúde do campus Barra, da Universidade Veiga de Almeida, que aconteceu entre os dias 26 e 31 de agosto. Para a diretora da unidade, Nara Iwata, o [&hellip;]</p>\n"
+  },
+  "featured_media": 4860,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4856"
+  },
+  "id": 4856,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/foto-1-1-e1567344912879.jpg?fit=4608%2C2911&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1gk",
+  "link": "https://agenciauvabarra.com/2019/09/01/primeira-semana-de-saude-na-uva-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-01T10:40:18",
+  "modified_gmt": "2019-09-01T13:40:18",
+  "ping_status": "open",
+  "slug": "primeira-semana-de-saude-na-uva-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    22609307,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Primeira Semana de Saúde na UVA Barra"
+  },
+  "type": "post"
+}

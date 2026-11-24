@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7179/revisions/7188",
+        "id": 7188
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7179"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7179",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7179/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7179"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7182"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7179",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7179",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-7179",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Estudo revela aumento do consumo digital durante isolamento social</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/07/outlook-0jvskilm.png?resize=320%2C400&#038;ssl=1' alt='Arte divulgação' width='320' height='400' /><figcaption>Arte divulgação – Agência Onze</figcaption></figure><p>A Universidade Veiga de Almeida e o Laboratório CRIA de Estudos Integrados em Criatividade e Economia Criativa, campus Barra, realizou no mês de junho a pesquisa “Consumo e Quarentena”. O estudo visa analisar a relação de comportamento e consumo da sociedade brasileira com os serviços digitais que fazem parte da indústria criativa em tempos de isolamento social, devido a pandemia causada pelo novo coronavírus.</p><p>O coordenador do Laboratório CRIA e da Agência Onze Leonardo Amato destaca que as reflexões geradas a partir dos resultados da pesquisa servem para entender um pouco do atual cenário e mostra o que pode vir acontecer no momento pós pandemia e, assim, compreender a realidade do mercado nesse momento de quarentena.</p><p>Ouça o áudio da entrevista:</p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F850344967&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Áudio da entrevista' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><p>A pesquisa revela que o consumo digital tem sido de importante durante o isolamento social. 1255 pessoas de todo o Brasil respondeu às perguntas e segundo o relatório, o celular é o meio mais utilizado para acessar a internet (98,2%). As plataformas de vídeo streaming são as que fazem mais sucesso com público durante a quarentena, teve um aumento de 66,5% durante o isolamento social. Plataformas como o youtube (82,2%) e a Netflix (86,5) saem disparados na frente como as redes mais utilizadas.</p><p>Sem poder sair para se divertir, o enfermeiro Rafael Assis está na parcela do público que aumentou o uso do Youtube. O profissional da saúde diz que passou a utilizar mais a plataforma de vídeo. “Eu curto mais ouvir músicas ao vivo e os aplicativos de música tem uma variedade menor do que no youtube, e ultimamente eu tenho acompanhado alguns canais de entretenimento e receitas de <em>YouTubers</em>. Isso rolou na quarentena, antes não assistia”.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/07/whatsapp-image-2020-07-01-at-09.58.34.jpeg?resize=720%2C1280&#038;ssl=1' alt='Rafael passou a utilizar mais o Youtube após a quarentena' width='720' height='1280' /><figcaption>Rafael passou a utilizar mais o Youtube após a quarentena – Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/07/whatsapp-image-2020-07-01-at-11.07.13-1.jpeg?resize=960%2C1280&#038;ssl=1' alt='Para Kaliane, a utilização desses aplicativos é uma maneira de evitar possíveis aglomerações' width='960' height='1280' /><figcaption>Para Kaliane, a utilização desses aplicativos é uma maneira de evitar possíveis aglomerações – Foto: Arquivo Pessoal</figcaption></figure><p>Outro dado significativo apontado pela pesquisa foram os downloads de novos aplicativos. A preferência em tempos de isolamento social foram os de delivery, 50,2% dos entrevistados passaram a utilizar os serviços de entrega durante a pandemia, como no caso da estudante de jornalismo Kaliane Trindade. A universitária conta que conforme a quarentena foi passando, o uso dos aplicativos de delivery ficou mais recorrente na sua rotina e acabou se tornando um novo hábito de consumo. “A facilidade que os aplicativos proporcionam, tanto na entrega quanto no formato de pagamento faz com que o serviço seja oferecido da melhor maneira, atendendo as expectativas da experiência por aplicativo”, relata.</p><blockquote><p><strong>“A reinvenção do mercado de consumo pós-pandemia está na criação de novas vivências, sejam elas no ambiente virtual ou físico. É hora de ressignificar a indústria criativa”. </strong></p><cite>– Pesquisa Consumo &amp; Quarentena</cite></blockquote><p>A análise mostra que 82,9% dos entrevistados passaram a comprar produtos pela internet e dessa parcela, 88,2% pretendem continuar comprando online após a quarentena. Para conhecer a pesquisa completa é só acessar o <a href='https://ojs.uva.br/index.php/revista-registro/catalog/category/pesquisa_quarentena_uva'>site</a> e baixar grátis o pdf. .</p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-07-01T14:37:30",
+  "date_gmt": "2020-07-01T17:37:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Estudo revela aumento do consumo digital durante isolamento social A Universidade Veiga de Almeida e o Laboratório CRIA de Estudos Integrados em Criatividade e Economia Criativa, campus Barra, realizou no mês de junho a pesquisa “Consumo e Quarentena”. O estudo visa analisar a relação de comportamento e consumo da sociedade brasileira com os serviços digitais [&hellip;]</p>\n"
+  },
+  "featured_media": 7182,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7179"
+  },
+  "id": 7179,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/07/outlook-0jvskilm.png?fit=1024%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1RN",
+  "link": "https://agenciauvabarra.com/2020/07/01/laboratorio-cria-realiza-pesquisa-consumo-e-quarentena/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-07-01T14:46:25",
+  "modified_gmt": "2020-07-01T17:46:25",
+  "ping_status": "open",
+  "slug": "laboratorio-cria-realiza-pesquisa-consumo-e-quarentena",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Laboratório CRIA realiza pesquisa “Consumo e Quarentena”"
+  },
+  "type": "post"
+}

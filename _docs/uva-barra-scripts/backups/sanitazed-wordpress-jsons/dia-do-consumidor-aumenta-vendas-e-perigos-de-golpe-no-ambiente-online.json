@@ -1,0 +1,189 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14246/revisions/14261",
+        "id": 14261
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14246"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14246",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14246/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14246"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14259"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14246",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14246",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    81389,
+    11716206,
+    7442,
+    22,
+    175,
+    21243,
+    758
+  ],
+  "class_list": [
+    "post-14246",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direito",
+    "category-economia-2",
+    "category-empreendedorismo",
+    "category-internet",
+    "category-marketing",
+    "category-seguranca",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-consumidor",
+    "tag-digital",
+    "tag-direito",
+    "tag-ecommerce",
+    "tag-golpe",
+    "tag-internet",
+    "tag-lojas",
+    "tag-online"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Lei do e-commerce regulamenta transações realizadas pela internet</em></p><p>No dia 15 de março é comemorado o “Dia do consumidor”, a data é considerada a “Black Friday do primeiro semestre” e é aguardada por diversas empresas para aquecer as vendas nas lojas físicas e online, reforçando que essa modalidade ganhou fôlego e preferência de muitos consumidores. Segundo relatório do blog de marketing digital All In, na primeira quinzena de março de 2022 (1/3 a 15/3), o e-commerce brasileiro faturou cerca de 7 bilhões de reais, sendo 8% a mais do que em 2021. Dados mostram que um fator importante para este aumento foi a pandemia, onde o comércio digital ganhou relevância na economia brasileira. Segundo pesquisa da SmartHint, nos 5 primeiros meses de 2022, o faturamento do e-commerce no Brasil foi 785% maior do que no período pré pandemia, e a projeção é que tenha um aumento anual de 18% até 2025, de acordo com relatório The Global Payments Report 2022.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/whatsapp-image-2023-03-15-at-18.35.34.jpeg?resize=268%2C353&amp;ssl=1\" alt=\"\" width=\"268\" height=\"353\"><figcaption>Marcos César é fundador do curso de Direito da UVA Barra. (Foto: Leonardo Pereira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/foto-duda-1.jpeg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\"><figcaption>Maria Eduarda diz que não tinha conhecimento da lei do e-commerce. (Foto: Arquivo</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/foto-luiz-1061836377-e1678920886252.jpeg?resize=483%2C583&amp;ssl=1\" alt=\"\" width=\"483\" height=\"583\"><figcaption>Luiz Henrique conseguiu ganhar na justiça um reembolso de 3 vezes o valor da compra. (Foto: Arquivo Pessoal)</figcaption></figure><p>Com o aumento do consumo digital, vieram também os problemas. A legislação brasileira criou a lei n° 7962/2013, a “Lei do e-commerce”, como uma extensão do Código de Defesa do Consumidor (CDC), focada apenas no universo digital, com o objetivo de regulamentar e proteger a atividade dos contratos eletrônicos no Brasil. O professor do curso de Direito da UVA Barra, Marcos Cesar de Souza Lima, especialista em Direito do consumidor e membro da Comissão de Defesa do Consumidor da OAB/RJ aponta que as empresas devem entender e respeitar a lei e o consumidor, mesmo que essa relação não seja olho no olho. “É na mudança comportamental que a lei quer atacar. É fazer com que os fornecedores enxerguem nesse cliente, que vem buscar através dos meios eletrônicos a aquisição de seus produtos ou serviços, que ele tenha a possibilidade de ser extremamente bem tratado no momento da contração”.</p><p>Segundo Marcos César, as lojas virtuais tornam-se extremamente atrativas para os empreendedores, pois elas quebram as barreiras territoriais. <strong>No vídeo abaixo, o advogado fala sobre as vantagens do e-commerce para os fornecedores:</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/ZLafydkoyK8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>O consumidor deve sempre ficar alerta ao realizar compras pela internet. Maria Eduarda Zine é estudante de engenharia química, e certa vez realizou a compra de um fogão em um site. “No momento da compra recebi a nota fiscal e o código de rastreio do produto por e-mail, parecia ser verdadeiro. Quando chegou no dia da entrega, fui verificar o rastreamento e o link não existia mais, entrei no site e também tinha sumido. O pagamento foi realizado por pix, e não consegui o dinheiro de volta”, afirma a jovem. Segundo ela, ficou insegura em realizar novas compras pela internet, e agora só realiza esta ação em lojas que conhece fisicamente.</p><p><strong>Ouça o depoimento da Maria Eduarda alertando sobre os golpes em compras pela internet:</strong></p><figure><div><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Ouça o depoimento da Maria Eduarda alertando sobre os golpes em compras pela internet by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1469823037&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></div></figure><p>O engenheiro mecânico Luiz Henrique Feitosa também passou por uma situação complicada com o mercado online. Fez a compra em uma loja virtual que ultrapassou o prazo de entrega previsto pelo fornecedor, e a mercadoria foi entregue no endereço errado. Quando entrou em contato com a loja, foi informado que não tinha o que fazer, e ele iria ficar sem o produto. “Eu não tinha conhecimento dos meus direitos como consumidor, mas corri atrás de um advogado especializado, entrei na justiça e consegui ganhar a causa”, afirma Luiz.</p><p><strong>Agora, Luiz Henrique mudou a sua forma de realizar compras na internet: Confira no áudio abaixo</strong>:</p><figure><div><div class=\"embed-soundcloud\"><iframe loading=\"lazy\" title=\"Agora, Luiz Henrique mudou a sua forma de realizar compras na internet: Confira no áudio by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1469824180&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></div></figure><p>De acordo com o artigo 49 do Código de Defesa do Consumidor (CDC), um dos pontos importantes da lei do e-commerce é que o cliente tem até 7 dias para desistir do contrato ou compra a partir da data da assinatura e os valores precisam ser devolvidos de forma integral.</p><p><em>Igor Concolato – 3° período</em></p></main>"
+  },
+  "date": "2023-03-15T20:03:26",
+  "date_gmt": "2023-03-15T23:03:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No dia 15 de março é comemorado o “Dia do consumidor”, a data é considerada a “Black Friday do primeiro semestre” e é aguardada por diversas empresas para aquecer as vendas nas lojas físicas e online, reforçando que essa modalidade ganhou fôlego e preferência de muitos consumidores. Segundo relatório do blog de marketing digital All In, na primeira quinzena de março de 2022 (1/3 a 15/3), o e-commerce brasileiro faturou cerca de 7 bilhões de reais, sendo 8% a mais do que em 2021. Dados mostram que um fator importante para este aumento foi a pandemia, onde o comércio digital ganhou relevância na economia brasileira. Segundo pesquisa da SmartHint, nos 5 primeiros meses de 2022, o faturamento do e-commerce no Brasil foi 785% maior do que no período pré pandemia, e a projeção é que tenha um aumento anual de 18% até 2025, de acordo com relatório The Global Payments Report 2022.</p>\n"
+  },
+  "featured_media": 14259,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14246"
+  },
+  "id": 14246,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/ecommerce-g274b02258_1920.png?fit=1920%2C1439&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3HM",
+  "link": "https://agenciauvabarra.com/2023/03/15/dia-do-consumidor-aumenta-vendas-e-perigos-de-golpe-no-ambiente-online/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-15T20:04:08",
+  "modified_gmt": "2023-03-15T23:04:08",
+  "ping_status": "open",
+  "slug": "dia-do-consumidor-aumenta-vendas-e-perigos-de-golpe-no-ambiente-online",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    137718,
+    24932,
+    767056624,
+    11160,
+    571016,
+    767056590,
+    62427,
+    1562
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dia do consumidor aumenta vendas e perigos de golpe no ambiente online"
+  },
+  "type": "post"
+}

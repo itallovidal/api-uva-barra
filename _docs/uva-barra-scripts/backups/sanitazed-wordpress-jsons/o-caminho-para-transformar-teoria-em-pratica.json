@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1006/revisions/3322",
+        "id": 3322
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1006"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1006",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1006/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1006"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1006",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1006",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1006",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Inauguração e ampliação de novos laboratórios aumenta a experiência e o aproveitamento na formação dos alunos</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/fotografia-giovanna-faria-1.jpeg?resize=1280%2C960&amp;ssl=1' alt='Fotografia Giovanna Faria 1' width='1280' height='960' /><figcaption>Fotografia: Giovanna Faria</figcaption></figure><p>Mais um período chega ao fim. Dessa vez, no entanto, o semestre no Campus UVA Barra foi cercado de expectativas e novas experiências. Com a chegada de diversos alunos do antigo Campus Downtown, e visando a melhoria na infraestrutura, o Campus da Barra da Tijuca inaugurou e expandiu diversos laboratórios, que atendem a todos os cursos, além de uma nova e moderna biblioteca.</p><p>As novas áreas interferem diretamente no processo de capacitação dos universitários. Segundo a Diretora Acadêmica, Nara Iwata, para que os alunos tenham uma formação em linha com o mercado, é importante que eles desfrutem das experiências práticas em consonância à teoria. \"Os laboratórios permitem o uso de metodologias educacionais diferenciadas, ampliando o envolvimento do aluno com as questões emergentes em suas áreas\".</p><p>Dentre as novidades podemos destacar a inauguração do laboratório de Química para os cursos de Engenharia e Saúde, do Estúdio de Áudio/Vídeo/Fotografia para o curso de Publicidade, Jornalismo, Designs e Produção Audiovisual, da Agência de Notícias para Jornalismo, da Agência Experimental para Publicidade, da TV UVA para Jornalismo e Publicidade e do LabIdeias para todos os cursos.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/fotografia-giovanna-faria-2.jpeg?resize=1176%2C883&amp;ssl=1' alt='Fotografia Giovanna Faria 2' width='1176' height='883' /><figcaption>Fotografia: Giovanna Faria</figcaption></figure><p>Os Laboratórios de Informática passarem de 3 para 5, o Laboratório do curso de Moda teve fusão com o de Modelagem e Estamparia, o de Prototipagem com aquisição de novos equipamentos para o curso de Design, Arquitetura e Engenharias e o Escritório Modelo e o Núcleo de Apoio Fiscal para Administração e Ciências Contábeis.</p><p>Todas essas melhorias visam atender as necessidades e expectativas dos aproximadamente 3.500 estudantes. Para a aluna de Jornalismo do 3º período, Isabelle Amancio, que estudou no antigo Campus Downtown, as mudanças da nova localização proporciona um maior aproveitamento. \"O laboratório de informática, por exemplo, antigamente, era apenas em uma sala, com alguns computadores. Hoje existe cinco laboratórios com diversas máquinas, o que ajuda bastante na hora de fazer um trabalho, uma matéria online ou estudar em grupo\".</p><p>Para Coordenadora do curso de Comunicação, Margaret Carino, conclui-se mais um período com feedback bastante positivo. \"Os alunos usufruem de um amplo espaço no campus, se envolvem com as práticas nos laboratórios durante todo o dia e aprendem fazendo, o que é fundamental para a formação deles\". Mas as boas notícias não acabam por aqui. Os estudantes podem esperar mais melhorias para o próximo semestre e para o ano que vem, como a inauguração de mais laboratório e oferta de novos cursos, que prometem trazer mais experiências durante a formação dos futuros profissionais.</p><p><i>Texto produzido por Tayane Fernandes, 5º período de Jornalismo</i></p></main>"
+  },
+  "date": "2017-06-29T15:56:50",
+  "date_gmt": "2017-06-29T18:56:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Inauguração e ampliação de novos laboratórios aumenta a experiência e o aproveitamento na formação dos alunos  </p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1006"
+  },
+  "id": 1006,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-ge",
+  "link": "https://agenciauvabarra.com/2017/06/29/o-caminho-para-transformar-teoria-em-pratica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:47:23",
+  "modified_gmt": "2019-02-28T19:47:23",
+  "ping_status": "open",
+  "slug": "o-caminho-para-transformar-teoria-em-pratica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "O caminho para transformar teoria em prática"
+  },
+  "type": "post"
+}

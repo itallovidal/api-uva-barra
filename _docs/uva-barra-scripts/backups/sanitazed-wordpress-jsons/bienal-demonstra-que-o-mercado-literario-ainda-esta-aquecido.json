@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4987/revisions/5141",
+        "id": 5141
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4987"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4987",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4987/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4987"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4989"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4987",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4987",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    3719
+  ],
+  "class_list": [
+    "post-4987",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-literatura",
+    "tag-agencia-uva-barra",
+    "tag-bienal-do-livro-2019",
+    "tag-riocentro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Livro físico continua protagonista de todas as 19 edições</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/fbfce44f-0608-4c2b-960e-0c06193c5c3d-e1567772618348.jpg?resize=995%2C559&amp;ssl=1\" alt=\"\" width=\"995\" height=\"559\" /><figcaption></figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_0497.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"853\" /><figcaption></figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_0498.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"853\" /><figcaption></figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_0500.jpg?resize=1280%2C805&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"805\" /><figcaption></figcaption></figure><p>A Bienal Internacional do Livro é sempre uma oportunidade para atrair novos leitores, vender livros e aproximar pessoas ao universo da leitura. Na edição de 2017 cada um dos 640 mil visitantes deixou o festival com seis livros, em média, e esse ano se espera o mesmo. Durante os dez dias do evento 5,5 milhões de exemplares de livros disponíveis estarão disponíveis no Riocentro.</p><p>O atual cenário do mercado literário brasileiro não é dos melhores, e enfrenta crises, algumas editoras famosas tem entrado em estado de falência apesar das pesquisas dizerem que os leitores continuam ávidos pelos livros e, crescem em quantidade a cada ano. O incentivo à leitura é muito importante na formação intelectual e social do indivíduo, por isso a importância de espaços como a Bienal para fortalecer esse laço. </p><p>O escritor Beto Junqueyra conta que o livro físico nunca vai acabar “A tendência mundial é que o livro de papel continue crescendo, o digital não concorre com ele, na verdade eles são bem diferentes, é outro tipo de experiencia, então o livro nunca vai deixar de existir” e também afirma que o brasileiro gosta de ler sim, o que falta é o livro ser mais acessível para todos e com preços mais justos. Ler não é unicamente para entretenimento ou uso acadêmico, é também, um ótimo meio que oferece ao leitor uma visão ampla de mundo, onde ele pode entender suas próprias experiências.</p><p>Pela primeira vez a Bienal fez ações de incentivo à leitura antes mesmo do começo do festival. Com o projeto Bienal nas Escolas autores como Miriam Leitão e Nathalia Arcuri foram aos colégios trocar experiências com os alunos, provocando o envolvimento dos leitores com o evento. Outra ação aconteceu no ônibus do BRT e vagões do metrô, exemplares foram deixados nos bancos para que os usuários pudessem pegar e levar para a casa. O incentivo é uma forma de criar hábito e crescer as vendas.</p><p>O autor Lucinei Campos vê com bons olhos a participação de escritores brasileiros dentro do mercado editorial. “Acredito que estamos vivendo uma época muito importante para dar valor a leitura nacional, temos autores novos, autores bons e o Brasil gosta muito de ter um autor mascote, aqueles que sempre estão na Bienal como Thalita Rebouças, Mauricio de Sousa, Ziraldo” diz. O mercado literário não se restringe só aos grandes, há espaço para todos, do físico e do digital.</p><p>O deslizamento de conteúdos entre mídias e telas é um fenômeno da atualidade. Livros que se transformam em filmes, quadrinhos que viram séries, filmes que viram livros e assim por diante, conquistando tanto o publico da livraria quanto os do cinema. A escritora e roteirista Thalita Rebouças participou da Bienal e fala sobre a experiência de ter mais uma obra transposta para a tela grande. “Quando eu penso em todas essas pessoas que leram meu livro, eu quero que elas se vejam. Que eles vão ao cinema e falem ‘É o livro que eu li’ por mais que tenham tido algumas adaptações” explica.</p><p>A XIX Bienal Internacional do livro Rio tem programação para público diversos, desde o infantil aos livros técnicos. Alguns estandes oferecem exemplares de dez reais, outros dão descontos a professores. Os visitantes têm até o domingo, dia 08/09 para participar do evento e sair com a sacola cheia de novos exemplares de leitura.</p><p><strong>Beatrice Laeber – 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-05T22:41:14",
+  "date_gmt": "2019-09-06T01:41:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Livro físico continua protagonista de todas as 19 edições A Bienal Internacional do Livro é sempre uma oportunidade para atrair novos leitores, vender livros e aproximar pessoas ao universo da leitura. Na edição de 2017 cada um dos 640 mil visitantes deixou o festival com seis livros, em média, e esse ano se espera o [&hellip;]</p>\n"
+  },
+  "featured_media": 4989,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4987"
+  },
+  "id": 4987,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/fbfce44f-0608-4c2b-960e-0c06193c5c3d-e1567772618348.jpg?fit=995%2C559&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1ir",
+  "link": "https://agenciauvabarra.com/2019/09/05/bienal-demonstra-que-o-mercado-literario-ainda-esta-aquecido/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-11T10:21:28",
+  "modified_gmt": "2019-09-11T13:21:28",
+  "ping_status": "open",
+  "slug": "bienal-demonstra-que-o-mercado-literario-ainda-esta-aquecido",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    683955564,
+    10031061
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Bienal demonstra que o mercado literário ainda está aquecido"
+  },
+  "type": "post"
+}

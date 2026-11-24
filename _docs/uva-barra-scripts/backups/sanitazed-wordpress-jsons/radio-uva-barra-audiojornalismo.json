@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21583/revisions/21586",
+        "id": 21586
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21583"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21583",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21583/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21583"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21345"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21583",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21583",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-21583",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Esse episódio da Rádio UVA Barra apresenta “Projetos Sociais e incentivos que ajudam pessoas de baixa renda terem acesso à educação”, o produto é uma produção da disciplina de Audiojornalismo, sob a supervisão do Professor Anderson Barreto.</p><p>Quer saber mais sobre? Sintonize agora na Rádio UVA Barra!</p><figure><img src='https://www.instagram.com/reel/DTSpODHCWJJ/?utm_source=ig_embed&amp;utm_campaign=loading' alt='Post do Instagram' width='500' height='500'><figcaption>View this post on Instagram</figcaption></figure><p>Produção:Luys Guilherme Cavalcante<br>Coordenação da Rádio UVA Barra: Prof Anderson Barreto<br>Coordenação do Curso de Jornalismo: Profa Renata Feital</p></main>"
+  },
+  "date": "2026-01-09T16:19:05",
+  "date_gmt": "2026-01-09T19:19:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Esse episódio da Rádio UVA Barra apresenta “Projetos Sociais e incentivos que ajudam pessoas de baixa renda terem acesso à educação”, o produto é uma produção da disciplina de Audiojornalismo, sob a supervisão do Professor Anderson Barreto. Quer saber mais sobre? Sintonize agora na Rádio UVA Barra! Produção:Luys Guilherme CavalcanteCoordenação da Rádio UVA Barra: Prof [&hellip;]</p>\n"
+  },
+  "featured_media": 21345,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21583"
+  },
+  "id": 21583,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-06-113047-e1778077932904.png?fit=565%2C258&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5C7",
+  "link": "https://agenciauvabarra.com/2026/01/09/radio-uva-barra-audiojornalismo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAG2oLyrwhzWQYCOAEQLAIBAQgBA0gKzAGCAbgIAQEIAQNI+AmMFMoKwgmwGAEBCAEDSApKjAIBAQgBA0gCBAIBAvgHNrYJAwGcAQIE3AQA8BymAQKKJsAncKIfAwGcAQIEDaYKAJYKrAoDAZwBAgRXKAEhACcABACEACcBKAYnACgUJwAHACgCJwEoBCcABACEAIcAKAInASgEJwAEAIQABADHACgCJwEoBCcABADHACgCJwEoBCcAqAEnACgDxACEBygBqAXEqBehFnN0YXRldmVyc2lvbmRvY3VtZW50ZGF0ZWRvY3VtZW50c3RhdHVzZG9jdW1lbnR0aXRsZVJhc2N1bmhvIGF1dG9tw6F0aWNvZG9jdW1lbnRjb250ZW50ZG9jdW1lbnRleGNlcnB0ZG9jdW1lbnRhdXRob3Jkb2N1bWVudGZlYXR1cmVkX21lZGlhZG9jdW1lbnRjb21tZW50X3N0YXR1c2RvY3VtZW50cGluZ19zdGF0dXNkb2N1bWVudHN0aWNreWRvY3VtZW50dGVtcGxhdGVkb2N1bWVudGZvcm1hdGRvY3VtZW50bWV0YWFkdmFuY2VkX3Nlb19kZXNjcmlwdGlvbmpldHBhY2tfc2VvX2h0bWxfdGl0bGVqZXRwYWNrX3Nlb19ub2luZGV4X2NvYmxvY2tzX2F0dHJfY29ibG9ja3NfZGltZW5zaW9uc19jb2Jsb2Nrc19yZXNwb25zaXZlX2hlaWdodF9jb2Jsb2Nrc19hY2NvcmRpb25faWVfc3VwcG9ydGpldHBhY2tfcG9zdF93YXNfZXZlcl9wdWJsaXNoZWRyZWFkZXJfc3VnZ2VzdGVkX3RhZ3NfamV0cGFja19uZXdzbGV0dGVyX2FjY2Vzc19qZXRwYWNrX2RvbnRfZW1haWxfcG9zdF90b19zdWJzX2pldHBhY2tfbmV3c2xldHRlcl90aWVyX2lkX2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGF5d2FsbGVkX2NvbnRlbnRfamV0cGFja19tZW1iZXJzaGlwc19jb250YWluc19wYWlkX2NvbnRlbnRmb290bm90ZXNqZXRwYWNrX3B1YmxpY2l6ZV9tZXNzYWdlamV0cGFja19wdWJsaWNpemVfZmVhdHVyZV9lbmFibGVkamV0cGFja19zb2NpYWxfcG9zdF9hbHJlYWR5X3NoYXJlZGpldHBhY2tfc29jaWFsX29wdGlvbnNkb2N1bWVudGNhdGVnb3JpZXNkb2N1bWVudHRhZ3Nkb2N1bWVudGJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzRXNzZSBlcGlzw7NkaW8gZGEgUsOhZGlvIFVWQSBCYXJyYSBhcHJlc2VudGEg4oCcUHJvamV0b3MgU29jaWFpcyBlIGluY2VudGl2b3MgcXVlIGFqdWRhbSBwZXNzb2FzIGRlIGJhaXhhIHJlbmRhIHRlcmVtIGFjZXNzbyDDoCBlZHVjYcOnw6Nv4oCdLCBvIHByb2R1dG8gw6kgdW1hIHByb2R1w6fDo28gZGEgZGlzY2lwbGluYSBkZSBBdWRpb2pvcm5hbGlzbW8sIHNvYiBhIHN1cGVydmlzw6NvIGRvIFByb2Zlc3NvciBBbmRlcnNvbiBCYXJyZXRvLsOhZGlvIFVWQSBCYXJyYSAtIEF1ZGlvam9ybmFsaXNtb2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkVzc2UgZXBpc8OzZGlvIGRhIFLDoWRpbyBVVkEgQmFycmEgYXByZXNlbnRhIOKAnFByb2pldG9zIFNvY2lhaXMgZSBpbmNlbnRpdm9zIHF1ZSBhanVkYW0gcGVzc29hcyBkZSBiYWl4YSByZW5kYSB0ZXJlbSBhY2Vzc28gw6AgZWR1Y2HDp8Ojb+KAnSwgbyBwcm9kdXRvIMOpIHVtYSBwcm9kdcOnw6NvIGRhIGRpc2NpcGxpbmEgZGUgQXVkaW9qb3JuYWxpc21vLCBzb2IgYSBzdXBlcnZpc8OjbyBkbyBQcm9mZXNzb3IgQW5kZXJzb24gQmFycmV0by48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT5Qcm9kdcOnw6NvOkx1eXMgR3VpbGhlcm1lIENhdmFsY2FudGU8YnI+Q29vcmRlbmHDp8OjbyBkYSBSw6FkaW8gVVZBIEJhcnJhOiBQcm9mIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mYSBSZW5hdGEgRmVpdGFsY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50ZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NRdWVyIHNhYmVyIG1haXMgc29icmU/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhIWNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2FwdGlvbnByb3ZpZGVyTmFtZVNsdWdhbGxvd1Jlc3BvbnNpdmVyZXNwb25zaXZlcHJldmlld2FibGVRdWVyIHNhYmVyIG1haXMgc29icmU/IFNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhIQoKPCEtLSB3cDplbWJlZCB7InByb3ZpZGVyTmFtZVNsdWciOiJpbnN0YWdyYW0iLCJyZXNwb25zaXZlIjp0cnVlfSAvLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+UHJvZHXDp8OjbzpMdXlzIEd1aWxoZXJtZSBDYXZhbGNhbnRlPGJyPkNvb3JkZW5hw6fDo28gZGEgUsOhZGlvIFVWQSBCYXJyYTogUHJvZiBBbmRlcnNvbiBCYXJyZXRvPGJyPkNvb3JkZW5hw6fDo28gZG8gQ3Vyc28gZGUgSm9ybmFsaXNtbzogUHJvZmEgUmVuYXRhIEZlaXRhbDwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPnVybHR5cGV1cmwiOiJodHRzOi8vd3d3Lmluc3RhZ2FtLmNtL3JlZWwvRFRTcE9ESENXSkovP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGlua1x1MDAyNmlnc2g9TXpSbE9EQmlOV0ZsWkE9PSIsInR5cGUiOiJyaWNoIiwicHJvLS0+CjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWVtYmVkIGlzLXR5cGUtcmljaCBpcy1wcm92aWRlci1pbnN0YWdyYW0gd3AtYmxvY2stZW1iZWQtaW5zdGFncmFtIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi93d3cuaW5zdGFncmFtLmNvbS9yZWVsL0RUU3BPREhDV0pKLz91dG1fc291cmNlPWlnX3dlYl9jb3B5X2xpbmsmYW1wO2lnc2g9TXpSbE9EQmlOV0ZsWkE9PQo8L2Rpdj48L2ZpZ3VyZT4KPCEgL3dwOmVtYmVkIC0tBQcIBAgGCAUBEggHCAcIBggOCA4ICwgGSAEGCAQYFhMOFBseHxUaIBsvKgkZISIWCAoIBAgGCAcECkcACg0PDAuwAyAIBwQKRwAKDQ8MC78EG5YCCAcECkcACg0PDAs6CAcECkcACg0PDAsHEA8KCzoSQQEuAQKNAwMECQ4EngGLAq0BDQsBAwAAAQkAEgECABVCAQEAQQACAEEAAgBBAAIAQQACAAIFQUcCQQEBewB9AXcTMjAyNi0wNS0wN1QxNjoxOTowNX2a4K5yfQB3BG9wZW53BG9wZW55dwB3CHN0YW5kYXJkdwB3AHl3AHcAdwB3AHl3AHcAeX0AeXl3AHcAeHl2AhhpbWFnZV9nZW5lcmF0b3Jfc2V0dGluZ3N2BAh0ZW1wbGF0ZXcHaGlnaHdheRBkZWZhdWx0X2ltYWdlX2lkfQAEZm9udHcAB2VuYWJsZWR5B3ZlcnNpb259AnUAdQB3JGU5N2MzNzlkLTc3MjctNDg5Yy1iZTI4LTM5ZTdhN2JhZWJkOXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckZDg1YzBiNzUtOWQwMC00NzRhLThkMWYtNzY3NWM3YmQ3ZTNheHcOY29yZS9wYXJhZ3JhcGh5dwB3AHl5dyQxZjUxNjAxNC1mODllLTQ3YWUtODc2Yy1kZjJmYmI4M2YzNzV4dw5jb3JlL3BhcmFncmFwaHl3AHcAeXl3JDAyNDFmYjY0LTk1NjEtNGYxZS1hYzM2LTdlOWQ4OTBiNDBlMXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXckMzJhYTFhNmMtN2FlMi00Mzc3LThmZmItMmJlYmUxZjVhMzNjdwpjb3JlL2VtYmVkdwlpbnN0YWdyYW14eHh3XWh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EVFNwT0RIQ1dKSi8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmlnc2g9TXpSbE9EQmlOV0ZsWkE9PXcEcmljaHcTMjAyNi0wMS0wOVQxNjoxOTowNXUBfbDt+JwFdQF9mcyY6gR1An2ZzJjqBH2G8+m4AXUDfZnMmOoEfYbz6bgBfay+lwV9oc0CdwdwdWJsaXNoAZqB+ZcECAEBAhEDABkB4AYAAQABBdkCAQ==\",\"updateId\":103284124}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-07T16:22:08",
+  "modified_gmt": "2026-05-07T19:22:08",
+  "ping_status": "open",
+  "slug": "radio-uva-barra-audiojornalismo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rádio UVA Barra &#8211; Audiojornalismo"
+  },
+  "type": "post"
+}

@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17988/revisions/17993",
+        "id": 17993
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17988"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17988",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17988/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17988"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17988",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17988",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17988",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Especialistas discutem os impactos do uso excessivo de dispositivos eletrônicos e oferecem soluções para equilibrar tecnologia e aprendizado, como a inclusão de um dia sem acesso à tecnologia na rotina da criança.</p><p>O acesso precoce de crianças a dispositivos eletrônicos para entretenimento e comunicação tem sido motivo de alerta entre especialistas, que destacam os prejuízos à saúde mental e ao desenvolvimento social. Entre os problemas identificados estão atrasos na fala, alterações no humor, dificuldades de interação e prejuízos na aprendizagem, especialmente na primeira infância. Como solução, profissionais sugerem práticas que limitem o tempo de tela e valorizem brincadeiras e interações presenciais, essenciais para um desenvolvimento equilibrado.</p><p>O uso excessivo de dispositivos eletrônicos por crianças tem gerado preocupações no meio educacional e psicológico. Aline Rodrigues, pedagoga no Centro de Educação Monteiro Marques, em Campo Grande, destaca que a introdução precoce das telas na rotina infantil tem levado a alterações significativas no comportamento dos alunos, prejudicando a concentração e aumentando a ansiedade dos estudantes em sala de aula. “O impacto dentro da sala de aula é notório é possível perceber prejuízos na concentração, aumento da ansiedade e até a falta de iniciativa para construir laços de amizade”, explica a educadora.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/whatsapp-image-2024-11-26-at-12.14.27.jpeg?resize=739%2C914&amp;ssl=1\" alt=\"\" width=\"739\" height=\"914\" /><figcaption>Aline Rodrigues, pedagoga no Centro de Educação Monteiro Marques, em Campo Grande.</figcaption></figure><p>Além disso, Aline observa que o uso excessivo das telas pode expor as crianças a conteúdos inadequados para a idade, prejudicando o amadurecimento e a segurança emocional. A pedagoga destaca, no entanto, que a escola tem buscado alternativas para minimizar esses efeitos, como a proibição do uso de aparelhos eletrônicos dentro da instituição e a adoção de novas estratégias de ensino, como o uso de assuntos populares nas redes sociais e jogos. “Utilizo os assuntos que os alunos trazem sobre joguinhos, TikTok ou memes para enriquecer as aulas, conectando o conteúdo acadêmico aos interesses deles”, comenta.</p><p>Ana Maria de Lima, psicóloga da Fazenda Paraíso e pós-graduada em saúde mental, também vê com preocupação os impactos do uso prolongado das telas, especialmente na fase pré-escolar. A especialista destaca que os prejuízos para as crianças podem ser diversos, variando desde problemas de postura e aumento da agressividade até situações mais graves, como falta de concentração, atraso na fala — especialmente para aquelas que estão na fase de desenvolvimento da linguagem — e aumento da ansiedade. “Os prejuízos para as crianças incluem dificuldades de concentração, atraso na fala, transtornos de sono, ansiedade, agressividade e até problemas de postura”, alerta. Ela enfatiza que os efeitos são mais intensos durante a fase de desenvolvimento cognitivo e emocional, quando as crianças estão formando habilidades essenciais para a vida social e acadêmica.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/ana-maria-de-lima-soares-psicologa-da-fazenda-paraiso-e-pos-graduada-em-saude-mental.jpg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\" /><figcaption>Ana Maria de Lima, Psicóloga da Fazenda Paraíso e pós-graduada em Saúde Mental.</figcaption></figure><p>Ana Maria de Lima aponta que o uso excessivo de dispositivos também pode resultar em mudanças no comportamento e dificuldades de interação social. Ela afirma que uma das causas desse uso excessivo de celulares está ligada à falta de interação social na escola e explica que, para mitigar esses impactos, sugere que os pais adotem medidas preventivas, como estabelecer limites de tempo para o uso de tecnologias e promover atividades que incentivem o contato físico e a socialização, defendendo a ideia de que a criança tenha um dia da semana sem acesso à tecnologia. “A falta de interações sociais na unidade escolar é uma das maiores consequências do tempo excessivo em frente às telas. Ao estabelecer horários fixos para o uso dos aparelhos, monitorando o conteúdo acessado e incentivando brincadeiras, os pais podem ajudar a evitar os danos à saúde mental e ao desenvolvimento das crianças”, explicou a especialista.</p><p>Tanto a psicóloga e especialista em saúde mental, Ana Maria de Lima quanto Aline Rodrigues, pedagoga no Centro Educação Monteiro Marques, concordam que o equilíbrio é fundamental quando o assunto é o uso do celular. Embora reconheçam os benefícios da tecnologia quando utilizada de forma consciente, elas alertam para a necessidade de limites para garantir que as crianças se desenvolvam de maneira saudável, tanto no aspecto cognitivo quanto emocional.</p><p>Adalberto Ribeiro – 6° Período</p></main>"
+  },
+  "date": "2024-11-25T15:13:16",
+  "date_gmt": "2024-11-25T18:13:16",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Especialistas discutem os impactos do uso excessivo de dispositivos eletrônicos e oferecem soluções para equilibrar tecnologia e aprendizado, como a inclusão de um dia sem acesso à tecnologia na rotina da criança. O acesso precoce de crianças a dispositivos eletrônicos para entretenimento e comunicação tem sido motivo de alerta entre especialistas, que destacam os prejuízos [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17988"
+  },
+  "id": 17988,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4G8",
+  "link": "https://agenciauvabarra.com/2024/11/25/telas-e-infancia-formam-o-desafio-do-desenvolvimento-saudavel-na-era-digital/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-11-28T15:15:34",
+  "modified_gmt": "2024-11-28T18:15:34",
+  "ping_status": "open",
+  "slug": "telas-e-infancia-formam-o-desafio-do-desenvolvimento-saudavel-na-era-digital",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Telas e infância formam o desafio do desenvolvimento saudável na era digital"
+  },
+  "type": "post"
+}

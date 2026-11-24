@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10645/revisions/10658",
+        "id": 10658
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10645"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10645",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10645/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10645"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10657"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10645",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10645",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-10645",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A estação contribui para a proliferação de doenças sazonais</em></p><p>O Rio de Janeiro tem vivido uma típica primavera. O tempo tem alternado entre calor e frio, com dias chuvosos. Essas modificações aumentam o número de pessoas afetadas com problemas alérgicos e respiratórios, sendo a asma e a rinite, as mais comuns. Além disso, a estação também traz doenças como a conjuntivite e a catapora.</p><p>Segundo dados da Associação Brasileira de Alergia e Imunologia (ASBAI), mais de 20 milhões de brasileiros têm asma e 5% deles têm a versão mais grave que pode levar à internação. Contudo, essa doença pode ser controlada e a pessoa alérgica levar uma vida normal, mesmo diante de alguns cuidados.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/juan.jpeg?resize=960%2C960&#038;ssl=1' alt='Juan' width='960' height='960' /><figcaption>“Qualquer lugar que tenha muita umidade prejudica meu pulmão”, comenta Juan. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/cesar.jpeg?resize=1280%2C1600&#038;ssl=1' alt='Cesar' width='1280' height='1600' /><figcaption>“Já fiquei internado por conta da asma quando criança”, relembra Cesar. (Foto: Arquivo Pessoal)</figcaption></figure><p>De acordo com o médico alergista Milton Galper, a mudança de temperatura brusca é o principal fator que interfere nas crises, já que aumenta o índice de partículas, como poeira e ácaros, presentes no ar, que acabam por dificultar a passagem pelas vias aéreas. Com isso, a oscilação entre chuva e calor, que ocorre frequentemente durante a primavera, é um dos motivos que exige cautela dos alérgicos.</p><p>O médico afirma ainda que o uso de antialérgico e o tratamento para alergias são distintos, já que o medicamento apenas afeta os sintomas, diminuindo as crises, enquanto o tratamento em si é mais específico para cada pessoa. Segundo o médico, as alergias respiratórias são uma combinação de dois fatores: a predisposição genética e o ambiente.</p><p>Para além do uso de medicamentos, a melhor forma de evitar que crises sejam desencadeadas é o controle do local em que a pessoa está, por meio de ações preventivas.</p><p><strong>Os meios de prevenção são:</strong></p><ul><li>Utilizar aspirador de pó e pano úmido para limpeza ao invés de varrer;</li><li>Trocar cortinas por persianas ou cortinas do tipo black-out;</li><li>Evitar o uso do ventilador, já que ele estimula a circulação da poeira;</li><li>Utilizar capas antialérgicas nas roupas de cama;</li><li>Manter o ambiente sempre bem arejado.</li></ul><p>Mesmo seguindo à risca o uso de medicamentos e praticando a limpeza frequente do ambiente, algumas pessoas têm de se limitar a algumas atividades. Como é o caso do técnico em segurança do trabalho Cesar Sardinha, que não pode limpar a casa sozinho para evitar as crises pelo contato que teria com os alergênicos. Já com o estudante Juan Marcelo dos Santos Couto a questão é outra, ele tem de evitar ao máximo se esforçar com as atividades físicas, já que acaba sentindo falta de ar facilmente nessas situações.</p><p>Contudo, ainda é possível ter uma vida normal se a pessoa descobre e cuida corretamente da alergia. O mais importante é saber que mesmo em meio a restrições, medidas e cuidados, que fazem parte do cotidiano, a qualidade de vida e convívio com outras pessoas é praticamente inalterada em qualquer estação do ano.</p><p><em>Aline Izabele Alves de Oliveira – 6º Período</em></p></main>"
+  },
+  "date": "2021-11-10T18:32:33",
+  "date_gmt": "2021-11-10T21:32:33",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Rio de Janeiro tem vivido uma típica primavera. O tempo tem alternado entre calor e frio, com dias chuvosos. Essas modificações aumentam o número de pessoas afetadas com problemas alérgicos e respiratórios, sendo a asma e a rinite,  as mais comuns. Além disso, a estação também traz doenças como  a conjuntivite e a catapora.</p>\n"
+  },
+  "featured_media": 10657,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10645"
+  },
+  "id": 10645,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/image1-3.jpeg?fit=760%2C759&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2LH",
+  "link": "https://agenciauvabarra.com/2021/11/10/primavera-contribui-para-o-aumento-de-problemas-respiratorios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-11T14:59:22",
+  "modified_gmt": "2021-11-11T17:59:22",
+  "ping_status": "open",
+  "slug": "primavera-contribui-para-o-aumento-de-problemas-respiratorios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Primavera contribui para o aumento de problemas respiratórios"
+  },
+  "type": "post"
+}

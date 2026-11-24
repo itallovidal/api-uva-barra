@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21265/revisions/21268",
+        "id": 21268
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21265"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21265",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21265/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21265"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21267"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21265",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21265",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-21265",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-filme",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A adaptação cinematográfica do aclamado romance de Andy Weir chega aos cinemas como uma das grandes apostas recentes da ficção científica, equilibrando ciência complexa, aventura interplanetária e sensibilidade humana em uma narrativa envolvente e acessível.</p><p>Dirigido por Phil Lord e Christopher Miller, e estrelado por Ryan Gosling, o longa parte de uma premissa simples, mas profundamente inquietante, o Sol está morrendo. Diante dessa ameaça, a humanidade inicia uma missão desesperada ao espaço para descobrir a causa do fenômeno e tentar salvar a Terra.</p><p>A história acompanha um professor de ciências que desperta sozinho em uma nave espacial, sem memória de como chegou ali. Aos poucos, fragmentos de suas lembranças retornam, revelando que ele é a última esperança para impedir uma catástrofe cósmica. Esse mistério sustenta a tensão do roteiro e conduz o espectador por uma jornada que mistura suspense psicológico, descobertas científicas e um humor pontual.</p><p>Um dos grandes méritos do filme está em transformar conceitos científicos densos em um drama acessível e envolvente. Assim como em outras obras baseadas em textos de Andy Weir, a emoção surge das pequenas conquistas intelectuais do protagonista, valorizando o conhecimento como ferramenta essencial de sobrevivência.</p><p>A atuação de Ryan Gosling é fundamental para o funcionamento da narrativa. Grande parte da trama se passa dentro da nave, exigindo uma presença capaz de sustentar o interesse do público quase de forma isolada. O ator entrega uma interpretação contida e sensível, transitando entre humor, desespero e curiosidade científica. Ao seu lado, o carismático alienígena Rocky acrescenta uma dimensão afetiva importante à história, reforçando temas como amizade e cooperação.</p><p>Apesar das sequências espaciais visualmente impressionantes, o filme não se apoia apenas no espetáculo. O foco permanece na dimensão humana do protagonista, explorando sua solidão, suas dúvidas e o peso de carregar o destino da humanidade.</p><p>Visualmente, a produção aposta em uma estética futurista que dialoga com grandes obras do gênero, com planos amplos do espaço profundo e cenários tecnológicos detalhados que reforçam a sensação de isolamento. Os efeitos especiais são utilizados com equilíbrio, contribuindo para a narrativa sem excessos, enquanto cada descoberta científica é apresentada de forma clara e instigante, tornando a experiência acessível mesmo para quem não tem familiaridade com astrofísica.</p><p>A trilha sonora também se destaca ao alternar momentos de silêncio, que intensificam a sensação de vastidão e solidão, com composições mais intensas que ampliam o peso dramático da missão.</p><p>Mesmo com algumas explicações científicas que se prolongam além do necessário, o filme mantém um ritmo envolvente e recompensador. Ao explorar temas como cooperação, sacrifício e persistência, “Devoradores de Estrelas” se firma não apenas como um blockbuster espacial, mas como uma reflexão sobre curiosidade científica e esperança coletiva. Ao final, deixa a sensação de que, mesmo diante da imensidão do universo, a maior força da humanidade continua sendo sua capacidade de colaborar e imaginar soluções.</p><p>Duda Nicolich – 3º Período de Jornalismo</p></main>"
+  },
+  "date": "2026-03-11T13:44:00",
+  "date_gmt": "2026-03-11T16:44:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Longa mistura aventura espacial, emoção e suspense ao acompanhar missão desesperada para impedir o colapso solar que ameaça toda a vida</p>\n"
+  },
+  "featured_media": 21267,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21265"
+  },
+  "id": 21265,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/04/maxresdefault.jpg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5wZ",
+  "link": "https://agenciauvabarra.com/2026/03/11/devoradores-de-estrelas-ficcao-cientifica-emocao-e-humanidade-em-uma-jornada-espacial-inesquecivel/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-04-01T13:48:14",
+  "modified_gmt": "2026-04-01T16:48:14",
+  "ping_status": "open",
+  "slug": "devoradores-de-estrelas-ficcao-cientifica-emocao-e-humanidade-em-uma-jornada-espacial-inesquecivel",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    17563,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "“Devoradores de Estrelas”: ficção científica, emoção e humanidade em uma jornada espacial inesquecível"
+  },
+  "type": "post"
+}

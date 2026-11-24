@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/276/revisions/3360",
+        "id": 3360
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=276"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/276",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/276/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=276"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=276",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=276",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    257
+  ],
+  "class_list": [
+    "post-276",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-geek"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/img_8136.jpg?resize=2304%2C3456&#038;ssl=1' alt='IMG_8136' width='2304' height='3456'><figcaption>Paulo Maffia, editor da Editora Abril</figcaption></figure><p>Os clássicos estão voltando com tudo e ocuparam espaço exclusivo no Geek &amp; Games Rio Festival na manhã de hoje, no Rio de Janeiro. O editor e jornalista Paulo Maffia marcou presença na manhã de hoje, apresentando uma palestra sobre os quadrinhos Disney no Brasil. Ele contou um pouco da sua história e os lançamentos que estão por vir. O bate papo atraiu fãs da Fábrica dos Sonhos e desse estilo literário.</p><p>Paulo Maffia também se declara um antigo fã dessa cultura. Profissional da área há mais de 20 anos, ele já trabalhou com os heróis da Marvel e DC e com os quadrinhos de Os Simpsons. Além disso, o editor também é responsável pela criação e edição das revistas Sci-Fi News e Sci-Fi News Cinema, dedicadas às informações do universo da ficção científica.</p><p>No entanto, de acordo com Maffia, o mundo dos quadrinhos Disney também tem a preocupação de abordar temáticas mais sérias e críticas. “Vamos acabar com esse mito que o público é só infantil. Lidamos com temas adultos também, como depressão”, ele ressalta destacando a importância, por meio do entretenimento, colocar o público em contato com temas sociais para estimular o seu senso crítico.</p><p>Além de desconstruir estereótipos, a palestra contou um pouco da história dos quadrinhos do Brasil, enfatizando a trajetória até aqui e relembrando personagens clássicos, como Pato Donald, Tio Patinhas e Mickey, que hoje são ícones dessa cultura literária. “Tem personagens criados lá fora, mas que ganham alma só no Brasil”, destacou Maffia se referindo ao Zé Carioca – “o personagem não-carioca mais carioca que existe”.</p><p>O público ainda recebeu, em primeira mão, notícias sobre os futuros lançamentos. Ainda este ano, Tio Patinhas vai ganhar uma edição especial com 400 páginas para comemorar aniversário de 70 anos de criação. O quadrinho vai se aproximar bastante dos manuscritos, produzidos pelo ilustrado dos estúdios Disney Carl Barks. Já para Janeiro do ano que vem, os fãs podem aguardar um novo seriado de TV, que será o remake do “Duck Tales”, produzidos no final da década de 80.</p><p>Ao fim do bate papo, Maffia revelou estar com boas expectativas sobre o mercado dos quadrinhos. “As plataformas digitais não são inimigas. Estamos presentes em todas elas e, pelo contrário, por lá atraímos novos consumidores, que acabam se interessando pelos impressos. O papel não vai acabar”. Para a amante de quadrinhos, Juliana Ribeiro, 28 anos, essa é uma ótima notícia. “Fico muito feliz por saber disso. Leio quadrinhos desde pequenas e seria muito triste se as versões impressas acabassem”. Os fãs já podem respirar aliviados, a indústria de quadrinhos continua a todo vapor.</p><p>Tayane Fernandes – 5º período</p></main>"
+  },
+  "date": "2017-04-22T15:01:51",
+  "date_gmt": "2017-04-22T18:01:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os clássicos estão voltando com tudo e ocuparam espaço exclusivo no Geek &amp; Games Rio Festival na manhã de hoje, no Rio de Janeiro. O editor e jornalista Paulo Maffia marcou presença na manhã de hoje, apresentando uma palestra sobre os quadrinhos Disney no Brasil. Ele contou um pouco da sua história e os lançamentos [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=276"
+  },
+  "id": 276,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4s",
+  "link": "https://agenciauvabarra.com/2017/04/22/o-mundo-disney-nos-quadrinhos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T17:14:13",
+  "modified_gmt": "2019-02-28T20:14:13",
+  "ping_status": "open",
+  "slug": "o-mundo-disney-nos-quadrinhos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "O mundo Disney nos quadrinhos"
+  },
+  "type": "post"
+}

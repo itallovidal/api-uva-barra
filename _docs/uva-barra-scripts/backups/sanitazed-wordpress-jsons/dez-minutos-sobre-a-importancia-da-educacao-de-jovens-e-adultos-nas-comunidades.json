@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21471/revisions/21542",
+        "id": 21542
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21471"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21471",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21471/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21471"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21474"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21471",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21471",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832
+  ],
+  "class_list": [
+    "post-21471",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Você sabia que milhões de brasileiros precisaram abandonar a escola cedo para trabalhar, cuidar da família ou por falta de oportunidade?</p><p>Com o tempo, o sonho de estudar vai ficando para depois e muitas vezes acompanhado de vergonha, medo e silêncio.</p><p>No episódio de hoje do Dez Minutos Sobre, falamos sobre a importância da Educação de Jovens e Adultos (EJA) nas comunidades.</p><p>A professora e orientadora do EJA Monique Coletti compartilha sua experiência com alunos que voltaram a estudar na vida adulta e fala sobre os desafios enfrentados na educação.</p><p>Quer refletir sobre o direito à educação e a força dos recomeços nas comunidades? Então sintonize agora na Rádio UVA Barra!</p><figure><img src='https://www.instagram.com/reel/DT-qbGhCRdS/?utm_source=ig_embed&amp;utm_campaign=loading' alt='Post do Instagram' width='500' height='500'><blockquote>Citação de exemplo que deve ser preservada.</blockquote></figure><p>Créditos:<br>Produção: Gabriel Almeida, Gabriela Mattos e Madu Souza<br>Coordenação da Rádio UVA Barra: Prof. Anderson Barreto<br>Coordenação do Curso de Jornalismo: Profª Renata Feital</p></main>"
+  },
+  "date": "2026-01-26T13:12:40",
+  "date_gmt": "2026-01-26T16:12:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Você sabia que milhões de brasileiros precisaram abandonar a escola cedo para trabalhar, cuidar da família ou por falta de oportunidade? Com o tempo, o sonho de estudar vai ficando para depois e muitas vezes acompanhado de vergonha, medo e silêncio. No episódio de hoje do Dez Minutos Sobre, falamos sobre a importância da Educação [&hellip;]</p>\n"
+  },
+  "featured_media": 21474,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21471"
+  },
+  "id": 21471,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-06-131438.png?fit=584%2C584&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5Aj",
+  "link": "https://agenciauvabarra.com/2026/01/26/dez-minutos-sobre-a-importancia-da-educacao-de-jovens-e-adultos-nas-comunidades/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "{\"document\":\"AAAS3p7k+hCGAbea1/gG3p7k+hAQgwEGOgEQLAIBAQgBA0gCCEqqBAEBCAJCAQJIALgDAQEIAkIBAkgAkAQBAQgCQgECSAC4BQEBCAJCAQJI7BOAGASsAQTyGY4a5AaOJAEBCAEDSAIEAgEESCoBAQgBA0gKyAGQCu5BcqYBAuYBnkKqEsZTWKwEQroDQpIEQroFQqYkWCYGQgMInEK/ASgAIQEnAAEAJwEoACEAKAQnACgSIQEnAAcAIQAoAScBKAQnAKEABACHACEAKAEnAQQAKAQnAIcAIQAoAScBBAAoBCcAhwAhACgBJwEEACgEJwCHACEAKAEnAQQAKAQnAEQAhACBAIQAgQCEAAQAhACHACEAKAAhACcAIQUnAKEAqAAnACgDIQAoAIcAIQAoAScBKAQnAAQAhAGoAqEAqAAhAMQAqAEoAKgAKACoACgAqAAoAKgAKACoACgAqAEo9SLPIXN0YXRldmVyc2lvbmRvY3VtZW50ZGF0ZWRvY3VtZW50c3RhdHVzZG9jdW1lbnR0aXRsZWRvY3VtZW50Y29udGVudGRvY3VtZW50ZXhjZXJwdGRvY3VtZW50YXV0aG9yZG9jdW1lbnRmZWF0dXJlZF9tZWRpYWRvY3VtZW50Y29tbWVudF9zdGF0dXNkb2N1bWVudHBpbmdfc3RhdHVzZG9jdW1lbnRzdGlja3lkb2N1bWVudHRlbXBsYXRlZG9jdW1lbnRmb3JtYXRkb2N1bWVudG1ldGFhZHZhbmNlZF9zZW9fZGVzY3JpcHRpb25qZXRwYWNrX3Nlb19odG1sX3RpdGxlamV0cGFja19zZW9fbm9pbmRleF9jb2Jsb2Nrc19hdHRyX2NvYmxvY2tzX2RpbWVuc2lvbnNfY29ibG9ja3NfcmVzcG9uc2l2ZV9oZWlnaHRfY29ibG9ja3NfYWNjb3JkaW9uX2llX3N1cHBvcnRqZXRwYWNrX3Bvc3Rfd2FzX2V2ZXJfcHVibGlzaGVkcmVhZGVyX3N1Z2dlc3RlZF90YWdzX2pldHBhY2tfbmV3c2xldHRlcl9hY2Nlc3NfamV0cGFja19kb250X2VtYWlsX3Bvc3RfdG9fc3Vic19qZXRwYWNrX25ld3NsZXR0ZXJfdGllcl9pZF9qZXRwYWNrX21lbWJlcnNoaXBzX2NvbnRhaW5zX3BheXdhbGxlZF9jb250ZW50X2pldHBhY2tfbWVtYmVyc2hpcHNfY29udGFpbnNfcGFpZF9jb250ZW50Zm9vdG5vdGVzamV0cGFja19wdWJsaWNpemVfbWVzc2FnZWpldHBhY2tfcHVibGljaXplX2ZlYXR1cmVfZW5hYmxlZGpldHBhY2tfc29jaWFsX3Bvc3RfYWxyZWFkeV9zaGFyZWRqZXRwYWNrX3NvY2lhbF9vcHRpb25zZG9jdW1lbnRjYXRlZ29yaWVzZG9jdW1lbnR0YWdzZG9jdW1lbnRibG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc1ZvY8OqIHNhYmlhIHF1ZSBtaWxow7VlcyBkZSBicmFzaWxlaXJvcyBwcmVjaXNhcmFtIGFiYW5kb25hciBhIGVzY29sYSBjZWRvIHBhcmEgdHJhYmFsaGFyLCBjdWlkYXIgZGEgZmFtw61saWEgb3UgcG9yIGZhbHRhIGRlIG9wb3J0dW5pZGFkZT9jbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRDb20gbyB0ZW1wbywgbyBzb25obyBkZSBlc3R1ZGFyIHZhaSBmaWNhbmRvIHBhcmEgZGVwb2lzIGUgbXVpdGFzIHZlemVzIGFjb21wYW5oYWRvIGRlIHZlcmdvbmhhLCBtZWRvIGUgc2lsw6puY2lvLmRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzY2xpZW50SWRpc1ZhbGlkbmFtZWF0dHJpYnV0ZXNjb250ZW50Tm8gZXBpc8OzZGlvIGRlIGhvamUgZG8gRGV6IE1pbnV0b3MgU29icmUsIGZhbGFtb3Mgc29icmUgYSBpbXBvcnTDom5jaWEgZGEgRWR1Y2HDp8OjbyBkZSBKb3ZlbnMgZSBBZHVsdG9zIChFSkEpIG5hcyBjb211bmlkYWRlcy5kcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudEEgcHJvZmVzc29yYSBlIG9yaWVudGFkb3JhIGRvIEVKQSBNb25pcXVlIENvbGV0dGkgY29tcGFydGlsaGEgc3VhIGV4cGVyacOqbmNpYSBjb20gYWx1bm9zIHF1ZSB2b2x0YXJhbSBhIGVzdHVkYXIgbmEgdmlkYSBhZHVsdGEgZSBmYWxhIHNvYnJlIG9zIGRlc2FmaW9zIGVuZnJlbnRhZG9zIG5hIGVkdWNhw6fDo28uZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRRdWVyIHJlZmxldGlyIHNvYnJlIG8gZGlyZWl0byDDoCBlZHVjYcOnw6NvIGUgYSBmb3LDp2EgZG9zIHJlY29tZcOnb3MgbmFzIGNvbXVuaWRhZGVzPyBFbnTDo28gc2ludG9uaXplIGFnb3JhIG5hIFLDoWRpbyBVVkEgQmFycmEhZHJvcENhcGZvbnRXZWlnaHR0ZXh0VHJhbnNmb3Jtbm9Cb3R0b21TcGFjaW5nbm9Ub3BTcGFjaW5naW5uZXJCbG9ja3NEZXogbWludXRvcyBzb2JyZSAtIEEgaW1wb3J0w6JuY2lhIGRhIEVkdWNhw6fDo28gZGUgSm92ZW5zIGUgQWR1bHRvcyBuYXMgY288IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+Vm9jw6ogc2FiaWEgcXVlIG1pbGjDtWVzIGRlIGJyYXNpbGVpcm9zIHByZWNpc2FyYW0gYWJhbmRvbmFyIGEgZXNjb2xhIGNlZG8gcGFyYSB0cmFiYWxoYXIsIGN1aWRhciBkYSBmYW3DrWxpYSBvdSBwb3IgZmFsdGEgZGUgb3BvcnR1bmlkYWRlPzwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPkNvbSBvIHRlbXBvLCBvIHNvbmhvIGRlIGVzdHVkYXIgdmFpIGZpY2FuZG8gcGFyYSBkZXBvaXMgZSBtdWl0YXMgdmV6ZXMgYWNvbXBhbmhhZG8gZGUgdmVyZ29uaGEsIG1lZG8gZSBzaWzDqm5jaW8uPC9wPgo8IS0tIC93cDpwYXJhZ3JhcGggLS0+Cgo8IS0tIHdwOnBhcmFncmFwaCAtLT4KPHA+Tm8gZXBpc8OzZGlvIGRlIGhvamUgZG8gRGV6IE1pbnV0b3MgU29icmUsIGZhbGFtb3Mgc29icmUgYSBpbXBvcnTDom5jaWEgZGEgRWR1Y2HDp8OjbyBkZSBKb3ZlbnMgZSBBZHVsdG9zIChFSkEpIG5hcyBjb211bmlkYWRlcy48L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5BIHByb2Zlc3NvcmEgZSBvcmllbnRhZG9yYSBkbyBFSkEgTW9uaXF1ZSBDb2xldHRpIGNvbXBhcnRpbGhhIHN1YSBleHBlcmnDqm5jaWEgY29tIGFsdW5vcyBxdWUgdm9sdGFyYW0gYSBlc3R1ZGFyIG5hIHZpZGEgYWR1bHRhIGUgZmFsYSBzb2JyZSBvcyBkZXNhZmlvcyBlbmZyZW50YWRvcyBuYSBlZHVjYcOnw6NvLjwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPgoKPCEtLSB3cDpwYXJhZ3JhcGggLS0+CjxwPlF1ZXIgcmVmbGV0aXIgc29icmUgbyBkaXJlaXRvIMOgIGVkdWNhw6fDo28gZSBhIGZvcsOnYSBkb3MgcmVjb21lw6dvcyBuYXMgY29tdW5pZGFkZXM/IEVudMOjbyBzaW50b25pemUgYWdvcmEgbmEgUsOhZGlvIFVWQSBCYXJyYSE8L3A+CjwhLS0gL3dwOnBhcmFncmFwaCAtLT5tdW5pZGFkZXNjbGllbnRJZGlzVmFsaWRuYW1lYXR0cmlidXRlc2NvbnRlbnRkcm9wQ2FwZm9udFdlaWdodHRleHRUcmFuc2Zvcm1ub0JvdHRvbVNwYWNpbmdub1RvcFNwYWNpbmdpbm5lckJsb2Nrc2NhcHRpb25wcm92aWRlck5hbWVTbHVnYWxsb3dSZXNwb25zaXZlcmVzcG9uc2l2ZXByZXZpZXdhYmxldXJsdHlwZWNsaWVudElkaXNWYWxpZG5hbWVhdHRyaWJ1dGVzY29udGVudGRyb3BDYXBmb250V2VpZ2h0dGV4dFRyYW5zZm9ybW5vQm90dG9tU3BhY2luZ25vVG9wU3BhY2luZ2lubmVyQmxvY2tzQ3LDqWRpdG9zOjxicj5Qcm9kdcOnw6NvOiBHYWJyaWVsIEFsbWVpZGEsIEdhYnJpZWxhIE1hdHRvcyBlIE1hZHUgU291emE8YnI+Q29vcmRlbmHDp8OjbyBkYSBSw6FkaW8gVVZBIEJhcnJhOiBQcm9mLiBBbmRlcnNvbiBCYXJyZXRvPGJyPkNvb3JkZW5hw6fDo28gZG8gQ3Vyc28gZGUgSm9ybmFsaXNtbzogUHJvZsKqIFJlbmF0YSBGZWl0YWwKCjwhLS0gd3A6ZW1iZWQgeyJ1cmwiOiJodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRFQtcWJHaENSZFMvP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGlua1x1MDAyNmlnc2g9TXpSbE9EQmlOV0ZsWkE9PSIsInR5cGUiOiJyaWNoIiwicHJvdmlkZXJOYW1lU2x1ZyI6Imluc3RhZ3JhbSIsInJlc3BvbnNpdmUiOnRydWV9IC0tPgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1lbWJlZCBpcy10eXBlLXJpY2ggaXMtcHJvdmlkZXItaW5zdGFncmFtIHdwLWJsb2NrLWVtYmVkLWluc3RhZ3JhbSI+PGRpdiBjbGFzcz0id3AtYmxvY2stZW1iZWRfX3dyYXBwZXIiPgpodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRFQtcWJHaENSZFMvP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGluayZhbXA7aWdzaD1NelJsT0RCaU5XRmxaQT09CjwvZGl2PjwvZmlndXJlPgo8IS0tIC93cDplbWJlZCAtLT4KCjwhLS0gd3A6cGFyYWdyYXBoIC0tPgo8cD5DcsOpZGl0b3M6PGJyPlByb2R1w6fDo286IEdhYnJpZWwgQWxtZWlkYSwgR2FicmllbGEgTWF0dG9zIGUgTWFkdSBTb3V6YTxicj5Db29yZGVuYcOnw6NvIGRhIFLDoWRpbyBVVkEgQmFycmE6IFByb2YuIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mwqogUmVuYXRhIEZlaXRhbDwvcD4KPCEtLSAvd3A6cGFyYWdyYXBoIC0tPnN0YXRldmVyc2lvbmFtcDtvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnRvcmlnaW5hbENvbnRlbnQFBwgECAYIBQgHCAcIBggOCA4ICwgGSAEGCAQYFhMOFBseHxUaIBsvKgkZISIWCAoIBAgGCAcECkcACg0PDAuIAggHBAoHsAEHCg0PDAsIBwQKB7wBBwoNDwwLCAcECgewAgcKDQ8MCwgHBAoHuwEHCg0PDAsBAzYOqw4JCAcECkcACg0PDAsHEA8KCwMECAcECkcACg0PDAu5AqUBjwkFBwRPBQ8BAwAAAQkAEgECAFsBAAAgQgEBAEEAAgBBAAIAQQACAEEAAgBBAAIAQQAAAkEAAgAMQQETQUNCAEEaA0EQApgBAH0BfZrgrnJ3BG9wZW53BG9wZW55dwB3CHN0YW5kYXJkdwB3AHl3AHcAdwB3AHl3AHcAeX0AeXl3AHcAeHl2AhhpbWFnZV9nZW5lcmF0b3Jfc2V0dGluZ3N2BAh0ZW1wbGF0ZXcHaGlnaHdheRBkZWZhdWx0X2ltYWdlX2lkfQAEZm9udHcAB2VuYWJsZWR5B3ZlcnNpb259Anh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eXh3CmNvcmUvZW1iZWR3CWluc3RhZ3JhbXh4eHcEcmljaHh3DmNvcmUvcGFyYWdyYXBoeXcAdwB5eX2izwJ3EzIwMjYtMDEtMjZUMTM6MTI6NDB1AX2w7ficBXcHcHVibGlzaBIAdQN9mcyY6gR9rL6XBX2G8+m4AXckNzNhMDZhMjEtMzdmYS00MWRjLTk0Y2QtMWQ5ZjRlNDdkODljd5IBPHA+Vm9jw6ogc2FiaWEgcXVlIG1pbGjDtWVzIGRlIGJyYXNpbGVpcm9zIHByZWNpc2FyYW0gYWJhbmRvbmFyIGEgZXNjb2xhIGNlZG8gcGFyYSB0cmFiYWxoYXIsIGN1aWRhciBkYSBmYW3DrWxpYSBvdSBwb3IgZmFsdGEgZGUgb3BvcnR1bmlkYWRlPzwvcD53JGI2YTVhNDkzLTRkNGYtNDVkYy04MTFiLTIwZmZkYmVkYmI1Mnd4PHA+Q29tIG8gdGVtcG8sIG8gc29uaG8gZGUgZXN0dWRhciB2YWkgZmljYW5kbyBwYXJhIGRlcG9pcyBlIG11aXRhcyB2ZXplcyBhY29tcGFuaGFkbyBkZSB2ZXJnb25oYSwgbWVkbyBlIHNpbMOqbmNpby48L3A+dyRiMDJiZGYzZC1lOTIzLTRlYjctYTQ3OC0xMGUwYWIwMDNkNDV3hwE8cD5ObyBlcGlzw7NkaW8gZGUgaG9qZSBkbyBEZXogTWludXRvcyBTb2JyZSwgZmFsYW1vcyBzb2JyZSBhIGltcG9ydMOibmNpYSBkYSBFZHVjYcOnw6NvIGRlIEpvdmVucyBlIEFkdWx0b3MgKEVKQSkgbmFzIGNvbXVuaWRhZGVzLjwvcD53JDgzYWRlZGVhLWVhNjEtNDM1ZC1iNjg0LTk3ZTllOWJhYTgxNHe6ATxwPkEgcHJvZmVzc29yYSBlIG9yaWVudGFkb3JhIGRvIEVKQSBNb25pcXVlIENvbGV0dGkgY29tcGFydGlsaGEgc3VhIGV4cGVyacOqbmNpYSBjb20gYWx1bm9zIHF1ZSB2b2x0YXJhbSBhIGVzdHVkYXIgbmEgdmlkYSBhZHVsdGEgZSBmYWxhIHNvYnJlIG9zIGRlc2FmaW9zIGVuZnJlbnRhZG9zIG5hIGVkdWNhw6fDo28uPC9wPnckZDJkZDU2MjItYzZiYi00ODc0LTlhZWItMzU3ZWVjZDA1ZGQzd4kBPHA+UXVlciByZWZsZXRpciBzb2JyZSBvIGRpcmVpdG8gw6AgZWR1Y2HDp8OjbyBlIGEgZm9yw6dhIGRvcyByZWNvbWXDp29zIG5hcyBjb211bmlkYWRlcz8gRW50w6NvIHNpbnRvbml6ZSBhZ29yYSBuYSBSw6FkaW8gVVZBIEJhcnJhITwvcD53JDM5N2M1NjRjLTdmZDItNGEyNi05ODUwLWJhZDQyNThkZWM1N3fyATxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWVtYmVkIGlzLXR5cGUtcmljaCBpcy1wcm92aWRlci1pbnN0YWdyYW0gd3AtYmxvY2stZW1iZWQtaW5zdGFncmFtIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vcmVlbC9EVC1xYkdoQ1JkUy8/dXRtX3NvdXJjZT1pZ193ZWJfY29weV9saW5rJmFtcDtpZ3NoPU16UmxPREJpTldGbFpBPT0KPC9kaXY+PC9maWd1cmU+d2FodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRFQtcWJHaENSZFMvP3V0bV9zb3VyY2U9aWdfd2ViX2NvcHlfbGluayZhbXA7aWdzaD1NelJsT0RCaU5XRmxaQT09dyRlNThkNjBiNi1mZmFlLTRjY2MtOGQ5ZS00MzZjYWRjMzczODl3yQE8cD5DcsOpZGl0b3M6PGJyPlByb2R1w6fDo286IEdhYnJpZWwgQWxtZWlkYSwgR2FicmllbGEgTWF0dG9zIGUgTWFkdSBTb3V6YTxicj5Db29yZGVuYcOnw6NvIGRhIFLDoWRpbyBVVkEgQmFycmE6IFByb2YuIEFuZGVyc29uIEJhcnJldG88YnI+Q29vcmRlbmHDp8OjbyBkbyBDdXJzbyBkZSBKb3JuYWxpc21vOiBQcm9mwqogUmVuYXRhIEZlaXRhbDwvcD4Cno+yvQgTAQEBEgMAGQECAAoAiQEAewCHAQC7AQCJAQE2AcMHAAEAAQUBAAYAAgD6BgK3zau8AwEAAA==\",\"updateId\":923067969}",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-05-06T15:34:11",
+  "modified_gmt": "2026-05-06T18:34:11",
+  "ping_status": "open",
+  "slug": "dez-minutos-sobre-a-importancia-da-educacao-de-jovens-e-adultos-nas-comunidades",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dez minutos sobre &#8211; A importância da Educação de Jovens e Adultos nas comunidades"
+  },
+  "type": "post"
+}

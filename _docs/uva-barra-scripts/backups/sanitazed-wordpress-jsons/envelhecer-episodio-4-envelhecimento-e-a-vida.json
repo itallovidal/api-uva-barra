@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12509/revisions/12515",
+        "id": 12515
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12509"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12509",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12509/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12509"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12510"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12509",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12509",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    9838342,
+    7114
+  ],
+  "class_list": [
+    "post-12509",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-serie-documental",
+    "category-sociedade",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Em um país que a juventude é valorizada, envelhecer é algo temido por muitos na sociedade. Segundo uma pesquisa do IBGE juntamente com a Pesquisa Nacional por Amostra de Domicílios Contínua, mais de 31 milhões de brasileiros são idosos, um aumento entre 2012 e 2021, porém uma grande parcela sofre preconceito por não ter mais uma “função social”.</p><p>O quarto episódio vai ressignificar a velhice e mostrar que os novos laços trazem experiências e ajudam na autoestima. O desenrolar da narrativa exibe a visão do quem já passou dos 60 anos e convida o público a entender a realidade vivida por pessoas da terceira idade.</p><p>O grupo composto por Bruno Venâncio, Bianca Betim, Gabriel Pitella, Lucas Souza, Matheus Amorim, Patrícia Simas e Sabrina Marques, vai apresentar o protagonismo do idoso e a relação social.</p><p><strong>Confira!</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/jU6kg0OPzy8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p><br><em>Pedro Amorim – 7º período</em></p></main>"
+  },
+  "date": "2022-08-12T17:59:48",
+  "date_gmt": "2022-08-12T20:59:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Em um país que a juventude é valorizada, envelhecer é algo temido por muitos na sociedade. Segundo uma pesquisa do IBGE juntamente com a Pesquisa Nacional por Amostra de Domicílios Contínua, mais de 31 milhões de brasileiros são idosos, um aumento entre 2012 e 2021, porém uma grande parcela sofre preconceito por não ter mais uma “função social”.</p>\n"
+  },
+  "featured_media": 12510,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12509"
+  },
+  "id": 12509,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-12-at-14.58.47-e1660335781935.jpeg?fit=699%2C718&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3fL",
+  "link": "https://agenciauvabarra.com/2022/08/12/envelhecer-episodio-4-envelhecimento-e-a-vida/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-12T18:13:21",
+  "modified_gmt": "2022-08-12T21:13:21",
+  "ping_status": "open",
+  "slug": "envelhecer-episodio-4-envelhecimento-e-a-vida",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Envelhecer: Episódio 4, Envelhecimento e a Vida"
+  },
+  "type": "post"
+}

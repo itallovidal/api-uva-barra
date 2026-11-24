@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4207/revisions/4216",
+        "id": 4216
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4207"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4207",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4207/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4207"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4215"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4207",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4207",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    7114
+  ],
+  "class_list": [
+    "post-4207",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-loucos-por-arte",
+    "tag-psicologia",
+    "tag-uva-barra",
+    "tag-xv-luta-antimanicomial"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em> O evento contou com a presença do grupo musical Loucos por Arte </em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/1-e1558640636313.jpg?resize=5184%2C2989&#038;ssl=1\" alt=\"\" /><figcaption>Especialistas participam de mesa de conversa durante a abertura da XV Luta Antimanicomial &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/6-1.jpg?resize=5184%2C3456&#038;ssl=1\" alt=\"\" /><figcaption>UVA Barra promove XV Luta Antimanicomial- Foto: Gabriel Torres</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/7.jpg?ssl=1\" alt=\"\" /><figcaption>Performance do grupo Loucos por Arte representa o sistema agredindo o trabalhador &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/8.jpg?ssl=1\" alt=\"\" /><figcaption>Grupo composto por pacientes diagnosticados com transtornos mentais realiza performance na XV Luta Antimanicomial &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/4.jpg?ssl=1\" alt=\"\" /><figcaption>Alunos assistem filme &#8220;Bicho de Sete Cabeças&#8221; em mostra na XV Luta Antimanicomial- Foto: Gabriel Torres</figcaption></figure><p>A Luta Antimanicomial voltou a ganhar espaço na Universidade Veiga de Almeida, campus Barra, na última quarta-feira (22). O evento, que celebra a causa do dia 18 de maio, é organizado pelo curso de Psicologia, e acontece há 15 anos na Universidade com o objetivo de conscientizar o público, através de debates e palestras, sobre a importância de se promover tratamentos que almejam a inclusão social de pessoas com doenças mentais.</p><p>A abertura da XV Luta Antimanicomial teve como convidada a coordenadora da Luta, Aline Drummond, a coordenadora do Doutorado em psicanálise, saúde e sociedade, Glória Sadala, a coordenadora geral do curso de psicologia, Cristina Simões, e a psicanalista Sheila Abramovith. Sob o título “Histórias da Loucura”, as especialistas discutiram a respeito da vida e obra de Daniel Paul Schreber, James Joyce e Bispo do Rosário. Você pode entender mais sobre como <a href=\"https://agenciauvabarra.com/2018/05/25/a-arte-permite-a-loucura/\">“A arte permite a loucura”</a> na matéria escrita pela repórter Graziela Andrade.</p><p>Mas loucura mesmo seria não falar sobre o assunto. O evento apresentou aos alunos uma nova perspectiva de discutir a necessidade dos pacientes diagnosticados com algum transtorno mental recebam tratamentos que respeitem seus direitos civis. A aluna Amanda Labarile, do primeiro período de Psicologia, diz que “A área da psicologia hospitalar está muito carente, e a gente precisa cada vez mais se conscientizar para reverter esse quadro”. Para Isabella Bezerra, aluna do nono período que participou da equipe do evento, a Luta Antimanicomial veio na intenção de conscientizar não só os alunos, mas a sociedade. “A discussão serve para lembrar a importância de dialogar sobre a não existência dos manicômios e todos os retrocessos que estão vindo”, diz.</p><p>Confira abaixo uma entrevista com Aline Drummond, coordenadora da XV Luta, e Cristina Simões, coordenadora geral o curso de psicologia:</p><figure><iframe src=\"https://www.youtube.com/embed/NAS_UqgOpiQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" width=\"640\" height=\"360\" title=\"\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p>O dia também contou com a exibição do filme nacional Bicho de Sete Cabeças (2001), dirigido por Laís Bodanzky. O longa discute a ação de um pai ao internar o filho jovem em um manicômio após encontrar, acidentalmente, um cigarro de maconha na blusa do rapaz. A mostra foi seguida por um debate com diversos especialistas, que abordaram a desinstitucionalização das práticas manicomiais e, além do filme, usaram como referência o caso do Hospital Colônia de Barbacena, cuja realidade foi retratada no livro-reportagem “Holocausto Brasileiro”, escrito pela jornalista Daniela Arbex.</p><p>As atividades da XV Luta Antimanicomial foram encerradas com uma performance do grupo musical Loucos por Arte, composto por pacientes diagnosticados com transtornos mentais. No vídeo abaixo, você pode conferir a apresentação da música criada pelos usuários durante uma oficina em um Centro de Atenção Psicossocial.</p><figure><iframe src=\"https://www.youtube.com/embed/UwG62SIJXKs?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" width=\"640\" height=\"360\" title=\"\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Gabriel Torres – 5º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-05-23T16:53:33",
+  "date_gmt": "2019-05-23T19:53:33",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O evento contou com a presença do grupo musical Loucos por Arte A Luta Antimanicomial voltou a ganhar espaço na Universidade Veiga de Almeida, campus Barra, na última quarta-feira (22). O evento, que celebra a causa do dia 18 de maio, é organizado pelo curso de Psicologia, e acontece há 15 anos na Universidade com [&hellip;]</p>\n"
+  },
+  "featured_media": 4215,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4207"
+  },
+  "id": 4207,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/8-e1558641112397.jpg?fit=5184%2C2783&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-15R",
+  "link": "https://agenciauvabarra.com/2019/05/23/da-loucura-a-arte-luta-antimanicomial-volta-a-ser-debatida-na-universidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-23T17:03:39",
+  "modified_gmt": "2019-05-23T20:03:39",
+  "ping_status": "open",
+  "slug": "da-loucura-a-arte-luta-antimanicomial-volta-a-ser-debatida-na-universidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    680263715,
+    767056608,
+    193805510,
+    680263645
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Da loucura à arte: Luta Antimanicomial volta a ser debatida na Universidade"
+  },
+  "type": "post"
+}

@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2181/revisions/3071",
+        "id": 3071
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2181"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2181",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2181/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2181"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2182"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2181",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2181",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    407146
+  ],
+  "class_list": [
+    "post-2181",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-exposicao",
+    "tag-exposicao",
+    "tag-martin-luther-king"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>\"Eu tenho um sonho...\" 55 anos de um dos discursos mais inspiradores do ativista</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-08-31-at-15-38-40.jpeg?resize=1152%2C864&amp;ssl=1\" alt=\"WhatsApp Image 2018-08-31 at 15.38.40\" width=\"1152\" height=\"864\"><figcaption>Foto: Ana Carolina Soares</figcaption></figure><p>O dia 28 de agosto de 1963 ficou marcado na história norte americana – já que nesse dia, mais de 200 mil pessoas marcharam até a capital em busca de direitos iguais. Nessa data, Martin Luther King fez um discurso que veio a inspirar gerações, em todo o mundo. Inspiração que se mantém há 55 anos. Por esse motivo, a Secretaria de Estado de Cultura do Rio de Janeiro, em parceria com o Consulado Geral dos EUA, montou a exposição \"Martin Luther King: Legado e Inspiração\" na Biblioteca Parque Estadual.</p><figure class=\"alignleft\"><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-08-31-at-15-38-41.jpeg?resize=864%2C1152&amp;ssl=1\" alt=\"WhatsApp Image 2018-08-31 at 15.38.41\" width=\"864\" height=\"1152\"><figcaption>Foto: Ana Carolina Soares</figcaption></figure><p>A história de vida, o trabalho e as partes mais marcantes dos discursos do ativista político estão divididos em 15 painéis. O acervo em exibição foi doado pelo Consulado, mas o público também tem a oportunidade de acompanhar a exibição de filmes que trazem a temática do movimento antirracismo, além das obras e biografias do ganhador do prêmio Nobel da paz.</p><p>A estudante de pedagogia, Carla Coelho, de 29 anos, apesar de ter esperado algo diferente, aproveitou a exposição e tirou dela um brilho de esperança. \"Acho legal você ter uma referência, mesmo vindo de fora. Aqui também podemos fazer isso, a gente pode revolucionar, pode ter um pensamento parecido e ver que o negro tem um papel importante na sociedade\", comenta.</p><p>Mesmo que a marcha tenha acontecido nos Estados Unidos, o impacto foi mundial. A oportunidade de ainda hoje discutir as desigualdades raciais. \"Existe uma similaridade em meio as diferenças\", é o que pensa o Superintendente de Leitura e Conhecimento do Estado do Rio de Janeiro, Juca Ribeiro. \"Embora seja relativamente diferente, fazem parte do mesmo elemento histórico. Sobre o ponto de vista da representação, para o carioca, ela tem um simbolismo muito forte\", completa.</p><p>A exposição iniciou no dia 29 de agosto e chega ao fim no dia 1° de outubro de 2018. As visitas são gratuitas e acontecem de segunda às sextas das 09h às 17h, na Biblioteca Parque Estadual.</p><p><strong>Ana Carolina Soares – 6º período</strong></p></main>"
+  },
+  "date": "2018-09-01T12:11:25",
+  "date_gmt": "2018-09-01T15:11:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Eu tenho um sonho&#8230;” 55 anos de um dos discursos mais inspiradores do ativista O dia 28 de agosto de 1963 ficou marcado na história norte americana &#8211; já que nesse dia, mais de 200 mil pessoas marcharam até a capital em busca de direitos iguais. Nessa data, Martin Luther King fez um discurso que [&hellip;]</p>\n"
+  },
+  "featured_media": 2182,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2181"
+  },
+  "id": 2181,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-08-31-at-15-38-40.jpeg?fit=1152%2C864&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-zb",
+  "link": "https://agenciauvabarra.com/2018/09/01/o-legado-de-martin-luther-king/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:23:27",
+  "modified_gmt": "2019-01-31T14:23:27",
+  "ping_status": "open",
+  "slug": "o-legado-de-martin-luther-king",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056630,
+    170597
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O legado de Martin Luther King"
+  },
+  "type": "post"
+}

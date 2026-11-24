@@ -1,0 +1,172 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8094/revisions/8100",
+        "id": 8100
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8094"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8094",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8094/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8094"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8097"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8094",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8094",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    1899315,
+    2367,
+    4753134,
+    72064,
+    2239,
+    7114,
+    2432
+  ],
+  "class_list": [
+    "post-8094",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-cultura",
+    "category-quarentena",
+    "category-saude",
+    "category-shows",
+    "category-sociedade",
+    "category-teatro"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Funcionamento estava proibido desde o início da quarentena</em></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F922897651&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Rádio UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>A sala escura e fechada e a pipoca ganham novos acompanhantes na abertura gradual de cinemas e teatros. Espaço entre os assentos, álcool em gel e máscara também são itens obrigatórios para os amantes da arte. Desde o dia 1 de outubro foi liberada a presença do público, quase sete meses depois de tudo fechar. As medidas preventivas e a saúde da população são pautas desta edição do podcast da Rádio UVA Barra.</p><p>Um mês depois nossa equipe quer saber dos gerentes do Cine Araújo Giovanni Maque, Luan Lazaroni e Sergio Marins sobre os protocolos de saúde que foram implantados nos cinemas para voltarem a funcionar. O infectologista e mestre em pesquisa clínica em doenças infecciosas pela FIOCRUZ, Daniel Junger, comenta sobre os possíveis riscos dessa reabertura e Délcio Marinho, diretor cultural do sindicato dos artistas e técnicos em espetáculos do Rio de Janeiro, aponta a visão da classe a respeito dessa liberação.</p><p>O podcast da Rádio UVA Barra, em parceria com a Agência UVA Barra, traz nesse episódio um debate sobre as medidas preventivas adotadas para a reabertura dos cinemas e teatros no Rio de Janeiro e tem a apresentação de Khaio Lopes e Gustavo Teixeira.</p><p><em>Khaio Lopes – 6° PeríodoGustavo Teixeira – 6° Período</em></p></main>"
+  },
+  "date": "2020-11-03T18:24:44",
+  "date_gmt": "2020-11-03T21:24:44",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Funcionamento estava proibido desde o início da quarentena Rádio UVA Barra · Podcast Rádio UVA Barra –Reabertura Dos Cinemas E Teatros – S02 EP08 (1) A sala escura e fechada e a pipoca ganham novos acompanhantes na abertura gradual de cinemas e teatros. Espaço entre os assentos, álcool em gel e máscara também são itens [&hellip;]</p>\n"
+  },
+  "featured_media": 8097,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8094"
+  },
+  "id": 8094,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/thumbnail_arte-site.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-26y",
+  "link": "https://agenciauvabarra.com/2020/11/03/podcast-radio-uva-barra-reabertura-dos-cinemas-e-teatros-s02-ep08/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-11-03T18:33:24",
+  "modified_gmt": "2020-11-03T21:33:24",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-reabertura-dos-cinemas-e-teatros-s02-ep08",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra –Reabertura Dos Cinemas E Teatros – S02 EP08"
+  },
+  "type": "post"
+}

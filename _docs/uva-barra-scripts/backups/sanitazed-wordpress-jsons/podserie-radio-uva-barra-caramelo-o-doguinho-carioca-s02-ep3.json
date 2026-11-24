@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8544/revisions/8550",
+        "id": 8550
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8544"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8544",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8544/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8544"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8548"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8544",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8544",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8544",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F940269601&auto_play=true&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='SoundCloud Player' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>No penúltimo episódio de \"Caramelo, o doguinho carioca\", o segredo de Liz é descoberto pela mãe, que não fica muito satisfeita. Liz e o irmão conversam sobre tudo que aconteceu e apoiam um ao outro. Caramelo, entretanto, segue com problemas de saúde.</p><p>\"Caramelo, o doguinho carioca\" é a segunda história da temporada 2021 de podcasts ficcionais da Rádio UVA Barra. Se você perdeu algum capítulo até agora, clique nos links abaixo e fique por dentro da história desse cãozinho da gema.</p><p><a href='https://agenciauvabarra.com/2021/01/18/podserie-radio-uva-barra-caramelo-o-doguinho-carioca-s01-ep5/' target='_blank'>Podsérie Rádio UVA Barra – Caramelo, o doguinho carioca – S02 EP1</a></p><p><a href='https://agenciauvabarra.com/2021/01/19/podserie-radio-uva-barra-caramelo-o-doguinho-carioca-s02-ep2/' target='_blank'>Podsérie Rádio UVA Barra – Caramelo, o doguinho carioca – S02 EP2</a></p><p>Rafaela Barbosa – 8º período</p></main>"
+  },
+  "date": "2021-01-20T15:17:19",
+  "date_gmt": "2021-01-20T18:17:19",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Caramelo, o doguinho carioca. · Episódio 3: A vida não é um morango&#8230; No penúltimo episódio de “Caramelo, o doguinho carioca”, o segredo de Liz é descoberto pela mãe, que não fica muito satisfeita. Liz e o irmão conversam sobre tudo que aconteceu e apoiam um ao outro. Caramelo, entretanto, segue com problemas de saúde. [&hellip;]</p>\n"
+  },
+  "featured_media": 8548,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8544"
+  },
+  "id": 8544,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/p2.3.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2dO",
+  "link": "https://agenciauvabarra.com/2021/01/20/podserie-radio-uva-barra-caramelo-o-doguinho-carioca-s02-ep3/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-01-20T15:17:19",
+  "modified_gmt": "2021-01-20T18:17:19",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-caramelo-o-doguinho-carioca-s02-ep3",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra – Caramelo, o doguinho carioca – S02 EP3"
+  },
+  "type": "post"
+}

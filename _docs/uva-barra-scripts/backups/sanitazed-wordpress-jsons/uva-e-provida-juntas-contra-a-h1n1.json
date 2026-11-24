@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/85/revisions/2867",
+        "id": 2867
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=85"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/85",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 25,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/85/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=85"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=85",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=85",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    72064
+  ],
+  "class_list": [
+    "post-85",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-uva-barra",
+    "tag-vacina-h1n1"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/img_7754.jpg?resize=5184%2C3456&#038;ssl=1' alt='IMG_7754' width='5184' height='3456' /><figcaption>Jessica Paula e Andréia Dourado, Auxiliar Administrativo e Enfermeira da campanha</figcaption></figure><p>Por meio da recente parceria com a Clínica ProVida, a Universidade Veiga de Almeida está promovendo entre os dias 17 e 21 de abril, a primeira campanha de vacinação contra a gripe H1N1, no campus Barra. Para quem se interessar, a campanha vai acontecer no bloco A, sala 105, no Campus Marapendi, das 8h às 20h, aberta aos funcionários, alunos e familiares, além da comunidade. O investimento é de 85 reais. O vírus H1N1 fez muitas vítimas, até o ano passado, mais de 300 pessoas, de acordo com dados emitidos pelo Governo Federal e amplamente divulgado pelos meios de comunicação, daí a importância com o tema.</p><p>Para o infectologista e professor de Medicina, João Ricado Cristóvão, a população deve estar atenta às campanhas para imunização do vírus da gripe influenza. “Esse é o momento de pensar com carinho em tomar a vacina, já que as mudanças climáticas incidem diretamente no quadro endêmico, sobretudo o clima frio e seco, que piora as doenças respiratórias” – explica. João acrescenta ainda que a vacina se mostrou bem eficaz por cerca de seis meses, e que as crianças com menos de 2 anos, os idosos, as mulheres grávidas e as pessoas com doenças pré-existentes, como diabéticos, obesos e pacientes em tratamento de câncer e AIDS devem se proteger tomando a vacina.</p><p>A coordenadora do curso de Comunicação Social, Professora Margaret Carino, já confirmou presença no evento. Ela acredita que quando as instituições se unem para divulgar a campanha, o resultado sempre é melhor. “Ganham os alunos e funcionários, que experimentam a comodidade em poder tomar a vacina no próprio local de trabalho, ganha a Universidade, que cumpre com seu papel social em reforçar a responsabilidade social que tem com a comunidade e a própria clínica, com a possibilidade de mostrar seu trabalho.”</p><p>Da mesma forma pensa a Diretora do Campus Marapendi, Professora Nara Iwata: “Uma universidade não deve ser percebida como um simples local de estudo. Ela deve ser um local de acolhimento e essa é a filosofia da UVA, promover o cuidado intenso com o corpo discente”. A Professora Nara explica que a razão da parceria com uma clínica externa surgiu em função da inexistência do curso de Enfermagem na grade curricular do Campus Marapendi, daí a necessidade de uma clínica especializada que oferecesse toda a infraestrutura para que a campanha de vacinação pudesse acontecer dentro dos padrões.</p><p>Mas atenção: pessoas com alergia ao ovo não podem tomar a vacina, alertam os especialistas. A vacina é trivalente e protege contra o vírus influenza A (H1N1), influenza A (H3N2), e influenza B (subtipo Brisbane).</p><p>A gripe H1N1 é uma mutação do vírus normal da gripe e ficou conhecida pela epidemia mundial em 2009 e 2010. A doença pode ser facilmente transmitida como qualquer outra, pelo ar, tosse ou espirro. Diferentemente da gripe comum, a H1N1 é mais grave e tem entre os seus sintomas a tosse seca e calafrios. O tratamento pode ser feito por meio de medicamentos, alimentação leve e repouso.</p><p><strong>YHARA LINKA, 6° PERÍODO</strong></p></main>"
+  },
+  "date": "2017-04-18T16:06:23",
+  "date_gmt": "2017-04-18T19:06:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Por meio da recente parceria com a Clínica ProVida, a Universidade Veiga de Almeida está promovendo entre os dias 17 e 21 de abril, a primeira campanha de vacinação contra a gripe H1N1, no campus Barra. Para quem se interessar, a campanha vai acontecer no bloco A, sala 105, no Campus Marapendi, das 8h às [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=85"
+  },
+  "id": 85,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1n",
+  "link": "https://agenciauvabarra.com/2017/04/18/uva-e-provida-juntas-contra-a-h1n1/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-23T20:41:03",
+  "modified_gmt": "2019-01-23T22:41:03",
+  "ping_status": "open",
+  "slug": "uva-e-provida-juntas-contra-a-h1n1",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    193805510,
+    22774095
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA e ProVida juntas contra a H1N1"
+  },
+  "type": "post"
+}

@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10659/revisions/10677",
+        "id": 10677
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10659"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10659",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10659/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10659"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10672"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10659",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10659",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    14603,
+    7114
+  ],
+  "class_list": [
+    "post-10659",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-jornalismo",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Pesquisa apresenta dados que comprovam panorama prejudicial para população preta e parda ao redor do país</em></p><p>Os negros são as maiores vítimas de homicídios no Brasil. Eles representam 77% dos assassinados e a possibilidade de morte é 2,6 vezes superior àquela de uma pessoa não negra. Os dados são do Atlas da Violência 2021, realizado pelo Instituto de Pesquisa Econômica Aplicada (Ipea) em conjunto com o Fórum Brasileiro de Segurança Pública (FBSP), e se referem ao ano de 2019.</p><p>O estudo comprova que a taxa de violência letal contra pessoas negras, que representam a soma de pretos e pardos de acordo com Instituto Brasileiro de Geografia e Estatística (IBGE), é 162% maior do que o total de amarelos, brancos e indígenas. Nos últimos anos aconteceu uma redução do número de assassinatos em geral no país, porém, desde 2009, há um aumento de 1,6% dos homicídios entre negros, atingindo 34.446 vítimas em 2019. Enquanto isso, a diminuição das taxas de homicídio de não negros é 50% superior à população mais afetada.</p><p>O fenômeno dos homicídios contra negros não é novidade no Brasil. A pesquisa aponta que a desigualdade racial se perpetua nos indicadores sociais da violência e mostra que ainda não existe sinais de melhora. Segundo Dennis Pacheco, Pesquisador do Fórum Brasileiro de Segurança Pública, os fatores que dizem respeito ao aumento da vulnerabilidade e violência letal estão ligados aos aspectos socioeconômicos, como renda e escolaridade. Além disso, o Cientista em Humanidades comenta que a intensa concentração de viés racial entre as mortes violentas ocorridas no país remete ao passado. “O Brasil foi fundado sobre essa desigualdade social e racial. Não é uma coisa pontual, é da estrutura da nossa sociedade”, conta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/whatsapp-image-2021-11-09-at-10.53.10-3.jpeg?resize=400%2C400&amp;ssl=1\" alt=\"\" width=\"400\" height=\"400\"><figcaption>Dennis Pacheco afirma que o fenômeno da violência contra negros está relacionado ao racismo. (Foto: Arquivo Pessoal)</figcaption></figure><p>A taxa de homicídios de negros diminuiu 15,5% em todo o país, no entanto, em seis estados do Nordeste e em cinco da Região Norte ela aumentou. Acre e Rio Grande do Norte foram os locais com maior aumento, com 114,5% e 100,4%, respectivamente. Já no Rio de Janeiro, apesar de apresentar redução acentuada de 42,6% nos índices de assassinatos entre negros no período de 2009 a 2019, ainda exibe números críticos, com 27,5%. O percentual já esteve em 70,1%.</p><p>O estudante carioca, José Henrique, conta que já foi agredido física e verbalmente por autoridades. O jovem de 18 anos fala que sentiu medo de morrer e acredita que o principal motivo para as abordagens foi o preconceito racial. “A única explicação para eu ter sido agredido foi ser negro, já que no local estavam também pessoas brancas que nem sequer foram revistadas,” revela.</p><p>Apesar do medo que sente quando vai às ruas, José ainda tem esperança de que no futuro o cenário seja diferente. “Creio que a sociedade ainda vai ter a capacidade de evoluir ao ponto de que não haja mais nenhum tipo de discriminação daqui a algum tempo. As pessoas precisam se conscientizar de que todos somos iguais,” expressa.</p><p>Assim como a transformação do pensamento da sociedade, também é fundamental o investimento em ações governamentais mais efetivas para reverter o quadro negativo de preconceitos, como ressalta Dennis. “Não vamos conseguir mudar sem investimento em políticas públicas que sejam refinadas para públicos específicos, como transexuais, negros e moradores de territórios desfavorecidos. Essas são as pessoas que mais precisam e que tradicionalmente são as menos atendidas,” explica.</p><p><strong>Dennis Pacheco comenta sobre Poder público e violência contra população negra.</strong></p><figure><iframe src=\"https://www.youtube.com/embed/FtbRjbd0Fng?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><br>O Pesquisador também destaca que além das políticas públicas, é importante implementar mudanças no imaginário social de todas as pessoas. “Essa perspectiva é fundamental para mostrar o lugar do negro, a importância da produção intelectual negra, das ações negras e atividades desempenhadas por pessoas negras de um modo geral,” finaliza.</p><p><em>João Henrique Reis – 6º período</em></p><p><em>José Paulo Gonçalves – 6º período</em></p></main>"
+  },
+  "date": "2021-11-11T16:46:29",
+  "date_gmt": "2021-11-11T19:46:29",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os negros são as maiores vítimas de homicídios no Brasil. Eles representam 77% dos assassinados e a possibilidade de morte é 2,6 vezes superior àquela de uma pessoa não negra. Os dados são do Atlas da Violência 2021, realizado pelo Instituto de Pesquisa Econômica Aplicada (Ipea) em conjunto com o Fórum Brasileiro de Segurança Pública (FBSP), e se referem ao ano de 2019.</p>\n"
+  },
+  "featured_media": 10672,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10659"
+  },
+  "id": 10659,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/image0-7.jpeg?fit=758%2C757&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2LV",
+  "link": "https://agenciauvabarra.com/2021/11/11/atlas-da-violencia-revela-que-negros-sao-principais-vitimas-de-homicidio-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-11T16:51:30",
+  "modified_gmt": "2021-11-11T19:51:30",
+  "ping_status": "open",
+  "slug": "atlas-da-violencia-revela-que-negros-sao-principais-vitimas-de-homicidio-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Atlas da Violência revela que negros são principais vítimas de homicídio no Brasil "
+  },
+  "type": "post"
+}

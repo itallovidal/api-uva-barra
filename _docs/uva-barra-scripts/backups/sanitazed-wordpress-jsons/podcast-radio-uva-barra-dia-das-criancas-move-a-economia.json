@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13094/revisions/13115",
+        "id": 13115
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13094"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13094",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13094/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13094"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13111"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13094",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13094",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    11716206
+  ],
+  "class_list": [
+    "post-13094",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-economia-2",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Dia das Crianças move a economia \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6dFFTK0Jnv5b9CPau3DD1U?si=1a68c71df144491a&#038;utm_source=oembed\"></iframe></div></figure><p>12 de outubro, conhecido como <a href=\"https://agenciauvabarra.com/2022/10/12/o-uso-excessivo-das-redes-sociais-por-criancas-preocupam-os-pais/\">Dia das Crianças</a>, é uma data que representa os direitos da criança. Neste feriado, é comum presentear os pequenos, por consequência gera um movimento na economia.</p><p>O podcast da Rádio UVA Barra aborda a relação do dia das crianças e o sistema financeiro. Fernanda Della Rosa, economista e conselheira da Corecon SP, e Marcele Queiroz, mãe da Nicole de 9 anos, integram o episódio. </p><p><em>Breno Monteiro – 8º período</em><br><em>Vinícius Alves – 8º período</em></p></main>"
+  },
+  "date": "2022-10-12T14:46:48",
+  "date_gmt": "2022-10-12T17:46:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>12 de outubro, conhecido como Dia das Crianças, é uma data que representa os direitos da criança. Neste feriado, é comum presentear os pequenos, por consequência gera um movimento na economia.</p>\n"
+  },
+  "featured_media": 13111,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13094"
+  },
+  "id": 13094,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/whatsapp-image-2022-10-12-at-14.41.39-e1665596868867.jpeg?fit=706%2C706&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3pc",
+  "link": "https://agenciauvabarra.com/2022/10/12/podcast-radio-uva-barra-dia-das-criancas-move-a-economia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-12T15:23:37",
+  "modified_gmt": "2022-10-12T18:23:37",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-dia-das-criancas-move-a-economia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Dia das Crianças move a economia"
+  },
+  "type": "post"
+}

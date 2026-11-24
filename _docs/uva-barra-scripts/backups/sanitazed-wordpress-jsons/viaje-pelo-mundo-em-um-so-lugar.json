@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2687/revisions/2695",
+        "id": 2695
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2687"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2687",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2687/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2687"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2690"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2687",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2687",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366
+  ],
+  "class_list": [
+    "post-2687",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "tag-58a-feira-da-providencia",
+    "tag-agencia-uva-barra",
+    "tag-barra-da-tijuca",
+    "tag-rio-centro",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h2></h2><p><em>A 58ª edição da Feira da Providência atrai público variado para o Riocentro</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-29-at-20-50-22.jpeg?resize=1040%2C780&amp;ssl=1\" alt=\"\" width=\"1040\" height=\"780\" /><figcaption>Stand de luminárias. A Turquia é um dos 20 países representados na feira da Providência – Foto: Ana Beatriz Bernardo</figcaption></figure><p>O evento sociocultural, que começou na última quarta-feira (28/11) e vai até o dia 2 de dezembro, aborda o tema “Paz na nossa terra” e oferece uma grande variedade de gastronomia, moda e artesanatos. Com uma programação extensa, este ano apresenta uma novidade: uma área destinada somente à decorações, o “Boulevard Decor”.</p><p>Os stands são diversos, com demonstrações de 20 países e 10 estados, além das tradicionais danças folclóricas, portuguesa, escocesa, boliviana, entre outras. Nesta edição, a assessora Sylvia Lima conta que em parceria com a Som Livre, terá shows das cantoras Ana Vilela e Laila Garin no Palco Cultural. “Muitas pessoas gostam de comprar artigos de natal aqui, então expandimos o espaço para que elas tenham mais opções”, explica</p><p>Por ser tão diversificada em seus produtos, a feira chama a atenção dos visitantes a cada stand. A vendedora Francielly Ramalho conta que é a segunda edição que participa e nunca viu um evento assim.“Aqui tem variedades não só de produtos, mas de pessoas. Cada um vem comprar uma coisa específica, mas acaba conhecendo um pouco das outras mercadorias”, diz. </p><p>Eventos como esse permitem o encontro e a descoberta de outras culturas e atraem público de todas as idades. Sylvia acredita que é um atrativo diferenciado. “A feira também se tornou uma diversão para toda a família”, comenta. A aposentada Neusa Buleehoes acredita que a exposição agrega conhecimento. “Vem pessoas de vários lugares, não só do Brasil. E nós podemos conhecer um pouco mais de outros países e estados”.</p><p><strong>Ana Beatriz Bernardo – 6º período</strong></p></main>"
+  },
+  "date": "2018-11-30T09:40:24",
+  "date_gmt": "2018-11-30T11:40:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A 58ª edição da Feira da Providência atrai público variado para o Riocentro O evento sociocultural,&nbsp;que começou na última quarta-feira (28/11)&nbsp; e vai até o dia 2 de dezembro, aborda o tema “Paz na nossa terra” e oferece uma grande variedade de gastronomia, moda e artesanatos. Com uma programação extensa, este ano apresenta uma novidade: [&hellip;]</p>\n"
+  },
+  "featured_media": 2690,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2687"
+  },
+  "id": 2687,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-29-at-20-50-22.jpeg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Hl",
+  "link": "https://agenciauvabarra.com/2018/11/30/viaje-pelo-mundo-em-um-so-lugar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:07:32",
+  "modified_gmt": "2019-01-31T13:07:32",
+  "ping_status": "open",
+  "slug": "viaje-pelo-mundo-em-um-so-lugar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    655456237,
+    648221465,
+    1129725,
+    10330401,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Viaje pelo mundo em um só lugar"
+  },
+  "type": "post"
+}

@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12572/revisions/12578",
+        "id": 12578
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12572"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12572",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12572/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12572"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12577"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12572",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12572",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    713047979
+  ],
+  "class_list": [
+    "post-12572",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-podseries",
+    "tag-podserie",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O campus Barra da Universidade Veiga de Almeida é pioneiro nas produções de narrativas ficcionais, produtos da indústria criativa. Ao longo da semana, de 22 a 26 de agosto, a Agência UVA Barra vai trazer os episódios pilotos, uma produção exclusiva da disciplina Escrita Criativa e Storytelling, ministrada pelo professor Anderson Barreto. Projeto 2144 faz a estreia.</p><p>Uma expedição científica, nova civilização e uma revolução no sistema. Em 2144, Raul, engenheiro em treinamento, é um dos habitantes de uma nave posicionada acima do planeta Terra. Após uma discussão com o avô Otto, o jovem decide enviar um robô em direção a Terra, na qual desconfia ser inabitável, para iniciar uma jornada de descobertas para os problemas emergentes na embarcação: crescimento populacional e o lixo.</p><p>Ao encontrar com Arya, tudo muda e Raul descobrirá que os ensinamentos adquiridos ao longo do tempo, na verdade, passam por uma mentira. Projeto 2144 é inspirado no Objetivo 12 (Consumo e Produção Responsáveis) dos 17 Objetivos de Desenvolvimento Sustentável da ONU 2030.</p><p>A primeira podsérie da terceira temporada foi produzida por: Ana Carolina Vivas, Bruna Torres, Bruno Barros, Cauã Tinoco, Déborah Gama, Eduarda Nunes, Gabriela Mota, Julia Alves e Mayara Rocha.</p><p>Ouça já!</p><figure><img src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1329145237&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' alt='Projeto 2144 - Episódio 1 by Agência UVA Barra' width='500' height='400'><figcaption>Projeto 2144 - Episódio 1 by Agência UVA Barra</figcaption></figure><p>Pedro Amorim – 7º período</p></main>"
+  },
+  "date": "2022-08-22T18:05:11",
+  "date_gmt": "2022-08-22T21:05:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O campus Barra da Universidade Veiga de Almeida é pioneiro nas produções de narrativas ficcionais, produtos da indústria criativa. Ao longo da semana, de 22 a 26 de agosto, a Agência UVA Barra vai trazer os episódios pilotos, uma produção exclusiva da  disciplina Escrita Criativa e Storytelling, ministrada pelo professor Anderson Barreto. Projeto 2144 faz a estreia.</p>\n"
+  },
+  "featured_media": 12577,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12572"
+  },
+  "id": 12572,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-22-at-13.40.45.jpeg?fit=829%2C859&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3gM",
+  "link": "https://agenciauvabarra.com/2022/08/22/podserie-radio-uva-barra-projeto-2144/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-22T18:05:11",
+  "modified_gmt": "2022-08-22T21:05:11",
+  "ping_status": "open",
+  "slug": "podserie-radio-uva-barra-projeto-2144",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    712276378,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podsérie Rádio UVA Barra: Projeto 2144"
+  },
+  "type": "post"
+}

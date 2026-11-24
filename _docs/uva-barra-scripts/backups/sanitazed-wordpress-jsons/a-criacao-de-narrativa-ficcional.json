@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8520/revisions/8525",
+        "id": 8525
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8520"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8520",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8520/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8520"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8524"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8520",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8520",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8520",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra",
+    "tag-podserie"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os bastidores de “Vocês viram a minha infância?”</em></p><p>A podsérie “Vocês viram a minha infância?” estreou a temporada 2021 de podcasts ficcionais na Rádio UVA Barra. A história traz as aventuras de Lúcio e os amigos que saem de Saquarema, no Rio de Janeiro, e vão em busca do sonho de assistir ao show do ídolo Michael Jackson, em São Paulo. Toda a produção do material foi desenvolvida por alunos para a disciplina “Escrita criativa: narrativas” durante a pandemia.</p><p>Para Viviane Steinberg, aluna do curso de comunicação do campus Barra, o processo de desenvolvimento da narrativa seriada foi cansativo, mas gratificante. “Fizemos muitas reuniões e tiveram dias que ficamos 6, 7 horas de reunião direto para que saísse um trabalho de excelência”, contou a aluna.</p><p>A voz de Lúcio, protagonista da história, foi feita por Paulo Gabriel, aluno de Jornalismo do campus Cabo Frio. Ele participou da direção e pós-produção da série, mas se descobriu como dublador. “Um dos meus sonhos desde criança é ser dublador. Ver todo mundo me elogiando falando que a voz do Lucinho tava muito boa realmente me deixa com um sorriso no rosto e me faz ver que estou no caminho certo”, afirmou Pedro.</p><p>Assista ao vídeo de Paulo Gabriel sobre a série ““Vocês viram a minha infância?”</p><figure><img src='https://www.youtube.com/embed/6FXd8RTvYdA' alt='Vídeo da série Vocês viram a minha infância' width='640' height='360' /><figcaption>Assista ao vídeo de Paulo Gabriel sobre a série ““Vocês viram a minha infância?”</figcaption></figure><p>“Vocês viram a minha infância?” é só a primeira história dessa temporada de podcasts ficcionais da Rádio UVA Barra. Segunda-feira, dia 18 de janeiro, estreia a podsérie “Caramelo, o doguinho carioca” que conta as histórias de um cachorro pela cidade do Rio de Janeiro.</p><p>Se você perdeu algum episódio de “Vocês viram a minha infância?”, clique nos links abaixo e saiba como Lúcio e os amigos resolveram os perrengues que apareceram ao longo da história.</p><p><a href='https://agenciauvabarra.com/2021/01/11/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep1/'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP1</a></p><p><a href='https://agenciauvabarra.com/2021/01/12/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep2/'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP2</a></p><p><a href='https://agenciauvabarra.com/2021/01/13/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep3/'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP3</a></p><p><a href='https://agenciauvabarra.com/2021/01/14/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep4/'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP4</a></p><p><a href='https://agenciauvabarra.com/2021/01/15/podserie-radio-uva-barra-voces-viram-a-minha-infancia-s01-ep5/'>Podsérie Rádio UVA Barra – Vocês viram a minha infância? – S01 EP5</a></p><p><em>Rafaela Barbosa – 8º período</em></p></main>"
+  },
+  "date": "2021-01-16T15:17:55",
+  "date_gmt": "2021-01-16T18:17:55",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os bastidores de “Vocês viram a minha infância?” A podsérie “Vocês viram a minha infância?” estreou a temporada 2021 de podcasts ficcionais na Rádio UVA Barra. A história traz as aventuras de Lúcio e os amigos que saem de Saquarema, no Rio de Janeiro, e vão em busca do sonho de assistir ao show do [&hellip;]</p>\n"
+  },
+  "featured_media": 8524,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8520"
+  },
+  "id": 8520,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/podserie.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2dq",
+  "link": "https://agenciauvabarra.com/2021/01/16/a-criacao-de-narrativa-ficcional/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-01-16T15:17:55",
+  "modified_gmt": "2021-01-16T18:17:55",
+  "ping_status": "open",
+  "slug": "a-criacao-de-narrativa-ficcional",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    712276378
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A criação de narrativa ficcional"
+  },
+  "type": "post"
+}

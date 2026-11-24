@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5620/revisions/5630",
+        "id": 5630
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5620"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5620",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5620/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5620"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5626"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5620",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5620",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-5620",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Palestra relembra a história da nutrição e os desafios para o reconhecimento da profissão</em></p><p>O Núcleo de Alunos em Saúde Coletiva (NASC) da Universidade Veiga de Almeida campus Barra, realizou na terça-feira (08), o evento Café Com Ciência , que promove reuniões científicas a fim de levantar debates entre os estudantes. Nesta edição, recebeu a nutricionista Nelzir Trindade Reis que, além de professora, pesquisadora e autora na área, é considerada uma referência nacional em Nutrição.</p><p>Durante o encontro, Nelzir relembrou a história da nutrição e falou sobre o percurso que os futuros profissionais tem à frente da profissão que eles escolheram. “A nutrição nasceu com o primeiro homem. Sem nutrição não há vida”, disse a palestrante. A coordenadora do NASC e professora, Cinara Oliveira diz que é sempre uma honra receber a professora Nelzir Trindade. “É sempre um privilégio poder ouvi-lá e também compartilhar com os alunos tantos ensinamentos maravilhosos”, afirma.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/01-e1571409743396.jpg?resize=555%2C324&#038;ssl=1\" alt=\"\" width=\"555\" height=\"324\" /><figcaption>Nelzir Trindade relembra os desafios para o reconhecimento da profissão – Foto: Beatrice Laeber</figcaption></figure><p>A trajetória da nutrição e quão longo foi o caminho para que o curso fosse reconhecido como profissão incentivou muitos alunos. A aluna Júlia Maria, do 2º período, conta que a palestra deixou ela muito grata. “A nutrição é muito importante para a saúde geral de uma população. A palestra me fez ficar apaixonada por nutrir vidas”, conclui. </p><p><strong>Beatrice Laeber – 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-10-11T11:46:00",
+  "date_gmt": "2019-10-11T14:46:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestra relembra a história da nutrição e os desafios para o reconhecimento da profissão O Núcleo de Alunos em Saúde Coletiva (NASC) da Universidade Veiga de Almeida campus Barra, realizou na terça-feira (08), o evento Café Com Ciência , que promove reuniões científicas a fim de levantar debates entre os estudantes. Nesta edição, recebeu a [&hellip;]</p>\n"
+  },
+  "featured_media": 5626,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5620"
+  },
+  "id": 5620,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/10/03-e1571409898680.jpg?fit=1280%2C714&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1sE",
+  "link": "https://agenciauvabarra.com/2019/10/11/uva-barra-recebe-nelzir-trindade-referencia-nacional-em-nutricao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-10-18T12:11:13",
+  "modified_gmt": "2019-10-18T15:11:13",
+  "ping_status": "open",
+  "slug": "uva-barra-recebe-nelzir-trindade-referencia-nacional-em-nutricao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA Barra recebe Nelzir Trindade, referência nacional em nutrição"
+  },
+  "type": "post"
+}

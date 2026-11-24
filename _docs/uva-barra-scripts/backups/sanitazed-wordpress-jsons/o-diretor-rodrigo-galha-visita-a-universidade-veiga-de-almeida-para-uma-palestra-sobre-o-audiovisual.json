@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18088/revisions/18120",
+        "id": 18120
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18088"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18088",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 25,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18088/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18088"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18089"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18088",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18088",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-18088",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Cursos de Jornalismo e Publicidade iniciam semestre com palestra sobre mercado e produção audiovisual.</em></p><p>Nesta quarta-feira, o auditório do campus Barra da Universidade Veiga de Almeida recebeu o diretor, editor e videomaker Rodrigo Galha para uma palestra inaugural sobre Produção e Mercado Audiovisual. O profissional compartilhou experiências de 16 anos no setor, além de oferecer orientações técnicas sobre o processo de produção.</p><p>O diretor contou que iniciou a carreira no jornalismo e, aos poucos, migrou para o audiovisual. Começou como videomaker, passou pela edição e chegou à direção, até conquistar espaço no mercado, com passagens por empresas como a Globo e a antiga Paramaker.</p><figure><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXdvUrvN0uWMEdbK3DfIb62z8AB4FEDLx5JThjvU9VRNKopUiZHg3liEUN9VGtkARn6vrbQarXYpDzmoT1kPnmI3lTLH84r-d39DqrZjl7T5RpPkLPewUWMeOeUA0CkZQ4Sqh-aVMg?key=pUmkINLm0uBoSx_F646f1FNe\" alt=\"\" /><figcaption>“Comecei a perceber, ainda em 2009, uma tendência da comunicação no digital: vídeos curtos voltados para um consumo rápido”, comenta o diretor. (Reprodução: Agência UVA Barra)</figcaption></figure><p>Durante o evento, o videomaker falou sobre as mudanças na forma de produzir conteúdo, com vídeos cada vez mais enxutos e dinâmicos. Rodrigo ofereceu uma visão geral do meio digital, além de abordar a importância da estrutura do roteiro, como iniciar com um resumo do que será apresentado, utilizar edições ágeis e ritmadas, acompanhar novas redes e tendências, além de trabalhar a construção de uma narrativa direta, sem enrolações.</p><p>Questionado se havia algum projeto marcante em sua carreira, o diretor respondeu em entrevista para a Agência UVA Barra após a palestra: “Não seria um projeto, mas alguns. Por exemplo, quando lido com pessoas como Xuxa, Lulu Santos, ou o próprio Adriano Imperador, jogador de futebol… Trabalhar com esse nível de celebridades te dá uma experiência e uma base muito bacana. Isso me ajudou a lidar com qualquer tipo de talento, porque são pessoas com quem precisamos ter um tato maior. São experiências que me deixaram um pouco mais cascudo”, revelou Rodrigo.</p><p>A palestra também gerou reflexões entre os estudantes presentes. O estudante de jornalismo Gabriel Lopes Machado, 22 anos, compartilhou uma percepção sobre o encontro e fez algumas críticas construtivas. “A palestra foi enriquecedora, oferecendo uma visão atualizada sobre as tendências e desafios do setor. O palestrante demonstrou domínio do tema, abordando desde as mudanças tecnológicas que impactam a comunicação até as estratégias que estão moldando a publicidade do futuro. Sem dúvida, foi uma experiência que ampliou minha compreensão do cenário e inspirou reflexões sobre as possibilidades do mercado”, afirmou.</p><figure><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcKK-b7xoI1UV4DP_mdL__PM8G2B9jYo3EgtPdbi-s46t2NEWDjIy9YznFTmo0944SIXg6b_GUjWYsMMDEgwZdyGRspsxULuyjsF3h3q6wDdY4Ybny707HKyQGrHqZu00JrU6MmEw?key=pUmkINLm0uBoSx_F646f1FNe\" alt=\"\" /><figcaption> &#8220;Foi uma experiência que ampliou minha compreensão do cenário e inspirou reflexões sobre as possibilidades do mercado”. (Reprodução: Arquivo Pessoal)</figcaption></figure><p>Para o estudante de jornalismo Maicon Araujo, a experiência pode ser resumida em poucas palavras. “Achei a palestra incrível, achei interessante o que ele abordou. Os conceitos de audiovisual na televisão e os princípios de uma boa edição da trilha sonora foram o que mais me chamaram a atenção”, afirmou Maicon.</p><figure><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXevwPpyH-s_raJ3qpnsyGiIfvFlvG1F3fVla-CD4WGnVjrVLc-_RrCP6Z-ZlSTeS3eAxtmhsznXO3zAgysjqEXPNv3LTxxwfmHjQ4CBOLkvDxnfVUxZpoKyN2O-JxetYOfvw-F2MQ?key=pUmkINLm0uBoSx_F646f1FNe\" alt=\"\" /><figcaption>&#8220;Os conceitos de audiovisual na televisão e os princípios de uma boa edição da trilha sonora foram o que mais me chamaram a atenção”. (Reprodução: Arquivo Pessoal)</figcaption></figure><p>Ao final da palestra, o diretor destacou o uso da inteligência artificial no cenário cinematográfico.Segundo ele, a tendência é que a tecnologia continue se aprimorando, e deve ser encarada como uma nova forma de criação, além de representar a “nova língua da internet”.</p><p>“Não tenham medo das novas tecnologias. A IA pode assustar no começo e, de fato, realizar funções que antes eram feitas por profissionais. Mas é importante entender que ela também está aqui para ajudar. Prefira dominá-la. A dica que eu dou é: não se assuste, estude, experimente, adapte-se. O mercado vai crescer por esse caminho, não tem jeito. Abrace a inteligência artificial da melhor maneira que puder”, finalizou Rodrigo.</p><p>A palestra de Rodrigo Galha fez parte da aula inaugural do curso de Publicidade e Propaganda de 2025 e foi mediada pelo professor Anderson Barreto.</p><p><em>Gabriel Veras – 2° período</em></p></main>"
+  },
+  "date": "2025-04-09T18:53:23",
+  "date_gmt": "2025-04-09T21:53:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Cursos de Jornalismo e Publicidade iniciam semestre com palestra sobre mercado e produção audiovisual. Nesta quarta-feira, o auditório do campus Barra da Universidade Veiga de Almeida recebeu o diretor, editor e videomaker Rodrigo Galha para uma palestra inaugural sobre Produção e Mercado Audiovisual. O profissional compartilhou experiências de 16 anos no setor, além de oferecer [&hellip;]</p>\n"
+  },
+  "featured_media": 18089,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18088"
+  },
+  "id": 18088,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/04/img_2348.jpg?fit=6000%2C4000&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4HK",
+  "link": "https://agenciauvabarra.com/2025/04/09/o-diretor-rodrigo-galha-visita-a-universidade-veiga-de-almeida-para-uma-palestra-sobre-o-audiovisual/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "[]",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "enabled": false,
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-04-10T16:54:05",
+  "modified_gmt": "2025-04-10T19:54:05",
+  "ping_status": "open",
+  "slug": "o-diretor-rodrigo-galha-visita-a-universidade-veiga-de-almeida-para-uma-palestra-sobre-o-audiovisual",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Diretor Rodrigo Galha Visita a Universidade Veiga de Almeida para uma Palestra sobre o Audiovisual"
+  },
+  "type": "post"
+}

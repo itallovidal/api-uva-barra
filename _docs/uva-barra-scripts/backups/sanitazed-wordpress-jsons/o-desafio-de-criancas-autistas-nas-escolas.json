@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11186/revisions/11203",
+        "id": 11203
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11186"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11186",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11186/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11186"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11243"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11186",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11186",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-11186",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A importância da inclusão social de crianças autistas nas escolas e como é preciso saber lidar com as dificuldades no ambiente escolar</em></p><p>A inclusão social de crianças autistas nas escolas públicas e privadas no Brasil é uma questão desafiadora, posto que a educação atual não é feita para todos. A dificuldade de interação com as outras crianças, a discriminação e o preconceito, ainda existentes, são negativas sociais direcionadas às crianças autistas e que realçam a necessidade de um olhar mais inclusivo. Como a fase escolar é a primeira experiência da criança, depois do ambiente familiar, é de extrema importância o cuidado, carinho, incentivo e parceria dos colegas e professores com esses alunos.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/2238fc_3c395c8d3b6d4e13b931dd4820079f60_mv2-1.jpeg?resize=1008%2C771&#038;ssl=1' alt='Mateus consegue realizar as tarefas da escola com ajuda, atenção da família e dos professores.' width='1008' height='771' /><figcaption>Mateus consegue realizar as tarefas da escola com ajuda, atenção da família e dos professores. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/2238fc_df356e364a664e878a2f8b7510773dcf_mv2.webp?resize=1224%2C916&#038;ssl=1' alt='Mateus Guarino, de 6 anos, durante um arraiá na escola com os colegas de turma.' width='1224' height='916' /><figcaption>Mateus Guarino, de 6 anos, durante um arraiá na escola com os colegas de turma. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/whatsapp-image-2022-02-17-at-13.14.47.jpeg?resize=828%2C818&#038;ssl=1' alt='Para Juliana Fernandes, psicóloga, é necessário uma assistência qualificada nas escolas.' width='828' height='818' /><figcaption>Para Juliana Fernandes, psicóloga, é necessário uma assistência qualificada nas escolas. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/whatsapp-image-2022-02-17-at-13.19.51.jpeg?resize=1440%2C1434&#038;ssl=1' alt='Natalina Assad, pedagoga, complementa a importância do núcleo familiar.' width='1440' height='1434' /><figcaption>Natalina Assad, pedagoga, complementa a importância do núcleo familiar. (Foto: Arquivo Pessoal)</figcaption></figure><p>De acordo com a psicóloga Juliana Fernandes, pós graduanda em análise do comportamento, a luta pela inclusão é grande. Para ela, é fundamental uma auxiliar terapêutica na escola para mediar excessos ou déficits comportamentais, auxiliar nas intervenções e na troca entre as crianças, trabalhando habilidades sociais. “Tenho relatos de escolas que não dispõem de um plano de ensino individualizado, que é direito desse aluno, que negam disponibilizar uma mediadora que o acompanhe, muitas vezes alegando que não há necessidade, e, principalmente, esses alunos apresentam grandes dificuldades de se relacionar entre pares”, alerta a psicóloga.</p><p>A maneira como a família e a escola lidam com o autismo é um fator essencial no processo de aprendizagem da criança que possui certa dificuldade em compreender o que lhe é ensinado. É preciso capacitar professores, qualificar as escolas e reestruturar o ensino e suas práticas usuais e excludentes. Nesse caso, as escolas precisam se adaptar aos alunos, e não ao contrário. A maioria das escolas considera a inclusão só pelo fato de ter crianças especiais matriculadas.</p><p>A busca da assistente de marketing Marcela Guarino por uma escola para seu filho, Mateus, 6 anos, não foi das mais fáceis. “É inegável a dificuldade do Mateus em acompanhar o progresso da turma. Com isso, ele adquiriu resistência para ir à escola e fazer qualquer tarefa, já que percebe essa dificuldade”, afirma Marcela. Por isso, é necessário que tudo seja adaptado às crianças autistas. A forma de avaliação, a forma de ensinar, o tempo para fazer as tarefas e uma mediadora é o básico para uma inclusão de verdade, o que não acontece na realidade.</p><p>Segundo a pedagoga e pós graduada em gestão escolar Natalina Assad é necessário buscar, junto com a família, o que a criança gosta, o que sabe fazer, as dificuldades que apresenta, o que a incomoda e o que a deixa feliz. “As crianças são acolhidas com muito amor pela escola e pelos colegas. Sempre procuramos levar nossos alunos a respeitarem uns aos outros. Trabalhamos com as diferenças. Na verdade, ninguém é igual a ninguém. Cada um de nós tem dificuldade em alguma questão. Uns na fala, outros na aprendizagem, outros na forma de se relacionar e por aí vai… Por isso, devemos aprender a respeitar a todos”, aponta a pedagoga.</p><p>Natalina conta que geralmente a barreira é quando a própria família não aceita a dificuldade do filho e não procura atendimento médico para criança se desenvolver. Inclusão não é só colocar a criança na escola, ela precisa ter condições de estar em qualquer ambiente. Como todas as outras crianças, o autista precisa ser acompanhado e atendido com suas necessidades. “Precisa ser educado, aprender limites, ser respeitado e aprender a respeitar. Existem vários graus, cada um com suas características próprias. Outros ainda apresentam comorbidades. Por isso é muito importante o acompanhamento familiar, médico e pedagógico”, destaca Natalina.</p><p>O mais importante é o desejo de acolher essa criança, a vontade de ajudá-la e promover a interação dela com as demais. Também, juntamente com a família e profissionais, encontrar os melhores métodos de ensino e aprendizagem. Dessa forma, é essencial garantir momentos para que todos discutam sobre a questão e possam pensar de forma conjunta em planos concretos para que a inclusão aconteça.</p><p>Vale ressaltar que a entrada de uma criança autista em escola regular é um direito garantido por lei, como menciona o capítulo V da Lei de Diretrizes e Bases da Educação Nacional, que atua sobre a Educação Especial. Além da LDB, a Constituição Federal, a Convenção sobre os Direitos das Pessoas com Deficiência e o Estatuto da Criança e do Adolescente também asseguram o acesso à escola regular. Incluir é possível e ainda há esperança de um futuro mais igualitário.</p><p><strong>Confira o podcast realizado por Anna Clara Laurindo sobre maternidade atípica. </strong></p><p><em>Bruna Costa – 6º período</em></p><p><em>Anna Clara Laurindo – 7º período</em></p><p><em>Matéria feita para a disciplina de Edição Multiplataforma em parceria com a Agência UVA Barra.</em></p></main>"
+  },
+  "date": "2022-02-23T17:31:50",
+  "date_gmt": "2022-02-23T20:31:50",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A inclusão social de crianças autistas nas escolas públicas e privadas no Brasil é uma questão desafiadora, posto que a educação atual não é feita para todos. A dificuldade de interação com as outras crianças, a discriminação e o preconceito, ainda existentes, são negativas sociais direcionadas às crianças autistas e que realçam a necessidade de um olhar mais inclusivo. Como a fase escolar é a primeira experiência da criança, depois do ambiente familiar, é de extrema importância o cuidado, carinho, incentivo e parceria dos colegas e professores com esses alunos.</p>\n"
+  },
+  "featured_media": 11243,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11186"
+  },
+  "id": 11186,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/capa-site-agencia-10.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Uq",
+  "link": "https://agenciauvabarra.com/2022/02/23/o-desafio-de-criancas-autistas-nas-escolas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-03-04T16:00:06",
+  "modified_gmt": "2022-03-04T19:00:06",
+  "ping_status": "open",
+  "slug": "o-desafio-de-criancas-autistas-nas-escolas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O desafio de crianças autistas nas escolas"
+  },
+  "type": "post"
+}

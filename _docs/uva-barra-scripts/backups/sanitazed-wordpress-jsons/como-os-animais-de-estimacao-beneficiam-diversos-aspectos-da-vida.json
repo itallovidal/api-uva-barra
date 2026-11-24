@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10285/revisions/10300",
+        "id": 10300
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10285"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10285",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10285/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10285"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10296"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10285",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10285",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    4461207,
+    7114
+  ],
+  "class_list": [
+    "post-10285",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-mundo-pet",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Especialistas em comportamento animal comentam quais as vantagens de ter um pet em casa</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/dr-mauro-lantzman.jpeg?resize=1103%2C953&amp;ssl=1\" alt=\"\" width=\"1103\" height=\"953\" /><figcaption>Médico Veterinário Mauro Lantzman aponta pontos positivos da relação do pet com os donos. (Foto: Arquivo Pessoal)\n</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/auggie.jpg?resize=232%2C389&amp;ssl=1\" alt=\"\" width=\"232\" height=\"389\" /><figcaption>Auggie e Helena têm uma ótima relação desde a chegada do cãozinho. (Foto: Arquivo Pessoal)\n</figcaption></figure><p>Após passar por graves complicações referentes à saúde e se recuperar, a estudante Helena de Bragança decidiu que realizaria o desejo de adotar um bichinho. A chegada do novo integrante na família, o cãozinho Auggie,  mudou toda a rotina da casa para melhor. “Me ajudou a me afastar dos problemas, a lidar com tudo e me deixou feliz”, relata Helena.</p><p>Segundo dados da Associação Brasileira da Indústria de Produtos para Animais de Estimação (Abinpet) estima-se que existam mais de 139 milhões de animais domésticos nos lares brasileiros, dentre eles: cães, gatos, aves, peixes, e outros. Esse número reflete a relação de longa data do homem com os animais e reforça a necessidade dos laços afetivos e de respeito entre os pets e seus donos.</p><p>A chegada de um novo membro no lar é uma relação de amor e dedicação. De acordo com o adestrador Charles Santtos, os animais precisam de amor, carinho e paciência para estabelecerem vínculos de confiança com novos donos. “Os animais nada mais são que grandes amigos”. Afirmação compartilhada também por Helena. “Ter sempre ele (Auggie) ali perto de mim e cuidar dele também é algo que me faz bem demais”.</p><p>Para garantir a harmonia do lar é necessário disponibilizar dedicação e paciência, para educar o pet. A relação de equilíbrio está atrelada ao respeito que o animal tem para com o tutor e que, se não corrigido, pode se tornar um problema maior no futuro. “As pessoas estão contratando o serviço de adestramento porque não estão tendo mais paz dentro de casa”, afirma Charles. </p><p>Contudo, engana-se quem enxerga a presença de um animal em casa apenas para os momentos de brincadeiras e diversão, há muitas vantagens além do lazer. Segundo o médico veterinário especialista em comportamento animal, Mauro Lantzman, dentre os pontos positivos do convívio estão: a melhora de aspectos relacionados à responsabilidade, a organização, o respeito de limites pré-estabelecidos entre ambos e a interação. Devido a estes fatores, o veterinário afirma que cuidar de um animal traz benefícios tanto à saúde física quanto mental, por conta da diminuição dos níveis de estresse e de ansiedade.</p><p><strong>O Doutor Mauro Lantzman fala sobre a importância do animal para o meio familiar:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1137289267&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"O Doutor Mauro Lantzman fala sobre a importância do animal para o meio familiar by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Questões como a falta de tempo aliado ao trabalho, estudos e tarefas domésticas podem influenciar na adaptação do animal ao novo lar e na decisão de ter um bichinho como membro da família. Porém, torna-se ínfimo e superável se comparado às benesses que eles trazem para o ambiente. Com isso, percebe-se que a relação de dono e animal vai muito além e abrange tanto a questão física quanto a psicológica.</p><p><em>Aline Izabele Alves de Oliveira – 6º período</em> </p></main>"
+  },
+  "date": "2021-10-14T18:35:38",
+  "date_gmt": "2021-10-14T21:35:38",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>rotina da casa para melhor. “Me ajudou a me afastar dos problemas, a lidar com tudo e me deixou feliz”, relata Helena.</p>\n"
+  },
+  "featured_media": 10296,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10285"
+  },
+  "id": 10285,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/10/capa-site-agencia-amarela.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2FT",
+  "link": "https://agenciauvabarra.com/2021/10/14/como-os-animais-de-estimacao-beneficiam-diversos-aspectos-da-vida/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-14T18:35:38",
+  "modified_gmt": "2021-10-14T21:35:38",
+  "ping_status": "open",
+  "slug": "como-os-animais-de-estimacao-beneficiam-diversos-aspectos-da-vida",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Como os animais de estimação beneficiam diversos aspectos da vida"
+  },
+  "type": "post"
+}

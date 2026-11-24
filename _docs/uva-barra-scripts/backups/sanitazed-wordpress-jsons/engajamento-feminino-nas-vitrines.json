@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1769/revisions/3217",
+        "id": 3217
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1769"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1769",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1769/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1769"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1769",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1769",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114
+  ],
+  "class_list": [
+    "post-1769",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Comércios no Rio celebram o Dia da Mulher com palestras e promoções</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/semana-da-mulher-e1519848129484.png?resize=710%2C400&amp;ssl=1' alt='SEmana-Da-Mulher-e1519848129484' width='710' height='400' /><figcaption><em>Foto disponibilizada do site: <a href='https://blog.saraiva.com.br/eventos/mulheres-escritoras-na-atualidade-com-rosane-schotgues-levenfus-luciana-bridi-neiva-santos-silva-magali-schmitt-e-mediacao-de-leo-gerchmann/' rel='nofollow'>https://blog.saraiva.com.br/eventos/mulheres-escritoras-na-atualidade-com-rosane-schotgues-levenfus-luciana-bridi-neiva-santos-silva-magali-schmitt-e-mediacao-de-leo-gerchmann/</a></em></figcaption></figure><p>Mesmo antes de se tornar uma data comemorativa, o dia 8 de março traz um significado a mais: luta e liberdade de escolha. Em 1975, foi reconhecida pelas Organizações das Nações Unidas (ONU), por conta de revoluções e reivindicações, em todo o mundo, dentro do movimento socialista pelos direitos das mulheres. Hoje, o símbolo continua como forma de protesto e um pedido de igualdade.</p><p>Neste ano não poderia ser diferente. Para comemorar, lojas como “Quem disse, Berenice?”, Saraiva, My Place e alguns restaurantes colocam produtos com até 50% de desconto. Além disso, outros centros comerciais também dispõem de promoções durante esse mês.Um dos participantes que adere a essa promoção, para prestigiar o público feminino, é o Barra Shopping, que conta com uma cabine da Fox Sports, para narradoras de futebol mostrarem o talento. Além disso, outros centros comerciais também aderem a essas promoções como forma de homenagem.</p><p>Para dar incentivo a essa homenagem para todas as mulheres, a livraria Saraiva, por exemplo, presenteia as mulheres com descontos em livros, CDs e itens de papelaria nas lojas físicas e na internet. A consequência dessas ações permite o engajamento e a conscientização para as causas feministas, como observa a publicitária Bruna Oliveira. “O movimento traz muitos benefícios para essa data. Permite que a causa seja priorizada e lembra que precisamos ser lembradas e apoiadas”.</p><p> O posicionamento dessas organizações diante desses movimentos encoraja outras a apoiarem a luta pelos direitos. Para Bruna, algumas instituições não se posicionam e não investem por medo do prejuízo. “Não é sobre política ou religião, são pontos totalmente positivos para se investir. É o fato de ressaltar que as mulheres são a sociedade”, explica. A estudante Natália Gomes também ressalta a importância desse encorajamento. “Mesmo com o lucro do comércio, é ótimo para destacar que nós queremos&nbsp; respeito diariamente”.</p><p><strong>Ana Beatriz Bernardo, 5º período.</strong></p></main>"
+  },
+  "date": "2018-03-10T19:33:49",
+  "date_gmt": "2018-03-10T22:33:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Comércios no Rio celebra o Dia da Mulher com palestras e promoções</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1769"
+  },
+  "id": 1769,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-sx",
+  "link": "https://agenciauvabarra.com/2018/03/10/engajamento-feminino-nas-vitrines/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:28:38",
+  "modified_gmt": "2019-02-26T00:28:38",
+  "ping_status": "open",
+  "slug": "engajamento-feminino-nas-vitrines",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Engajamento feminino nas vitrines"
+  },
+  "type": "post"
+}

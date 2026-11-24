@@ -1,0 +1,164 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1943/revisions/2898",
+        "id": 2898
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1943"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1943",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1943/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1943"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1943",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1943",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-1943",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-clube-monte-libano",
+    "tag-esoterismo",
+    "tag-feira-esoterica",
+    "tag-leblon",
+    "tag-mystic-fair-brasil"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Velas, incensos e defumadores marcam exposição cultural</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/05/whatsapp-image-2018-05-10-at-10-44-09.jpeg?resize=1280%2C960&amp;ssl=1\" alt=\"WhatsApp Image 2018-05-10 at 10.44.09\" width=\"1280\" height=\"960\" /><figcaption>Foto: Pablo Siviero</figcaption></figure><p>Cura, evolução e transformação. Com uma agenda cheia de compromissos divididos entre a vida pessoal e profissional, o espaço para manter a saúde do corpo e da mente está além das atividades físicas. E com o objetivo de fortalecer a Espiritualidade, a Mystic Fair Brasil, uma das maiores feiras místicas e esotéricas do mundo, esteve presente entre os dias 5 e 6 de maio no Clube Monte Líbano, no Leblon, Zona Sul do Rio de Janeiro. Além dos stands com produtos relacionados a rituais e movimentos espirituais, a programação foi marcada por consultas e palestras.</p><p>Um dos palestrantes foi Rogelio Peres, comerciário e terapeuta há mais de 35 anos, que demostra interesse por novos desafios. “Não consegui ficar só no comércio, sentia a falta de algo mais”, declara o mentor que já viajou para a Índia, a fim de expandir nos estudos sobre a Reconexão. Esta prática incentiva a busca pela cura de problemas físicos, mentais ou emocionais através de frequências eletromagnéticas. –“Eu vivencio o motivo das coisas e busco ter uma percepção sobre cada uma delas”, afirma o palestrante.</p><p>Esse desenvolvimento inspirou os visitantes e profissionais. Assim como Rogelio, Carlos Volnei é terapeuta e procura novas técnicas para complementar o trabalho clínico. “Eu quero adquirir conhecimento e informações sobre o processo de cura”, declara o médico. Já para Monica da Conceição, alguns tópicos não foram abordados como o esperado. “Ele poderia falar mais sobre a parte histórica e a evolução”, expressa a convidada que utiliza o Reiki, uma prática japonesa para redução do estresse e relaxamento que promove a cura.</p><p>O movimento proporcionou uma variedade de palestras, vivências e rituais. Para os consumidores, um espaço com 150 stands representados por expositores dos setores movimentou a região. A feira reúne anualmente os principais institutos, marcas e produtos na cidade do Rio de Janeiro e de São Paulo. Rogelio, que há 10 anos atua no Brasil, pretende ir ao próximo encontro nos dias 1 e 2 de dezembro no São Paulo Expo.</p><p><strong>Karina Figueiredo, 4º período</strong></p></main>"
+  },
+  "date": "2018-05-10T10:50:49",
+  "date_gmt": "2018-05-10T13:50:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Velas, incensos e defumadores marcam exposição cultural Cura, evolução e transformação. Com uma agenda cheia de compromissos divididos entre a vida pessoal e profissional, o espaço para manter a saúde do corpo e da mente está além das atividades físicas. E com o objetivo de fortalecer a Espiritualidade, a Mystic Fair Brasil, uma das maiores [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1943"
+  },
+  "id": 1943,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-vl",
+  "link": "https://agenciauvabarra.com/2018/05/10/pausa-para-meditar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:47:57",
+  "modified_gmt": "2019-01-31T14:47:57",
+  "ping_status": "open",
+  "slug": "pausa-para-meditar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    13407675,
+    15229,
+    2340057,
+    425232,
+    427777879
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Pausa para meditar"
+  },
+  "type": "post"
+}

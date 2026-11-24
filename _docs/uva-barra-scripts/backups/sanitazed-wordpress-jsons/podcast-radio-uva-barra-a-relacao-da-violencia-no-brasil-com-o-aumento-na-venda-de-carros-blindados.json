@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13589/revisions/13595",
+        "id": 13595
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13589"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13589",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13589/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13589"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13594"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13589",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13589",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7442,
+    21243,
+    7114,
+    33026
+  ],
+  "class_list": [
+    "post-13589",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-empreendedorismo",
+    "category-seguranca",
+    "category-sociedade",
+    "category-violencia",
+    "tag-agencia-uva-barra",
+    "tag-blindados",
+    "tag-carros",
+    "tag-podcast",
+    "tag-seguranca",
+    "tag-violencia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed:  A relação da violência no Brasil com o aumento na venda de carros blindados \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/2LaoSmrIlJfCHY87qZlE3v?si=JlzMLTopTjm3nrS5up0GRg&#038;utm_source=oembed\"></iframe></figure><p>No Brasil, foi registrado de 2019 até o ano passado mais de 1 milhão de roubos de carros segundo o Sistema Nacional de Informação de Segurança Pública, o Sinesp. Por outro lado, o país possui a maior frota de veículos blindados circulando nas ruas desde 1995 e um crescimento de 45% de 2020 a 2021 de automóveis que receberam essa proteção.</p><p>No novo podcast da Rádio UVA Barra, falaremos sobre a relação da violência no país com o aumento nas vendas de carros blindados, e temos como convidados para o episódio de hoje, o presidente da Associação Brasileira de Blindagem, Marcelo José da Silva, e José Romão de Souza, dono de um carro blindado.</p><p>Vinicius Alves – 8° período</p><p></p></main>"
+  },
+  "date": "2022-11-18T18:36:40",
+  "date_gmt": "2022-11-18T21:36:40",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No Brasil, foi registrado de 2019 até o ano passado mais de 1 milhão de roubos de carros segundo o Sistema Nacional de Informação de Segurança Pública, o Sinesp. Por outro lado, o país possui a maior frota de veículos blindados circulando nas ruas desde 1995 e um crescimento de 45% de 2020 a 2021 de automóveis que receberam essa proteção.</p>\n"
+  },
+  "featured_media": 13594,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13589"
+  },
+  "id": 13589,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/11/whatsapp-image-2022-11-18-at-13.40.24.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3xb",
+  "link": "https://agenciauvabarra.com/2022/11/18/podcast-radio-uva-barra-a-relacao-da-violencia-no-brasil-com-o-aumento-na-venda-de-carros-blindados/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-11-18T18:41:40",
+  "modified_gmt": "2022-11-18T21:41:40",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-a-relacao-da-violencia-no-brasil-com-o-aumento-na-venda-de-carros-blindados",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1305614,
+    47791,
+    1142,
+    767056614,
+    767056617
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: A relação da violência no Brasil com o aumento na venda de carros blindados"
+  },
+  "type": "post"
+}

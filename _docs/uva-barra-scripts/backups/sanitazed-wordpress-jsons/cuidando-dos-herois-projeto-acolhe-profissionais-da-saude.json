@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9667/revisions/9686",
+        "id": 9686
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9667"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9667",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9667/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9667"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9679"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9667",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9667",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    72064,
+    7114,
+    14591
+  ],
+  "class_list": [
+    "post-9667",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-saude",
+    "category-sociedade",
+    "category-trabalho",
+    "tag-cuidando-dos-herois",
+    "tag-saude-mental"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Ajuda para quem passa por exaustão e sobrecarga no combate ao coronavírus</em></p><p>Desde que o coronavírus foi identificado em dezembro de 2019 e casos da doença foram registrados em Wuhan, na China, milhares de profissionais da saúde estiveram na linha de frente no combate ao vírus. Mais de um ano após os trabalhos e o número de 500 mil mortos no Brasil, médicos e enfermeiros estão exaustos. Ter empatia é preciso para apoiar esses profissionais.</p><p>O projeto Cuidando dos Heróis é uma iniciativa de voluntariado que visa estabelecer uma rede de apoio para a superação do estresse ou sofrimento emocional, estado de exaustão causado pela exposição à pandemia. Através desse apoio, diversos especialistas dão horas do seu tempo para cuidar do próximo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-nazareth.jpeg?resize=442%2C483&amp;ssl=1\" alt=\"\" width=\"442\" height=\"483\"><figcaption>\"O projeto surgiu da compreensão da necessidade de apoiar os profissionais, após ouvir diversos depoimentos de sofrimento e medo. Foi idealizado para ser uma escuta empática, em grupo pequenos, com metodologia definida\", Nazareth Ribeiro. Foto: arquivo pessoal.</figcaption></figure><p>Os profissionais da saúde foram obrigados a adentrar em um ambiente desconhecido e sem conhecer a doença. Muitos foram enclausurados para tentar salvar vidas. Todas as preocupações com a família e com si próprio acarretaram em uma sobrecarga física e mental, na maioria dos profissionais, conhecida como <em>Burnout.</em></p><p>Segundo pesquisa realizada pelo aplicativo <a href=\"https://medicinasa.com.br/tag/pebmed/\">PEBMED</a>, 78% dos profissionais tiveram sinais de síndrome de <em>Burnout </em>no período da pandemia. A prevalência foi de 79% entre médicos, 74% entre enfermeiros e 64% entre técnicos de enfermagem. Essa síndrome é um distúrbio psíquico de caráter depressivo, associado à atividade profissional, que causa esgotamento físico e mental.</p><p class=\"wp-block-paragraph\"> </p><blockquote><p>\"Os profissionais da área da saúde se dedicam inteiramente ao propósito de salvar vidas, e de proporcionar uma assistência adequada, mesmo quando as condições são desfavoráveis. Agora, é a nossa vez de ajudar\"</p><cite>Nazareth Ribeiro</cite></blockquote><p class=\"wp-block-paragraph\"></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-andrea.jpeg?resize=496%2C491&amp;ssl=1\" alt=\"\" width=\"496\" height=\"491\"><figcaption>\" Precisamos valorizar o profissional da saúde que está todo dia enfrentando diversas batalhas para salvar vidas\", Andréa Drumond. Foto: arquivo pessoal.</figcaption></figure><p>A fundadora do projeto, Andréa Drumond, conta que essa rede de apoio vai criar novos costumes para a população. \"Nossa intenção é criar uma cultura de valorização, mostrar que todo mundo importa. É importante reforçar que estes profissionais são humanos e têm fragilidades e qualidades como todos. Por isso, queremos recuperar a saúde mental, emocional e física de todos que passarem pelo projeto\".</p><p class=\"wp-block-paragraph\"></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/YdRybjFiSGY?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><blockquote><p>\"Precisamos vacinar a população, fortalecer as campanhas informativas é de educação da população. Enfatizar o uso de máscaras e medidas preventivas, cobrar mais eficiência e atitude dos governos, reduzir a pressão nos serviços de saúde. Os profissionais estão cansados e esgotados emocionalmente, precisamos apoiá-los para que se mantenham firmes, saudáveis e com saúde emocional\"</p><cite>Andréa Drumond</cite></blockquote><p><em>Natália Lisboa – 6º período</em></p></main>"
+  },
+  "date": "2021-06-23T21:19:00",
+  "date_gmt": "2021-06-24T00:19:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Desde que o coronavírus foi identificado em dezembro de 2019 e casos da doença foram registrados em Wuhan, na China, milhares de profissionais da saúde estiveram na linha de frente no combate ao vírus. Mais de um ano após os trabalhos e o número de 500 mil mortos no Brasil, médicos e enfermeiros estão exaustos. Ter empatia é preciso para apoiar esses profissionais. </p>\n"
+  },
+  "featured_media": 9679,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9667"
+  },
+  "id": 9667,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/capa-site-agencia-5.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2vV",
+  "link": "https://agenciauvabarra.com/2021/06/23/cuidando-dos-herois-projeto-acolhe-profissionais-da-saude/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-06-24T09:47:34",
+  "modified_gmt": "2021-06-24T12:47:34",
+  "ping_status": "open",
+  "slug": "cuidando-dos-herois-projeto-acolhe-profissionais-da-saude",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    720298811,
+    767056632
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Cuidando dos Heróis: projeto acolhe profissionais da saúde"
+  },
+  "type": "post"
+}

@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11130/revisions/11134",
+        "id": 11134
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11130"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11130",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11130/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11130"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11136"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11130",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11130",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-11130",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe src='https://www.youtube.com/embed/YptAB3oQ8eg?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox></iframe></figure><p>Se sentir intensamente insatisfeito com pequenos ou inexistentes defeitos ao se olhar no espelho. É como a dismorfia corporal, ou transtorno dismórfico corporal, atinge as pessoas que sofrem do transtorno. Cerca de 4 milhões de brasileiros convivem com essa insegurança relacionada com a aparência física.</p><p>Para abordar sobre o pensamento distorcido destacado, a influência das redes sociais, a indústria da beleza e o processo do tratamento, o trabalho da disciplina de WebTv em parceria com a Agência UVA Barra recebe Nathália Garcia, psicóloga, e Bianca Thurm, fisioterapeuta. Grupo: Ana Júlia Queiroz, Ana Carolina Fernandes, Julia Santos, Lucas Ribeiro, Lucas Souza, Luma Keily e Mariana Sabino.</p><p><em>Pedro Amorim – 6º período</em></p></main>"
+  },
+  "date": "2022-02-07T16:38:15",
+  "date_gmt": "2022-02-07T19:38:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Se sentir intensamente insatisfeito com pequenos ou inexistentes defeitos ao se olhar no espelho. É como a dismorfia corporal, ou transtorno dismórfico corporal, atinge as pessoas que sofrem do transtorno. Cerca de 4 milhões de brasileiros convivem com essa insegurança relacionada com a aparência física.</p>\n"
+  },
+  "featured_media": 11136,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11130"
+  },
+  "id": 11130,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/02/img_1808.jpg?fit=828%2C822&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Tw",
+  "link": "https://agenciauvabarra.com/2022/02/07/dismorfia-corporal/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-02-07T16:52:36",
+  "modified_gmt": "2022-02-07T19:52:36",
+  "ping_status": "open",
+  "slug": "dismorfia-corporal",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Dismorfia Corporal"
+  },
+  "type": "post"
+}

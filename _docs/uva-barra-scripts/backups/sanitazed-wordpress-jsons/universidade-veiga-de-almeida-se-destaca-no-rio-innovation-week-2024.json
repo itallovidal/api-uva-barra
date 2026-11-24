@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17130/revisions/17168",
+        "id": 17168
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17130"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17130",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17130/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17130"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17133"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17130",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17130",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17130",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Com palestras inovadoras sobre metodologia maker, a UVA reforça seu compromisso com a educação de qualidade e a preparação de profissionais para os desafios do futuro.</p><p>Durante o mês de agosto, a cidade do Rio de Janeiro recebeu a 4ª edição do Rio Innovation Week (RIW), a maior conferência de tecnologia e inovação do mundo. Com um espaço de 75 mil metros quadrados no Píer Mauá, a edição deste ano superou as expectativas e quebrou recordes, reunindo 3,3 mil palestrantes e 185 mil visitantes ao longo de seus quatro dias. As 2 mil startups presentes fomentaram discussões e geraram negócios que ultrapassaram R$3,8 bilhões, em um ambiente que contou com 410 expositores e uma produção que envolveu 15 mil profissionais. E é claro, a Universidade Veiga de Almeida (UVA) não ficou de fora.</p><p>Com um estande próprio, a UVA marcou presença significativa no evento. Além de contar com uma grande equipe de voluntários entusiastas da própria instituição, a universidade se destacou ao promover três palestras exclusivas que abordaram temas inovadores, como a integração entre educação climática e a metodologia maker, o papel da educação em eventos culturais, e o desenvolvimento de produtos maker voltados para a acessibilidade. A participação da UVA reforçou seu compromisso com a inovação e o avanço educacional, conectando saberes acadêmicos às demandas emergentes da sociedade.</p><p>Viviane Japiassú, coordenadora do Núcleo de Inovação Pedagógica e professora no mestrado profissional em Ciências do Meio Ambiente da Universidade Veiga de Almeida, destacou a importância de sair do modelo tradicional de ensino, em que o aluno adota uma postura passiva, apenas assistindo ao conteúdo. \"A gente vem trabalhando com os alunos para que eles entendam que a sustentabilidade é um pacote de sobrevivência, e que todo mundo tem que estar comprometido com isso\", afirmou. Ela explicou ainda que, ao trazer a metodologia maker para o ensino, os estudantes são desafiados a colocar a \"mão na massa\", o que pode causar um certo desconforto inicialmente, mas acaba despertando um senso de criatividade e de engajamento com temas que, muitas vezes, eles nem imaginavam. Viviane enfatizou que esse processo leva os alunos a descobrir novas possibilidades de atuação em suas carreiras e os incentiva a enxergar a necessidade de integração com profissionais de outras áreas. Para ela, é essencial que o estudante, desde o início da graduação, perceba que pode transformar seu conhecimento e experiência em soluções que agreguem valor à sociedade.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/img_2008.png?resize=3024%2C4032&amp;ssl=1\" alt=\"\" width=\"3024\" height=\"4032\" /><figcaption></figcaption></figure><p>Tatiana Araújo de Lima, coordenadora do Núcleo de Acessibilidade da Universidade Veiga de Almeida e professora de Odontologia, explicou como a Cultura Maker foi incorporada na instituição em 2020, em alinhamento com os objetivos da Agenda 2030 da ONU, \"Nossa ideia era pactuar com a ONU para atender esses objetivos, trazendo um mundo mais sustentável, com menos pobreza e mais equidade\", comentou. A professora detalhou que, ao serem informados de que suas disciplinas se tornariam disciplinas maker, cada professor teve a tarefa de desenvolver um projeto que se adequasse aos objetivos sustentáveis. No caso de Tatiana, que já coordenava o núcleo de acessibilidade, a necessidade de apoiar pessoas com deficiência visual, a segunda maior deficiência no Brasil e no mundo, foi uma motivação natural para integrar acessibilidade em sua disciplina de anatomia. \"Foi uma discussão que tivemos junto com os alunos, e assim chegamos ao produto final\", explicou. Tatiana ressaltou que essa abordagem permitiu que os estudantes se envolvessem ativamente, trazendo problemáticas reais que enfrentavam em relação à acessibilidade, o que ajudou a moldar as propostas desenvolvidas em sala de aula.</p><p>Giovanni Codeça, coordenador do curso de licenciatura em História da Universidade Veiga de Almeida e doutor em Letras Neolatinas, falou sobre o impacto transformador de sair do ambiente acadêmico teórico e se engajar com a prática. \"Eu saí da universidade todo encaixotado\", confessou, referindo-se ao ensino tradicional. Giovanni reconheceu que a formação pedagógica dos professores ainda é deficiente em muitos aspectos, especialmente na aplicação prática do conhecimento. \"Eu precisei me modificar enquanto professor\", explicou, destacando que essa mudança veio ao se deparar com alunos que não compreendiam suas abordagens tradicionais. Foi a partir dessas experiências e da necessidade de desenvolver novas metodologias que ele começou a ver a importância de aproximar o ensino da realidade encontrada nos territórios e comunidades. Giovanni enfatizou que as experiências maker, que a universidade vem desenvolvendo, buscam não apenas transmitir conhecimento, mas também dialogar com o saber já presente em lugares como escolas de samba, favelas, terreiros e centros religiosos. \"O conhecimento não está só na universidade\", afirmou, ressaltando a importância de aprender a dialogar com esses saberes diversos para promover uma verdadeira transformação no processo educacional.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/img_1971.png?resize=3024%2C4032&amp;ssl=1\" alt=\"\" width=\"3024\" height=\"4032\" /><figcaption></figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/img_1967.png?resize=3024%2C4032&amp;ssl=1\" alt=\"\" width=\"3024\" height=\"4032\" /><figcaption></figcaption></figure><p>A coordenadora de pós-graduação e pesquisadora acadêmica da Universidade Veiga de Almeida, Daniele Spada, também esteve presente ao evento apresentando sua experiência com os alunos. Para ela, a verdadeira aprendizagem não está apenas em transmitir conhecimento teórico, mas em entrelaçá-lo com a prática. \"Sair da teoria e ir para a prática não é sair, é entrelaçar\", afirmou, destacando que o aluno só compreende plenamente o conteúdo quando vê sua aplicabilidade na vida real. Segundo a professora, o processo educativo se fortalece quando há uma conexão direta entre o que se ensina e o que se vive, permitindo que a teoria ganhe vida no cotidiano. \"Você só aprende de verdade quando experimenta\", disse, sublinhando a importância de vivenciar o aprendizado, o que, segundo Daniele, também fomenta uma empatia mais profunda, não apenas por se colocar no lugar do outro, mas por compartilhar experiências que ampliam a compreensão e a sensibilidade.</p><p>Para Thiago Thielmann, Mestre em Ambiente Construído e Especialista em Mídias e Tecnologias na Educação, a aplicação da metodologia maker representa uma revolução necessária na educação. Como membro do curso de Inovação Tecnológica e Pedagógica da UVA, ele acredita que transformar o estudante de um receptor passivo em um participante ativo é fundamental para o desenvolvimento de conhecimento relevante. \"Essa mudança de paradigma pode ser difícil\", admite Thiago, mas ressalta que, uma vez que professores e alunos se adaptam à nova dinâmica, o aprendizado se torna mais envolvente e significativo. Ele ainda enfatiza que essa abordagem prepara melhor os alunos para os desafios do mundo real, ao integrar a universidade de forma mais profunda com a sociedade. \"Nós interagimos com os estudantes e com o mundo lá fora\", afirma, destacando que essa conexão é essencial para um ensino efetivo. Para ele, a educação maker é tanto o presente quanto o futuro da formação acadêmica, com sua aplicabilidade estendendo-se a todos os níveis de ensino.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/img_2006.png?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption></figcaption></figure><p>O estudante de Psicologia da Universidade Veiga de Almeida, Caio Pereira, participou como voluntário na Rio Innovation Week 2024, onde ele e outros voluntários desempenharam papéis cruciais em todas as áreas do evento. Segundo Caio, o ritmo acelerado e as múltiplas tarefas não impediram que ele aproveitasse a experiência única. \"O Rio Innovation Week é um dos maiores eventos de tecnologia do Brasil, então foi uma oportunidade muito boa estar aqui\", afirmou, destacando que, apesar das atividades intensas, o contato com tantas inovações e conteúdos diversos foi extremamente enriquecedor. Ele enfatizou que essa vivência não só ampliou seus conhecimentos, mas também proporcionou uma experiência prática valiosa que, segundo ele, \"vai agregar muito para a nossa vida\".</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/img_1995.png?resize=3024%2C4032&amp;ssl=1\" alt=\"\" width=\"3024\" height=\"4032\" /><figcaption></figcaption></figure><p><br>A presença da Universidade Veiga de Almeida (UVA) na Rio Innovation Week 2024 destacou-se como um marco significativo para a instituição, reforçando seu compromisso com a inovação e a educação de qualidade. Em meio a um dos maiores eventos de tecnologia do Brasil, a UVA não apenas exibiu suas conquistas, mas também reafirmou seu papel como uma universidade que alia teoria à prática, preparando seus alunos para os desafios do futuro. O stand da UVA, que ofereceu copos de brindes e contou com a dedicação de inúmeros voluntários, tornou-se um ponto de referência no evento, atraindo visitantes e despertando interesse pela proposta educativa da instituição. Por meio de palestras, a universidade demonstrou sua liderança em temas como educação climática, acessibilidade e metodologias maker, evidenciando o quanto está alinhada com as demandas contemporâneas e comprometida em formar profissionais capacitados e conscientes. A participação na Rio Innovation Week consolidou a UVA como uma instituição que não apenas acompanha as transformações do mundo, mas que também contribui ativamente para moldar o futuro.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/img_2035.png?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption></figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/img_1947.png?resize=3024%2C4032&amp;ssl=1\" alt=\"\" width=\"3024\" height=\"4032\" /><figcaption></figcaption></figure><p><em>Mario Freire – 2º Período</em></p></main>"
+  },
+  "date": "2024-08-17T00:45:29",
+  "date_gmt": "2024-08-17T03:45:29",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Com palestras inovadoras sobre metodologia maker, a UVA reforça seu compromisso com a educação de qualidade e a preparação de profissionais para os desafios do futuro. Durante o mês de agosto, a cidade do Rio de Janeiro recebeu a 4ª edição do Rio Innovation Week (RIW), a maior conferência de tecnologia e inovação do mundo. [&hellip;]</p>\n"
+  },
+  "featured_media": 17133,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17130"
+  },
+  "id": 17130,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/08/mario-freire-2o-periodo-3171839023-e1723861372797.png?fit=703%2C466&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4si",
+  "link": "https://agenciauvabarra.com/2024/08/17/universidade-veiga-de-almeida-se-destaca-no-rio-innovation-week-2024/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-08-19T15:16:14",
+  "modified_gmt": "2024-08-19T18:16:14",
+  "ping_status": "open",
+  "slug": "universidade-veiga-de-almeida-se-destaca-no-rio-innovation-week-2024",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "UNIVERSIDADE VEIGA DE ALMEIDA SE DESTACA  NO RIO INNOVATION WEEK 2024"
+  },
+  "type": "post"
+}

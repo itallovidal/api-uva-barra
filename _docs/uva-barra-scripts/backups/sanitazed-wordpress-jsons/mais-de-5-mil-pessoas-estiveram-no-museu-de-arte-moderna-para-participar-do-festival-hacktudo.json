@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13316/revisions/13335",
+        "id": 13335
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13316"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13316",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13316/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13316"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13329"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13316",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13316",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366,
+    22,
+    74499,
+    758
+  ],
+  "class_list": [
+    "post-13316",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-eventos",
+    "category-internet",
+    "category-mercado-de-trabalho",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-hacktudo",
+    "tag-internet",
+    "tag-publico",
+    "tag-tecnologia",
+    "tag-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento teve como objetivo unir o público com a arte e tecnologia</em><br><br>No último final de semana foi possível ver uma fila no MAM de um público que gosta de tecnologia. Muitos pais decidiram levar os filhos no Festival de Cultura Digital para interagir com os robôs. O espaço estava cheio e não foram só as crianças que marcaram presença no evento que reuniu gamers e curiosos de todas as idades.<br><br>Foi justamente na escola que o enteado de Fernanda Lemos soube a respeito do Hacktudo e, junto com os filhos dela, convenceu Fernanda a levá-los no último domingo. Os meninos competiram com outras crianças numa partida de Hockey de robôs e estavam bem contentes de poder mexer e interagir com os eletrônicos. Fernanda apontou a importância desse momento para o desenvolvimento das crianças. “Eu acho que além de tudo, despertar a criação deles, desenvolve habilidades, a coordenação motora e abre a visão deles não só para aquela questão, o eletrônico, mas para as tecnologias aplicadas”, falou.<br><br></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/heiri-1.jpeg\" alt=\"\" width=\"1600\" height=\"1200\" /><figcaption>Para Heiri, todas as profissões vão demandar tecnologia no futuro. (Foto: Sabrina Marques)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/fernanda-1.jpeg\" alt=\"\" width=\"1600\" height=\"1200\" /><figcaption>Fernanda acredita que o festival pode acrescentar de forma positiva no desenvolvimento e no futuro dos filhos. (Foto: Sabrina Marques)</figcaption></figure><p>No caso da Advogada Heiri Menezes, ela quem decidiu trazer a filha e os sobrinhos. Segundo Heiri, o que motivou o passeio foi o interesse da filha pelo mercado digital que está a procura de aprender mais. A advogada também comentou a importância dos jovens terem contato com as tecnologias para começar a entender como vai ser o mundo no futuro e até pensar na carreira. “O que eles querem fazer no futuro, qual profissão eles vão escolher e como a tecnologia vai ser importante naquilo que eles vão fazer”, acrescentou.</p><p>O Hacktudo reúne diferentes profissionais. No último dia, quem estava por lá foi a artista digital e professora de ciências, Flavya Peres, que fez parte da exposição do grupo Pupila Dilatada. Para a artista quando se fala de tecnologia, as pessoas imaginam algo muito distante da realidade delas. “Há a possibilidade de você mostrar o que existe de trabalho com a tecnologia e também de você criar novas relações com artefatos que a gente está utilizando agora e vai usar ainda mais no futuro”, comentou.</p><p><strong>Confira o que Flavya falou sobre o uso consciente da tecnologia:</strong></p><figure><iframe src=\"https://www.youtube.com/embed/KU6pEseggo8\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/flavya.jpeg\" alt=\"\" width=\"1600\" height=\"1200\" /><figcaption>Flavya comenta que a tecnologia se desenvolve mais rápido que as pessoas. (Foto: Sabrina Marques)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/rafael.jpeg\" alt=\"\" width=\"1600\" height=\"1200\" /><figcaption>Rafael pensa que é importante usar a tecnologia de forma saudável e não de modo exagerado para não ser prejudicial à saúde. (Foto: Sabrina Marques)</figcaption></figure><p>Quem também marcou presença no Festival foi o Psicólogo Rafael Bezerra. Ele faz parte do projeto “Sorrindo RJ” e levou alguns adolescentes, beneficiados pela Organização Não Governamental, com objetivo de fazê-los ter mais contato com o mundo virtual. “É um meio que você pode trabalhar as questões lógicas, racionais. E estimula muito a questão cognitiva”, explicou Rafael.</p><p>O psicólogo acredita que o evento pode influenciar os jovens de modo benéfico. <strong>Confira o áudio</strong>:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1370635897&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\" width=\"500\" height=\"400\" title=\"O psicólogo acredita que o evento pode influenciar os jovens de modo benéfico by Agência UVA Barra\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><em>Sabrina Marques – 4º período</em><br><em>Juliana Vilete – 3º período</em></p></main>"
+  },
+  "date": "2022-10-25T12:30:02",
+  "date_gmt": "2022-10-25T15:30:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No último final de semana foi possível ver uma fila no MAM de um público que gosta de tecnologia. Muitos pais decidiram levar os filhos no Festival de Cultura Digital para interagir com os robôs. O espaço estava cheio e não foram só as crianças que marcaram presença no evento que reuniu gamers e curiosos de todas as idades.</p>\n"
+  },
+  "featured_media": 13329,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13316"
+  },
+  "id": 13316,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/rafael.jpeg?fit=1600%2C1200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3sM",
+  "link": "https://agenciauvabarra.com/2022/10/25/mais-de-5-mil-pessoas-estiveram-no-museu-de-arte-moderna-para-participar-do-festival-hacktudo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-28T13:00:04",
+  "modified_gmt": "2022-10-28T16:00:04",
+  "ping_status": "open",
+  "slug": "mais-de-5-mil-pessoas-estiveram-no-museu-de-arte-moderna-para-participar-do-festival-hacktudo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    652412568,
+    767056590,
+    295570,
+    767056593,
+    17523
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Mais de 5 mil pessoas estiveram no Museu de Arte Moderna, para participar do Festival Hacktudo"
+  },
+  "type": "post"
+}

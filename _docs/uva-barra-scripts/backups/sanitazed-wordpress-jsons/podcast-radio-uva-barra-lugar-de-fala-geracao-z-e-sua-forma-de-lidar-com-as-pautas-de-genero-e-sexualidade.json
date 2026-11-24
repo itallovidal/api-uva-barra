@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18959/revisions/18963",
+        "id": 18963
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18959"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18959",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18959/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18959"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18962"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18959",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18959",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    632602,
+    670411728,
+    14603,
+    713047979,
+    39479,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-18959",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-diversidade",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-podseries",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-podserie",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A Geração Z tem desempenhado um papel fundamental na forma como as pautas de gênero e sexualidade vêm sendo discutidas no Brasil. Crescidos em meio à internet e às redes sociais, esses jovens encontram no ambiente digital tanto espaço de acolhimento quanto de desinformação e preconceito.</p><p>Segundo a Pesquisa Nacional de Saúde (IBGE, 2019), cerca de 2,9 milhões de brasileiros com 18 anos ou mais se identificam como lésbicas, gays ou bissexuais. Ainda assim, a realidade da população LGBTQIAPN+ segue marcada por desigualdades. Dados do Observatório de Mortes e Violências contra LGBTI+ (ANTRA/ABGLT, 2023) revelam que o Brasil segue como um dos países que mais mata pessoas trans e travestis no mundo.</p><p>No novo episódio do podcast Lugar de Fala, os estudantes trazem narrativas que mostram como a Geração Z tem lidado com a descoberta da identidade de gênero e da orientação sexual, além dos desafios do acolhimento familiar e social. À especialista Talita Quintanilha também ajuda a contextualizar os impactos psicológicos dessa jornada, abordando desde o processo de autoconhecimento até o papel da escuta e do acolhimento na construção de relações mais inclusivas.</p><figure><iframe title=\"Spotify Embed: Lugar de Fala #02 - Como a geração Z lida com as questões de gênero e sexualidade?\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/5ermNGGKXOFrKT8ux2VhbV?si=hU4mcc_VQ9-WYAY7BjiXPw&#038;utm_source=oembed\"></iframe></figure><p>Equie Lugar de Fala:</p><p>Isabella Guimarães Villanova Pereira</p><p>Luiza Lanes de Oliveira</p><p>Marcelle Menendes Xavier</p><p>Raphael Rodrigues Ferreira</p><p>Rodrigo de Oliveira Rodrigues Amancio</p><p>Equipe Agência UVA Barra:</p><p>Duda Nicolich – 2º Período</p><p>Carolina Alves – 4º Período</p></main>"
+  },
+  "date": "2025-09-04T13:56:21",
+  "date_gmt": "2025-09-04T16:56:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p> Do processo de autoconhecimento até o papel da escuta e do acolhimento na construção de relações mais inclusivas.</p>\n"
+  },
+  "featured_media": 18962,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18959"
+  },
+  "id": 18959,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-04-at-13.49.02.jpeg?fit=402%2C399&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4VN",
+  "link": "https://agenciauvabarra.com/2025/09/04/podcast-radio-uva-barra-lugar-de-fala-geracao-z-e-sua-forma-de-lidar-com-as-pautas-de-genero-e-sexualidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-04T13:56:21",
+  "modified_gmt": "2025-09-04T16:56:21",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-lugar-de-fala-geracao-z-e-sua-forma-de-lidar-com-as-pautas-de-genero-e-sexualidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    712276378,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Lugar de Fala: Geração z e sua forma de lidar com as pautas de gênero e sexualidade."
+  },
+  "type": "post"
+}

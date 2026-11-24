@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7948/revisions/7964",
+        "id": 7964
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7948"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7948",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7948/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7948"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7950"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7948",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7948",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    1899315,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-7948",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-saude",
+    "category-sociedade",
+    "tag-gravidas",
+    "tag-pandemia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O acompanhamento médico mudou com a chegada da Covid-19</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/gravidas-1-1.png?resize=1920%2C1080&amp;ssl=1\" alt=\"\" width=\"1920\" height=\"1080\" /><figcaption></figcaption></figure><p>O pré-natal — assistência médica durante os 9 meses da gestação — passou por alterações em razão da pandemia, sendo uma delas, a possibilidade de consulta virtual. De acordo com a pesquisa realizada pelos institutos Patrícia Galvão e Locomotiva, uma em cada três mulheres diminuiu a frequência do pré-natal devido à crise sanitária. A necessidade de ir ao médico esbarra na apreensão das grávidas com o novo coronavírus.</p><p>A Organização Mundial da Saúde (OMS) considera as gestantes e puérperas — fase de 45 dias após o parto — como grupo de risco, tendo em vista que elas ficam com o sistema imunológico enfraquecido e, consequentemente, mais vulneráveis. Quem, ao longo da gravidez, pegou o decreto de pandemia anunciado pela OMS no dia 11 de março, teve que ajustar o planejamento gestacional para se adequar à nova realidade. Foi o caso de Sabrina Dellè, que teve a filha Sophia Helena há 2 meses e meio. A comerciante teve que adotar medidas preventivas para que nenhum imprevisto acontecesse naquele tempo e chegou a trocar o hospital público pelo privado.</p><div><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-parto.jpeg?resize=589%2C1280&amp;ssl=1\" alt=\"\" /><figcaption>Nascimento da filha de Sabrina, Sophia Helena, de 2 meses e meio. A operação aconteceu em um hospital privado — Foto: Arquivo Pessoal</figcaption></figure></div><div><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-sabrina.jpeg?resize=974%2C1280&amp;ssl=1\" alt=\"\" /><figcaption>Sabrina Dellè se deparou com a pandemia no meio da gravidez e trocou o tratamento público pelo particular por se sentir mais segura com as recomendações sanitárias — Foto: Arquivo Pessoal</figcaption></figure></div><p>Para Sabrina, essa transição não foi nada fácil, o que chegou a atrapalhar as etapas do pré-natal. “Minha maior barreira, primeiramente, foi manter os exames, porque eu não queria fazer o pré-natal à distância. Não fiz todas as consultas como queria, mas os exames eu mantive”, declara. Embora tenha tido certa dificuldade para marcar seus compromissos médicos, ela não tem o que reclamar do tratamento no local escolhido, já que apenas as grávidas estavam sendo atendidas, a não ser a parte cardiológica de idosos.</p><p>Apesar de ter ficado insegura em uma das ocasiões, a Secretária Parlamentar Carolina Sabino, à espera de gêmeos, também elogiou o sistema privado e presencial em meio a restrições sanitárias. “Estou satisfeita com as consultas, já que só entra uma por vez, sendo tudo esterilizado. Ao contrário, nos exames, fico muito tempo aguardando e exposta junto com pessoas que não se cuidam”, comenta. Tais opiniões vão de encontro com os 85% das grávidas que somente foram atendidas presencialmente e aprovaram o serviço, com base na pesquisa já mencionada.</p><div><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-carolina.jpg?resize=688%2C1280&amp;ssl=1\" alt=\"\" /><figcaption>Carolina Sabino está grávida das gêmeas Sarah e Larah. Após 7 meses de pandemia, ela ainda sente medo quando sai para o pré-natal — Foto: Arquivo Pessoal</figcaption></figure></div><p>O Ginecologista e Obstetra Marco Aurélio Montes percebeu uma rejeição das pacientes em relação ao virtual e, pelo contrário, uma maior assiduidade nas consultas e exames de rotina. “As pacientes comparecem com mais frequência no pré-natal por estarem em home office muitas vezes. Algumas consultas à distância atendem as necessidades, porém, existirão sempre casos em que o exame físico será indispensável”, afirma. Outra questão que o chamou atenção foi o psicológico das gestantes com a possibilidade de contágio da Covid-19. Segundo ele, o medo de contrair a doença passa pela perda recente de familiares, possível desemprego, entre outros fatores que, de fato, afetam a evolução da gestação.</p><p>Quem também tem essa visão é Renato Sá, Presidente da Associação de Ginecologia e Obstetrícia do Estado do Rio de Janeiro (SGORJ), ao deixar claro que faz parte do pré-natal cuidar do lado mental das pacientes. “Uma das funções do pré-natal é a orientação emocional. O bem estar da gestante precisa ser garantido não só na parte orgânica, mas também na parte psicológica. Os distúrbios podem ir desde a não aceitação da gravidez, até quadros graves de psicose após o nascimento”, destaca.</p><h2>Medo de sair de casa no pré-natal</h2><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-luciana.jpg?resize=718%2C729&amp;ssl=1\" alt=\"\" /><figcaption>Luciana Terenzi está realizando o pré-natal normalmente e busca relaxar nas horas vagas para não ficar traumatizada com a Covid-19 — Foto: Arquivo Pessoal</figcaption></figure><p>Mesmo com as orientações médicas contra o transtorno mental, ainda há grávidas que não conseguem controlar o nervosismo quando saem do isolamento social. Não é à toa que 58% das entrevistadas no estudo ficam extremamente preocupadas ao saírem de casa para o pré-natal. A Educadora Física Luciana Terenzi, grávida de 6 meses, optou por fazer o pré-natal no consultório, mas tem receio. “Estou tendo consulta presenciais mensalmente. Por estar saindo para realizar o pré-natal, além de me preocupar com o bebê, sempre bate certo receio de me infectar ou infectar os familiares neste momento de crise sanitária”, diz.</p><p>A pesquisa ainda revelou que 39% dessas grávidas reduziram a participação do cônjuge nas consultas de pré-natal na pandemia. A mãe da Sophia Helena se abalou com a ausência do parceiro que a acalmava antes do procedimento médico. “Mesmo estando com outras grávidas em uma sala fechada inicialmente, fiquei tranquila. Depois com a pandemia, não pude mais ir acompanhada e toda vez que iria entregar o exame para o doutor estava com a pressão alta”, lamenta Sabrina.</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F916746775&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe><p>Ciente dos problemas vivenciados pelas futuras mamães na pandemia, o Presidente da SGORJ alerta para os riscos da carência do pré-natal e reforça a sua importância em momentos de incerteza. “O pré-natal busca identificar e tratar precocemente qualquer intercorrência que possa prejudicar a mãe e o bebê. É a principal ferramenta para a redução da mortalidade materna e perinatal”, garante Renato.</p><p><em>Lucas Ribeiro – 4° período</em></p></main>"
+  },
+  "date": "2020-10-23T17:15:56",
+  "date_gmt": "2020-10-23T20:15:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O acompanhamento médico mudou com a chegada da Covid-19 O pré-natal — assistência médica durante os 9 meses da gestação — passou por alterações em razão da pandemia, sendo uma delas, a possibilidade de consulta virtual. De acordo com a pesquisa realizada pelos institutos Patrícia Galvão e Locomotiva, uma em cada três mulheres diminuiu a [&hellip;]</p>\n"
+  },
+  "featured_media": 7950,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7948"
+  },
+  "id": 7948,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/foto-sabrina.jpeg?fit=974%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-24c",
+  "link": "https://agenciauvabarra.com/2020/10/23/gestantes-temem-pre-natal-na-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-23T17:41:16",
+  "modified_gmt": "2020-10-23T20:41:16",
+  "ping_status": "open",
+  "slug": "gestantes-temem-pre-natal-na-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1461876,
+    572103
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Gestantes temem pré-natal na pandemia"
+  },
+  "type": "post"
+}

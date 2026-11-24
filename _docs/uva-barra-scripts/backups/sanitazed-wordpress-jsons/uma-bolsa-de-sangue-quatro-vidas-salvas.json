@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1643/revisions/3247",
+        "id": 3247
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1643"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1643",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1643/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1643"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1643",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1643",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-1643",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-saude",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Profissionais da área de saúde se reúnem para atrair a população em doações</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/11/1.jpg?resize=1280%2C720&amp;ssl=1' alt='1' width='1280' height='720' /><figcaption>Foto: Karina Figueiredo</figcaption></figure><p>A solidariedade humana que salva vidas está no mês de comemoração. No último sábado (25/11), os doadores de sangue de todo o Brasil foram convocados para uma celebração em homenagem àqueles que reservam parte do dia com o intuito de ajudar o próximo. Essa data não apenas parabeniza os benfeitores como também promove uma grande mobilização em todo o país, com o objetivo de coletar mais sangue em locais onde houver o acesso público.</p><p>Escolher um espaço de grande motivação foi a iniciativa do Hemorio, que com o apoio da Secretaria de Estado de Saúde, instalou na Cinelândia uma base a fim de receber a contribuição dos voluntários que começou na terça-feira (21) e foi até sexta-feira (24), de 7h ás 19h. Serviços como: exames para verificar a diabetes e o câncer de próstata oferecidos gratuitamente estavam à disposição do doador. O Detran também aderiu a causa e montou um posto de atendimento para confeccionar ou renovar a carteira de identidade e habilitação.</p><p>O evento faz parte de uma ação em conjunto com a sede, que fica na Rua Frei Caneca número 8, no Centro, aberto diariamente, inclusive aos feriados, das 7h ás 18h. O policial militar Michel Fidelis, há sete anos como doador, revela que a motivação estava relacionada com as necessidades nos centros cirúrgicos, principalmente, em casos de graves acidentes, fato que ocorreu com um dos seus familiares e fortaleceu o PM a continuar na campanha.</p><p>Outro policial, que saiu em defesa da demanda, foi João Pereira da Silva Filho, 32 anos. “Eu gosto de doar e ajudar. Pois, da mesma forma que alguém possa precisar eu também posso ter essa necessidade no futuro”, declara o agente que abraça o movimento há 13 anos. No caso de Renata Dias e Jorge Luciano Menezes Vitalino a sensação foi diferente, ela estava ali pela primeira vez e sentiu a vontade de colaborar após alguns dias de acompanhamento de um familiar na unidade. Ele também esteve no hospital de primeira, mas já tinha o costume de doar no Hospital dos Servidores. “É o mínimo que eu posso fazer”.</p><p>O grande gesto desses doadores abastece a fundação que redistribui para diversos municípios do estado e tenta sobreviver com os altos e baixos períodos do ano quando o número de bolsas é inferior ao requisitado. A enfermeira Paula Maia lamenta não poder cooperar por ter hipotensão (pressão baixa) e não se sentir confortável ao passar pelo procedimento. Mesmo assim, ela divulga a campanha todos os dias e toda hora. ” Nos preparamos para manter um bom estoque pois não é possível saber o momento em que a procura será alta”.</p><p>E essa busca tende a aumentar com a proximidade das comemorações de fim de ano e o carnaval. A instituição tem capacidade para atender cerca de 400 pessoas por dia, nas coletas móveis o número pode chegar até 300, dependendo da quantidade de indivíduos que houver nas universidades, empresas ou igrejas, por exemplo, que solicitarem o atendimento nesses locais para aproximar o doador dos polos de coleta. Tal atividade é realizada mediante ao agendamento, no qual um profissional do Hemorio marca uma visita ao local para avaliar se o ambiente tem as devidas condições para prestar o serviço. Assim as conquistas aumentam junto ao dever de manter e salvar vidas dos que estão doentes ou sofrem acidentes.</p><p><strong>Karina Figueiredo – 3º período.</strong></p></main>"
+  },
+  "date": "2017-11-27T16:57:33",
+  "date_gmt": "2017-11-27T18:57:33",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Profissionais da área de saúde se reúnem para atrair a população em doações</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1643"
+  },
+  "id": 1643,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-qv",
+  "link": "https://agenciauvabarra.com/2017/11/27/uma-bolsa-de-sangue-quatro-vidas-salvas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T18:13:48",
+  "modified_gmt": "2019-02-27T21:13:48",
+  "ping_status": "open",
+  "slug": "uma-bolsa-de-sangue-quatro-vidas-salvas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Uma bolsa de sangue, quatro vidas salvas"
+  },
+  "type": "post"
+}

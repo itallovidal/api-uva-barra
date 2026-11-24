@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12100/revisions/12115",
+        "id": 12115
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12100"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12100",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12100/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12100"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12111"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12100",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12100",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    22,
+    7114
+  ],
+  "class_list": [
+    "post-12100",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-internet",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Entenda os benefícios e malefícios da internet das coisas e como isto já faz parte do cotidiano dos usuários</em></p><p>Com a ascensão das novas tecnologias, a rotina do ser humano mudou. Com o passar do tempo, novos dispositivos surgiram como forma de simplificar e modernizar atividades diárias. É o caso da Internet das coisas, que atende pela sigla “IOT” (Internet of Things). Esse sistema procura realizar as necessidades das pessoas a qualquer momento, seja em um sistema “Bluetooth” de um carro, no uso do “GPS” ou de um sistema de câmeras monitoradas à distância, entre outras funções.</p><p>Fábio Cunha, gestor de TI e especializado em redes, explica sobre a forma de funcionamento do “IOT”. “É um ecossistema de conectividade, que reúne dispositivos, sensores e pessoas, se conectando através da nuvem”, esclarece Fábio.</p><p><strong>Fábio Cunha conta mais detalhes sobre o sistema “IOT”</strong>.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/whatsapp-image-2022-06-06-at-11.43.24.jpeg?resize=828%2C700&amp;ssl=1\" alt=\"\" width=\"828\" height=\"700\"><figcaption>Maria Eduarda diz que a situação não ficou resolvida e elas não encontraram o golpista. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/whatsapp-image-2022-06-06-at-11.43.32.jpeg?resize=521%2C691&amp;ssl=1\" alt=\"\" width=\"521\" height=\"691\"><figcaption>Fábia expressa como não tinha ouvido falar desse tipo de golpe antes. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/whatsapp-image-2022-06-06-at-11.43.17-e1654547490701.jpeg?resize=639%2C825&amp;ssl=1\" alt=\"\" width=\"639\" height=\"825\"><figcaption>De acordo com o especialista Fábio, a privacidade se encontra ameaçada atualmente. Foto: (Arquivo pessoal)</figcaption></figure><p>Diante de todas as funções que o “IOT” oferece, ele possui algumas vulnerabilidades. Segundo Fábio, hoje temos uma grande dependência da tecnologia e isso pode causar alguns problemas. “Um deles é a segurança de dados e dispositivos no mundo IOT. Se não configurados de maneira correta, eles podem ser utilizados de má fé”, afirma o especialista em redes.</p><p>Em um mundo onde as pessoas estão conectadas e cadastradas em diversas plataformas, alguns problemas acontecem. Os golpes nas redes sociais ocorrem em grande número no Brasil. Dados divulgados pela empresa de segurança digital, “PSafe”, mostraram que os golpes virtuais fizeram mais de 150 milhões de vítimas em 2021.</p><p>Maria Eduarda Alves, estudante, teve o número de telefone “clonado” por golpistas, no qual estes pediram dinheiro para familiares da jovem e alegaram que seria para comprar um vestido. “Você fica de mãos atadas, fingiram ser eu, e minha madrinha acabou caindo no golpe, perdendo esse dinheiro”, relata Maria Eduarda.</p><p>Fábia Costa, confeiteira e madrinha de Maria Eduarda, se sentiu fragilizada após ter realizado a transferência do dinheiro para os golpistas. Ao ter os dados cadastrados na internet, é necessário uma atenção especial. De acordo com Fábia, ela irá tomar novas medidas de segurança após ser vítima do golpe. “Agora eu procuro ligar pra pessoa, ficar mais atenta com o que eu tenho que fazer”, explica.</p><p><strong>Fábia comenta mais sobre os novos métodos adotados.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1282074970&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Fábia Costa comenta sobre os novos métodos adotados. by Agência UVA Barra\" allowfullscreen></iframe></figure><p>É muito importante toda vez que fizer um cadastro, se atentar e se informar sobre os termos e condições de privacidade impostos, seja por um aplicativo ou por um site. Caso seja vítima de algum crime virtual, verifique se no estado em que mora existe alguma Delegacia Especializada de Repressão a Crimes Cibernéticos, ou procure uma unidade policial mais próxima.</p><p><em>Matheus Moraes – 1º período</em><br><em>Editado por Lucas Souza – 7º período</em></p></main>"
+  },
+  "date": "2022-06-06T17:55:44",
+  "date_gmt": "2022-06-06T20:55:44",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Com a ascensão das novas tecnologias, a rotina do ser humano mudou. Com o passar do tempo, novos dispositivos surgiram como forma de simplificar e modernizar atividades diárias. É o caso da Internet das coisas, que atende pela sigla “IOT” (Internet of Things). Esse sistema procura realizar as necessidades das pessoas a qualquer momento, seja em um sistema “Bluetooth” de um carro, no uso do “GPS” ou de um sistema de câmeras monitoradas à distância, entre outras funções.</p>\n"
+  },
+  "featured_media": 12111,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12100"
+  },
+  "id": 12100,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/06/whatsapp-image-2022-06-06-at-17.08.44.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-39a",
+  "link": "https://agenciauvabarra.com/2022/06/06/o-sistema-iot-implanta-mudancas-na-vida-das-pessoas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-06-06T18:20:47",
+  "modified_gmt": "2022-06-06T21:20:47",
+  "ping_status": "open",
+  "slug": "o-sistema-iot-implanta-mudancas-na-vida-das-pessoas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O sistema “IOT” implanta mudanças na vida das pessoas"
+  },
+  "type": "post"
+}

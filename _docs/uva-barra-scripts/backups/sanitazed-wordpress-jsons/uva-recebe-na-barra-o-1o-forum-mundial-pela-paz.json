@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4040/revisions/4116",
+        "id": 4116
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4040"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4040",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4040/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4040"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4041"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4040",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4040",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4040",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-1o-forum-mundial-pela-paz",
+    "tag-agencia-uva-barra",
+    "tag-ong-together-for-peace",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento trouxe representante da ONU e da ONG Together for Peace para debater a cultura da paz com alunos de Relações Internacionais</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-09-at-20.22.31.jpeg?resize=1032%2C502&#038;ssl=1' alt='' width='1032' height='502' /><figcaption>Diretora do campus Barra, representante da ONU e presidente da Together For Peace (respectivamente) deram início ao fórum – Foto: Julia Morais</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-09-at-20.20.02.jpeg?resize=1032%2C502&#038;ssl=1' alt='' width='1032' height='502' /><figcaption>Verônica Pires, coordenadora do curso de Relações Internacionais da UVA, mediou o evento – Foto: Julia Morais</figcaption></figure><p>O campus Barra da Universidade Veiga de Almeida sediou, no último dia 07/05, a 1ª Plenária do Fórum Mundial pela Paz. A ação é uma iniciativa da ONG Together For Peace, aprovada pela ONU. O fórum contou com palestras sobre os diversos aspectos da paz e os inúmeros caminhos para alcançá-la, a importância da disseminação da mesma, visando o futuro e como dar o primeiro passo para ajudar na luta pela diminuição e controle da violência.</p><p>A responsável por promover a parceria entre a instituição e a ONG, e também mediadora do evento, foi a coordenadora do curso de Relações Internacionais, Verônica Pires. “Essa ONG tem um compromisso com a manutenção da paz. Isso nos interessa como academia”, comentou. Ela acrescentou ainda a importância do engajamento que eventos como esse geram entre os alunos por meio da perspectiva do futuro. “Trazer essas mesas, no formato em que elas estão montadas, acaba sendo para os nossos alunos um leque de opções para eles se verem atuando porque estamos falando de pautas globais”, explica.</p><p>O fórum trouxe palestras que relacionavam a paz com a educação e o meio ambiente, além de abordar a mediação de conflitos, destacou a paz como dever de todos. O evento contou ainda com a presença de Maurízio Giuliano – representante da ONU e Diretor do Centro de Informação das Nações Unidas no Rio de Janeiro (UNIC) – que pontuou a relevância do trabalho da ONG. “Acho que uma iniciativa como a Together For Peace é realmente fundamental. Estamos em um mundo ameaçado e temos vários desafios a enfrentar. É importante engajar o jovem que habitará o planeta por mais tempo.”</p><p>Durante a plenária, Mireille Pannett – presidente da Together For Peace – comentou sobre o desejo de dar continuidade a essa conexão com a universidade e a diretora acadêmica do campus Barra – Nara Iwata – garante portas abertas.</p><blockquote>“A gente entende que os nossos caminhos se encontram e esperamos que todos levem a um bom lugar” – Nara Iwata</blockquote><figure><iframe src='https://www.youtube.com/embed/3i5577aErpA?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Julia Morais – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-05-10T17:15:34",
+  "date_gmt": "2019-05-10T20:15:34",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento trouxe representante da ONU e da ONG Together for Peace para debater a cultura da paz com alunos de Relações Internacionais O campus Barra da Universidade Veiga de Almeida sediou, no último dia 07/05, a 1ª Plenária do Fórum Mundial pela Paz. A ação é uma iniciativa da ONG Together For Peace, aprovada pela [&hellip;]</p>\n"
+  },
+  "featured_media": 4041,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4040"
+  },
+  "id": 4040,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-09-at-20.22.31.jpeg?fit=1032%2C502&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-13a",
+  "link": "https://agenciauvabarra.com/2019/05/10/uva-recebe-na-barra-o-1o-forum-mundial-pela-paz/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-15T16:26:40",
+  "modified_gmt": "2019-05-15T19:26:40",
+  "ping_status": "open",
+  "slug": "uva-recebe-na-barra-o-1o-forum-mundial-pela-paz",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    679119188,
+    648221465,
+    679119246,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA recebe na Barra a 1ª Plenária do Fórum Mundial pela Paz"
+  },
+  "type": "post"
+}

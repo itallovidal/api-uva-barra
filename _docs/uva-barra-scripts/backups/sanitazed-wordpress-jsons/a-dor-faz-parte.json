@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1161/revisions/3303",
+        "id": 3303
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1161"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1161",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1161/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1161"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1161",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1161",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-1161",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Mesa redonda sobre o documentário “A Epidemia das Cores”</em></h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/2dfe1bdb-c89a-407f-b168-4ebee5cefdd1.jpg?resize=1280%2C960&amp;ssl=1\" alt=\"2dfe1bdb-c89a-407f-b168-4ebee5cefdd1\" width=\"1280\" height=\"960\" /><figcaption>Fotografia: Lizandra Rios</figcaption></figure><p>No terceiro dia da XXI Semana de Psicologia da UVA, foi apresentado o documentário “Epidemia de Cores”. Dirigido, roteirizado e filmado por Mário Eugênio Saretta, o longa se passa dentro do Hospital Psiquiátrico São Pedro, em Porto Alegre, no Rio Grande do Sul, e mostra como a inserção de atividades artísticas na rotina dos pacientes ajuda no tratamento e na desconstrução da ideia de manicômio. Depois da exibição, a professora da UVA Aline Drummond, Doutoranda em Psicanálise, Saúde e Sociedade, a Psicanalista, Doutora em Psicologia pela UFRJ e Coordenadora e Professora do Curso de Doutorado em Psicanálise, Saúde e Sociedade da UVA, Glória Sadala e a coordenadora de mesa Taissa Santos participaram de uma mesa redonda para debater sobre o tema.</p><p>No documentário, é mostrado como as trancas deram lugar às tintas, cores e desenhos. De acordo com a professora Glória Sadala, “Trocar os cadeados pela arte em um tratamento no ramo da saúde mental é fazer emergir lírios de uma terra inóspita. É possibilitar uma construção a partir de ruínas. É exatamente curar sem trancar”. Dessa forma, as oficinas se tornariam uma válvula de escape, um lugar de relaxamento e o hospital se transformaria em um lugar apenas de passagem, onde ninguém é obrigado a permanecer – desconstruindo ainda mais os estereótipos de manicômio e clausura. Com esse projeto, o objetivo é estimular a autonomia dos pacientes, para construir uma possível saída.</p><p>É nisso que acredita a professora da UVA Aline Drummond. Segundo ela, estimular a criatividade e dons artísticos também é uma forma de cura. “Os anos da reforma psiquiátrica brasileira demonstraram para nós que é possível a reinserção dos pacientes psiquiátricos na sociedade e a arte possibilita isso”. A aluna do quinto período de Psicologia Nayla Manhães, tem a mesma linha de raciocínio. “Temos que olhar a pessoa como um sujeito que também é capaz e a arte ajuda a desenvolver isso. Não podemos prender a pessoa em um espaço só por ela ter uma doença”.</p><p>Além de abordar a questão da arte como ajuda para as pessoas com doença mental, Glória Sadala ainda acrescentou durante a mesa redonda que uma parte muito interessante do documentário foi quando apareceu a imagem de uma formiga trabalhando e carregando uma folha. Segundo ela, um dos pensamentos de Freud dizia que um indivíduo só está curado do tratamento quando já é capaz de trabalhar e amar novamente. Por isso, a arte é importante no processo, pois ajuda a trabalhar com a dor, afinal, a dor faz p(arte).</p><p>Lizandra Rios, 6º período.</p></main>"
+  },
+  "date": "2017-09-02T12:19:04",
+  "date_gmt": "2017-09-02T15:19:04",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mesa redonda sobre o documentário “A Epidemia das Cores” No terceiro dia da XXI Semana de Psicologia da UVA, foi apresentado o documentário “Epidemia de Cores”. Dirigido, roteirizado e filmado por Mário Eugênio Saretta, o longa se passa dentro do Hospital Psiquiátrico São Pedro, em Porto Alegre, no Rio Grande do Sul, e mostra como [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1161"
+  },
+  "id": 1161,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-iJ",
+  "link": "https://agenciauvabarra.com/2017/09/02/a-dor-faz-parte/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:36:56",
+  "modified_gmt": "2019-02-28T19:36:56",
+  "ping_status": "open",
+  "slug": "a-dor-faz-parte",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A dor faz p(arte)"
+  },
+  "type": "post"
+}

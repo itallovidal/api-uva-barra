@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4450/revisions/4480",
+        "id": 4480
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4450"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4450",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4450/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4450"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4462"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4450",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4450",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    7114
+  ],
+  "class_list": [
+    "post-4450",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-associacao-internacional-lions-clube",
+    "tag-segunda-feira-de-saude-e-cidadania",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento trouxe serviços gratuitos de saúde e cidadania</em></p><p>Universidade Veiga de Almeida (UVA), campus Barra, em parceria com a Associação Internacional de Lions Clube realizou a II Feira de Saúde e Cidadania – Programa Lions Cidadão, no último sábado (15). Com o objetivo de atender moradores da região, o evento tinha como foco promover a Campanha de Prevenção do Ceratocone que apesar não causar cegueira pode levar a grande perda da visão.</p><p>Serviços gratuitos de saúde e orientações para questões jurídicas foram oferecidos aos visitantes. Nara Iwata, Diretora Acadêmica do campus Barra, destaca que todas as ações incluem atividades diferenciadas e que algumas estão ligadas a cursos que a UVA oferece, como a avaliação nutricional realizada pelos alunos de nutrição. “Esse tipo de serviço é um apoio que prestamos à comunidade e as portas da universidade estão sempre abertas para receber a todos. Nós queremos que o entorno venha para cá e conheçam o campus e tudo que temos a oferecer”, comenta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/20190615_101843.jpg?resize=487%2C236&amp;ssl=1\" alt=\"\" width=\"487\" height=\"236\" /><figcaption>Andrea Martelotta, Professora do curso de Direito da UVA Barra e o aluno de Prática Jurídica II prestaram orientações jurídicas – Foto: Graziela Andrade</figcaption></figure><p>Uma unidade móvel oftalmológica estava disponível para realizar exames de vista na população, além de explicar a importância de não coçar os olhos, a fim de evitar o desenvolvimento da Ceratocone. “A doença é pouco conhecida, por isso campanhas como essas são importantes”, ressalta o oftalmologista Giovanni Folombini.</p><p>Ao longo do dia, esclarecimentos sobre as arbovirozes (Zica, Dengue e Chikungunya) também foram passados. Para a manicure Josefa Maria Lopes o evento possibilitou um cuidado maior com a saúde. “Estou muito feliz em realizar exames importantes para minha saúde, como o de vista e o de mama”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/20190615_095330.jpg?resize=454%2C221&amp;ssl=1\" alt=\"\" width=\"454\" height=\"221\" /><figcaption>A manicure Josefa Maria aproveitou o evento para tomar a vacina da gripe – Foto: Graziela Andrade</figcaption></figure><p>Animado com a feira, o aluno de Design de Animação Gabriel Henrique participou de diversas atividades e já está na expectativa de uma próxima edição. “Hoje consegui tomar a vacina contra a gripe e ainda tirei minha carteira profissional de trabalho. Economizei tempo fazendo as duas coisas no mesmo lugar”.</p><p>Atender a sociedade é sempre uma prioridade para o Lions Clube, como comenta um dos membros da associação Pedro Aurélio que reforça a parceria com a Universidade Veiga de Almeida. “Em setembro faremos uma nova edição da feira aqui no campus Barra, mas desta vez, agregando a participação do Hemorio com uma campanha de doação de sangue”, conta. Confira o vídeo com mais informações sobre o trabalho desenvolvido pela Associação Internacional de Lions Clube:</p><figure><iframe src=\"https://www.youtube.com/embed/0kqPErzmLis?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p>A segunda edição da feira realizou aproximadamente 350 atendimentos. Confira abaixo os serviços oferecidos:</p><p>– Vacinação da Gripe</p><p>– Vacinação da Febre Amarela</p><p>– Aferição da pressão arterial</p><p>– Orientações para cuidados com o “pé diabético”</p><p>– Corte de cabelo</p><p>– Emissão da carteira de trabalho – CTPS</p><p>– Exame Dermatológico – doenças de pele</p><p>– Exame preventivo para o câncer de mama</p><p>– Orientação Jurídica</p><p>– Massagem relaxante</p><p>– Prevenção contra arbovirozes (Zica, Dengue e Chikungunya)</p><p>– Projeto Supera – Ginástica para o cérebro</p><p>– Tenda de leitura infantil</p><p>– Avaliação Nutricional</p><p>– Teste de Glicemia</p><p>– Teste de Acuidade Visual</p><p>– Teste de Glaucoma</p><p>– Unidade Móvel para exame oftalmológico</p><p>– Bazar beneficente</p><p><strong>Graziela Andrade – 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-06-19T13:09:12",
+  "date_gmt": "2019-06-19T16:09:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento trouxe serviços gratuitos de saúde e cidadania Universidade Veiga de Almeida (UVA), campus Barra, em parceria com a Associação Internacional de Lions Clube realizou a II Feira de Saúde e Cidadania &#8211; Programa Lions Cidadão, no último sábado (15). Com o objetivo de atender moradores da região, o evento tinha como foco promover a [&hellip;]</p>\n"
+  },
+  "featured_media": 4462,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4450"
+  },
+  "id": 4450,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/20190615_101113.jpg?fit=4608%2C2240&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-19M",
+  "link": "https://agenciauvabarra.com/2019/06/19/uva-barra-realiza-acao-social-em-parceria-com-lions-clube/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-06-19T14:30:09",
+  "modified_gmt": "2019-06-19T17:30:09",
+  "ping_status": "open",
+  "slug": "uva-barra-realiza-acao-social-em-parceria-com-lions-clube",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    681866200,
+    681866165,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA Barra realiza ação social em parceria com Lions Clube"
+  },
+  "type": "post"
+}

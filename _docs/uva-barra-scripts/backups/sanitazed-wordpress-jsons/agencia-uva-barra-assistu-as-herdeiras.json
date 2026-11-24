@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2135/revisions/3079",
+        "id": 3079
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2135"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2135",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2135/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2135"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2136"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2135",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2135",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2135",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-cinema"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-25-at-12-28-20-e1535211670229.jpeg?resize=1280%2C720&amp;ssl=1' alt='WhatsApp Image 2018-08-25 at 12.28.20' width='1280' height='720' /><figcaption>Foto: Divulgação</figcaption></figure><p>Chela (Ana Brun) e Chiquita (Margarita Irún) viviam sem precisar se preocupar com as contas da casa ou a falta de comida. Herdeiras de famílias ricas, passaram a fase adulta disfrutando desse dinheiro. Mas agora, ao chegar a terceira idade, o dinheiro não é mais suficiente para mantê-las e as duas precisam vender seus bens. As dívidas são tantas que Chiquita é presa, acusada de fraude. Essa é a história que conduz As Herdeiras.</p><p>A fotografia do filme reflete a personalidade da personagem em foco, Chela, escura e sem vida, na maioria das vezes, e as partes mais coloridas são marcadas pelas personagens secundárias. O foco da câmera está sempre nos pequenos detalhes, como sujeiras na parede.</p><p>O universo do filme é composto apenas por mulheres e isso não é coincidência, os homens aparecem ao fundo e sem falas e isso foi, também, uma estratégia do diretor e roteirista, Marcelo Martinessi, para compor a história. Martinessi escreveu algo além da rotina de mulheres ricas do Paraguai, mas uma história de força feminina e contraste entre personalidades.</p><p>A atriz Ana Brun, conseguiu mostrar as pequenas mudanças de Chela aos poucos, um tanto quanto sutis. A construção desta trajetória vivida pela personagem é vista pelo público a partir de expressões faciais. Os olhos arregalados e a boca entreaberta se transformam em pequenos sorrisos e gestos, destacando a passiva personagem em meio à tantos outros gritantes.</p><p>Nas personagens secundárias como Pituca (María Martins) e Andy (Ana Ivanova), as ações dramáticas se contrapõem à Brun: María dá vida a vizinha idosa de Chela como alguém extremamente rica, que mexe o tempo inteiro nos cordões de ouro e não se preocupa com opiniões alheias. A personagem Andy é uma mulher sedutora, que não tem medo de falar sobre nada.</p><p><strong>Ana Beatriz Bernardo – 6º período</strong></p></main>"
+  },
+  "date": "2018-08-25T12:37:28",
+  "date_gmt": "2018-08-25T15:37:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Chela (Ana Brun) e Chiquita (Margarita Irún) viviam sem precisar se preocupar com as contas da casa ou a falta de comida. Herdeiras de famílias ricas, passaram a fase adulta disfrutando desse dinheiro. Mas agora, ao chegar a terceira idade, o dinheiro não é mais suficiente para mantê-las e as duas precisam vender seus bens. [&hellip;]</p>\n"
+  },
+  "featured_media": 2136,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2135"
+  },
+  "id": 2135,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-25-at-12-28-20-e1535211670229.jpeg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-yr",
+  "link": "https://agenciauvabarra.com/2018/08/25/agencia-uva-barra-assistu-as-herdeiras/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:27:29",
+  "modified_gmt": "2019-01-31T14:27:29",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistu-as-herdeiras",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056592
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTU: &#8220;As Herdeiras&#8221;"
+  },
+  "type": "post"
+}

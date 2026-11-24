@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14019/revisions/14021",
+        "id": 14021
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14019"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14019",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14019/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14019"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14024"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14019",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14019",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    15243,
+    74499,
+    7114,
+    254332
+  ],
+  "class_list": [
+    "post-14019",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-meio-ambiente",
+    "category-mercado-de-trabalho",
+    "category-sociedade",
+    "category-sustentabilidade",
+    "tag-agencia-uva-barra",
+    "tag-ambiente",
+    "tag-catadores",
+    "tag-lixo",
+    "tag-meio",
+    "tag-reciclagem",
+    "tag-separacao"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O documentário “Recicle-me” tem como objetivo informar e conscientizar o público da importância da separação dos lixos, os malefícios que os lixões causam ao meio ambiente, e a visão dos catadores no meio deste processo.</p><p>O Objetivo de Desenvolvimento Sustentável 12, fala sobre Consumo e produções responsáveis, com o tópico 12.5, que tem como objetivo reduzir a geração de resíduos por meio da prevenção, redução, reciclagem e reuso, foi abordada na produção de Guilherme Bernardo, Érica Pereira, Livia Oliveira, Luciana Ferraz, Mariana Barreto e Priscilla Cardoso de maneira que falasse para um público de jovens e adultos. O documentário traz a realidade dos catadores nas ruas, e também ouve as palavras da Secretaria Municipal de Meio Ambiente e Planejamento de Itaguaí.</p><p><strong>Assista!</strong></p><figure><div><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/gKIpsg7lHwk?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></span></div></figure><p>Documentário produzido para a disciplina de Produção em rádio tv e cinema, sob a supervisão do professor Anderson Barreto.</p></main>"
+  },
+  "date": "2023-02-01T12:31:27",
+  "date_gmt": "2023-02-01T15:31:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O documentário “Recicle-me” tem como objetivo informar e conscientizar o público da importância da separação dos lixos, os malefícios que os lixões causam ao meio ambiente, e a visão dos catadores no meio deste processo. </p>\n"
+  },
+  "featured_media": 14024,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14019"
+  },
+  "id": 14019,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/capa-instagram-agencia-2022.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3E7",
+  "link": "https://agenciauvabarra.com/2023/02/01/recicle-me/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-02-01T12:31:27",
+  "modified_gmt": "2023-02-01T15:31:27",
+  "ping_status": "open",
+  "slug": "recicle-me",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    3286,
+    4877976,
+    78006,
+    64200,
+    132452,
+    253870
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Recicle-me"
+  },
+  "type": "post"
+}

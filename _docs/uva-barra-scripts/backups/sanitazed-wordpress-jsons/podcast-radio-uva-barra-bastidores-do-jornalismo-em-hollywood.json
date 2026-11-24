@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12483/revisions/12487",
+        "id": 12487
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12483"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12483",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12483/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12483"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12486"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12483",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12483",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    23208,
+    14603
+  ],
+  "class_list": [
+    "post-12483",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-entretenimento",
+    "category-jornalismo",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Bastidores do jornalismo em Hollywood \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/5jA1EofHYvxdZIDnYJdOel?si=29c01040bee1409a&#038;utm_source=oembed\"></iframe></figure><p>Todos os anos, o cinema americano movimenta bilhões de dólares. A sua cadeia produtiva envolve centenas de profissionais que atuam diretamente ou indiretamente em suas produções. O jornalismo tem papel fundamental nessa cadeia de promoção das produções audiovisuais e de todos os eventos realizados por Hollywood.</p><p>O profissional de jornalismo de entretenimento possui grandes desafios, neste episódio buscamos saber mais sobre os bastidores deste trabalho nos lançamentos de filmes e no tapete vermelho das grandes premiações do cinema americano. Além disso, abordamos o papel do podcast na área cultural.</p><p>Neste podcast da Rádio UVA Barra, contamos com a participação de Claudia Ciuffo, editora-chefe do portal de entretenimento Hollywood É Aqui (www.hollywoodeaqui.com) e correspondente internacional da revista Capricho.</p><p><em>Leonardo Amato – 8º período</em></p></main>"
+  },
+  "date": "2022-08-05T15:22:10",
+  "date_gmt": "2022-08-05T18:22:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Todos os anos, o cinema americano movimenta bilhões de dólares. A sua cadeia produtiva envolve centenas de profissionais que atuam diretamente ou indiretamente em suas produções. O jornalismo tem papel fundamental nessa cadeia de promoção das produções audiovisuais e de todos os eventos realizados por Hollywood.</p>\n"
+  },
+  "featured_media": 12486,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12483"
+  },
+  "id": 12483,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/hongkong-3623060_960_720-e1659725385662.jpg?fit=530%2C638&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3fl",
+  "link": "https://agenciauvabarra.com/2022/08/05/podcast-radio-uva-barra-bastidores-do-jornalismo-em-hollywood/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-05T15:49:54",
+  "modified_gmt": "2022-08-05T18:49:54",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-bastidores-do-jornalismo-em-hollywood",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Bastidores do jornalismo em Hollywood"
+  },
+  "type": "post"
+}

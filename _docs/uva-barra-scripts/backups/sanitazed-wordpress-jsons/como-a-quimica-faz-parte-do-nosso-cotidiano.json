@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15072/revisions/15093",
+        "id": 15093
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15072"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15072",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 14,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15072/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15072"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15082"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15072",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15072",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    17964,
+    72064,
+    7114,
+    254332
+  ],
+  "class_list": [
+    "post-15072",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-educacao",
+    "category-saude",
+    "category-sociedade",
+    "category-sustentabilidade",
+    "tag-agencia-uva-barra",
+    "tag-comemorativa",
+    "tag-data",
+    "tag-quimica",
+    "tag-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O dia 18 de junho é uma homenagem aos profissionais que se debruçam nos estudos desta área</em></p><p>No dia 18 de junho em 1956, foi promulgada pelo presidente da época Juscelino Kubitschek a Lei nº 2800/56, a qual decretava o Dia Nacional do Químico. A partir deste decreto a profissão começou a ser regularizada no Brasil e foram criados o Conselho Federal da Química (CFQ) e os Conselhos Regionais da Química (CRQs).</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/professora-gisela-lopes-quimica.jpeg?resize=1057%2C1016&#038;ssl=1\" alt=\"\" width=\"1057\" height=\"1016\"><figcaption>Professora Gisela Lopes, após uma ação educativa na Praia Ubás, em Iguaba Grande, Rio de Janeiro. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/pedro-henrique-tecnico-em-quimica.jpg?resize=814%2C768&#038;ssl=1\" alt=\"\" width=\"814\" height=\"768\"><figcaption>Pedro Henrique, técnico em química. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/gustavo-teixeira-aluno-de-jornalismo.jpeg?resize=828%2C828&#038;ssl=1\" alt=\"\" width=\"828\" height=\"828\"><figcaption>Gustavo Teixeira, estudante de jornalismo na Universidade Veiga de Almeida. (Foto: Arquivo Pessoal)</figcaption></figure><p>Mesmo sendo uma disciplina que muitos alunos “fogem” ao longo da vida estudantil, a contribuição dos químicos é grande em diferentes setores, como a tecnologia e a qualidade de vida. Estudos aperfeiçoaram produtos feitos no Brasil, gerando riquezas para o país. A professora de Química, Gisela Lopes, da Universidade Veiga de Almeida, relatou o que representa esta data para o estudante e profissional de química.</p><blockquote><p>“É uma data também para comemorarmos tudo que está inserido nesta ciência. Os estudos voltados para a matéria e suas transformações, as descobertas e a evolução da indústria química”.</p><cite>Gisela Lopes</cite></blockquote><p>A química está ao nosso redor em muitas substâncias, materiais oriundos da natureza e do que é transformado pelo homem dentro dos laboratórios, utilizando o recurso da indústria e suas máquinas, através disso, origina produtos farmacêuticos, cosméticos, combustíveis, e agrega também sustentavelmente para o planeta.</p><p>Em nosso cotidiano ela também está presente e costuma passar despercebida pela maioria das pessoas, as reações químicas podem ocorrer de diferentes formas como ao deixar o pão dourado por meio da reação de Maillard, que consiste em colocar o alimento para assar, ocasionando a reação entre os aminoácidos e os açúcares originando o dourado do pão, este método serve para outros alimentos também, como, carne, bolo, deixando mais suculenta e vistosa essas comidas.</p><p>A água que é fundamental para todo ser vivo, só se torna potável após processos químicos, sendo tratada e transformada em consumível para o ser humano, ou seja, no dia a dia utilizamos dos estudos da química em diversas e diferentes atividades e tarefas.</p><p>O técnico em Química, Pedro Henrique, reforça a concepção de que a química está inserida no dia a dia. <strong>Confira no áudio abaixo.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1544653480&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\" width=\"500\" height=\"400\" title=\"Pedro Henrique reforça a concepção de que a química está inserida no dia a dia. by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Apesar desses fatores favoráveis ao seu estudo, no Brasil possui uma espécie de “barreira”, entre o aluno e a matéria ministrada em salas de aula. O gráfico abaixo retrata um pouco deste caso com uma amostragem de uma entrevista feita com 10 alunos do Ensino Superior na Universidade Veiga de Almeida.</p><figure><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/rkW3kT_eJNk?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>A pesquisa também apontou os problemas estruturais nos colégios, que em sua maioria não possuem laboratórios, falta de verba, deixando os alunos apenas na teoria sem participar da prática. A professora Gisela Lopes, também ressalta que muitas vezes a falta de entusiasmo no estudo da química, se dá apenas, “por não fazer parte da área de interesse do aluno”.</p><p>Participante da pesquisa e aluno de jornalismo na Universidade Veiga de Almeida, Gustavo Teixeira, apontou fatores que podem ser benéficos para que ocorra a aproximação do estudante do ensino médio com a química. <strong>Confira no áudio abaixo.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1544654986&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500\" width=\"500\" height=\"400\" title=\"Gustavo aponta fatores que podem ser benéficos para que os estudantes se interessem por química. by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Embora o estudo da química traga alguns percalços para a maioria dos estudantes, sempre é bom lembrar que ela é de suma importância para a vida humana, pois está presente quando nos alimentamos, ao bebermos água e no ar que respiramos, já que em nosso corpo ocorre reações químicas para aproveitarmos os nutrientes, produzirmos energia e utilizarmos o oxigênio para ficarmos vivos. Então conhecê-la é vital para o ser humano.</p><p><em>Iago Bastos – 8° período</em></p></main>"
+  },
+  "date": "2023-06-18T13:18:27",
+  "date_gmt": "2023-06-18T16:18:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No dia 18 de junho em 1956, foi promulgada pelo presidente da época Juscelino Kubitschek a Lei nº 2800/56, a qual decretava o Dia Nacional do Químico. A partir deste decreto a profissão começou a ser regularizada no Brasil e foram criados o Conselho Federal da Química (CFQ) e os Conselhos Regionais da Química (CRQs). </p>\n"
+  },
+  "featured_media": 15082,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15072"
+  },
+  "id": 15072,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/a-pratica-da-quimica.jpeg?fit=3211%2C3043&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3V6",
+  "link": "https://agenciauvabarra.com/2023/06/18/como-a-quimica-faz-parte-do-nosso-cotidiano/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-06-19T14:59:45",
+  "modified_gmt": "2023-06-19T17:59:45",
+  "ping_status": "open",
+  "slug": "como-a-quimica-faz-parte-do-nosso-cotidiano",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    2873784,
+    22379,
+    161361,
+    17523
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Como a química faz parte do nosso cotidiano"
+  },
+  "type": "post"
+}

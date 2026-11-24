@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11323/revisions/11338",
+        "id": 11338
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11323"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11323",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11323/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11323"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11333"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11323",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11323",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    1899315,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-11323",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Entenda a definição e a repercussão da nomenclatura</em></p><p>Foi em março de 2022 que a declaração da Organização Mundial da Saúde sobre a pandemia do novo coronavírus completou dois anos. No começo do mês, a afirmação do presidente Jair Bolsonaro sobre a possibilidade do Governo Federal alterar a condição de “pandemia” de Covid-19 para “endemia” reverberou na sociedade e na área da saúde.</p><p>Para Raphael Guimarães, pesquisador de saúde na área do Observatório Covid-19 da Fiocruz, endemia é toda doença de origem infecciosa sob a qual há algum controle do número de casos esperados, consequentemente para não gerar uma sobrecarga ao sistema de saúde. “Os critérios que a gente usa, de uma forma geral, é tentar olhar o comportamento dessa doença ao longo do tempo, observar se ela passa por um período de sazonalidade, ou seja, se tem algum período do ano em que ela tem um aumento do número de casos”, explica Raphael.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/03/whatsapp-image-2022-03-30-at-20.22.56.jpeg\" alt=\"\" width=\"1202\" height=\"1600\"><figcaption>De acordo com Raphael, o quadro de rebaixamento será perpetuado pela OMS, ao examinar a redução da taxa de letalidade e hospitalização associada ao aumento da cobertura vacinal. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/03/whatsapp-image-2022-03-21-at-13.26.41.jpeg\" alt=\"\" width=\"382\" height=\"468\"><figcaption>Priscila Marques aponta que esperava um número menor de pacientes contaminados com o vírus, atualmente. (Foto: Arquivo Pessoal)</figcaption></figure><p>Ao considerar o contexto histórico do novo coronavírus no país, ainda não há indicadores e segurança científica para tratar o vírus como um caso endêmico, segundo Raphael. “Hoje nós temos um controle maior da taxa de ocupação de leitos, mas ainda tem um número bastante significativo de óbitos, muito menor do que há algum tempo atrás, mas ainda há uma perda diariamente, em torno, de 200 ou 300 vidas. Enquanto a gente não consegue melhorar esse desempenho em salvar vidas, a gente não pode dizer que é uma doença sob controle”, ressalta o pesquisador da saúde.</p><p><strong>Raphael Guimarães comenta o papel da OMS nas decisões propostas</strong>.</p><figure><div class=\"embed-soundcloud\"><iframe src=\"https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1242093844&show_artwork=true&maxheight=750&maxwidth=500\" width=\"500\" height=\"400\" title=\"Raphael Guimarães comenta o papel da OMS nas decisões propostas by Agência UVA Barra\" allow=\"autoplay; fullscreen\"></iframe></div></figure><p>A incerteza sobre os impactos da fala do presidente chamou a atenção da carioca Priscila Marques. A moradora da zona oeste acompanha o noticiário para se informar sobre a pandemia, e, ao saber o panorama da mudança de status, ela afirma a necessidade da cidade promover uma vacinação anual, como a da gripe, caso seja decretado o novo renome. “Por ser um vírus contagioso, com a vacina impediria de aumentar a circulação novamente”, conta Priscila.</p><p>Já com as três doses da vacina, Priscila mantém todos os cuidados possíveis para garantir a proteção individual e coletiva. ”Ainda uso máscara cirúrgica em ambientes abertos e N95 nos fechados, e álcool em gel com frequência nas mãos”, fala a carioca.</p><p>Diante da discussão sobre o rumo do vírus da Covid-19, a Secretaria de Estado de Saúde do Rio de Janeiro divulgou em nota para a Agência UVA Barra: “Neste momento, é prematuro falar que a pandemia atingiu o estágio de endemia no Estado do Rio de Janeiro. A dinâmica do vírus, com as possibilidades do surgimento de novas variantes, e a ausência de um histórico da doença não permitem à SVAPS realizar tal afirmação.”</p><p>Ainda declarou que caberá ao Ministério da Saúde, juntamente com a Organização Mundial da Saúde, definir o estágio ao qual se encontra a conjuntura da Covid-19 no Brasil e no mundo.</p><p><em>Gabriela Machado – 5º período</em></p><p><em>Pedro Amorim – 6º período</em></p></main>"
+  },
+  "date": "2022-03-31T17:46:42",
+  "date_gmt": "2022-03-31T20:46:42",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Foi em março de 2022 que a declaração da Organização Mundial da Saúde sobre a pandemia do novo coronavírus completou dois anos. No último mês, a afirmação do presidente Jair Bolsonaro sobre a possibilidade do Governo Federal alterar a condição de “pandemia” de Covid-19 para “endemia” reverberou na sociedade e na área da saúde.</p>\n"
+  },
+  "featured_media": 11333,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11323"
+  },
+  "id": 11323,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/03/capa-site-agencia-2022.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2WD",
+  "link": "https://agenciauvabarra.com/2022/03/31/o-debate-entre-pandemia-e-endemia-no-cenario-da-covid-19/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-03-31T18:28:33",
+  "modified_gmt": "2022-03-31T21:28:33",
+  "ping_status": "open",
+  "slug": "o-debate-entre-pandemia-e-endemia-no-cenario-da-covid-19",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O debate entre pandemia e endemia no cenário da Covid-19"
+  },
+  "type": "post"
+}

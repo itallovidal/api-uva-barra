@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9778/revisions/9783",
+        "id": 9783
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9778"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9778",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9778/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9778"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9780"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9778",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9778",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832,
+    10207
+  ],
+  "class_list": [
+    "post-9778",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "category-turismo",
+    "tag-turismo-na-pandemia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Turismo e saúde no contexto da pandemia\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/0wI1IwalJIPSJHJ5siznj7?si=d74e402e4ef94a53&#038;utm_source=oembed\"></iframe></figure><p>Com a chegada do Coronavírus, o setor de turismo foi um dos mais afetados. Segundo o World Travel e Tourism Council (WTTC), 53% dos empregos dessa área foram afetados e 35% dos estabelecimentos foram fechados no ano passado, segundo a Confederação Nacional de Bens, Serviços e Turismo (CNC).</p><p>O setor pode ter uma alta nas férias de julho, mas com tantas restrições, será que fazer uma viagem é seguro? Para entender o tema nossos repórteres conversaram com Waldeck Salles que é dono da Agência Wal Tour Eventos e Turismo, com a enfermeira que atua na linha de frente do Covid, Michelline Sá e Rafael Maciel estudante de engenharia que teve suas viagens remarcadas.</p><p>Iago Eloi – 7ª período</p></main>"
+  },
+  "date": "2021-07-06T10:16:51",
+  "date_gmt": "2021-07-06T13:16:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Com a chegada do Coronavírus, o setor de turismo foi um dos mais afetados. Segundo o World Travel e Tourism Council (WTTC), 53% dos empregos dessa área foram afetados e 35% dos estabelecimentos foram fechados no ano passado, segundo a Confederação Nacional de Bens, Serviços e Turismo (CNC). </p>\n"
+  },
+  "featured_media": 9780,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9778"
+  },
+  "id": 9778,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/capa-site-agencia-10.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2xI",
+  "link": "https://agenciauvabarra.com/2021/07/06/podcast-turismo-e-saude-no-contexto-da-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-06T10:24:12",
+  "modified_gmt": "2021-07-06T13:24:12",
+  "ping_status": "open",
+  "slug": "podcast-turismo-e-saude-no-contexto-da-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    701775666
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: turismo e saúde no contexto da pandemia"
+  },
+  "type": "post"
+}

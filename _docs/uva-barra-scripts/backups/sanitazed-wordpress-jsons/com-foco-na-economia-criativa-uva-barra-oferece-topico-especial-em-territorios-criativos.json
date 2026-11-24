@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6233/revisions/6241",
+        "id": 6241
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6233"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6233",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6233/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6233"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6235"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6233",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6233",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6233",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O estudo está disponível para diversas áreas acadêmicas</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/carol-ribeiro5.jpg?resize=576%2C383&amp;ssl=1\" alt=\"\" width=\"576\" height=\"383\"><figcaption>Youtube Space localizado no Porto Maravilha, no Rio de Janeiro, foi criado seguindo a linha de territórios criativos – Foto: Carol Ribeiro</figcaption></figure><p>A economia criativa é um ramo que cresce a cada dia. Pensando nisso, o campus Barra da Universidade Veiga de Almeida (UVA) disponibiliza, no primeiro semestre de 2020, a nova disciplina “Territórios Criativos”, ministrada pelo Professor Carlos Eduardo Nunes-Ferreira.</p><p>O docente explica que são chamados territórios criativos os espaços que reúnem atividades ligadas aos conceitos de Indústria Criativa e Economia Criativa, nas áreas de produção de conteúdo editorial, digital, audiovisual; a arquitetura, o design e a comunicação, nos seus sentidos mais amplos e diversos. “A disciplina parte da ideia de que existem condições específicas que podem ser estimuladas e reunidas em um espaço identificável a fim de proporcionar um ambiente fértil para iniciativas empreendedoras, criativas e multidisciplinares”, destaca.</p><p>A matéria é vinculada ao curso de Comunicação Social, mas por tratar de temas interdisciplinares está disponibilizada como Tópico Especial, o que possibilita que alunos de diversas áreas possam cursá-la. O professor ressalta que os territórios criativos são formas de trabalhos mais colaborativos do que competitivos e mais circular do que linear. “O objetivo é exatamente apresentar ao estudante esta nova percepção sobre espaços e territórios criativos assim como os novos modos de produção e modelos de trabalho da contemporaneidade como os coletivos e os espaços de co-working”, conclui.</p><p><strong>Graziela Andrade – 8º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-02-11T14:23:18",
+  "date_gmt": "2020-02-11T17:23:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O estudo está disponível para diversas áreas acadêmicas A economia criativa é um ramo que cresce a cada dia. Pensando nisso, o campus Barra da Universidade Veiga de Almeida (UVA) disponibiliza, no primeiro semestre de 2020, a nova disciplina “Territórios Criativos”, ministrada pelo Professor Carlos Eduardo Nunes-Ferreira. O docente explica que são chamados territórios criativos [&hellip;]</p>\n"
+  },
+  "featured_media": 6235,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6233"
+  },
+  "id": 6233,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/carol-ribeiro5.jpg?fit=1500%2C1000&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Cx",
+  "link": "https://agenciauvabarra.com/2020/02/11/com-foco-na-economia-criativa-uva-barra-oferece-topico-especial-em-territorios-criativos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-02-11T14:29:13",
+  "modified_gmt": "2020-02-11T17:29:13",
+  "ping_status": "open",
+  "slug": "com-foco-na-economia-criativa-uva-barra-oferece-topico-especial-em-territorios-criativos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Com foco na Economia Criativa, UVA Barra oferece Tópico Especial em Territórios Criativos"
+  },
+  "type": "post"
+}

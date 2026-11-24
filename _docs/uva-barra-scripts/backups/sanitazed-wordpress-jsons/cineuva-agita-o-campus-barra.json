@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2654/revisions/3013",
+        "id": 3013
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2654"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2654",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2654/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2654"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2656"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2654",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2654",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-2654",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-cineuva",
+    "tag-documentarios",
+    "tag-mostra-audiovisual",
+    "tag-uva-barra",
+    "tag-webseries"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Mostra audiovisual apresenta produção discente</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-14-at-14-29-59.jpeg?resize=1040%2C780&amp;ssl=1' alt='WhatsApp Image 2018-11-14 at 14.29.59' width='1040' height='780' /><figcaption>A terceira mostra cine uva traz temas atuais, como funk e youtube – Foto: Ana Beatriz Bernardo</figcaption></figure><p>As produções audiovisuais vêm ganhando telas que não se resumem a mídia tradicional e novos espaços de exibição alcançam cada vez mais pessoas. E a universidade, produtora de discussão e experimentos, é um desses lugares. O CineUVA, no seu terceiro ano, traz produtos como webséries e documentários produzidos por alunos. O evento ocorreu na última terça-feira (13/11), no auditório B do campus Barra, da Universidade Veiga de Almeida.</p><p>Desde a escolha dos produtos audiovisuais até os prêmios para sorteio. Toda produção é feita pelos estudantes de jornalismo e publicidade e supervisionada pelo professor e mentor do projeto Gustavo Lacerda. Segundo o aluno João Victor Barros, do 5º período de jornalismo, apesar da correria de produzir um evento assim é gratificante a resposta do público. “Porque nós vemos o quanto as pessoas que exibem seus trabalhos ficam felizes em mostra-los e como é proveitoso para quem vai assistir”, conta.</p><p>Mas os desafios também aparecem. O professor explica que ainda é difícil prender a atenção das pessoas nas produções nacionais. “A gente percebe que o cinema brasileiro ainda não é tão valorizados por todos. Não é o tipo de produção que gera um determinado engajamento massivo”, ressalta. Contudo, os alunos não desistem e buscam ampliar o envolvimento dos cursos tanto na criação quanto nas atividades.</p><p>O CineUVA aproveita esta característica, de ser uma produção que está na mão dos alunos, a diferença em ser tudo feito por eles é que transforma a visão do público. Lucas Menezes, aluno do 8º período de jornalismo, acredita que algo produzido pelos próprios universitários também serve para dar voz ao corpo discente. “Como é tudo escolhido por quem está produzindo, no caso os alunos, fica mais próximo dos nossos interesses”, explica. E quanto mais eles são incentivados a criar, trabalhar em eventos e lidar com prazos curtos, mais preparados ficam para o mercado.</p><p><strong>Ana Beatriz Bernardo – 6º período</strong></p></main>"
+  },
+  "date": "2018-11-14T15:40:12",
+  "date_gmt": "2018-11-14T17:40:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mostra audiovisual apresenta produção discente As produções audiovisuais vêm ganhando telas que não se resumem a mídia tradicional e novos espaços de exibição alcançam cada vez mais pessoas. E a universidade, produtora de discussão e experimentos, é um desses lugares. O CineUVA, no seu terceiro ano, traz produtos como webséries e documentários produzidos por alunos. [&hellip;]</p>\n"
+  },
+  "featured_media": 2656,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2654"
+  },
+  "id": 2654,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-14-at-14-29-59.jpeg?fit=1040%2C780&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-GO",
+  "link": "https://agenciauvabarra.com/2018/11/14/cineuva-agita-o-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T11:11:38",
+  "modified_gmt": "2019-01-31T13:11:38",
+  "ping_status": "open",
+  "slug": "cineuva-agita-o-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    653999749,
+    271486,
+    12103179,
+    193805510,
+    824285
+  ],
+  "template": "",
+  "title": {
+    "rendered": "CineUVA agita o campus Barra"
+  },
+  "type": "post"
+}

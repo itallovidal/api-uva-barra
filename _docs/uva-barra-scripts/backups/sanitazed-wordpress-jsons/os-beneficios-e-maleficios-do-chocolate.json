@@ -1,0 +1,185 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14691/revisions/14706",
+        "id": 14706
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14691"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14691",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14691/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14691"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14698"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14691",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14691",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    11716206,
+    1704,
+    18330,
+    6955,
+    72064
+  ],
+  "class_list": [
+    "post-14691",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-economia-2",
+    "category-gastronomia",
+    "category-institucional",
+    "category-nutricao",
+    "category-saude",
+    "tag-acucar",
+    "tag-agencia-uva-barra",
+    "tag-alimentacao",
+    "tag-beneficios",
+    "tag-cacau",
+    "tag-chocolate",
+    "tag-maleficios",
+    "tag-saude"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Entenda as consequências do consumo do doce no corpo humano</em></p><p>O chocolate é um alimento popular e muito consumido no Brasil. Segundo a pesquisa do Instituto Kantar, encomendado pela Associação Brasileira da Indústria de Chocolates, Amendoim e Balas (Abicab), a venda desse doce teve um crescimento de 10,3% no total de itens comercializadas de janeiro a setembro 2022, quando comparado ao mesmo período de 2021. Entretanto, é necessário pensar nas consequências que o consumo desse alimento causa à saúde.</p><p>Os principais benefícios do chocolate estão relacionados a questões do sistema nervoso central, pois algumas substâncias presentes no doce são capazes de melhorar a produção de hormônios relacionados ao bem-estar. O estudo desenvolvido pela University College London (UCL), pela Universidade de Calgary e pela Alberta Health Services Canada embasa essa afirmação, pois a análise das amostras de mais de 13 mil pessoas comprovou que consumir chocolate meio amargo reduz a ansiedade e a depressão. Outro elemento que também está na guloseima é a feniletilamina, também conhecido como hormônio da paixão, e ele libera endorfina, deixando o indivíduo mais relaxado e feliz. Além disso, existem pesquisas mostrando os benefícios no controle da pressão arterial e coagulação. Os antioxidantes e anti-inflamatórios do chocolate protegem as células do corpo contra o envelhecimento e micro lesões que podem provocar até mesmo o câncer.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-23-at-15.13.29.jpeg?resize=720%2C715&amp;ssl=1\" alt=\"\" width=\"720\" height=\"715\"><figcaption>Deborah não come ainda mais o chocolate artesanal por questões financeiras e por acessibilidade, pois não é possível encontrá-lo em todos lugares. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-23-at-15.12.35-1.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Daniel não sabia que o chocolate amargo é o mais saudável e revelou que, para cuidar da saúde, tentaria diminuir ou até mesmo parar de comer o ao leite. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-23-at-15.12.35.jpeg?resize=1200%2C1600&amp;ssl=1\" alt=\"\" width=\"1200\" height=\"1600\"><figcaption>Larissa acredita que o consumo do chocolate melhora o humor, porque é alimento prazeroso e traz satisfação no momento que é consumido. (Foto: Arquivo Pessoal)</figcaption></figure><p>Essas propriedades são provenientes do cacau e quanto mais puro ele estiver nas receitas, mais essas substâncias estarão presentes no chocolate. Ou seja, quanto mais amargo, mais saudável será, porque a concentração da fruta está diretamente relacionada ao amargor da comida. Por essa razão o chocolate ao leite (20, 30%) e o branco (que não pode ser considerado chocolate devido ao baixo teor de cacau, isso quando tem) são os tipos mais prejudiciais, e os especialistas recomendam o consumo dos alimentos de 70% para cima. Outros fatores ligados a essa indicação são a gordura e o açúcar que são inversamente proporcionais à fruta.</p><p>O professor Daniel Figueiredo, 22 anos, tem preferência pelo chocolate ao leite, porém ele não o consome com frequência, apenas uma barra a cada 6 meses. O docente comentou se sentir satisfeito com esta quantidade e a preferência por comer outros tipos de sobremesa. Ademais, ele acredita que o chocolate pode causar acnes. “Por conta da gordura e oleosidade que o chocolate tem”, falou.</p><p>De acordo com a coordenadora do curso de Nutrição do campus Barra, Glaucia Justo, a gordura presente no doce realmente pode causar acne. Além disso, o cacau é rico em cafeína e, portanto, quanto maior for a concentração da fruta, maior será o teor da cafeína. O efeito positivo é deixar o indivíduo mais alerta, porém o lado negativo é que, se ingerido em grande quantidade, pode causar irritabilidade, sinais de ansiedade e dificuldades para dormir. Outro dano colateral é devido a cafeína ser uma substância que age no cérebro e, por consequência, pode causar dor de cabeça em algumas pessoas, principalmente aquelas que têm enxaquecas, agindo assim como um gatilho.</p><p>A especialista também mencionou que quanto mais amargo, menos açúcar e gordura o doce tem, diminuindo as chances de uma pessoa ganhar peso. Entretanto, isoladamente, para o chocolate fazer engordar, o indivíduo tem que comer barras e barras ao longo do dia e por muito tempo. Ela também falou que o chocolate não vicia, a gordura e o açúcar deixam o paladar dependente do sabor, da mesma forma como pode ficar dependente do refrigerante. Tudo está relacionado ao prazer que é consumir aquele alimento. E outra questão que pode estar envolvida nesta dependência é o nível de cafeína. “Eu não gosto de ficar usando essa palavra ‘viciado’. É um termo muito negativo quando na verdade não é o chocolate. Então, de certa maneira pode parecer uma dependência, mas muito relacionado com esses sabores, com açúcar, gordura também, não é só chocolate”, disse a nutricionista.</p><p><strong>Entenda os nutrientes do chocolate diet neste áudio da professora Glaucia Justo.</strong><br></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1520872465&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Entenda os nutrientes do chocolate diet neste áudio da professora Glaucia Justo. by Agência UVA Barra\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe></figure><p>A estudante de administração Larissa Galdino de 23 anos acredita que existe uma dependência porque conhece pessoas que “devoram” uma caixa de bombom ou uma barra inteira. “Eu como chocolate sempre que estou com vontade, mas não é todo dia. Eu prefiro o ao leite e o branco, mas se for para ficar saudável, eu comeria o amargo em pouca quantidade”, afirma Larissa que diz que não abriria mão dos sabores que gosta.</p><p>Ao contrário de Larissa, a recepcionista Deborah Figueiredo, 25 anos, não pararia de ingerir o ao leite por causa da saúde. Ela já tentou aumentar o consumo de chocolate com mais cacau, porém não conseguiu. Acha amargo demais. Deborah falou que come esse doce quase todo dia, pois ele é mais fácil de adquirir do que os outros. Ela listou três motivos para o consumo excessivo: ansiedade (ele a acalma e a deixa feliz), estresse ou por pura vontade de comer uma comida açucarada. A recepcionista também comentou que já visitou uma fábrica de chocolate artesanal e que, mesmo sendo pequena, eles tinham o cuidado de comprar cacau em fazendas que não exploram os trabalhadores e de não usar gordura saturada como os chocolates vendidos no mercado. “Então é diferente o 60% que você compra no mercado do que em uma fábrica artesanal, é diferente o sabor. O 60% ou quantas outras porcentagens, é diferente. Você vai achar o do mercado mais fraco, vamos assim dizer”, contou.</p><p>O consumo demasiado pode trazer diversas consequências negativas para o corpo, entre elas estão a obesidade, a pele com muita acne, aumento de colesterol e com características de ansiedade. É difícil estipular a melhor quantidade de chocolate para comer e ainda ser saudável, porque as pessoas são diferentes, cada uma com suas individualidades. Por isso, o ideal seria consultar um nutricionista para descobrir a melhor porção para cada um. Entretanto, em média, é indicado dois a três quadradinhos do tipo 60, 70 ou 80% de cacau.</p><p>A Sociedade Brasileira de Pediatria não recomenda chocolate para menores de 2 anos e, a partir dessa idade, oferecer esporadicamente pequenos pedaços. A razão é a presença da cafeína que pode deixar a criança agitada e com dificuldade para dormir. Algumas pessoas até podem pensar que são questões comportamentais, mas na verdade são o efeito dessa cafeína e também do excesso de açúcar.</p><p><em>Juliana Vilete – 4° período</em></p></main>"
+  },
+  "date": "2023-05-23T17:43:07",
+  "date_gmt": "2023-05-23T20:43:07",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O chocolate é um alimento popular e muito consumido no Brasil. Segundo a pesquisa do Instituto Kantar, encomendado pela Associação Brasileira da Indústria de Chocolates, Amendoim e Balas (Abicab), a venda desse doce teve um crescimento de 10,3% no total de itens comercializadas de janeiro a setembro 2022, quando comparado ao mesmo período de 2021. Entretanto, é necessário pensar nas consequências que o consumo desse alimento causa à saúde. </p>\n"
+  },
+  "featured_media": 14698,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14691"
+  },
+  "id": 14691,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/whatsapp-image-2023-05-23-at-15.13.29.jpeg?fit=720%2C715&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3OX",
+  "link": "https://agenciauvabarra.com/2023/05/23/os-beneficios-e-maleficios-do-chocolate/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-23T18:06:45",
+  "modified_gmt": "2023-05-23T21:06:45",
+  "ping_status": "open",
+  "slug": "os-beneficios-e-maleficios-do-chocolate",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    290021,
+    648221465,
+    152500,
+    465932,
+    690766,
+    8514,
+    3280562,
+    767056622
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Os benefícios e malefícios do chocolate"
+  },
+  "type": "post"
+}

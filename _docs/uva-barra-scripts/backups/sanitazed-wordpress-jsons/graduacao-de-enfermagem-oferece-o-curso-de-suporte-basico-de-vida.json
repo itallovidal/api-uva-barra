@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14069/revisions/14085",
+        "id": 14085
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14069"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14069",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14069/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14069"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14083"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14069",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14069",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    17964,
+    72063,
+    858951,
+    72064
+  ],
+  "class_list": [
+    "post-14069",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-educacao",
+    "category-enfermagem",
+    "category-eventos-internos",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-curso",
+    "tag-enfermagem",
+    "tag-primeiros-socorros",
+    "tag-saude",
+    "tag-vida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A aula foi ministrada no Campus Barra</em></p><p>Na última segunda-feira (13/02), a enfermagem da UVA Barra realizou um evento acadêmico para os novos e futuros alunos de 2023 do curso. O objetivo foi mostrar um pouco do ambiente universitário e demonstrar uma parte da graduação. A coordenadora Lidiane Reis deu aula de primeiros socorros com explicações técnicas e demonstrações de como acontece na realidade.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/erick.jpeg?resize=415%2C515&#038;ssl=1' alt='' width='415' height='515' /><figcaption>Erick é professor de história e deseja começar a cursar enfermagem em sua segunda graduação. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/lidiane.jpeg?resize=970%2C1296&#038;ssl=1' alt='' width='970' height='1296' /><figcaption>Para Lidiane, o enfermeiro precisa ser um profissional generalista com um olhar holístico. (Foto: Arquivo Pessoal)</figcaption></figure><p>“A captação e os cursos extracurriculares fazem o aluno se sentir pertencente a universidade, afinal, ele é o protagonista da ação aqui dentro. É importante que eles conheçam o campus antes de iniciar a graduação”, afirma Lidiane Reis. A coordenadora apontou que é importante para o currículo participar desses cursos e diz que o formato preparado para essas aulas acolhe o aluno dentro da faculdade. </p><p>Erick Magalhães esteve presente e está interessado em cursar enfermagem. O jovem afirmou que essa aula foi uma introdução para saber se vai adequar-se nesta área profissional. Ele também destacou a parte que mais chamou atenção em todo conteúdo do curso: “O que eu mais gostei foi a manobra do RCP (Reanimação Cardiopulmonar) por fazer a pessoa voltar a ter batimento cardíaco. A gente sempre vê nos filmes e nas séries e acha que é fácil, mas é importante para o dia a dia saber fazer da maneira correta”, afirma o aluno. </p><p>No vídeo abaixo, Erick fala da importância deste curso para sua vida: <strong>Assista!</strong></p><figure><iframe src='https://www.youtube.com/embed/WDMwEmruqug?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p><br>A aula aconteceu de maneira interativa, com diversas demonstrações práticas de movimentos, além de perguntas com alternativas, para serem respondidas pelos alunos presentes. </p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/foto-do-evento.jpeg?resize=198%2C350&#038;ssl=1' alt='' width='198' height='350' /><figcaption>Alunos praticando a reanimação cardiopulmonar (Foto: Denize Lopes)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/foto-do-evento-2.jpg?resize=2160%2C3840&#038;ssl=1' alt='' width='2160' height='3840' /><figcaption>Momento em que os alunos realizavam uma das dinâmicas do curso. (Foto: Igor Concolato)</figcaption></figure><p><br>Ouça no áudio abaixo o que Lidiane Reis fala sobre o conteúdo apresentado e a importância deste tipo de aprendizado para a vida:</p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1446946180&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Lidiane Reis fala sobre o conteúdo apresentado e a importância deste tipo de aprendizado para a vida by Agência UVA Barra' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>O curso terminou com uma conversa sobre a programação de ensino da UVA Barra, sobre a grade curricular do curso e um momento para tirar dúvidas de todos os alunos. </p><p><em>Igor Concolato – 3° período</em></p></main>"
+  },
+  "date": "2023-02-14T16:07:15",
+  "date_gmt": "2023-02-14T19:07:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Na última segunda-feira (13/02), a enfermagem da UVA Barra realizou um evento acadêmico para os novos e futuros alunos de 2023 do curso. O objetivo foi mostrar um pouco do ambiente universitário e demonstrar uma parte da graduação. A coordenadora Lidiane Reis deu aula de primeiros socorros com explicações técnicas e demonstrações de como acontece na realidade.</p>\n"
+  },
+  "featured_media": 14083,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14069"
+  },
+  "id": 14069,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/foto-de-capa.jpeg?fit=1600%2C1200&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3EV",
+  "link": "https://agenciauvabarra.com/2023/02/14/graduacao-de-enfermagem-oferece-o-curso-de-suporte-basico-de-vida/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-02-14T16:08:24",
+  "modified_gmt": "2023-02-14T19:08:24",
+  "ping_status": "open",
+  "slug": "graduacao-de-enfermagem-oferece-o-curso-de-suporte-basico-de-vida",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    36947,
+    767056621,
+    3974261,
+    767056622,
+    1377
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Graduação de enfermagem oferece o curso de Suporte Básico de Vida"
+  },
+  "type": "post"
+}

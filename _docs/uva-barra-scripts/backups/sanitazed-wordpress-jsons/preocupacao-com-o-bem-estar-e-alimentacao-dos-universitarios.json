@@ -1,0 +1,154 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3456/revisions/3472",
+        "id": 3472
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3456"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3456",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3456/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3456"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3456",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3456",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-3456",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "tag-nutricao"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Alunos de nutrição se mobilizam em prol da saúde</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/f296f60f-f606-4c50-ad09-10230a9a21ba.jpeg?resize=4032%2C3024&amp;ssl=1' alt='' width='4032' height='3024' /><figcaption>Daniela de Almeida ministra palestra para os alunos de nutrição – Foto: Juliana Marques</figcaption></figure><p>A entrada na faculdade é uma fase marcada por grandes mudanças na vida de um estudante. Pensando nessa adaptação ao nível superior, o Programa Nutrição em Movimento, do campus Barra, realizou na última quarta-feira, (27/03), o evento “Cuidar de quem cuida” para iniciar as atividades de pesquisa do semestre. A ação faz parte do Projeto do Núcleo de alunos e Saúde Coletiva ( NASC ) e ressalta a importância e a preocupação de estudar fatores associados à qualidade de vida dos próprios alunos e professores da Veiga de Almeida.</p><p>O bate papo focou em questões do cotidiano de um universitário, como a preparação para a semana de provas, quando, por problemas emocionais e de estresse, a alimentação fica para segundo plano. “Precisamos gerar já na faculdade um estilo de vida mais saudável e práticas de atividades físicas como um incentivo para valorizar a saúde”, aponta Cinara Oliveira, professora do curso de Nutrição e fundadora do projeto.</p><p>Como estímulo ao bem-estar e pensando em ações para o fortalecimento do corpo físico, emocional e espiritual, o evento contou ainda com uma aula de Yoga, a atividade geralmente é procurada por pessoas que querem mudar o estilo de vida. A Coordenadora do campus Barra, Nara Iwata, acatou a ideia de levar também a modalidade para o instituto: “As aulas de yoga representam uma pausa restaurativa na rotina de estudos”, afirma.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/33c197d7-0185-4e11-9cf0-37506eac6ed9.jpeg?resize=4032%2C3024&amp;ssl=1' alt='' width='4032' height='3024' /><figcaption><br>O evento “Cuidar de quem cuida de mim” promoveu uma aula de yoga entre os alunos – Foto: Juliana Marques</figcaption></figure><p>A aluna Luiza Mello, do 3° período, sempre está atenta as informações sobre a reeducação alimentar e o que está além do que você come. A estudante de nutrição compareceu ao evento com o propósito de se aprofundar mais no assunto: “Vim afirmar que uma mudança de vida não se parte apenas de uma boa alimentação, mas, também do equilíbrio das questões psicológicas”, afirma.</p><p>A parte final do evento contou com um lanche preparado pelos alunos de nutrição sob a orientação da professora Cinara Oliveira. A intenção de reunir todos ao redor dos alimentos foi mostrar que uma comida saudável é um dos principais fatores para um bom funcionamento do organismo. Ao longo do semestre o grupo de alunos pesquisadores desenvolverão mais atividades que unem nutrição e informação.</p><p><strong>Juliana Marques – 6° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-03-29T18:21:48",
+  "date_gmt": "2019-03-29T21:21:48",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alunos de nutrição se mobilizam em prol da saúde A entrada na faculdade é uma fase marcada por grandes mudanças na vida de um estudante. Pensando nessa adaptação ao nível superior, o Programa Nutrição em Movimento, do campus Barra, realizou na última quarta-feira, (27/03), o evento “Cuidar de quem cuida” para iniciar as atividades de [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3456"
+  },
+  "id": 3456,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-TK",
+  "link": "https://agenciauvabarra.com/2019/03/29/preocupacao-com-o-bem-estar-e-alimentacao-dos-universitarios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-03-30T18:25:24",
+  "modified_gmt": "2019-03-30T21:25:24",
+  "ping_status": "open",
+  "slug": "preocupacao-com-o-bem-estar-e-alimentacao-dos-universitarios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056604
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Preocupação com o bem-estar e alimentação dos Universitários"
+  },
+  "type": "post"
+}

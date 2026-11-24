@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16004/revisions/16008",
+        "id": 16008
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16004"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16004",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16004/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16004"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16007"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16004",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16004",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16004",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Este podcast jornalístico aborda o aumento no número de denúncias contra as condições de trabalho análogas à escravidão em que muitas pessoas são submetidas atualmente. Um fato que repercutiu na grande mídia foi com Saul Klein, filho do fundador das “Casas Bahia”. Ele foi acusado de fazer parte de um esquema de tráfico de mulheres entre 9 e 17 anos para trabalho escravo e exploração sexual. A reportagem traz mais detalhes sobre o caso.</p><p>O grupo formado por Cícera Gledys, Pedro Sá, Marcelo Henrique, João Pedro Magalhães, Gustavo di Sarli, Bernardo Curvello e Paulo Henrique trouxe o procurador do Ministério Público do Trabalho de São Paulo para falar sobre o tema. Ouça o podcast completo!</p><figure><img src='https://open.spotify.com/embed/episode/2mUrgzFe69v0grsazsPfZt?si=lMgFJiRbQZSy-jCNpdeFKg&#038;utm_source=oembed' alt='Podcast Jornalístico: Trabalho análogo à escravidão' width='100%' height='152'><figcaption>Spotify Embed: Podcast Jornalístico: Trabalho análogo à escravidão</figcaption></figure><p>*Produto produzido para a disciplina de Web Rádio e Podcast, sob a supervisão do professor Anderson Barreto</p></main>"
+  },
+  "date": "2023-10-04T14:57:00",
+  "date_gmt": "2023-10-04T17:57:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Este podcast jornalístico aborda o aumento no número de denúncias contra as condições de trabalho análogas à escravidão em que muitas pessoas são submetidas atualmente. Um fato que repercutiu na grande mídia foi com Saul Klein, filho do fundador das “Casas Bahia”. Ele foi acusado de fazer parte de um esquema de tráfico de mulheres entre 9 e 17 anos para trabalho escravo e exploração sexual. A reportagem traz mais detalhes sobre o caso.</p>\n"
+  },
+  "featured_media": 16007,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16004"
+  },
+  "id": 16004,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/workers-501396_1280.jpg?fit=1280%2C852&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4a8",
+  "link": "https://agenciauvabarra.com/2023/10/04/podcast-jornalistico-trabalho-analogo-a-escravidao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-10-04T02:06:39",
+  "modified_gmt": "2023-10-04T05:06:39",
+  "ping_status": "open",
+  "slug": "podcast-jornalistico-trabalho-analogo-a-escravidao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast jornalístico: Trabalho análogo à escravidão"
+  },
+  "type": "post"
+}

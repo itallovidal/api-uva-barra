@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1345/revisions/2942",
+        "id": 2942
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1345"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1345",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1345/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1345"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1345",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1345",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    798
+  ],
+  "class_list": [
+    "post-1345",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-politica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Advogados e jornalistas discutem sobre a atual crise da liberdade de expressão no Brasil</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/d65a937b-e988-4579-9a92-5fa256730776.jpg?resize=1280%2C960&amp;ssl=1' alt='d65a937b-e988-4579-9a92-5fa256730776' width='1280' height='960' /><figcaption>Fotografia: Carolina Marinho</figcaption></figure><p>O evento “Liberdade de Imprensa e Estado de Direito”, que ocorreu nesta segunda-feira (18/09), reuniu jornalistas, advogados e professores de Direito na Procuradoria Geral do Estado do Rio de Janeiro (PGE-RJ). A abertura das palestras teve início às 10 da manhã com a presença de Ancelmo Gois e Daniel Sarmento e o encerramento às 6 da noite com Paulo Henrique Amorim. Especialistas debateram sobre processos judiciais, liberdade de expressão e democracia.</p><p>E foi sobre democracia o assunto destaque de um dos painéis do dia. Segundo o jornalista José Casado, ao longo da história brasileira, o sistema de governo necessita de uma atenção específica nos direitos de manifestação da sociedade. “Completamos três décadas de Constituição e ainda precisamos discutir sobre liberdade de imprensa”, enfatiza. O professor da UERJ, Anderson Schreiber, que também participou do debate, ressaltou casos de processos judiciais como: direito de imagem, e a censura do youtube em 2007 no caso do vídeo íntimo de Daniela Cicarelli com o namorado numa praia na Espanha.</p><div class=\"wp-block-image wp-image-1350 alignleft\"><figure class=\"alignleft\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"1280\" height=\"960\" data-attachment-id=\"1350\" data-permalink=\"https://agenciauvabarra.com/2017/09/21/direito-e-comunicacao-em-pauta/da27cc83-3e65-462a-a10e-79fdec81aeae/\" data-orig-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/da27cc83-3e65-462a-a10e-79fdec81aeae.jpg?fit=1280%2C960&amp;ssl=1\" data-orig-size=\"1280,960\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"da27cc83-3e65-462a-a10e-79fdec81aeae\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/da27cc83-3e65-462a-a10e-79fdec81aeae.jpg?fit=1024%2C768&amp;ssl=1\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/da27cc83-3e65-462a-a10e-79fdec81aeae.jpg?resize=1280%2C960&#038;ssl=1\" alt=\"da27cc83-3e65-462a-a10e-79fdec81aeae\" class=\"wp-image-1350\" /><figcaption>Fotografia: Carolina Marinho</figcaption></figure></div><p>Quem também abordou sobre bloqueio de sites e aplicativos foi o advogado, professor, pesquisador e especialista em tecnologias Ronaldo Lemos. Para o professor, essa restrição de acesso é característica de países autoritários, como Turquia, Tailândia e Irã. “Você não pode dizer que está em um país livre e atuar no bloqueio de uma infraestrutura da rede, isso cria um problema federativo”. Além dessa censura, assassinatos de jornalistas também é algo preocupante, o que conclui a falta de liberdade de expressão no Brasil.</p><p>O estudante de biblioteconomia e jornalista independente Lucas Ferreiro admite que o ponto alto foi o encerramento com o Paulo Henrique Amorim, apresentador de TV e escritor do “O quarto poder”. “Já estava lendo o livro e conhecer a opinião dele foi incrível. Ter uma visão jurídica sobre o assunto também foi muito interessante”, acrescenta Lucas, que se inscreveu com um mês de antecedência quando soube da presença do autor.</p><p>Esse é um tema extenso e que ainda precisa de mais espaço nas salas de aula de comunicação social e de direito. A Gerente de Comunicação da Universidade Veiga de Almeida (UVA), Cecília Seabra, que estava presente, concorda e pretende trazer palestras e debates para os alunos. “É fundamental ter conhecimento sobre a relevância do papel da liberdade de expressão na imprensa. É um assunto que não pode cair no esquecimento! “, completa.</p><p><strong>Carolina Marinho, 4º período, Giovanna Faria, 5º período. </strong></p></main>"
+  },
+  "date": "2017-09-21T11:35:17",
+  "date_gmt": "2017-09-21T14:35:17",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Advogados e jornalistas discutem sobre a atual crise da liberdade de expressão no Brasil O evento “Liberdade de Imprensa e Estado de Direito”, que ocorreu nesta segunda-feira (18/09), reuniu jornalistas, advogados e professores de Direito na Procuradoria Geral do Estado do Rio de Janeiro (PGE-RJ). A abertura das palestras teve início às 10 da manhã [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1345"
+  },
+  "id": 1345,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-lH",
+  "link": "https://agenciauvabarra.com/2017/09/21/direito-e-comunicacao-em-pauta/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T15:34:17",
+  "modified_gmt": "2019-01-26T17:34:17",
+  "ping_status": "open",
+  "slug": "direito-e-comunicacao-em-pauta",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Direito e Comunicação em Pauta"
+  },
+  "type": "post"
+}

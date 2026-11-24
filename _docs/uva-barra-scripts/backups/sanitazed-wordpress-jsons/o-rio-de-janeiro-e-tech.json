@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5211/revisions/5222",
+        "id": 5222
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5211"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5211",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5211/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5211"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5213"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5211",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5211",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-5211",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-rio-info"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento mostra a cidade como território de inovação</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5498.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\"><figcaption>Painel usado para tirar Fotos durante o evento – Foto: Luma keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5518.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\"><figcaption>Café Magestic – Espaço para confraternização e networking – Foto: Luma keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5555.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\"><figcaption>Participantes com os palestrantes do seminário “Transformando Suor em Dinheiro”, Rodolfo Santos e Gustavo Malavota – Foto: Luma keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5557.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\"><figcaption>Impressões 3D expostas em mesa no Café Magestic – Foto: Luma keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5565.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\"><figcaption>Membros da Comissão Permanente de Ciência e Tecnologia da ALERJ e da Câmara Setorial de Tecnologia do Fórum de Desenvolvimento do Rio – Foto: Luma keily</figcaption></figure><p>A cidade do Rio de Janeiro como referência na área das novas tecnologias. Essa é a proposta do Rio Info, um dos principais eventos dedicados à tecnologia da Informação (Ti) do país, que teve início na segunda-feira (16/9). Em sua décima sétima edição, traz mais de 180 palestrantes para debater sobre a cultura digital, no Centro de Convenções SulAmérica.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5512-e1568998351432.jpg?resize=458%2C257&amp;ssl=1\" alt=\"\" width=\"458\" height=\"257\"><figcaption>Alberto Blois realiza a abertura oficial do Rio Info – Foto: Luma keily</figcaption></figure><p>Jornalismo e tecnologia, governo 4.0 e proteção de dados foram apenas alguns dos assuntos abordados no primeiro dia do evento que reuniu diferentes pessoas em busca de informação e networking. “Eu acho que pra cada um vai trazer alguma coisa que ele está procurando, porque a diversidade de temas é muito grande”, afirmou Benito Paret, presidente do TI Rio. Foi essa variedade que atraiu o estudante de engenharia de software, Carlos Daniel, que buscou nas palestras aprimorar seus conhecimentos sobre a área que atua. “Por enquanto eu ainda não vi algo desse tipo e me surpreendeu bastante”, disse.</p><blockquote><p>O Rio Info significa mais um passo numa caminhada que iniciamos há uma década e meia atrás, tentando mostrar o Rio de Janeiro realmente como o grande centro de negócios, de inovação, de busca de novas tecnologias. </p><p>– Benito Paret</p></blockquote><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5558.jpg?resize=450%2C337&amp;ssl=1\" alt=\"\" width=\"450\" height=\"337\"><figcaption>Benito Paret – Presidente do TI Rio – Foto: Luma keily</figcaption></figure><p>Além de palestras como “Transformando suor em dinheiro” e “O lado empreendedor da força”, o Salão da Inovação, em sua 10ª edição, potencializou os empreendedores e suas startups. Daniel Chiappetta, estudante de engenharia civil, está na equipe de organização do evento desde 2018, na edição em Teresópolis. Neste segundo ano de trabalho, o jovem afirma ter crescido profissionalmente como empreendedor. “O Rio Info é algo que me motiva a ser melhor”, declarou o estudante.</p><p>A novidade desse ano foi o valor do ingresso. Todos os participantes puderam escolher a quantia a ser paga para participar do evento. O objetivo é não excluir àqueles sem condições financeiras, e criar um ambiente de inclusão e troca. “O Rio Info é isso, é você não deixar ninguém de fora”, explicou Alberto Blois, presidente geral do evento. Parte da quantia arrecadada foi doada à Casa de Caridade Francisco de Assis.</p><p><strong>Luma Keily – 2º Período – Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-20T13:55:23",
+  "date_gmt": "2019-09-20T16:55:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento mostra a cidade como território de inovação A cidade do Rio de Janeiro como referência na área das novas tecnologias. Essa é a proposta do Rio Info, um dos principais eventos dedicados à tecnologia da Informação (Ti) do país, que teve início na segunda-feira (16/9). Em sua décima sétima edição, traz mais de 180 [&hellip;]</p>\n"
+  },
+  "featured_media": 5213,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5211"
+  },
+  "id": 5211,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5498.jpg?fit=4032%2C3024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1m3",
+  "link": "https://agenciauvabarra.com/2019/09/20/o-rio-de-janeiro-e-tech/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-20T13:55:23",
+  "modified_gmt": "2019-09-20T16:55:23",
+  "ping_status": "open",
+  "slug": "o-rio-de-janeiro-e-tech",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    22711148
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O Rio de Janeiro é tech"
+  },
+  "type": "post"
+}

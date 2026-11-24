@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7896/revisions/7900",
+        "id": 7900
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7896"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7896",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7896/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7896"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7899"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7896",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7896",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    17964,
+    4753134,
+    701438832,
+    268277,
+    14591
+  ],
+  "class_list": [
+    "post-7896",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-educacao",
+    "category-quarentena",
+    "category-radio-uva-barra",
+    "category-solidariedade",
+    "category-trabalho",
+    "tag-dia-dos-profesores"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Profissionais precisam reinventar metodologias de ensino para se adaptar a esse novo cenário</em></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F911273371&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Rádio UVA Barra · Desafios da educação no cenário da pandemia – S02 EP03\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Celebrado anualmente, no Brasil, em 15 de outubro, o Dia do Professor foi criado pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) em 1994 com o objetivo de chamar atenção para o papel fundamental dos professores na sociedade. Todos os anos é divulgada uma mensagem especial para este dia pelos representantes da UNESCO e outras organizações internacionais.</p><p>Em 2020, a comemoração recebeu o tema “Professores: Liderando crise, reimaginando o futuro”, com o objetivo de ressaltar o esforço desses profissionais durante a pandemia do novo coronavirus. Nesse contexto, o terceiro episódio dessa temporada de podcasts da Rádio UVA Barra propõe discussão sobre os desafios de educar no cenário pandêmico.</p><p>Falta de experiência com aulas remotas; dificuldades de adaptar técnicas de ensino; problemas para reformulação de atividades. Esses são alguns dos obstáculos enfrentados pelos professores quanto na atual realidade do ensino no país. Além disso, em 7 de outubro de 2020, o Ministério da Educação (MEC) lançou, com base em instruções de órgãos internacionais e sugestões de entidades de educação, um guia com orientações à volta às aulas presenciais, criado como referência para estados e municípios no planejamento de reabertura das escolas.</p><p>Esses assuntos serviram de base das conversas para esta edição da Rádio UVA que recebe a professora Maria Claudia Azevedo, Cláudia Saad, diretora regional pedagógica da metropolitana IV da Secretaria de Estado de Educação, e a pedagoga Viviani Anaya para esclarecer algumas questões sobre dentro dessa temática.</p><p><em>Fernando Pieroni – 6º período<br>Khaio Lopes – 6º período</em></p></main>"
+  },
+  "date": "2020-10-15T17:27:24",
+  "date_gmt": "2020-10-15T20:27:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Profissionais precisam reinventar metodologias de ensino para se adaptar a esse novo cenário Rádio UVA Barra · Desafios da educação no cenário da pandemia – S02 EP03 Celebrado anualmente, no Brasil, em 15 de outubro, o Dia do Professor foi criado pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) [&hellip;]</p>\n"
+  },
+  "featured_media": 7899,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7896"
+  },
+  "id": 7896,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/11-aub-2.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-23m",
+  "link": "https://agenciauvabarra.com/2020/10/15/podcast-radio-uva-barra-desafios-da-educacao-no-cenario-da-pandemia-s02-ep03/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-15T17:27:24",
+  "modified_gmt": "2020-10-15T20:27:24",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-desafios-da-educacao-no-cenario-da-pandemia-s02-ep03",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    370930131
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra – Desafios da educação no cenário da pandemia – S02 EP03"
+  },
+  "type": "post"
+}

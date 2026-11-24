@@ -1,0 +1,166 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8384/revisions/8387",
+        "id": 8387
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8384"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8384",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8384/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8384"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8385"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8384",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8384",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    4753134,
+    701438832,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-8384",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-quarentena",
+    "category-radio-uva-barra",
+    "category-saude",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Quais as heranças da pandemia para o “novo normal”?</em></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F945149542&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Podcast Radio UVA Barra – Legado Da Pandemia – S02 EP17\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Desde março deste ano, com a adoção de medidas de isolamento e início da quarentena no Brasil por conta do novo coronavírus, o país vem tomando iniciativas quanto a segurança nos modos de operação para as diferentes áreas da nossa sociedade. E se há alguma certeza quanto a atual pandemia é que grandes mudanças estão por vir e algumas dessas já são realidades que começam a ser compreendidas.</p><p>A realidade é que quando a Covid-19 for finalmente controlada, todo o planeta sairá afetado. Porém, muitos acreditam que essa calamidade pode trazer resultados positivos para a sociedade com um todo, e assim, todos os setores a compõe serão afetados de alguma forma, ocasionando mudanças em relação à realidade pré-pandemia.</p><p>A exemplo disso, temos o comportamento social, bastante modificado devido a reclusão das pessoas, trazendo maior conscientização sobre hábitos de higiene e mais demonstrações de solidariedade. No setor empresarial, houve a expansão do home office como uma opção para manter o trabalho e evitar consequências mais graves tanto sanitárias quanto econômicas; e na educação, muitos estudantes não tiveram acesso as aulas remotas, o que pode vir a intensificar a desigualdade educacional do país, mas por outro lado há evolução do conhecimento digital por alunos e docentes.</p><p>Esses tópicos serviram de guias para o debate deste último episódio da segunda temporada da Rádio UVA Barra que recebe a diretora executiva da ABRH Brasil, Iêda Vecchioni, o sociólogo Alexandre Meira, e a gestora educacional Adriana Pessanha, para esclarecer alguns aspectos sobre a herança que o período pandêmico deixará.</p><p></p><p><em>Fernando Pieroni – 6º período Gustavo Teixeira – 6º período</em></p></main>"
+  },
+  "date": "2020-12-10T15:57:30",
+  "date_gmt": "2020-12-10T18:57:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Quais as heranças da pandemia para o “novo normal”? Agência UVA Barra · Podcast Radio UVA Barra – Legado Da Pandemia – S02 EP17 Desde março deste ano, com a adoção de medidas de isolamento e início da quarentena no Brasil por conta do novo coronavírus, o país vem tomando iniciativas quanto a segurança nos [&hellip;]</p>\n"
+  },
+  "featured_media": 8385,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8384"
+  },
+  "id": 8384,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/25-aub.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2be",
+  "link": "https://agenciauvabarra.com/2020/12/10/podcast-radio-uva-barra-legado-da-pandemia-s02-ep17/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-12-10T15:57:30",
+  "modified_gmt": "2020-12-10T18:57:30",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-legado-da-pandemia-s02-ep17",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra – Legado da pandemia – S02 EP17"
+  },
+  "type": "post"
+}

@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14992/revisions/14996",
+        "id": 14996
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14992"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14992",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14992/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14992"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14995"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14992",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14992",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    18330,
+    22,
+    701438832,
+    758
+  ],
+  "class_list": [
+    "post-14992",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-institucional",
+    "category-internet",
+    "category-radio-uva-barra",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-diadosnamorados",
+    "tag-distancia",
+    "tag-namorados",
+    "tag-podcast",
+    "tag-relacionamento"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Especial Dia dos Namorados: Namoro à Distância\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/5UmjruDzrSCxKZW9LlPn40?si=Oqn7r-JLQAKy5tpFcuX1Fg&#038;utm_source=oembed\"></iframe></figure><p>Existem várias formas de se relacionar romanticamente, nesta edição especial de Dia dos Namorados, vamos mergulhar no universo dos namoros à distância.</p><p>Conversamos com pessoas que vivem romances que desafiam as barreiras geográficas e conhecemos mais sobre suas histórias de amor, rotinas e desafios. Esse episódio também conta com a participação da psicóloga Camila Garcia, especialista em terapia de casais.</p><p>A Rádio UVA Barra deseja a todos um feliz Dia dos Namorados!</p><p><em>Lia van Boekel – 8° período</em></p></main>"
+  },
+  "date": "2023-06-12T18:35:23",
+  "date_gmt": "2023-06-12T21:35:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Existem várias formas de se relacionar romanticamente, nesta edição especial de Dia dos Namorados, vamos mergulhar no universo dos namoros à distância.</p>\n"
+  },
+  "featured_media": 14995,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14992"
+  },
+  "id": 14992,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/whatsapp-image-2023-06-12-at-16.19.22.jpeg?fit=1280%2C851&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3TO",
+  "link": "https://agenciauvabarra.com/2023/06/12/podcast-radio-uva-barra-especial-dia-dos-namorados-namoro-a-distancia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-06-15T12:54:39",
+  "modified_gmt": "2023-06-15T15:54:39",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-especial-dia-dos-namorados-namoro-a-distancia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    21502487,
+    21762,
+    199260,
+    1142,
+    182218
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Especial Dia dos Namorados: Namoro à Distância"
+  },
+  "type": "post"
+}

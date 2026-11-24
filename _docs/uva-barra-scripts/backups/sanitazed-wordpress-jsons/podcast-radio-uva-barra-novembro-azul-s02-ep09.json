@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8152/revisions/8158",
+        "id": 8158
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8152"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8152",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8152/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8152"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8155"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8152",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8152",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-8152",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "category-saude",
+    "category-sociedade",
+    "tag-novembro-azul"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Mês de prevenção ao câncer de próstata e conscientização na saúde do homem</em></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F926931316&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='SoundCloud Player' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>A tradicional campanha “Novembro Azul” completa 17 anos e o lema de 2020 é: “Seja Homem: Se Cuide!”. O objetivo principal é alertar a população sobre a importância do diagnóstico precoce do câncer de próstata. Essa é a segunda forma da doença mais frequente entre os homens brasileiros, atrás apenas do câncer de pele, além de ser uma das mais assintomáticas.</p><p>Dados da Sociedade Brasileira de Urologia (SBU) mostram que 1 em cada 6 homens com idade acima de 45 anos pode apresentar a doença sem ter conhecimento. O diagnóstico ainda é um assunto muito delicado, pois além da possibilidade de não manifestar indicativos da doença, o preconceito associado ao exame de toque faz com que muitos homens não busquem atendimento e, consequentemente, a prevenção não seja feita de forma eficiente.</p><p>Nesta edição dos podcasts da Rádio UVA Barra, o urologista e especialista na área de oncologia, Paulo Salustiano, vai esclarecer questões dentro desse tema e o advogado Luiz Victor Bezerra, de 73 anos, conta como combateu e venceu o câncer de próstata.</p><p><em>Iago Bastos - 6º período</em><em>Fernando Pieroni - 6º período</em></p></main>"
+  },
+  "date": "2020-11-10T18:26:28",
+  "date_gmt": "2020-11-10T21:26:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mês de prevenção ao câncer de próstata e conscientização na saúde do homem Rádio UVA Barra · Podcast Rádio UVA Barra &#8211; Novembro Azul &#8211; S02 EP09 A tradicional campanha “Novembro Azul” completa 17 anos e o lema de 2020 é: “Seja Homem: Se Cuide!”. O objetivo principal é alertar a população sobre a importância [&hellip;]</p>\n"
+  },
+  "featured_media": 8155,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8152"
+  },
+  "id": 8152,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/agecc82ncia-novembro-azul.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-27u",
+  "link": "https://agenciauvabarra.com/2020/11/10/podcast-radio-uva-barra-novembro-azul-s02-ep09/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-11-10T18:38:37",
+  "modified_gmt": "2020-11-10T21:38:37",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-novembro-azul-s02-ep09",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    121767804
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra – Novembro Azul – S02 EP09"
+  },
+  "type": "post"
+}

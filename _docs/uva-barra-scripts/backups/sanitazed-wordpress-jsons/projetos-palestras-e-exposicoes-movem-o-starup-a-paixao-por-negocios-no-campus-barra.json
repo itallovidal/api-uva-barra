@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12410/revisions/12431",
+        "id": 12431
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12410"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12410",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12410/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12410"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12430"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12410",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12410",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    7442,
+    407146,
+    18330
+  ],
+  "class_list": [
+    "post-12410",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-empreendedorismo",
+    "category-exposicao",
+    "category-institucional",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>As atividades são uma amostra do método de ensino aplicado em sala de aula</em></p><p>“StarUp: A Paixão por Negócios” começou na segunda-feira, 04/07, no campus Barra. Sob organização do curso de Administração e com o apoio da Feira Maker, durante uma semana o evento tem como objetivo central unir teoria e prática através das apresentações de trabalhos desenvolvidos por alunos de Administração, Ciências Contábeis e Marketing.</p><p>O professor Antônio Carlindo Lima foi o responsável pela gestão. A iniciativa propõe entender o momento atual, debater sobre habilidades comportamentais e promover atitudes aos universitários para criarem um negócio econômico. ”No trabalho dos banners que foram colocados, há um QR code funcionando com vídeos, podcasts e e-books”, explicou. </p><p><strong>Antônio Carlindo Lima fala do impacto do “StarUp”.</strong></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_5834-e1657304224985.jpg?resize=3692%2C3441&amp;ssl=1\" alt=\"\" width=\"3692\" height=\"3441\"><figcaption>De acordo com Mercês, a colaboração no dia pôde ajudar o aluno a adquirir conhecimento. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_6613.jpg?resize=6000%2C4000&amp;ssl=1\" alt=\"\" width=\"6000\" height=\"4000\"><figcaption>Segundo Antônio Carlindo de Lima, a mensagem do evento é superar as adversidades. (Foto: Gabriel Oliveira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_6584.jpg?resize=6000%2C4000&amp;ssl=1\" alt=\"\" width=\"6000\" height=\"4000\"><figcaption>Newton Duarte buscou trocar experiências com os participantes da roda. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_5830-e1657304274827.jpg?resize=4067%2C3452&amp;ssl=1\" alt=\"\" width=\"4067\" height=\"3452\"><figcaption>Bruna Napolitano realçou a importância do StarUp. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_5832-e1657304327265.jpg?resize=3606%2C3452&amp;ssl=1\" alt=\"\" width=\"3606\" height=\"3452\"><figcaption>Caio Siqueira deseja considerar o valor da felicidade no trabalho, após participar da exposição. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_5846-e1657304401387.jpg?resize=3552%2C3452&amp;ssl=1\" alt=\"\" width=\"3552\" height=\"3452\"><figcaption>Samara espera gerar um impacto com o projeto no entorno social. (Foto: Pedro Amorim)</figcaption></figure><p>Quem esteve presente no terceiro dia da conferência foi Newton Duarte, engenheiro e professor de Filosofia. Na roda, temas como mercado de trabalho, saúde mental e negócios, ajudaram os participantes a se prepararem diante das finalidades pessoais. “Estamos vivendo um novo movimento chamado ‘lifelong learning’: você precisa aprender pro resto da vida. O que importa é o que você é capaz de fazer com o conhecimento que você teve exposto”, disse.</p><p>Uma das atividades interativas foi realizada por Mercês Araújo. A empreendedora de cursos e sobrancelhas realizou uma ação estética para pessoas interessadas. Já nesse ramo há seis anos, a profissional ressaltou o valor de trabalhar com paixão no empreendimento: “A maior virada de chave foi ser eu mesma e colocar o meu lado humano no negócio”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_5834-e1657304224985.jpg?resize=3692%2C3441&amp;ssl=1\" alt=\"\" width=\"3692\" height=\"3441\"><figcaption>De acordo com Mercês, a colaboração no dia pôde ajudar o aluno a adquirir conhecimento. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_6613.jpg?resize=6000%2C4000&amp;ssl=1\" alt=\"\" width=\"6000\" height=\"4000\"><figcaption>Segundo Antônio Carlindo de Lima, a mensagem do evento é superar as adversidades. (Foto: Gabriel Oliveira)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_6584.jpg?resize=6000%2C4000&amp;ssl=1\" alt=\"\" width=\"6000\" height=\"4000\"><figcaption>Newton Duarte buscou trocar experiências com os participantes da roda. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_5830-e1657304274827.jpg?resize=4067%2C3452&amp;ssl=1\" alt=\"\" width=\"4067\" height=\"3452\"><figcaption>Bruna Napolitano realçou a importância do StarUp. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_5832-e1657304327265.jpg?resize=3606%2C3452&amp;ssl=1\" alt=\"\" width=\"3606\" height=\"3452\"><figcaption>Caio Siqueira deseja considerar o valor da felicidade no trabalho, após participar da exposição. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/img_5846-e1657304401387.jpg?resize=3552%2C3452&amp;ssl=1\" alt=\"\" width=\"3552\" height=\"3452\"><figcaption>Samara espera gerar um impacto com o projeto no entorno social. (Foto: Pedro Amorim)</figcaption></figure><p>Para Bruna Napolitano, 1º período de Administração, o que mais chamou a atenção dela foi a abordagem do auto conhecimento e não ter medo de tentar. Já ao calouro do curso Caio Siqueira, dono de uma loja de e-commerce virtual, a troca de diálogos pela manhã de quarta-feira, 06/07, o ajudou na forma como vai administrar o estabelecimento. “O Newton falou sobre contratar pessoas que tenham o mesmo sonho que você e vou prezar por isso”, contou.</p><p>A apresentação dos projetos faz parte da programação também. Samara Barbeta, 1º período de Administração, é líder da turma de Laboratório de Gestão de Negócio e responsável pelo projeto “Segurança Alimentar”. A prioridade é tratar a temática da alimentação e saúde como acessível e acolhedor nos trabalhos formais e informais. “Os banners são infográficos que vão ajudar nas ideias que gostaríamos de pôr em prática para resolver um problema”, destacou.</p><p><strong>Samara Barbeta expõe a repercussão da ideia apresentada.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1301916157&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Samara Barbeta conta sobre a repercussão da ideia apresentada by Agência UVA Barra\" allowfullscreen></iframe></figure><p>“Starup: A Paixão por Negócios” se prepara para encerrar entre sexta-feira e segunda-feira, 08/07 a 11/07. Após 4 dias de evento, os estudantes entram na reta final para o recolhimento dos materiais apresentados no campus.</p><p><em>Pedro Amorim – 6º período</em></p></main>"
+  },
+  "date": "2022-07-08T15:46:12",
+  "date_gmt": "2022-07-08T18:46:12",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“StarUp: A Paixão por Negócios” começou na segunda-feira, 04/07, no campus Barra. Sob organização do curso de Administração e com o apoio da Feira Maker, durante uma semana o evento tem como objetivo central unir teoria e prática através das apresentações de trabalhos desenvolvidos por alunos de Administração, Ciências Contábeis e Marketing.</p>\n"
+  },
+  "featured_media": 12430,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12410"
+  },
+  "id": 12410,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/07/capa-site-agencia-2022-5.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3ea",
+  "link": "https://agenciauvabarra.com/2022/07/08/projetos-palestras-e-exposicoes-movem-o-starup-a-paixao-por-negocios-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-07-08T18:34:52",
+  "modified_gmt": "2022-07-08T21:34:52",
+  "ping_status": "open",
+  "slug": "projetos-palestras-e-exposicoes-movem-o-starup-a-paixao-por-negocios-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Projetos, palestras e exposições, movem o “StarUp: A Paixão por Negócios” no campus Barra"
+  },
+  "type": "post"
+}

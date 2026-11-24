@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5993/revisions/6001",
+        "id": 6001
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=5993"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5993",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/5993/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=5993"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/5996"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=5993",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=5993",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-5993",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-aspirantes",
+    "tag-yves-rosenfeld"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/legti3dw.jpeg?resize=305%2C453&amp;ssl=1' alt='' width='305' height='453' /><figcaption>Foto: Divulgação</figcaption></figure><p>Escrito e dirigido por Yves Rosenfeld, Aspirantes, conta a história de Junior (Ariclenes Barroso), um jovem que sonha em ser um grande jogador de futebol, mas que precisa enfrentar os dilemas de uma vida marcada pela pobreza e por um sentimento de inveja que começa a crescer dentro dele, quando seu melhor amigo, Bento (Sérgio Malheiros), passa a ascender dentro do mundo futebolístico.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/unnamed.jpg?resize=521%2C278&amp;ssl=1' alt='' width='521' height='278' /><figcaption>Foto: Divulgação</figcaption></figure><p>O longa retrata de forma bem real as dificuldades enfrentadas pelos jovens que sonham em mudar de vida por meio do futebol. Yves Rosenfeld consegue utilizar as partidas para refletir as angústias do protagonista e faz isso através de uma linguagem estilizada, que abusa de câmeras lentas e de uma trilha sonora carregada.</p><p>O roteiro investe em uma estrutura de crescente tensão, porém acaba terminando sem um grande clímax. Os personagens não tem suas narrativas aprofundadas, com exceção de Junior (Ariclenes Barroso), que além da sua condição financeira ruim, precisa lidar com a gravidez de sua namorada Karine (Julia Bernat), sendo o mais bem explorado na trama.</p><p>Um dos destaques do filme é a atuação de Ariclenes Barroso que consegue demonstrar todos sentimentos que o personagem vive. Além dele, Sérgio Malheiros consegue interpretar bem o papel de um jogador em ascensão e Julia Bernat ao lado de Ariclenes fazem uma ótima dobradinha, com cenas bem intensas de amor e momentos de brigas intensos.</p><p>Aspirantes é um longa que retrata de forma dura os dramas da vida de jovens jogadores de futebol e como sentimentos podem aflorar nesse meio tão competitivo, onde todos querem ter uma chance de alcançar o estrelato. Apesar de ter uma estrutura que lembra um Média-metragem, o filme consegue ter boas atuações e uma narrativa instigante.</p><figure><iframe src='https://www.youtube.com/embed/4fQHAJ7uC5w?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Lucas Souza – 2º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2019-11-27T15:32:11",
+  "date_gmt": "2019-11-27T18:32:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Escrito e dirigido por Yves Rosenfeld, Aspirantes, conta a história de Junior (Ariclenes Barroso), um jovem que sonha em ser um grande jogador de futebol, mas que precisa enfrentar os dilemas de uma vida marcada pela pobreza e por um sentimento de inveja que começa a crescer dentro dele, quando seu melhor amigo, Bento (Sérgio [&hellip;]</p>\n"
+  },
+  "featured_media": 5996,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=5993"
+  },
+  "id": 5993,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/11/unnamed.jpg?fit=1024%2C548&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1yF",
+  "link": "https://agenciauvabarra.com/2019/11/27/agencia-uva-barra-assistiu-aspirantes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-11-27T15:32:11",
+  "modified_gmt": "2019-11-27T18:32:11",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-aspirantes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    1330825,
+    690531628
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: &#8220;Aspirantes&#8221;"
+  },
+  "type": "post"
+}

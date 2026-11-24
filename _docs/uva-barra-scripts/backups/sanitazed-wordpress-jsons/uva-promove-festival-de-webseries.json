@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2714/revisions/2976",
+        "id": 2976
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2714"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2714",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2714/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2714"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2716"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2714",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2714",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    17964,
+    670411728
+  ],
+  "class_list": [
+    "post-2714",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-educacao",
+    "category-institucional-uva",
+    "tag-7-horas",
+    "tag-agencia-uva-barra",
+    "tag-aguas-turvas",
+    "tag-festival-de-webseries-2018",
+    "tag-hora-do-crime",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Episódios produzidos por universitários foram exibidos no campus Barra</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/img_20181126_102327857_hdr.jpg?resize=4160%2C3120&amp;ssl=1' alt='' width='4160' height='3120' /><figcaption>Equipe de \"Águas Turvas\" recebe o prêmio de melhor Websérie 2018. Foto: Junior Almeida</figcaption></figure><p>O grande dia chegou. Após meses de muita preparação e dedicação, os alunos dos cursos de Publicidade e Jornalismo apresentaram as webséries criadas ao longo do semestre. As produções estrearam, na última segunda-feira (26), em um evento realizado pela Universidade Veiga de Almeida (UVA), campus Barra. Os gêneros variaram entre comédia, drama e suspense. Um dos assuntos mais abordados foi a comunidade LGBTQ+, tema central entre três tramas, das oito que concorriam ao título.<br><br>A banca avaliadora, composta pela coordenadora dos cursos de Jornalismo e Publicidade Renata Feital; pelo Professor Anderson Barreto; VictorLima, Produtor Audiovisual (UNESA), e o graduando Diego Murray, vencedor do prêmio de Melhor Roteiro e Melhor Websérie de 2017, teve que escolher as três obras que mais se destacaram. Como resultado, \"Águas Turvas\", \"Hora do Crime\" e \"7 Horas\" ficaram com o primeiro, segundo e terceiro lugar respectivamente, sob muitos aplausos.<br><br>A experiência de produzir o próprio conteúdo audiovisual é vivenciada ainda no início da graduação. A Coordenadora Renata Feital destaca que a produção destes trabalhos, ainda no segundo período acadêmico, contribui para o portifólio dos alunos. \"Isso juda na formação de jornalista e publicitário\", enfatiza. Para Diego, participar dos dois lados é sempre um aprendizado. \"Estar no júri oferece uma percepção mais ampla, principalmente da expectativa dos professores em avaliar o resultado\", observa.<br><br>Anderson Barreto, o maestro de toda essa festa, fala das realizações pessoais e profissionais com as webséries. \"Os alunos consomem bastante audiovisual e são confrontados a fazer uma produção de grande porte. Eu me realizo quando vejo que eles estão trabalhando\", afirma. O professor acrescenta que para ele todos são o primeiro lugar porque acompanha o processo e sabe do dia a dia de cada grupo.<br><br>Além dos alunos que apresentaram seus trabalhos, a plateia teve rostos já conhecidos. Um deles era da estudante Juliana Marques, quinto período de Jornalismo, que já cursou a disciplina e foi ao auditório para assistir os novos projetos. Para ela uma das coisas que mais chamaram a atenção foi o investimento que os acadêmicos estão fazendo nos trabalhos. \"Cada edição tem ficado melhor que a anterior\", diz.</p><p>Depois da mostra, os alunos caem na mesma dúvida: dar continuidade ou não para os projetos. Para o festival é necessário apenas que o primeiro episódio seja produzido. Rafaela Barbosa, uma das roteiristas de Águas Turvas, pensa na possibilidade e diz que o grupo vencedor não descarta. \"Apesar das dificuldades, existem planos sim\", ela conclui.</p><p><strong>Junior Almeida – 3º período</strong></p></main>"
+  },
+  "date": "2018-12-01T11:30:07",
+  "date_gmt": "2018-12-01T13:30:07",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Episódios produzidos por universitários foram exibidos no campus Barra O grande dia chegou. Após meses de muita preparação e dedicação, os alunos dos cursos de Publicidade e Jornalismo apresentaram as webséries criadas ao longo do semestre. As produções estrearam, na última segunda-feira (26), em um evento realizado pela Universidade Veiga de Almeida (UVA), campus Barra. [&hellip;]</p>\n"
+  },
+  "featured_media": 2716,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2714"
+  },
+  "id": 2714,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/12/img_20181126_102327857_hdr.jpg?fit=4160%2C3120&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-HM",
+  "link": "https://agenciauvabarra.com/2018/12/01/uva-promove-festival-de-webseries/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T17:53:43",
+  "modified_gmt": "2019-01-26T19:53:43",
+  "ping_status": "open",
+  "slug": "uva-promove-festival-de-webseries",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    7763850,
+    648221465,
+    3858076,
+    655515209,
+    655515224,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA promove festival de webséries"
+  },
+  "type": "post"
+}

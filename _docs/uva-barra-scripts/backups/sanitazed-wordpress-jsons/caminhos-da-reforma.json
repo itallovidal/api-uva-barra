@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1202/revisions/3301",
+        "id": 3301
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1202"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1202",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1202/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1202"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1202",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1202",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    798
+  ],
+  "class_list": [
+    "post-1202",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-politica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>O primeiro domingo da Bienal é marcado por debate sobre a atual situação da política brasileira</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/09/picsart_09-03-08-10-21.jpg?resize=2500%2C1667&#038;ssl=1' alt='PicsArt_09-03-08.10.21' width='2500' height='1667' /><figcaption>Da esquerda para direita: Murillo de Aragão, Julia Duallibi, Jairo Nicolau e Alessandro Molon. Fotografia: Tayane Fernandes</figcaption></figure><p>No quarto dia da Bienal do Livro, a literatura deu espaço à política. O Café literário convidou o deputado Alessandro Molon, autor do livro Sistemas Eleitorais e cientista político Jairo Nicolau e Murillo de Aragão, também cientista político. O bate-papo, que teve como tema principal a reforma política, foi mediado por Julia Duallibi. O público pôde refletir sobre a atual situação da política brasileira, as próximas eleições, a corrupção no país, crise fiscal e crenças enraizadas sobre o assunto.</p><p>Quando a discussão é sobre política, é normal o senso comum de que “todo político é corrupto”, já que devido ao histórico do país e, inclusive, à situação atual – com a Lava Jato – a credibilidade é quase inexistente. Por isso, segundo Jairo Nicolau, a reforma de algumas leis poderia ser um meio para mudar essa imagem tão negativa da sociedade perante a democracia. “Devemos fazer uma reforma que vá às expectativas das pessoas. Devemos pensar em como levá-las para o mundo político sem serem contaminadas pela corrupção”.</p><p>Uma meta que se torna difícil de alcançar, principalmente quando uma grande parcela dos cidadãos considera política um assunto secundário. A maior reforma que a gente precisa é reforma do eleitor. “Enquanto não tratarmos a política com a sua devida importância, vamos continuar sendo menosprezados pelos políticos”, disse Murilo de Aragão. No entanto, esse não foi o único obstáculo citado durante a conversa. Murilo também citou a crise de representatividade que, segundo ele, prejudica a comunicação do Governo com a população, já que não há conversa entre os candidatos e muitos eleitore – na sua maioria moradores de comunidade – e, consequentemente, uma falta de conhecimento sobre os desejos e necessidades desses eleitores.</p><p>É para atender melhor a população no geral que uma reforma política seria a solução mais indicada. Entretanto, segundo Alessandro Molon, as atuais mudanças não estão sendo feitas para esse propósito. “No momento não está se discutido a reforma para a melhoria do cidadão, mas sim uma competição eleitoral. A reforma deve ser feita de maneira modesta, mas realista e consequente”. O deputado também abordou o tema das eleições de 2018, dizendo que é preciso manter um sistema proporcional e diminuir o número de distritos. Outro assunto discutido foi o fim de campanhas partidárias fora de ano eleitoral, com a justificativa de o momento de grave crise fiscal não é razoável gastar muito dinheiro com propaganda.</p><p>Tayane Fernandes, 6° período e Carolina Marinho, 4° período</p></main>"
+  },
+  "date": "2017-09-04T12:54:22",
+  "date_gmt": "2017-09-04T15:54:22",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O primeiro domingo da Bienal é marcado por debate sobre a atual situação da política brasileira No quarto dia da Bienal do Livro, a literatura deu espaço à política. O Café literário convidou o deputado Alessandro Molon, autor do livro Sistemas Eleitorais e cientista político Jairo Nicolau e Murillo de Aragão, também cientista político. O [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1202"
+  },
+  "id": 1202,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-jo",
+  "link": "https://agenciauvabarra.com/2017/09/04/caminhos-da-reforma/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:35:52",
+  "modified_gmt": "2019-02-28T19:35:52",
+  "ping_status": "open",
+  "slug": "caminhos-da-reforma",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Caminhos da reforma"
+  },
+  "type": "post"
+}

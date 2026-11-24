@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4072/revisions/4102",
+        "id": 4102
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4072"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4072",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4072/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4072"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4076"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4072",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4072",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2432
+  ],
+  "class_list": [
+    "post-4072",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-teatro",
+    "tag-stand-up",
+    "tag-stand-up-feminino"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Stand up feminino se apresenta no shopping Via Parque</em></p><p>O projeto “Comédia das Patroas” fez sua primeira apresentação nesta sexta-feira, (10/05), e contou com seis nomes do stand up feminino no elenco: Alexandra Dias, Ana Paula Schneider, Fabi Dias, Babu Carreira, Michelle Ferrucio e Priscila Nobre na Livraria Leitura, na Barra da Tijuca.</p><p>Falando sobre relacionamentos, família, traição e futebol, as comediantes mostram que podem estar no mesmo lugar que os homens e fazer humor de qualidade. Para Michelle Ferrugo esse projeto é importante para mostrar que a cena não é só masculina. “90% dos elencos são de homens, quando fazemos algo totalmente feminino nós estamos afirmando que também somos boas e tão competente quanto eles”, conta.</p><p>Uma oportunidade de desmistificar que mulheres só podem fazer papéis que reforcem estereótipos ou personagens com poucas falas. A comédia é um gênero que ajuda, através do humor, a trabalhar aspectos importantes que saem do senso comum, como o destaque dado ao corpo da mulher ou que o humor feminino só é bom quando masculinizado.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-13-at-14.53.26-1.jpeg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\"/><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-13-at-14.55.13-1.jpeg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"/><figcaption></figcaption></figure><p>.</p><blockquote><p> “Nós estamos numa situação tão inflamada de empoderamento em tantas vertentes, por que não fazer comédia também?” </p><cite>&#8211; Alexandra Dias</cite></blockquote><p>E apesar das dificuldades, elas vêm ganhando o mercado da comédia. “Há dois anos éramos quatro, hoje somos 18 no Rio de Janeiro. E fazendo um evento assim, nós divulgamos cada vez mais o nosso trabalho”, explica Fabi Dias. Projetos como esse servem como exemplo e emporedamento para outras mulheres que estão começando ou que querem começar a carreira.</p><p><strong>Ana Beatriz Bernardo &#8211; 7º período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-05-13T21:29:52",
+  "date_gmt": "2019-05-14T00:29:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Stand up feminino se apresenta no shopping Via Parque O projeto “Comédia das Patroas” fez sua primeira apresentação nesta sexta- feira, (10/05), e contou com seis nomes do stand up feminino no elenco: Alexandra Dias, Ana Paula Schneider, Fabi Dias, Babu Carreira, Michelle Ferrucio e Priscila Nobre na Livraria Leitura, na Barra da Tijuca. Falando [&hellip;]</p>\n"
+  },
+  "featured_media": 4076,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4072"
+  },
+  "id": 4072,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/whatsapp-image-2019-05-13-at-14.53.26-1.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-13G",
+  "link": "https://agenciauvabarra.com/2019/05/13/mulheres-em-cena/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-14T19:31:58",
+  "modified_gmt": "2019-05-14T22:31:58",
+  "ping_status": "open",
+  "slug": "mulheres-em-cena",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    171360,
+    679429250
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Mulheres em cena"
+  },
+  "type": "post"
+}

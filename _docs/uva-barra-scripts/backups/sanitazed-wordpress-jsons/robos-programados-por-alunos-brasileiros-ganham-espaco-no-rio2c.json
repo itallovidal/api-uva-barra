@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3930/revisions/3965",
+        "id": 3965
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3930"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3930",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3930/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3930"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3941"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3930",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3930",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-3930",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-rio2c",
+    "tag-robotica",
+    "tag-robocup-brasil",
+    "tag-robocup-federation"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>No último dia do Rio2C, a Petrobras, juntamente com a RoboCup, promoveu um estande para realizar uma demonstração de robôs com três modalidades que fazem parte da Competição Brasileira de Robótica</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/1-2.jpg?resize=4896%2C3672&#038;ssl=1' alt='Troféus de robótica conquistados pelos alunos do Instituto Federal, de Volta Redonda' width='4896' height='3672' /><figcaption>Troféus de robótica conquistados pelos alunos do Instituto Federal, de Volta Redonda &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/3-2.jpg?resize=4896%2C3672&#038;ssl=1' alt='Robô NAO' width='4896' height='3672' /><figcaption>Robô NAO &#8211; Foto: Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/4-1.jpg?resize=4896%2C3672&#038;ssl=1' alt='Robôs NAOs utilizados na demonstração do estande no Rio2C' width='4896' height='3672' /><figcaption>Robôs NAOs utilizados na demonstração do estande no Rio2C &#8211; Gabriel Torres</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/5.jpg?resize=4896%2C3672&#038;ssl=1' alt='Estande destaca a Competição Brasileira de Robótica' width='4896' height='3672' /><figcaption>Estande destaca a Competição Brasileira de Robótica &#8211; Gabriel Torres</figcaption></figure><p>A RoboCup Federation é uma organização internacional que divulga a ciência e a tecnologia no campo da robótica, bem como a inteligência artificial. Segundo Cristiane Pelisolli Cabral, uma das oito representantes da RoboCup Brasil, além do trabalho de divulgação, a organização também promove eventos como mostra científica e competições.</p><p>No Brasil, o Comitê existe há 15 anos. Eles são responsáveis pela realização da Competição Brasileira de Robótica, da Mostra Nacional de Robótica e da Olimpíada Brasileira de Robótica, eventos que acontecem uma vez por ano. “A gente tem muitos alunos, tanto de ensino fundamental, médio e superior. Só na Olimpíada Brasileira de Robótica, que não inclui os alunos de ensino superior, a gente tem mais de 4 mil equipes e 11 mil alunos participando”, diz Cristiane.</p><p>Thaís da Silva é uma dessas alunas. Ela faz parte da equipe Jaguar, que se localiza no Instituto Federal em Volta Redonda, no Rio de Janeiro. Thaís destaca um dos robôs, chamado NAO, e explica que ele é programado para jogar futebol, sendo totalmente autônomo no campo. “Nós fazemos tanto a logística de jogo quanto a programação, para que ele reconheça a bola em vários lugares no campo e chegue até ela. Se ele cair, tem que levantar sozinho”, diz.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/2-2.jpg?resize=425%2C318&#038;ssl=1' alt='Robô NAO foi programado por alunos de robótica' width='425' height='318' /><figcaption>Robô NAO foi programado por alunos de robótica &#8211; Foto: Gabriel Torres</figcaption></figure><p>O grupo do Instituto Federal presente na demonstração no Rio2C possuía diversas meninas, o que, para Cristiane Pelisolli Cabral, é uma característica interessante, pois existe um senso comum que pensa que a tecnologia não é para mulheres. Ela também comenta que, na área, existem muitas profissionais que se destacam pela qualidade do trabalho. “Nós trabalhamos com isso porque gostamos. A gente vê futuro nessa área da robótica e tecnologia. Algo que muita gente achava que não poderia acontecer no momento, mas a gente mostra que isso está evoluindo”, diz a aluna Thaís.</p><p>Evolução gera resultado. Cristiane destaca que alguns alunos presentes na mostra já venceram as competições brasileiras de robótica, representaram mais de uma vez o Brasil na RoboCup Mundial e, inclusive, já venceram em algumas modalidades. Ela diz que isso é importante ressaltar porque as pessoas têm a ideia de que o Brasil não vai bem. “Essa coisa da gente precisar resolver problema em menos tempo, com menos dinheiro, desenvolve uma habilidade extra nos programadores brasileiros, que são muito valorizados fora do país. Nós somos muito bons”.</p><p>Veja mais sobre o estande no vídeo abaixo:</p><figure><iframe src='https://www.youtube.com/embed/oiW5-Trfnpc?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo do estande no Rio2C' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Gabriel Torres &#8211; 5º período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-30T14:07:28",
+  "date_gmt": "2019-04-30T17:07:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No último dia do Rio2C, a Petrobras, juntamente com a RoboCup, promoveu um estande para realizar uma demonstração de robôs com três modalidades que fazem parte da Competição Brasileira de Robótica A RoboCup Federation é uma organização internacional que divulga a ciência e a tecnologia no campo da robótica, bem como a inteligência artificial. Segundo [&hellip;]</p>\n"
+  },
+  "featured_media": 3941,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3930"
+  },
+  "id": 3930,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/3-2.jpg?fit=4896%2C3672&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-11o",
+  "link": "https://agenciauvabarra.com/2019/04/30/robos-programados-por-alunos-brasileiros-ganham-espaco-no-rio2c/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-30T16:04:32",
+  "modified_gmt": "2019-04-30T19:04:32",
+  "ping_status": "open",
+  "slug": "robos-programados-por-alunos-brasileiros-ganham-espaco-no-rio2c",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    604292533,
+    70135,
+    678248980,
+    120182360
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Robôs programados por alunos brasileiros ganham espaço no Rio2C"
+  },
+  "type": "post"
+}

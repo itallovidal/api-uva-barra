@@ -1,0 +1,156 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1388/revisions/3001",
+        "id": 3001
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1388"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1388",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1388/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1388"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1388",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1388",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    7114
+  ],
+  "class_list": [
+    "post-1388",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-sociedade",
+    "tag-projetodiversidade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Doação de cabelo é um ato de amor em prol do outro</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/maristela-foto-4.png?resize=955%2C535&amp;ssl=1' alt='Maristela - Foto 4' width='955' height='535' /><figcaption>Aluna Bianca Rocha, corta seus longos cabelos, promovendo a boa ação na campanha Mexa-se por um fio de solidariedade. Foto: Bruno Wenderroscky</figcaption></figure><p>Doar de si ao outro, para quem participa da campanha, não é mera força de expressão. Por reconhecer que a doação é não apenas um ato de solidariedade, mas também uma atitude que colabora para a disseminação de valores humanos e éticos de que o mundo anda tão carente, a II Feira de Práticas Sustentáveis da UVA abriu espaço também para um dos estandes que teve maior visibilidade durante o evento: o de doação de cabelo. A campanha, chamada “Mexa-se por um Fio de Solidariedade”, visa a doação de cabelos para a confecção de perucas para crianças, jovens e adultos com câncer ou que sofreram algum tipo de doença e perderam seus cabelos.</p><p>A sócia e fundadora desse projeto, Mireille Pannett, 70 anos, viúva de um inglês, explica o motivo que a levou a criá-lo. “A campanha surgiu a partir do momento que meu marido teve câncer com 46 anos, e no hospital na Inglaterra, onde ele se tratou, vi uma criança que passava pelo tratamento de quimioterapia sem cabelos”. A cena tocou Mireille profundamente, fazendo com que ela começasse a doar seu próprio cabelo e resolvesse fundar a Together For Peace, em 2008, com a função de receber cabelos para fazer perucas com pessoas com câncer.</p><p>A ONG recebe doações de pessoas de várias idades. Mireille acredita que estar dentro da universidade e mostrar seu trabalho é muito importante, porque por meio dessa ação podem surgir pessoas dispostas a doar. Os cabelos arrecadados na campanha serão encaminhados aos profissionais da Jakbell, que capacitam jovens e adultos que queiram investir na profissão de cabeleireiro e peruqueiro.</p><p>A iniciativa acabou conscientizando alunas da universidade, criando um espírito de solidariedade, como foi o caso de Bianca Rocha Lage, 19 anos. Ela afirma que sempre sentiu o desejo de doar, mas por receio e falta de informação, nunca levou adiante esse propósito. “Eu não estava pensando em cortar os cabelos agora, mas vendo o projeto de perto, veio essa oportunidade e eu acabei criando coragem”, alegra-se Bianca.</p></main>"
+  },
+  "date": "2017-10-02T14:40:30",
+  "date_gmt": "2017-10-02T17:40:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Doação de cabelo é um ato de amor em prol do outro Doar de si ao outro, para quem participa da campanha, não é mera força de expressão. Por reconhecer que a doação é não apenas um ato de solidariedade, mas também uma atitude que colabora para a disseminação de valores humanos e éticos de [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1388"
+  },
+  "id": 1388,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-mo",
+  "link": "https://agenciauvabarra.com/2017/10/02/projetodiversidade-a-solidariedade-por-um-fio/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T10:56:00",
+  "modified_gmt": "2019-01-31T12:56:00",
+  "ping_status": "open",
+  "slug": "projetodiversidade-a-solidariedade-por-um-fio",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056637
+  ],
+  "template": "",
+  "title": {
+    "rendered": "#ProjetoDiversidade: A solidariedade por um fio"
+  },
+  "type": "post"
+}

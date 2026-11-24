@@ -1,0 +1,161 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13071/revisions/13087",
+        "id": 13087
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13071"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13071",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13071/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13071"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13079"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13071",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13071",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    72064
+  ],
+  "class_list": [
+    "post-13071",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-saude",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Dados apontam um crescimento no número de mamografia e ressaltam a importância do diagnóstico na fase inicial</em></p><p>Todos os anos o mês de outubro é marcado por campanhas de conscientização do câncer de mama e para lembrar da importância da prevenção, a cidade do Rio de Janeiro ilumina o Cristo Redentor com luzes rosas.</p><p>Segundo um levantamento feito pela Fundação Instituto de Pesquisa e Estudos de Diagnóstico por Imagem, FIDI, houve um aumento de 26% nos exames de mamografia nos primeiros semestres de 2022. O câncer de mama ocorre em uma a cada 12 mulheres no Brasil.</p><p>A professora e coordenadora do curso de Enfermagem na UVA Barra, Lidiane Reis, sinaliza que todas as mulheres devem ficar atentas ao aparecimento de nódulos, caroços na região mamária, na axila, pescoço e mudanças na pele da mama. “O diagnóstico precoce desse câncer aumenta as chances de um tratamento muito mais eficaz”, diz a professora.</p><p>Além do autoexame é preciso acompanhamento com profissional da saúde. Para a especialista, os nódulos só são detectados quando estão com mais de três centímetros, logo, as mulheres devem também fazer a mamografia, assim terão mais chances de identificar o câncer no início.</p><p><em>A coordenadora do curso de Enfermagem explica a relevância da Mamografia.</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/whatsapp-image-2022-10-10-at-17.51.10.jpeg?resize=958%2C1280&amp;ssl=1\" alt=\"\" width=\"958\" height=\"1280\"><figcaption>A coordenadora diz que o objetivo principal das campanhas de Outubro Rosa são voltadas para conversar sobre a ajuda médica e ressaltar a mamografia.(Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/whatsapp-image-2022-10-10-at-17.50.20.jpeg?resize=1280%2C960&amp;ssl=1\" alt=\"\" width=\"1280\" height=\"960\"><figcaption>Flávia é grata por todo auxílio que a irmã lhe deu e agora vê a vida com mais amor. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/whatsapp-image-2022-10-10-at-18.55.17.jpeg?ssl=1\" alt=\"\" width=\"958\" height=\"1280\"><figcaption>Fabiana pensou nos filhos durante o tratamento. (Foto: Arquivo pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/whatsapp-image-2022-10-10-at-18.53.43.jpeg?resize=422%2C314&amp;ssl=1\" alt=\"\" width=\"422\" height=\"314\"><figcaption>Maria Lucia enfrentou o câncer de Mama com ajuda e apoio da família. (Foto: Arquivo pessoal)</figcaption></figure><p>A pedagoga Flávia do Carmo recebeu o diagnóstico aos 33 anos. Devido ao histórico na família, ela sempre fez o autoexame por causa da mãe que teve a doença e faleceu posteriormente. “Eu só pensava que iria morrer, mas o que me deu forças foi a minha irmã Patrícia que é a única família que tenho. E foi nela que eu pensei e resolvi lutar e não desistir para poder ficar boa”, relata.</p><p>Segundo Flávia, a irmã saiu do Rio e foi para São Paulo para ajudá-la. Nada parou a pedagoga que decidiu voltar a estudar e chegou a passar em dois concursos públicos.</p><p><strong>Flávia afirma que Câncer de Mama não é sinônimo de morte. Ouça no áudio abaixo.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1358843530&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"A coordenadora do curso de Enfermagem explica a importância da Mamografia by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Assim como Flávia, Fabiana Martins, autônoma e dona de casa teve câncer de mama e fez mastectomia. Ela fala que o apoio da família ajuda muito na hora de enfrentar todo o processo. “A minha força foram os meus dois filhos, sendo um deles portador especial dependente de mim em várias situações. Ele tem uma doença rara, genética. E eu não me via longe deles”, conta Martins.</p><p><strong>Fabiana Martins fala como descobriu que estava com Câncer de Mama</strong>.</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1358842630&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Flávia afirma que Câncer de Mama não é sinônimo de morte by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p><br>O acolhimento e o amor são as principais vigas de sustentação, ainda conforme a autônoma que está em acompanhamento. Fabiana confessa que enxerga a vida com uma outra dimensão. “Você deve aproveitar a vida a cada instante, a cada momento vivido, aprender com as próprias falhas e agradecer a Deus todos os dias”, ressalta.</p><blockquote><p>“O apoio familiar é fundamental, se não for, melhor dizendo, a chave principal de todo o processo”.</p><cite>Fabiana Martins</cite></blockquote><p>Pesquisa feita pela Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama, FEMAMA, aponta que 95% dos casos de câncer de mama têm cura quando tratados na fase inicial da doença. Os exames anuais de mamografia são recomendados para as mulheres a partir dos 40 anos. </p><p>Foi devido aos exames de rotina que Maria Lucia de Oliveira Leiras, auxiliar de Enfermagem, soube que estava com câncer. A aposentada contou que teve momentos difíceis, mas graças ao apoio de família e fé conseguiu superar. “Primeiramente busque ajuda médica, ore, confie em Deus. Seja forte, tenha esperança e se mantenha positiva, você vai vencer”, aconselha.</p><p><em>Sabrina Marques – 4º período</em></p></main>"
+  },
+  "date": "2022-10-10T19:02:05",
+  "date_gmt": "2022-10-10T22:02:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Todos os anos o mês de outubro é marcado por campanhas de conscientização do câncer de mama e para lembrar da importância da prevenção, a cidade do Rio de Janeiro ilumina o Cristo Redentor com luzes rosas. </p>\n"
+  },
+  "featured_media": 13079,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13071"
+  },
+  "id": 13071,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/whatsapp-image-2022-10-10-at-17.50.20.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3oP",
+  "link": "https://agenciauvabarra.com/2022/10/10/as-campanhas-do-outubro-rosa-ajudam-mulheres-a-descobrirem-o-cancer-de-mama/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-10T19:04:41",
+  "modified_gmt": "2022-10-10T22:04:41",
+  "ping_status": "open",
+  "slug": "as-campanhas-do-outubro-rosa-ajudam-mulheres-a-descobrirem-o-cancer-de-mama",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "As campanhas do Outubro Rosa ajudam mulheres a descobrirem o Câncer de Mama"
+  },
+  "type": "post"
+}

@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12491/revisions/12498",
+        "id": 12498
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12491"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12491",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12491/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12491"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12497"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12491",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12491",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    9838342,
+    7114
+  ],
+  "class_list": [
+    "post-12491",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-serie-documental",
+    "category-sociedade",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A produção combate o ageísmo</em></p><p>De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), o número de idosos no Brasil em 2022 chegou a 39,5 milhões. O estudo também aponta que o país terá mais idosos do que jovens em 2060.</p><p>Com o aumento da expectativa de vida e do protagonismo desta faixa etária, a Agência UVA Barra, em parceria com a disciplina de Documentário Jornalístico lançam a série documental \"Envelhecer\". Ao longo de quatro episódios, serão apresentados temas como: sociabilidade, estereótipos e as relações corporais da pessoa idosa.</p><p>No primeiro episódio intitulado \"Envelhecimento e Sociedade\", o grupo composto por Breno Monteiro, Bruna Costa, Fellipe Casimiro, Maria Clara Lisboa, Thaís Ximenes, Vinícius Alves e Vinicius Zakhm, apresenta a temática do envelhecimento a partir da visão dos idosos e especialistas. O episódio vai destacar que não existe uma verdade absoluta sobre a velhice e que cada um vive uma experiência diferente nesta etapa.</p><p>A produção tem supervisão do professor Anderson Barreto. </p><p><strong>Veja abaixo!</strong></p><figure><img src=\"https://www.youtube.com/embed/ZDm791B9iz4\" alt=\"Vídeo do episódio Envelhecimento e Sociedade\" width=\"640\" height=\"360\"><figcaption>Pedro Amorim – 7º período</figcaption></figure></main>"
+  },
+  "date": "2022-08-09T16:00:49",
+  "date_gmt": "2022-08-09T19:00:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), o número de idosos no Brasil em 2022 chegou a 39,5 milhões. O estudo também aponta que o país terá mais idosos do que jovens em 2060.</p>\n"
+  },
+  "featured_media": 12497,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12491"
+  },
+  "id": 12491,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-09-at-16.03.37-e1660071835312.jpeg?fit=647%2C718&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3ft",
+  "link": "https://agenciauvabarra.com/2022/08/09/envelhecimento-e-o-tema-da-primeira-serie-documental-realizada-por-alunos-do-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-09T16:15:30",
+  "modified_gmt": "2022-08-09T19:15:30",
+  "ping_status": "open",
+  "slug": "envelhecimento-e-o-tema-da-primeira-serie-documental-realizada-por-alunos-do-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Envelhecimento é o tema da primeira série documental realizada por alunos do campus Barra"
+  },
+  "type": "post"
+}

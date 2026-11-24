@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1398/revisions/2995",
+        "id": 2995
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1398"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1398",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 18,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1398/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1398"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1398",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1398",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    15243,
+    254332
+  ],
+  "class_list": [
+    "post-1398",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-meio-ambiente",
+    "category-sustentabilidade",
+    "tag-projetodiversidade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>UVA promove workshop na Feira de Sustentabilidade com o objetivo de transformar lixo em arte</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/img-20170926-wa0015.jpg?resize=1280%2C960&amp;ssl=1' alt='IMG-20170926-WA0015' width='1280' height='960' /><figcaption>Insira uma legenda</figcaption></figure><p>Para muitos, os bens de consumo encerram seu ciclo ao serem promovidos à categoria de lixo, mas para a arteterapeuta Elenice Monteiro, diretora do Espaço de Arteterapia Elenice Monteiro, o lixo é o estágio inicial para um processo de autoconhecimento e desenvolvimento pessoal: a arteterapia. Ela conduziu o workshop CONSIEN-CIDADE, como parte das atividades da II Feira de Práticas Sustentáveis/UVA. </p><p>Na ocasião, os participantes tiveram a oportunidade de conhecer na prática o conceito da arteterapia, bem como a abordagem de Elenice sobre o reaproveitamento do lixo, ao construírem uma maquete urbana utilizando cápsulas de café expresso, garrafas pet, pratos de isopor, entre outros itens comumente descartados no cotidiano das residências urbanas.</p><p>Este modelo de pensamento, segundo a Associação de Arteterapia do Rio de Janeiro, baseia-se na crença de que o processo criativo envolvido na atividade artística e terapêutica é enriquecedor da qualidade de vida das pessoas. Mas Elenice, formada pelo Centro de Arteterapia Danielle Bittencourt, vai além, ao propor o lixo como matéria-prima a ser utilizada na atividade artística. \"Pensar a questão do lixo não é só ter a consciência com a relação à cidade, mas sobre nós mesmos, para o nosso conhecimento\".</p><p>Ao fazer uso do lixo na produção artística, Elenice acredita ser possível despertar questionamentos no indivíduo acerca do impacto causado pelo lixo que ele produz. E, por meio do processo terapêutico, a experiência enriquecedora o leva a considerar sua individualidade em relação ao coletivo, conduzindo-o a uma reflexão ética de suas ações no que diz respeito ao espaço urbano que ele quer construir para si e para seus semelhantes. \"Nosso trabalho é um trabalho de formiguinha: um faz, o outro vai vendo pelo exemplo, vai achando interessante e vai contagiando\", afirma Elenice.</p></main>"
+  },
+  "date": "2017-10-02T15:03:47",
+  "date_gmt": "2017-10-02T18:03:47",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>UVA promove workshop na Feira de Sustentabilidade com o objetivo de transformar lixo em arte Para muitos, os bens de consumo encerram seu ciclo ao serem promovidos à categoria de lixo, mas para a arteterapeuta Elenice Monteiro, diretora do Espaço de Arteterapia Elenice Monteiro, o lixo é o estágio inicial para um processo de autoconhecimento [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1398"
+  },
+  "id": 1398,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-my",
+  "link": "https://agenciauvabarra.com/2017/10/02/projetodiversidade-a-etica-no-lixo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T18:13:46",
+  "modified_gmt": "2019-01-26T20:13:46",
+  "ping_status": "open",
+  "slug": "projetodiversidade-a-etica-no-lixo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    767056637
+  ],
+  "template": "",
+  "title": {
+    "rendered": "#ProjetoDiversidade: A ética no lixo"
+  },
+  "type": "post"
+}

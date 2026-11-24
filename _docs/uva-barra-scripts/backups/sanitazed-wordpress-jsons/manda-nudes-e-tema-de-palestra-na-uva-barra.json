@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2147/revisions/3177",
+        "id": 3177
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2147"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2147",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2147/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2147"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2148"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2147",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2147",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    7114
+  ],
+  "class_list": [
+    "post-2147",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "category-sociedade",
+    "tag-palestra",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A exposição da imagem corpórea entre em debate no meio universitário</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-23-at-14-24-45-e1535394836794.jpeg?resize=784%2C441&amp;ssl=1\" alt=\"WhatsApp Image 2018-08-23 at 14.24.45\" width=\"784\" height=\"441\" /><figcaption>Foto: Catarina Casini</figcaption></figure><p>O nude é um fetiche muito mais na expectativa que o ato desperta do que realmente na troca de fotos. O assunto tão presente entre os jovens também é fruto da pesquisa do professor Eduardo Bianchi, que na última quinta-feira (23/08), abordou o tema “A imagética autopornográfica dos nudes”, na Universidade Veiga de Almeida (UVA), campus Barra. Entre os presentes estavam os alunos do curso de Comunicação Social.</p><p>A conversa começou com um questionamento: quem já mandou uma foto nu? O silêncio do auditório é explicado pelo peso e vergonha que o corpo tem na sociedade contemporânea. O palestrante acredita que as pessoas se inibem com o que está sendo exposto e ao se sentirem inibidas não confessam o que fazem. “O olhar do outro acaba julgando o nosso comportamento”, afirma. Ele também comenta que apesar da insegurança sobre o próprio físico, existe a curiosidade da imagem de um outro indivíduo. Para a estudante de publicidade, Thamyris Sampaio, não se deve lidar com o nú de uma forma velada. “O nude é uma representação de nós para o mundo”, diz.</p><p>A exploração do corpo é constantemente atribuída às curvas, pele e exposição e é por isso que a estudante de jornalismo Júlia Madeira acha que esse tema lida um pouco com as críticas. “O nosso corpo apesar de ser nosso, acabam colocando opinião sobre ele”, garante. Para o docente, isso ocorre pois o desnudo estimula o desejo, a atração e é a pura e simples construção narrativa do eu. “Nossos corpos são as nossas matérias-primas do prazer no qual quem tem a informação tem o poder”, conclui.</p><p><strong>Graziela Andrade – 5º período e Jamille Ribeiro – 4º período</strong></p></main>"
+  },
+  "date": "2018-08-27T15:28:20",
+  "date_gmt": "2018-08-27T18:28:20",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A exposição da imagem corpórea entre em debate no meio universitário O nude é um fetiche muito mais na expectativa que o ato desperta do que realmente na troca de fotos. O assunto tão presente entre os jovens também é fruto da pesquisa do professor Eduardo Bianchi, que na última quinta-feira (23/08),&nbsp; abordou o tema [&hellip;]</p>\n"
+  },
+  "featured_media": 2148,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2147"
+  },
+  "id": 2147,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/whatsapp-image-2018-08-23-at-14-24-45-e1535394836794.jpeg?fit=784%2C441&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-yD",
+  "link": "https://agenciauvabarra.com/2018/08/27/manda-nudes-e-tema-de-palestra-na-uva-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T20:57:27",
+  "modified_gmt": "2019-02-25T23:57:27",
+  "ping_status": "open",
+  "slug": "manda-nudes-e-tema-de-palestra-na-uva-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    410667,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "“Manda Nudes” é tema de palestra na UVA Barra"
+  },
+  "type": "post"
+}

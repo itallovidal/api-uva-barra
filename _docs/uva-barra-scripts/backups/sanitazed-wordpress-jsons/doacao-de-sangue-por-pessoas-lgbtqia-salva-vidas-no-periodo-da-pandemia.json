@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9751/revisions/9759",
+        "id": 9759
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9751"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9751",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9751/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9751"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9758"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9751",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9751",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-9751",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>STF derruba restrição para doação de sangue por considerar a norma inconstitucional</em></p><p>Em meio ao colapso sanitário motivado pela pandemia de Covid-19, a população brasileira se viu na necessidade de permanecer em casa. Em vista disso, campanhas para doação de sangue receberam menor visibilidade, o que fez com que os estoques dos bancos de sangue fossem reduzidos, ou quase zerados, nos hemocentros por todo país.<br><br>De acordo com o DataSUS, entre janeiro e novembro de 2020, as coletas de sangue foram reduzidas em quase 10% em relação ao mesmo período em 2019. Com isso, discussões que, até então estavam adormecidas para muitos, vieram à tona na sociedade e nas instituições, como a doação de sangue por parte de pessoas LGBTQIA+.</p><p>Até o dia 8 de maio de 2020, a Anvisa e o Ministério da Saúde impediam que homens doassem sangue quando afirmavam ter praticado relações sexuais com outros homens nos últimos 12 meses de antecedência a coleta, por conta da taxa de infecção por Aids/HIV ser maior entre homens homossexuais e bissexuais. De acordo com o STF, as normas eram inconstitucionais e preconceituosas. Por isso, há pouco mais de um ano, o tribunal derrubou, por sete votos a quatro, a restrição de doação de sangue por homens gays, transexuais, travestis e pansexuais.</p><p>A decisão do Supremo vai de acordo com o argumento de que não há grupo de risco para a doença, e sim comportamentos de risco para o contágio. A reversão da norma garantiu à população LGBTQIA+ o direito de praticar a solidariedade e mais uma vitória na batalha contra a discriminação.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/matheus-cardoso.jpg?resize=960%2C1280&amp;ssl=1\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Certamente essa decisão do Supremo me deixa muito mais esperançoso, me dá um gás para respirar, conta o jovem sobre a relevância da decisão da justiça. Foto: Arquivo pessoal</figcaption></figure><p>Matheus Cardoso, influenciador digital e ativista em direitos humanos, conta que ajudar o próximo com o próprio sangue foi marcante: Quando eu consegui fazer a primeira doação foi emocionante! Eu pude sentir o que muitas pessoas quando doam sentem: que o nosso sangue está salvando a vida de outras pessoas, relembrou o influencer. Matheus foi um dos primeiros jovens gays a doar sangue no Brasil, após a decisão do Supremo Tribunal Federal.</p><p>O julgamento da corte veio após quase 2 meses da primeira morte registrada por coronavírus no Brasil. Além de salvar até quatro vidas, o ato de doar sangue em um dos momentos mais críticos para os estoques, atestou a sensibilidade daqueles que além de se proteger, resolveram ajudar os outros. Isso inclui a doação de plasma para pacientes infectados pela Covid-19 em pacientes em estado grave.</p><blockquote><p>A resolução ter caído em meio a pandemia, fez com que a gente sentisse a importância da nossa contribuição social enquanto comunidade LGBTQIA+ e fez com que a gente conseguisse, de fato, ajudar pessoas que tanto precisam nesse momento que tem sido tão difícil para o país.</p><cite><em>Matheus Cardoso</em></cite></blockquote><p>[</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/soniarlei-leite.jpg?fit=576%2C562&amp;ssl=1\" alt=\"\" width=\"576\" height=\"562\"><figcaption>Soniárlei Leite tem vasta experiência em Direito Constitucional e coordena o curso de graduação em Direito na Universidade Veiga de Almeida, na Barra da Tijuca. Foto: Arquivo pessoa</figcaption></figure><p>Soniárlei Leite, coordenador do curso de Direito da UVA Barra e membro da Comissão de Direito Constitucional da OAB/RJ, afirma que o preconceito foi concebido antes de haver testes para HIV e que a decisão veio em um momento crítico para os estoques de sangue: Era uma discriminação que atentava à dignidade humana. Felizmente, isso mudou com a decisão do Supremo. Essa decisão veio em boa hora, especificamente pelos níveis de estoque de sangue muito baixos no Brasil, disse o advogado.<br></p><p>Soniárlei reforça que se uma pessoa ou um órgão se recusar a receber o sangue de um doador por conta da orientação sexual, providências podem ser tomadas a fim de garantir o cumprimento da sentença do plenário e dos preceitos da Constituição: A decisão do STF é obrigatória. Não se aceita qualquer justificativa quanto ao fato de não terem sido revogadas aquelas normas, especialmente as da Anvisa, porque isso é uma questão de dignidade humana, que é o princípio constitucional, declara.</p><p>Ouça o áudio de Soniárlei Leite com orientações para pessoas LGBTQIA+ que possam ter o sangue recusado, por discriminação.</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1079986114&amp;auto_play=true&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Com a derrubada da norma que restringia a doação de sangue por homossexuais, Matheus Cardoso afirma que se sente ainda mais motivado a continuar a luta por uma sociedade mais justa e igualitária. O jovem afirma que a decisão o fez acreditar que as pautas pela garantia dos direitos LGBTQIA+ irão muito mais além: Qualquer vitória que a gente tenha, por mais que seja pequeno, por mais que seja mínimo, é um passo que a gente avança. E todo passo que a gente avança, é uma conquista, declara o influenciador digital.</p><p>Matheus Cardoso convida todos a doarem sangue e contribuírem com o banco de sangue da região de Cabo Frio</p><figure><div><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/im983F5aydg?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p></p><p>Na Semana do Orgulho LGBTQIA+ é preciso evidenciar não apenas a existência, mas o desejo de pertencimento à sociedade. O direito à solidariedade é fundamental e deve ser encarado como tal para o convívio em uma sociedade mais democrática, pois parte do princípio que todos podem se solidarizar com o próximo, dando aquilo de mais vital que há: o sangue. Tornando-se assim parte de algo maior, coletivo e sem preconceitos.</p><p>Artur Lavinas – 3° período.</p><p>Duda Bortoloto– 3° período.</p></main>"
+  },
+  "date": "2021-07-02T19:14:24",
+  "date_gmt": "2021-07-02T22:14:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>STF derruba restrição para doação de sangue por considerar a norma inconstitucional Em meio ao colapso sanitário motivado pela pandemia de Covid-19, a população brasileira se viu na necessidade de permanecer em casa. Em vista disso, campanhas para doação de sangue receberam menor visibilidade, o que fez com que os estoques dos bancos de sangue [&hellip;]</p>\n"
+  },
+  "featured_media": 9758,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9751"
+  },
+  "id": 9751,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/capa-site-agencia-8.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2xh",
+  "link": "https://agenciauvabarra.com/2021/07/02/doacao-de-sangue-por-pessoas-lgbtqia-salva-vidas-no-periodo-da-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-02T19:14:24",
+  "modified_gmt": "2021-07-02T22:14:24",
+  "ping_status": "open",
+  "slug": "doacao-de-sangue-por-pessoas-lgbtqia-salva-vidas-no-periodo-da-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Doação de sangue por pessoas LGBTQIA+ salva vidas no período da pandemia"
+  },
+  "type": "post"
+}

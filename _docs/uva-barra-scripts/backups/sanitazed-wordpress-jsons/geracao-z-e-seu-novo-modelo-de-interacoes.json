@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18953/revisions/18964",
+        "id": 18964
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18953"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18953",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18953/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18953"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18956"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18953",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18953",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-18953",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional",
+    "tag-agencia-uva-barra",
+    "tag-critica-2",
+    "tag-podcast",
+    "tag-podserie",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A forma de se relacionar nunca esteve tão conectada e, ao mesmo tempo, tão frágil. Para a Geração Z, que cresceu entre as telas, os relacionamentos são atravessados pela lógica das redes sociais, tudo acontece rápido.</p><p>Pesquisas recentes reforçam essa mudança de comportamento. Segundo o estudo \"Settling Down: Romance in the Era of Gen Z\" (Yale Daily News, 2023), jovens dessa geração tendem a encarar relacionamentos de forma mais objetiva que as gerações anteriores, muitas vezes priorizando a liberdade pessoal.</p><p>Essa perspectiva dialoga com dados levantados pela CNN Brasil (2023), que mostram que, embora os millennials apareçam como os mais satisfeitos com a vida amorosa, a Geração Z busca relações menos convencionais, pautadas por autonomia e experimentação.</p><p>Criadores de conteúdo e jovens profissionais compartilham, no podcast Lugar de Fala, como vivenciam afetos, expectativas e pressões no cenário atual. A análise conta ainda com a participação da psicóloga Érika Lorrayne, que contextualiza os impactos emocionais e sociais desse novo modelo de se relacionar.</p><figure><iframe title=\"Spotify Embed: Lugar de Fala #01 - Geração Z e seu novo modelo de interações\" width=\"624\" height=\"351\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/659NeUWlo0w6dCTJgLUZAU/video?si=RzaFTQycTNawWD-y2gXwzQ\"></iframe></figure><p>Equipe Lugar de fala:</p><p>Ingrid Ponciano</p><p>Ana Clara Melle</p><p>Pedro Zille</p><p>Amanda Valadares</p><p>Equipe Agência UVA Barra:</p><p>Duda Nicolich – 2º Período</p><p>Carolina Alves – 4º Período</p></main>"
+  },
+  "date": "2025-09-03T17:33:02",
+  "date_gmt": "2025-09-03T20:33:02",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Geração Z busca relações menos convencionais, pautadas por autonomia e experimentação.</p>\n"
+  },
+  "featured_media": 18956,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18953"
+  },
+  "id": 18953,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/09/img_7258.jpeg?fit=828%2C464&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4VH",
+  "link": "https://agenciauvabarra.com/2025/09/03/geracao-z-e-seu-novo-modelo-de-interacoes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-09-04T13:56:59",
+  "modified_gmt": "2025-09-04T16:56:59",
+  "ping_status": "open",
+  "slug": "geracao-z-e-seu-novo-modelo-de-interacoes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    34939883,
+    1142,
+    712276378,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Lugar de Fala: Geração Z e seu novo modelo de interações"
+  },
+  "type": "post"
+}

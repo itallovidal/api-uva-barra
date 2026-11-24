@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13968/revisions/13973",
+        "id": 13973
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13968"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13968",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13968/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13968"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13972"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13968",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13968",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    15243,
+    9838342,
+    10207
+  ],
+  "class_list": [
+    "post-13968",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-meio-ambiente",
+    "category-serie-documental",
+    "category-turismo",
+    "tag-agencia-uva-barra",
+    "tag-lembrancas",
+    "tag-meioambiente",
+    "tag-passado",
+    "tag-sepetiba"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>“Sepetiba – Um mar de lembranças” apresenta a mudança ambiental que ocorreu na praia de Sepetiba, bairro localizado na zona oeste do Rio de Janeiro. Antes, uma orla muito frequentada por turistas, e agora, um ambiente completamente tomado pela lama.</p><p>O documentário traz depoimentos de antigos moradores da região, que compartilham lembranças de suas vidas naquela praia. Além disso, os entrevistados comentam sobre o atual abandono por parte do governo em relação ao bairro, relatando dificuldade de empregos, transportes e saneamento básico.</p><p>A produção da aluna de jornalismo, Anna Karolina Coutinho e das alunas do curso de Cinema, Larissa de Andrade e Nathália Soares, alerta para o descaso governamental com uma área que já foi um importante polo turístico da cidade do Rio de Janeiro</p><p><strong>Assista!</strong></p><figure><img src='https://www.youtube.com/embed/uMV77l0t2bo?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' alt='Vídeo do documentário Sepetiba – Um mar de lembranças' width='640' height='360'><figcaption>Documentário produzido para a disciplina de Videodocumentário, sob a supervisão do professor Anderson Barreto.</figcaption></figure></main>"
+  },
+  "date": "2023-01-11T11:00:00",
+  "date_gmt": "2023-01-11T14:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Sepetiba &#8211; Um mar de lembranças” apresenta a mudança ambiental que ocorreu na praia de Sepetiba, bairro localizado na zona oeste do Rio de Janeiro. Antes, uma orla muito frequentada por turistas, e agora, um ambiente completamente tomado pela lama.</p>\n"
+  },
+  "featured_media": 13972,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13968"
+  },
+  "id": 13968,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/01/captura-de-tela-12-2316978344-e1673386038907.png?fit=1366%2C612&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Di",
+  "link": "https://agenciauvabarra.com/2023/01/11/sepetiba-um-mar-de-lembrancas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-01-11T11:06:04",
+  "modified_gmt": "2023-01-11T14:06:04",
+  "ping_status": "open",
+  "slug": "sepetiba-um-mar-de-lembrancas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    111481,
+    1525968,
+    61055,
+    10972459
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Sepetiba: Um mar de lembranças"
+  },
+  "type": "post"
+}

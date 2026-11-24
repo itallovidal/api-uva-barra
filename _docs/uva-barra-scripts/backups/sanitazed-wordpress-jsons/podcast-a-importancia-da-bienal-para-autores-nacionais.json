@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10953/revisions/10957",
+        "id": 10957
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10953"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10953",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10953/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10953"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10956"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10953",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10953",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2860759,
+    2367,
+    2366,
+    14603,
+    7114
+  ],
+  "class_list": [
+    "post-10953",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-bienal-do-livro",
+    "category-cultura",
+    "category-eventos",
+    "category-jornalismo",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-riocentro",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: A importância da Bienal para autores nacionais \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/6FUUOgGrZ3Jfhy13lARsfw?si=9d70714825cd48c2&#038;utm_source=oembed\"></iframe></figure><p>A Bienal do Livro é um evento que reúne amantes da literatura em um espaço onde os livros são os personagens principais. Em sua 20ª edição, o seguinte questionamento foi levantado como tema principal do evento: “que histórias queremos contar a partir de agora?”.</p><p>Para falar sobre contação de histórias, precisamos dos contadores. Mais de 160 autores marcaram presença na Bienal deste ano. Neste episódio, abordamos a importância da Bienal para o mercado literário, principalmente para os autores em ascensão.</p><p>Para nos ajudar a abordar esse tema, contamos com a presença de Rita Carvalho, autora do livro “Autocuidado: O milagre que vem de dentro”, e Dhienefen Weiss Pothin, autora do livro “Sem aves, sem asas”, que revelaram as experiências que tiveram na Bienal do Livro Rio e compartilharam dicas para aqueles que sonham em, um dia, publicar um livro.</p><p><em>Maria Clara Lisboa — 6º período<br>Pedro Amorim — 5º período</em></p></main>"
+  },
+  "date": "2021-12-10T18:00:52",
+  "date_gmt": "2021-12-10T21:00:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Bienal do Livro é um evento que reúne amantes da literatura em um espaço onde os livros são os personagens principais. Em sua 20ª edição, o seguinte questionamento foi levantado como tema principal do evento: “que histórias queremos contar a partir de agora?”.</p>\n"
+  },
+  "featured_media": 10956,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10953"
+  },
+  "id": 10953,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/whatsapp-image-2021-12-10-at-16.42.48.jpeg?fit=761%2C764&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2QF",
+  "link": "https://agenciauvabarra.com/2021/12/10/podcast-a-importancia-da-bienal-para-autores-nacionais/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-12-10T18:00:52",
+  "modified_gmt": "2021-12-10T21:00:52",
+  "ping_status": "open",
+  "slug": "podcast-a-importancia-da-bienal-para-autores-nacionais",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    10031061,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: A importância da Bienal para autores nacionais"
+  },
+  "type": "post"
+}

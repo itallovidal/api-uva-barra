@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13136/revisions/13163",
+        "id": 13163
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13136"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13136",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13136/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13136"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13157"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13136",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13136",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    670411728,
+    72064,
+    268277
+  ],
+  "class_list": [
+    "post-13136",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-institucional-uva",
+    "category-saude",
+    "category-solidariedade",
+    "tag-agencia-uva-barra",
+    "tag-dia-mundial-do-doador-de-sangue",
+    "tag-doacao-de-sangue",
+    "tag-hemorio",
+    "tag-sangue",
+    "tag-saude-2",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Ação trouxe saúde e educação na comunidade acadêmica</em></p><p>O “Trote Solidário” marcou o campus Barra da Universidade Veiga de Almeida na última terça-feira, 11/10. A ação organizada pelo curso de Enfermagem em parceria com a Hemorio mobilizou mais de 90 bolsas de sangue em torno de 130 captações, através da comunidade interna e externa da região.</p><p>Os primeiros doadores do dia foram os alunos Bernardo Garcia, do 6º período de Engenharia de Computação, e Sarah Salles, do 2º período de Direito. Ter a oportunidade de salvar quatro vidas foi o fator decisivo que motivou os estudantes. Para Sarah, o ato é caracterizado como solidário, enquanto Bernardo interpreta como uma forma de apoio. “Como os estoques estão baixos, é preciso de uma ajuda. Não custa nada”, revelou Bernardo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio_bernardo.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"Bernardo tem o hábito de doar sangue, já é a sexta vez do universitário. (Foto: Pedro Amorim)\" width=\"1280\" height=\"853\" /><figcaption>Bernardo tem o hábito de doar sangue, já é a sexta vez do universitário. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/imagem-do-whatsapp-de-2022-10-14-as-14.41.10.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"Já é a segunda vez de Sarah na prática da transfusão. (Foto: Pedro Amorim)\" width=\"1280\" height=\"853\" /><figcaption>Já é a segunda vez de Sarah na prática da transfusão. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio_casal.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"Ter conhecimento de contribuir na manutenção da vida coletiva é uma causa de Alice Ferreira e Augusto César. (Foto: Pedro Amorim)\" width=\"1280\" height=\"853\" /><figcaption>Ter conhecimento de contribuir na manutenção da vida coletiva é uma causa de Alice Ferreira e Augusto César. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio_flavia.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"Flávia Batista esclareceu a divisão dos tipos sanguíneos. (Foto: Pedro Amorim)\" width=\"1280\" height=\"853\" /><figcaption>Flávia Batista esclareceu a divisão dos tipos sanguíneos. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio_anamaria.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"Segunda a técnica de enfermagem Ana Maria, é gratificante saber que as bolsas vão ser utilizadas por pacientes na espera. (Foto: Pedro Amorim)\" width=\"1280\" height=\"853\" /><figcaption>Segunda a técnica de enfermagem Ana Maria, é gratificante saber que as bolsas vão ser utilizadas por pacientes na espera. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio_analucia.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"A coletora Ana Lúcia precisa verificar as etiquetas, o nome completo do doador, avaliar a veia, confirmar as bolsas e impulsioná-las. (Foto: Pedro Amorim)\" width=\"1280\" height=\"853\" /><figcaption>A coletora Ana Lúcia precisa verificar as etiquetas, o nome completo do doador, avaliar a veia, confirmar as bolsas e impulsioná-las. (Foto: Pedro Amorim)</figcaption></figure><p>Não somente o corpo universitário esteve presente no dia, e sim moradores do entorno social. O casal Alice Ferreira e Augusto César, residentes na Barra da Tijuca, souberam da atividade por meio do canal de comunicação do Hemorio e logo decidiram fazer parte da dinâmica. Doar sangue já faz parte da rotina de Alice, mas quem fez a estreia mesmo foi Augusto e ele já garante manter o hábito. “Deixa a gente com uma sensação de bem estar por estar fazendo algo pelo próximo”, disse César.</p><p>A equipe do Hemorio composta por enfermeiros, médicos e organizadores, estiveram presentes para a realização do procedimento. Após o cadastro e recolhimento de dados pessoais, medição e a confirmação, os indivíduos partem para a transfusão. Quem faz a triagem do doador é a enfermeira Flávia Batista. A profissional explicou a importância de ter em estoques uma diversidade de tipos sanguíneos, apesar da estratégia de utilizar da categoria O- como um atributo universal.</p><p><strong>A enfermeira Flávia Batista destaca a ação no campus. Confira o vídeo:</strong></p><figure><div><iframe src=\"https://www.youtube.com/embed/lqUOfWrlRAM?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p>Preparar a caixa com os equipamentos necessários para as colhedoras foi a função da Ana Maria Frazão, técnica de enfermagem. Há mais de 30 anos na empresa, fazer a diferença incentiva a profissional. Esse empenho na área da saúde é percebido não somente na Ana, como também em Ana Lúcia Dias, técnica da sala de coleta há 18 anos. “Nós somos muito comprometidos com a vida”, afirmou Dias.</p><p>O ato de doar sangue pode ser feito no Hemorio ou em alguns postos de coletas externas. Há determinações para ocorrer a transferência, como ter peso mínimo de 50 kg, intervalo de tempo entre as doações, Covid-19, uso de medicamentos, etc. A garantia de apenas uma transfusão já salva quatro vidas.</p><h2>O evento impulsionou a interdisciplinaridade dos cursos</h2><p>Estruturada pela Enfermagem da UVA Barra com a Direção Acadêmica e a reitoria, o “Trote Solidário” contou com o auxílio de monitores de diferentes áreas de graduação. Gabriele Forbes, Biomedicina, Matheus Silveira, enfermagem, e Bruna Torres, de cinema, compuseram o grupo.</p><p>Os universitários no 2º período se localizaram para colaborar com a pré e pós triagem. A iniciativa do trio partiu da premissa de impulsionar as doações no campus. “Eu sempre gosto de fazer boas ações e achei esse projeto da faculdade como uma boa oportunidade”, declarou Bruna.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio-monitor_-bruna.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"Observar a disponibilidade da comunidade com a doação de sangue inspirou Bruna Torres. (Foto: Pedro Amorim)\" width=\"1280\" height=\"853\" /><figcaption>Observar a disponibilidade da comunidade com a doação de sangue inspirou Bruna Torres. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio-monitor_gabriele.jpg?resize=572%2C413&amp;ssl=1\" alt=\"Para Gabriele, o objetivo é fazer com que mais pessoas se tornem doadoras. (Foto: Pedro Amorim)\" width=\"572\" height=\"413\" /><figcaption>Para Gabriele, o objetivo é fazer com que mais pessoas se tornem doadoras. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio-monitor_-matheus.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"Matheus classifica como uma experiência única participar como monitor do Trote Solidário. (Foto: Pedro Amorim)\" width=\"1280\" height=\"853\" /><figcaption>Matheus classifica como uma experiência única participar como monitor do Trote Solidário. (Foto: Pedro Amorim)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio-monitor_-diretor-e-prof.jpg?resize=1280%2C853&amp;ssl=1\" alt=\"A coordenadora Lidiane Reis e o diretor Ramon Vieira reforçaram a preocupação da faculdade com a sociedade. (Foto: Pedro Amorim)\" width=\"1280\" height=\"853\" /><figcaption>A coordenadora Lidiane Reis e o diretor Ramon Vieira reforçaram a preocupação da faculdade com a sociedade. (Foto: Pedro Amorim)</figcaption></figure><p>Entender que o Hemorio necessita de bolsas de sangue auxiliou Lidiane Reis, coordenadora de Enfermagem, a ordenar essa atividade. A docente compartilha que o objetivo foi trabalhar um projeto de extensão para a comunidade.<strong> Ouça no áudio abaixo:</strong></p><figure><div><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1362676963&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Lidiane Reis compartilha que o objetivo foi trabalhar um projeto de extensão para a comunidade by Agência UVA Barra\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p>Nomear a ação como “Trote Solidário” teve origem em ressignificar um marco na vida acadêmica: o trote. Ao pautar nos valores da empatia e solidariedade, Ramon Vieira, o diretor do campus Barra, pondera o bem estar social por meio da execução. “Reforça o que a UVA agrega de responsabilidade e de extensão no desenvolvimento do curso”, conclui Ramon.</p><p><em>Pedro Amorim – 7º período</em></p></main>"
+  },
+  "date": "2022-10-14T15:22:28",
+  "date_gmt": "2022-10-14T18:22:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O “Trote Solidário” marcou o campus Barra da Universidade Veiga de Almeida na última terça-feira, 11/10. A ação organizada pelo curso de Enfermagem em parceria com a Hemorio mobilizou mais de 90 bolsas de sangue em torno de 130 captações, através da comunidade interna e externa da região. </p>\n"
+  },
+  "featured_media": 13157,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13136"
+  },
+  "id": 13136,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/hemorio_sarahcapa.jpg?fit=1280%2C853&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3pS",
+  "link": "https://agenciauvabarra.com/2022/10/14/uva-barra-e-hemorio-recolhem-mais-de-90-bolsas-de-sangue/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-14T17:49:24",
+  "modified_gmt": "2022-10-14T20:49:24",
+  "ping_status": "open",
+  "slug": "uva-barra-e-hemorio-recolhem-mais-de-90-bolsas-de-sangue",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    58935822,
+    264649,
+    6246715,
+    599888,
+    34919441,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA Barra e Hemorio recolhem mais de 90 bolsas de sangue"
+  },
+  "type": "post"
+}

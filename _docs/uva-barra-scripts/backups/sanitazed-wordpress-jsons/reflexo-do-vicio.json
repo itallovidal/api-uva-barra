@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13993/revisions/13996",
+        "id": 13996
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13993"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13993",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13993/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13993"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13998"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13993",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13993",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    10567,
+    72064,
+    866752
+  ],
+  "class_list": [
+    "post-13993",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-psicologia",
+    "category-saude",
+    "category-saude-mental",
+    "tag-agencia-uva-barra",
+    "tag-droga",
+    "tag-prevencao",
+    "tag-reflexo",
+    "tag-tratamento",
+    "tag-vicio"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>“Reflexo do vício” é um curta metragem que tem como objetivo informar e conscientizar as pessoas para o uso de entorpecentes. A partir da escolha do Objetivo de Desenvolvimento Sustentável 3, da Agenda 2030 da ONU, que fala sobre saúde e bem-estar, e do tópico 3.5, que trata exclusivamente sobre a prevenção e o tratamento do abuso de substâncias, o vídeo traz um tema importante para a reflexão da sociedade.</p><p>A produção realizada por Ana Caroline Dallio, Diogo Rosa, Felipe Queiroz, Fernanda Valle, Giulia da Silva, Henrick Monteiro, Mel Gabrielli, Pedro Henrique Coelho e Kevin Rodrigues, traz uma reunião dos Narcóticos Anônimos, onde a personagem Melissa passa por dificuldades para lidar com as drogas e conta com a ajuda de Malu, uma mulher que conseguiu superar o vício. </p><p><strong>Assista!</strong></p><figure><iframe src='https://www.youtube.com/embed/w3V9_VUBgKw?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen></iframe></figure><p>Documentário produzido para a disciplina de Produção em rádio tv e cinema, sob a supervisão do professor Anderson Barreto.</p></main>"
+  },
+  "date": "2023-01-23T14:53:23",
+  "date_gmt": "2023-01-23T17:53:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Reflexo do vício” é um curta metragem que tem como objetivo informar e conscientizar as pessoas para o uso de entorpecentes. A partir da escolha do Objetivo de Desenvolvimento Sustentável 3, da Agenda 2030 da ONU, que fala sobre saúde e bem-estar, e do tópico 3.5, que trata exclusivamente sobre a prevenção e o tratamento do abuso de substâncias, o vídeo traz um tema importante para a reflexão da sociedade.</p>\n"
+  },
+  "featured_media": 13998,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13993"
+  },
+  "id": 13993,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/01/whatsapp-image-2023-01-23-at-14.53.55.jpeg?fit=1600%2C739&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3DH",
+  "link": "https://agenciauvabarra.com/2023/01/23/reflexo-do-vicio/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-01-23T14:54:53",
+  "modified_gmt": "2023-01-23T17:54:53",
+  "ping_status": "open",
+  "slug": "reflexo-do-vicio",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    240978,
+    457519,
+    1520537,
+    68914,
+    36831
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Reflexo do vício"
+  },
+  "type": "post"
+}

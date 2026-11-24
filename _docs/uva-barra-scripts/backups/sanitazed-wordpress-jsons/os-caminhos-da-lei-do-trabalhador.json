@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1516/revisions/3278",
+        "id": 3278
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1516"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1516",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1516/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1516"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1516",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1516",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1516",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A Universidade Veiga de Almeida em parceria com o curso de Direito apresenta as novas regras na constituição</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/direito.jpg?resize=1700%2C1130&amp;ssl=1\" alt=\"direito\" width=\"1700\" height=\"1130\"><figcaption>Foto: Pixabay</figcaption></figure><p>Os Direitos Trabalhista estão em estudos por profissionais que regulam as relações entre empregados e empregadores. A XI Semana Jurídica Veiga Barra 2017 apresenta a pauta da Reforma Trabalhista, entre os dias 17 e 20 de outubro. O evento contará com procuradores, professores, advogados, deputados e alunos para interagir com especialistas, que apresentarão diversos temas por meio de palestras.</p><p>Essa interação é necessária para que os estudantes se sintam incluídos no campo de trabalho. De acordo com Gabryella Sousa, do 8º período, a proposta desses quatro dias de programação é fazer com que os graduandos adquiram novas informações e atualizações. Gabryella também está ajudando na organização e conta que um dos destaques serão as alterações da reforma trabalhista. “É ótimo para estarmos preparados para a prova da OAB, que vai cobrar essas mudanças”, conclui.</p><p>O primeiro palestrante da semana jurídica é o Pró-Reitor de Pós-Graduação Leonardo Rabelo de Matos Silva, que aborda o tema “A Reforma Trabalhista e os Sindicalismo no Brasil”. “O Brasil passou em 2017 pela maior transformação dos últimos 75 anos nos direitos do trabalhador. Tudo o que se entendia como trabalho não será o mesmo”. Leonardo ressalta a importância dos alunos em ouvir a opiniões de profissionais do mercado. “É a chance de saber novas ideias, boas práticas e experiências que enriqueçam a formação dos universitários”.</p><p>Quem também concorda com isso é o Diego Blulm, do 5º período, do curso de Direito, que destaca o objetivo do projeto de levar a público diversas questões que envolverá toda a universidade. “Eu desejo aprender, ampliar o meu conhecimento e aproveitar essa oportunidade”. Cada turno vale cinco horas complementares, os interessados em participar deverão fazer a inscrição na coordenação com a doação de um livro infantil ou brinquedo.</p><p><strong>Carolina Marinho 4º período, Karina Figueiredo 3º período</strong></p></main>"
+  },
+  "date": "2017-10-12T13:00:15",
+  "date_gmt": "2017-10-12T16:00:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Universidade Veiga de Almeida em parceria com o curso de Direito apresenta as novas regras na constituição Os Direitos Trabalhista estão em estudos por profissionais que regulam as relações entre empregados e empregadores. A XI Semana Jurídica Veiga Barra 2017 apresenta a pauta da Reforma Trabalhista, entre os dias 17 e 20 de outubro. [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1516"
+  },
+  "id": 1516,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-os",
+  "link": "https://agenciauvabarra.com/2017/10/12/os-caminhos-da-lei-do-trabalhador/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:16:26",
+  "modified_gmt": "2019-02-28T19:16:26",
+  "ping_status": "open",
+  "slug": "os-caminhos-da-lei-do-trabalhador",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Os caminhos da lei do trabalhador"
+  },
+  "type": "post"
+}

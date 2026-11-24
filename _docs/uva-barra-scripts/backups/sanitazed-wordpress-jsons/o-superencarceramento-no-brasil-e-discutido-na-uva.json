@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3378/revisions/3391",
+        "id": 3391
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3378"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3378",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3378/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3378"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3378",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3378",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    7114
+  ],
+  "class_list": [
+    "post-3378",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-direito",
+    "tag-superencarceramento-no-brasil",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h2><em>Palestra foi organizada pela Atlética de Direito</em></h2><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/20190314_104124-e1553037974360.jpg?resize=3589%2C2160&#038;ssl=1' alt='Juíza Cristiana Cordeiro ministra palestra na UVA, campus Barra' width='3589' height='2160' /><figcaption>Juíza Cristiana Cordeiro ministra palestra na UVA, campus Barra</figcaption></figure><p>O cenário da população carcerária do Brasil não é dos melhores. A evolução do número de pessoas presas é um dos fatores que contribui para o superencarceramento. Por isso, a Universidade Veiga de Almeida (UVA), campus Barra, a convite da Atlética do curso de Direito, recebeu na última quinta-feira (14) a Juíza Cristiana Cordeiro para um bate papo sobre as consequências do aprisionamento em massa.</p><p>O último levantamento do Departamento Penitenciário Nacional (Depen), divulgado pelo Ministério da Justiça, estimava, em junho de 2016, que havia 726,7 mil detentos no Brasil. Para o coordenador do curso de Direito Soniárlei Vieira Leite, a superlotação das unidades prisionais é um problema social grave e gera complicações de toda ordem. “As taxas de ocupação nas prisões ultrapassam 100% e impossibilita a garantia de direitos básicos e o tratamento socioeducativo para os adolescentes”, comenta. </p><p>Em fevereiro de 2015 o Conselho Nacional de Justiça (CNJ) implementou as audiências de custódia, uma medida para conter a superlotação nos presídios e que para Juíza Cristiana Cordeiro deveriam ter estancado um pouco o ingresso de pessoas em prisão para chamada prisão provisória que é aquela antes da sentença, porém houve pouca adesão. “Sem a audiência de custódia, as pessoas que serão absolvidas ou condenadas à uma pena que não é em regime fechado, aguardam o julgamento presas e isso contribui para a superlotação”, conta.</p><p>A falta de espaço para o debate sobre um tema polêmico motivou o presidente da Atlética do curso de direito Bruno França a convidar a Juíza para mostrar a realidade dos presídios. “A palestra é uma oportunidade de trazer a atenção dos futuros advogados para esse problema que afeta o cotidiano carcerário e quem sabe eles levem esse assunto para discussões nas redes sociais para alertar o resto da população”. </p><p>A caloura do curso de direito Maria Eduarda Campos acredita que o dia a dia do ambiente carcerário e todas as implicações deveriam ser debatidos mais vezes, inclusive nas escolas. “Existe um tabu muito grande em torno deste tema e muitas pessoas evitam falar sobre isso justamente por não ter uma noção dessa realidade. É ótimo ter a presença de uma juíza na universidade para discutir o assunto”.</p><p>A participação da magistrada no ambiente acadêmico chamou atenção não só dos alunos do curso de direito, como também de outras graduações. É o caso da aluna de jornalismo Giovanna Faria (7º período), que durante uma pesquisa para o seu Trabalho de Conclusão de Curso, percebeu que a superlotação evidencia o impacto direto que isso tem na vida de cada preso ou presa e que a mídia quando divulga alguma notícia sobre encarceramento contribui para que boa parte da sociedade aprove esse modelo desumano. “Presidiários são as pessoas mais privadas de direitos básicos, eles não possuem cama ou higiene pessoal”, conclui.</p><p><strong>Graziela Andrade – 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-03-19T20:39:14",
+  "date_gmt": "2019-03-19T23:39:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Palestra foi organizada pela Atlética de Direito O cenário da população carcerária do Brasil não é dos melhores. A evolução do número de pessoas presas é um dos fatores que contribui para o superencarceramento. Por isso, a Universidade Veiga de Almeida (UVA), campus Barra, a convite da Atlética do curso de Direito, recebeu na última [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3378"
+  },
+  "id": 3378,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Su",
+  "link": "https://agenciauvabarra.com/2019/03/19/o-superencarceramento-no-brasil-e-discutido-na-uva/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-03-19T20:49:54",
+  "modified_gmt": "2019-03-19T23:49:54",
+  "ping_status": "open",
+  "slug": "o-superencarceramento-no-brasil-e-discutido-na-uva",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056624,
+    675015643,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O superencarceramento no Brasil é discutido na UVA"
+  },
+  "type": "post"
+}

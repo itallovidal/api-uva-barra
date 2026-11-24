@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7573/revisions/7584",
+        "id": 7584
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7573"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7573",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7573/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7573"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7580"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7573",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7573",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    2368
+  ],
+  "class_list": [
+    "post-7573",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "category-transporte"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Passageiros sofrem com menos ônibus nas ruas mesmo antes do isolamento</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-37.png?fit=623%2C270&amp;ssl=1' alt='Ônibus das empresas Real Auto Ônibus e Auto Viação Alpha e Auto Viação Tijuca' width='623' height='270' /><figcaption>Ônibus das empresas Real Auto Ônibus e Auto Viação Alpha e Auto Viação Tijuca – Foto: Divulgação/Diário do Transporte</figcaption></figure><p>A queda na oferta de ônibus nas ruas durante o período de auto isolamento está acentuando um problema social antigo. Passageiros reportam um vertiginoso declínio na quantidade de carros dispostos pelas empresas dos consórcios, BRT, Internorte, Intersul, Santa Cruz e TransCarioca nas ruas desde o início da pandemia na capital fluminense. A situação já vinha sendo noticiada antes mesmo do período de quarentena, mas se observou uma piora substancial nos últimos dois meses.</p><p>O geógrafo carioca Guilherme Braga Alves, 26, pesquisador da Casa Fluminense, Mestre em Políticas Públicas em Direitos Humanos (PPDH/NEPP-DH – UFRJ), reflete sobre os efeitos da crise sanitária no transporte municipal e o futuro do setor: “No período pré-pandemia, havia em torno de 4.500 ônibus municipais circulando no Rio de Janeiro no pico da manhã. Em 25 de março o número se estabilizou, ficando um pouco abaixo de 1900 ônibus no pico matutino. Ou seja, houve uma queda de quase 60% na frota em circulação. Esse número se mantém até os dias atuais”.</p><p>Em contrapartida, as empresas apresentam como argumentos de defesa que houve uma queda no número de passageiros de 70%, de acordo com dados da Prefeitura do Rio de Janeiro. Além disso, como as vias estão com menos carros, as viagens são mais rápidas, o que possibilita que ônibus possam fazer mais viagens e fiquem vazios por mais tempo. O pesquisador completa explicando que, apesar de não ter medido as velocidades médias, este é um motivo plausível.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-34.png?fit=602%2C356&amp;ssl=1' alt='Tabela 1-Gráfico sobre o percentual de ônibus em circulação em relação a frota determinada pela lei. Arte: Guilherme Braga Alves' width='602' height='356' /><figcaption>Tabela 1-Gráfico sobre o percentual de ônibus em circulação em relação a frota determinada pela lei. Arte: Guilherme Braga Alves</figcaption></figure><p>A frota determinada para circular, de acordo com a base legal prescrita na lei carioca, é de 9141 veículos, somando veículos articulados, convencionais e executivos. Entretanto, na prática, se observa que apenas cerca de metade da meta era cumprida antes mesmo do estouro doméstico do Covid-19. O sumiço de linhas e itinerários é uma direta consequência da crise dos transportes. A linha 918 (Bangu-Bonsucesso), da Auto Viação Jabour, por exemplo, é uma linha que não tem expectativa de volta.</p><p>Guilherme destaca que a região e o consórcio que mais foram afetados pela crise são Consórcio Intersul, que serve prioritariamente a Zona Sul da cidade, e o Transcarioca, que faz o trecho Sul-Oeste. Mas reitera: “Cabe ressaltar que o consórcio Santa Cruz já tinha um déficit de frota — ou seja, a diferença entre a frota real e a frota determinada — bastante grande no período pré-pandemia. Portanto, qualquer redução já seria sentida na Zona Oeste”. O caso do BRT é interessante, pois no primeiro mês havia ocorrido uma redução de frota, mas ela tinha sido de aproximadamente 40%. No entanto, em maio essa redução tem se acentuado especialmente neste Consórcio, chegando a alcançar 70%.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-35.png?fit=602%2C173&amp;ssl=1' alt='Tabela 2- Dados da disposição de carros por cada consórcio no primeiro dia de isolamento e a data da entrevista. Arte: Guilherme Braga Alves' width='602' height='173' /><figcaption>Tabela 2- Dados da disposição de carros por cada consórcio no primeiro dia de isolamento e a data da entrevista. Arte: Guilherme Braga Alves</figcaption></figure><p>Se a situação do caos no transporte público for mantida, é provável que o sistema desmorone. Antes mesmo da pandemia, o setor se mostrava frágil, com a falência das empresas Viação São Silvestre e Transportes Santa Maria nos últimos anos. O pesquisador conta que existe uma fragilidade maior para empresas independentes — vide as duas mencionadas e a Paranapuan Transportes, que recentemente entraram com pedido de recuperação judicial na justiça -, diferentemente das empresas pertencentes a grandes grupos, que se mantêm com mais fôlego em condições de crise.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-36.png?fit=602%2C332&amp;ssl=1' alt='Tabela 3-Gráfico sobre a redução percentual de ônibus na capital carioca entre 13/03 a 04/05. Arte: Guilherme Braga Alves.' width='602' height='332' /><figcaption>Tabela 3-Gráfico sobre a redução percentual de ônibus na capital carioca entre 13/03 a 04/05. Arte: Guilherme Braga Alves.</figcaption></figure><p>A problemática que está fazendo o setor sacudir são os pedidos de recuperação judicial da Real Auto Ônibus e Expresso Pégaso, que, diferentemente de Santa Maria e São Silvestre, fazem parte de grandes grupos comerciais e são líderes de seus consórcios. Uma possível paralisação das operações será catastrófica, visto que as demais empresas de seus consórcios — Intersul e Santa Cruz, respectivamente — não seriam capazes de absorver as linhas de forma abrangente.</p><p>Quem precisa de serviço municipal de transporte sente diariamente a problema. O engenheiro elétrico Ronaldo Alves de Abril, 40, usuário da linha 238 (Praça SecaxCastelo), da Verdun, afirma que os horários em que o veículo passa estão irregulares: “Antes a composição passava de dez a vinte minutos, agora um intervalo de quarenta minutos é o mínimo”. Ronaldo complementa dizendo que a linha só tem dois carros rodando o dia todo.</p><p>Outra usuária que também teve que mudar seus hábitos por conta das dificuldades no transporte foi Thaís Alvaredo Souza, 28, assistente social, usuária da linha 426 (Jardim de AlahxUsina), da Alpha. Ela declara que foi forçada a usar integração para chegar em seu destino, nas Laranjeiras, pois não é regularmente atendida nos horários em que usava antes: “Antes entrava no 426 e fazia apenas uma viagem. Desde o início estou usando o 603 mais uma integração com o Metrô. Um custo a mais de dois reais por viagem”.</p><p>A eleição municipal de 2020, como é recorrente em períodos eleitorais, teria o transporte, o desenvolvimento e a condição de vida como principais pontos de discussão entre os candidatos em debates, propagandas e programa político. Com uma incerteza sobre o futuro do planeta e a realização do pleito devido ao Covid-19, há uma possibilidade de que os efeitos do governo atual em suas decisões em combate ao vírus se sobreponham às demais, o que seria prejudicial para a construção de uma cidade mais justa e igualitária.</p><p><strong>Matheus Maia Vinhas – 3º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-08-20T14:06:00",
+  "date_gmt": "2020-08-20T17:06:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Passageiros sofrem com menos ônibus nas ruas mesmo antes do isolamento A queda na oferta de ônibus nas ruas durante o período de auto isolamento está acentuando um problema social antigo. Passageiros reportam um vertiginoso declínio na quantidade de carros dispostos pelas empresas dos consórcios, BRT, Internorte, Intersul, Santa Cruz e TransCarioca nas ruas desde [&hellip;]</p>\n"
+  },
+  "featured_media": 7580,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7573"
+  },
+  "id": 7573,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-37.png?fit=623%2C270&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Y9",
+  "link": "https://agenciauvabarra.com/2020/08/20/crise-no-transporte-publico-do-rio-piora-com-a-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-13T13:52:59",
+  "modified_gmt": "2020-08-13T16:52:59",
+  "ping_status": "open",
+  "slug": "crise-no-transporte-publico-do-rio-piora-com-a-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Crise no transporte público do Rio piora com a pandemia"
+  },
+  "type": "post"
+}

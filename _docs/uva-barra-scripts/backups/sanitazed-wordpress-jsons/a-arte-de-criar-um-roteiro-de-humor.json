@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4976/revisions/4985",
+        "id": 4985
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4976"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4976",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4976/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4976"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4980"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4976",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4976",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4976",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Roteirista do programa \"To de Graça\", do Multishow palestra na UVA Barra</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5104.jpg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Júnior Figueiredo, roteirista do Multishow, conta a trajetória na profissão – Foto: Luma Keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5117-e1567703790834.jpeg?resize=4032%2C2597&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"2597\" /><figcaption>Júnior Figueiredo esclarece dúvidas dos estudantes sobre a criação de um roteiro – Foto: Luma keily</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5130.jpeg?resize=4032%2C3024&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"3024\" /><figcaption>Alunos da UVA Barra com o roteirista Júnior Figueiredo – Foto: Luma keily</figcaption></figure><p>Uma imersão no universo do humor. Júnior Figueiredo, roteirista do Multishow, realizou na terça-feira (3/9), uma palestra para estudantes de jornalismo e publicidade, do campus Barra, sobre a profissão, o mercado e como escrever um roteiro. Por meio da análise das Sitcoms, as comédias de situação, os universitários puderam adquirir conhecimentos práticos para transformar pequenas ideias em grandes narrativas.</p><p>Pegar vários acontecimentos da vida cotidiana e sistematiza-los dentro de uma estrutura. Essa foi a definição dada pelo palestrante sobre o que é um roteiro. Ao longo de duas horas as turmas de Laboratório de Redação tiveram dicas sobre a escrita além da ideia e a importância de entender o público o qual se deseja atingir. \"É olhar o rico com olhar de pobre e olhar o pobre com olhar afastado também\", compara.</p><blockquote> \"Na piada, uma vírgula faz toda a diferença\" <p>– Júnior Figueiredo</p></blockquote><p>A habilidade de fazer rir vai além da piada. As técnicas da escrita humorística do programa \"To de Graça\" foram reveladas aos estudantes que se preparam para escrever o primeiro roteiro. \"Eu to pensando seriamente em seguir essa carreira de roteirista\", declarou a estudante de jornalismo Raquel Fruttuoso.</p><blockquote>\"Eu me sinto no lugar deles, quando eu comecei há muito tempo atrás e nem imaginava que hoje eu poderia estar numa emissora de nível nacional, fazendo o que eu amo\" <p>– Júnior Figueiredo</p></blockquote><p>Para Wellen Cristina, aluna de publicidade, a proposta do evento foi interessante e que o curso poderia promover mais palestras sobre o tema. \"Caso queiram trazer novamente para abrilhantar outras mentes, de outras turmas, acho que vai ser superinteressante\", disse. Responsável pela disciplina, o professor Anderson Barreto, acredita que esta é uma oportunidade que os alunos possuem de conhecer gente de mercado e entender o que é necessário para estar dentro dele. \"Essas pessoas trazem dicas que estão além da sala de aula e acabam abrindo um caminho para a inserção dos futuros comunicadores no mercado de trabalho\", conclui.</p><p><strong>Luma Keily – 2º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-09-05T14:18:41",
+  "date_gmt": "2019-09-05T17:18:41",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Roteirista do programa “To de Graça”, do Multishow palestra na UVA Barra Uma imersão no universo do humor. Júnior Figueiredo, roteirista do Multishow, realizou na terça-feira (3/9), uma palestra para estudantes de jornalismo e publicidade, do campus Barra, sobre a profissão, o mercado e como escrever um roteiro. Por meio da análise das Sitcoms, as [&hellip;]</p>\n"
+  },
+  "featured_media": 4980,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4976"
+  },
+  "id": 4976,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/09/img_5104.jpg?fit=4032%2C3024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1ig",
+  "link": "https://agenciauvabarra.com/2019/09/05/a-arte-de-criar-um-roteiro-de-humor/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-09-05T19:36:46",
+  "modified_gmt": "2019-09-05T22:36:46",
+  "ping_status": "open",
+  "slug": "a-arte-de-criar-um-roteiro-de-humor",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A arte de criar um roteiro de humor"
+  },
+  "type": "post"
+}

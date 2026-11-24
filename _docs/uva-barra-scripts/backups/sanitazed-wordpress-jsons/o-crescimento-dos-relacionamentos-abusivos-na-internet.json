@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10596/revisions/10610",
+        "id": 10610
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10596"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10596",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10596/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10596"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10609"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10596",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10596",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    81389,
+    14603,
+    7114
+  ],
+  "class_list": [
+    "post-10596",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-direito",
+    "category-jornalismo",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Com a pandemia, os casos de violência virtual tiveram um aumento significativo, mas existem formas de se proteger contra esses crimes</em></p><p>Quarentena, distanciamento social e restrições de mobilidade. No primeiro trimestre de 2021, a ONG SaferNet evidenciou um crescimento de 21,27% nas denúncias de violência e discriminação contra mulheres na Central Nacional de Crimes Cibernético. De acordo com um relatório divulgado pela ONU, que faz um paralelo entre a covid-19 e o combate ao feminicídio, os altos números apresentados seriam consequência dos impactos causados pelo isolamento social e a violência no mundo digital.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto1-camylly-monteiro.jpeg\" alt=\"\" width=\"1033\" height=\"1280\"><figcaption>A estudante do ensino médio, Camylly Monteiro, viveu um relacionamento tóxico e não conseguia perceber que os comportamentos do ex-namorado eram problemáticos. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-2-luiz-felipe.jpeg\" alt=\"\" width=\"368\" height=\"749\"><figcaption>O juiz, Luiz Felipe Rehfeldt, do Tribunal de Justiça do Estado de São Paulo, acredita que a falta de transparência das redes sociais em divulgar os dados de abusadores dificulta o trabalho da justiça. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-3-roberta-bastos.jpeg\" alt=\"\" width=\"960\" height=\"1280\"><figcaption>Roberta Bastos, psicóloga e ativista política, sofre ataques na internet por causa dos posicionamentos políticos e da atuação que desenvolve nas redes. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-4-roberta-flach.jpeg\" alt=\"\" width=\"888\" height=\"1283\"><figcaption>Roberta Flach, Doutora e especialista em abordagem técnica a tentativa de suicídio, acredita que os relacionamentos abusivos podem desencadear vícios e deixar marcas graves nas vítimas. (Foto: Arquivo Pessoal)</figcaption></figure><p>Um relacionamento que começa no ambiente virtual pode, em muitos casos, esconder atitudes que fogem da normalidade. A estudante do ensino médio, Camylly Monteiro, conta que vivia um relacionamento a distância e não conhecia quem era ele no dia a dia. “No começo ele era bastante atencioso, mas depois o comportamento dele começou a ser tóxico”, explica. Ela também relata que demorou a perceber algumas atitudes abusivas do ex-namorado, como sempre ligar ou mandar mensagens durante o dia querendo saber o que ela estava fazendo, pois pensava que era apenas o jeito dele de agir.</p><p>Algo parecido ocorreu com a estudante de psicologia Mariana Souza vivenciou a realidade de um relacionamento abusivo ainda nova, quando era uma pré-adolescente. Mariana disse que, por ser muito jovem na época, foi facilmente manipulada e a experiência fez com que se sentisse insegura em novos relacionamentos. “Eu me via estressada, pois pensava que a pessoa repetiria as mesmas ações”, desabafa.</p><p>A maior dificuldade na investigação deste tipo de crime é conseguir localizar os abusadores. O juiz, Luiz Felipe Rehfeldt, do Tribunal de Justiça do Estado de São Paulo, ressalta que o problema está no fato de os criminosos conseguirem esconder os dados. “Existem muitas maneiras de mascarar a origem dos delitos dos usuários. Isto faz com que as autoridades tenham um árduo trabalho para investigar e chegar à fonte das informações ou dos criminosos”, esclarece.</p><p>O profissional reforça que o termo “Violência virtual” pode englobar uma série de delitos presentes no Código Penal, tais como ameaças e crimes contra a honra. “Injúria, calúnia ou difamação, cada um desses possuindo uma pena específica. Se o crime é cometido ou divulgado em quaisquer modalidades das redes sociais ou na internet, de forma geral, aplica-se em triplo a pena”, diz.</p><p>Conviver com comentários obscenos e ataques de ódio na internet faz parte da rotina da psicóloga e ativista política Roberta Bastos. Ela revela que no começo era muito difícil lidar com essa questão, pois, quando se manifestava no mundo virtual, era chamada de nomes ofensivos. “Eu recebia por dia, em média, mais de 50 ofensas e ameaças. Uma vez um homem bolsonarista postou minha foto na página dele me ofendendo. Meu marido ficou com muito medo e foi quando eu resolvi levar o caso para a Delegacia de Repressão aos Crimes de Informática – DRCI”, afirma.</p><p>A psicóloga também expôs um caso de compartilhamento de informações falsas e de alguém se passando por ela. “Uma vez fizeram um fake meu, uma cópia do meu Twitter e postaram, como se fosse eu, a frase ‘meu marido me abandonou porque sou petista’. Levei esse caso para DRCI, mas o post ainda estava sendo repassado em alguns grupos de WhatsApp”, comenta.</p><p>Foi pensando nessa realidade que o Facebook deu início, no primeiro trimestre de 2021, à uma iniciativa de combate a perfis falsos. Durante os primeiros meses do ano, a plataforma informou ter removido mais de 1,3 bilhão de contas ativas no aplicativo.</p><p>Roberta Flach, Doutora em Ciências pela IFF/Fiocruz, especialista em Abordagem Técnica a Tentativa de Suicídio, pelo Corpo de Bombeiros Militar do Estado do Rio De Janeiro e membro da Associação Brasileira de Estudos e Prevenção do Suicídio (ABEPS), atua na prevenção ao abuso digital nos relacionamentos afetivo-sexuais. Ela relata que é possível identificar nos pacientes marcas psíquicas, que incluem desde isolamento, ansiedade, depressão, o uso de drogas, álcool até a tentativa de suicídio. “A exposição de um abuso digital gera um dano exponencial, chega do outro lado do mundo em frações de milésimos de segundos, e para tal, basta um print + salvar + compartilhar”, conta.</p><p>Uma das iniciativas sociais que tenta ajudar vítimas de relações abusivas é o aplicativo “Mete a colher”, que tem um trabalho preventivo. Dentro da plataforma são disponibilizadas informações sobre o que é violência dentro de um relacionamento. A proposta é permitir que a pessoa possa identificar comportamentos tóxicos. Além disso, a iniciativa oferece uma rede de suporte com profissionais parceiros, como psicólogos e advogados, para dar apoio.</p><h2>Os abusos na Lei</h2><p>Segundo o Art. 216-B do Código Penal, produzir, fotografar, filmar ou registrar, por qualquer meio, conteúdo com cena de nudez ou ato sexual sem autorização dos participantes é crime. A pena para quem comete esse delito é reclusão que vai de 6 meses a 1 ano e multa.</p><p>Em 2012, foi publicada a Lei 12.737, que “dispõe sobre a tipificação criminal de delitos informáticos”. Em 2021, foi aprovado um novo tipo penal, pela Lei 12.735/2012, que visa combater golpes virtuais. Novos tipos específicos foram criados para representar condutas on-line. Além da nova legislação, o Marco Civil da Internet ajuda a justiça com diretrizes para combater crimes informáticos, regulando a responsabilização na esfera cível.</p><p>Caso você seja vítima de um crime desses, salve imagens de conversas, fotos, áudios, números de telefone, perfis em redes sociais e vá até a Delegacia de Repressão aos Crimes de Informática mais próxima. No portal da SaferNet é possível localizar as unidades de delegacias cibernéticas espalhadas pelo Brasil.</p><p><em>Ana Júlia Queiroz – 6º período</em></p><p><em>Lucas Souza – 6º período</em></p><p><em>Luma Keily – 6º período</em></p></main>"
+  },
+  "date": "2021-11-05T18:22:15",
+  "date_gmt": "2021-11-05T21:22:15",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Quarentena, distanciamento social e restrições de mobilidade. No primeiro trimestre de 2021, a ONG SaferNet evidenciou um crescimento de 21,27% nas denúncias de violência e discriminação contra mulheres na Central Nacional de Crimes Cibernético. De acordo com um relatório divulgado pela ONU, que faz um paralelo entre a covid-19 e o combate ao feminicídio, os altos números apresentados seriam consequência dos impactos causados pelo isolamento social e a violência no mundo digital.</p>\n"
+  },
+  "featured_media": 10609,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10596"
+  },
+  "id": 10596,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/post-do-site.jpeg?fit=617%2C617&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2KU",
+  "link": "https://agenciauvabarra.com/2021/11/05/o-crescimento-dos-relacionamentos-abusivos-na-internet/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-05T18:22:15",
+  "modified_gmt": "2021-11-05T21:22:15",
+  "ping_status": "open",
+  "slug": "o-crescimento-dos-relacionamentos-abusivos-na-internet",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O crescimento dos relacionamentos abusivos na internet "
+  },
+  "type": "post"
+}

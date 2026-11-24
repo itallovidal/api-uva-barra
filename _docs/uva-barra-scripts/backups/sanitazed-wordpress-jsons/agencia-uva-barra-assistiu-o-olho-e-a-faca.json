@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4491/revisions/4494",
+        "id": 4494
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4491"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4491",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4491/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4491"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4492"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4491",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4491",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-4491",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-california-filmes",
+    "tag-o-olho-e-a-faca",
+    "tag-rodrigo-birindelli",
+    "tag-rodrigo-lombardi"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/cabine-rj.jpg?resize=390%2C689&amp;ssl=1' alt='' width='390' height='689' /><figcaption>Foto: Divulgação</figcaption></figure><p>Roberto (Rodrigo Lombardi) trabalha com extração de petróleo em uma base que fica em alto mar e passa muito tempo afastado da mulher e dos filhos. Depois de receber uma promoção, ele tem que lidar com as consequências de tentar equilibrar sua vida em terra firme com as novas responsabilidades que o atual cargo exige.</p><p>O mais novo filme do diretor Paulo Sacramento aborda as dificuldades em conciliar os efeitos de uma vida dupla, que se divide entre o alto mar e a terra. A câmera é utilizada sempre com a intenção de passar a sensação de isolamento vivida por esses homens que se encontram em situação de tensão constante, pois qualquer movimento em falso pode provocar um acidente grave e manchar a imagem da plataforma de petróleo mais segura que existe.</p><p>Nesse contexto, Rodrigo Lombardi que interpreta Roberto, ao lado de Roberto Birindelli, que vive Wagner, tem uma relação de amizade e companheirismo que é mostrada através de pequenos gestos e ações durante o longa e é o ponto alto do filme. No entanto, tudo muda quando após um acidente ocorrido com o personagem de Caco Ciocler, envolto em mistérios, Lombardi é escolhido para assumir o papel de chefe dessa estação.</p><p>O Roteiro que é dividido entre Paulo Sacramento e Eduardo Benaim estabelece bem como é viver em uma estação de petróleo, mas por outro lado, não consegue passar a mesma verdade quanto se trata da vida de Roberto em terra firma. A constante crescente do longa instiga o espectador a acompanhar os rumos da trama, mas não consegue entregar outras camadas para a família de Roberto. Muitas ações e relações são apenas verbalizadas, mas não mostradas em tela como por exemplo a relação ruim que existe entre Roberto e seu pai, que é apenas abordada durante alguns diálogos entre ele e sua mãe.</p><p>O elenco que conta ainda com nomes como Débora Nascimento, Maria Luísa Mendonça e Luís Melo não da espaço para eles terem seus conflitos mais desenvolvidos, o que acaba deixando o drama vivido pelo personagem de Rodrigo Lombardi menos palpável. A sua atuação é o que melhor consegue expressar esses conflitos internos, sempre muito forte nas cenas, ele entrega todo sentimento do personagem.</p><p>O Olho e a Faca se propõe a mostrar a vida de um homem que vai desmoronando, mas as poucas chances que o roteiro oferece de tentar entender como ele pensa é o que mais dificulta o desenvolvimento do filme. As poucas camadas acrescentadas aos outros personagens dão um ar raso, o que também não ajuda no desenvolvimento da trama. No fim, o longa vale a pena ser assistido pela atuação de Rodrigo Lombardi e de Roberto Birindelli que tem uma boa sintonia em tela.</p><figure><iframe src='https://www.youtube.com/embed/3I8IGB-a9-c?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p><strong>Lucas Souza – 1º Período | Publicidade</strong></p><p></p></main>"
+  },
+  "date": "2019-06-24T18:00:36",
+  "date_gmt": "2019-06-24T21:00:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Roberto (Rodrigo Lombardi) trabalha com extração de petróleo em uma base que fica em alto mar e passa muito tempo afastado da mulher e dos filhos. Depois de receber uma promoção, ele tem que lidar com as consequências de tentar equilibrar sua vida em terra firme com as novas responsabilidades que o atual cargo exige. [&hellip;]</p>\n"
+  },
+  "featured_media": 4492,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4491"
+  },
+  "id": 4491,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/06/cabine-rj.jpg?fit=650%2C1150&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1ar",
+  "link": "https://agenciauvabarra.com/2019/06/24/agencia-uva-barra-assistiu-o-olho-e-a-faca/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-06-24T13:43:20",
+  "modified_gmt": "2019-06-24T16:43:20",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-o-olho-e-a-faca",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    654043850,
+    5615658,
+    674444531,
+    682155835,
+    8598128
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: &#8221; O Olho e a Faca&#8221;"
+  },
+  "type": "post"
+}

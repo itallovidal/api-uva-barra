@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15240/revisions/15243",
+        "id": 15243
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15240"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15240",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15240/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15240"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15242"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15240",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15240",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    23208,
+    175,
+    39479,
+    701438832
+  ],
+  "class_list": [
+    "post-15240",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-entretenimento",
+    "category-marketing",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-cinecast",
+    "tag-cinema",
+    "tag-divulgacao",
+    "tag-marketing",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Neste episódio do Cinecast, os alunos vão bater um papo sobre Product Placement, uma estratégia de marketing que consiste na divulgação sútil de produtos dentro das produções audiovisuais.</p><p>O grupo é formado pelos estudantes do curso de Publicidade e Propaganda Daiana Fakri, Eduardo Braga, Gabriel Ayres, Marcos Vinicius, Paulo Broder e Renata Ramaldes.</p><p><strong>Confira o podcast completo clicando no link abaixo!</strong></p><figure><div class=\"embed-spotify\"><iframe title=\"Spotify Embed: Cinecast: Product Placement\" width=\"100%\" height=\"152\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/7cpm7RZgGRp9H7O8uXbmjR?si=CUKQ0zjkTFGVANAp8EOItQ&#038;utm_source=oembed\"></iframe></div></figure><p><br><em>*Produto produzido para a disciplina de Webrádio e Podcast, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-07-04T15:59:10",
+  "date_gmt": "2023-07-04T18:59:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Neste episódio do Cinecast, os alunos vão bater um papo sobre Product Placement, uma estratégia de marketing que consiste na divulgação sútil de produtos dentro das produções audiovisuais.</p>\n"
+  },
+  "featured_media": 15242,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15240"
+  },
+  "id": 15240,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/whatsapp-image-2023-07-04-at-15.51.47.jpeg?fit=495%2C487&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3XO",
+  "link": "https://agenciauvabarra.com/2023/07/04/cinecast-product-placement/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-04T15:59:10",
+  "modified_gmt": "2023-07-04T18:59:10",
+  "ping_status": "open",
+  "slug": "cinecast-product-placement",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    2558307,
+    767056592,
+    175234,
+    767056591,
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Cinecast: Product Placement"
+  },
+  "type": "post"
+}

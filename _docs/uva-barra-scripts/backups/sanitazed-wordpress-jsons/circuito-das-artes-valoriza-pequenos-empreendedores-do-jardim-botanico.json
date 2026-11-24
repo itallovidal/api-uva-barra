@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4678/revisions/4686",
+        "id": 4686
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4678"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4678",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4678/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4678"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4682"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4678",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4678",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431
+  ],
+  "class_list": [
+    "post-4678",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "tag-23o-circuito-das-artes",
+    "tag-agencia-uva-barra",
+    "tag-artesanato",
+    "tag-jardim-botanico"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em> Um natal antecipado para as lojas, ateliês e restaurantes do bairro </em></p><p>O 23º Circuito das Artes no bairro Jardim Botânico teve início no sábado (17/08), com ateliês de portas abertas, exposições diversas, além de atividades para adultos e crianças e um circuito gastronômico em paralelo. A programação continua no fim de semana de 24 e 25 de agosto, das 13h às 20h e agrada a todos os bolsos, com ações gratuitas ou ainda as que requerem pagamento.</p><p>O evento surgiu pela primeira vez em 1998, quando a produtora e coordenadora do circuito, Gabriella Civitate, e sua sócia, Cattia Capistrano, leram um jornal local e perceberam que existiam muitos ateliês no bairro. “Então tivemos a ideia de homenagear o parque Jardim Botânico, que na época fazia 190 anos, e organizamos o primeiro Circuito das Artes”, explica Gabriella Civitate.</p><p>Esse foi o ponta pé para os moradores passaram a frequentar mais as ruas do bairro e a conhecer restaurantes e pessoas no qual eles não tinham contato antes. Essa ação gerou uma reação no comercio local. “As lojas dizem que é o segundo natal, ou seja, traz muita movimentação para o Jardim Botânico”, afirma Gabriella.</p><p>Quem faz questão de passar todos os anos no evento é Liliana Silva, de 55 anos. A moradora acredita que os pequenos empreendedores, que possuem pouca visibilidade, passam a ser notados e saem beneficiados. “Eu mesma já comprei várias coisas e decorei minha casa em estilo aquarelas, e já trouxe muitas amigas aqui que compraram joias e bijuterias”, comenta Liliana.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/foto-4-1.jpg?resize=472%2C353&amp;ssl=1\" alt=\"\" width=\"472\" height=\"353\" /><figcaption>Liliana Silva, de 55 anos, observa objetos de cerâmica no ateliê Coletivo Secreto – Foto: Ana Carolina Fernandes</figcaption></figure><p>Mas se engana quem acha que o Circuito das Artes é só para morador. O programa também atrai pessoas de outros bairros do Rio de Janeiro, como a Marcella Oliveira, de 35 anos, que trabalha no Jardim Botânico, mas está pela primeira vez no circuito. “Você sai um pouco de uma conexão digital excessiva, para ter de novo uma conexão do real, percebendo o mundo a sua volta”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/foto-5.jpg?resize=473%2C354&amp;ssl=1\" alt=\"\" width=\"473\" height=\"354\" /><figcaption>Marcella Oliveira, de 35 anos, tira dúvidas sobre produtos naturais de estética no ateliê Casa Fazendoria – Foto: Ana Carolina Fernandes</figcaption></figure><p>Confira os depoimentos da artista e idealizadora do evento, Cattia Capistrano, e de Isaura Macel, voluntária da instituição O Sol, que promove aulas gratuitas de artesanato para pessoas em situação de vulnerabilidade e que necessitam de uma fonte de renda:</p><figure><iframe src=\"https://www.youtube.com/embed/w1aj6_IVWyk?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p><strong>Ana Carolina Fernandes – 4º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-08-20T17:53:26",
+  "date_gmt": "2019-08-20T20:53:26",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um natal antecipado para as lojas, ateliês e restaurantes do bairro O 23º Circuito das Artes no bairro Jardim Botânico teve início no sábado (17/08), com ateliês de portas abertas, exposições diversas, além de atividades para adultos e crianças e um circuito gastronômico em paralelo. A programação continua no fim de semana de 24 e [&hellip;]</p>\n"
+  },
+  "featured_media": 4682,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4678"
+  },
+  "id": 4678,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/08/foto-1-1.jpg?fit=4608%2C3456&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1ds",
+  "link": "https://agenciauvabarra.com/2019/08/20/circuito-das-artes-valoriza-pequenos-empreendedores-do-jardim-botanico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-08-20T17:58:11",
+  "modified_gmt": "2019-08-20T20:58:11",
+  "ping_status": "open",
+  "slug": "circuito-das-artes-valoriza-pequenos-empreendedores-do-jardim-botanico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    685325660,
+    648221465,
+    25481,
+    713452
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Circuito das Artes valoriza pequenos empreendedores do Jardim Botânico"
+  },
+  "type": "post"
+}

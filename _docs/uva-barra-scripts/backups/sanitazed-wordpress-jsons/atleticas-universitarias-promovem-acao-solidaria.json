@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6803/revisions/6825",
+        "id": 6825
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6803"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6803",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6803/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6803"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6821"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6803",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6803",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-6803",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Estudantes do Rio de Janeiro se unem para ajudar quem precisa durante a pandemia</em></p><p>As atléticas universitárias vêm ganhando espaço e crescendo a cada dia no ambiente acadêmico. Sempre promovendo integração entre os alunos, as atividades são diversas e atualmente vão além do esporte, práticas sociais são cada dia mais comuns entre os jovens que integram essas organizações.</p><p>Um exemplo disso é a campanha \"Vamos Virar o jogo\" criada pela Atlética Unicarioca. O projeto que une 65 atléticas de diferentes universidades do Rio de Janeiro tem o objetivo de arrecadar R$ 11.000,00, que serão convertidos em cestas básicas, produtos de higiene e limpeza, e serão doados para cinco projetos sociais na cidade, beneficiando diversas famílias que estão sofrendo com a crise causada pelo novo coronavírus.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-21-at-16.03.50-3-e1590089977650.jpeg\" alt=\"\" width=\"622\" height=\"737\"><figcaption>Todas as atléticas participantes divulgaram a campanha em suas redes sociais – Foto: Reprodução da internet – Foto: Reprodução da internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-21-at-16.03.50-1-e1590088001642.jpeg\" alt=\"\" width=\"622\" height=\"679\"><figcaption>Atléticas envolvidas na campanha \"Vamos virar o jogo\" – Foto: Reprodução da internet</figcaption></figure><p>Iniciativas como essa reforçam o alerta de que em períodos de crise, como o atual momento, existem pessoas que são afetadas de maneira mais intensa e toda forma de ajuda se torna ainda mais importante. Fernando Pieroni, vice-presidente da Atlética de Comunicação e Artes da UVA Barra comenta que as ações sociais promovidas pelas atléticas atraem o olhar de um público que possivelmente não daria tanta atenção para campanhas de doação. \"Acordamos de participar desde que todos fossem contribuir com o que pudessem, ainda mais em tempo de pandemia, no qual todos estamos tendo que evitar gastos. Doar para a campanha nos faz avaliar melhor nossos valores pessoais e torna o ato mais especial\", relata Fernando.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-20-at-17.13.18.jpeg\" alt=\"\" width=\"1280\" height=\"834\"><figcaption>Fernando Pieroni conta que promover ações sociais faz parte da proposta da Atlética de Comunicação e Artes da UVA Barra – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-20-at-17.11.47.jpeg\" alt=\"\" width=\"1280\" height=\"853\"><figcaption>Integrantes da Atlética de Comunicação e Artes da UVA Barra, a \"Uverdoses\" – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-21-at-10.35.38-e1590089331387.jpeg\" alt=\"\" width=\"1028\" height=\"1257\"><figcaption>Paulo Rodrigo Pereira é Presidente da Atlética de Direito da UVA Barra</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-19-at-20.57.09.jpeg\" alt=\"\" width=\"1280\" height=\"960\"><figcaption>Integrantes da Atlética de Direito da UVA Barra, a \"Mercenários\" – Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-18-at-21.38.29.jpeg\" alt=\"\" width=\"864\" height=\"1152\"><figcaption>Nicolas Wadson é presidente da Atlética de Administração, a \"Admaníacos\", que também está participando da campanha \"Vamos virar o jogo\"- Foto: Arquivo Pessoal</figcaption></figure><p>O vice-presidente da atlética UniCarioca, Luiz Henrique Oliveira, conta que a ideia de criar o \"vamos virar o jogo\" surgiu em março. \"O presidente da UniCarioca Diego Santana convidou algumas atléticas para se unirem para ajudar algum projeto social, mas com uma atlética convidando a outra, chegamos a 23 atléticas participantes. E ali decidimos não apadrinhar apenas um único projeto, e sim cinco\", conta.</p><p>Os projetos que irão receber as doações são:</p><ul><li>Mangueira do Futuro</li><li>Rocinha Resiste</li><li>Projeto Bom de bola 3F's</li><li>Abrigo Presbiteriano</li><li>Campanha do Projeto Jacaré</li></ul><p>Confira o vídeo com o depoimento do presidente da Atlética de Direito da UVA Barra, Paulo Rodrigo Pereira</p><figure><iframe src=\"https://www.youtube.com/embed/wgXCeLRhzlw\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p>A divulgação é feita pelas redes sociais das atléticas, e de seus integrantes. A campanha já ultrapassou a meta estipulada e atualmente já conta com R$11.212,00. Quem quiser contribuir, ainda dá tempo, é só acessar o site Abacashi.</p><p><strong>Graziela Andrade – 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-05-21T16:40:00",
+  "date_gmt": "2020-05-21T19:40:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Estudantes do Rio de Janeiro se unem para ajudar quem precisa durante a pandemia As atléticas universitárias vêm ganhando espaço e crescendo a cada dia no ambiente acadêmico. Sempre promovendo integração entre os alunos, as atividades são diversas e atualmente vão além do esporte, práticas sociais são cada dia mais comuns entre os jovens que [&hellip;]</p>\n"
+  },
+  "featured_media": 6821,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6803"
+  },
+  "id": 6803,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/05/whatsapp-image-2020-05-21-at-16.03.50-3-e1590089977650.jpeg?fit=622%2C737&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1LJ",
+  "link": "https://agenciauvabarra.com/2020/05/21/atleticas-universitarias-promovem-acao-solidaria/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-05-21T16:48:16",
+  "modified_gmt": "2020-05-21T19:48:16",
+  "ping_status": "open",
+  "slug": "atleticas-universitarias-promovem-acao-solidaria",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Atléticas universitárias promovem ação solidária"
+  },
+  "type": "post"
+}

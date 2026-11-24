@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14880/revisions/14908",
+        "id": 14908
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14880"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14880",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14880/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14880"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14899"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14880",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14880",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-14880",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os três dias de evento trouxeram aprendizados e novidades</em></p><p>A 19ª edição da Semana de Comunicação (SECOM) dos cursos de Jornalismo e Publicidade teve uma novidade neste ano, a estreia no metaverso. Por meio do ambiente virtual da LivePlanet, alunos, professores e profissionais convidados puderam se conectar em palestras, e workshops/oficinas voltadas para os temas de comunicação, entretenimento e inovação entre os dias 29, 30 e 31 de maio.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-beatriz-balena.png?resize=836%2C488&#038;ssl=1' alt='' width='836' height='488'><figcaption>“Pra mim como reitora, e para todos nós da comunidade acadêmica, é uma honra poder ter um evento como esse. Parabéns a todos.”, afirma Beatriz Balena. (Foto: Reprodução)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-monica-_-edward.png?resize=666%2C369&#038;ssl=1' alt='' width='666' height='369'><figcaption>“O que parecia ficção hoje está presente”, afirma Edward sobre novas tecnologias. (Foto: Reprodução)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-celso-valente-mei.png?resize=897%2C483&#038;ssl=1' alt='' width='897' height='483'><figcaption>Celso deu dicas para novos empreendedores. (Foto: Reprodução)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-bruno-venancio.jpg?resize=1024%2C1536&#038;ssl=1' alt='' width='1024' height='1536'><figcaption>Bruno trabalhou nas redes sociais da SECOM e na apresentação. (Foto: Reprodução)</figcaption></figure><p>A professora Beatriz Balena, reitora da UVA, foi quem deu as boas-vindas ao evento, e elogiou as novidades da edição. “São assuntos clássicos da comunicação, mas discutidos de forma leve, bacana, moderna; mas principalmente, trazendo muita coisa nova para a nossa universidade”, completou.</p><p>A primeira palestra do dia 29 trouxe o tema “Um olhar para o futuro: branding na era digital”, apresentada pelo jornalista e diretor do estúdio de branded content da Globo, Edward Pimenta, e mediada pela professora Mônica Miranda.</p><p>No encontro, foram abordados temas como inteligências artificiais e regulamentação das informações distribuídas na internet. Edward frisa que as IAs são apenas ferramentas, e que o importante é se atentar ao viés do ser humano que usa a máquina. Também foram debatidas as mudanças na relação entre audiência e meios de comunicação — e como as redes sociais alteraram a dinâmica da sociedade.</p><blockquote>“Hoje qualquer pessoa pode, de alguma forma, produzir conteúdo e influenciar o debate público.” <cite>Edward Pimenta</cite></blockquote><p>Na noite do dia 30, a palestra “Eventos e experiências: o poder do entretenimento para engajar”, reuniu os profissionais Erika Ferreira (CEO da ELAZ Eventos), Guilherme Dornelas e Marcos Klein (sócios-fundadores da LivePlanet). A mediação foi feita pela professora Adriane Figueirola.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-adriane-_-guilherme-_-marcos-_-erika-1.png?resize=838%2C470&#038;ssl=1' alt='' width='838' height='470'><figcaption>“A melhor forma de se encontrar é botar a cara”, diz Marcos sobre experimentar trabalho com eventos. (Foto: Reprodução)</figcaption></figure><p>Os palestrantes falaram sobre as dificuldades do trabalho de organização de eventos, e maneiras para inovar na área; já que o público deseja mais que um evento organizado.&nbsp; “Hoje em dia as pessoas buscam experiências”, completou Erika.</p><p>Os convidados também deram dicas para futuros profissionais, como experimentar antes de decidir carreira e não negligenciar novas tecnologias, como o metaverso. “O Metaverso tem a possibilidade de ser um extra do evento”, afirmou Guilherme.<br><br><strong>Ouça no áudio a seguir outras recomendações que Guilherme considera vitais para futuros profissionais da área</strong>:</p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1529180824&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Recomendações que Guilherme considera vitais para futuros profissionais da área: by Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></figure><p>Por fim, no dia 31 a conclusão das atividades da SECOM foi marcada pelo workshop “MEI na prática: como regularizar seu negócio e virar protagonista da sua carreira”, com Celso Valente Silveira, CEO da start-up MeiShop, apresentando soluções práticas e informações para quem busca empreender.</p><blockquote>“A integração entre alunos e professores para montar esse evento grandioso foi uma das melhores partes. Sem essa união, nada disso seria possível.” <cite>Ana Cristina Rosado</cite></blockquote><p>Para o aluno de Jornalismo Bruno Venâncio, que participou também da organização, o trabalho foi desafiador, mas também motivo de orgulho. <strong>Ouça as impressões de Bruno na íntegra, no seguinte áudio:</strong></p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1529179564&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Ouça as impressões de Bruno na íntegra. by Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></figure><p></p><p><strong>Workshops e oficinas on-line realizados na semana da SECOM 2023</strong></p><p>A edição 2023 da Secom contou com workshops e oficinas no módulo on-line para os alunos dos três campi.&nbsp;A programação trouxe temas variados da comunicação Como montar um podcast, com Nayara Alves, locutora e professora de história. Nayara mostrou aos alunos como estruturar um podcast, dando dicas importantes e práticas, flexíveis e fáceis para que os alunos consigam montar um espaço sonoro para dissipar ideias e construções no mundo acadêmico.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/nayara-alves.jpeg?resize=1039%2C484&#038;ssl=1' alt='' width='1039' height='484'><figcaption>Nayara Alves durante a apresentação da oficina. (Foto: Reprodução)</figcaption></figure><p>Nayara explica de que forma é necessário divulgar e alcançar o público alvo para quem quer fazer um podcast. <strong>Confira o áudio abaixo da palestrante.</strong></p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1529186818&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Nayara explica de que forma é necessário divulgar  para quem quer fazer um podcast by Agência UVA Barra' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></figure><p>&nbsp;Além disso, outros workshops foram ministrados no evento, um deles foi sobre o MEIshop para pessoas que desejam ter sua própria empresa ou marca. O palestrante Celso Valente tirou muitas dúvidas de alunos sobre a abertura de uma microempresa individual e falou sobre o medo que as pessoas têm de abrir o próprio negócio e sobre a visão do especialista sobre a falta de mais empreendedores no Brasil.</p><p>“O que falta para o Brasil é realmente a gente entender que o empreendedorismo veio pra ficar e a gente tem que olhar pra dentro dele e todo mundo colocar pra fora essa vontade de empreender”, afirma o palestrante.</p><p><em>Pedro Lima — 4° Período</em><br><em>Vinícius Zakhm &#8211; 7° período</em></p></main>"
+  },
+  "date": "2023-06-02T16:57:03",
+  "date_gmt": "2023-06-02T19:57:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os três dias de evento trouxeram aprendizados e novidades A 19ª edição da Semana de Comunicação (SECOM) dos cursos de Jornalismo e Publicidade teve uma novidade neste ano, a estreia no metaverso. Por meio do ambiente virtual da LivePlanet, alunos, professores e profissionais convidados puderam se conectar em palestras, e workshops/oficinas voltadas para os temas [&hellip;]</p>\n"
+  },
+  "featured_media": 14899,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14880"
+  },
+  "id": 14880,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/06/foto-de-capa-_.png?fit=1366%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3S0",
+  "link": "https://agenciauvabarra.com/2023/06/02/secom-2023-integra-comunicacao-e-metaverso/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-06-02T18:00:14",
+  "modified_gmt": "2023-06-02T21:00:14",
+  "ping_status": "open",
+  "slug": "secom-2023-integra-comunicacao-e-metaverso",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "SECOM 2023 integra Comunicação e Metaverso"
+  },
+  "type": "post"
+}

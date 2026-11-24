@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11601/revisions/11604",
+        "id": 11604
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11601"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11601",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11601/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11601"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11603"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11601",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11601",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    7114,
+    254332,
+    758,
+    14591
+  ],
+  "class_list": [
+    "post-11601",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-sociedade",
+    "category-sustentabilidade",
+    "category-tecnologia",
+    "category-trabalho",
+    "tag-agencia-uva-barra",
+    "tag-cidade-das-artes",
+    "tag-podcast",
+    "tag-rio2c",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Rio2C e o mercado de inovação, diversidade e sustentabilidade \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/7F7nIh0TLDum17cjgUWfe0?si=8d013910e4f94e12&amp;utm_source=oembed\"></iframe></figure><p>O Rio2C, o maior evento de criatividade da América Latina, é palco de debates sobre inovação, diversidade e sustentabilidade.</p><p>No próximo domingo, 01/05, é comemorado o dia do trabalhador e a Rádio UVA Barra repercute o atual mercado de trabalho tecnológico, como também, discute formas do profissional inovar, bem como, empresas abordarem pilares de pluralidade e de desenvolvimento sustentável.</p><p>Neste podcast contamos com a participação de Felipe Silva, fundador da Gana, Layon Jorge Costa, country manager da Clara, a artista Luísa Sonza, Raquel Virgínia, CEO e fundadora da gestão de cultura Nhaí e Stella Messias, analista de sustentabilidade do Grupo SOMA.</p><p><em>Mariana Sabino – 7º período<br>Pedro Amorim – 6º período</em></p></main>"
+  },
+  "date": "2022-04-29T18:00:00",
+  "date_gmt": "2022-04-29T21:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Rio2C, o maior evento de criatividade da América Latina, é palco de debates sobre inovação, diversidade e sustentabilidade.</p>\n"
+  },
+  "featured_media": 11603,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11601"
+  },
+  "id": 11601,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/04/instagram-e-site-agencia-.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-317",
+  "link": "https://agenciauvabarra.com/2022/04/29/podcast-radio-uva-barra-rio2c-e-o-mercado-de-inovacao-diversidade-e-sustentabilidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-04-29T10:26:20",
+  "modified_gmt": "2022-04-29T13:26:20",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-rio2c-e-o-mercado-de-inovacao-diversidade-e-sustentabilidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    15767449,
+    1142,
+    604292533,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Rio2C e o mercado de inovação, diversidade e sustentabilidade"
+  },
+  "type": "post"
+}

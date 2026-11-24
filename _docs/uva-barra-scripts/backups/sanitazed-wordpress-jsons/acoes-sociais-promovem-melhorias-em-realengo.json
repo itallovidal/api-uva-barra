@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8390/revisions/8404",
+        "id": 8404
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8390"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8390",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8390/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8390"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8402"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8390",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8390",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    18330,
+    7114,
+    254332
+  ],
+  "class_list": [
+    "post-8390",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-institucional",
+    "category-sociedade",
+    "category-sustentabilidade",
+    "tag-avante-parquinho-verde"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O projeto Parquinho Verde reúne sustentabilidade, cultura e lazer em espaços ociosos na Zona Oeste</em></p><p>Com mais de 180 mil habitantes, Realengo é o quarto maior bairro da cidade do Rio de Janeiro. O nome é a junção das palavras Real Engenho que eram abreviadas como Real Engº nas placas ao longo do caminho que a Família Real percorria até o bairro de Santa Cruz. O que era caminho da realeza em meados do século XIX, conta atualmente com espaços ociosos. Iniciativas como a do Parquinho Verde visa utilizar áreas abandonadas a fim de promover lazer, sustentabilidade e cultura para os moradores da redondeza.</p><p><strong>Assista o vídeo sobre o projeto Parquinho Verde</strong></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-11-164355.png?resize=851%2C428&amp;ssl=1' alt='' width='851' height='428' /><figcaption>Fonte: Nações Unidas no Brasil</figcaption></figure><p>A produtora cultural, Marcele Oliveira, faz parte desse coletivo. Ela é a coordenadora de campanha do Festival Parquinho Verde que tem como objetivo levantar fundos para a revitalização do espaço onde ficava a antiga Fábrica de Cartuchos de Realengo. Consiste em uma área verde que desperta interesse de construtoras, mas encontra resistência dos moradores. O projeto visa desenvolver práticas sustentáveis e culturais junto com os moradores de Realengo.</p><p><strong>Ouça o audio de Marcele Oliveira sobre Realengo</strong></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F944472352&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Agência UVA Barra · Marcele Oliveira fala sobre Realengo' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><p>De acordo com Andrea, o subúrbio carioca foi originalmente pensado para receber esse tipo de iniciativa. O local abrigaria os cinemas de rua, praças arborizadas, residências, comércios de rua. Entretanto, não houve política pública que viabilizasse esse desenvolvimento.</p><p><strong>Ouça o áudio de Andréa sobre o subúrbio carioca</strong></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F944472727&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='Agência UVA Barra · Andréa Cruz fala sobre o subúrbio carioca' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><p>O subúrbio, em especial a Zona Oeste, ocupa a maior parte do território carioca. Entretanto, é onde o Índice de Desenvolvimento Humano (IDH) é médio-baixo na cidade. Segundo dados do Instituto Pereira Passos (IPP), o bairro de Realengo ocupa a 86ª posição dentre os 126 bairros cariocas, com taxa de 0,803 – quanto mais perto de 1, mais desenvolvido é.</p><p>Um outro indicador urbano é o Índice de Desenvolvimento Social (IDS), que tem por finalidade medir o grau do avanço social de uma determinada área geográfica em comparação com as outras da mesma cidade. O cálculo se dá através de variáveis, como: PIB per capita, a taxa de frequência escolar, taxa de alfabetização, desenvolvimento social e urbano. O IDS busca caracterizar o aspecto urbano e situações típicas das cidades, para o melhor conhecimento e atuação pública.</p><p>É a partir das deficiências do bairro baseadas no IDS e da falta de políticas desenvolvimentistas, que iniciativas e coletivos, como o Parquinho Verde, surgem. Estes projetos sociais estão modificando a vida de diversas pessoas e transformando a realidade dos espaços que ocupam.</p><blockquote><p><em>“O Parquinho é um grande terreno que estava abandonado se tornando um grande lixão, se tornando polo de coisas não maneiras. A partir da mobilização da ocupação Parquinho Verde, ele consegue se tornar um lugar de encontro, de sustentabilidade, um lugar de práticas não só saudáveis e sustentáveis, mas também práticas culturais”</em></p><cite><em>Marcele Oliveira</em></cite></blockquote><p>De acordo com Andrea, o subúrbio carioca foi originalmente pensado para receber esse tipo de iniciativa. O local abrigaria os cinemas de rua, praças arborizadas, residências, comércios de rua. Entretanto, não houve política pública que viabilizasse esse desenvolvimento.</p><p>O subúrbio, em especial a Zona Oeste, ocupa a maior parte do território carioca. Entretanto, é onde o Índice de Desenvolvimento Humano (IDH) é médio-baixo na cidade. Segundo dados do Instituto Pereira Passos (IPP), o bairro de Realengo ocupa a 86ª posição dentre os 126 bairros cariocas, com taxa de 0,803 – quanto mais perto de 1, mais desenvolvido é.</p><p>Um outro indicador urbano é o Índice de Desenvolvimento Social (IDS), que tem por finalidade medir o grau do avanço social de uma determinada área geográfica em comparação com as outras da mesma cidade. O cálculo se dá através de variáveis, como: PIB per capita, a taxa de frequência escolar, taxa de alfabetização, desenvolvimento social e urbano. O IDS busca caracterizar o aspecto urbano e situações típicas das cidades, para o melhor conhecimento e atuação pública.</p><p>É a partir das deficiências do bairro baseadas no IDS e da falta de políticas desenvolvimentistas, que iniciativas e coletivos, como o Parquinho Verde, surgem. Estes projetos sociais estão modificando a vida de diversas pessoas e transformando a realidade dos espaços que ocupam.</p><p>O Festival Avante Parquinho Verde vai acontecer em Janeiro de 2021 com oficinas e ações culturais que possibilitem o desenvolvimento dos moradores. “O Festival é só a faísca”, afirma Marcele Oliveira que olha para o futuro com planos para que o bairro se torne mais próximo de um lar.</p><p></p><p><em>Gabrielle Lopes - 6º período</em><br /><em>Rafaela Barbosa - 8º período</em></p></main>"
+  },
+  "date": "2020-12-11T16:58:30",
+  "date_gmt": "2020-12-11T19:58:30",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O projeto Parquinho Verde reúne sustentabilidade, cultura e lazer em espaços ociosos na Zona Oeste Com mais de 180 mil habitantes, Realengo é o quarto maior bairro da cidade do Rio de Janeiro. O nome é a junção das palavras Real Engenho que eram abreviadas como Real Engº nas placas ao longo do caminho que [&hellip;]</p>\n"
+  },
+  "featured_media": 8402,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8390"
+  },
+  "id": 8390,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/captura-de-tela-2020-12-11-165520.png?fit=397%2C455&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2bk",
+  "link": "https://agenciauvabarra.com/2020/12/11/acoes-sociais-promovem-melhorias-em-realengo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-12-11T16:58:30",
+  "modified_gmt": "2020-12-11T19:58:30",
+  "ping_status": "open",
+  "slug": "acoes-sociais-promovem-melhorias-em-realengo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    710850018
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Ações sociais promovem melhorias em Realengo"
+  },
+  "type": "post"
+}

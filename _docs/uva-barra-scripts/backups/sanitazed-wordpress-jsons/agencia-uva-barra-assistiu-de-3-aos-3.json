@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14522/revisions/14528",
+        "id": 14528
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14522"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14522",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14522/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14522"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14527"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14522",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14522",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-14522",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O documentário “De 3 aos 3” do diretor Pablo Lobato tem a primeira infância como centro de toda a produção. Dividindo a realização com Bianca Bethonico, pesquisadora e também produtora executiva no projeto, o filme apresenta ao mundo uma visão experimental acerca da chamada “Abordagem Pikler”, um conjunto de princípios e metodologias revolucionárias criadas pela pediatra Emmi Pikler para o desenvolvimento excepcional de bebês e crianças pequenas durante a criação e educação.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/3-aos-3-texto.jpg?resize=1920%2C1080&amp;ssl=1\" alt=\"\" width=\"1920\" height=\"1080\" /><figcaption>Foto: Divulgação</figcaption></figure><p>O filme acompanha o filho de Bianca, o pequeno Ravi, durante o período de seus três primeiros meses de vida até os três anos de idade, quando ficou à luz dos saberes da pediatra austríaca Emmi Pikler através dos cuidados oferecidos pela mãe, estudiosa da abordagem Pikler no Brasil. Ao longo dos primeiros anos com o filho, a mãe coloca em prática os ensinamentos deixados pelo legado da pediatra, que procura estimular a autonomia e individualidade dos bebês para um maior resultado no processo de desenvolvimento motor, cognitivo, social e emocional da criança.</p><p>Assim como tudo que é novo, o documentário não falha em conseguir captar a atenção e curiosidade do público acerca de sua temática central, que ainda pode ser desconhecida para muitos que não são familiarizados sobre metodologias de criação e educação infantil. Conhecer a abordagem Pikler e muitos dos seus característicos detalhes se torna uma tarefa fácil para quem assiste ao documentário, público esse que — quase que inevitavelmente — se torna um refém da exibição de uma evolução fantástica no crescimento de Ravi. É fácil de identificar que esse sempre foi o objetivo principal dessa produção, documentar e analisar todo esse processo de maneira que fosse acessível e atrativa para um alcance bem maior de pessoas, através do cinema.</p><p>É uma experiência que retrata precisamente a humanidade do carinho entre mãe e filho durante a primeira infância. Em debate com especialistas e outras mães durante o documentário, se conhece muito sobre o impacto da metodologia nos pais que decidem por estudar e praticar os exercícios rotineiros da abordagem Pikler na criação dos filhos. O público se torna bem íntimo do dia a dia de Bianca e Ravi, que fazem das atividades mais banais como um simples banho, se tornarem uma representação hipnotizante de puro amor.</p><p>Cumprindo todos os seus claros objetivos, “De 3 aos 3” é um momento enriquecedor para qualquer um. Nada melhor do que aprender sobre um assunto completamente novo enquanto se é encantado pela beleza da primeira infância. O filme estreia nos cinemas no dia 4 de maio com a distribuição feita pela Embaúba Filmes.</p><figure><iframe src=\"https://www.youtube.com/embed/qulV8yCry8o?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><br><em>Bruno Barros — 3° período</em></p></main>"
+  },
+  "date": "2023-05-04T17:41:18",
+  "date_gmt": "2023-05-04T20:41:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O documentário “De 3 aos 3” do diretor Pablo Lobato tem a primeira infância como centro de toda a produção. Dividindo a realização com Bianca Bethonico, pesquisadora e também produtora executiva no projeto, o filme apresenta ao mundo uma visão experimental acerca da chamada “Abordagem Pikler”, um conjunto de princípios e metodologias revolucionárias criadas pela pediatra Emmi Pikler para o desenvolvimento excepcional de bebês e crianças pequenas durante a criação e educação.</p>\n"
+  },
+  "featured_media": 14527,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14522"
+  },
+  "id": 14522,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/05/3-aos-3-capa-ana-paula-salvo.jpg?fit=5472%2C3648&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Me",
+  "link": "https://agenciauvabarra.com/2023/05/04/agencia-uva-barra-assistiu-de-3-aos-3/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-04T17:41:18",
+  "modified_gmt": "2023-05-04T20:41:18",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-de-3-aos-3",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: De 3 aos 3 "
+  },
+  "type": "post"
+}

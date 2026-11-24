@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10734/revisions/10750",
+        "id": 10750
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10734"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10734",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10734/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10734"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10745"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10734",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10734",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    1899315,
+    7114
+  ],
+  "class_list": [
+    "post-10734",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Tendência é de liberação total quando a população estiver 100% vacinada</em></p><p>A flexibilização na utilização de máscaras de proteção facial em combate ao novo coronavírus no Estado do Rio de Janeiro continua mantida para ambientes abertos desde outubro, quando a medida foi sancionada. Mesmo com cenário de baixo risco de contaminação em todas as regiões, devido à agilidade na distribuição das vacinas, a decisão da Secretaria de Estado de Saúde ainda exige dos municípios respeito aos protocolos de distanciamento social, seja em ambiente aberto ou fechado, e a continuidade da campanha de vacinação. Após mais de um ano e meio do decreto de calamidade pública no país em razão da pandemia, a medida celebra uma vitória na longa batalha contra o vírus.</p><p>Em razão disso, seguem liberados pela prefeitura o não uso de máscaras em lugares abertos, e também o funcionamento de boates, casas de show e salões de dança com até 50% da capacidade. Entretanto, em ambientes fechados e transportes públicos, a obrigatoriedade da proteção facial ainda é exigida. A recomendação foi feita pelo comitê de especialistas, que a prefeitura instaurou para auxiliar no combate à Covid-19. Vale ressaltar, que no ano passado, o Supremo Tribunal Federal (STF) proferiu decisão em que Municípios, Estados e União Federal possuem competência para estabelecer medidas de combate à Covid-19.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-marcelo-gomes.jpg?resize=1279%2C1280&#038;ssl=1' alt='' width='1279' height='1280' /><figcaption>Marcelo acredita que a pandemia não está totalmente controlada. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/foto-vitor-mori.jpg?resize=512%2C512&#038;ssl=1' alt='' width='512' height='512' /><figcaption>Vitor Mori entende que a flexibilização deve ocorrer gradativamente. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/eldro.jpg?resize=640%2C480&#038;ssl=1' alt='' width='640' height='480' /><figcaption>Eldro ainda não sente confiança em retirar a proteção facial. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/isabella.jpg?resize=640%2C480&#038;ssl=1' alt='' width='640' height='480' /><figcaption>Isabella retomou sua rotina normal sem utilização da máscara. (Foto: Arquivo Pessoal)</figcaption></figure><p>De acordo com Marcelo Gomes, coordenador do InfoGripe, da Fundação Oswaldo Cruz (Fiocruz), o momento de flexibilizar o uso da máscara mesmo em ambientes externos, ainda não é oportuno. “Se formos analisar apenas a situação epidemiológica e vacinal de um único município e não levar em conta a vizinhança, pode ser um agravante tanto para a capital quanto para os vizinhos, porque excluir a obrigatoriedade da máscara, mesmo em ambientes abertos, se torna um facilitador para a transmissão, onde a chance é elevada”, conta.</p><p>Por mais que os indicadores apontem um clima positivista, com a queda dos casos mais graves e internações, e com o avanço da vacinação, estima-se que somente com 90% da população vacinada seria viável a flexibilização, valendo ressaltar que alguns países já enfrentaram situações semelhantes antes de antecipar a retirada da obrigatoriedade do uso de máscara e como consequência tiveram considerável aumento do número de casos da doença. O coordenador destaca que o enfrentamento à pandemia é um evento coletivo, e esse andar conjunto é importante porque os municípios não são como ilhas, existe uma interação maior. E ressalva que apostar em não ter uma consequência ruim é considerado um grave risco.</p><p><strong>Ouça abaixo:</strong></p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1157824369&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Marcelo Gomes acha que momento é inoportuno para a flexibilização by Agência UVA Barra' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe></figure><p>As palavras do coordenador da Fiocruz fazem coro em parte com as de Vitor Mori, doutor em engenharia biomédica e pesquisador na Universidade de Vermont, nos Estados Unidos, que afirma que espaços abertos são realmente mais seguros, desde que se respeite o distanciamento social. “Não vejo como absurdo a discussão em torno da flexibilização em espaços abertos. Tomaria como contrapartida que se gaste mais energia e exista mais controle sobre as áreas fechadas”, afirma.</p><p>O engenheiro afirma que a flexibilização, seja em espaços abertos ou fechados, foi um dos grandes equívocos na condução da pandemia nos Estados Unidos, quando se abriu mão de tudo precocemente, colaborando para a chegada da forte onda oriunda da variante delta, e segundo ele, existe risco iminente de contágio em um festival ou uma festa na praia, por exemplo, porque as pessoas teriam um contato muito próximo, em ambiente de música, gritos e paquera. Ele relata que o ponto central desses eventos é a mescla de muitos espaços abertos e fechados e traz seu posicionamento a respeito do tema.</p><p><strong>Ouça abaixo:</strong></p><figure><iframe src='https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1156878826&#038;show_artwork=true&#038;maxheight=750&#038;maxwidth=500' width='500' height='400' title='Vitor Mori acredita que é possível flexibilizar em parte o uso de máscaras by Agência UVA Barra' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe></figure><p>Já de volta ao convívio social, o advogado Eldro Rodrigues do Amaral, de 75 anos, alega que apesar de ter se vacinado com as três doses continua receoso quando se trata da Covid-19, e diz que prefere continuar utilizando máscara de proteção e seguindo os devidos cuidados e protocolos sanitários. “Eu sou idoso e ainda trabalho. Não contraí o vírus durante todo período conturbado da doença e não será agora, que as coisas começaram a normalizar que vou dar sopa pro azar. O Judiciário até hoje está operando em home-office, por exemplo”, diz.</p><p>Por outro lado, sua filha, Isabella Rodrigues, de 35 anos, admite que relaxou após a aplicação da vacina. “Confesso que estou bem mais aliviada e tranquila, tenho saído normalmente, inclusive para locais de ambientes fechados e só faço uso de máscara facial na entrada dos eventos por uma questão protocolar. A vida parece estar retomando seu curso natural, graças a Deus”, declara.</p><p>Vale dizer, que na última segunda-feira (15), o Hospital Municipal Ronaldo Gazolla, referência no tratamento para a Covid-19 no Estado, deu alta ao último paciente internado com o vírus. Ao longo de toda a pandemia, o Hospital fez mais de nove mil internações, e graças ao êxito da campanha de vacinação, a unidade conseguiu realizar esse feito. Atualmente, com 75% da população carioca já completamente imunizada, resta saber quais serão as consequências advindas desta medida, que os especialistas classificaram como temerária antes da vigência.</p><p><em>Bruno Sadock – 6º período</em></p></main>"
+  },
+  "date": "2021-11-17T17:54:10",
+  "date_gmt": "2021-11-17T20:54:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A flexibilização na utilização de máscaras de proteção facial em combate ao novo coronavírus no Estado do Rio de Janeiro continua mantida para ambientes abertos desde outubro, quando a medida foi sancionada. Mesmo com cenário de baixo risco de contaminação em todas as regiões, devido à agilidade na distribuição das vacinas, a decisão da Secretaria de Estado de Saúde ainda exige dos municípios respeito aos protocolos de distanciamento social, seja em ambiente aberto ou fechado, e a continuidade da campanha de vacinação. Após mais de um ano e meio do decreto de calamidade pública no país em razão da pandemia, a medida celebra uma vitória na longa batalha contra o vírus.</p>\n"
+  },
+  "featured_media": 10745,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10734"
+  },
+  "id": 10734,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/capa-site-agencia-azul.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2N8",
+  "link": "https://agenciauvabarra.com/2021/11/17/flexibilizacao-do-uso-de-mascaras-em-locais-abertos-segue-em-vigor-no-rio-de-janeiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-17T17:54:10",
+  "modified_gmt": "2021-11-17T20:54:10",
+  "ping_status": "open",
+  "slug": "flexibilizacao-do-uso-de-mascaras-em-locais-abertos-segue-em-vigor-no-rio-de-janeiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Flexibilização do uso de máscaras em locais abertos segue em vigor no Rio de Janeiro"
+  },
+  "type": "post"
+}

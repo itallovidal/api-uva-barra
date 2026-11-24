@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6243/revisions/6259",
+        "id": 6259
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6243"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6243",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6243/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6243"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6258"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6243",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6243",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-6243",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Reunião promoveu interação entre coordenadores e professores de diversas áreas acadêmicas</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/20200213_102636.jpg?resize=4608%2C3456&amp;ssl=1\" alt=\"\" width=\"4608\" height=\"3456\" /><figcaption>Professores de diversos cursos participaram da oficina de pão de malte – Foto: Graziela Andrade</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/img_0174-e1581780933143.jpg?resize=5548%2C2626&amp;ssl=1\" alt=\"\" width=\"5548\" height=\"2626\" /><figcaption>Professores do curso de Engenharia da UVA Barra</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/img_0140.jpg?resize=6000%2C4000&amp;ssl=1\" alt=\"\" width=\"6000\" height=\"4000\" /><figcaption>Café da Manhã colaborativo – Foto: Graziela Andrade</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/20200213_111123.jpg?resize=4608%2C3456&amp;ssl=1\" alt=\"\" width=\"4608\" height=\"3456\" /><figcaption>Oficina de bordados com a Professora do curso de Psicologia Ondina Santos – Foto: Graziela Andrade</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/img_0152.jpg?resize=6000%2C4000&amp;ssl=1\" alt=\"\" width=\"6000\" height=\"4000\" /><figcaption>Professora do curso de Nutrição Cinara Oliveira participou da oficina de Pão de Malte – Foto: Graziela Andrade</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/20200213_113352.jpg?resize=4608%2C3456&amp;ssl=1\" alt=\"\" width=\"4608\" height=\"3456\" /><figcaption>Pão de malte recheado com queijo produzido durante oficina ministrada pela Professora Taisa Carvalho – Foto: Graziela Andrade</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/whatsapp-image-2020-02-15-at-13.00.28.jpeg?resize=1152%2C864&amp;ssl=1\" alt=\"\" width=\"1152\" height=\"864\" /><figcaption>Oficina de Ikebana ministrada por Elizabete Rosa – Foto: Graziela Andrade</figcaption></figure><p>A tradicional reunião de início de semestre ganhou um novo formato no campus Barra da Universidade Veiga de Almeida (UVA). Na última quinta-feira (13), a Diretora Acadêmica Nara Iwata, além do encontro semestral entre os docentes, promoveu um café da manhã colaborativo com diversas oficinas, seguindo a linha do Projeto Maker 2020 estabelecido pela instituição – no qual determina que todo curso terá no primeiro período uma disciplina “mão na massa”, ou seja, um conhecimento específico que sairá da teoria e passará para a prática. Entre as diversas atividades oferecidas ao longo do dia, oficinas de bordados, Ikebana e uma aula prática de como fazer um pão de malte.</p><p>Com objetivo de aproximar os professores, Nara Iwata enfatiza que as novas práticas didáticas estão sendo repensadas, a fim de promover uma sala de aula mais dinâmica. “Todo professor tem um conhecimento para trocar e muitos deles não se conhecem. Então, a ideia foi fazer com que eles tivessem uma experiência maker, ou seja, promover algo que eles pudessem compartilhar enquanto colocam a ‘mão na massa’ e quem sabe assim possam surgir novas parcerias entre os cursos”, relata.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/whatsapp-image-2020-02-15-at-13.00.28.jpeg?resize=548%2C411&amp;ssl=1\" alt=\"\" width=\"548\" height=\"411\" /><figcaption>Oficina de Ikebana ministrada por Elizabete Rosa – Foto: Graziela Andrade</figcaption></figure><p>Entre as oficinas mais procuradas, a aula de pão de malte organizada pela coordenadora do curso de Design Taisa carvalho fez sucesso entre os docentes. Para professora, poder compartilhar um hobby pessoal com colegas de profissão é uma experiência bem diferente da rotina de sala de aula. “Assim podemos confraternizar e conhecer um pouco mais do que o outro faz fora do ambiente de trabalho”, comenta. Confira no vídeo:</p><figure><iframe src=\"https://www.youtube.com/embed/_VsbHhNwOEk?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"YouTube video player\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>.</p><p>A professora do curso de Nutrição Cinara Oliveira, participou de duas oficinas, e conta que o novo formato de reunião é agregador. “Isso possibilita a troca colaborativa entre os professores de diferentes áreas do saber”, diz. Já para professora de Design de Moda Ana Paula Feijó, o encontro possibilitou uma troca de energias fundamental para iniciar o semestre de forma positiva. “Cada um trouxe um pouco daquilo que gosta para oferecer ao outro. Quando você está em uma reunião que tem alguém a frente falando, você fica intimidada e dessa maneira descontraída ficamos abertos para conhecer novas pessoas e conhecimentos”, conclui.</p><p><strong>Graziela Andrade – 8º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-02-15T12:45:04",
+  "date_gmt": "2020-02-15T15:45:04",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Reunião promoveu interação entre coordenadores e professores de diversas áreas acadêmicas A tradicional reunião de início de semestre ganhou um novo formato no campus Barra da Universidade Veiga de Almeida (UVA). Na última quinta-feira (13), a Diretora Acadêmica Nara Iwata, além do encontro semestral entre os docentes, promoveu um café da manhã colaborativo com diversas [&hellip;]</p>\n"
+  },
+  "featured_media": 6258,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6243"
+  },
+  "id": 6243,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/02/whatsapp-image-2020-02-15-at-13.00.28.jpeg?fit=1152%2C864&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1CH",
+  "link": "https://agenciauvabarra.com/2020/02/15/uva-barra-da-boas-vindas-a-docentes-com-experiencia-maker/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-02-15T15:38:58",
+  "modified_gmt": "2020-02-15T18:38:58",
+  "ping_status": "open",
+  "slug": "uva-barra-da-boas-vindas-a-docentes-com-experiencia-maker",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "UVA Barra da boas-vindas a docentes com experiência Maker"
+  },
+  "type": "post"
+}

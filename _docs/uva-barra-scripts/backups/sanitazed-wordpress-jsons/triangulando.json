@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14086/revisions/14091",
+        "id": 14091
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14086"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14086",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14086/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14086"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14090"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14086",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14086",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    2367,
+    22,
+    14603,
+    7114,
+    33026
+  ],
+  "class_list": [
+    "post-14086",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-cultura",
+    "category-internet",
+    "category-jornalismo",
+    "category-sociedade",
+    "category-violencia",
+    "tag-agencia-uva-barra",
+    "tag-cultura",
+    "tag-haters",
+    "tag-internet",
+    "tag-jornalismo"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Para discutir o tema \"Fãs e Haters e a cultura do cancelamento\", os alunos do 2° período Igor Concolato, Matheus Moraes, Leonardo Pereira e Victor Martins entrevistaram o jornalista Thiago Carvalho no programa \"Triangulando\".</p><p>O repórter falou sobre a responsabilidade de ter um microfone na mão para formar opiniões na sociedade, o poder da mídia em cancelar uma pessoa e até como lidar com a repercussão que uma notícia pode causar na vida do jornalista.</p><p><strong>Confira o programa completo!</strong></p><figure><img src='https://www.youtube.com/embed/He2yEyDfdpc' alt='Vídeo incorporado' width='640' height='360' /><figcaption>Programa produzido para a disciplina de Conexões e Narrativas Sociais, sob a supervisão da professora Renata Feital</figcaption></figure></main>"
+  },
+  "date": "2023-02-15T17:49:10",
+  "date_gmt": "2023-02-15T20:49:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Para discutir o tema “Fãs e Haters e a cultura do cancelamento”, os alunos do 2° período Igor Concolato, Matheus Moraes, Leonardo Pereira e Victor Martins entrevistaram o jornalista Thiago Carvalho no programa “Triangulando”. </p>\n"
+  },
+  "featured_media": 14090,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14086"
+  },
+  "id": 14086,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/02/capa-instagram-agencia-2022-2.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Fc",
+  "link": "https://agenciauvabarra.com/2023/02/15/triangulando/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-02-15T17:49:10",
+  "modified_gmt": "2023-02-15T20:49:10",
+  "ping_status": "open",
+  "slug": "triangulando",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056597,
+    108081,
+    767056590,
+    767056611
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Triangulando"
+  },
+  "type": "post"
+}

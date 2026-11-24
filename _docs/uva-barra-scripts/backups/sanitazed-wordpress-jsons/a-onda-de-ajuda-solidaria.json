@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7494/revisions/7508",
+        "id": 7508
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7494"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7494",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7494/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7494"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7499"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7494",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7494",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    7114,
+    268277,
+    703299214
+  ],
+  "class_list": [
+    "post-7494",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-sociedade",
+    "category-solidariedade",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Neste período de quarentena, pessoas são inspiradas a auxiliar o próximo com iniciativas voluntárias</em></p><p>Diariamente, os noticiários estampam um grande número de reportagens sobre acidentes, roubos, homicídios, casos de corrupção e, mais recentemente, sobre a pandemia mundial causada pelo coronavírus, que fez com que pessoas no mundo todo entrassem em um período de distanciamento social e quarentena. Mesmo em meio ao caos e ao crescente sentimento de desesperança da população, porém, uma onda de solidariedade surgiu, na qual pessoas são inspiradas a ajudar o próximo, seja fazendo compras para o vizinho idoso, realizando doações de cestas básicas, alimentando animais de rua, entre outras ações.</p><p>A chegada da pandemia trouxe consigo uma crise que se estendeu por todo o mundo. A quarentena gerou vários desafios, problemas econômicos e mudanças nas relações sociais, resultando em um grande impacto na vida das pessoas. Por conta das medidas de isolamento, muitas lojas, empresas e estabelecimentos foram fechados e um grande número de funcionários foi demitido. Para tentar ajudar estas pessoas, outras vêm se mobilizando em atitudes solidárias.</p><p>A cantora Luciana Oliveira, de 49 anos, é uma delas e participa do projeto \" Rio das Ostras sem fome\". A ação foi motivada porque pessoas que estão impossibilitadas de trabalhar, como autónomos, garçons, músicos, entre outras categorias, estavam passando necessidades, uma vez que dependiam de seus empregos e renda para comprar comida. O projeto inicialmente arrecadou no total cinco toneladas de alimentos, com os quais foram feitas em torno de 300 cestas básicas. Luciana conta que as doações estão diminuindo, mas os voluntários do projeto estão buscando formas de se reinventar. A cantora ressalta: \" Não vamos parar enquanto houver fome!\"</p><p>Muitas pessoas, como idosos, moradores de rua, vendedores ambulantes, trabalhadores autônomos, portadores de deficiência e indivíduos com problemas psicológicos, estão sofrendo maior impacto com a quarentena e a pandemia de coronavírus. Por isso, alguns brasileiros se encorajaram a ajudar o próximo a enfrentar os desafios do isolamento social. São exemplos disso as divulgações de lives por vários artistas, a fim de arrecadar doações de alimentos, dinheiro e outros itens que serão destinados a instituições que visam ajudar pessoas no período de quarentena; e a divulgação por pessoas dos perfis de pequenas lojas e produtos de vendedores autônomos. Assim, pequenas ações conjuntas formam uma grande rede solidária.</p><p>A professora Flavia Gonçalves, de 47 anos, se uniu a este movimento de solidariedade e teve a iniciativa de fabricar máscaras de tecido e trocá-las por alimentos para a montagem de cestas básicas. Mas a ação não parou por ai. Ela viu na necessidade do próximo uma motivação em não apenas trocar por alimentos, mas também doar àqueles que mais precisam. \"Quando eu via uma pessoa na rua sem mascara ou vinha um motoboy entregar algum delivery em minha casa sem mascara, oferecia uma máscara a eles. A sensação de cuidar do outro é ver que se ele cuida de mim e eu cuido dele, e evitamos a contaminação da doença\".</p><p>A solidariedade bate de porta em porta e não se deve esquecer de abri-la. Nesta quarentena, muitas portas foram fechadas e, por conta disto, os animais de rua estão sofrendo também, A ONG Adote Rio das Ostras resgata animais das ruas para que possam futuramente ser adotados, mas, neste processo, se responsabiliza pela comida, atendimento veterinário, medicamentos. A ONG consegue estes recursos por meio de campanhas, eventos, doações e dos próprios cuidadores.</p><p>Por conta da pandemia, eles tiveram que se reinventar para conseguir ajuda para os animais. A ação \"Amigos sem fome\" foi feita para arrecadar ração para cães e gatos. A própria equipe confeccionou máscaras para serem trocadas por uma contribuição em ração, e foram 100kg arrecadados no total. Também foram doados tecidos e elásticos para fabricação de mais mascaras. Luciana Pereira, vice presidente da ONG, comenta: \"Com a pandemia, muitos restaurantes que alimentavam os animais com as sobras de comida fecharam e eles agora estão desorientados e com fome. Gostaria de pedir que as pessoas continuem doando e tenham compaixão pelos animais. Com as doações nós conseguimos manter a alimentação deles\". Neste período, fazer a diferença e ajudar aqueles que tanto precisam a superar e passar por essa fase histórica e desafiadora é um grande passo para construção de uma sociedade mais humanitária.</p><p><strong>Giovanna Ferreira – 3º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-08-17T14:00:00",
+  "date_gmt": "2020-08-17T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Neste período de quarentena, pessoas são inspiradas a auxiliar o próximo com iniciativas voluntárias Diariamente, os noticiários estampam um grande número de reportagens sobre acidentes, roubos, homicídios, casos de corrupção e, mais recentemente, sobre a pandemia mundial causada pelo coronavírus, que fez com que pessoas no mundo todo entrassem em um período de distanciamento social [&hellip;]</p>\n"
+  },
+  "featured_media": 7499,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7494"
+  },
+  "id": 7494,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-19.png?fit=221%2C221&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1WS",
+  "link": "https://agenciauvabarra.com/2020/08/17/a-onda-de-ajuda-solidaria/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-13T13:31:55",
+  "modified_gmt": "2020-08-13T16:31:55",
+  "ping_status": "open",
+  "slug": "a-onda-de-ajuda-solidaria",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A onda de ajuda solidária"
+  },
+  "type": "post"
+}

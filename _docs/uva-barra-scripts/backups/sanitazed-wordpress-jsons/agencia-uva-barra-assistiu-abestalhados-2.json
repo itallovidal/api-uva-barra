@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13281/revisions/13293",
+        "id": 13293
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13281"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13281",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13281/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13281"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13284"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13281",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13281",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    23208
+  ],
+  "class_list": [
+    "post-13281",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-entretenimento",
+    "tag-abestalhados-2",
+    "tag-agencia-uva-barra",
+    "tag-agenciauvabarraassistiu",
+    "tag-cinema",
+    "tag-cinemabrasileiro",
+    "tag-comedia",
+    "tag-critica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Abestalhados 2 é o novo longa-metragem de comédia nacional, que pode ser considerado no mínimo curioso. Dirigido por Marcos Jorge e Marcelo Botta, o filme é um falso documentário, que retrata os bastidores das gravações do longa “Acelerados 2”. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/image-4.png?fit=800%2C445&amp;ssl=1\" alt=\"image-4\" width=\"800\" height=\"445\" /><figcaption>Foto: Divulgação</figcaption></figure><p>Na busca por realizar o sonho de lançar o filme nas grandes salas de cinema do Brasil, quatro amigos trabalham incansavelmente para finalizar a produção tão esperada. Porém, essa ideia parece estar ainda mais distante quando descobrem que todo orçamento arrecadado teria acabado logo na primeira cena gravada. </p><p>É aí então, que os quatro terão que contar com toda sua lábia e criatividade para fazer com que esse projeto seja concluído, tendo que enfrentar diversos perrengues e envolvendo muitas pessoas em suas atrapalhadas. </p><p>O filme traz a ideia de uma gravação de making of, usando da imagem não estabilizada em alguns instantes, personagens falando com a câmera e pausas para entrevistas em dados momentos, fazendo referência a esse modelo de produção.</p><p>Os trocadilhos já começam logo no título do longa, que faz piada com a indústria cinematográfica. Visto que,apesar de possuir o número “2” no nome, dizendo se tratar da continuação de uma franquia, nunca houve um filme anterior. Isso acontece, pois, segundo os próprios personagens, “o primeiro filme só serve para preparar o sucesso das sequências”.</p><p>Apesar de conseguir ser engraçado em alguns poucos momentos, a forma nada convencional como o filme foi produzido, pode trazer um estranhamento por parte do público, por se tratar de um formato que não costuma atrair as pessoas com tanta facilidade quanto uma ficção convencional. Além da narrativa se tornar bem confusa em determinados momentos, fazendo com que seja complicado compreender para onde a história está caminhando. </p><p>O elenco principal conta com Paulinho Serra, que interpreta o diretor, Raul Chequer, o roteirista, Felipe Torres, como diretor de fotografia, e Leandro Ramos, interpretando o técnico de som. Além de trazer inúmeras participações especiais, como Wellington Muniz (Ceará) e José Loreto. </p><p>Abestalhados 2 estreia nesta quinta-feira, 27, e promete dividir opiniões entre o público. Confira o trailer.</p><figure><iframe src=\"https://www.youtube.com/embed/ryudziIlBIc?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p><br><em>Gabriela Mota -2° período</em></p></main>"
+  },
+  "date": "2022-10-27T14:12:11",
+  "date_gmt": "2022-10-27T17:12:11",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p> Abestalhados 2 é o novo longa-metragem de comédia nacional, que pode ser considerado no mínimo curioso. Dirigido por Marcos Jorge e Marcelo Botta, o filme é um falso documentário, que retrata os bastidores das gravações do longa “Acelerados 2”.  </p>\n"
+  },
+  "featured_media": 13284,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13281"
+  },
+  "id": 13281,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/image-2.png?fit=800%2C533&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3sd",
+  "link": "https://agenciauvabarra.com/2022/10/27/agencia-uva-barra-assistiu-abestalhados-2/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-27T14:26:31",
+  "modified_gmt": "2022-10-27T17:26:31",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-abestalhados-2",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    755472882,
+    648221465,
+    756647270,
+    767056592,
+    33340558,
+    19639,
+    8714
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Abestalhados 2"
+  },
+  "type": "post"
+}

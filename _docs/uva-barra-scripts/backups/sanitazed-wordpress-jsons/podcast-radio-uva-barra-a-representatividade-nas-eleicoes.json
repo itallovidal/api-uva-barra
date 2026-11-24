@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12963/revisions/12968",
+        "id": 12968
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12963"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12963",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12963/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12963"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12966"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12963",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12963",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    228738,
+    798
+  ],
+  "class_list": [
+    "post-12963",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eleicoes",
+    "category-politica",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A democracia é o sistema de governo que o poder vem do povo, mesmo tendo uma população composta em sua maioria por mulheres e negros, a política brasileira é representada majoritariamente por homens cis brancos.</p><p>No quarto episódio sobre as eleições de 2022, a discussão é sobre a representatividade na política, e para essa conversa, contamos com a presença do cientista político Josué Medeiros, e da candidata a deputada federal e ativista da causa LGBTQIA+, Camila Marins.</p><p>Confira o podcast: <a href='https://open.spotify.com/episode/2WzNmOkVwT9o68Q0X1GDIi?si=d2f7e39e975d4048'>https://open.spotify.com/episode/2WzNmOkVwT9o68Q0X1GDIi?si=d2f7e39e975d4048</a></p><p><em>Breno Monteiro – 8º período</em><br><em>Vinícius Alves – 8º período</em></p></main>"
+  },
+  "date": "2022-09-29T18:00:00",
+  "date_gmt": "2022-09-29T21:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A democracia é o sistema de governo que o poder vem do povo, mesmo tendo uma população composta em sua maioria por mulheres e negros, a política brasileira é representada majoritariamente por homens cis brancos.</p>\n"
+  },
+  "featured_media": 12966,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12963"
+  },
+  "id": 12963,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/09/istockphoto-139692208-170667a-e1664554792729.jpg?fit=314%2C319&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3n5",
+  "link": "https://agenciauvabarra.com/2022/09/29/podcast-radio-uva-barra-a-representatividade-nas-eleicoes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-09-30T13:19:57",
+  "modified_gmt": "2022-09-30T16:19:57",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-a-representatividade-nas-eleicoes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: A representatividade nas eleições"
+  },
+  "type": "post"
+}

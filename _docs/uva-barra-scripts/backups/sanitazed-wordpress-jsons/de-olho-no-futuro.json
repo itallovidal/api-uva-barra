@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1874/revisions/3194",
+        "id": 3194
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1874"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1874",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1874/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1874"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1874",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1874",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1874",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Estudantes reformam espaços inativos voltados para pesquisa tecnológica</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/04/img_2721.jpg?resize=4032%2C3024&#038;ssl=1' alt='IMG_2721' width='4032' height='3024' /><figcaption>Créditos: Lucas Motta</figcaption></figure><p>Os investimentos em tecnologia seguem as tendências do mundo globalizado. A cada ano surgem novos smartphones, computadores e videogames que vão além do design. Por trás da sofisticação de muitos aparelhos eletrônicos, existem técnicas e utilidades. Com isso, na última quinta-feira (16/04), a Universidade Veiga de Almeida (UVA) deu um grande passo para se unir a esse contexto. Nesta semana vai ser finalizada no campus Barra da Tijuca a reforma de dois contêineres que vão servir como centros de desenvolvimento tecnológico. Concebido pelo curso de Engenharia, o local escolhido será usado em prol dos mais variados tipos de pesquisa, com inauguração prevista para maio.</p><p>Essas diversas pesquisas têm um foco: aprimorar teorias em que os alunos aprendem em sala, para transformá-las em práticas. Assim, enquanto o primeiro dos containers será utilizado para desenvolvimento de pesquisa tecnológica, o segundo será a base do Núcleo de Computação Avançada (NUCA), com foco na área de realidade virtual. De acordo com um dos idealizadores da ação, professor Marcio Suzano, a UVA vai seguir uma vertente diferenciada de outras instituições. “Vamos tentar angariar patrocinadores e oferecer planos na área de tecnologia, algo que poucos lugares têm hoje”, afirma.</p><p>Um desses patrocinadores é o aluno de Engenharia de Produção Rodrigo Berenguer que por meio da própria empresa InContainer auxilia na elaboração desse novo espaço. De forma gratuita, trata do interior e do exterior das estruturas, desde pintura à parte elétrica, enquanto os equipamentos ficam a cargo da instituição. Para Rodrigo, o projeto traz benefícios tanto para o campus quanto para os estudantes. “Acho que o futuro de uma grande faculdade está no investimento em laboratórios e novas tecnologias”.</p><p>A montagem do novo espaço não se refere apenas ao curso de Exatas. Outras disciplinas também poderão participar ao longo do processo de criação. “Os cursos de Engenharia é que tem as linhas de pesquisa, mas serão voltadas para uma área multidisciplinar”, pondera Marcio. Assim, na medida em que houver necessidade, outras divisões da faculdade podem ser solicitadas para integrar os projetos que vão ser criados. “Todos vão estar à vontade para oferecerem as respectivas ideias, e para que possam ser conduzidos ao mercado de trabalho”, finaliza.</p><p>Lucas Motta, 6° período.</p></main>"
+  },
+  "date": "2018-04-18T13:48:42",
+  "date_gmt": "2018-04-18T16:48:42",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Estudantes reformam espaços inativos voltados para pesquisa tecnológica</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=1874"
+  },
+  "id": 1874,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-ue",
+  "link": "https://agenciauvabarra.com/2018/04/18/de-olho-no-futuro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:08:00",
+  "modified_gmt": "2019-02-26T00:08:00",
+  "ping_status": "open",
+  "slug": "de-olho-no-futuro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "De olho no futuro"
+  },
+  "type": "post"
+}

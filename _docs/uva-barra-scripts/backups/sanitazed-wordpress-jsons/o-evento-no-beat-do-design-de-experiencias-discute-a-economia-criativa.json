@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13021/revisions/13048",
+        "id": 13048
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13021"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13021",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13021/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13021"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13043"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13021",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13021",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    774
+  ],
+  "class_list": [
+    "post-13021",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "category-musica",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Palestrantes e o poder público abordaram o mercado criativo</em></p><p>Na última quinta-feira, 29/09, aconteceu a palestra \"No Beat do Design de Experiências\" no Teatro Ipanema, zona sul do Rio de Janeiro. O evento contou com Verônica Marques, designer de experiências, Leonardo Amato, professor e gestor do laboratório CRIA da UVA, Leonardo Morel, pesquisador de música, além de uma apresentação musical do cantor Guilherme Schwab. O foco foi esclarecer como é o ramo da criatividade e das experiências através do Festival BigBeat.</p><p>A ação foi marcada por debates, entrevistas, informações e música. Quem comandou as dinâmicas foi Verônica Marques, também mestre em Economia Criativa. A profissional explicou como surgem as ideias para montar experiências em festivais e destacou a relação através dos cinco sentidos como tato, audição, visão, paladar e olfato, bem como as memórias afetivas.</p><blockquote><p>\"A gente entrega uma jornada, mas reinventa a autenticidade\"</p><cite>Verônica Marques.</cite></blockquote><p>Leonardo Amato, professor de Publicidade e Propaganda da UVA, estava presente na palestra de abertura e apontou que o aumento da Economia Criativa não é uma melhora ou um desenvolvimento, porém um resgate daquilo que foi perdido durante a pandemia. Ainda concordou que houve um avanço no uso de ferramentas no meio digital e ressaltou: \"O desafio principal do Brasil é se tornar um país inovador na essência\".</p><p>Outro convidado da mesa foi Leonardo Morel, integrante do programa \"Music Business da NYU College of Arts and Sciences\". O pesquisador relatou como a procura pelo mercado musical aumentou, não somente no Brasil, mas também nos Estados Unidos. O que resultou na nova forma de trabalho devido ao crescimento das plataformas digitais. \"Não há limites para o que a música quer propor\", comentou.</p><p>Quem presenciou o dia foi Laila Sbardeloto, estudante no 6º período de Publicidade e Propaganda, e estagiária do campus Barra. Participar foi uma experiência única, assim descrito por ela. \"O aprendizado que tirei foi a intencionalidade e sagacidade em todos os detalhes, pois eles produzem algo que podemos converter\", revelou.</p><p>Joyce Graciano, estudante e futura publicitária, disse que a palestra estimula a pensar a vida profissional e receber informações das exigências do mercado. \"Eu sempre gostei de ir em eventos de marketing, publicidade e inovação. É sempre enriquecedor\", afirmou.</p><p>Após a palestra, o cantor Guilherme Schwab realizou um pocket show. Vencedor do Grammy Latino, o músico estava contente em se apresentar no mesmo espaço, no qual Cazuza já performou. O artista afirmou que eventos como este ajudam na hora de se reinventar.</p><p><strong>Verônica Marques</strong> <strong>e</strong> <strong>Guilherme Schwab falam do impacto do \"No Beat do Design de Experiências\". Confira no vídeo abaixo:</strong></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/danalvesfotografo-10-1.jpg?resize=2048%2C1365&amp;ssl=1\" alt=\"Os palestrantes abordaram como há uma meta para criar sensações, interações e memórias afetivas nos festivais. (Foto: Danilo Alves)\" width=\"2048\" height=\"1365\"><figcaption>Os palestrantes abordaram como há uma meta para criar sensações, interações e memórias afetivas nos festivais. (Foto: Danilo Alves)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/whatsapp-image-2022-10-04-at-13.29.42-e1665003014960.jpeg?resize=1200%2C1161&amp;ssl=1\" alt=\"O que mais chamou a atenção de Laila foi o impacto do planejamento dos eventos. (Foto: Arquivo pessoal) \" width=\"1200\" height=\"1161\"><figcaption>O que mais chamou a atenção de Laila foi o impacto do planejamento dos eventos. (Foto: Arquivo pessoal) </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/danalvesfotografo-31-1.jpg?resize=1365%2C2048&amp;ssl=1\" alt=\"Joyce Graciano destacou os conhecimentos adquiridos no evento de Economia Criativa.  (Foto: Danilo Alves)\" width=\"1365\" height=\"2048\"><figcaption>Joyce Graciano destacou os conhecimentos adquiridos no evento de Economia Criativa.  (Foto: Danilo Alves)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/danalvesfotografo-17-1.jpg?resize=2048%2C1365&amp;ssl=1\" alt=\"Guilherme Schwab falou do meio digital como instrumento de atualizações e relacionamento com os fãs. (Foto: Danilo Alves)\" width=\"2048\" height=\"1365\"><figcaption>Guilherme Schwab falou do meio digital como instrumento de atualizações e relacionamento com os fãs. (Foto: Danilo Alves)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/danalvesfotografo-4-1.jpg?resize=1365%2C2048&amp;ssl=1\" alt=\"Para Patrícia, a proposta é conectar a música com gerações. (Foto: Danilo Alves)\" width=\"1365\" height=\"2048\"><figcaption>Para Patrícia, a proposta é conectar a música com gerações. (Foto: Danilo Alves)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/danalvesfotografo-96-1.jpg?resize=1365%2C2048&amp;ssl=1\" alt=\"O subsecretário Leonardo Pinheiro diz que uma das principais motivações é a promoção da cultura. (Foto: Danilo Alves)\" width=\"1365\" height=\"2048\"><figcaption>O subsecretário Leonardo Pinheiro diz que uma das principais motivações é a promoção da cultura. (Foto: Danilo Alves)</figcaption></figure><p><br>O evento é uma preparação para a 3ª edição do Festival Big Beat. Patrícia Moreno é uma das idealizadoras e produtora, e diz que a ideia foi fazer um festival para a família curtir um dia de música. \"As pessoas podem esperar muita diversão, experiências e curtir uma tarde com seus pais e filhos, enfim, de todas as idades\", declarou.</p><p>Entre os presentes estava o subsecretário Leonardo Saramago Pinheiro da Prefeitura do Rio de Janeiro. O representante compareceu ao teatro Ipanema para acompanhar a iniciativa cultural do Big Beat. A proposta é aproximar alunos e profissionais com o mercado de produção musical. \"Quando você incentiva cultura, você incentiva desenvolvimento\", concluiu.</p><p><strong>O subsecretário da Prefeitura do Rio comenta formas de impulsionar a cultura. Ouça no áudio abaixo:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1356021109&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"O subsecretário de Prefeitura do Rio comenta formas de impulsionar a cultura by Agência UVA Barra\" allowfullscreen=\"true\"></iframe></figure><p>O Festival Big Beat acontece nos dias 15 e 16 de outubro no Shopping VillageMall. Com Entrada franca, no line-up nomes como a cantora Ana Gabriela e participação especial de Mariana Nolasco. A Banda Rockin' Kidz e o duo Outroeu integram a programação também.</p><p><em>Pedro Amorim – 7º período</em><br><em>Sabrina Marques – 4º período</em></p></main>"
+  },
+  "date": "2022-10-05T17:52:18",
+  "date_gmt": "2022-10-05T20:52:18",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Na última quinta-feira, 29/09, aconteceu a palestra “No Beat do Design de Experiências” no Teatro Ipanema, zona sul do Rio de Janeiro. O evento contou com Verônica Marques, designer de experiências, Leonardo Amato, professor e gestor do laboratório CRIA da UVA, Leonardo Morel, pesquisador de música, além de uma apresentação musical do cantor Guilherme Schwab. O foco foi esclarecer como é o ramo da criatividade e das experiências através do Festival BigBeat. </p>\n"
+  },
+  "featured_media": 13043,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13021"
+  },
+  "id": 13021,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/10/danalvesfotografo-52-e1665003495175.jpg?fit=1426%2C1367&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3o1",
+  "link": "https://agenciauvabarra.com/2022/10/05/o-evento-no-beat-do-design-de-experiencias-discute-a-economia-criativa/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-10-05T18:01:28",
+  "modified_gmt": "2022-10-05T21:01:28",
+  "ping_status": "open",
+  "slug": "o-evento-no-beat-do-design-de-experiencias-discute-a-economia-criativa",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "O evento “No Beat do Design de Experiências” discute a Economia Criativa"
+  },
+  "type": "post"
+}

@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8235/revisions/8246",
+        "id": 8246
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8235"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8235",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8235/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8235"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8239"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8235",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8235",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    4753134,
+    72064
+  ],
+  "class_list": [
+    "post-8235",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-quarentena",
+    "category-saude"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Segundo pesquisa, mais da metade dos infectados pelo coronavírus deixaram de sentir sabor nas refeições</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/foto-hellen.jpg?resize=1504%2C1000&#038;ssl=1\" alt=\"\" width=\"1504\" height=\"1000\" /><figcaption>Hellen Maluy, Doutora em Ciência de Alimentos, aconselha a ingestão de alimentos ricos em umami, já que estimulam a salivação. Foto: Reprodução da Internet</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/foto-elisabete.jpeg?resize=1280%2C1280&#038;ssl=1\" alt=\"\" width=\"1280\" height=\"1280\" /><figcaption>A Especialista em Nutrição, Elisabete Neves, diz que a perda de paladar é muito comum durante a covid-19, mas que se deve manter a alimentação regular e saudável visando a manutenção da saúde. Foto: Arquivo Pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/foto-kaio.jpeg?resize=595%2C595&#038;ssl=1\" alt=\"\" width=\"595\" height=\"595\" /><figcaption>Além da ausência do sabor, Kaio Serra não consegue sentir o nível do sal na comida, o que pode ser perigoso. Foto: Arquivo Pessoal</figcaption></figure><p>O distúrbio no paladar é um dos problemas mais comuns nos casos de quem está ou venceu o coronavírus. De acordo com um estudo da Monell Center, espaço científico que reúne especialistas que discutem a saúde humana, 76,2% das pessoas infectadas pela Covid-19 relataram alterações no paladar. Entre os entrevistados, 52,2% tiveram distorções em relação aos gostos básicos (doce, salgado, azedo, amargo e umami) e 5% dos pacientes perderam totalmente o sentido. O estudo utilizou dados brasileiros sobre a doença.</p><p>Já de acordo com outro estudo, desta vez publicado na Annals of Internal Medicine, a alteração foi relatada por mais da metade dos entrevistados, cerca de 56,5%. A pesquisa verificou também que a perda parcial ou total do olfato liderou a lista dos sintomas mais comuns, com 87,2% de relatos. A febre, temida por ser um sintoma grave do vírus, foi relatada por menos da metade dos participantes, 40,6%. A pesquisa foi realizada em 18 hospitais europeus de diferentes países e contou com mais de dois mil participantes.</p><p>Sendo mais uma vítima que enfrenta as dificuldades do coronavírus, Kaio Serra já sofre com a alteração no paladar há pelo menos uma semana. Ele conta que o primeiro sintoma foi a sensação de mal-estar e, logo depois, as mudanças no sentido. O Coordenador de Comunicação diz que, inicialmente, a maioria dos alimentos não tinham gosto ou, quando tinham, se aproximavam do gosto de farinha; e as bebidas “pareciam com gosto de água”.</p><p>“Depois de três dias, eu percebi que os alimentos que eu menos gostava, estavam começando a ficar em evidência. Eu não gosto de couve, cebola e manjericão, por exemplo, e todas as comidas que tinham essas coisas, eu sentia o sabor, mas apenas do que eu não gostava. O restante da comida tinha gosto de farinha. Era estranho!”</p><p><strong>Ouça o depoimento de Kaio Serra em que ele fala sobre o seu paladar uma semana após a Covid-19</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F934571659&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe><p>No entanto, é importante continuar mantendo a alimentação normal mesmo sem estar sentindo o gosto dos ingredientes. Segundo Elisabete Queiroz, Mestre em Nutrição Humana e professora da UVA, a alimentação saudável é indispensável para recuperação do paciente e também da recuperação do paladar. “A grande questão é que mesmo após a cura comprovada do covid-19, a falta do paladar e também do olfato passa a ser uma sequela da doença. Em média, dura de 20 a 30 dias, mas pode durar meses.”, explica.</p><p>Além disso, a professora de Nutrição afirma também que os sintomas de anosmia (perda de olfato) e ageusia (perda do paladar) são comuns mesmo com a ausência de sintomas mais graves como febre, tosse e obstrução da via nasal. Infelizmente, segundo ela, não existe nenhuma comprovação de alimentos que melhorem, de fato, esses efeitos. No entanto, ela dá algumas dicas sobre como tentar melhorar o quadro geral da Covid-19.</p><p><strong>Ouças as dicas dadas pela Nutricionista Elisabete Neves</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F934558045&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe><p>A perda no paladar pode ser brusca e para tentar evitar sequelas maiores, é necessário estimular as papilas gustativas. É o que afirma a Doutora em Ciência dos Alimentos, Hellen Maluly. Segundo ela, os alimentos que conferem umami, chamado de quinto gosto básico, estimulam os receptores gustativos por um tempo mais prolongado e esses mesmos estímulos conseguem acionar as glândulas salivares a produzir saliva.</p><p>“A salivação é extremamente importante, pois facilita a deglutição, dilui os aromas dos alimentos e contribui para maior aceitação alimentar. Carnes, peixes, vegetais e legumes são ótimas opções, além de cogumelos”, finaliza.</p><p>As alterações nos sentidos são sintomas frequentes da infecção por covid-19, mas não são os únicos. Importante lembrar que o país ainda vive a pandemia e que os números não param de crescer. O Brasil ultrapassou a marca de 169 mil mortes pela doença, segundo dados do consórcio de veículos de imprensa, e o número de casos já ultrapassa a casa dos seis milhões de infectados.</p><p><em>Pedro José Alves – 7° período</em></p></main>"
+  },
+  "date": "2020-11-23T17:26:35",
+  "date_gmt": "2020-11-23T20:26:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Segundo pesquisa, mais da metade dos infectados pelo coronavírus deixaram de sentir sabor nas refeições O distúrbio no paladar é um dos problemas mais comuns nos casos de quem está ou venceu o coronavírus. De acordo com um estudo da Monell Center, espaço científico que reúne especialistas que discutem a saúde humana, 76,2% das pessoas [&hellip;]</p>\n"
+  },
+  "featured_media": 8239,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8235"
+  },
+  "id": 8235,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/foto-elisabete.jpeg?fit=1280%2C1280&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-28P",
+  "link": "https://agenciauvabarra.com/2020/11/23/a-alimentacao-saudavel-como-aliada-na-recuperacao-do-paladar/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-11-23T18:36:32",
+  "modified_gmt": "2020-11-23T21:36:32",
+  "ping_status": "open",
+  "slug": "a-alimentacao-saudavel-como-aliada-na-recuperacao-do-paladar",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A alimentação saudável como aliada na recuperação do paladar"
+  },
+  "type": "post"
+}

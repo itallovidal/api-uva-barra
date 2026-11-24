@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21168/revisions/21209",
+        "id": 21209
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=21168"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21168",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/21168/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=21168"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/21172"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=21168",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=21168",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-21168",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A Universidade Veiga de Almeida deu início ao semestre letivo com mais uma edição do IntegraUVA no Campus Barra da Tijuca. O evento, voltado para calouros e veteranos, reuniu estudantes, professores e coordenadores em uma programação diversificada, com foco na integração acadêmica e no fortalecimento do vínculo com a universidade.</p><p>O diretor da unidade Barra, Luiz Felipe Claveri, destacou o significado do momento para a comunidade acadêmica. “É um momento muito especial poder dar boas-vindas aos calouros. Eu também fui aluno há pouco tempo, então gosto de estar próximo deles. A faculdade é muito mais do que a sala de aula, e essas palestras ajudam na ambientação e na compreensão de todo o contexto acadêmico”, afirmou.</p><p>Segundo ele, a proposta das atividades iniciais é permitir que os estudantes conheçam não apenas a grade curricular, mas também o funcionamento institucional, os projetos e as oportunidades oferecidas ao longo da graduação. “A integração é fundamental para que eles se sintam parte da universidade desde o primeiro dia.”</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/cc2329cd-c0f0-4260-9c3a-e8ede266089d.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/2ed4604a-7aa5-40f9-8c72-0d08f69c468d.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/d4f303ea-dd32-4979-88d3-38835ac338a5.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/99084fa1-5767-4710-8d63-bc5ec12ae8a6.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/c9eb2e50-ceb7-4c79-a653-a12445cd3818.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/ea547f09-6025-4f41-a796-0d4fda1976ca.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/4352f830-d884-4e2e-8bd7-bddd45e0c3d0.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/53a8f704-49c6-4b84-a2b9-1054075b060e.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /></figure><p>Realizado ao longo da primeira semana de aulas, o IntegraUVA 2026 contou com palestras institucionais, oficinas práticas, apresentações dos cursos e momentos de interação entre as turmas. A iniciativa tem como objetivo facilitar a adaptação dos novos alunos à rotina universitária e atualizar os veteranos sobre projetos, atividades de extensão e oportunidades acadêmicas.</p><p>Durante a programação, os estudantes puderam conhecer mais sobre os laboratórios, núcleos de prática, projetos de pesquisa e ações de responsabilidade social desenvolvidas pela instituição. Coordenadores de curso também apresentaram as diretrizes acadêmicas para o semestre, esclarecendo dúvidas sobre grade curricular, estágios e plataformas digitais.</p><p>Para os calouros, o evento representa o primeiro contato oficial com a vida universitária. Stephanie Fernandes, que vai iniciar o curso de Psicologia, destacou a importância do momento. “Foi bem legal, bem interessante. Eu estava com bastante dúvida e consegui tirar tudo o que eu queria. Quero participar das palestras durante a semana, principalmente uma voltada para saúde mental. Acho que vai ser importante para conhecer melhor a faculdade”, contou.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/b9f53fe7-4fa6-4737-81a3-0702a4b6ff03.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/852da147-6e6c-4fa4-b012-479ddb2001ef.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/1b7683e3-0a4f-46db-8d16-8ca25b6c4116.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/3276b75e-d02d-43b6-9b87-2001bc10f0e7.jpeg?resize=720%2C1280&amp;ssl=1\" alt=\"\" width=\"720\" height=\"1280\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/0959470e-e821-45c9-9ae2-2853890c2169.jpeg?resize=3024%2C4032&amp;ssl=1\" alt=\"\" width=\"3024\" height=\"4032\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/f83cbe61-92b9-4d03-b63f-f702e53c314a.jpeg?resize=3840%2C2160&amp;ssl=1\" alt=\"\" width=\"3840\" height=\"2160\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/508e800b-1561-40a0-add1-441481a384bd.jpeg?resize=3840%2C2160&amp;ssl=1\" alt=\"\" width=\"3840\" height=\"2160\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/235719fd-8359-4c32-8c7c-6f296f7f4736.jpeg?resize=4032%2C2268&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"2268\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/50262a98-6964-430c-96f7-1e927ee42e2a.jpeg?resize=4032%2C2268&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"2268\" /></figure><p>Lucas Campos, ingressante em Direito, também avaliou positivamente a recepção. “Achei bem objetivo, foi rápido, mas passou as principais informações. Estou ansioso para começar, é a minha primeira faculdade”, afirmou.</p><p>Entre os novos alunos que exploravam o campus estavam Maria Clara Martinelli e Mariana Silva, ambas de Psicologia, e Matheus Santos, de Ciência da Computação. O grupo aproveitou a programação para conhecer os espaços e interagir com outros estudantes. “Estamos explorando o campus, conhecendo as pessoas e descobrindo novas áreas. Participamos do Boas vindas e achamos super interessante ter uma palestrar para ensinar os alunos a mexer no sistema da faculdade, e ainda teve picolé, foi bem legal”, comentaram.</p><p>Já Manuela Vaz, caloura de Jornalismo, se mostrou empolgada com a escolha profissional. “Eu adorei a experiência que tive essa semana. Foi algo que me fez me apaixonar ainda mais pelo curso que eu escolhi, me deixou com vontade de aprender mais e eu fiquei mais a vontade na faculdade, já que conheci várias pessoas”, disse Manuela.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/62009fb7-b191-48bc-8811-3fa47cd1ecda-1.jpeg?resize=1600%2C1066&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1066\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/3521d7a2-005d-4296-83cf-d797f13c0f03.jpeg?resize=4032%2C2268&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"2268\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/2a50ea0e-1c68-412e-b597-73cc86eaaadf.jpeg?resize=4032%2C2268&amp;ssl=1\" alt=\"\" width=\"4032\" height=\"2268\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/ec7c8bbb-d1ac-4f5f-a3de-96e95889048f.jpeg?resize=1600%2C900&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"900\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/4bc8df04-cb43-4b56-8660-d21944cb23c5.jpeg?resize=1600%2C900&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"900\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/img_5766.jpeg?resize=828%2C467&amp;ssl=1\" alt=\"\" width=\"828\" height=\"467\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/img_5290.jpeg?resize=2268%2C4032&amp;ssl=1\" alt=\"\" width=\"2268\" height=\"4032\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/img_5296.jpeg?resize=2268%2C4032&amp;ssl=1\" alt=\"\" width=\"2268\" height=\"4032\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/img_5265.jpeg?resize=1980%2C3520&amp;ssl=1\" alt=\"\" width=\"1980\" height=\"3520\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/img_5269.jpeg?resize=3520%2C1980&amp;ssl=1\" alt=\"\" width=\"3520\" height=\"1980\" /></figure><p>Entre os veteranos, a estudante Sara Galdino, do terceiro período de Enfermagem, ressaltou a importância das oficinas práticas. “Participei do curso básico de primeiros socorros e acho muito importante compartilhar esse tipo de conhecimento, porque salva vidas e trás um gostinho de quero mais, tanto para os calouros quanto para os veteranos. Por isso que a semana de Integração ajuda os alunos, diminui a ansiedade e nos prepara para o semestre”, relata Sara.</p><p>A coordenadora do curso de Medicina Veterinária, Cristina Amarante, reforçou que o contato inicial com a coordenação faz diferença na trajetória acadêmica. “Os calouros precisam conhecer o curso, o campus e saber que as portas estão abertas. As oficinas e mesas-redondas ajudam a ampliar a visão sobre o vasto campo da Medicina Veterinária.”</p><p>Para a coordenadora de Jornalismo e Publicidade, Renata Feital, o IntegraUVA também fortalece a troca entre diferentes períodos. “A proposta é integrar calouros e veteranos, permitindo que compartilhem experiências e conhecimentos. Muitos veteranos estão ministrando oficinas, mostrando na prática o que aprenderam ao longo do curso.”, afirma Renata.<br></p><p>Nas atividades da área da Comunicação, oficinas criativas reuniram estudantes de diferentes períodos em dinâmicas colaborativas. A proposta é estimular a criatividade e aproximar o mercado de trabalho da vivência acadêmica, fortalecendo a formação prática desde o início da graduação.</p><p>Na Enfermagem, além das boas-vindas, a semana contou com oficinas sobre primeiros socorros, atendimento em casos de obstrução de vias aéreas, fraturas e parada cardiorrespiratória. As atividades foram abertas a alunos de diversos cursos, ampliando o alcance das ações e promovendo integração interdisciplinar.</p><p></p><p>Com iniciativas como essa, a Universidade reafirma seu compromisso com a formação integral dos estudantes, aliando conhecimento, integração e desenvolvimento profissional no Campus Barra da Tijuca.</p><p>Duda Nicolich – 3º Período de Jornalismo </p><p></p></main>"
+  },
+  "date": "2026-02-19T12:42:47",
+  "date_gmt": "2026-02-19T15:42:47",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A proposta do evento é tornar o início do semestre mais acolhedor e participativo, estimulando o protagonismo estudantil desde os primeiros dias de aula</p>\n"
+  },
+  "featured_media": 21172,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=21168"
+  },
+  "id": 21168,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2026/02/d4f303ea-dd32-4979-88d3-38835ac338a5.jpeg?fit=1600%2C1066&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-5vq",
+  "link": "https://agenciauvabarra.com/2026/02/19/integrauva-2026-promove-acolhimento-e-integracao-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2026-02-19T12:42:47",
+  "modified_gmt": "2026-02-19T15:42:47",
+  "ping_status": "open",
+  "slug": "integrauva-2026-promove-acolhimento-e-integracao-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "IntegraUVA 2026 promove acolhimento e integração no Campus Barra"
+  },
+  "type": "post"
+}

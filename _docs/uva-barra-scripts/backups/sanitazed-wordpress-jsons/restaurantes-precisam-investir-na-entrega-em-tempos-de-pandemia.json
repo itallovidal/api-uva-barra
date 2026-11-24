@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7413/revisions/7433",
+        "id": 7433
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7413"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7413",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7413/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7413"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7414"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7413",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7413",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    11716206,
+    703299214
+  ],
+  "class_list": [
+    "post-7413",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-economia-2",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O isolamento social da quarentena vem gerando a necessidade de mudanças em restaurantes e comércios alimentícios. Devido ao surto de Coronavírus no país e à quarentena, foi necessário o fechamento do comércio e a restrição de circulação de pessoas e as aglomerações. Milhares de restaurantes foram obrigados a mudar, e muito, o modo de operação dos seus estabelecimentos. Mesmo agora, com a reabertura gradual, as restrições continuam.</p><p>Quem teve que se adaptar a essas mudanças foi Carlos Alberto Tosta Diller Junior, de 36 anos, dono de restaurante em Campo Grande, Zona Oeste do Rio de Janeiro, que comenta sobre as dificuldades de se manter em funcionamento nesse período: “Não estamos conseguindo manter nosso faturamento e por isso fomos obrigados a demitir alguns funcionários para conseguir manter o funcionamento do restaurante”.</p><p>Esse é um problema que se tornou comum durante essa crise. A Associação Nacional de Restaurantes (ANR) projetou que o setor alimentício chegou a demitir mais de 1 milhão de pessoas para cortes de gastos nesse período. E, segundo a própria associação, cerca de 20% dos restaurantes de todo o Brasil foram obrigados a fechar as portas em definitivo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-4.png?resize=387%2C231&amp;ssl=1\" alt=\"\" width=\"387\" height=\"231\" /><figcaption>Restaurante fechado em São Paulo. FOTO: Tomaz Silva/Agência Brasil</figcaption></figure><p>A principal solução encontrada pelos comerciantes foi a utilização dos serviços de delivery para entregas, o que ajudou a manter o funcionamento de milhares de restaurantes em todo o Brasil. Em estudo divulgado no início do mês passado, os serviços de delivery tiveram um aumento de 35% em relação aos meses anteriores à pandemia.</p><p>Uma das principais empresas utilizadas pelos consumidores na hora de pedir entregas – IFood – disponibilizou um fundo de mais de um milhão para ajudar e incentivar os entregadores e os restaurantes a manter o funcionamento. Já a Uber Eats dará assistência financeira aos motoristas diagnosticados com a Codiv-19 por 14 dias.</p><p>Lidiane da Rosa Pereira dos Santos, de 38 anos, dona de um restaurante em Itaguaí, na região metropolitana do estadO, que não utilizava o serviço de delivery, comenta sobre a importância e a necessidade da implantação desse método para a permanência do funcionamento do seu negócio: “Com muito medo, eu e meu marido decidimos enfrentar as vendas com o delivery, sem funcionário nenhum, apenas ele, eu e um motoqueiro. Graças a Deus, os clientes estão retornando e com as vendas pelo delivery conseguimos perto dos 50% do que vendíamos antigamente, mas já nos tem dado condições de começar a nos livrar de alguns boletos atrasados”.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-5.png?resize=396%2C264&amp;ssl=1\" alt=\"\" width=\"396\" height=\"264\" /><figcaption>Serviços de entregas aumentam a produção durante a quarentena. FOTO: Wildes Barbosa/O Popular</figcaption></figure><p>Apesar do número de mortos e de contagiados continuar a crescer diariamente, o Rio de Janeiro, por decisão da prefeitura, que começou a valer a partir do dia 2 de Junho, começou a “afrouxar” as leis da quarentena e, com isso, vem liberando algumas áreas do comércio. Mas, no momento, restaurantes, bares, lanchonetes continuam sendo obrigados a trabalhar apenas por entregas ou por retiradas no local.</p><p>Hugo Alves Vasconcellos, de 30 anos, dono de uma hamburgueria em Campo Grande, Zona Oeste do estado, defende a permanência da quarentena até que seja realmente seguro abrir seu estabelecimento: “O foco agora deve ser a segurança de todas as pessoas. O serviço de delivery consegue nos manter abertos até que seja completamente seguro a todos voltarem a circular pelas ruas”.</p><p>João Daniel Pieroni – 3º Período | Jornalismo</p><p>*Texto produzido na disciplina Teoria e Técnica da Notícia em parceria com a Agência UVA Barra.</p></main>"
+  },
+  "date": "2020-08-06T14:00:00",
+  "date_gmt": "2020-08-06T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O isolamento social da quarentena vem gerando a necessidade de mudanças em restaurantes e comércios alimentícios. Devido ao surto de Coronavírus no país e à quarentena, foi necessário o fechamento do comércio e a restrição de circulação de pessoas e as aglomerações. Milhares de restaurantes foram obrigados a mudar, e muito, o modo de operação [&hellip;]</p>\n"
+  },
+  "featured_media": 7414,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7413"
+  },
+  "id": 7413,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-4.png?fit=544%2C325&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1Vz",
+  "link": "https://agenciauvabarra.com/2020/08/06/restaurantes-precisam-investir-na-entrega-em-tempos-de-pandemia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-03T19:07:11",
+  "modified_gmt": "2020-08-03T22:07:11",
+  "ping_status": "open",
+  "slug": "restaurantes-precisam-investir-na-entrega-em-tempos-de-pandemia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Restaurantes precisam investir na entrega em tempos de pandemia"
+  },
+  "type": "post"
+}

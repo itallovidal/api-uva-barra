@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10040/revisions/10050",
+        "id": 10050
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10040"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10040",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10040/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10040"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10049"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10040",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10040",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    11716206,
+    798
+  ],
+  "class_list": [
+    "post-10040",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-economia-2",
+    "category-politica",
+    "tag-agencia-uva-barra",
+    "tag-combustiveis",
+    "tag-economia",
+    "tag-gasolina",
+    "tag-gnv",
+    "tag-petroleo",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Petróleo, real e política participam diretamente da variação dos custos e os motoristas recorrem à opção mais viável financeiramente para trabalhar</em></p><p>Nada está tão ruim que não possa piorar. Em meio às crises econômica e sanitária, os brasileiros ainda têm que lidar com o aumento dos preços dos combustíveis. De acordo com o Índice Nacional de Preços ao Consumidor Amplo (IPCA), o valor da gasolina já avançou 31,09%, enquanto do diesel apresentou alta de 28,02% no acumulado deste ano até agosto. A desvalorização do real frente ao dólar e o custo do petróleo no mercado internacional são fatores que influenciam nos acréscimos ao consumidor. </p><p>O valor do combustível nas refinarias, mais os impostos — estaduais e federais — e o custo de distribuição e revenda levam ao preço final. Para o engenheiro da Petrobras Lineu do Rosário, o petróleo está diretamente relacionado às oscilações nos preços dos combustíveis. “O Brasil precisa importar petróleo. Quando o valor internacional dele aumenta, consequentemente o dos combustíveis também vai subir”, declara. Além disso, ele também destaca o impacto da taxa de câmbio nesse processo à medida que o real desvalorizado eleva a importação do produto.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/lineu-do-rosario.jpg?resize=530%2C515&amp;ssl=1\" alt=\"Lineu do Rosário\" width=\"530\" height=\"515\" /><figcaption>O engenheiro da Petrobras Lineu do Rosário explicou a relação do petróleo com a política de preços dos combustíveis (Foto: Arquivo Pessoal)</figcaption></figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1132474417&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Lineu do Rosário, engenheiro da Petrobras, comenta a demanda brasileira sobre o petróleo by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>A alta da gasolina, por exemplo, fez com que o preço médio do litro se aproximasse de R$ 6 segundo o levantamento da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). O reflexo desse encarecimento já é visto na prática com os motoristas de aplicativo. A Associação de Motoristas de Aplicativos de São Paulo afirma que 25% da classe deixou de trabalhar para as plataformas desde o início da pandemia. Quem buscou uma alternativa para não desistir da profissão foi Marcelo Ribeiro, que optou pelo Gás Natural Veicular (GNV) por ser mais acessível. “O GNV é o mais em conta hoje, apesar de estar caro também. Está na faixa de R$ 4, enquanto a gasolina custa acima de R$ 7. É o que dá para trabalhar no momento, principalmente em aplicativo”, diz.</p><p>Regina Carvalho, taxista nas horas vagas, também age da mesma forma. Ela prefere o gás natural ao etanol por ter um rendimento similar com um preço menor, ainda que o primeiro tenha aumentado o custo como os outros combustíveis. “No início da pandemia, eu pagava na faixa de R$ 2,89 e hoje em dia você acha a R$ 4 ou R$ 3,99 nos lugares mais baratos. O etanol já custa em torno de R$ 5”, lembra. É justamente a crise econômica provocada pela Covid-19 que Lineu do Rosário atribui a queda no consumo dos derivados do petróleo, como a gasolina, o gás natural e o óleo diesel, o que afeta o rendimento das empresas.</p><p>Outro fator que faz diferença na dinâmica de preços dos combustíveis é a crise política e institucional vigente. As ameaças, ataques ao Supremo Tribunal Federal (STF) e às eleições por parte do governo Bolsonaro causam uma instabilidade na economia do país — já duramente afetada pela pandemia — , sendo prejudicial para a valorização do real e uma consequente queda nos valores dos combustíveis. Na última segunda-feira (27), o Presidente da República, Jair Bolsonaro, lamentou a realidade dos custos da gasolina e do dólar durante discurso no Palácio do Planalto. A cotação do dólar bateu R$ 5,37 na segunda e o preço médio da gasolina, na última sexta-feira (24), era de R$ 6,09. </p><p><em>Lucas Ribeiro – 6° período</em></p></main>"
+  },
+  "date": "2021-09-28T19:13:51",
+  "date_gmt": "2021-09-28T22:13:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Nada está tão ruim que não possa piorar. Em meio às crises econômica e sanitária, os brasileiros ainda têm que lidar com o aumento dos preços dos combustíveis. De acordo com o Índice Nacional de Preços ao Consumidor Amplo (IPCA), o valor da gasolina já avançou 31,09%, enquanto do diesel apresentou alta de 28,02% no acumulado deste ano até agosto. A desvalorização do real frente ao dólar e o custo do petróleo no mercado internacional são fatores que influenciam nos acréscimos ao consumidor. </p>\n"
+  },
+  "featured_media": 10049,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10040"
+  },
+  "id": 10040,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/capa-site-agencia-2.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2BW",
+  "link": "https://agenciauvabarra.com/2021/09/28/as-causas-e-consequencias-da-alta-dos-precos-dos-combustiveis/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-09-28T19:13:51",
+  "modified_gmt": "2021-09-28T22:13:51",
+  "ping_status": "open",
+  "slug": "as-causas-e-consequencias-da-alta-dos-precos-dos-combustiveis",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    820391,
+    2372,
+    240819,
+    1126350,
+    7330,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "As causas e consequências da alta dos preços dos combustíveis"
+  },
+  "type": "post"
+}

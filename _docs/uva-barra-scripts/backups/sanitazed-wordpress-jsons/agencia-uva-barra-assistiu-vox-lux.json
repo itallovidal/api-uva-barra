@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3447/revisions/3451",
+        "id": 3451
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3447"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3447",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3447/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3447"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3447",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3447",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-3447",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cinema",
+    "tag-drama",
+    "tag-jude-law",
+    "tag-musical",
+    "tag-natalie-portman"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/03/image003.jpg?fit=314%2C457&amp;ssl=1' alt='' width='314' height='457' /><figcaption>Foto: Divulgação</figcaption></figure><p>Vox Lux: O preço da fama retrata a história de Celeste (Natalie Portman), uma garota que após sobreviver a um tiroteio em massa no colégio em que estudava se tornou uma estrela da música. Depois de cantar na cerimônia fúnebre em homenagem aos alunos assassinados, virou sucesso absoluto por conseguir emocionar a todos com a música que compôs com a irmã Eleanor (Stacy Martin). O filme foi escrito e dirigido por Brady Corbet e estrelado por grandes atores como Natalie Portman, Jude Law, Raffey Cassidy, Stacy Martin e Jennifer Ehle.</p><p>O drama musical possui diversas características: foi divido em três partes sendo elas Gênesis, Regenêsis e Final; o filme já começa com os créditos finais; possui narração voz over e faz uso de vários elementos que marcaram o século XXI – Tiroteios de adolescentes no colégio, famosas em decadência após uma série de escândalos, são alguns exemplos dos acontecimentos que fazem parte da trajetória de Celeste.</p><p>A ganhadora do Oscar Natalie Portman volta às telinhas na pele de uma artista conturbada e que passou por muitas situações complexas na vida, assim como no filme “Cisne Negro”, Portman teve que aprender coreografias e trazer vida à uma personagem difícil de composição. O filme também volta a parceria de Natalie e o coreógrafo Benjamin Millepied que assina o trabalho de Vox Lux e Cisne Negro.</p><p>O filme traz também trilha sonora de Scott Walker e canções originais compostas pela Sia. Exibido na 75ª edição do Festival Internacional de Cinema de Veneza o longa tem boa repercussão lá fora, apesar de apresentar uma forma que pode não agradar a todos. </p><figure><iframe src='https://www.youtube.com/embed/njvCrtTXkxg?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p></p><p><strong>Beatrice Laeber – 3° Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-03-28T19:32:35",
+  "date_gmt": "2019-03-28T22:32:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Vox Lux: O preço da fama retrata a história de Celeste (Natalie Portman), uma garota que após sobreviver a um tiroteio em massa no colégio em que estudava se tornou uma estrela da música. Depois de cantar na cerimônia fúnebre em homenagem aos alunos assassinados, virou sucesso absoluto por conseguir emocionar a todos com a [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3447"
+  },
+  "id": 3447,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-TB",
+  "link": "https://agenciauvabarra.com/2019/03/28/agencia-uva-barra-assistiu-vox-lux/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-03-28T21:29:52",
+  "modified_gmt": "2019-03-29T00:29:52",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-vox-lux",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    5467,
+    1026,
+    4805,
+    1634
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: &#8220;Vox Lux&#8221;"
+  },
+  "type": "post"
+}

@@ -1,0 +1,187 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14377/revisions/14496",
+        "id": 14496
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14377"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14377",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14377/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14377"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14394"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14377",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14377",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    11716206,
+    43377791,
+    23208,
+    2366,
+    18330,
+    22,
+    175,
+    74499,
+    758
+  ],
+  "class_list": [
+    "post-14377",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cultura",
+    "category-economia-2",
+    "category-encontro-com-profissionais",
+    "category-entretenimento",
+    "category-eventos",
+    "category-institucional",
+    "category-internet",
+    "category-marketing",
+    "category-mercado-de-trabalho",
+    "category-tecnologia",
+    "tag-agencia-uva-barra",
+    "tag-criatividade",
+    "tag-evento",
+    "tag-publico-2",
+    "tag-rio2c"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A 5° edição do evento foi marcada por recorde histórico de público</em></p><p>Entre os dias 11 e 16 de Abril, o Rio de Janeiro recebeu o maior encontro de criatividade da América Latina na Cidade das Artes, localizada na Barra da Tijuca. Durante os 6 dias do evento, foram 18 palcos, mais de 1.100 palestrantes e um público de 41.442 pessoas, sendo o maior da história.</p><p>Segundo estimativa da Secretaria de Desenvolvimento Econômico, Inovação e Simplificação do Rio de Janeiro (SMDEIS), o encontro movimentou mais de R$ 315 milhões e trouxe como novidade um palco sobre jogos eletrônicos (Game+), outro para abordar temas de moda, arquitetura, arte e design (Arts&amp;Crafts) e espaços para debater temas com convidados, além de painéis, workshops, pitchings (vendas de ideias para investidores), experiências imersivas e entre outras atividades.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/foto-rafael-1.jpeg\" alt=\"\" width=\"637\" height=\"632\" /><figcaption>\"Nosso objetivo era ser um catalisador, criar ondas que se espalhassem para além dos nossos muros\", afirma o CEO e criador do Rio 2C. (Foto: Lucas Souza)</figcaption></figure><p>Para o criador e CEO do Rio 2C, Rafael Lazarini, a humanidade no centro de tudo foi um dos principais destaques do evento: \"Fala-se muito em tecnologia para inovar, mas a verdade é que é possível inovar sem tecnologia, mas nunca sem criatividade\", afirmou Rafael. Além disso, fez questão de destacar como a arte, a cultura e a criatividade fazem parte da espécie humana. \"O Rio2C tem esse olhar muito forte para a criatividade como indústria, e seu impacto na geração de emprego e renda. A pujança (robustez) do evento é um reflexo da esperança e do otimismo que o mercado está projetando para o que está vindo por aí. Acreditamos que existe um caminho próspero à frente, e que muitas oportunidades estão se abrindo\", disse Lazarini.</p><p>Um dos destaques do evento foi o painel chamado \"A braba sou eu\", que contou com uma conversa da jornalista Aline Midlej com Ludmilla. A cantora falou sobre a bem-sucedida trajetória, a relação com a indústria fonográfica e ressaltou as dificuldades que passou no começo da caminhada com as cobranças excessivas que sofria. \"Hoje em dia sou dona da minha carreira, da minha música, da minha vida, mas houve momentos em que me senti perdida, não sabia em quem confiar. Nessa indústria, sendo mulher preta, você tem de fazer dez vezes mais. Levei dez anos para chegar ao palco do Rock in Rio\", afirmou Ludmilla.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/foto-ludmilla.jpg\" alt=\"\" width=\"720\" height=\"1280\" /><figcaption>A cantora Ludmilla participou do painel \"A braba sou eu\". (Foto: Pedro Lima) </figcaption></figure><p>A artista trouxe ao público os erros cometidos no lançamento do último trabalho, um álbum pop chamado 'Vilã', com 15 faixas. \"Para um artista lançar um álbum leva muito tempo, nós temos muitas inseguranças, eu não estava preparada para lançar o álbum agora. Mas apareceu uma oportunidade de marketing e ficamos tão focados nisso que eu me esqueci dos problemas e decidimos lançar sem estratégia. O resultado não foi o que a gente esperava, e eu fiquei frustrada\", comentou a cantora. Por fim, afirmou que continuará trabalhando pelo sucesso deste produto.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/rodrigo-e-maximus.jpeg\" alt=\"\" width=\"1200\" height=\"1600\" /><figcaption>O responsável operacional Rodrigo Ferreira, ao lado do robô \"Maximus\" no stand da ENEL. (Foto: Igor Concolato)</figcaption></figure><p>Patrocinadores, parceiros e iniciativas de formação cultural também marcaram presença no evento com os stands de interação com o público. A ENEL (Entidade Nacional de Eletricidade) trouxe para esta edição do Rio 2C o robô de Inteligência Artificial \"Maximus\", em parceria com a empresa Futuremedia. O responsável operacional do \"Maximus\", Rodrigo Ferreira, explicou sobre o funcionamento desta tecnologia. Confira no áudio abaixo:</p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1497236041&show_artwork=true&maxheight=750&maxwidth=500\" width=\"500\" height=\"400\" title=\"O responsável operacional do &quot;Maximus&quot; explicou sobre o funcionamento desta tecnologia. by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/andre-monteiro.jpeg\" alt=\"\" width=\"1200\" height=\"1600\" /></figure><p>A Federação das Indústrias do Estado do Rio de Janeiro (FIRJAN) em parceria com o Centro de Referência em Cinema e Audiovisual de Laranjeiras criou uma interatividade em animação para os participantes. \"Por se tratar de um evento de criatividade, nós trouxemos uma atividade lúdica. Temos um estúdio verde chroma key onde colocamos a animação de um ônibus, e a pessoa embarca no veículo e é levada para um futuro imaginário que ela é reconhecida e premiada\", explica o técnico de educação do Centro de Referência, André Monteiro. <strong>Confira a animação abaixo: </strong></p><figure><iframe src=\"https://www.youtube.com/embed/JdZWYU5oP-s\" width=\"640\" height=\"360\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>O público marcou presença todos os dias. O estudante de Biologia Carlos Henrique foi ao Rio 2C pela primeira vez e ficou surpreso com a estrutura e organização do evento: \"O que mais me chamou a atenção foi a quantidade de coisas interativas que foram oferecidas ao público\", afirmou o jovem. A publicitária e estudante de design gráfico Maitê é argentina e mora no Brasil há 2 meses, e também estava conhecendo o Rio 2C pela primeira vez: \"O Rio de Janeiro é referência em criatividade e na publicidade, esse evento é incrível para fazer networking e conhecer pessoas novas de diversas áreas\", afirmou. Já o estudante de turismo, Arthur Neves, é fã de audiovisual, e comentou sobre a experiência de presenciar um evento como este: \"É incrível ver de perto as pessoas que produzem conteúdos que eu assisto e que trabalham com audiovisual. Isso me faz pensar que também é acessível para mim e para quem está ao meu redor\", falou Arthur.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/carlos-henrique.jpeg\" alt=\"\" width=\"1200\" height=\"1600\" /><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/arthur-neves.jpeg\" alt=\"\" width=\"1200\" height=\"1600\" /></figure><p>Um dos criadores do \"Porta dos Fundos\", Antônio Tabet, foi uma das atrações do último dia do Rio 2C. Para apresentar a fase 2 do canal, o CEO contou com a participação de atores do elenco no palco, e viu a plateia se animar com as sinopses apresentadas dos futuros lançamentos.</p><p><strong>Confira neste vídeo o que Antônio Tabet falou sobre essa nova fase e a escolha do Rio 2C para anunciar ao público.</strong></p><figure><iframe src=\"https://www.youtube.com/embed/u1K87fZ1Mic\" width=\"640\" height=\"360\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>Para discutir os diversos temas propostos na edição deste ano, o evento trouxe grandes nomes da música como: Angélique Kidjo, Gilberto Gil, Seu Jorge, Dilsinho e Ivete Sangalo; do audiovisual: Tony Ramos, Adriana Esteves, Lázaro Ramos, Juliana Paes, Ingrid Guimarães; do universo digital: os streamers PlayHard e Coringa, os influenciadores Felipe Neto e Cherrygumms e o empresário Kondzilla, dos esportes: Rubens Barrichello, Fernanda Garay, Carlos Burle, Fabiana Murer e Bob Burnquist; do jornalismo: Fátima Bernardes, Pedro Bial, Aline Midlej, Sonia Bridi e Poliana Abritta, além da moda, design, arquitetura e artes: Lenny Niemeyer, Fred Gelli e Marcelo Rosembaum.</p><p>A edição de 2024 já tem data marcada e acontecerá dos dias 8 a 14 de Abril.</p><p><em>Igor Concolato – 3° Período</em></p></main>"
+  },
+  "date": "2023-04-17T17:29:52",
+  "date_gmt": "2023-04-17T20:29:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Entre os dias 11 e 16 de Abril, o Rio de Janeiro recebeu o maior encontro de criatividade da América Latina na Cidade das Artes, localizada na Barra da Tijuca. Durante os 6 dias do evento, foram 18 palcos, mais de 1.100 palestrantes e um público de 41.442 pessoas, sendo o maior da história. </p>\n"
+  },
+  "featured_media": 14394,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14377"
+  },
+  "id": 14377,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/04/d3_9781.jpg?fit=5760%2C3840&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3JT",
+  "link": "https://agenciauvabarra.com/2023/04/17/rio-2c-2023-traz-destaque-para-a-criatividade-humana/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-05-02T14:53:49",
+  "modified_gmt": "2023-05-02T17:53:49",
+  "ping_status": "open",
+  "slug": "rio-2c-2023-traz-destaque-para-a-criatividade-humana",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    39477,
+    16596,
+    35262078,
+    604292533
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rio 2C 2023 traz destaque para a criatividade humana"
+  },
+  "type": "post"
+}

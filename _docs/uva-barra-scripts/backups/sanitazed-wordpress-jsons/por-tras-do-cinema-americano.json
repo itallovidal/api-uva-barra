@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/596/revisions/4448",
+        "id": 4448
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=596"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/596",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 25,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/596/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=596"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=596",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=596",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-596",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Produtora brasileira de filmes americanos apresenta os bastidores em palestra na Universidade Veiga de Almeida, na Barra da Tijuca</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/10858591_10153689943778058_3762446874495639773_n.jpg?resize=960%2C720&amp;ssl=1\" alt=\"10858591_10153689943778058_3762446874495639773_n\" width=\"960\" height=\"720\" /><figcaption>Jess Weiss produzindo o filme \"Paterson\" com o diretor, Jim Jarmusch</figcaption></figure><p>Maquiagem, figurino, som, transporte, fotografia, design, continuidade de cena e contabilidade. São alguns dos recursos pouco conhecidos pelos telespectadores que Jess Weiss destacou na palestra \"Cinema em Nova York\" na UVA, nesta terça-feira, no campus Barra. Alunos de Jornalismo, Publicidade, Design Gráfico e Moda entraram em contato com novas possibilidades de mercado de trabalho. Jess é formada pela PUC-RJ em Cinema e há três anos trabalha na indústria americana de audiovisual.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/05/1016287_608692089260368_3401427156598901323_n.jpg?resize=960%2C960&amp;ssl=1\" alt=\"1016287_608692089260368_3401427156598901323_n\" width=\"960\" height=\"960\" /><figcaption>Jess na after party do Emmy 2014</figcaption></figure><p>Amante de filmes, o cinema sempre esteve presente na vida dela. Aos nove anos, Jess ganhou sua primeira câmera e teve como tema de aniversário o ator Charles Chaplin. \"Eu sempre soube que faria Cinema. Era um amor que já estava dentro de mim, eu precisava participar desse mundo!\". Em Nova York, estagiou em longas independentes e trabalhou em séries e filmes, como: Jessica Jones, Demolidor, Tartarugas Ninjas 2 e Velozes e Furiosos 8. Nessas produções ela trabalhou como freelancer, o que possibilitou flexibilidade na rotina para vindas ao Brasil.</p><p>Nessa última vinda, a produtora decidiu compartilhar suas experiências por meio de palestras. A estudante de Design de Moda, Débora Santana, 20 anos, foi com expectativa de encontrar novas possibilidades na sua área dentro do cinema. \" Fiquei empolgada por ser na criação de adereços, é a área em que mais me identifico. Gostaria muito de seguir\". Essa foi a intenção do coordenador do evento Bernardo Casaes. \"Ela serve de exemplo para que os alunos saberem que podem conquistar espaço mesmo em outra cultura\".</p><p>Na palestra, que teve grande interação dos alunos, foi destacado a importância de pequenos detalhes na construção de um filme para a boa finalização do produto – seja este de baixo ou alto orçamento. \"Existe universo muito maior que o produto final. Foi muito bom porque ela mostrou isso com clareza\", declara Marianna Lopes, 24 anos, estudante de Publicidade. O último filme produzido por Jess Weiss foi The Ring Thing e estreia 2 de junho, no Festival Inside Out em Toronto, Canadá.</p><p>Giovanna Faria – 4º período e Yhara Linka – 6º período | Jornalismo</p></main>"
+  },
+  "date": "2017-05-12T13:11:36",
+  "date_gmt": "2017-05-12T16:11:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Produtora brasileira de filmes americanos apresenta os bastidores em palestra na Universidade Veiga de Almeida, na Barra da Tijuca Maquiagem, figurino, som, transporte, fotografia, design, continuidade de cena e contabilidade. São alguns dos recursos pouco conhecidos pelos telespectadores que Jess Weiss destacou na palestra &#8220;Cinema em Nova York&#8221; na UVA, nesta terça-feira, no campus Barra. [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=596"
+  },
+  "id": 596,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-9C",
+  "link": "https://agenciauvabarra.com/2017/05/12/por-tras-do-cinema-americano/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-06-18T11:18:29",
+  "modified_gmt": "2019-06-18T14:18:29",
+  "ping_status": "open",
+  "slug": "por-tras-do-cinema-americano",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Por trás do Cinema Americano"
+  },
+  "type": "post"
+}

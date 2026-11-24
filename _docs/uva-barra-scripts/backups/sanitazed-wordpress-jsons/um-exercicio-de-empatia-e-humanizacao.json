@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/895/revisions/2912",
+        "id": 2912
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=895"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/895",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/895/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=895"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=895",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=895",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    7114
+  ],
+  "class_list": [
+    "post-895",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Ação “Reescrevendo Amor” reuniu alunos e professores no lixão de Jardim Gramacho para doação de cestas básicas, materiais escolares e oficinas recreativas</h4><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/18952758_1697182183910724_9167075192697128474_n.jpg?resize=960%2C642&amp;ssl=1\" alt=\"18952758_1697182183910724_9167075192697128474_n\" width=\"960\" height=\"642\" /><figcaption>Fotografia: Alanys Lima</figcaption></figure><p>Amor nos pequenos gestos. Essa foi a mensagem deixada pelo projeto “Reescrevendo Amor” durante o dia de ação, no último sábado (10/06), no maior lixão da América Latina (desativado desde 2012) em Jardim Gramacho, no município de Duque de Caxias. O projeto foi realizado pelos alunos do curso de Publicidade da Universidade Veiga de Almeida (UVA) do Campus Tijuca. Além de oficinas com as crianças locais, foram distribuídas 103 cestas básicas, 100 kits de material escolar e cerca de 200 litros de água. Após cinco anos do fechamento do lixão, que deixou 1,4 mil catadores de lixo desempregados, a população – cerca de 20 mil habitantes -, abandonada pelo Estado, continua sem saneamento básico e fonte de renda.</p><p>Para atenuar essa realidade, ONGs (Organizações não governamentais), igrejas e projetos independentes promovem diversas ações para preencher parte das necessidades básicas dos moradores. Um desses colaboradores é o bispo Hermes Fernandes do projeto “Eu escolhi amar” que também apoiou e guiou a ação dos alunos de Publicidade da UVA no último sábado. Ele se dedica à causa desde 2014 e entende a necessidade de iniciativas como o “Reescrevendo Amor” para o lixão. “São ações pequenas, mas que no final, fazem a diferença na vida de cada um” afirma o bispo, que hoje tem 77 famílias cadastradas e ajuda, mensalmente, 600 moradores em média.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/19025284_1697181003910842_6905396369959552090_o.jpg?resize=968%2C648&amp;ssl=1\" alt=\"19025284_1697181003910842_6905396369959552090_o\" width=\"968\" height=\"648\" /><figcaption>Alunos de Publicidade da UVA Tijuca na Ação Social no Jardim Gramacho. Fotografia: Alanys Lima</figcaption></figure><p>Essa iniciativa nasceu entre as paredes da sala de aula na UVA Tijuca. Ministrada pela professora Renata Feital, a disciplina “Oficina de Textos Midiáticos”, de Publicidade, ultrapassou os ensinamentos técnicos e teóricos ao levar os alunos para “uma aula de vida” – como chama a professora. “Acredito que o que eles vivenciaram lá nenhuma sala de aula consegue transmitir. É algo que vai marcar para sempre em suas vidas”, ressalta Feital. Ela também conta que os alunos aderiram à causa com dedicação e solidariedade. Matheus Ferreira, aluno e coordenador do “Reescrevendo Amor”, também se surpreendeu com o engajamento. “Geralmente as pessoas só acham bonitinho, compartilham nas redes sociais, mas não se envolvem realmente. Mas aqui foi ótimo. Conseguimos até dobrar a meta”.</p><p>A campanha “Reescrevendo Amor” é apenas uma, em várias, que consegue chegar até o lixão de Gramacho para doar não apenas alimentos, água e roupas, mas também carinho e atenção. A moradora do lixão há 15 anos, Flávia de Jesus Nascimento, afirma que projetos como esse é o que dão assistência no cotidiano dela e dos conterrâneos. “Nós vivemos abandonados. Os políticos só vêm em época de eleição para ganhar votos, mas no dia a dia, ninguém faz nada. Essas ações ajudam muito”, conclui Flávia que também lamenta que a quantidade não seja suficiente para sobrevivência de todos.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/06/20170610_111215.jpg?resize=4128%2C2322&amp;ssl=1\" alt=\"20170610_111215\" width=\"4128\" height=\"2322\" /><figcaption>Criança brincando próximo de “piscina de chorume” no Lixão do Jardim Gramacho. Fotografia: Yhara Linka</figcaption></figure><p>A coordenadora do curso de Publicidade, Miriam Aguiar, reconhece essa problemática, mas ressalta que o maior objetivo do projeto também é diminuir a sensação de desamparo desses moradores e mostrar que existem pessoas por eles. “Eles vivem um abandono de estima, em uma penúria absurda. A ação vai além do material justamente para atenuar isso”, enfatiza Miriam que também destaca a importância de sensibilizar os alunos por meio da educação para projetos sociais. Com quatro anos de experiência observando a interação de jovens com a realidade do lixão, o bispo Hermes Fernandes, entende que esses trabalhos são um exercício de reconhecimento de privilégios e empatia com o próximo. “Levamos daqui muito mais do que trazemos. Tudo o que acontece, nos muda como pessoa. Isso aqui humaniza”.</p><p>Giovanna Faria, 4º período e Yhara Linka, 6º período.</p></main>"
+  },
+  "date": "2017-06-13T15:29:43",
+  "date_gmt": "2017-06-13T18:29:43",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ação “Reescrevendo Amor” reuniu alunos e professores no lixão de Jardim Gramacho para doação de cestas básicas, materiais escolares e oficinas recreativas Amor nos pequenos gestos. Essa foi a mensagem deixada pelo projeto “Reescrevendo Amor” durante o dia de ação, no último sábado (10/06), no maior lixão da América Latina (desativado desde 2012) em Jardim [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=895"
+  },
+  "id": 895,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-er",
+  "link": "https://agenciauvabarra.com/2017/06/13/um-exercicio-de-empatia-e-humanizacao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-26T15:13:07",
+  "modified_gmt": "2019-01-26T17:13:07",
+  "ping_status": "open",
+  "slug": "um-exercicio-de-empatia-e-humanizacao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Um exercício de empatia e humanização"
+  },
+  "type": "post"
+}

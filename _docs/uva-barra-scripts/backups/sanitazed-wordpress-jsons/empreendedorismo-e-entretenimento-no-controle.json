@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/379/revisions/3353",
+        "id": 3353
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=379"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/379",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/379/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=379"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=379",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=379",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366,
+    257
+  ],
+  "class_list": [
+    "post-379",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-eventos",
+    "category-geek"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Empresas start-up ganharam destaque na Geek &amp; Game Rio Festival para expandir seus personagens e mundos digitais ao grande público</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/04/18057701_1444351638942555_1311512026800707566_n.jpg?resize=960%2C960&#038;ssl=1' alt='18057701_1444351638942555_1311512026800707566_n' width='960' height='960' /><figcaption>Lucas Thiers, de Double Dash Studios, incorporando seu Racketboy</figcaption></figure><p>O <i>Geek &amp; Game Rio Festival</i> chegou à Cidade Maravilhosa no último dia 21 e tem duração até domingo, 23 de abril. Trouxe, ao Rio Centro, dentre as atrações, <i>cosplayers</i> – não apenas caracterizados, mas incorporados em seus personagens favoritos – numa disputa pela melhor caracterização e equipes de <i>gamers </i>se enfrentam em campeonatos ao vivo, de jogos eletrônicos, além de mostrarem as inovações desenvolvidas por suas próprias empresas.</p><p>O empreendedorismo deu lugar ao entretenimento do mundo virtual sob controle remoto ou no teclado do computador (sem mencionar os óculos de realidade virtual em 3D) e, por que não, à cultura <i>geek</i>, e levou, ao pavilhão quatro, companhias que começaram no ramo como também outras que já tem seus nomes consolidados no Mercado de games.</p><p>As <i>start-up</i>, como os especialistas denominam, são as iniciantes – que ainda buscam formas de se apresentar ao público, em pesquisas de opinião, na observação do comportamento do consumidor de jogos atualmente. Ou estão em fase experimental. O processo de análise de possíveis compradores das suas ideias – seja para revenda, seja para lazer – mas, neste caso, entra a avaliação do seu próprio produto. E, no mesmo nível das que já se estabeleceram e estabilizaram no Mercado, manutenção daquilo que oferecem.</p><p>No <i>stand</i> do SEBRAE, que oferece cursos para quem planeja abrir o próprio negócio, os visitantes tinham acesso aos jogos de <i>star-ups</i>, dentre outras. Também puderam fazer perguntas para ouvir e saber, dos empresários, a história da criação dos cenários, personagens, referências. Além de serem convidados a provar direto da fonte: na empresa e em suas respectivas redes sociais, sites.</p><p>Lucas Thiers, da <i>Double Dash Studios</i>, desenvolvedora representada pelo personagem <i>RacketBoy</i>, com o qual, quem visitou o <i>stand</i>, pôde ter um breve contato, reforçou o que se observou durante todo o evento; desde muito novo, o futuro <i>gamer</i>, seja ele um potencial desenvolvedor ou não, vive a experiência do jogo. Cria uma relação através de cada escolha feita por um botão no controle na execução de uma ação ou seleção do seu representante virtual para as fases.</p><p>A empresa nasceu da união entre quatro amigos, que nutriam uma paixão em comum: <i>“Desde pequeno sempre fui fã de jogos. Na faculdade, formei um grupo, que, como eu, também gostava desse mundo e ele foi se moldando até restarem apenas os quatro principais. Responsáveis pela empresa hoje”</i>.</p><p>E, questionado sobre a importância de um evento como o <i>Geek &amp;Game</i>, Lucas respondeu que esta possibilidade de contato com o público faz toda a diferença na hora de desenvolver um produto e sua manutenção, somado à questão do prazer proporcionado pelo momento compartilhado com quem também ajuda a fazer acontecer: <i>“Além da visibilidade, poder estar em contato com o público não tem preço”.</i></p><p><strong>Marianna Lopes &#8211; 4º período</strong></p></main>"
+  },
+  "date": "2017-04-23T20:45:52",
+  "date_gmt": "2017-04-23T23:45:52",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Empresas start-up ganharam destaque na Geek &amp; Game Rio Festival para expandir seus personagens e mundos digitais ao grande público</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=379"
+  },
+  "id": 379,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-67",
+  "link": "https://agenciauvabarra.com/2017/04/23/empreendedorismo-e-entretenimento-no-controle/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T17:08:49",
+  "modified_gmt": "2019-02-28T20:08:49",
+  "ping_status": "open",
+  "slug": "empreendedorismo-e-entretenimento-no-controle",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Empreendedorismo e entretenimento no controle"
+  },
+  "type": "post"
+}

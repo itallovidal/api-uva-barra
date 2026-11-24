@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17994/revisions/18002",
+        "id": 18002
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17994"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17994",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17994/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17994"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18001"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17994",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17994",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17994",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O festival irá premiar mais de 70 produtos audiovisuais e vai até o dia 2 de dezembro</p><p>O maior evento de webséries no mundo está de volta a cidade do Rio de Janeiro. A 10ª edição do Rio WebFestival chega à cidade maravilhosa e ocupa a Cidade das Artes, localizada na Barra da Tijuca, para quatro dias de evento. O festival recebe os profissionais mais importantes do mercado de websérie internacional e nacional e exibirá mais de 200 webconteúdos.</p><p>Além de premiar webséries e podcasts, o festival também irá premiar conteúdos como videoclipe, videodança, trailers, teatro filmado e outras categorias. A edição deste ano terá 78 categorias concorrendo aos troféus Zé.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/agencia_2-1.jpg?resize=595%2C1074&#038;ssl=1' alt='Daniel Archangelo é fundador do Festival e destaca a importância dele para criadores independentes (Reprodução: Agência LAUB)' width='595' height='1074' /><figcaption>Daniel Archangelo é fundador do Festival e destaca a importância dele para criadores independentes (Reprodução: Agência LAUB)</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/agencia_1-1.jpg?resize=1200%2C1600&#038;ssl=1' alt='Luis Alvarado é fundador do Lima WebFest e reforça a criação de conteúdos nacionais para inspirar pessoas de outros países (Reprodução: Agência LAUB)' width='1200' height='1600' /><figcaption>Luis Alvarado é fundador do Lima WebFest e reforça a criação de conteúdos nacionais para inspirar pessoas de outros países (Reprodução: Agência LAUB)</figcaption></figure><p>Empreendedores da área audiovisual podem encontrar oportunidades de monetizar os conteúdos a partir do Super Projeto, que cria a oportunidade de unir criadores independentes com o mercado através de rodada de negócios e apresentações de pitching para uma bancada de jurados.</p><p>Daniel Archangelo é produtor audiovisual e fundador do Rio WebFestival. Para ele, o evento é focado na geração de oportunidades para os criadores de conteúdo. \"Tudo no Rio WebFest é pensado para promover a oportunidade. A principal dela é você encontrar pessoas fazendo o mesmo e buscando o mesmo do que você. Isso diminui o custo de produção e cria alianças que vão facilitar que seu próximo produto seja melhor distribuido, melhor apreciado e vendido\", completa o produtor.</p><p>O WebFestival também oferece dezenas de palestras com convidados internacionais com temáticas sobre narrativa no mundo do audiovisual. Luis Alvarado, peruano, é diretor e fundador do Lima Webfest e esteve em uma das principais salas da Cidade das Artes em uma palestra sobre Narrativa Audiovisual e Conexão Emocional com públicos diversos. Para ele, contar histórias pessoais e sobre o país do criador do audiovisual é uma forma de impactar vidas em todo o globo.</p><p>\"É uma sinergia muito importante e é inspiradora para todo mundo. Não importa quantos anos tem, é importante para todos. É uma das principais razões para que a cultura tenha que sentir adiante para decidir nossas verdades e contar nossa história\", diz o palestrante.</p><p>O Rio WebFest vai até o início de dezembro. É possível comprar ingressos para a premiação do evento no site oficial do festival.</p><p>Mayara Rocha – 6º período<br>Ingrid Ponciano – 4º período</p></main>"
+  },
+  "date": "2024-11-30T21:31:36",
+  "date_gmt": "2024-12-01T00:31:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O festival irá premiar mais de 70 produtos audiovisuais e vai até o dia 2 de dezembro O maior evento de webséries no mundo está de volta a cidade do Rio de Janeiro. A 10ª edição do Rio WebFestival chega à cidade maravilhosa e ocupa a Cidade das Artes, localizada na Barra da Tijuca, para [&hellip;]</p>\n"
+  },
+  "featured_media": 18001,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17994"
+  },
+  "id": 17994,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/agencia_capa.jpg?fit=1170%2C651&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Ge",
+  "link": "https://agenciauvabarra.com/2024/11/30/rio-webfest-comemora-uma-decada-de-evento-na-cidade-maravilhosa/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-11-30T21:31:36",
+  "modified_gmt": "2024-12-01T00:31:36",
+  "ping_status": "open",
+  "slug": "rio-webfest-comemora-uma-decada-de-evento-na-cidade-maravilhosa",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Rio WebFest comemora uma década de evento na Cidade Maravilhosa"
+  },
+  "type": "post"
+}

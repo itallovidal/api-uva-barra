@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17898/revisions/17904",
+        "id": 17904
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17898"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17898",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17898/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17898"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17900"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17898",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17898",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17898",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A Universidade Veiga de Almeida realiza um dos maiores eventos de extensão promovidos pela instituição, o V Trote Solidário. Em parceria com o Hemorio, a universidade dedica um dia à doação de sangue, buscando conscientizar a população sobre a importância desse gesto.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/whatsapp-image-2024-11-12-at-15.46.21.jpeg?resize=828%2C480&amp;ssl=1' alt='' width='828' height='480' /><figcaption></figcaption></figure><p>A coordenadora do curso de Enfermagem da UVA Barra, Lidiane Reis, destaca a importância da doação na vida do receptor: “Cada doador de sangue salva quatro vidas,” afirma. Ela define o ato de doar sangue como altruísta, com potencial para salvar muitas vidas. “Doar sangue é um ato voluntário, um gesto de solidariedade. Cada pessoa faz por si, mas o impacto é enorme,” acrescenta. Segundo ela, o maior engajamento ocorre quando os alunos se veem como protagonistas da ação. “Eles são o principal agente dessa causa, sendo a maioria dos doadores e incentivando outros a doar.”</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/10/lidiane-reis-professora-e-coordenadora-do-curso-de-enfermagem-no-campus-barra-da-universidade-veiga-de-almeida.jpg?resize=900%2C1600&amp;ssl=1' alt='' width='900' height='1600' /><figcaption>Lidiane Reis, professora e coordenadora do curso de Enfermagem no campus Barra da Universidade Veiga de Almeida</figcaption></figure><p>A estudante de Enfermagem, Júlia Amorim, explica que a prática de medir a pressão arterial, acompanhar o estado dos doadores e entender os cuidados pré e pós-doação contribui para seu desenvolvimento acadêmico. “Esses eventos nos permitem aplicar o que aprendemos em sala de aula e mostram o impacto real dos nossos conhecimentos na vida das pessoas,” afirma Júlia, reforçando a importância da prática para suas futuras habilidades profissionais.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/whatsapp-image-2024-11-09-at-13.00.54-1.jpeg?resize=960%2C1280&amp;ssl=1' alt='' width='960' height='1280' /><figcaption>WhatsApp Image 2024-11-09 at 13.00.54 (1)</figcaption></figure><p>A doadora Bárbara dos Santos compartilha o sentimento de solidariedade que a motiva: “Sei que há pessoas que precisam disso.” Bárbara é uma doadora regular e entende o impacto positivo de sua contribuição anual. “Muitas pessoas têm um certo receio, e a abordagem para convencê-las poderia ser melhor,” observa. Ela acredita que as campanhas de doação têm se tornado mais eficazes, mas que ainda há espaço para melhorar o convencimento de quem teme ou tem dúvidas sobre o processo.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/whatsapp-image-2024-11-09-at-13.01.05.jpeg?resize=960%2C1280&amp;ssl=1' alt='' width='960' height='1280' /><figcaption>WhatsApp Image 2024-11-09 at 13.01.05</figcaption></figure><p>Carolina Pimentel – 1 Período</p><p>Marina Xavier – 1° Período</p></main>"
+  },
+  "date": "2024-11-08T14:19:17",
+  "date_gmt": "2024-11-08T17:19:17",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Universidade Veiga de Almeida realiza um dos maiores eventos de extensão promovidos pela instituição, o V Trote Solidário. Em parceria com o Hemorio, a universidade dedica um dia à doação de sangue, buscando conscientizar a população sobre a importância desse gesto. A coordenadora do curso de Enfermagem da UVA Barra, Lidiane Reis, destaca a [&hellip;]</p>\n"
+  },
+  "featured_media": 17900,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17898"
+  },
+  "id": 17898,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/whatsapp-image-2024-11-12-at-15.46.21.jpeg?fit=828%2C480&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4EG",
+  "link": "https://agenciauvabarra.com/2024/11/08/solidariedade-que-salva-alunos-da-uva-barra-se-mobilizam-em-grande-trote-solidario-de-doacao-de-sangue/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-11-12T15:48:36",
+  "modified_gmt": "2024-11-12T18:48:36",
+  "ping_status": "open",
+  "slug": "solidariedade-que-salva-alunos-da-uva-barra-se-mobilizam-em-grande-trote-solidario-de-doacao-de-sangue",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Solidariedade que Salva: Alunos da UVA Barra Se Mobilizam em Grande Trote Solidário de Doação de Sangue"
+  },
+  "type": "post"
+}

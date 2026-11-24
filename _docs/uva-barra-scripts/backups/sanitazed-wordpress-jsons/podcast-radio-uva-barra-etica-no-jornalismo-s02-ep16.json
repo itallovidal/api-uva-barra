@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8378/revisions/8382",
+        "id": 8382
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8378"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8378",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8378/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8378"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8380"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8378",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8378",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832,
+    7114,
+    14591
+  ],
+  "class_list": [
+    "post-8378",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "category-trabalho"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Debate sobre a pressão do mercado de trabalho e a ética</em></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F943885963&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><div><a href=\"https://soundcloud.com/user-525438802\">Agência UVA Barra</a> · <a href=\"https://soundcloud.com/user-525438802/podcast-radio-uva-barra-etica-no-jornalismo-s02-ep16\">Podcast Radio UVA Barra – Ética No Jornalismo – S02 EP16</a></div></iframe><p>O podcast de hoje, 08/12, é espaço para discutir a ética no jornalismo. A profissão vem sofrendo ataques ideológicos e políticos, entretanto deve continuar a sua função de informar sem tomar partido. As empresas de comunicação criam produtos jornalísticos na guerra pela audiência, na pressão do tempo, na linha editorial e tudo isso precisa ou deveria ser pautado pelo caminho da ética.</p><p>No jornalismo temos um código de ética que muito nos orienta, esse mesmo código foi criado em 1949 com a intenção de servir como base para todos os profissionais da área e em 2004 sofreu alteração em alguns pontos.</p><p>O podcast de hoje é uma reflexão para os futuros jornalistas, para os que já estão no mercado e até mesmo para quem consome a notícia e conta com a participação do professor de jornalismo da UVA, Fábio Cadorim, do repórter do grupo UOL, Gabriel Sabóia e do jornalista e produtor de notícias da Band TV, Iago Moreira.</p><p><em>Iago Eloi – 6º Período</em></p></main>"
+  },
+  "date": "2020-12-08T17:57:53",
+  "date_gmt": "2020-12-08T20:57:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Debate sobre a pressão do mercado de trabalho e a ética Agência UVA Barra · Podcast Radio UVA Barra – Ética No Jornalismo – S02 EP16 O podcast de hoje, 08/12, é espaço para discutir a ética no jornalismo. A profissão vem sofrendo ataques ideológicos e políticos, entretanto deve continuar a sua função de informar [&hellip;]</p>\n"
+  },
+  "featured_media": 8380,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8378"
+  },
+  "id": 8378,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/12/24-aub.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2b8",
+  "link": "https://agenciauvabarra.com/2020/12/08/podcast-radio-uva-barra-etica-no-jornalismo-s02-ep16/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-12-08T17:57:53",
+  "modified_gmt": "2020-12-08T20:57:53",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-etica-no-jornalismo-s02-ep16",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra – Ética No Jornalismo – S02 EP16"
+  },
+  "type": "post"
+}

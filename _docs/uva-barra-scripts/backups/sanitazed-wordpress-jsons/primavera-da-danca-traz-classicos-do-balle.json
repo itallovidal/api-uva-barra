@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2394/revisions/3046",
+        "id": 3046
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2394"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2394",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2394/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2394"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2396"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2394",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2394",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    62091
+  ],
+  "class_list": [
+    "post-2394",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ballet",
+    "tag-agencia-uva-barra",
+    "tag-ana-botafogo",
+    "tag-bailarinos-theatro-municipal",
+    "tag-ballet",
+    "tag-ballet-classico",
+    "tag-cecilia-kerche",
+    "tag-cidade-das-artes",
+    "tag-primavera-da-danca",
+    "tag-theatro-municipal"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Espetáculo leva bailarinos do Municipal para a Cidade das Artes</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-01-at-22-05-56.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-10-01 at 22.05.56' width='1280' height='960' /><figcaption>Bailarinos do Theatro Municipal durante apresentação na Cidade das Artes. Foto: Beatriz Laeber</figcaption></figure><p>Fim de semana na ponta do pé. O teatro da Cidade das Artes, na Barra da Tijuca, recebeu pela primeira vez os bailarinos do Theatro Municipal na apresentação do espetáculo “Primavera da Dança”, uma versão mais popular de ballets conhecidos, criado pelas diretoras, Ana Botafogo e Cecília Kerche.</p><p>O repertório da apresentação misturou trechos de diferentes espetáculos, como O Lago dos Cisnes, A Bela Adormecida, O Quebra-Nozes, entre outros. Para Ana Botafogo a apresentação, apesar de curta, somente um fim de semana, tem o intuito de democratizar a arte. “Mesclar trechos desses ballets é uma maneira de educar o público a assistir os renomados clássicos”, conta.</p><p>A estudante de engenharia de produção Monique Giarolle teve o primeiro contato com um espetáculo de ballet nesse fim de semana. A dança e os figurinos chamaram a atenção da jovem. “Eu achei bem legal porque foi uma forma de ver um pouco de cada repertório, mas acho que pode parecer confuso para quem não tem um roteiro para acompanhar”, diz.</p><p>As danças estão distribuídas em dois atos e sete números. São eles: “Pas de Quatre de Pugni” (passo com quatro bailarinas), “Adágio da Rosa”, o solo masculino em “Gopak”, o Pas de deux (passo de dois) de “O Quebra-Nozes”, “Czardas”, “Sheherazade” e “Raymonda”. Mesmo com nomes não tão comuns para muitos, ver o corpo do Municipal em outros palcos é uma forma de dar visibilidade a dança. “Ballet é uma arte que nós devemos preservar para as próximas gerações”, comenta Cecília.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-01-at-22-05-56-1.jpeg?resize=1280%2C960&#038;ssl=1' alt='WhatsApp Image 2018-10-01 at 22.05.56 (1)' width='1280' height='960' /><figcaption>Foto: Beatriz Laeber</figcaption></figure><p><strong>Beatrice Laeber- 2º período</strong></p></main>"
+  },
+  "date": "2018-10-02T07:28:23",
+  "date_gmt": "2018-10-02T10:28:23",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Espetáculo leva bailarinos do Municipal para a Cidade das Artes Fim de semana na ponta do pé. O teatro da Cidade das Artes, na Barra da Tijuca, recebeu&nbsp; pela primeira vez os bailarinos do Theatro Municipal na apresentação do espetáculo “Primavera da Dança”, uma versão mais popular de ballets conhecidos, criado pelas diretoras, Ana Botafogo [&hellip;]</p>\n"
+  },
+  "featured_media": 2396,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2394"
+  },
+  "id": 2394,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-01-at-22-05-56.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-CC",
+  "link": "https://agenciauvabarra.com/2018/10/02/primavera-da-danca-traz-classicos-do-balle/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:03:12",
+  "modified_gmt": "2019-01-31T14:03:12",
+  "ping_status": "open",
+  "slug": "primavera-da-danca-traz-classicos-do-balle",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5677939,
+    650710945,
+    767056620,
+    8243130,
+    20266381,
+    15767449,
+    650710944,
+    1944480
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Primavera da Dança traz clássicos do ballet"
+  },
+  "type": "post"
+}

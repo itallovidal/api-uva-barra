@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2118/revisions/3086",
+        "id": 3086
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2118"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2118",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2118/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2118"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2119"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2118",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2118",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2118",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-anos-70",
+    "tag-cinema",
+    "tag-cinema-nacional",
+    "tag-ditadura",
+    "tag-pornochanchada"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/histc3b3rias-que-nosso-cinema-nc3a3o-contava.png?resize=369%2C136&amp;ssl=1' alt='histórias que nosso cinema não contava' width='369' height='136'/></figure><p>Inteligente. Irônico. Sagaz. No longa “ Histórias que nosso cinema (não) contava”, a diretora Fernanda Pessoa reúne em uma coletânea de filmes da década de 70 rotulados como “pornochanchada”, um objetivo em comum: contar a história do Brasil. Com foco na questão da ditadura militar, o documentário vai tecendo, em uma linha do tempo, fases importantes do país através do olhar da censura.</p><p>Para compor este enredo, a obra começa rapidamente no descobrimento do Brasil até o ano de 1970. Para dar vida a este cenário, filmes como “Palácio de Vênus”, “Elas são do baralho” e “A Super Fêmea” fazem parte da narrativa. Muito mais que uma “comédia barata” sobre um pornô de antigamente, Fernanda Pessoa procura trazer uma releitura dessas filmagens e instigar o telespectador a uma reflexão sobre os acontecimentos da época. E chegar a conclusão que até os rotulados como apenas um pornô social tinham as falas censuradas ao se tentar fazer uma crítica sobre a situação que as pessoas passavam por falta de liberdade de expressão.</p><p>Reforma democrática, comunismo, capitalismo, milagre econômico e machismo são um dos temas observados ao longo do desenrolar de cada cena. O documentário vai conectar todas essas diferentes histórias em uma só e abre as portas para o humor sarcástico ao citar frases de efeitos de uma sociedade preconceituosa e patriarcal. Seja em um camponês que sai para a grande São Paulo para abordar o êxodo rural ou as prostitutas aderindo a greve para garantir mais direitos, as falas parecem se encaixar do começo até o fim.</p><p>Os diretores de cada filme também caracterizam os protagonistas cheios de estereótipos para dar mais vivacidade aos personagens de cada conto. Um exemplo nítido é o papel da mulher. Impura, selvagem e maldosa. Enquanto o homem que é visto como puro e só pensa no progresso da nação por meio do trabalho capaz de edificar, o gênero feminino é retratado como um objeto, mostrando claramente um pensamento machista e ultrapassado. O documentário traz ingredientes como sarcasmo, ironia e pode levar o telespectador desde risadas até um debate pós- reflexão com os amigos em uma mesa de bar.</p><p><strong>Isabelle Amancio – 6° período.</strong></p></main>"
+  },
+  "date": "2018-08-19T20:20:21",
+  "date_gmt": "2018-08-19T23:20:21",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Inteligente. Irônico. Sagaz. No longa “ Histórias que nosso cinema (não) contava”, a diretora Fernanda Pessoa reúne em uma coletânea de filmes da década de 70 rotulados como “pornochanchada”, um objetivo em comum: contar a história do Brasil. Com foco na questão da ditadura militar, o documentário vai tecendo, em uma linha do tempo, fases [&hellip;]</p>\n"
+  },
+  "featured_media": 2119,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2118"
+  },
+  "id": 2118,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/08/histc3b3rias-que-nosso-cinema-nc3a3o-contava.png?fit=369%2C136&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-ya",
+  "link": "https://agenciauvabarra.com/2018/08/19/agencia-uva-barra-assistiu-historias-que-nosso-cinema-nao-contava/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:30:36",
+  "modified_gmt": "2019-01-31T14:30:36",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-historias-que-nosso-cinema-nao-contava",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    821226,
+    767056592,
+    168394,
+    382014,
+    2184990
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: “Histórias que nosso cinema (não) contava&#8221;"
+  },
+  "type": "post"
+}

@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14180/revisions/14187",
+        "id": 14187
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14180"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14180",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14180/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14180"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14186"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14180",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14180",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597,
+    15243,
+    7114
+  ],
+  "class_list": [
+    "post-14180",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "category-meio-ambiente",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-documentario",
+    "tag-moradia",
+    "tag-muribeca"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>&#8220;Muribeca&#8221; de Alcione Ferreira e Camilo Soares chega aos cinemas brasileiros no dia 02 de Março através da distribuição da Descoloniza Filmes, depois de ter percorrido o circuito de festivais de cinema como o Cine-PE, CineOP e Fidba (Argentina).</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/materia-muribeca.jpg?resize=5616%2C3744&#038;ssl=1\" alt=\"\" width=\"5616\" height=\"3744\" /><figcaption>Foto: Rafael Cabral </figcaption></figure><p>O documentário fala sobre a angústia de moradores do complexo habitacional Muribeca, com 69 blocos de 32 apartamentos localizados em Jaboatão dos Guararapes, Pernambuco. O lugar está perto de se tornar uma cidade fantasma, após problemas estruturais e devido à especulação imobiliária que leva a interdições e retiradas forçadas em massa. Apesar do destino iminente, os moradores guardam o encanto do que o bairro já foi um dia.</p><p>A principal característica do projeto é a montagem que liga diferentes elementos, sendo eles a imagem de arquivo, as memórias, as festas e ações sociais de uma comunidade. A observação do presente é acompanhada pela fala ou a participação direta de moradores e as intervenções artísticas. Os relatos são carregados pela emoção e trazem diferentes sentimentos como a melancolia, a revolta, a desilusão e até uma certa esperança.</p><p>Os planos de prédios desbotados, pisos sucateados, lixo estrutural, animais vagando pelas ruas abandonadas, tem o contraponto de imagens fechadas que destacam o entrevistado solitário nos ambientes precarizados do entorno. A música composta por Lucas D&#8217;Ávila, Tony Frevo e Flora Vontade traz sons regionais como toques de berimbau e trazem subjetividades e associações simbólicas para o longa-metragem .</p><p>&#8220;Muribeca&#8221; é um projeto documental que entra na seara de produções brasileira com caráter social e com uma mensagem política, neste caso em relação ao capitalismo desenfreado e as consequências causadas pelos mesmos.</p><p><strong>Confira o trailler!</strong></p><figure><iframe src=\"https://www.youtube.com/embed/YD8o18616wI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><br><em>Márcio Weber &#8211; 2° período </em></p></main>"
+  },
+  "date": "2023-03-02T16:22:36",
+  "date_gmt": "2023-03-02T19:22:36",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O documentário fala sobre a angústia de moradores do complexo habitacional Muribeca, com 69 blocos de 32 apartamentos localizados em Jaboatão dos Guararapes, Pernambuco. O lugar está perto de se tornar uma cidade fantasma, após problemas estruturais e devido à especulação imobiliária que leva a interdições e retiradas forçadas em massa. Apesar do destino iminente, os moradores guardam o encanto do que o bairro já foi um dia.</p>\n"
+  },
+  "featured_media": 14186,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14180"
+  },
+  "id": 14180,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/capa-muribeca.jpg?fit=4403%2C2530&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3GI",
+  "link": "https://agenciauvabarra.com/2023/03/02/agencia-uva-barra-assistiu-muribeca/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-02T16:22:36",
+  "modified_gmt": "2023-03-02T19:22:36",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-muribeca",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    34939883,
+    45958,
+    646382,
+    8587164
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Muribeca"
+  },
+  "type": "post"
+}

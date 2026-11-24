@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2532/revisions/4535",
+        "id": 4535
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2532"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2532",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2532/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2532"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2533"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2532",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2532",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2532",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-cake-designer",
+    "tag-centro-de-convencoes-sulamerica",
+    "tag-confeitaria",
+    "tag-expo-cakes-brasil-2018",
+    "tag-lucas-piubelli"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Em palestra, Lucas Piubelli apresenta novas tendências no mercado de Cake Design</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-22-at-4-07-17-pm1.jpeg?resize=1280%2C960&amp;ssl=1\" alt=\"WhatsApp Image 2018-10-22 at 4.07.17 PM(1)\" width=\"1280\" height=\"960\" /><figcaption>Lucas Piubelli com participantes das palestras no terceiro dia da Expo Cakes Brasil 2018 – Foto: Ana Carolina Soares</figcaption></figure><p><span style=\"text-align:justify;\">Com a evolução da tecnologia e a criação de novas mídias sociais, os diferentes tipos de serviços e trabalhos tiveram que acompanhar esse avanço, não foi diferente com a confeitaria. Com intuito de apresentar esse novo universo para os profissionais do mercado, o cake designer Lucas Piubelli ministrou uma palestra e um curso rápido sobre as tendências da confeitaria na Era Digital, no terceiro dia (20/10) <a href=\"https://agenciauvabarra.com/2018/10/19/a-valorizacao-da-confeitaria/\">da Expo Cakes Brasil 2018</a>, no Centro de Convenções SulAmérica.</span></p><p>Lucas se encantou pela confeitaria com 15 anos e começou a fazer diversos cursos quando descobriu que poderia juntar duas coisas que amava, a culinária e o artesanato. Durante essa trajetória acabou atingindo grande relevância no meio. Com o tempo, o relacionamento com o digital também mudou, “Hoje em dia é possível acompanhar diversos conteúdos e a ideia principal é que você possa se destacar mostrando diferencial e qualidade”, comenta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-22-at-4-07-17-pm.jpeg?resize=508%2C380&amp;ssl=1\" alt=\"WhatsApp Image 2018-10-22 at 4.07.17 PM\" width=\"508\" height=\"380\" /><figcaption>O cake designer durante a demonstração da construção de uma flor – Foto: Ana Carolina Soares</figcaption></figure><p>Passando pelas redes sociais mais utilizadas na relação confeiteiro-cliente, como Instagram e Facebook, até a demonstração de técnicas artísticas, o carisma de Lucas chamou a atenção do público. “Me surpreendeu ver esse carinho que ele tem com as pessoas, fora a forma que ele ensina, que é muito objetiva e clara”, comenta Elizabete Freitas, confeiteira que viajou de Minas Gerais para o Rio de Janeiro somente para conhecer o evento e principalmente para aprender um pouco mais sobre as técnicas inovadoras do profissional.</p><p>O cake designer mostrou que a confeitaria não é apenas fazer bolos e doces, com ela é possível construir histórias e lembranças para cada um. O mais importante nesse relacionamento pode ser algo além de confeiteiro-cliente, pois durante toda a etapa o profissional constrói e vende um sentimento que fará parte daquele momento específico do consumidor, “O bolo tem um valor sentimental, o que vendemos é algo intangível”, completa Lucas.</p><p><strong>Ana Carolina Soares – 6º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2018-10-23T15:06:35",
+  "date_gmt": "2018-10-23T18:06:35",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Em palestra, Lucas Piubelli apresenta novas tendências no mercado de Cake Design Com a evolução da tecnologia e a criação de novas mídias sociais, os diferentes tipos de serviços e trabalhos tiveram que acompanhar esse avanço, não foi diferente com a confeitaria. Com intuito de apresentar esse novo universo para os profissionais do mercado, o [&hellip;]</p>\n"
+  },
+  "featured_media": 2533,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2532"
+  },
+  "id": 2532,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/whatsapp-image-2018-10-22-at-4-07-17-pm1.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-EQ",
+  "link": "https://agenciauvabarra.com/2018/10/23/confeitaria-na-era-digital/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-07-23T11:29:56",
+  "modified_gmt": "2019-07-23T14:29:56",
+  "ping_status": "open",
+  "slug": "confeitaria-na-era-digital",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    6531192,
+    58447114,
+    1260148,
+    652530213,
+    272940513
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Confeitaria na Era Digital"
+  },
+  "type": "post"
+}

@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2365/revisions/3049",
+        "id": 3049
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2365"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2365",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2365/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2365"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2366"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2365",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2365",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2365",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-barra-da-tijuca",
+    "tag-festival-de-rock",
+    "tag-musica",
+    "tag-rock",
+    "tag-up-rock-festival",
+    "tag-uptown-shopping"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em><span>A primeira edição do “UP Rock Festival” estimula público a fazer doações de alimentos para instituições carentes da Zona Oeste</span></em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/2018-09-28-11-11-57-1-e1538332814403.jpg?resize=1280%2C720&#038;ssl=1' alt='Processed with VSCO with  preset' width='1280' height='720' /><figcaption>O cantor Bruno Galvão convida o público a participar da doação de alimentos durante o show. Foto: Bárbara Faria</figcaption></figure><p><span>Música, gastronomia e amor ao próximo. Entre os dias 28 e 30 de setembro, o UPTOWN Shopping, em parceria com a Corporate Events, promove a primeira edição do “UP Rock Festival”. O evento traz shows de 13 bandas que perpassam por canções nacionais e internacionais dos anos 80 e 90 e reúne novidades gastronômicas. A entrada é gratuita, mas os participantes podem contribuir com 1kg de alimento não perecível que serão doados para instituições carentes localizadas na Zona Oeste.</span></p><p><span>Ajudar quem precisa é o lema que move o festival de rock. O coordenador de Marketing do UPTOWN, Diego Costa, relata que a iniciativa é uma forma de reunir os fãs do estilo musical e de possibilitar assistência social a pessoas menos favorecidas. “A ideia de incentivar uma ação social surgiu porque o local do evento está em torno de uma população carente”, explica. Ele conta que nos dois primeiros dias foram arrecadados 180kg de alimentos.</span></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/whatsapp-image-2018-09-30-at-11-23-22.jpeg?resize=1076%2C428&#038;ssl=1' alt='WhatsApp Image 2018-09-30 at 11.23.22' width='1076' height='428' /><figcaption>180kg de alimentos não perecíveis foram arrecadados nos dois primeiros dias do Festival. Foto: Diego Costa</figcaption></figure><p><span>O entretenimento possibilita um engajamento solidário. O cantor e produtor, Bruno Galvão, diz que o evento representa uma causa nobre e que isso o torna mais humanizado. Para ele, os artistas são formadores de opinião e devem se envolver também. “A música é universal. Acho que todas as tribos devem se ajudar e eu já vi uma galera nesse clima, carregando sacolas com os alimentos para doação”, afirma. </span></p><p><span>A primeira edição do “UP Rock Festival” mantém a diversão, apoia causas sociais e conquista a atenção do público, sem perder a força que o gênero musical pede. A professora Marlene Bertozzi, 68 anos, relata que na atual conjuntura brasileira é importante ajudar o próximo. “Nós estamos atravessando um momento muito difícil. Então, é muito legal unir o útil ao agradável”, comenta.</span></p><p><strong>Bárbara Faria – 6º período</strong></p></main>"
+  },
+  "date": "2018-09-30T15:30:27",
+  "date_gmt": "2018-09-30T18:30:27",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A primeira edição do “UP Rock Festival” estimula público a fazer doações de alimentos para instituições carentes da Zona Oeste Música, gastronomia e amor ao próximo. Entre os dias &nbsp;28 e 30 de setembro, o UPTOWN Shopping, em parceria com a Corporate Events, promove a primeira edição do “UP Rock Festival”. O evento traz shows [&hellip;]</p>\n"
+  },
+  "featured_media": 2366,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2365"
+  },
+  "id": 2365,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/09/2018-09-28-11-11-57-1-e1538332814403.jpg?fit=1280%2C720&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-C9",
+  "link": "https://agenciauvabarra.com/2018/09/30/entretenimento-em-prol-de-acoes-sociais/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-01-31T12:06:09",
+  "modified_gmt": "2019-01-31T14:06:09",
+  "ping_status": "open",
+  "slug": "entretenimento-em-prol-de-acoes-sociais",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1129725,
+    5830868,
+    767056594,
+    1433,
+    163726739,
+    47115018
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Entretenimento em prol de ações sociais"
+  },
+  "type": "post"
+}

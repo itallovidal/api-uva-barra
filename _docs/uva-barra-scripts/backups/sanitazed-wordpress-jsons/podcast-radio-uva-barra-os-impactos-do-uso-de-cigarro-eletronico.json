@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11342/revisions/11348",
+        "id": 11348
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11342"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11342",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11342/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11342"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11344"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11342",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11342",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-11342",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed:  Os impactos do uso de cigarro eletrônico\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/2AMy4RuznAXaTn2iET9yfj?si=3529a2f5e068432a&#038;utm_source=oembed\"></iframe></figure><p>Mesmo com a comercialização proibida pela Anvisa, o cigarro eletrônico é a mais nova moda entre os jovens brasileiros. Compartilhado por influenciadores digitais, o dispositivo vem sendo promovido nas redes sociais como algo positivo e livre de qualquer risco.</p><p>Abrindo caminho para conscientização, especialistas fazem os alertas necessários sobre o uso deste produto que afeta a saúde pulmonar e pode acarretar em outras consequências à saúde do usuário.</p><p>Neste podcast, contamos com a presença do pneumologista Wanderson Pereira, da influenciadora digital Janaína Fonseca, da dentista Brenda Reis e da estudante Laura Giacetti, que se reuniram para falar sobre os impactos do uso de cigarro eletrônico.</p><p><em>Camyla Lima – 6º período</em></p><p><em>Breno Monteiro – 7º período</em></p><p><em>Mariana Sabino – 7º período</em></p></main>"
+  },
+  "date": "2022-04-01T18:27:53",
+  "date_gmt": "2022-04-01T21:27:53",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mesmo com a comercialização proibida pela Anvisa, o cigarro eletrônico é a mais nova moda entre os jovens brasileiros. Compartilhado por influenciadores digitais, o dispositivo vem sendo promovido nas redes sociais como algo positivo e livre de qualquer risco.</p>\n"
+  },
+  "featured_media": 11344,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11342"
+  },
+  "id": 11342,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/04/site-.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2WW",
+  "link": "https://agenciauvabarra.com/2022/04/01/podcast-radio-uva-barra-os-impactos-do-uso-de-cigarro-eletronico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-04-01T18:32:14",
+  "modified_gmt": "2022-04-01T21:32:14",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-os-impactos-do-uso-de-cigarro-eletronico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Os impactos do uso de cigarro eletrônico"
+  },
+  "type": "post"
+}

@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17884/revisions/17887",
+        "id": 17887
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=17884"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17884",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/17884/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=17884"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/17886"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=17884",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=17884",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-17884",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Dirigido por Alexandre Aja, o longa “Não Solte”, narra a história de uma família vítima de uma força sobrenatural desconhecida que está ao redor da casa deles, onde ao sair dela, precisam estar amarrados a uma corda, os ligando a casa deles. June (Halle Berry), e seus filhos gêmeos, Nolan (Percy Daggs IV) e Samuel (Anthony B. Jenkins) amarram as cordas em si para se protegerem do mal, e caso eles se soltem, o mal pode tocá-los. A partir disso, a trama aborda o paradoxo entre crença e dúvida dentro de um terror psicológico, onde o que os protege desse cenário é a lealdade familiar.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/fafea794737ce54b7bab534fea411d2f.webp?resize=1620%2C1080&amp;ssl=1\" alt=\"\" width=\"1620\" height=\"1080\" /><figcaption></figcaption></figure><p>Os efeitos especiais são muito bem aplicados, por serem muito realistas, colaborando para a criação do clímax da trama. Os efeitos audiovisuais são um dos elementos principais para prender a atenção do telespectador, aumentando a tensão e o suspense da história. Esses elementos de produção realmente merecem ser parabenizados.</p><p>As vestimentas foram muito mal selecionadas e utilizadas na construção das cenas, pois não contribuíram para a proposta do longa. O figurino tem uma estética muito exagerada e acaba roubando a atenção de algumas cenas para os atores e seus figurinos. Outro ponto negativo é a falta de contextualização sobre a figura principal, a entidade (mal), pois ele só aparece através de terceiros, como cadáveres, e não há uma explicação clara da origem dessa maldição, aparecendo repentinamente, podendo confundir o telespectador.</p><p>Há uma tentativa falha de trabalhar com um final em aberto, pois ele não é esclarecido e acaba não entregando a proposta que foi construída. A narrativa não se desenvolve o necessário para justificar o final de forma clara para o telespectador. O filme “Não Solte”, mesmo com todos os problemas apresentados, aborda um enredo cativante. O filme vai estar disponível nas telas dos cinemas de todo o Brasil no dia 07 de novembro.</p><figure><iframe src=\"https://www.youtube.com/embed/ZDfRp_ukHDU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>Carolina Pimentel – 1° Período</p></main>"
+  },
+  "date": "2024-11-05T13:46:08",
+  "date_gmt": "2024-11-05T16:46:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Dirigido por Alexandre Aja, o longa “Não Solte”, narra a história de uma família vítima de uma força sobrenatural desconhecida que está ao redor da casa deles, onde ao sair dela, precisam estar amarrados a uma corda, os ligando a casa deles. June (Halle Berry), e seus filhos gêmeos, Nolan (Percy Daggs IV) e Samuel [&hellip;]</p>\n"
+  },
+  "featured_media": 17886,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=17884"
+  },
+  "id": 17884,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/11/fafea794737ce54b7bab534fea411d2f.webp?fit=1620%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Es",
+  "link": "https://agenciauvabarra.com/2024/11/05/agencia-uva-barra-assistiu-nao-solte/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-11-12T13:53:38",
+  "modified_gmt": "2024-11-12T16:53:38",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-nao-solte",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra assistiu: Não Solte"
+  },
+  "type": "post"
+}

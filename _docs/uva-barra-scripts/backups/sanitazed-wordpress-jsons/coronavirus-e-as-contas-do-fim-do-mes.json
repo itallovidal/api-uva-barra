@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7420/revisions/7428",
+        "id": 7428
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7420"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7420",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7420/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7420"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7427"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7420",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7420",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    11716206,
+    703299214
+  ],
+  "class_list": [
+    "post-7420",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-economia-2",
+    "category-teoria-e-tecnica-da-noticia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Vírus que desestabilizou economia mundial vem afetando os brasileiros, que enfrentam problemas financeiros</em></p><p>A pandemia do novo vírus, o Covid-19, que começou em dezembro do ano passado em Wuhan, na China, e hoje afeta o mundo todo, trouxe consequências para economia mundial. Principalmente, para os trabalhadores. E no Brasil a situação não é diferente. Para evitar demissões, muitos empreendedores reduziram os salários dos funcionários, sendo cada caso avaliado e acordado entre empregador e contratado.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-6.png?resize=571%2C378&#038;ssl=1' alt='' width='571' height='378' /><figcaption>Foto &#8211; Tainá Regô, El país Brasil</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-18.53.59.jpeg?resize=1599%2C1292&#038;ssl=1' alt='' width='1599' height='1292' /><figcaption>Marcio de Carvalho trabalhando durante a pandemia &#8211; Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-7.png?resize=315%2C315&#038;ssl=1' alt='' width='315' height='315' /><figcaption>Carlos Storani indo coordenar uma de suas lojas &#8211; Foto: Arquivo Pessoal</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/image-8.png?resize=232%2C232&#038;ssl=1' alt='' width='232' height='232' /><figcaption>Pedro Viana trabalhando durante a pandemia &#8211; Foto: Arquivo Pessoal</figcaption></figure><p>No caso do Marcio de Carvalho, que tem 46 anos e trabalha como Gerente Regional no ramo de alimentação há seis meses, a jornada de trabalho e a remuneração foram diminuídas em 25%. Ele conta que reduziu despesas supérfluas para poder economizar nesse momento de instabilidade. “Essa redução me afetou muito, pois como tenho um financiamento imobiliário, tivemos que reduzir outras despesas como academia, diarista, natação do meu filho”, lamenta.</p><p>O economista Filipe Guedes explica que retomada da economia está diretamente atrelada à diminuição na taxa de disseminação do vírus we que efeitos da pandemia já podem ser sentidos no mercado de trabalho. “Seja por aumento no desemprego ou ampliação de falências, esses impactos levarão tempo para ser reparados. É possível que a gente encare certo grau de desestruturação da cadeia produtiva logo após a crise passar”.</p><p>Toda essa situação deixa as pessoas ansiosas para saber o que vem em seguida. E com o empresário Carlos Alberto Storani, que tem 20 anos de experiência no ramo alimentício, não é diferente. Dono de oito lojas do grupo Steak Grill, que conta com 140 funcionários, ele teve que diminuir gastos e foi obrigado a cortar pessoal e reduzir salários. “Tivemos que encerrar as atividades de uma loja e demitir 40 funcionários. Os que ficaram tiveram os contratos suspensos por dois meses, para no terceiro mês 70% ser custeado pelo governo e 30% pelas empresas”, conta.</p><p>E se a ansiedade consome alguns, para outros, resistir é o que resta nesse momento de crise econômica. Pedro Viana, de 34 anos, teve seu salário reduzido em 25%, mas conta que a carga horária continua a mesma. “Diminuíram a minha remuneração, mas na prática do serviço continua do mesmo jeito, para garantir as tarefas durante esse período”. Pedro se mostra surpreso com tudo que está ocorrendo: “Não esperava passar por isso, nunca enfrentamos nada parecido”. A última pandemia que o mundo presenciou foi a de H1N1 em 2010, que começou no México e logo em seguida se alastrou pelo mundo. Hoje, dez anos depois, a surpresa de se ter outro grande contágio permanece.</p><p>Para tentar atenuar as consequências desta nova crise sanitária, o governo brasileiro apresentou o auxílio emergencial de 600 reais para ajudar trabalhadores informais que estão tentando sobreviver durante essa situação. Apesar de essa assistência ser um avanço, há problemas de logística que precisam ser resolvidos para que o benefício chegue a todo o público-alvo, diz Filipe. “Temos visto que a demora no recebimento da transferência acabou ocasionando situações de aglomeração de pessoas em agências bancárias, o que não é indicado como forma de lidarmos com a pandemia”.</p><p>Apesar de o auxílio ser muito importante nesse momento de colapso econômico, em muitos casos ele não recompõe em sua totalidade a renda que o informal receberia de sua ocupação. É o que acontece com o autônomo em Técnica de Eletrônica, Claudio Luiz Bruno, de 50 anos. Ele conta que, apesar de a ajuda ser bem-vinda, não chega perto do que ele geralmente arrecada em expediente normal. “Essa assistência governamental é necessária, mas é também paliativa. Ela ajuda no curto prazo, para pagar despesas essenciais. No entanto, não chega a 50% do que eu costumo receber em um mês”. Como se diz, em época de crise, retire a letra S da palavra e CRIE. Mas criar sem capital é uma realidade impossível para muitos brasileiros.</p><p><strong>Natália da Silva Lisboa &#8211; 3º Período | Jornalismo</strong></p><p><em>*Texto produzido na disciplina Teoria e Técnica da Notícia em parceria com a Agência UVA Barra.</em></p></main>"
+  },
+  "date": "2020-08-07T14:00:00",
+  "date_gmt": "2020-08-07T17:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Vírus que desestabilizou economia mundial vem afetando os brasileiros, que enfrentam problemas financeiros A pandemia do novo vírus, o Covid-19, que começou em dezembro do ano passado em Wuhan, na China, e hoje afeta o mundo todo, trouxe consequências para economia mundial. Principalmente, para os trabalhadores. E no Brasil a situação não é diferente. Para [&hellip;]</p>\n"
+  },
+  "featured_media": 7427,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7420"
+  },
+  "id": 7420,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/08/whatsapp-image-2020-08-03-at-18.53.59.jpeg?fit=1599%2C1292&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1VG",
+  "link": "https://agenciauvabarra.com/2020/08/07/coronavirus-e-as-contas-do-fim-do-mes/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-03T19:04:00",
+  "modified_gmt": "2020-08-03T22:04:00",
+  "ping_status": "open",
+  "slug": "coronavirus-e-as-contas-do-fim-do-mes",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Coronavírus e as contas do fim do mês"
+  },
+  "type": "post"
+}

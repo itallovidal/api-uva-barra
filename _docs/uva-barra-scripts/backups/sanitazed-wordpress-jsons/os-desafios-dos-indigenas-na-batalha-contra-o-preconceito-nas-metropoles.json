@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16550/revisions/16561",
+        "id": 16561
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16550"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16550",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16550/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16550"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16560"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16550",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16550",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16550",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O Dia dos Povos Originários surge como uma homenagem anual à riqueza cultural dos povos indígenas no Brasil</em></p><p>No dia 19 de abril, o Brasil celebra o Dia dos Povos Indígenas, criado pelo Presidente Getúlio Vargas por meio do Decreto-Lei n.° 5.540, de 1943, uma data carregada de significado e importância histórica, destinada não apenas a reconhecer a riqueza cultural, mas também a refletir sobre os desafios que persistem em seu cotidiano. Entretanto, dentro do cenário urbano do Brasil, os povos originários ainda encaram uma batalha cotidiana contra a discriminação e o isolamento social.</p><p>De acordo com estatísticas do <a href='https://indigenas.ibge.gov.br/graficos-e-tabelas-2.html'>IBGE</a> divulgadas em 2023, comunidades indígenas estão presentes em cerca de 9 em cada 10 das principais cidades brasileiras. Com isso, desafiam estereótipos e buscam sua inserção em meio à complexidade das grandes metrópoles. Essa realidade expõe os desafios enfrentados por esses grupos ancestrais, que lutam para preservar sua cultura e identidade em um ambiente urbano, muitas vezes hostil e desfavorável. No entanto, um momento que deveria ser marcado por celebração, porém, também serve como um lembrete doloroso dos obstáculos enfrentados por essas comunidades, especialmente quando transplantadas para o ambiente urbano das metrópoles brasileiras.</p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/04/yara-tembe.jpg?resize=1080%2C1900&#038;ssl=1' alt='Yara Tembé destaca a persistência do preconceito nas grandes cidades: &#8216;A segregação e discriminação baseadas em nossas origens étnico-raciais não deveriam mais ocorrer&#8217;' width='1080' height='1900' /><figcaption>Yara Tembé destaca a persistência do preconceito nas grandes cidades: &#8216;A segregação e discriminação baseadas em nossas origens étnico-raciais não deveriam mais ocorrer&#8217;\n(Reprodução: Arquivo pessoal)\n</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/04/kelly-bone-2.jpg?resize=621%2C613&#038;ssl=1' alt='Kelly Bone atua como uma voz proeminente na rede Mídia Indígena, utilizando nas redes sociais para amplificar questões e narrativas indígenas. &#8216;Hoje conseguimos alcançar espaços que ninguém imaginava, um deles é o Marco histórico da criação do Ministério dos Povos Indígenas. Com isso, a sociedade vai começando a entender que também temos conhecimento e que também ocupam lugares importantes&#8217;' width='621' height='613' /><figcaption>Kelly Bone atua como uma voz proeminente na rede Mídia Indígena, utilizando nas redes sociais para amplificar questões e narrativas indígenas. &#8216;Hoje conseguimos alcançar espaços que ninguém imaginava, um deles é o Marco histórico da criação do Ministério dos Povos Indígenas. Com isso, a sociedade vai começando a entender que também temos conhecimento e que também ocupam lugares importantes&#8217;\n(Reprodução: Arquivo pessoal)\n</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/04/vinicius-costa.jpg?resize=750%2C820&#038;ssl=1' alt='Vinicius Costa, 43 anos, professor de sociologia formado em Ciências Sociais pela UFF. &#8216;Prevalece muito o discurso de que a área urbana não é para os indígenas, tornando-se um desafio social&#8217;' width='750' height='820' /><figcaption>Vinicius Costa, 43 anos, professor de sociologia formado em Ciências Sociais pela UFF. &#8216;Prevalece muito o discurso de que a área urbana não é para os indígenas, tornando-se um desafio social&#8217;\n(Reprodução: Arquivo pessoal)\n</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/04/foto-do-professor-marcelo.jpg?resize=750%2C745&#038;ssl=1' alt='O professor Marcelo Trindade, 55, graduado em Direito, reflete sobre os desafios legislativos para os povos indígenas. &#8216;O indígena que está migrando para área urbana, já é um indivíduo que foi inserindo na comunhão nacional&#8217;' width='750' height='745' /><figcaption>O professor Marcelo Trindade, 55, graduado em Direito, reflete sobre os desafios legislativos para os povos indígenas. &#8216;O indígena que está migrando para área urbana, já é um indivíduo que foi inserindo na comunhão nacional&#8217;\n(Reprodução: Arquivo pessoal)\n</figcaption></figure><p>Entre o emaranhado de concreto e as estruturas imponentes das grandes cidades, os indígenas travam uma batalha diária contra o preconceito.</p><p>Essa luta, muitas vezes invisível aos olhos da sociedade, é uma batalha pela preservação da identidade cultural, pela manutenção dos seus valores ancestrais e pela garantia de direitos básicos que são negados.</p><p>Na percepção da Yara Tembé, uma jovem de 18 anos e líder do grupo Juventude Indígena, sobre as dificuldades que sua comunidade enfrenta nesse processo, a situação de pobreza que os indígenas enfrentam nas cidades é o maior problema. “A maioria dos indígenas que vão procurar uma condição de vida melhor nas metrópoles vivem em uma situação de pobreza, tendo apenas o artesanato como meio para uma melhor renda, e .enfrentam dificuldades com desafios básicos como educação e saúde, visto que alguns profissionais desconhecem nossa realidade e têm preconceito conosco”,<strong><em> </em></strong>comenta a jovem indígena Yara Tembé.</p><p>Além dos avanços na conscientização sobre diversidade e inclusão, os povos indígenas continuam a enfrentar sérios desafios de aceitação e respeito em muitos setores da sociedade. A não aceitação se manifesta de diversas formas, desde o preconceito sutil até a discriminação explícita, que impedem que essas comunidades tenham acesso igualitário a oportunidades e direitos básicos, como citados.</p><p>Kelly Bone, 27, expressa sua frustração diante da persistência de alguns indivíduos que ainda pensam que os indígenas são distintos das demais pessoas. “Grande parte das pessoas não entendem que indígenas são pessoas normais e mais comuns do que imaginam. Ainda hoje, enfrentamos preconceito ao usar um acessório, ao andar pintado. Ainda não entendem que isto faz parte da nossa cultura e que é super normal. É tão fácil aceitar uma cerca de coisas no mundo, mas não nos aceitam como somos”<strong>, </strong>diz a social media na rede Mídia Indígena.</p><p>Para o professor de sociologia formado pelo curso de Ciências Sociais na Universidade Federal Fluminense (UFF), Vinicius Costa, o &#8216;Dia do Índio&#8217; é uma data que marca a luta dos povos originários pela sobrevivência desde a colonização do Brasil até os genocídios modernos, deveria se chamar &#8220;Dia dos Povos Indígenas&#8221;.<strong> </strong>Segundo ele, a mudança é necessária para refletir as ideias e lutas das diversas sociedades indígenas, entretanto, é uma mudança pequena. &#8220;Podemos notar uma alteração, mesmo que sutil. Por que não adianta deixarmos de falar &#8216;índio&#8217; e usar o termo &#8216;povos indígenas&#8217;, se as pessoas ainda têm dificuldade de inseri-los na sociedade. Entra muito no campo do &#8216;exótico&#8217;. Socialmente falando, eles ainda não são tratados como indivíduos que têm seus direitos, e por isso vemos tão poucas pessoas indígenas nas grandes cidades&#8221;<strong>, </strong>explica o professor de sociologia, Vinicius Costa.</p><p>A aplicação eficaz das leis que protegem os indígenas nas grandes cidades é importante, pois existem leis que criminalizam os atos de violência contra eles. Marcelo Trindade, professor de Direito, 55, comenta sobre como o sistema jurídico brasileiro aborda casos de descriminação e preconceito contra indígenas em contextos urbanos. “Individualmente, usa a lei de racismo que é um crime inafiançável e imprescritível, está previsto na Lei. Nº 7.716, e dentro das condutas previstas na lei específica, qualquer crime resultante de discriminação e preconceito de raça, cor, etnia e religião procedencia nacional vai incidir na lei de racismo, mas existe outras legislações como: o código de proteção estátuto do indígena e Direitos difusos”, explica o advogado Marcelo Trindade.</p><p>Diante dos desafios enfrentados pelos indígenas na batalha contra o preconceito nas grandes cidades, reconhecer a humanidade e a diversidade dessas comunidades ancestrais é crucial, assim como valorizar suas significativas contribuições para a sociedade brasileira. Com isso, a construção de uma realidade urbana verdadeiramente justa e igualitária só será possível através do respeito mútuo, da promoção de uma educação e saúde inclusiva e do estabelecimento de um diálogo aberto e respeitoso.</p><p><em>Júlia Gabriela – 6º Período</em></p></main>"
+  },
+  "date": "2024-04-19T19:17:39",
+  "date_gmt": "2024-04-19T22:17:39",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O Dia dos Povos Originários surge como uma homenagem anual à riqueza cultural dos povos indígenas no Brasil No dia 19 de abril, o Brasil celebra o Dia dos Povos Indígenas, criado pelo Presidente Getúlio Vargas por meio do Decreto-Lei n.° 5.540, de 1943, uma data carregada de significado e importância histórica, destinada não apenas [&hellip;]</p>\n"
+  },
+  "featured_media": 16560,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16550"
+  },
+  "id": 16550,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2024/04/foto-de-capa-para-a-materia-sobre-os-povos-indigenas.jpg?fit=720%2C764&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4iW",
+  "link": "https://agenciauvabarra.com/2024/04/19/os-desafios-dos-indigenas-na-batalha-contra-o-preconceito-nas-metropoles/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2024-04-19T19:17:39",
+  "modified_gmt": "2024-04-19T22:17:39",
+  "ping_status": "open",
+  "slug": "os-desafios-dos-indigenas-na-batalha-contra-o-preconceito-nas-metropoles",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Os desafios dos Indígenas na batalha contra o preconceito nas Metrópoles"
+  },
+  "type": "post"
+}

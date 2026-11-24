@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9856/revisions/9874",
+        "id": 9874
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9856"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9856",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9856/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9856"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9862"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9856",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9856",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    10889,
+    2366
+  ],
+  "class_list": [
+    "post-9856",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-esporte",
+    "category-eventos",
+    "tag-empoderamento-feminino",
+    "tag-esporte",
+    "tag-jogosolimpicos",
+    "tag-olimpiadas",
+    "tag-podcast",
+    "tag-representatividade",
+    "tag-surf"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Surf feminino: dificuldades na representatividade da nova modalidade olímpica \" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/58YnazqWUNWIks07yVdUte?si=i1He7ZvOQpq1DNkEydHE3A&#038;context=spotify%3Ashow%3A20LH5oBruMjCTrNCbC3Ssc&#038;dl_branch=1&#038;utm_source=oembed\"></iframe></figure><p>Nova modalidade das olimpíadas, o surfe chega a Tóquio com homens e mulheres ao mar. Durante muitas décadas a presença feminina no esporte se resumia aos concursos de beleza “pé na areia”. Agora essa presença com Tatiana Weston e Silvana Lima, é para brigar por um pódio. </p><p>Nesse episódio dos Podcasts jornalísticos da Rádio UVA Barra, vamos dar voz a esse movimento empoderador. Nossa equipe entrevistou a empreendedora Luiza Coutinho, a surfista amadora Isadora Quadros e a surfista profissional Érica Prado, debatem sobre os avanços encontrados pelas surfistas brasileiras para enfrentar as dificuldades em conseguir o incentivo necessário para se “lançar ao mar” ! </p><p>Luma Keily – 6º período</p><p>Mariana Sabino – 6º período</p><p>Camyla Barbosa – 6º período</p><p>Iago Bastos – 6º período</p><p>Khaio Lopes – 6º período</p><p>Lucas Mororo – 6º período</p><p>Lucas Ribeiro – 6º período</p><p>Ana Queiroz – 6º período</p></main>"
+  },
+  "date": "2021-07-22T17:10:31",
+  "date_gmt": "2021-07-22T20:10:31",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Nova modalidade das olimpíadas, o surfe chega a Tóquio com homens e mulheres ao mar. Durante muitas décadas a presença feminina no esporte se resumia aos concursos de beleza “pé na areia”. Agora essa presença com Tatiana Westin e Silvana Lima, é para brigar por um pódio. </p>\n"
+  },
+  "featured_media": 9862,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9856"
+  },
+  "id": 9856,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/capa-site-agencia.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2yY",
+  "link": "https://agenciauvabarra.com/2021/07/22/surf-feminino-dificuldades-na-representatividade-da-nova-modalidade-olimpica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-28T12:39:24",
+  "modified_gmt": "2021-07-28T15:39:24",
+  "ping_status": "open",
+  "slug": "surf-feminino-dificuldades-na-representatividade-da-nova-modalidade-olimpica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    24881781,
+    767056609,
+    8458716,
+    484747,
+    1142,
+    2167156,
+    13720
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: surf feminino e as dificuldades na representatividade da nova modalidade olímpica"
+  },
+  "type": "post"
+}

@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13697/revisions/13704",
+        "id": 13704
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13697"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13697",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13697/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13697"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13703"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13697",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13697",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    13072696,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-13697",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-lgbtqia",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-cinema",
+    "tag-critica-2",
+    "tag-deustemaids",
+    "tag-filme",
+    "tag-hiv"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Chega aos cinemas no Dia Internacional de Luta Contra a AIDS, 01 de dezembro, o documentário dirigido pela dupla de cineastas Fábio Leal e Gustavo Vinagre, “Deus tem AIDS”. A produção de nome possivelmente chocante — cujo o mesmo é hiper contextualizado dentro de uma das entrevistas que o compõem — abre um espaço para discussão acerca de como a epidemia imposta pelo vírus HIV ainda assombra o Brasil, sem previsão alguma de possível fim. Ganhador dos prêmios de Melhor Filme pelo Júri Oficial e Popular no festival Queer em Porto, “Deus tem AIDS” aproxima o espectador da real situação da sorofobia no país, preconceito contra as pessoas que vivem com HIV.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/deus-tem-aids-corpo.jpg?resize=4096%2C2160&amp;ssl=1\" alt=\"\" width=\"4096\" height=\"2160\" /><figcaption>Foto: Divulgação</figcaption></figure><p>Uma conversa com sete artistas e um médico ativista que tenta resumir e aprofundar a vivência de uma pessoa soropositiva no Brasil. Através de entrevistas e manifestações artísticas, o documentário busca investigar o porquê do cenário atual do vírus e doença se assemelham tanto com os dos anos iniciais da epidemia. As narrativas do filme contam histórias que desconstroem o estigma negativo da doença e contribuem para crise de referência positiva de pessoas que vivem com o vírus na arte.</p><p>A decisão de usar um encontro harmonioso entre manifestações na música, na poesia e no teatro para a explicação da importância da arte nesse momento, é o que faz o documentário destacar um grande espaço de relevância na cinematografia nacional. A arte como condutora dessas mensagens age em semelhança a um sinal verde para a exploração de toda manifestação chocante, incômoda e dolorosa que o preconceito e o próprio HIV é capaz de causar.</p><p>O formato de gravação das entrevistas é um dos responsáveis por deixar o público investido nas histórias que estão sendo contadas. Os convidados foram posicionados para se sentirem o mais cômodo possível, cuidado valioso por parte dos diretores e que vale a pena ser destacado pois é o detalhe que transforma a troca de conhecimento e experiência numa conversa de fala amigável e fácil. A aproximação para com os protagonistas da narrativa é um trabalho de mínimo esforço, dado ao ótimo trabalho de montagem e edição da equipe de produção.</p><p>A mensagem da narrativa é deixar a soropositividade relacionada ao que está vivo e vai continuar desse jeito. Diferentemente do comum entre produções da mesma temática, que costumam manter o discurso de alerta e mensagens direcionadas ao cuidado preventivo e cultivar o medo, a produção usa o tempo do documentário para naturalizar os corpos e afetos de pessoas soropositivas. “Deus tem AIDS” é um lançamento da Vitrine Filmes e co-distribuído pela SPcine. O filme estreia nesta quinta-feira 01/12, confira o trailler:</p><figure><iframe src=\"https://www.youtube.com/embed/BgD1ElR_-Z0?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><br><em>Bruno Barros – 2° período</em></p></main>"
+  },
+  "date": "2022-12-01T19:17:51",
+  "date_gmt": "2022-12-01T22:17:51",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Chega aos cinemas no Dia Internacional de Luta Contra a AIDS, 01 de dezembro,  o documentário dirigido pela dupla de cineastas Fábio Leal e Gustavo Vinagre, “Deus tem AIDS”. A produção de nome possivelmente chocante — cujo o mesmo é hiper contextualizado dentro de uma das entrevistas que o compõem — abre um espaço para discussão acerca de como a epidemia imposta pelo vírus HIV ainda assombra o Brasil, sem previsão alguma de possível fim. Ganhador dos prêmios de Melhor Filme pelo Júri Oficial e Popular no festival Queer em Porto, “Deus tem AIDS” aproxima o espectador da real situação da sorofobia no país, preconceito contra as pessoas que vivem com HIV.</p>\n"
+  },
+  "featured_media": 13703,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13697"
+  },
+  "id": 13697,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/12/deus-tem-aids-capa.jpg?fit=4096%2C2160&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3yV",
+  "link": "https://agenciauvabarra.com/2022/12/01/agencia-uva-barra-assistiu-deus-tem-aids/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-12-01T19:17:51",
+  "modified_gmt": "2022-12-01T22:17:51",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-deus-tem-aids",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    767056592,
+    34939883,
+    757710044,
+    17563,
+    73765
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Deus tem AIDS"
+  },
+  "type": "post"
+}

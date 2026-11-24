@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10849/revisions/10854",
+        "id": 10854
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10849"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10849",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10849/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10849"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10851"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10849",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10849",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-10849",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://open.spotify.com/embed/episode/4eZxP7ZPao0FIb6CAq9aPU?si=221ccbc1c7de4b46&#038;utm_source=oembed' alt='Spotify Embed: A Controvérsia do Uso da Pílula Anticoncepcional ' width='100%' height='152' title='Spotify Embed: A Controvérsia do Uso da Pílula Anticoncepcional ' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen><figcaption>Spotify Embed: A Controvérsia do Uso da Pílula Anticoncepcional </figcaption></figure><p>O uso das pílulas anticoncepcionais se tornou uma das formas mais comuns de prevenção à gravidez indesejada, ficando atrás apenas dos preservativos. De acordo com dados de 2020 da Pesquisa Nacional de Demografia e Saúde da Criança e da Mulher, cerca de 33% das mulheres em idade fértil fazem o uso deste medicamento.</p><p>A chegada da pílula anticoncepcional ao mercado, em meados do ano de 1960, foi vista como um grande passo em direção aos direitos das mulheres. Com o passar do tempo, no entanto, começaram a surgir controvérsias quanto ao seu uso.</p><p>Neste episódio do podcast jornalístico da Rádio UVA Barra, as repórteres Ana Júlia Queiroz e Maria Clara Lisboa receberam a youtuber Gabi Vasconcellos e a ginecologista Katia Davy Bello para entender essas controvérsias que acompanham o uso da pílula anticoncepcional como método contraceptivo.</p><p>Ana Júlia Queiroz – 6º período</p><p>Maria Clara Lisboa – 6º período</p></main>"
+  },
+  "date": "2021-11-26T19:41:20",
+  "date_gmt": "2021-11-26T22:41:20",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O uso das pílulas anticoncepcionais se tornou uma das formas mais comuns de prevenção à gravidez indesejada, ficando atrás apenas dos preservativos. De acordo com dados de 2020 da Pesquisa Nacional de Demografia e Saúde da Criança e da Mulher, cerca de 33% das mulheres em idade fértil fazem o uso deste medicamento.</p>\n"
+  },
+  "featured_media": 10851,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10849"
+  },
+  "id": 10849,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/11/whatsapp-image-2021-11-26-at-19.16.29.jpeg?fit=1024%2C1024&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2OZ",
+  "link": "https://agenciauvabarra.com/2021/11/26/podcast-a-controversia-do-uso-da-pilula-anticoncepcional/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-11-26T19:43:55",
+  "modified_gmt": "2021-11-26T22:43:55",
+  "ping_status": "open",
+  "slug": "podcast-a-controversia-do-uso-da-pilula-anticoncepcional",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: A Controvérsia do Uso da Pílula Anticoncepcional"
+  },
+  "type": "post"
+}

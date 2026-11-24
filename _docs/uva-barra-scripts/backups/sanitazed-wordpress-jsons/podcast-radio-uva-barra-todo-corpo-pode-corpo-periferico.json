@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18904/revisions/18950",
+        "id": 18950
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18904"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18904",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18904/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18904"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18907"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18904",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18904",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    591294689,
+    2367,
+    670411728,
+    14603,
+    713047979,
+    39479,
+    701438832
+  ],
+  "class_list": [
+    "post-18904",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-projetodiversidade",
+    "category-cultura",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-podseries",
+    "category-publicidade",
+    "category-radio-uva-barra",
+    "tag-agencia-uva-barra",
+    "tag-podcast",
+    "tag-podserie",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>De acordo com o censo do IBGE de 2022 , mais de 16,3 milhões de brasileiros vivem em favelas e periferias, espaços onde a desigualdade social se expressa de forma marcante e influencia diretamente a saúde, a educação e o acesso a oportunidades.</p><p>Neste episódio do Todo Corpo Pod(e), discutimos como o território atravessa o corpo. A professora Andressa Vitória, moradora da Rocinha, compartilha a vivência sobre como resistir em um espaço muitas vezes estigmatizado. A socióloga Tatiana também participa, trazendo uma análise sobre os preconceitos enfrentados por moradores de periferias e como esses territórios são historicamente marginalizados nas políticas públicas.</p><p>O podcast reflete sobre como viver na periferia é moldar identidades, corpos e relações sociais, revelando a potência coletiva desses espaços.</p><figure><iframe title=\"Spotify Embed: Todo Corpo Pod(e) #04 - Corpo periférico\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/246E8jEfumbaDdzLOyot1T?si=4mUyi4KOQZm64bn8-YPB3w&#038;utm_source=oembed\"></iframe></figure><p>Equipe Todo Corpo Pod(e):</p><p>Maria Eduarda Portugal</p><p>Equipe Agência UVA Barra:</p><p>Duda Nicolich </p><p>Carolina Alves </p></main>"
+  },
+  "date": "2025-08-29T10:31:47",
+  "date_gmt": "2025-08-29T13:31:47",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Resistir como forma de lutar contra o preconceito e os estigmas</p>\n"
+  },
+  "featured_media": 18907,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18904"
+  },
+  "id": 18904,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-29-at-10.26.22.jpeg?fit=1080%2C1350&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4UU",
+  "link": "https://agenciauvabarra.com/2025/08/29/podcast-radio-uva-barra-todo-corpo-pode-corpo-periferico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-08-29T10:31:47",
+  "modified_gmt": "2025-08-29T13:31:47",
+  "ping_status": "open",
+  "slug": "podcast-radio-uva-barra-todo-corpo-pode-corpo-periferico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1142,
+    712276378,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Rádio UVA Barra: Todo Corpo Pod(e): Corpo periférico"
+  },
+  "type": "post"
+}

@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7617/revisions/7622",
+        "id": 7622
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7617"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7617",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7617/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7617"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7617",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7617",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    72064
+  ],
+  "class_list": [
+    "post-7617",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-saude"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Assista ao videojornalismo e entenda como pessoas do grupo de risco estão passando por esse momento:</p><figure><iframe src='https://www.youtube.com/embed/ANnBEbNwbp8?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p>O isolamento social, originado pela pandemia de Covid-19, trouxe inúmeras mudanças para vida de diferentes pessoas da sociedade. Essa nova realidade imposta pode afetar a saúde emocional de muitos indivíduos e, principalmente, de quem faz parte dos grupos de risco. O tema faz parte das ações da Organização Mundial da Saúde, (OMS) que divulgou, recentemente, uma série de orientações que evidenciam a preocupação com essa questão.</p><p>Essa parcela da sociedade pode estar mais suscetível a passar por crises de ansiedade, medo e incertezas, além de situações de estresse emocional. Nesse sentido, o desequilíbrio psicológico pode ser agravado quando não se tem pleno conhecimento sobre a doença ou, até mesmo, por excesso de informação. Por isso, discussões sobre esse tema tornam-se cada dia mais frequentes.</p><p>Nayara Simões – 8º Período | Jornalismo ………… Thamires Cerqueira – 8º Período | Jornalismo</p></main>"
+  },
+  "date": "2020-09-02T16:04:00",
+  "date_gmt": "2020-09-02T19:04:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Assista ao videojornalismo e entenda como pessoas do grupo de risco estão passando por esse momento:  . O isolamento social, originado pela pandemia de Covid-19, trouxe inúmeras mudanças para vida de diferentes pessoas da sociedade. Essa nova realidade imposta pode afetar a saúde emocional de muitos indivíduos e, principalmente, de quem faz parte dos grupos [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7617"
+  },
+  "id": 7617,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1YR",
+  "link": "https://agenciauvabarra.com/2020/09/02/covid-19-a-doenca-que-afeta-o-corpo-e-a-mente/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-08-13T17:10:20",
+  "modified_gmt": "2020-08-13T20:10:20",
+  "ping_status": "open",
+  "slug": "covid-19-a-doenca-que-afeta-o-corpo-e-a-mente",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "COVID-19: A doença que afeta o corpo e a mente"
+  },
+  "type": "post"
+}

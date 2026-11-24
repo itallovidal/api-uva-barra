@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2442/revisions/2445",
+        "id": 2445
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2442"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2442",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2442/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2442"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2443"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2442",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2442",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-2442",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-a-casa-do-medo-incidente-em-ghostland",
+    "tag-cinema",
+    "tag-terror"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/casadomedo.jpg?fit=540%2C960&amp;ssl=1' alt='casadomedo' width='540' height='960'><figcaption>Foto: Divulgação</figcaption></figure><p>Uma família se muda para uma casa antiga no meio do nada, adicionado à uma coleção bizarra de bonecas assustadoras e Serial Killers rondando a cidade. São características como essas que alimentam os clichês mais conhecidos dos filmes de terror. Apesar de “A Casa do Medo: Incidente em Ghostland” apresentar uma sinopse com esses elementos, não confie no que é mostrado na superfície do filme, nem tudo é o que parece ser.</p><p>Beth, uma garota que adorava criar histórias assustadoras como as de seu ídolo H. P. Lovecraft, nunca imaginaria que viveria na pele uma de terror. Ao se mudar com a mãe e a irmã para a casa da falecida tia – logo no primeiro dia – são recebidas por uma surpresa traumatizante. Após 16 anos do ocorrido, Beth com sua vida já muito bem estabelecida como escritora, volta àquela casa para visitar a família que ainda vivia nela.</p><p>O que poderia ser apenas mais um em meio a tantos filmes do gênero, apresentou um lado completamente diferente dessa premissa de forma surpreendente, perturbadora e de tirar o folego. Esse longa em especial, traz uma narrativa capaz de prender o telespectador, tudo para que seja possível entender o que de fato está ocorrendo naquele lugar.</p><p>Um filme cuja arma secreta não é o suspense, nem os sustos, mas sim suas reviravoltas e cenas extremamente fortes e violentas, tendo ainda mais peso colocadas junto a uma trilha sonora de arrepiar. Além de ser possível também sentir o desespero e o medo representados pelas atrizes, que ultrapassam a tela e nos atingem.</p><p>Apesar de pecar em alguns poucos detalhes durante o desenvolvimento, as cenas demonstram ações e revelações intensas que compensam e capturam o público até os créditos finais. O filme que já estreou em março desse ano na França, chega dia 11 de outubro de 2018 nos cinemas brasileiros.</p><p>Ana Carolina Soares – 6º Período</p><iframe src='https://videopress.com/embed/9RxUQI6i?hd=1&amp;cover=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1&amp;muted=0&amp;controls=1&amp;playsinline=0&amp;useAverageColor=0&amp;preloadContent=metadata' width='400' height='224' title='Reprodutor de vídeo VideoPress' allow='clipboard-write' allowfullscreen></iframe></main>"
+  },
+  "date": "2018-10-08T15:24:24",
+  "date_gmt": "2018-10-08T18:24:24",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Uma família se muda para uma casa antiga no meio do nada, adicionado à uma coleção bizarra de bonecas assustadoras e Serial Killers rondando a cidade. São características como essas que alimentam os clichês mais conhecidos dos filmes de terror. Apesar de “A Casa do Medo: Incidente em Ghostland” apresentar uma sinopse com esses elementos, [&hellip;]</p>\n"
+  },
+  "featured_media": 2443,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2442"
+  },
+  "id": 2442,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/10/casadomedo.jpg?fit=540%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Do",
+  "link": "https://agenciauvabarra.com/2018/10/08/agencia-uva-barra-a-casa-do-medo-incidente-em-ghostland/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2018-10-08T15:24:24",
+  "modified_gmt": "2018-10-08T18:24:24",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-a-casa-do-medo-incidente-em-ghostland",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648690378,
+    767056592,
+    8812
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA: &#8220;A casa do Medo: Incidente em Ghostland&#8221;"
+  },
+  "type": "post"
+}

@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1676/revisions/3240",
+        "id": 3240
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1676"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1676",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1676/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1676"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1676",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1676",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728,
+    758
+  ],
+  "class_list": [
+    "post-1676",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva",
+    "category-tecnologia"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4>Tecnologia que desenvolve robôs têm crescimento notável, principalmente no Brasil</h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/12/cc3b3digo-fonte.jpg?resize=440%2C393&amp;ssl=1' alt='código fonte' width='440' height='393' /><figcaption>foto: site Código Fonte</figcaption></figure><p>A tecnologia é crescente e está cada vez mais aparente na vida das pessoas. Uma prova disso é o desenvolvimento de robôs. A robótica é uma área tecnológica que abrange tecnologia mecânica, eletrônica e computação, englobando também microtecnologia, com perfeita harmonia. Hoje em dia, há uma grande necessidade de se realizar tarefas com precisão e é exatamente aí que essa ciência entra.</p><p>A robótica cuida da criação de dispositivos que realizam trabalhos precisos em várias áreas da sociedade, desde serviços em fábricas até pesquisas científicas. Os estudos sobre essa tecnologia podem ser considerados recentes, já que há 20 anos existiam pouquíssimas pesquisas práticas. Nos últimos dez anos, o Brasil deu um salto em relação a esse tipo de inteligência.</p><p>E o crescimento dessa técnica se deve ao aumento das indústrias de microtecnologia e ao barateamento dos componentes. Para o engenheiro Thiago Gabriel, professor da Universidade Veiga de Almeida – na qual acontece, esta semana, uma competição de robôs criados pelos próprios alunos -, a robótica terá uma intensa presença no dia a dia de cada vez mais gente. “Pessoas com pensamentos diferentes terão visões de trabalho distintas, contribuindo para a melhoria no desenvolvimento dos robôs”, explica.</p><p>Com a Internet das Coisas (IoT), essa tecnologia terá uma grande participação na vida de todos. A partir de pequenas atitudes, como acender uma lâmpada com um toque no smartphone, os jovens serão desafiados todos os dias a estar cada vez mais preparados para os desafios da ciência. “Tudo envolverá robótica, seja hardware ou software”, diz Thiago.</p><p>E diferentemente do que é visto em filmes, a maioria dos robôs é utilizado em fábricas: os manipuladores. Esse conceito é tão amplo que inclui robôs “menos inteligentes”, como as máquinas de lavar e máquinas para trabalhar madeira. “A robótica não envolve apenas robôs, ela traz um mixer de tecnologias”, explica Thiago. Mas, apesar de ser o país que mais avançou na área ao ser comparado com outras nações, o Brasil ainda sofre com a falta de infraestrutura.</p><p>Na tentetiva de superar os problemas com investimento, empresas buscam parcerias com Universidades e mão de obra qualificada. O país também conta com competições de robôs para estimular o interesse dos jovens pela robótica. O desenvolvimento dos robôs de combate também pode ajudar a atender as demandas e fazer o Brasil avançar ainda mais no conceito.</p><p>Alunas: Ana Beatriz Bernardo, Bárbara Faria e Bruna Barros.</p></main>"
+  },
+  "date": "2017-12-06T16:00:10",
+  "date_gmt": "2017-12-06T18:00:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Tecnologia que desenvolve robôs têm crescimento notável, principalmente no Brasil</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1676"
+  },
+  "id": 1676,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-r2",
+  "link": "https://agenciauvabarra.com/2017/12/06/os-robos-entrando-em-acao/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-27T18:06:44",
+  "modified_gmt": "2019-02-27T21:06:44",
+  "ping_status": "open",
+  "slug": "os-robos-entrando-em-acao",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Os robôs entrando em ação"
+  },
+  "type": "post"
+}

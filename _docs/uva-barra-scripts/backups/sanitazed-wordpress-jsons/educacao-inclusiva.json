@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13986/revisions/13991",
+        "id": 13991
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=13986"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13986",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/13986/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=13986"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/13990"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=13986",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=13986",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    632602,
+    17964,
+    9838342,
+    7114
+  ],
+  "class_list": [
+    "post-13986",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-diversidade",
+    "category-educacao",
+    "category-serie-documental",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-educacao",
+    "tag-escola",
+    "tag-inclusiva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Para chamar atenção e mostrar a realidade das pessoas do espectro autista na educação brasileira, Educação Inclusiva mostra que nos últimos anos ocorreu uma evolução na inclusão realizada nas escolas, mas ainda existem alguns pontos para melhorar.</p><p>Este documentário conta com entrevistas de profissionais que lidam com e educação inclusiva todos os dias e também as vivências de Isabela Almeida, que passou por momentos de exclusão na escola.</p><p>A produção realizada por Isabela Magalhães, Marcela Roberto, Isadora Oliveira, Isaque Muniz, João Luís Morais, Arthur Santos e Amanda Monsores aborda o Objetivos de Desenvolvimento Sustentável 4 da ONU, que tem como tema central a educação de qualidade, e mais especificamente o número 4.5, que pretende até 2030, diminuir a desigualdade de acesso a todos os níveis de educação para todas as pessoas.</p><p><strong>Assista!</strong></p><figure><img src='https://www.youtube.com/embed/btJaZQkILys?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=pt-BR&autohide=2&wmode=transparent' alt='Vídeo incorporado' width='640' height='360'><figcaption>Documentário produzido para a disciplina de produção em rádio tv e cinema, sob a supervisão do professor Anderson Barreto.</figcaption></figure></main>"
+  },
+  "date": "2023-01-19T18:13:25",
+  "date_gmt": "2023-01-19T21:13:25",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Para chamar atenção e mostrar a realidade das pessoas do espectro autista na educação brasileira, Educação Inclusiva mostra que nos últimos anos ocorreu uma evolução na inclusão realizada nas escolas, mas ainda existem alguns pontos para melhorar.</p>\n"
+  },
+  "featured_media": 13990,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=13986"
+  },
+  "id": 13986,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/01/whatsapp-image-2023-01-19-at-18.19.39.jpeg?fit=543%2C409&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3DA",
+  "link": "https://agenciauvabarra.com/2023/01/19/educacao-inclusiva/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-01-19T18:25:53",
+  "modified_gmt": "2023-01-19T21:25:53",
+  "ping_status": "open",
+  "slug": "educacao-inclusiva",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056613,
+    8088,
+    8164058
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Educação inclusiva"
+  },
+  "type": "post"
+}

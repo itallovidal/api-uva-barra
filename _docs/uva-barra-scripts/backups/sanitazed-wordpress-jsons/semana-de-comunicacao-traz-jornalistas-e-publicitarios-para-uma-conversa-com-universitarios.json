@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4166/revisions/4171",
+        "id": 4171
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=4166"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4166",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/4166/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=4166"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/4168"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=4166",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=4166",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-4166",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-secom",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Evento faz parte da Semana Integrada do campus Barra</em></p><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/a60e5353-9b26-4acb-991e-3beee97221cc.jpg?resize=1024%2C768&#038;ssl=1' alt='Alunos presentes na SeCom' width='1024' height='768'><figcaption>Alunos presentes na SeCom – Foto: Juliana Marques</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/54820e5a-08da-4160-925f-17030a5ef928.jpg?resize=1024%2C768&#038;ssl=1' alt='Mariana Carvalho, sócia do conselho Ancar Ivanhoe' width='1024' height='768'><figcaption>Mariana Carvalho, sócia do conselho Ancar Ivanhoe – Foto: Juliana Marques</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/ebe98e6c-5c82-40e6-8d97-3129eebae8ed.jpg?resize=1024%2C768&#038;ssl=1' alt='Publicitário e empresário da Via comunicação, Daniel Pels' width='1024' height='768'><figcaption>Publicitário e empresário da Via comunicação, Daniel Pels – Foto: Juliana Marques</figcaption></figure><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/16f31a53-d239-46ba-b00c-9d5d895bce45.jpg?resize=1024%2C768&#038;ssl=1' alt='Kelly Jorge, locutora da rádio FM O DIA, durante bate papo com os alunos de comunicação' width='1024' height='768'><figcaption>Kelly Jorge, locutora da rádio FM O DIA, durante bate papo com os alunos de comunicação – Foto: Juliana Marques</figcaption></figure><p>Ao longo da semana, os cursos criativos do campus Barra, se reuniram para discutir os 50 anos do plano piloto da Barra da Tijuca sob diversas óticas. Na quinta-feira, (16/05), foi o dia de abrir espaço para diálogos pelo ponto de vista do jornalismo e da publicidade e entender os legados das empresas de comunicação instaladas na Barra. Mariana Carvalho e Daniel Pels apresentaram a importância de discutir mercado já na universidade.</p><p>Para explicar o passo a passo do sucesso dessas organizações no bairro, a palestrante Mariana Carvalho, sócia do Conselho da Ancar Ivanhoe – empresa responsável por comercialização de shoppings – contou que o ponta pé inicial para o desenvolvimento de um projeto empresarial é estudar o mercado: “O importante é entender a situação e o cenário, saber o que o consumidor está pensando”, afirma. Mariana destacou o poder das marcas e do marketing.</p><p>Depois foi a vez de debater a publicidade sob a ótica mercadológica, uma forma de encurtar as distâncias entre o mundo real e o mundo dos sonhos criados pelos alunos. O publicitário e empresário da Via Comunicação, Daniel Pels destacou os desafios publicitários contemporâneos e reforçou a importância dos trabalhos exercidos em sala como o primeiro portfólio dos futuros publicitários. “A ideia aqui é debater a teoria da sala de aula e as práticas exercidas nos laboratórios das universidades com o que já acontece no ramo do trabalho”.</p><p>O ciclo de conversas foi finalizado com locutora da rádio FM o Dia, Kelly Jorge, conhecida entre o público carioca por ter uma voz marcante. Kellly falou sobre os desafios de sua carreira no rádio e destacou as dicas para os futuros comunicadores: “Independente do ramo que trabalha, tem quer se reinventar todo dia, tem quer ser melhor do que você foi ontem”.</p><p>Confira os depoimentos dos alunos que participaram do primeiro dia da SeCom:</p><figure><iframe src='https://www.youtube.com/embed/RLeZE5EY_9g?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=pt-BR&#038;autohide=2&#038;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen='true' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox'></iframe></figure><p>.</p><p>A semana da comunicação continua no dia 17/05, com palestrantas, workshops e sorteios promovidos pela SeCom. O evento terá início às 9 horas com o Coffee Break.</p><p><strong>Juliana Marques – 6º Período | Jornalismo</strong></p><p></p></main>"
+  },
+  "date": "2019-05-17T16:31:03",
+  "date_gmt": "2019-05-17T19:31:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento faz parte da Semana Integrada do campus Barra Ao longo da semana, os cursos criativos do campus Barra, se reuniram para discutir os 50 anos do plano piloto da Barra da Tijuca sob diversas óticas. Na quinta-feira, (16/05), foi o dia de abrir espaço para diálogos pelo ponto de vista do jornalismo e da [&hellip;]</p>\n"
+  },
+  "featured_media": 4168,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=4166"
+  },
+  "id": 4166,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/a60e5353-9b26-4acb-991e-3beee97221cc.jpg?fit=1024%2C768&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-15c",
+  "link": "https://agenciauvabarra.com/2019/05/17/semana-de-comunicacao-traz-jornalistas-e-publicitarios-para-uma-conversa-com-universitarios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-19T14:35:14",
+  "modified_gmt": "2019-05-19T17:35:14",
+  "ping_status": "open",
+  "slug": "semana-de-comunicacao-traz-jornalistas-e-publicitarios-para-uma-conversa-com-universitarios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056635,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Semana de Comunicação traz jornalistas e publicitários para uma conversa com universitários"
+  },
+  "type": "post"
+}

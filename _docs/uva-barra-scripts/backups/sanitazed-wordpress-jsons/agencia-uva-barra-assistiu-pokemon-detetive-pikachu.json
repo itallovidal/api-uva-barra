@@ -1,0 +1,165 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3997/revisions/4000",
+        "id": 4000
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3997"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3997",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3997/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3997"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3998"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3997",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3997",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    597
+  ],
+  "class_list": [
+    "post-3997",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-cinema",
+    "tag-agencia-uva-barra",
+    "tag-agencia-uva-barra-assistiu",
+    "tag-pokemon-detetive-pikachu"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/download.jpg?fit=800%2C1152&amp;ssl=1' alt='Foto: Divulgação' width='445' height='642' /><figcaption>Foto: Divulgação</figcaption></figure><p>O desaparecimento do detetive Harry Goodman faz com que seu filho Tim (Justice Smith) parta à sua procura. Ao seu lado ele conta com Pikachu (Ryan Reynolds), um Pokémon decidido a se tornar um detetive. Juntos, eles percorrem as ruas de Ryme City, onde humanos e Pokémon vivem em harmonia.</p><p>O maior acerto de Pokémon: Detetive Pikachu é a forma como a interação entre humanos e pokémons é feita, em nenhum momento os efeitos especiais parecem irreais, isso ocorre graças a opção de manter o ar de animação das criaturas e ao mesmo tempo criar um senso de realismo, os monstrinhos são palpáveis, tem textura e são muito semelhantes ao desenho.</p><p>Ainda sobre a estética do filme, o uso de cores como o roxo e o azul voltados para o neon tornam a fotografia marcante e fazem com que em alguns momentos a cidade, Ryme City, lembre um pouco o clássico cyberpunk Blade Runner.</p><p>O elenco entrega boas cenas, principalmente, a dupla Justice Smith e Ryan Reynolds que conseguem criar laços com o espectador de forma natural, a amizade de Tim e Pikachu nasce de maneira orgânica, incluindo bons momento de humor entre os personagens. Kathryn Newton que interpreta a aspirante a reporte Lucy Stevens, apesar de não ter tanto tempo em tela, cumpre bem seu papel, formando ao lado de Tim, Pikachu e Psyduck um grupo que lembra um pouco o trio original do desenho que era composto por Ash, Brock e Misty.</p><p>Se por um lado o roteiro do filme acerta em não tentar transpor a história dos desenhos para tela; por outro, ele se perde em meio a clichês batidos, viradas previsíveis e diálogos expositivos. O problema é evidente, e, em inúmeros momentos, os personagens verbalizam seus sentimentos e suas intenções, no clímax do filme, por exemplo, o vilão simplesmente para e faz um discurso onde conta exatamente quais são suas intenções, algo que já tinha ficado óbvio no decorrer da história.</p><p>O diretor, Rob Letterman, apresenta um controle sobre as cenas de ação que é resultado da sua experiência com outros trabalhos como em O Espanta Tubarões, As Viagens de Gulliver e Monstros vs. Alienígenas. Ele consegue conduzir a ação de maneira natural e sem exageros.</p><p>Pokémon: Detetive Pikachu vai agradar desde o público infantojuvenil até os fãs que cresceram esperando para ver um filme nas telas, a história equilibra bem o humor e a ação, tem seus problemas, principalmente, nos diálogos mas nada que vá comprometer a experiência de quem for as salas de cinema assistir ao filme.</p><figure><iframe src='https://www.youtube.com/embed/NrRUr3_kQDQ?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent' width='640' height='360' title='Vídeo incorporado' allowfullscreen></iframe></figure><p>.</p><p><strong>Lucas Souza – 1º Período | Publicidade</strong></p><p></p></main>"
+  },
+  "date": "2019-05-08T16:13:14",
+  "date_gmt": "2019-05-08T19:13:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O desaparecimento do detetive Harry Goodman faz com que seu filho Tim (Justice Smith) parta à sua procura. Ao seu lado ele conta com Pikachu (Ryan Reynolds), um Pokémon decidido a se tornar um detetive. Juntos, eles percorrem as ruas de Ryme City, onde humanos e Pokémon vivem em harmonia. O maior acerto de Pokémon: [&hellip;]</p>\n"
+  },
+  "featured_media": 3998,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3997"
+  },
+  "id": 3997,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/05/download.jpg?fit=800%2C1152&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-12t",
+  "link": "https://agenciauvabarra.com/2019/05/08/agencia-uva-barra-assistiu-pokemon-detetive-pikachu/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-05-09T12:06:38",
+  "modified_gmt": "2019-05-09T15:06:38",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-pokemon-detetive-pikachu",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    654043850,
+    653259979
+  ],
+  "template": "",
+  "title": {
+    "rendered": "AGÊNCIA UVA BARRA ASSISTIU: &#8220;POKÉMON: Detetive Pikachu&#8221;"
+  },
+  "type": "post"
+}

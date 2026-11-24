@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18809/revisions/18816",
+        "id": 18816
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=18809"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18809",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/18809/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=18809"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/18813"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=18809",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=18809",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    43377791,
+    2366,
+    14603,
+    7114
+  ],
+  "class_list": [
+    "post-18809",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-encontro-com-profissionais",
+    "category-eventos",
+    "category-jornalismo",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>No segundo dia do Rio Innovation Week 2025 as jornalistas,Renata Lo Prete e Andréia Sadi, participaram de um debate sobre a importância da confiança e o papel do jornalismo no futuro, em que ambas compartilharam dicas e conselhos de como construir um relacionamento sólido com o público e manter a transparência e o compromisso com a verdade.</p><p>Durante a palestra, as repórteres destacaram como é difícil lidar com o erro, principalmente quando o seu público não tem uma relação de confiança estabelecida, e com a possível falta de credibilidade que isso pode acarretar. De acordo com as mesmas, o público precisa enxergar a disposição do profissional de admitir o seu equívoco, sem minimizá-lo e a disposição de corrigi-lo. “O erro por si só não é o elemento que destrói a confiança, se o espectador perceber em você o esforço de corrigir.” afirma Renata Lo Prete.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-20-at-16.06.17-1.jpeg?resize=900%2C1600&amp;ssl=1\" alt=\"\" width=\"900\" height=\"1600\"><figcaption>Renata Lo Prete e Andréia Sadi no RIW (Reprodução: Agência Uva Barra). </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-20-at-16.07.28-1.jpeg?resize=1600%2C1350&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1350\"><figcaption>Renata Lo Prete, jornalista. ( Reprodução: Agência Uva Barra). </figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-20-at-16.07.28.jpeg?resize=1600%2C1311&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"1311\"><figcaption>Andréia Sadi, jornalista. (Reprodução: Agência Uva Barra). </figcaption></figure><p>Ao longo da palestra foram discutidos os seis pilares do jornalismo, sendo eles a transparência, pluralidade, isenção, equilíbrio, responsabilidade e proximidade, que garantem maior confiabilidade e auxiliam no processo de construção da confiança. Além de ressaltar que o compromisso deve ser sempre com a verdade e com a informação, sem buscar de alguma maneira beneficiar um certo grupo ou condenar algum lado, sempre se questionando para quem aquela notícia importa, de maneira que a escolha da narrativa seja assertiva, ética e útil para o público.</p><p>Renata Lo Prete, jornalista, também salientou que a confiança não se constrói nos grandes eventos ou grandes coberturas, mas sim no trabalho diário e constante. A âncora do jornal da Globo dialogou sobre temas atuais como a inteligência artificial e mostrou para o público que a IA, não representa uma ameaça, mas uma aliada valiosa para quem souber usá-la e a fazer as perguntas certas, se mostrando útil,inclusive no combate às fake news e apuração dos fatos. “Precisamos inovar, nos adequar às mudanças, vamos precisar ser criativos. Acredito que o jornalismo pode ter um papel essencial nesse sentido” afirmou Renata Lo Prete.</p><p>A âncora do Estúdio I, Andréia Sadi, também salientou a importância de não transparecer sua opinião, de jamais se sobrepor aos fatos. uma vez que o jornalista não é juiz de fatos, ele apenas apurar e informar, sem escolher e sem falar se é bom ou ruim, o que realmente importa é a relevância daquilo para a sociedade. “As pessoas percebem a gente, precisamos tratar com cuidado e respeito”, disse a jornalista.</p><p>Ela também ressaltou a importância de estar sempre adquirindo novas fontes e ampliando a rede de contatos para a obtenção de informações. “Faça uma fonte por dia” disse Andréia Sadi. Além disso, destacou a necessidade de acima de qualquer coisa manter sempre o tom respeitoso ao seu comunicar com as fontes e com o público.</p><p>Andréia Sadi, mostrou o desafio de pensar em como falar com diferentes públicos e em diferentes plataformas.”Temos que pensar como vamos falar com diferentes públicos, com diferentes plataformas.” afirmou a jornalista. Além de ressaltar como é difícil fazer jornalismo uma vez que é na informação em que a atenção das pessoas mais está em alta.</p><p>Fernanda Medina- 2º período</p></main>"
+  },
+  "date": "2025-08-22T13:00:00",
+  "date_gmt": "2025-08-22T16:00:00",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>No segundo dia do Rio Innovation Week 2025 as jornalistas,Renata Lo Prete e Andréia Sadi,&nbsp; participaram de&nbsp; um&nbsp; debate sobre a importância da confiança e o papel do jornalismo no futuro, em que ambas compartilharam dicas e conselhos de como construir um relacionamento sólido com o público e manter a transparência e o compromisso com [&hellip;]</p>\n"
+  },
+  "featured_media": 18813,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=18809"
+  },
+  "id": 18809,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/08/whatsapp-image-2025-08-20-at-16.07.28.jpeg?fit=1600%2C1311&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4Tn",
+  "link": "https://agenciauvabarra.com/2025/08/22/renata-lo-prete-e-andreia-sadi-debatem-o-papel-do-jornalismo-profissional-e-a-ia-no-futuro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-08-22T12:09:02",
+  "modified_gmt": "2025-08-22T15:09:02",
+  "ping_status": "open",
+  "slug": "renata-lo-prete-e-andreia-sadi-debatem-o-papel-do-jornalismo-profissional-e-a-ia-no-futuro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Renata Lo Prete e Andréia Sadi debatem o papel do jornalismo profissional e a IA no futuro"
+  },
+  "type": "post"
+}

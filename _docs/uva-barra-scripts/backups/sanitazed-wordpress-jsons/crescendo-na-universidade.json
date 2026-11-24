@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1114/revisions/3314",
+        "id": 3314
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1114"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1114",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 9,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1114/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1114"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1114",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1114",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1114",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Empresa júnior da UVA busca adquirir experiência e trocar ideias em workshop de marketing</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/08/img_20170828_151611985-1.jpg?resize=4160%2C3120&#038;ssl=1' alt='IMG_20170828_151611985 (1)' width='4160' height='3120' /><figcaption></figcaption></figure><p>Um workshop de Marketing reuniu, dia 28, os funcionários da empresa Junior, no campus Barra da Tijuca da Universidade Veiga de Almeida. O evento, que foi ministrado pelo professor de administração Antônio Carlindo, pretende desenvolver disciplina, foco e trabalho em equipe entre os integrantes da empresa, que conta com alunos dos mais diversos cursos da faculdade.<br>Diante de uma era de incertezas e adversidades, é necessário empenho para avançar no mercado de trabalho. Com isso, o workshop pretende desenvolver o conhecimento dos diversos níveis de realidade e complexidade que os funcionários da empresa vão enfrentar se quiserem crescer. “Fazer com que (os alunos) tomem consciência desse cenário e que possam se preparar para que faça algum tipo projeto para que encontre essa integração entre o cenário atual e o futuro”, afirma o professor Antônio Carlindo.<br>A Esfera Consultoria presta serviços para todos os cursos da Universidade e aceita alunos dos mais diversos períodos, bastando passar pelo processo seletivo. Entretanto, muitos colaboradores nunca tiveram uma experiência no mercado de trabalho, uma lacuna que o workshop de marketing (uma das 4 áreas da empresa) pretende ocupar. “Trazer a parte profissional um pouco mais próxima do aluno, assim vamos tendo segurança, além de aumentar o contato com os professores também”, destaca João Batista, que integra a empresa e cursa o segundo período de Publicidade.<br>A diversidade da Esfera pode ser atestada pelo seu presidente, André Gelabert, que cursa o oitavo período de Engenharia de Produção. Lidar com um grupo tão heterogêneo é um dos seus maiores desafios. “Já estou sendo testado para transformar várias ideias individuais para uma ideia de grupo forte que possa ser vendida para o campus todo”, afirma. Enquanto isso, a empresa busca experiência ao lado do corpo docente da faculdade, além de planejar novos workshops para o futuro.</p><p><em>Lucas Motta, 5º período.</em></p></main>"
+  },
+  "date": "2017-08-30T13:46:41",
+  "date_gmt": "2017-08-30T16:46:41",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Empresa júnior da UVA busca adquirir experiência e trocar ideias em workshop de marketing Um workshop de Marketing reuniu, dia 28, os funcionários da empresa Junior, no campus Barra da Tijuca da Universidade Veiga de Almeida. O evento, que foi ministrado pelo professor de administração Antônio Carlindo, pretende desenvolver disciplina, foco e trabalho em equipe [&hellip;]</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1114"
+  },
+  "id": 1114,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-hY",
+  "link": "https://agenciauvabarra.com/2017/08/30/crescendo-na-universidade/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:42:03",
+  "modified_gmt": "2019-02-28T19:42:03",
+  "ping_status": "open",
+  "slug": "crescendo-na-universidade",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Crescendo na Universidade"
+  },
+  "type": "post"
+}

@@ -1,0 +1,163 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12500/revisions/12504",
+        "id": 12504
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=12500"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12500",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/12500/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=12500"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/12503"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=12500",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=12500",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    9838342,
+    7114
+  ],
+  "class_list": [
+    "post-12500",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-serie-documental",
+    "category-sociedade",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Fragilidade, solidão e incapacidade. O segundo episódio da série documental aborda os principais estereótipos que a sociedade reforça sobre a velhice. As entrevistas discutem a diferença entre o que a sociedade espera do idoso e como eles de fato estão vivendo. O grupo composto por Diego Rodrigues, Gabriel Torres Ribeiro, Khaio Lopes, Iago de Carvalho Bastos e Natália Lisboa, apresentam a obra. </p><p>Nos depoimentos vamos entender como as falas preconceituosas reduzem e limitam as capacidades físicas e cognitivas do idoso. Os especialistas analisam o tema e contribuem com a origem do pensamento que inviabiliza esse grupo social.</p><p><strong>Confira!</strong></p><figure><img src='https://www.youtube.com/embed/fgfQwIX4DIw' alt='Vídeo incorporado' width='640' height='360'><figcaption>Pedro Amorim – 7º período</figcaption></figure></main>"
+  },
+  "date": "2022-08-10T15:46:03",
+  "date_gmt": "2022-08-10T18:46:03",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Fragilidade, solidão e incapacidade. O segundo episódio da série documental aborda os principais estereótipos que a sociedade reforça sobre a velhice. As entrevistas discutem a diferença entre o que a sociedade espera do idoso e como eles de fato estão vivendo.</p>\n"
+  },
+  "featured_media": 12503,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=12500"
+  },
+  "id": 12500,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2022/08/whatsapp-image-2022-08-10-at-15.44.41-e1660157213867.jpeg?fit=612%2C562&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3fC",
+  "link": "https://agenciauvabarra.com/2022/08/10/envelhecer-episodio-2-envelhecimento-e-estereotipo/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2022-08-10T15:47:05",
+  "modified_gmt": "2022-08-10T18:47:05",
+  "ping_status": "open",
+  "slug": "envelhecer-episodio-2-envelhecimento-e-estereotipo",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Envelhecer: Episódio 2, Envelhecimento e Estereótipo"
+  },
+  "type": "post"
+}

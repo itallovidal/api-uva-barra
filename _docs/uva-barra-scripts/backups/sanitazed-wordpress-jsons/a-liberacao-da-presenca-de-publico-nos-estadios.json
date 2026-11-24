@@ -1,0 +1,177 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7775/revisions/7787",
+        "id": 7787
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=7775"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7775",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/7775/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=7775"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/7778"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=7775",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=7775",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    35004455,
+    1899315,
+    10889,
+    2366,
+    701438832,
+    7114
+  ],
+  "class_list": [
+    "post-7775",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-esporte",
+    "category-eventos",
+    "category-radio-uva-barra",
+    "category-sociedade",
+    "tag-cbf",
+    "tag-esportes",
+    "tag-futebol",
+    "tag-liberacao"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Ministério da Saúde aprova projeto, mas CBF ainda não chegou a uma decisão</em></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F903021832&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500\" width=\"100%\" height=\"166\" title=\"Rádio UVA Barra · Podcast 009 – A liberação da presença de público nos estádios\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Em meio a pandemia do coronavírus, o esporte teve que se adaptar ao novo cenário. O futebol já voltou em todo o país seguindo as medidas para garantir a segurança dos jogadores, juízes e os envolvidos nas transmissões, mas há uma nova discussão: a liberação presencial das torcidas aos estádios.</p><p>O conselheiro do Flamengo, Marco Antonio Lopes, afirma que o posicionamento do clube e os fatores que a instituição considerou para tomar essa decisão passam por uma questão mercadológica. Apesar da aprovação do Ministério da Saúde, muitos profissionais que trabalham na área são contra essa liberação. Elias Lorosa, microbiólogo da Fiocruz, afirma que ainda não é o momento de liberar a presença de público nos estádios.</p><p>O primeiro episódio da segunda temporada do podcast da Rádio UVA Barra, em parceria com a Agência UVA Barra, debate sobre a liberação ou não da presença de torcedores nos estádios. Com apresentação dos alunos Gustavo Teixeira e Iago Bastos.</p><p>Com tanta divergência de opiniões a respeito do tema, a CBF (Confederação Brasileira de Futebol), realiza reuniões regularmente sobre o projeto e, por enquanto, a presença de público nos jogos ainda está vetada, mas essa decisão pode ser alterada a qualquer momento.</p><p>Gustavo Teixeira – 6° período<br>Iago Bastos – 6° período</p></main>"
+  },
+  "date": "2020-10-01T17:24:39",
+  "date_gmt": "2020-10-01T20:24:39",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Ministério da Saúde aprova projeto, mas CBF ainda não chegou a uma decisão Rádio UVA Barra · Podcast 009 &#8211; A liberação da presença de público nos estádios Em meio a pandemia do coronavírus, o esporte teve que se adaptar ao novo cenário. O futebol já voltou em todo o país seguindo as medidas para [&hellip;]</p>\n"
+  },
+  "featured_media": 7778,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=7775"
+  },
+  "id": 7775,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/10/gustavo2.jpg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-21p",
+  "link": "https://agenciauvabarra.com/2020/10/01/a-liberacao-da-presenca-de-publico-nos-estadios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-10-01T21:37:18",
+  "modified_gmt": "2020-10-02T00:37:18",
+  "ping_status": "open",
+  "slug": "a-liberacao-da-presenca-de-publico-nos-estadios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    570700,
+    15119,
+    53870,
+    2045414
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra &#8211; A liberação da presença de público nos estádios &#8211; S02 EP01"
+  },
+  "type": "post"
+}

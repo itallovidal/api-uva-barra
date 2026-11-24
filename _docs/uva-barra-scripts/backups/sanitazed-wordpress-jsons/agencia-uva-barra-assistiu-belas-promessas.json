@@ -1,0 +1,173 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14188/revisions/14194",
+        "id": 14194
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14188"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14188",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14188/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14188"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14193"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14188",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14188",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    798
+  ],
+  "class_list": [
+    "post-14188",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-politica",
+    "tag-agencia-uva-barra",
+    "tag-cinema",
+    "tag-critica",
+    "tag-filme",
+    "tag-politica"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>“Belas Promessas”, dirigido por Thomas Kruithof, traz de volta a temática recorrente de suas produções: os jogos políticos e os peões que os protagonizam. Entusiasmado pela pauta, o cineasta evidencia o interesse pela política no novo longa que expõe aprofundadamente todas as maquinações dos bastidores e o cotidiano de quem faz essa engrenagem rodar. O filme foi exibido na mostra Horizonte do Festival de Veneza e no Festival do Rio no ano de 2021 e conta com grandes nomes do cinema francês no elenco, como a atriz Isabelle Huppert e o ator Reda Kateb.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/materia-belas-promessas.jpg?resize=4252%2C2835&amp;ssl=1\" alt=\"\" width=\"4252\" height=\"2835\" /><figcaption>Foto: Divulgação</figcaption></figure><p>Clémence (Isabelle Huppert) é a prefeita de uma cidade empobrecida localizada nos arredores da capital francesa .Decidida por abandonar a posição e largar a política, Clémence se vê numa situação conflituosa após receber a oportunidade de seguir atuando como membro do alto ministério francês, ao mesmo tempo que trabalha para reverter a grave situação de um conjunto habitacional da região. Com um perfil peculiar dentro do cenário político local, a prefeita faz o máximo para manter um mandato honesto e competente durante os últimos momentos no cargo.</p><p>O que deveria ser uma peça esclarecedora sobre o cotidiano político, pode acabar confundindo mais ainda quem a assiste. Não foi preciso mais do que a cena de introdução para que fosse apresentado ao espectador, uma sequência de diálogos complexos e cheios de uma terminologia não tão costumeira sobre os mais variados temas que envolvem todo o sistema de política do país.</p><p>Esse fator dificulta até mesmo o entendimento dos eventos que a narrativa constrói, porque a relação de introdução dos personagens centrais da trama com o público é completamente afetada pela linguagem maçante que o roteiro não hesita em apresentar.</p><p>O resultado dessa decisão é uma sequência de momentos que não conseguem transmitir a importância que possuem, sobre personagens deslocados e quase desconhecidos para quem os assiste. Até mesmo o clímax da história é prejudicado pelo monótono da ambientação e pela frieza dos políticos, que fazem com que a curiosidade em saber das decisões e consequências da personagem principal, não exista.</p><p>“Belas Promessas” tem capacidade de funcionar para um público bem específico. A política aqui não é representada pela disputa de poder e ascensão, e sim por um retrato rotineiro de figuras políticas e suas relações com a ambição, lealdade e todas as suas ações. O filme é distribuído pela Pandora Filmes e chega aos cinemas brasileiros no dia 02 de março.</p><p><strong>Confira o trailler!</strong></p><figure><iframe src=\"https://www.youtube.com/embed/5VEhMhSb72Q?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p><br><em>Bruno Barros – 3° período</em></p></main>"
+  },
+  "date": "2023-03-02T16:30:08",
+  "date_gmt": "2023-03-02T19:30:08",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Belas Promessas”, dirigido por Thomas Kruithof, traz de volta a temática recorrente de suas produções: os jogos políticos e os peões que os protagonizam. Entusiasmado pela pauta, o cineasta evidencia o interesse pela política no novo longa que expõe aprofundadamente todas as maquinações dos bastidores e o cotidiano de quem faz essa engrenagem rodar. O filme foi exibido na mostra Horizonte do Festival de Veneza e no Festival do Rio no ano de 2021 e conta com grandes nomes do cinema francês no elenco, como a atriz Isabelle Huppert e o ator Reda Kateb. </p>\n"
+  },
+  "featured_media": 14193,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14188"
+  },
+  "id": 14188,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/capa-belas-promessas.jpg?fit=4252%2C2835&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3GQ",
+  "link": "https://agenciauvabarra.com/2023/03/02/agencia-uva-barra-assistiu-belas-promessas/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-02T16:30:08",
+  "modified_gmt": "2023-03-02T19:30:08",
+  "ping_status": "open",
+  "slug": "agencia-uva-barra-assistiu-belas-promessas",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056592,
+    8714,
+    17563,
+    767056595
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Agência UVA Barra Assistiu: Belas Promessas"
+  },
+  "type": "post"
+}

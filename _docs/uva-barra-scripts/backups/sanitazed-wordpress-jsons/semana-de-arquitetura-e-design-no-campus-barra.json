@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1548/revisions/3277",
+        "id": 3277
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1548"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1548",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1548/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1548"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/1547"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1548",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1548",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-1548",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>A terceira edição da Semana de Arquitetura e Design da Universidade Veiga de Almeida Campus Barra acontecerá entre os dias 23 e 27 de outubro e vai contar com palestras e workshops para os alunos do curso. Além da programação regular, a semana ainda conta com o Viradão Cultural, que acontecerá das 18h do dia 27 até as 06h da manhã do dia 28. Os eventos são uma oportunidade para alunos complementarem suas formações acadêmicas e adquirir conhecimento fora da sala de aula.</p><p>Entretanto, não apenas os alunos de Arquitetura e Design poderão comparecer às palestras e ao Viradão Cultural. O evento é integrado também com os cursos de Comunicação (Jornalismo e Publicidade), Design Gráfico e de Interiores, Moda e Arquitetura e Urbanismo. Segundo a Diretora Acadêmica do Campus, Nara Iwata, essa é a intenção do evento. “Os alunos de todos os cursos estão convidados a participar. Tudo é muito integrado e multidisciplinar, como eu acredito que um ambiente universitário deve ser”. Além da multidisciplinaridade, o evento também é visto pelos alunos como uma oportunidade para o futuro.</p><p>Segundo o aluno do quarto período de Design Gráfico, Guilherme Fischer, eventos como esse são grandes oportunidades de networking. “Minha principal expectativa para a Semana de Arquitetura e Design é criar contatos que possam me ajudar a ingressar no mercado de trabalho”. Já para o Viradão Cultural, a expectativa dos alunos também é alta. Para o aluno do 6º período de Publicidade Alerson Sousa, o “Viradão” é uma oportunidade de obter novos aprendizados. “Eventos culturais são sempre bons para adquirir novos conhecimentos, até mesmo de uma forma menos opressiva que a sala de aula comum pode acabar causando”.</p><p>Além disso, para a Diretora Acadêmica do campus Nara Iwata, o Viradão tem o objetivo de fazer com que os alunos tenham a oportunidade de explorar o campus. “A ideia é que os alunos possam vivenciar o campus além das aulas e redescobrir o espaço”. Na programação, terão atividades culturais como palestras, oficinas, shows musicais, debates e exibições de filmes, mas, segundo Nara, a intenção é explorar qualquer forma de lazer proposta pelos alunos. “Por isso, teremos também jogos RPG e de tabuleiro, meditação e até uma corrida de rua pela ciclovia do canal Marapendi”. Espero que seja um sucesso e a primeira de muitas edições”.</p><p><i><b>Lizandra Rios, 6° período / Nailson Ribeiro, 6° período</b></i></p></main>"
+  },
+  "date": "2017-10-21T14:27:10",
+  "date_gmt": "2017-10-21T16:27:10",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Dedicado a todos os alunos, evento incentiva a multidisciplinaridade de cursos</p>\n"
+  },
+  "featured_media": 1547,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/2017/10/21/semana-de-arquitetura-e-design-no-campus-barra/"
+  },
+  "id": 1548,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2017/10/fb_img_1508602848823.jpg?fit=960%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-oY",
+  "link": "https://agenciauvabarra.com/2017/10/21/semana-de-arquitetura-e-design-no-campus-barra/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-28T16:16:04",
+  "modified_gmt": "2019-02-28T19:16:04",
+  "ping_status": "open",
+  "slug": "semana-de-arquitetura-e-design-no-campus-barra",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Semana de Arquitetura e Design no Campus Barra"
+  },
+  "type": "post"
+}

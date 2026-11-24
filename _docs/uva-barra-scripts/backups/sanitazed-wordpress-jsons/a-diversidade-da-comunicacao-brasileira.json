@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2639/revisions/4517",
+        "id": 4517
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=2639"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2639",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/2639/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=2639"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/2640"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=2639",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=2639",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2366
+  ],
+  "class_list": [
+    "post-2639",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos",
+    "tag-agencia-uva-barra",
+    "tag-colaboramerica-2018",
+    "tag-comunicacao",
+    "tag-dear-publicidade-people",
+    "tag-fundicao-progresso",
+    "tag-o-futuro-da-comunicacao-chegou-e-agora"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O futuro da comunicação foi discutido com profissionais e o público</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-13-at-12-09-19.jpeg?resize=1280%2C960&amp;ssl=1\" alt=\"WhatsApp Image 2018-11-13 at 12.09.19\" width=\"1280\" height=\"960\"><figcaption>Daniela Orofino, Marcela Lisboa, Martini e Vagner Soares participaram do debate “O futuro da comunicação chegou. É agora?” – Foto: Ana carolina Marinho</figcaption></figure><p>As constantes mudanças na comunicação foram pauta do ColaborAmerica, que aconteceu na Fundição Progresso durantes os dias 9 e 10 de novembro. A discussão questionou o rumo das agências brasileiras. “O futuro da comunicação chegou. É agora?” apresentou um debate com comunicadores para repensar a diversidade no jornalismo e a publicidade no Brasil.</p><p>Autor do movimento “Dear publicidade people” Vagner Soares acredita que a mudança do mercado deve ser de dentro pra fora. Ao descobrir que somente 3,5% dos publicitários em agências são negros, começou a questionar o porque disso. “Não falta pessoas para eles contratarem, isso acontece por falta de vontade, eles precisam ampliar o conhecimento”</p><p>Inovação no trabalho não deve ser só uma palavra da moda. A palestrante Daniela Orofino disse que futuros comunicadores precisam de criatividade e um olhar mais aberto para a sociedade. Daniela trabalhou por quatro anos na equipe de comunicação do deputado estadual Marcelo Freixo e lá se redescobriu na profissão. “É preciso amar e fazer aquilo que nós acreditamos e fugir do modo tradicional da comunicação”.</p><p>A jornalista e educadora Mariana Oquix diz que no momento delicado que o país vive, existe uma dificuldade de incluir vozes diversas em reportagens e propagandas. “Eu vejo o futuro da comunicação com uma pluralidade de profissionais e um jornalismo saudável”, disse.</p><p><strong>Ana Carolina Marinho – 6° período | Jornalismo</strong></p></main>"
+  },
+  "date": "2018-11-13T13:41:43",
+  "date_gmt": "2018-11-13T15:41:43",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>O futuro da comunicação foi discutido com profissionais e o público As constantes mudanças na comunicação foram pauta do ColaborAmerica, que aconteceu na Fundição Progresso durantes os dias 9 e 10 de novembro. A discussão questionou o rumo das agências brasileiras. “O futuro da comunicação chegou. É agora?” apresentou um debate com comunicadores para repensar [&hellip;]</p>\n"
+  },
+  "featured_media": 2640,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=2639"
+  },
+  "id": 2639,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/11/whatsapp-image-2018-11-13-at-12-09-19.jpeg?fit=1280%2C960&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-Gz",
+  "link": "https://agenciauvabarra.com/2018/11/13/a-diversidade-da-comunicacao-brasileira/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-06-28T11:32:05",
+  "modified_gmt": "2019-06-28T14:32:05",
+  "ping_status": "open",
+  "slug": "a-diversidade-da-comunicacao-brasileira",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    653894139,
+    46245,
+    653935424,
+    2730733,
+    653935425
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A diversidade da comunicação brasileira"
+  },
+  "type": "post"
+}

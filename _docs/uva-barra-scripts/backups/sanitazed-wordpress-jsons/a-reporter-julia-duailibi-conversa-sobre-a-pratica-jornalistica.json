@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10107/revisions/10310",
+        "id": 10310
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=10107"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10107",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 15,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/10107/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=10107"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/10121"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=10107",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=10107",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    858951,
+    670411728,
+    14603
+  ],
+  "class_list": [
+    "post-10107",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-eventos-internos",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>A palestra abordou sobre desinformação, apuração e desafios da profissão</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/foto-da-palestra-2.png?fit=749%2C421&amp;ssl=1\" alt=\"foto da palestra (2)\" width=\"749\" height=\"421\" /><figcaption>Insistir nos processos de seleção e focar no modelo formalizado foram uma das dicas transmitidas por Julia Duailibi. Foto: Reprodução</figcaption></figure><p>A jornalista Julia Duailibi participou da live “Encontro com Profissionais de Jornalismo” na segunda, 27/09, palestrando para os alunos dos campus Barra, Tijuca e Cabo Frio da Universidade Veiga de Almeida.</p><p>Julia é Âncora e Comentarista da Globo News, além de ser integrante do programa “Papo de Política” com Natuza Nery e Maria Júlia Coutinho. Ela começou a carreira como estagiária da chefia de reportagem na Rede Bandeirantes (Band) com o jornalista Paulo Henrique Amorim. “Foi uma escola fundamental”, contou Julia.</p><p>Estágio, mercado e prática jornalística, esses foram alguns dos temas abordados na live virtual. Na conversa, Julia destacou o valor positivo desse primeiro contato dos estagiários com o mercado de trabalho. Para a repórter, o estágio é uma oportunidade de treinar a futura profissão. Além disso, a comentarista política falou sobre o cenário da desinformação e reforçou a importância da prática de apuração e do contato com as fontes.</p><blockquote>“Não mudou o meu modo de fazer jornalismo. Faço a checagem, ouço o outro lado e sempre tenho um cuidado com a informação” – Julia Duailibi</blockquote><p>De entrevistadora a entrevistada. Os universitários perguntaram sobre como se preparar para o jornalismo na prática, visto o contexto em que jornalistas, principalmente mulheres, sofrem com ataques ultimamente. Julia reafirmou como é uma época difícil para exercer a profissão, porém destacou que todo repórter deve ter o exercício da leitura pluralizada e o domínio de uma área de interesse.</p><p><strong>Julia Duailibi fala sobre a melhor maneira para projetar-se no mercado de trabalho jornalístico no áudio seguinte:</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1133118925&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Julia Duailibi fala sobre a melhor maneira para projetar-se no mercado de trabalho jornalístico by Agência UVA Barra\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></figure><p>O aluno Lucas Souza está no 6º período de Jornalismo na UVA e participou da reunião. O estudante disse que acompanha o trabalho de Julia Duailibi através da Globo News e pela versão do Papo de Política no podcast. “A Julia sempre utiliza uma linguagem acessível e ao mesmo tempo transmite muito conhecimento. Tento me inspirar nela nesse sentido, na hora de escrever um trabalho para faculdade ou no meu estágio”, revelou Lucas.</p><p>A palestra foi mediada por Eduardo Bianchi, professor do curso de Comunicação Social da Universidade, e teve duração de aproximadamente uma hora. Para Bianchi, aproveitar o conhecimento dos palestrantes é o que move a reunião. “A gente realiza o encontro para que nossos alunos possam ter outras experiências, narrativas e contatos com profissionais que estão em destaque no mercado. É um momento de muita troca e vem dos dois lados”, explicou o professor.</p><p>Receber profissionais é uma chance de olhar para o futuro, como também, conhecer como funciona o dia-a-dia nas empresas jornalísticas. O encontro trouxe dicas sobre como se conduzir ou proceder diante das notícias, mas todo repórter deve ter a sensibilidade diante do fato.</p><p><em>Pedro Amorim – 5º período</em></p></main>"
+  },
+  "date": "2021-09-30T12:09:14",
+  "date_gmt": "2021-09-30T15:09:14",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A jornalista Julia Duailibi participou da live “Encontro com Profissionais de Jornalismo”, na segunda, 27/09, palestrando para os alunos dos campus Barra, Tijuca e Cabo Frio da Universidade Veiga de Almeida.  </p>\n"
+  },
+  "featured_media": 10121,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=10107"
+  },
+  "id": 10107,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/09/img_8102.jpg?fit=760%2C714&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2D1",
+  "link": "https://agenciauvabarra.com/2021/09/30/a-reporter-julia-duailibi-conversa-sobre-a-pratica-jornalistica/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-10-14T18:48:18",
+  "modified_gmt": "2021-10-14T21:48:18",
+  "ping_status": "open",
+  "slug": "a-reporter-julia-duailibi-conversa-sobre-a-pratica-jornalistica",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308
+  ],
+  "template": "",
+  "title": {
+    "rendered": "A repórter Julia Duailibi conversa sobre a prática jornalística"
+  },
+  "type": "post"
+}

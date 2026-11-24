@@ -1,0 +1,167 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3849/revisions/3859",
+        "id": 3859
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=3849"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3849",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/3849/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=3849"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/3855"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=3849",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=3849",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    670411728
+  ],
+  "class_list": [
+    "post-3849",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional-uva",
+    "tag-agencia-uva-barra",
+    "tag-nutricao",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Alimentação e atividades físicas são temas abordados no programa</em></p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/unnamed-2.jpg?resize=512%2C396&amp;ssl=1\" alt=\"\" width=\"512\" height=\"396\"><figcaption>Avaliação nutricional com base na altura, peso e circunferências do corpo – Foto: Kaliane Trindade</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/unnamed-1.jpg?resize=512%2C435&amp;ssl=1\" alt=\"\" width=\"512\" height=\"435\"><figcaption>Alunas de nutrição recebem orientações do professor – Foto: Kaliane Trindade</figcaption></figure><p>O projeto de extensão Núcleo de Alunos em Saúde Coletiva (NASC) realizou o programa “Nutrição em movimento” para os estudantes, professores e funcionários da Universidade Veiga de Almeida, campus Barra, na última quarta-feira (24). O intuito é mostrar a necessidade de cuidar do corpo e estar bem consigo mesmo para viver em boas condições e a prevenção de problemas futuros. </p><p>A atividade foi realizada por estudantes de Nutrição que puderam aprender na prática, a teoria aplicada em sala. O procedimento de avaliação tem como objetivo medir as dimensões corporais (a estatura, o peso, as dobras cutâneas e os perímetros) e com a combinação desses dados, o profissional pode calcular o percentual de gordura, além de estimar a prescrição nutricional adequada.</p><p> O estudo prático teve a supervisão do professor Sérgio Lima. “O projeto faz parte de diversas tarefas da disciplina de avaliação nutricional, na qual os alunos aprendem a fazer não só as avaliações físicas, de composição corporal, mas também planejam o consumo alimentar e as características de saúde relacionados com a nutrição”, informa o professor. </p><p>O projeto NASC permite que os alunos tenham uma pequena vivência profissional dentro da faculdade com o auxílio dos professores, antes de entrar no mercado de trabalho. “A melhor maneira é fazendo esses eventos que chamam a atenção de um público externo e diversificado, no qual tem o perfil de corpo variado e que ajuda a gente a testar alguns tipos de exames no paciente, nesse caso, nos voluntários”, diz o também professor de Nutrição Gustavo Chicaybam que aproveitou o evento para fazer a avaliação.</p><figure class=\"aligncenter\"><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/unnamed-3.jpg?fit=410%2C512&amp;ssl=1\" alt=\"\" width=\"410\" height=\"512\"><figcaption><br><em>Estudantes da Universidade Veiga de Almeida foram voluntários do programa “Nutrição em movimento” –  Foto: Kaliane Trindade</em><br></figcaption></figure><p>A inspiração desse programa veio do filme de Patch Adams, médico norte-americano. No longa, o personagem compartilha que teve contato com a prática na área da saúde apenas no segundo ano de faculdade. “Então nesse projeto, os alunos estão inseridos desde o primeiro período da graduação e eles tem a possibilidades de se envolver para poder atuar”, conta a professora e coordenadora do Núcleo, Cinara Oliveira.</p><p>A relevância de saber os dados do exame para que a pessoa se sinta bem e possa se alimentar cada vez melhor é essencial para controlar os exageros comuns na alimentação diária. A aluna de nutrição Ludimila Batista (4º período), que participou da atividade, fala que “a avaliação é importante para conhecermos o nosso corpo”. Além disso, ela pontua que não deve se basear apenas nas medidas, a questão da refeição saudável e do bem-estar também é necessária.</p><p> A Universidade Veiga de Almeida, através do “Nutrição em movimento”, pôde gerar um ambiente de saúde e promover a importância da boa alimentação com a prática de exercícios e, principalmente, entender o valor do papel da faculdade em gerar informações que possam estimular essa mudança no estilo de vida não só dos alunos, como de toda a comunidade acadêmica. </p><figure><div><iframe src=\"https://www.youtube.com/embed/G_vxiybcuYY?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p>.</p><p><strong>Kaliane Trindade – 5º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2019-04-27T17:22:49",
+  "date_gmt": "2019-04-27T20:22:49",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Alimentação e atividades físicas são temas abordados no programa O projeto de extensão Núcleo de Alunos em Saúde Coletiva (NASC) realizou o programa “Nutrição em movimento” para os estudantes, professores e funcionários da Universidade Veiga de Almeida, campus Barra, na última quarta-feira (24). O intuito é mostrar a necessidade de cuidar do corpo e estar [&hellip;]</p>\n"
+  },
+  "featured_media": 3855,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=3849"
+  },
+  "id": 3849,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2019/04/unnamed-1-1.jpg?fit=512%2C435&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-105",
+  "link": "https://agenciauvabarra.com/2019/04/27/curso-de-nutricao-promove-saude-no-ambiente-academico/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-04-27T17:44:46",
+  "modified_gmt": "2019-04-27T20:44:46",
+  "ping_status": "open",
+  "slug": "curso-de-nutricao-promove-saude-no-ambiente-academico",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056604,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Curso de Nutrição promove saúde no ambiente acadêmico"
+  },
+  "type": "post"
+}

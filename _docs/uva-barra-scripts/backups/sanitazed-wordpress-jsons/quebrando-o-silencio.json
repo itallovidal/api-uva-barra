@@ -1,0 +1,183 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15304/revisions/15311",
+        "id": 15311
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=15304"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15304",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/15304/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=15304"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/15316"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=15304",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=15304",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    597,
+    35004455,
+    866752,
+    21243,
+    33026
+  ],
+  "class_list": [
+    "post-15304",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cinema",
+    "category-comportamento-2",
+    "category-saude-mental",
+    "category-seguranca",
+    "category-violencia",
+    "tag-abuso",
+    "tag-agencia-uva-barra",
+    "tag-contra",
+    "tag-mulheres",
+    "tag-quebrando",
+    "tag-silencio",
+    "tag-violencia-2"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>O grupo formado por Ingrid Ponciano, Filipe Alejandro, Maiara Maria, Gabriela Fernandes, Mariana Fernandes, Felipe Santana, André Britto e Luara Rangel fala sobre o ODS 5: Igualdade de Gênero, e abordar o tópico 5.2, que fala sobre Eliminar todas as formas de violência contra todas as mulheres e meninas nas esferas públicas e privadas, incluindo o tráfico e exploração sexual e de outros tipos.</p><p>“Quebrando o Silêncio” apresenta a história em busca de justiça de Isabella, estudante que sofre assédio dentro da própria casa, por um amigo da família. Na série, Ricardo mora há 6 anos fora do Brasil e volta ao país para vender uma casa. Sem lugar para se hospedar, ele aceita o convite dos amigos para passar alguns dias por lá, até que se depara com a beleza de Isabella.</p><p>Entre olhares maldosos e carinhos disfarçados, Isabella percebe que o “tio” tinha mudado. A série aborda um tema delicado e discute a importância da denúncia.</p><figure><iframe src='https://www.youtube.com/embed/m-yus02vv7E' width='640' height='360' title='Vídeo incorporado' allowfullscreen></iframe></figure><p><em>Produto produzido para a disciplina de Escrita Criativa e Storytelling, sob a supervisão do professor Anderson Barreto.</em></p></main>"
+  },
+  "date": "2023-07-11T18:04:34",
+  "date_gmt": "2023-07-11T21:04:34",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>“Quebrando o Silêncio” apresenta a história em busca de justiça de Isabella, estudante que sofre assédio dentro da própria casa, por um amigo da família. Na série, Ricardo mora há 6 anos fora do Brasil e volta ao país para vender uma casa. Sem lugar para se hospedar, ele aceita o convite dos amigos para passar alguns dias por lá, até que se depara com a beleza de Isabella.</p>\n"
+  },
+  "featured_media": 15316,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=15304"
+  },
+  "id": 15304,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/07/whatsapp-image-2023-07-11-at-18.12.38.jpeg?fit=1366%2C708&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3YQ",
+  "link": "https://agenciauvabarra.com/2023/07/11/quebrando-o-silencio/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-07-11T18:15:22",
+  "modified_gmt": "2023-07-11T21:15:22",
+  "ping_status": "open",
+  "slug": "quebrando-o-silencio",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    525022,
+    648221465,
+    216526,
+    15254,
+    4246930,
+    148864,
+    34959529
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Quebrando o silêncio"
+  },
+  "type": "post"
+}

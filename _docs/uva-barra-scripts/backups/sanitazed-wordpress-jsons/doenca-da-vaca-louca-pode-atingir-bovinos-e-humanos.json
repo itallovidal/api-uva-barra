@@ -1,0 +1,181 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14214/revisions/14238",
+        "id": 14238
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=14214"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14214",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/14214/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=14214"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/14224"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=14214",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=14214",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    11716206,
+    15243,
+    72064
+  ],
+  "class_list": [
+    "post-14214",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-economia-2",
+    "category-meio-ambiente",
+    "category-saude",
+    "tag-agencia-uva-barra",
+    "tag-bovinos",
+    "tag-carne",
+    "tag-china",
+    "tag-ciencia-2",
+    "tag-saude",
+    "tag-vacalouca"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Caso registrado no Brasil atinge a economia de exportação de carnes do país</em></p><p>A Encefalopatia Espongiforme Bovina, também conhecida como “Vaca Louca”, é uma anomalia causada por uma proteína anormal, que atinge o sistema nervoso dos animais, causando mudanças comportamentais e contaminação na carne que será consumida pelos humanos posteriormente. Em fevereiro deste ano, o Brasil registrou um caso desta doença em uma vaca no estado do Pará, e as exportações de carnes bovinas para a China foram suspensas.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/foto-romulo.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>“Tribos canibalistas inteiras já foram contaminadas pela doença da “vaca louca” na versão humana”, afirma o professor. (Foto: Igor Concolato)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/foto-luis.jpg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\"><figcaption>Para Luís, o mercado brasileiro não deve ser muito afetado por essa suspensão temporária das exportações. (Foto: Arquivo pessoal)</figcaption></figure><p>O problema atinge a economia e causa temor em relação ao consumo de carne. Existem duas maneiras para os bovinos contraírem esta doença: O coordenador do curso de Biomedicina da UVA Barra, Rômulo Galvani, diz que existem duas formas dessa doença se manifestar, uma de forma “típica” e outra de forma “atípica”.</p><p>No vídeo abaixo, o professor explica essas diferenças:</p><figure><div><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/ieHDJdSxd94?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></div></figure><p>O caso que aconteceu no Brasil foi diagnosticado como a forma “Atípica” da doença, o que geralmente está ligado à velhice dos animais. “Essa forma acaba gerando um problema menor, porque quando detectado, o animal será eutanasiado e não é passado para os outros, pois ninguém irá ingerir essa proteína defeituosa”, afirma o professor Rômulo.</p><p>A “vaca louca” é causada a partir de uma proteína estranha e com um formato diferente, chamada de príon ou proteína priônica. A transmissão para os seres humanos ocorre quando uma pessoa faz a ingestão da carne bovina que está contaminada, desta forma se tornando um portador da doença. “A proteína priônica tem a capacidade de modificar outras proteínas, e transformá-las em proteínas ruins que vão propagar essa doença no ser humano”, afirma o coordenador.</p><p>GOVERNO BRASILEIRO SUSPENDEU EXPORTAÇÕES DE CARNE BOVINA PARA A CHINA</p><p>Após a confirmação do caso da doença em um boi no estado do Pará pelo Ministério da Agricultura, houve uma suspensão automática, já prevista em acordo para casos como esse, da exportação da carne bovina brasileira para a China. Apesar da confirmação de ter sido apenas um caso isolado da doença, o governo brasileiro precisa cumprir os protocolos sanitários necessários para a reabertura deste mercado.</p><p>Essa medida poderia trazer algumas consequências para a economia do Brasil. O economista Luís Macahyba explicou quais os possíveis impactos desta suspensão para o mercado exportador brasileiro. Ouça abaixo:</p><figure><div><iframe loading=\"lazy\" title=\"Economista explica o impacto da suspensão para o mercado exportador brasileiro by Agência UVA Barra\" width=\"500\" height=\"400\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1466158321&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\"></iframe></div></figure><p>De alguma maneira, a redução de venda da carne bovina para o exterior poderia acarretar em uma maior oferta para o mercado interno, causando uma baixa de preço nos mercado brasileiro. Mas segundo Luís, isso não deve acontecer: “O preço da carne é formado por um conjunto de fatores. Por exemplo, nos períodos de chuva, quando diminui a área de pastagem, os produtores são obrigados a usar mais insumos, o que aumenta o custo de produção”, afirma o economista.</p><p>O animal contaminado pela “vaca louca” foi sacrificado, o caso já foi controlado e o governo brasileiro só precisa enviar a documentação correta para a China e espera retomar as exportações ainda no mês de março.</p><p>Igor Concolato – 3° período</p></main>"
+  },
+  "date": "2023-03-10T16:43:17",
+  "date_gmt": "2023-03-10T19:43:17",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A Encefalopatia Espongiforme Bovina, também conhecida como “Vaca Louca”, é uma anomalia causada por uma proteína anormal, que atinge o sistema nervoso dos animais, causando mudanças comportamentais e contaminação na carne que será consumida pelos humanos posteriormente. Em fevereiro deste ano, o Brasil registrou um caso desta doença em uma vaca no estado do Pará, e as exportações de carnes bovinas para a China foram suspensas. </p>\n"
+  },
+  "featured_media": 14224,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=14214"
+  },
+  "id": 14214,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/03/foto-de-capa.jpg?fit=1281%2C1920&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-3Hg",
+  "link": "https://agenciauvabarra.com/2023/03/10/doenca-da-vaca-louca-pode-atingir-bovinos-e-humanos/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-03-12T20:16:46",
+  "modified_gmt": "2023-03-12T23:16:46",
+  "ping_status": "open",
+  "slug": "doenca-da-vaca-louca-pode-atingir-bovinos-e-humanos",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    1581475,
+    5947,
+    1470,
+    12543076,
+    767056622,
+    138401479
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Doença da &#8220;vaca louca&#8221; pode atingir bovinos e humanos"
+  },
+  "type": "post"
+}

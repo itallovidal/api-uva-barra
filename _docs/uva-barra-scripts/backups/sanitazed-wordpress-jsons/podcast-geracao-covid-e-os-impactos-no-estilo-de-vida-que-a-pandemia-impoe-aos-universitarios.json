@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9829/revisions/9833",
+        "id": 9833
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9829"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9829",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9829/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9829"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9831"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9829",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9829",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    17964,
+    701438832,
+    72064
+  ],
+  "class_list": [
+    "post-9829",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-educacao",
+    "category-radio-uva-barra",
+    "category-saude",
+    "tag-geracao-covid",
+    "tag-podcast"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><figure><iframe title=\"Spotify Embed: Geração Covid: os impactos no estilo de vida que a pandemia impõe aos universitários\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/4r3PkS27BNfVvjEoOXY8jM?si=261a989f4fd6451a&#038;utm_source=oembed\"></iframe></figure><p>Mais de um ano após a Organização Mundial da Saúde decretar a pandemia do novo coronavírus, as mudanças sociais passaram a fazer parte da rotina de todas as gerações. Uso da máscara e do álcool em gel, o distanciamento social no convívio diário, além de abraços e eventos interrompidos.</p><p>No ensino, há uma grande parcela de alunos que ainda não voltaram ao presencial. A Geração Covid, termo que especialistas identificam como parte etária que está enfrentando a virtualização dos estudos e sofrem também com a questão da saúde mental, segue para o quarto semestre de ensino remoto.</p><p>Nossos repórteres conversaram com Anderson Moraes, estudante de direito da Universidade Federal do Rio de Janeiro, e com a psicóloga Clarice Medeiros, coordenadora do Serviço de Psicologia Aplicada da Universidade Veiga de Almeida para entender os caminhos que essa geração está inserida.</p><p>Juliana Machado – 5º Período</p><p>Lavínia Barros – 5º Período</p><p>Maria Guilhermina Rabelo – 4º Período</p><p>Pedro Amorim – 4º Período</p><p>Victor Avila – 4º Período</p></main>"
+  },
+  "date": "2021-07-20T16:45:43",
+  "date_gmt": "2021-07-20T19:45:43",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Mais de um ano após a Organização Mundial da Saúde decretar a pandemia do novo coronavírus, as mudanças sociais passaram a fazer parte da rotina de todas as gerações. Uso da máscara e do álcool em gel, o distanciamento social no convívio diário, além de abraços e eventos interrompidos.</p>\n"
+  },
+  "featured_media": 9831,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9829"
+  },
+  "id": 9829,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/07/podcast-covid-geracaocapa-site-agencia.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2yx",
+  "link": "https://agenciauvabarra.com/2021/07/20/podcast-geracao-covid-e-os-impactos-no-estilo-de-vida-que-a-pandemia-impoe-aos-universitarios/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-07-20T16:45:43",
+  "modified_gmt": "2021-07-20T19:45:43",
+  "ping_status": "open",
+  "slug": "podcast-geracao-covid-e-os-impactos-no-estilo-de-vida-que-a-pandemia-impoe-aos-universitarios",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    716323365,
+    1142
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Podcast: Geração Covid e os impactos no estilo de vida que a pandemia impõe aos universitários"
+  },
+  "type": "post"
+}

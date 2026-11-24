@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8296/revisions/8301",
+        "id": 8301
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8296"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8296",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8296/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8296"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8299"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8296",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8296",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    701438832,
+    72064,
+    268277
+  ],
+  "class_list": [
+    "post-8296",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-radio-uva-barra",
+    "category-saude",
+    "category-solidariedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Pandemia prejudicou os estoques de hemocentros</em></p><iframe src='https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F937760317&auto_play=false&hide_related=false&visual=false&show_comments=true&show_user=true&show_reposts=false&color=ff5500' width='100%' height='166' title='SoundCloud Player' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture' allowfullscreen></iframe><p>O Brasil é referência em doação de sangue na América Latina e em outros continentes. Anualmente, são coletadas cerca de 3,6 milhões de bolsas de sangue, o que corresponde a um índice de 1,8% da população. Embora esse percentual esteja dentro dos parâmetros da Organização Mundial de Saúde (OMS), ainda é preciso conscientizar as pessoas para que os bancos de sangue não tenham déficit de doadores.</p><p>Para que mais brasileiros possam exercer a solidariedade algumas medida tiveram que ser tomadas, como reduzir a idade mínima para 16 anos (com autorização do responsável), e aumentar a idade máxima de 67 para 69 anos, e em alguns estados há também a isenção da taxa de inscrição para alguns concursos públicos, como é o caso de São Paulo e o Distrito Federal.</p><p>Com a pandemia as doações tiveram uma grande queda, segundo o Ministério da Saúde, no hemocentro mais antigo do Brasil, em Porto Alegre, a queda chegou a 40%. Em maio, o número de bolsas despencou de 7 mil para 4,2 mil. A situação se agravou mais em instituições como o INCA do Rio de Janeiro e Fundação Pró-Sangue (SP), onde se atingiu um déficit de 50% nas bolsas de sangue.</p><p>O podcast abre a discussão sobre a importância da doação de sangue e traz um pouco da história da Hannata Mendes que recebeu sangue, relatos do Paulo Roberto sobre a sensação de poder ajudar a quem precisa e a presença da hematologista, Jennifer Ribeiro.</p><p></p><p><em>Iago Eloi – 6º período</em><em>Fernando Pieroni – 6º período</em></p></main>"
+  },
+  "date": "2020-11-28T16:34:56",
+  "date_gmt": "2020-11-28T19:34:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Pandemia prejudicou os estoques de hemocentros Rádio UVA Barra · Podcast Radio UVA Barra – A Importância De Doar Sangue – S02 EP13 O Brasil é referência em doação de sangue na América Latina e em outros continentes. Anualmente, são coletadas cerca de 3,6 milhões de bolsas de sangue, o que corresponde a um índice [&hellip;]</p>\n"
+  },
+  "featured_media": 8299,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8296"
+  },
+  "id": 8296,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/11/21-aub.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-29O",
+  "link": "https://agenciauvabarra.com/2020/11/28/brasil-teve-queda-na-doacao-de-sangue/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-11-28T16:51:30",
+  "modified_gmt": "2020-11-28T19:51:30",
+  "ping_status": "open",
+  "slug": "brasil-teve-queda-na-doacao-de-sangue",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Podcast Radio UVA Barra – A Importância De Doar Sangue – S02 EP13"
+  },
+  "type": "post"
+}

@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19285/revisions/19320",
+        "id": 19320
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=19285"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19285",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/19285/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=19285"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/19317"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=19285",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=19285",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    23208,
+    2366,
+    670411728,
+    14603,
+    39479,
+    6669656
+  ],
+  "class_list": [
+    "post-19285",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-entretenimento",
+    "category-eventos",
+    "category-institucional-uva",
+    "category-jornalismo",
+    "category-publicidade",
+    "category-secom",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p>Ocorreu nesta sexta feira dia (26) O último dia da CECOM na universidade veiga de almeida, onde o fotógrafo Ratão Diniz, veio ao campus Barra para mostrar seu trabalho, que tem como foco mostrar a realidade dos moradores de espaços populares, não só do Rio de janeiro, mas pelo Brasil todo.</p><p>A palestra apresenta uma visão diferente do que temos em nossa concepção de espaço periférico, em seus trabalhos Ratão transmite um elo de conexão entre o fotógrafo e quem vai receber a foto, que é importante para quebrar os estereótipos que a sociedade tem em relação a essas localidades, para tentar tirar o estigma de lugares violentos e perigosos. “a fotografia ela na minha compreensão muito a partir de um grande mestre João Roberto Ripper ele fala de uma importância que a fotografia tem em criar um elo de bem querer entre quem faz a foto e quem recebe”</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/whatsapp-image-2025-10-06-at-15.15.37-2.jpeg?resize=1600%2C900&amp;ssl=1\" alt=\"\" width=\"1600\" height=\"900\" /><figcaption>Ratão Diniz – palestrante</figcaption></figure><p>Outro ponto tratado na palestra, foram as dificuldades que os profissionais da área tem hoje, com foco principal na questão monetária, de ter equipamentos para exercer a profissão, tendo em vista seu alto custo, dinheiro esse que vem do bolso do próprio fotógrafo, que além de ter bons equipamentos para trabalhar, ainda tem que se preocupar com outras adversidades, como logística, transporte e segurança “A dificuldade que a gente encontra na fotografia é a financeira, a gente não é herdeiro, então todo dia acordo cedo pensando como vou pagar as contas”.</p><p>Ratão também comentou sobre a experiência de compartilhar seu material para os alunos, trazer as experiências de mundo que sua profissão proporciona, trazendo uma visão diferente do que hoje temos, através de suas fotografias. “Poder estar em sala de aula trocando com vocês, pensando que um dias vocês podem ser colegas de profissão, e que um dia vamos nos esbarrar e compartilhar nossas experiências, e mostrar essas paisagens que poucos conhecem”</p><p>Os alunos comentaram sobre a apresentação, enaltecendo o trabalho do professor, e a mensagem que o próprio quis transmitir, como fiz a aluna do segundo período de jornalismo Malu Zamba “ A palestra foi muito bom por mostrar o olhar da fotografia, além da foto, ele mostrou para a gente várias cenas com luzes diferentes, e que todas remeteram as lembranças dele, e qual o impacto social que essas fotografia tem na sociedade” .</p><p>A estudante Ana Beatriz, do segundo período de Cinema e Audiovisual, contou que saiu tocada após assistir à palestra do fotógrafo Ratão. Ela se disse encantada com a sensibilidade do trabalho dele, principalmente pela maneira como utiliza a fotografia para revelar novos olhares sobre realidades pouco valorizadas. “Eu acho o trabalho dele muito bonito, o jeito que ele lida com a fotografia e busca trazer novos olhares para coisas que não são tão vistas ou valorizadas”, afirmou. Inspirada pela experiência, Ana destacou que deseja levar para o audiovisual essa mesma essência, dando visibilidade às favelas, às máscaras e às culturas nordestinas.</p><p>Murilo – 2º Período</p></main>"
+  },
+  "date": "2025-10-06T15:20:28",
+  "date_gmt": "2025-10-06T18:20:28",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>A palestra apresenta uma visão diferente do que temos em nossa concepção de espaço periférico</p>\n"
+  },
+  "featured_media": 19317,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=19285"
+  },
+  "id": 19285,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2025/10/whatsapp-image-2025-10-06-at-15.15.37.jpeg?fit=1600%2C900&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-513",
+  "link": "https://agenciauvabarra.com/2025/10/06/secom-2025-fotodocumentario-e-a-visibilidade-do-sentimento-de-pertencimento-atraves-da-fotografia/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2025-10-06T15:20:28",
+  "modified_gmt": "2025-10-06T18:20:28",
+  "ping_status": "open",
+  "slug": "secom-2025-fotodocumentario-e-a-visibilidade-do-sentimento-de-pertencimento-atraves-da-fotografia",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "SECOM 2025: Fotodocumentário e a visibilidade do sentimento de pertencimento através da fotografia"
+  },
+  "type": "post"
+}

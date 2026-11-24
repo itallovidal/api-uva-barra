@@ -1,0 +1,162 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8560/revisions/8570",
+        "id": 8570
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=8560"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8560",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/8560/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=8560"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/8565"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=8560",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=8560",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2431,
+    2367,
+    701438832
+  ],
+  "class_list": [
+    "post-8560",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-artes",
+    "category-cultura",
+    "category-radio-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Os bastidores de Caramelo, o doguinho carioca</em></p><p>A segunda história a fazer parte da temporada de podseries 2021 da Rádio UVA Barra foi “Caramelo, o doguinho carioca”. A jornada começa com o resgate de um vira-lata cor de caramelo no subúrbio da cidade do Rio de Janeiro. A chegada do cachorro na casa da família Silva desencadeia uma série de eventos que mudam a vida daquelas pessoas.</p><p>O podcast ficcional foi desenvolvido para a disciplina “Escrita criativa: narrativas”, durante a pandemia. O desafio da idealização da narrativa e a produção em si foram somados ao distanciamento social que fez com que os integrantes do grupo tivessem que tomar todas as decisões de forma virtualizada.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/whatsapp-image-2021-01-20-at-19.08.32.jpeg?resize=720%2C904&amp;ssl=1\" alt=\"\" width=\"720\" height=\"904\"><figcaption>Ariane Viana, estudante de jornalismo, teve que superar as adversidades e se reinventar junto da equipe para que o projeto saísse do papel. “No final deu tudo certo”. Foto: arquivo pessoal</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/whatsapp-image-2021-01-22-at-09.13.52-e1611343513781.jpeg?resize=720%2C434&amp;ssl=1\" alt=\"\" width=\"720\" height=\"434\"><figcaption>“Foi super divertido, mas também uma loucura”, diz Mariah Fernanda, aluna de Publicidade e Propaganda, sobre o processo de criação do podcast. Foto: arquivo pessoal.</figcaption></figure><p>Para Ariane Viana, aluna de jornalismo do campus Cabo Frio, o distanciamento foi um obstáculo que precisou de muito esforço e organização para ser superado. Além disso, ela relatou que conciliar esse trabalho com outras disciplinas também foi um desafio. “A gente começou a se reunir três vezes por dia pra poder terminar a tempo, mas no final deu tudo certo. Eu acho que acaba fortalecendo a gente”, contou.</p><p>A força da qual Ariane fala pode ser útil na vida dos profissionais de comunicação que estão ingressando no mercado de trabalho. Mariah Fernanda Souza Sá, aluna de Publicidade e Propaganda do campus Cabo Frio, acredita que passar por esse processo foi crucial para que ela pudesse conhecer novas possibilidades dentro da comunicação.</p><p><strong>Ouça o áudio de Mariah Fernanda sobre expandir os horizontes</strong></p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F970723741&amp;auto_play=true&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"166\" title=\"Agência UVA Barra · Mariah Fernanda fala sobre expandir os horizontes\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>A história de “Caramelo, o doguinho carioca” trouxe para o ouvinte questões sobre a vida no subúrbio do Rio e pautas como LGBTfobia, transtorno de ansiedade e relacionamentos abusivos. Confira os links dessa história:</p><iframe src=\"https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1173173347&amp;auto_play=true&amp;hide_related=false&amp;visual=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;color=ff5500\" width=\"100%\" height=\"450\" title=\"Caramelo, o doguinho carioca. · Temporada 1.\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p><em>Rafaela Barbosa – 8º período</em></p></main>"
+  },
+  "date": "2021-01-22T15:53:56",
+  "date_gmt": "2021-01-22T18:53:56",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os bastidores de&nbsp; “Caramelo, o doguinho carioca” A segunda história a fazer parte da temporada de podseries 2021 da Rádio UVA Barra foi “Caramelo, o doguinho carioca”. A jornada começa com o resgate de um vira-lata cor de caramelo no subúrbio da cidade do Rio de Janeiro. A chegada do cachorro na casa da família [&hellip;]</p>\n"
+  },
+  "featured_media": 8565,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=8560"
+  },
+  "id": 8560,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/01/p2.bastidores.png?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2e4",
+  "link": "https://agenciauvabarra.com/2021/01/22/a-criacao-de-narrativa-ficcional-2/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-01-22T16:29:07",
+  "modified_gmt": "2021-01-22T19:29:07",
+  "ping_status": "open",
+  "slug": "a-criacao-de-narrativa-ficcional-2",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "A criação de narrativa ficcional"
+  },
+  "type": "post"
+}

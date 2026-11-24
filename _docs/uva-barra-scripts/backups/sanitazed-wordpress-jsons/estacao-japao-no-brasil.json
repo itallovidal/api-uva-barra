@@ -1,0 +1,153 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1776/revisions/3216",
+        "id": 3216
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=1776"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1776",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/1776/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=1776"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=1776",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=1776",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    2367,
+    2366
+  ],
+  "class_list": [
+    "post-1776",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-cultura",
+    "category-eventos"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><h4><em>Evento reúne tradições japonesas no Riocentro no fim de semana</em></h4><figure><img src='https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2018/03/japan-140.jpg?resize=5184%2C3456&#038;ssl=1' alt='Japan-140' /><figcaption>Créditos: Brenda Martins</figcaption></figure><p>Os principais atrativos dos japoneses estacionam na Zona Oeste. O encontro <em>Japan</em> Festival – Rio <em>Matsuri</em> é pela comemoração aos 110 anos da imigração japonesa no Brasil. O evento que iniciou na sexta-feira (09/03), no Riocentro, Barra da Tijuca, oferece uma série de atividades voltadas para esse mundo oriental. Danças, músicas e outras apresentações artísticas fazem parte do repertório.</p><p>Dentre essas apresentações se destaca a dançarina Lilian Eiko, que nasceu no Rio. O objetivo de participar desse encontro é levar um pouco da dança dos asiáticos para as pessoas. A professora que também já passou pela Alemanha e Argentina com a Dança Circular, típica dessas regiões, sente-se realizada por fazer o que ama. Além disso, afirma que mantém certas regras, desde o início da carreira. &#8220;Tento conciliar a disciplina do Japão com o molejo carioca&#8221;, brinca.</p><p>Quem apoia essa mistura de dança dos continentes é a diretora Shirley Atsumi da Associação Nikkei. A representante cultural da instituição, com sede no Cosme Velho, ficou entusiasmada por exibir características do país de origem. &#8220;Tenho orgulho de vê-la representar a cultura japonesa para um público tão diferenciado&#8221;, declara ao defender a bandeira da igualdade entre as nações. O mundo dos animes também se fez presente dentro das diversas exposições espalhadas no pavilhão.</p><p>Por acompanhar as histórias dentro dos animes e quadrinhos o estudante Lucas Souza, 16 anos, revela ser fã desde pequeno. &#8220;Eu sempre gostei de mangás e animes, mas também gosto de escutar as músicas que fazem sucesso aqui no Brasil&#8221;. Já a dona de casa Solange Dias foi além. &#8220;Sou louca pelas gravuras desde pequena, hoje sigo a religião budista&#8221;.</p><p>A exibição dos desenhos não é a única atração. Outras atividades artísticas acontecem simultaneamente. Em mais de 100 estandes organizados dentro do pavilhão, destacam-se os <em>workshops</em>, palestras. O desfile de <em>cosplayers</em> também alegrou os diversos públicos, desde crianças até a terceira idade, vestidos com trajes de personagens famosos, nesse domingo de encerramento (11/03).</p><p><strong>Karina de Figueiredo, 4º período.</strong></p></main>"
+  },
+  "date": "2018-03-11T22:13:16",
+  "date_gmt": "2018-03-12T01:13:16",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Evento reúne tradições japonesas no Riocentro no fim de semana</p>\n"
+  },
+  "featured_media": 0,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=1776"
+  },
+  "id": 1776,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-sE",
+  "link": "https://agenciauvabarra.com/2018/03/11/estacao-japao-no-brasil/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2019-02-25T21:28:13",
+  "modified_gmt": "2019-02-26T00:28:13",
+  "ping_status": "open",
+  "slug": "estacao-japao-no-brasil",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Estação Japão no Brasil"
+  },
+  "type": "post"
+}

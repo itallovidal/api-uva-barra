@@ -1,0 +1,175 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9531/revisions/9556",
+        "id": 9556
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=9531"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9531",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 20,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/9531/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=9531"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/9552"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=9531",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=9531",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1704,
+    72064,
+    7114
+  ],
+  "class_list": [
+    "post-9531",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-gastronomia",
+    "category-saude",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-jornalismo",
+    "tag-nutricao",
+    "tag-rotina-saudavel",
+    "tag-se-alimentar-bem",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Através de novos hábitos, Camila e Jaqueline transformaram a vida</em></p><p>De acordo com o guia alimentar para a população brasileira, divulgado pelo Ministério da Saúde, ter uma alimentação balanceada representa uma forte condição para manter a saúde e bem-estar do corpo. O consumo regular de frutas, verduras e legumes diminui as chances de doenças crônicas. Entretanto, a alimentação saudável não é o único requisito capaz de transformar a mente e o corpo. A inserção de bons hábitos na rotina, como atividades físicas regulares, são atrativos que capacitam uma boa qualidade de vida.</p><p>A nutricionista Lucia Kurdian destaca que para iniciar novos hábitos é necessário consumir alimentos saudáveis no dia-a-dia, mas pontua, que não haja nenhum tipo de restrição ou excesso, já que a insuficiência ou o exagero são prejudiciais à saúde. “Está claro e comprovado que devemos adotar hábitos alimentares saudáveis e adequados. Conseguimos este objetivo com uma dieta variada que contém todos os princípios nutritivos”, afirma Lucia.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-lucia.jpeg?resize=768%2C1024&amp;ssl=1\" alt=\"\" width=\"768\" height=\"1024\" /><figcaption>Lucia enfatiza que alimentos não saudáveis devem ser evitados, como os produtos ultraprocessados (Foto: Arquivo Pessoal)</figcaption></figure><p>Os primeiros passos para a transformação de costumes alimentares não são simples e exigem muita disciplina. A secretária Camila Mattos, de 35 anos, conta que decidiu modificar a rotina após apresentar alterações significativas no exame de sangue. Além disso, a falta de disposição a impossibilitava de acompanhar o ritmo acelerado da maternidade.</p><blockquote><p><em>“Eu tive uma bebê há pouco tempo e dificultava muito para interagir com ela. Eu ficava sempre muito ofegante e cansada rápido, então decidi mudar minha rotina alimentar, pela minha qualidade de vida e pela minha filha.”</em></p><cite>Camila Mattos</cite></blockquote><p>Atualmente, Camila tem uma rotina saudável devido a ingestão de alimentos nutritivos, consumo ideal da quantidade de água, e a prática de exercícios diários. Segundo a secretária, a relação com ela mesma mudou após focar em bons hábitos. Hoje ela tem autoestima e muita disposição para brincar com a filha e cumprir as atividades durante o dia. “Me sinto mais disposta para tudo, é muito bom se sentir bem em todas as questões’’, conta.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-camila.jpeg?resize=829%2C1030&amp;ssl=1\" alt=\"\" width=\"829\" height=\"1030\" /><figcaption>Camila explica que só comia Fast Food e que a alimentação não era saudável. Hoje ela tem práticas que diferem muito das suas anteriores, mas sem se restringir (Foto: Arquivo Pessoal)</figcaption></figure><p>Jaqueline Siqueira, de 47 anos, decidiu, assim como Camila, modificar os hábitos e transformar o estilo de vida após enfrentar a depressão e a síndrome de pânico. A professora conta que também apresentava outros problemas sérios de saúde, principalmente no estômago, com suspeita de gastrite e refluxo, motivadas pelo consumo de alimentos inadequados. Todas as vezes que se sentia triste, Jaqueline encontrava uma forma de descontar na saúde de seu corpo.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-jaqueline.jpeg?resize=688%2C1280&amp;ssl=1\" alt=\"\" width=\"688\" height=\"1280\" /><figcaption>Jaqueline conta que além de foco, é necessário um planejamento para que alcance um bom estilo de vida (Foto: Arquivo pessoal)</figcaption></figure><p>Segundo Jaqueline, o processo de mudança se tornou mais simples já que a família a apoiou e optou por acompanhar as novas práticas. Com a assistência familiar, ajuda psicológica e a implementação de hábitos positivos, como a prática regular de exercícios físicos e alimentação sem grandes restrições e excessos na rotina, a professora conseguiu superar os antigos problemas e reconstruir a autoestima. E ainda enfatiza que atualmente vivencia um ótimo momento na sua saúde mental e corporal.</p><blockquote><p><em>“Hoje eu tenho um estilo de vida saudável, não só em relação à alimentação, mas sim na busca pela melhor versão de mim.”</em></p><cite>Jaqueline Siqueira</cite></blockquote><p>A psicóloga Iver Paula informa que atividades físicas e boa alimentação despertam alterações no cérebro que podem ajudar a tratar depressão e ansiedade. Contudo, uma vida saudável também envolve outros hábitos que são indispensáveis para a harmonia do corpo e da mente, como boas amizades, qualidade do sono e psicoterapia, que juntas, caminham para uma boa saúde mental. “Em determinados casos, gosto de orientar o cliente a lançar mão de três ferramentas: a psicoterapia, a psiquiatria e a atividade física, com três pilares, o processo de cura se torna muito mais completo”, conta Iver.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-iver-paula.jpeg?resize=1080%2C1262&amp;ssl=1\" alt=\"\" width=\"1080\" height=\"1262\" /><figcaption> “Uma vida saudável envolve um todo, é necessário que nossa qualidade de vida envolva nossas emoções”, diz Iver Paula (Foto: Arquivo Pessoal)</figcaption></figure><p>Independente das dificuldades apresentadas, Camila e Jaqueline transformaram a rotina e implementaram novos hábitos. Além de alcançarem melhorias nas condições físicas do corpo, elas também conquistaram evoluções significativas no emocional e na forma que se enxergam. Com pequenas mudanças, hoje, elas conseguem olhar para o passado e se alegram por atingirem uma boa saúde e qualidade de vida.</p><p><em>Virgínia Carvalho- 3º período</em></p><p><em>Ana Beatriz Rangel- 3 período</em></p></main>"
+  },
+  "date": "2021-06-10T18:24:05",
+  "date_gmt": "2021-06-10T21:24:05",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p> O consumo regular de frutas, verduras e legumes diminui as chances de doenças crônicas. Entretanto, a alimentação saudável não é o único requisito capaz de transformar a mente e o corpo. A inserção de bons hábitos na rotina, como atividades físicas regulares, são atrativos que capacitam uma boa qualidade de vida.</p>\n"
+  },
+  "featured_media": 9552,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=9531"
+  },
+  "id": 9531,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/06/foto-capa-blog-materia.jpeg?fit=1080%2C1080&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2tJ",
+  "link": "https://agenciauvabarra.com/2021/06/10/rotina-saudavel-promove-mudancas-positivas-no-corpo-e-na-mente/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-06-10T19:50:17",
+  "modified_gmt": "2021-06-10T22:50:17",
+  "ping_status": "open",
+  "slug": "rotina-saudavel-promove-mudancas-positivas-no-corpo-e-na-mente",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    767056611,
+    767056604,
+    25304897,
+    31637609,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Rotina saudável promove mudanças positivas no corpo e na mente"
+  },
+  "type": "post"
+}

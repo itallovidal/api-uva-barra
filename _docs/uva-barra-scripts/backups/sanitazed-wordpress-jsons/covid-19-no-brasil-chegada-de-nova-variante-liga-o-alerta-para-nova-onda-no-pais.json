@@ -1,0 +1,171 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11005/revisions/11023",
+        "id": 11023
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=11005"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11005",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 12,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/11005/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=11005"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/11022"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=11005",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=11005",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    3213,
+    35004455,
+    1899315,
+    7114
+  ],
+  "class_list": [
+    "post-11005",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-ciencia",
+    "category-comportamento-2",
+    "category-coronavirus",
+    "category-sociedade",
+    "tag-agencia-uva-barra",
+    "tag-universidade-veiga-de-almeida",
+    "tag-uva-barra"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>Especialista acredita que o momento não é de pânico, mas a prevenção deve continuar acontecendo</em></p><p>Os últimos dias de 2021 se aproximam e trazem consigo expectativas e incertezas. A vacinação em massa e a chegada das festas de fim de ano demonstram um provável desfecho para o longo período de luta travada contra a Covid-19. No entanto, enquanto parte do povo espera pelas reuniões familiares e comemorações à beira da praia, outros ligam novamente o alerta para uma possível nova onda do vírus no Brasil, como ocorre atualmente em diversos países mundo afora.</p><p>De acordo com o último boletim da Covid-19, divulgado pelo observatório da Fundação Oswaldo Cruz e que utiliza dados coletados das secretarias e do Sistema Único de Saúde (SUS), o cenário epidêmico brasileiro é “favorável”. A probabilidade de novos casos graves é baixa: o estudo indica que apenas cinco das vinte e sete unidades federativas do Brasil apresentam tendência de crescimento à longo prazo de casos graves, chamados de Síndrome Respiratória Aguda Grave (SRAG). Dessa forma, é importante que a vacinação continue e mantenha o seu objetivo, que é a redução do impacto e a diminuição de óbitos por corona vírus.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/larroca.jpg?resize=778%2C1024&amp;ssl=1\" alt=\"\" width=\"778\" height=\"1024\"><figcaption>O Imunologista Raphael Larroca acredita que a pandemia só será controlada com a proteção da máscara, a vacina, e a não aglomeração. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/nathan.jpg?resize=640%2C724&amp;ssl=1\" alt=\"\" width=\"640\" height=\"724\"><figcaption>Nathan Sacramento é um dos jovens que, após as duas doses da vacina, relaxou nas medidas preventivas anti Covid-19. (Foto: Redes Sociais)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/isaac-e1639599290321.jpg?resize=1068%2C1047&amp;ssl=1\" alt=\"\" width=\"1068\" height=\"1047\"><figcaption>Por ser do setor de saúde, Isaac teve sua imunização completa antes da população geral. Mesmo assim, até hoje, mantém os mesmos cuidados do início da pandemia. (Foto: Redes Sociais)</figcaption></figure><p>Pensando nisso, a Prefeitura do Rio de Janeiro passou a exigir o passaporte vacinal em novos locais, como bares, restaurantes e lanchonetes. Apesar da medida, a liberação de máscaras em locais abertos continua; os cariocas só não podem, pela lei, andar sem máscara em locais fechados e transportes. No entanto, quem utiliza os ônibus, metrôs e trens da cidade no dia a dia, diz que a recomendação não é cumprida corretamente.</p><p>É o caso de Isaac Júnior, de 46 anos. Um dos poucos do seu convívio a manter os cuidados contra a Covid-19, ele diz que todos os dias faz o trajeto de casa para o trabalho no transporte público e é comum ver a maior parte das pessoas sem máscara no ônibus. Não bastasse a falta de proteção dos passageiros, ele conta ainda que ocasionalmente até o motorista do ônibus está desprotegido. “É um desrespeito com a lei e com todas as vidas perdidas. Quem deveria dar o bom exemplo e incentivar o uso da máscara, desdenha da eficácia e coloca outras pessoas em risco”, conta. </p><p>Por trabalhar no setor de saúde, ainda no início do período vacinal, Isaac recebeu as duas doses da vacina antecipadamente. No entanto, a imunização não o fez relaxar e abdicar das medidas de prevenção. “O hospital por si só já é propício para contaminações e infecções, então ando sempre com meu álcool em gel, e por mais que os estudos e relatórios indiquem melhora, vou manter os meus cuidados até estar cem por cento seguro”, diz. </p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/nathan1.jpg?resize=715%2C636&amp;ssl=1\" alt=\"\" width=\"715\" height=\"636\"><figcaption>Nathan Sacramento participa ativamente de eventos e luta pelos direitos à moradia e alimento para a população de rua. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/nathan2-e1639599604582.jpg?resize=720%2C632&amp;ssl=1\" alt=\"\" width=\"720\" height=\"632\"><figcaption>Nathan conta que a luta para ajudar quem precisa foi uma das poucas coisas que o tirou de casa durante a pandemia. (Foto: Arquivo Pessoal)</figcaption></figure><p>Quem retoma a rotina normal aos poucos, mas também sem abdicar totalmente da prevenção é Nathan de Assis. O desenvolvedor de softwares de 21 anos cumpriu estritamente a quarentena durante os últimos vinte e quatro meses, mas confessa que após receber a segunda dose da vacina anti-Covid, há pouco mais de duas semanas, afrouxou as medidas de prevenção. “Já me reúno com alguns amigos, jogo futebol e faço caminhadas ao ar livre sem máscara. Mas, quando estou aglomerado com pessoas desconhecidas, mantenho a proteção”, fala. </p><p>A preocupação com aglomerações, no entanto, é por um motivo nobre. Militante ativo pela democracia e igualdade e direito a serviços básicos à população, como moradia e alimento, Nathan conta que apesar de algumas manifestações acontecerem normalmente, ele não se sentia seguro no meio de tanta gente reunida. “A gente sabe que a máscara previne e evita a propagação do vírus, mas sem a imunização total eu não queria arriscar. Na época eu ainda morava com meus pais, e isso também influenciava muito”, afirma. </p><p>Apesar do clima ser aparentemente favorável, o Brasil tem um novo problema para se preocupar. Originária da África do Sul, a nova variante Ômicron tem um alto número de mutações – cerca de 50 – e ligou o alerta mundial. Mas, por ser uma descoberta recente, as informações estão limitadas e são preliminares. Mesmo assim, os estudos indicam que seja a variante com a maior taxa de transmissão dentre as existentes. São Paulo e Rio de Janeiro já contam com suspeitas de infecções por Ômicron. </p><p>O Imunologista Doutor Rafael Larroca diz que a chegada da nova variante traz o aviso de cautela que o Brasil precisava. Segundo ele, mesmo com a boa taxa de cerca de 64% da população vacinada, as pessoas estavam relaxando e criando um ambiente “confortável” de pandemia totalmente controlada, o que não é totalmente verdade. </p><p><strong>Ouça abaixo a explicação do doutor Rafael Larroca sobre a situação atual da Covid-19 no Brasil e no mundo.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1178494606&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" title=\"Doutor Rafael Larroca explica sobre a situação atual da Covid-19 no Brasil e no mundo. by Agência UVA Barra\" width=\"500\" height=\"400\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen></iframe></figure><p>Larroca também ressalta o cuidado que se deve ter com as aglomerações durante as festas de fim de ano. Ele acredita que pedir para as pessoas não se reunirem nesse momento seria em vão, então aconselha que o façam da maneira mais segura possível. “Ao se reunir com a família e amigos, se organize entre pessoas vacinadas e dê preferência a locais abertos. Se possível, mantenha os idosos afastados por representarem um grupo mais vulnerável. Não vale a pena se expor tanto”, afirma. </p><p>Até porque, com tantas incertezas acerca da nova variante, é melhor não tentar contar com a sorte. Após dois anos de pandemia e mais de 650 mil mortes, ele acredita que o povo brasileiro sabe bem o que fazer: tomar vacina, usar máscara e não aglomerar!</p><p><em>Pedro José Alves – 8º período</em> </p></main>"
+  },
+  "date": "2021-12-15T17:35:16",
+  "date_gmt": "2021-12-15T20:35:16",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Os últimos dias de 2021 se aproximam e trazem consigo expectativas e incertezas. A vacinação em massa e a chegada das festas de fim de ano demonstram um provável desfecho para o longo período de luta travada contra a covid-19. No entanto, enquanto parte do povo espera pelas reuniões familiares e comemorações à beira da praia, outros ligam novamente o alerta para uma possível nova onda do vírus no Brasil, como ocorre atualmente em diversos países mundo afora.</p>\n"
+  },
+  "featured_media": 11022,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=11005"
+  },
+  "id": 11005,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2021/12/img_0385.jpg?fit=754%2C754&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-2Rv",
+  "link": "https://agenciauvabarra.com/2021/12/15/covid-19-no-brasil-chegada-de-nova-variante-liga-o-alerta-para-nova-onda-no-pais/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2021-12-15T17:35:16",
+  "modified_gmt": "2021-12-15T20:35:16",
+  "ping_status": "open",
+  "slug": "covid-19-no-brasil-chegada-de-nova-variante-liga-o-alerta-para-nova-onda-no-pais",
+  "status": "publish",
+  "sticky": false,
+  "tags": [
+    648221465,
+    5435308,
+    193805510
+  ],
+  "template": "",
+  "title": {
+    "rendered": "Covid-19 no Brasil: Chegada de nova variante liga o alerta para nova onda no país"
+  },
+  "type": "post"
+}

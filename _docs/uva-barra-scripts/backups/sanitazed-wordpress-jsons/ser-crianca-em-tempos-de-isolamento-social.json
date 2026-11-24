@@ -1,0 +1,160 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6361/revisions/6371",
+        "id": 6371
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=6361"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6361",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/6361/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=6361"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/6363"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=6361",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=6361",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    1899315,
+    7114
+  ],
+  "class_list": [
+    "post-6361",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-coronavirus",
+    "category-sociedade"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>As famílias que tem que lidar com as agitações da infância durante a quarentena</em></p></main><p>Acorda, pede mais cinco minutos de cochilo, escova os dentes, café da manhã e escola. Logo cedo já tem atividades, amigos e o recreio com brincadeiras. Essa era a rotina de inúmeras crianças antes da pandemia do novo coronavírus se espalhar pelo país. O fator isolamento social alterou a rotina das famílias brasileiras que precisaram se adaptar às novidades.</p><p>Miguel tem 4 anos. Tinha uma rotina bem estabelecida: escola, almoço, cochilo e curso de inglês. Gosta de passear, ir ao teatro e passar um tempo na casa da avó e da bisavó. Os pais, Vanessa e André, precisaram redobrar os cuidados com essa nova rotina, afinal o pequeno Miguel nem sempre entende. “Quando ele vê uma criança na rua, temos que segurar ele pela mão porque ele quer conversar e chegar perto”, conta.</p><figure class=\"aligncenter size-large is-resized\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" data-attachment-id=\"6364\" data-permalink=\"https://agenciauvabarra.com/2020/04/14/ser-crianca-em-tempos-de-isolamento-social/andre-oliveira-vanessaoliveira-e-miguel-oliveira-em-comemoracao-do-aniversario-de-miguel-durante-a-quarentena-arquivo-pessoa/\" data-orig-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/andrc3a9-oliveira-vanessaoliveira-e-miguel-oliveira-em-comemorac3a7c3a3o-do-aniversc3a1rio-de-miguel-durante-a-quarentena-arquivo-pessoa.jpeg?fit=956%2C590&amp;ssl=1\" data-orig-size=\"956,590\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1586878906&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}\" data-image-title=\"André Oliveira, VanessaOliveira e Miguel Oliveira em comemoração do aniversário de Miguel durante a quarentena &amp;#8211; arquivo pessoa\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;André Oliveira, VanessaOliveira e Miguel Oliveira em comemoração do aniversário de Miguel durante a quarentena &amp;#8211; Foto: Arquivo Pessoal&lt;/p&gt;\n\" data-large-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/andrc3a9-oliveira-vanessaoliveira-e-miguel-oliveira-em-comemorac3a7c3a3o-do-aniversc3a1rio-de-miguel-durante-a-quarentena-arquivo-pessoa.jpeg?fit=956%2C590&amp;ssl=1\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/andrc3a9-oliveira-vanessaoliveira-e-miguel-oliveira-em-comemorac3a7c3a3o-do-aniversc3a1rio-de-miguel-durante-a-quarentena-arquivo-pessoa.jpeg?resize=564%2C348&#038;ssl=1\" alt=\"\" class=\"wp-image-6364\" width=\"564\" height=\"348\" /><figcaption>André Oliveira, VanessaOliveira e Miguel Oliveira em comemoração do aniversário de Miguel durante a quarentena &#8211; Foto: Arquivo Pessoal</figcaption></figure><p>Para a psicopedagoga, Cristiane Guedes, a mudança na rotina pode provocar estresse. A dica, segundo ela, é criar padrões diários e fazer os pequenos entenderem a diferença entre isolamento e férias. Por isso, ter horário para dormir, brincar e estudar ainda é crucial. “Aos pais, cabe entender que o estresse gerado pelo isolamento neles, também é gerado nas crianças. É muito importante que se tenha cuidado e atenção ao entendimento comportamental da criança. Ela também deprime, se estressa e precisa de apoio”, alerta Cristiane.</p><p>Na família do Arthur, de 8 anos, a rotina ainda tem outro agravante: o pai, Thiago Telles, de 34 anos, trabalha em um hospital. Os cuidados em casa precisam ser maiores e Mara Santos, de 49, a mãe de Arthur, tenta criar estratégias para tornar o clima dentro de casa mais ameno. “A gente brinca junto com alguns jogos em casa e eu to sempre fazendo alguma atividade com ele porque não dá pra passar o tempo todo em videogame”, diz Mara.</p><figure class=\"aligncenter size-large is-resized\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" data-attachment-id=\"6366\" data-permalink=\"https://agenciauvabarra.com/2020/04/14/ser-crianca-em-tempos-de-isolamento-social/arthur-santos-fazendo-atividades-escolares-em-casa-durante-a-quarentena-arquivo-pessoal/\" data-orig-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/arthur-santos-fazendo-atividades-escolares-em-casa-durante-a-quarentena-arquivo-pessoal.jpeg?fit=578%2C476&amp;ssl=1\" data-orig-size=\"578,476\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1586880028&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}\" data-image-title=\"Arthur Santos fazendo atividades escolares em casa durante a quarentena &amp;#8211; arquivo pessoal\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;Arthur Santos faz atividades escolares em casa durante a quarentena &amp;#8211; Foto: Arquivo Pessoal&lt;/p&gt;\n\" data-large-file=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/arthur-santos-fazendo-atividades-escolares-em-casa-durante-a-quarentena-arquivo-pessoal.jpeg?fit=578%2C476&amp;ssl=1\" src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/arthur-santos-fazendo-atividades-escolares-em-casa-durante-a-quarentena-arquivo-pessoal.jpeg?resize=469%2C386&#038;ssl=1\" alt=\"\" class=\"wp-image-6366\" width=\"469\" height=\"386\" /><figcaption>Arthur Santos faz atividades escolares em casa durante a quarentena &#8211; Foto: Arquivo Pessoal</figcaption></figure><p>O que a família do Arthur faz é uma das recomendações da psicopedagoga, de que os jogos eletrônicos não devem ser uma ferramenta para que as crianças permaneçam distraídas por longo tempo. Segundo Cristiane, isso poderia provocar um isolamento em excesso das crianças e aumentar o estresse nesse período. Por isso, é importante que adultos e crianças usem da criatividade para passar por esse momento. “Aproveitar esse momento para literalmente estar com seus filhos” e complementa “nós podemos!”.</p><p><strong>Rafaela Barbosa &#8211; 7º Período | Jornalismo</strong></p></main>"
+  },
+  "date": "2020-04-14T22:13:59",
+  "date_gmt": "2020-04-15T01:13:59",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>As famílias que tem que lidar com as agitações da infância durante a quarentena Acorda, pede mais cinco minutos de cochilo, escova os dentes, café da manhã e escola. Logo cedo já tem atividades, amigos e o recreio com brincadeiras. Essa era a rotina de inúmeras crianças antes da pandemia do novo coronavírus se espalhar [&hellip;]</p>\n"
+  },
+  "featured_media": 6363,
+  "format": "standard",
+  "guid": {
+    "rendered": "http://agenciauvabarra.com/?p=6361"
+  },
+  "id": 6361,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2020/04/miguel-oliveira-arquivo-pessoal-e1586914020511.jpeg?fit=720%2C1014&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-1EB",
+  "link": "https://agenciauvabarra.com/2020/04/14/ser-crianca-em-tempos-de-isolamento-social/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2020-04-14T22:27:22",
+  "modified_gmt": "2020-04-15T01:27:22",
+  "ping_status": "open",
+  "slug": "ser-crianca-em-tempos-de-isolamento-social",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Ser criança em tempos de isolamento social"
+  },
+  "type": "post"
+}

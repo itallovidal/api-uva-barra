@@ -1,0 +1,158 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/users/119920666"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16085/revisions/16100",
+        "id": 16100
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/comments?post=16085"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16085",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 8,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/posts/16085/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media?parent=16085"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/media/16089"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/categories?post=16085",
+        "taxonomy": "category"
+      },
+      {
+        "embeddable": true,
+        "href": "https://agenciauvabarra.com/wp-json/wp/v2/tags?post=16085",
+        "taxonomy": "post_tag"
+      }
+    ]
+  },
+  "author": 119920666,
+  "categories": [
+    18330
+  ],
+  "class_list": [
+    "post-16085",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-institucional"
+  ],
+  "comment_status": "open",
+  "content": {
+    "protected": false,
+    "rendered": "<main id='materia'><p><em>O evento celebra o cinema brasileiro e internacional</em></p><p>Um espaço ao céu aberto com mais de 1.400 horas de filmes, com cerca de 640 sessões e com um público que ultrapassou a marca de 750 mil pessoas. O Vivo Open Air retorna ao Jockey Club Brasileiro para celebrar mais de duas décadas de trajetória. O local comporta 1.500 lugares, sendo 500 espreguiçadeiras e 1.000 assentos na arquibancada e tem pipoca liberada.</p><p>Os holofotes estão voltados à protagonista do evento, a tela que contém 325m², possuindo aproximadamente a largura do navio Titanic e a altura de um prédio de 4 andares. A super tela trará ao longo dos dias clássicos do cinema que se unem às mais recentes novidades nacionais e internacionais, como: Casablanca, O Iluminado, Barbie, Elementos, entre outros. O evento também vai homenagear os cineastas Guel Arraes, Martin Scorsese e Christopher Nolan.</p><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/super-tela-vibra-open-air.jpg?resize=3630%2C2783&amp;ssl=1\" alt=\"\" width=\"3630\" height=\"2783\"><figcaption>Super tela de cinema ao ar livre no Jockey Club Brasileiro. (Foto: Iago Bastos)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/espreguicadeiras-e-arquibancada-vibra-open-air.jpg?resize=3024%2C4032&amp;ssl=1\" alt=\"\" width=\"3024\" height=\"4032\"><figcaption>O Vibra Open Air conta com 1.500 lugares, sendo 1.000 assentos na arquibancada e 500 espreguiçadeiras. (Foto: Iago Bastos)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/renato-byington-socio-da-d3-producoes.jpg?resize=2034%2C2731&amp;ssl=1\" alt=\"\" width=\"2034\" height=\"2731\"><figcaption>Renato Byington, Sócio-diretor da D+3 Produções. (Foto: Iago Bastos)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/rodrigo-franca-cineasta.jpg?resize=3205%2C4808&amp;ssl=1\" alt=\"\" width=\"3205\" height=\"4808\"><figcaption>Rodrigo França, roteirista, cineasta e ator. (Foto: Arquivo Pessoal)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/vibra-open-air-cenario-2.jpg?resize=3022%2C2788&amp;ssl=1\" alt=\"\" width=\"3022\" height=\"2788\"><figcaption>Mural estampando os cartazes dos 23 filmes que vão ser exibidos durante todo o evento. (Foto: Iago Bastos)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/barbie-vibra-open-air.jpg?resize=3024%2C3008&amp;ssl=1\" alt=\"\" width=\"3024\" height=\"3008\"><figcaption>Adaptação do cenário do Filme Barbie. (Foto: Iago Bastos)</figcaption></figure><figure><img src=\"https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/ativacao-da-vibra-cenario.jpg?resize=3024%2C4032&amp;ssl=1\" alt=\"\" width=\"3024\" height=\"4032\"><figcaption>Adaptação do cenário do filme: Elis e Tom, Só Tinha de Ser com Você. (Foto: Iago Bastos)</figcaption></figure><p>Um dos organizadores do Vibra Open Air, o sócio-diretor da D+3 produções, Renato Byington, contou suas expectativas para o evento e ressaltou a contribuição para a cultura nacional. <strong>Confira no vídeo abaixo.</strong></p><figure><iframe src=\"https://www.youtube.com/embed/BJaArSKP3Zk?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><br>Além dos filmes, o evento conta com shows e uma gastronomia diversificada, para que o público possa aproveitar de diferentes maneiras o local. O espaço também desfruta de cenários característicos de filmes e um equipamento que conecta as pessoas, ao gerar uma imagem em uma tela conforme os batimentos cardíacos dos indivíduos.</p><figure><iframe src=\"https://www.youtube.com/embed/nNKksGuOat0?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=pt-BR&amp;autohide=2&amp;wmode=transparent\" width=\"640\" height=\"360\" title=\"Vídeo incorporado\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p><br>O primeiro dia do evento contou com a participação de atores, atrizes e cineastas que foram prestigiar a sétima arte. O diretor de cinema e teatro, Rodrigo França foi um deles, e trouxe a importância do evento para valorização do cinema nacional. <strong>Confira no áudio abaixo.</strong></p><figure><iframe src=\"https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1640104848&amp;show_artwork=true&amp;maxheight=750&amp;maxwidth=500\" width=\"500\" height=\"400\" title=\"Rodrigo França relata a importância do evento para valorização do cinema. by Agência UVA Barra\" frameborder=\"no\" allowfullscreen=\"true\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe></figure><p>A programação é de quarta a domingo e os horários de abertura e encerramento variam entre os dias, podendo começar às 16h e terminar às 4h da manhã. Em datas temáticas, como dia das crianças e sexta-feira 13, o evento traz conteúdos especializados, prometendo oferecer entretenimento e imersão ao público. A celebração da sétima arte ganha vida e traz um charme a cidade.</p><p><em>Iago Bastos – 8° período</em></p></main>"
+  },
+  "date": "2023-10-06T16:13:09",
+  "date_gmt": "2023-10-06T19:13:09",
+  "excerpt": {
+    "protected": false,
+    "rendered": "<p>Um espaço ao céu aberto com mais de 1.400 horas de filmes, com cerca de  640 sessões e com um público que ultrapassou a marca de 750 mil pessoas. O Vivo Open Air retorna ao Jockey Club Brasileiro para celebrar mais de duas décadas de trajetória. O local comporta 1.500 lugares, sendo 500 espreguiçadeiras e 1.000 assentos na arquibancada e tem pipoca liberada.  </p>\n"
+  },
+  "featured_media": 16089,
+  "format": "standard",
+  "guid": {
+    "rendered": "https://agenciauvabarra.com/?p=16085"
+  },
+  "id": 16085,
+  "jetpack-related-posts": [],
+  "jetpack_featured_media_url": "https://i0.wp.com/agenciauvabarra.com/wp-content/uploads/2023/10/espreguicadeiras-e-arquibancada-vibra-open-air.jpg?fit=3024%2C4032&ssl=1",
+  "jetpack_likes_enabled": true,
+  "jetpack_publicize_connections": [],
+  "jetpack_sharing_enabled": true,
+  "jetpack_shortlink": "https://wp.me/p8BGMb-4br",
+  "link": "https://agenciauvabarra.com/2023/10/06/vibra-open-air-comemora-21-anos-no-jockey-club-brasileiro/",
+  "meta": {
+    "_coblocks_accordion_ie_support": "",
+    "_coblocks_attr": "",
+    "_coblocks_dimensions": "",
+    "_coblocks_responsive_height": "",
+    "_crdt_document": "",
+    "_jetpack_dont_email_post_to_subs": false,
+    "_jetpack_feature_clip_id": 0,
+    "_jetpack_memberships_contains_paid_content": false,
+    "_jetpack_memberships_contains_paywalled_content": false,
+    "_jetpack_newsletter_access": "",
+    "_jetpack_newsletter_tier_id": 0,
+    "advanced_seo_description": "",
+    "footnotes": "",
+    "jetpack_post_was_ever_published": false,
+    "jetpack_publicize_feature_enabled": true,
+    "jetpack_publicize_message": "",
+    "jetpack_seo_html_title": "",
+    "jetpack_seo_noindex": false,
+    "jetpack_social_options": {
+      "image_generator_settings": {
+        "default_image_id": 0,
+        "enabled": false,
+        "font": "",
+        "template": "highway"
+      },
+      "version": 2
+    },
+    "jetpack_social_post_already_shared": false
+  },
+  "modified": "2023-10-13T16:44:03",
+  "modified_gmt": "2023-10-13T19:44:03",
+  "ping_status": "open",
+  "slug": "vibra-open-air-comemora-21-anos-no-jockey-club-brasileiro",
+  "status": "publish",
+  "sticky": false,
+  "tags": [],
+  "template": "",
+  "title": {
+    "rendered": "Vibra Open Air comemora 21 anos no Jockey Club Brasileiro "
+  },
+  "type": "post"
+}
